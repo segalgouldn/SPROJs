@@ -1,0 +1,2373 @@
+Bard College
+
+Bard Digital Commons
+Senior Projects Fall 2015
+
+Bard Undergraduate Senior Projects
+
+2015
+
+The Sympathetic Oppressor
+Irena Jaffe Goldstein
+Bard College
+
+Recommended Citation
+Jaffe Goldstein, Irena, "The Sympathetic Oppressor" (2015). Senior Projects Fall 2015. Paper 54.
+http://digitalcommons.bard.edu/senproj_f2015/54
+
+This Open Access is brought to you for free and open access by the Bard
+Undergraduate Senior Projects at Bard Digital Commons. It has been
+accepted for inclusion in Senior Projects Fall 2015 by an authorized
+administrator of Bard Digital Commons. For more information, please
+contact digitalcommons@bard.edu.
+
+The Sympathetic Oppressor
+Reading Álvar Núñez Cabeza de Vaca's Relación as Imperialist Literature
+
+Senior Project Submitted to
+The Division of Languages and Literature
+of Bard College
+
+by
+Irena Jaffe Goldstein
+
+Annandale-on-Hudson, New York
+November, 2015
+
+Acknowledgements
+
+To the trees, who became paper to print my project on, and whose ancestors were violently taken
+from people, so that my ancestors could flee their own forced displacement, and move to the
+Mid-West and Mid-Atlantic to work hard and save money, so that I could go to college, and
+write a Senior Project.
+
+Table of Contents
+
+1. Introduction____________________________________________1
+2. Chapter 1: Cabeza de Vaca’s False Multiculturalism____________9
+a. The Authorial Voice of Álvar Núñez Cabeza de Vaca and the Intentional
+Ambiguity in the Text
+b. The Chicano Cabeza de Vaca
+c. The Chicano Imperialist
+3. Chapter 2: Audience, Context, Text_________________________25
+a. The Intended Narrative of Colonial and Personal Success
+b. The Formation of the First Person Pronoun
+c. Publication History; or, for Whom the Text was Formed
+4. Chapter 3: Colonial Subjectivity___________________________53
+a.
+b.
+c.
+d.
+
+The Ethnographic Cabeza de Vaca
+Cabeza de Vaca’s Clear Eyes
+Different but not Sympathetic
+The Magical Real
+
+5. Conclusion____________________________________________76
+
+1
+
+Introduction
+
+Álvar Núñez Cabeza de Vaca describes, or rather does not describe, a disastrous situation
+in his Relación that occurs as Pánifilo de Narváez, the leader of the expedition, brings his crew to
+a place called Aute on the Florida peninsula: “Each one can imagine for himself what could
+happen in a land so strange and so poor and so lacking in every single thing that it seemed
+impossible either to be in it or to escape from it”.1 As one of the king’s treasury officials of the
+Narváez expedition, Cabeza de Vaca is supposed to report to the crown about the economic
+transactions that occur between Narváez and the Americans, the Spaniard’s acquisition of
+American lands, the conquest of American peoples, and also record information about land and
+peoples he encountered.2 Cabeza de Vaca was supposed to participate in imperialism by
+translating the New World into technical information and organize chaos of the unknown
+through language, so that other Spaniards would have a guide for using and settling the land. His
+reports were contingent on his understanding of himself as superior to the natives and
+subsequently having the right to conqueror and control Indian lands and peoples.
+This passage, however, presents a moment where the Spaniards assumed ability to
+conquer falls apart, and so do the ways in which Cabeza de Vaca understood the New World as
+
+1
+
+Rolena Adorno, Patrick Charles Pautz, and Alvar Núñez Cabeza de Vaca, The Narrative of Cabeza de Vaca
+(Lincoln, Neb.: University of Nebraska Press, 2003), f14v. All embedded quotes are from this edition. Instead of
+using normal page numbers I am using page numbers that indicate which page of the original 1542 manuscript the
+passages were found on. Really, I am preserving the work that Adorno and Puatz did in their translation of the text.
+They present the translation with the original pagination. Also, using the original pagination reminds us that we are
+reading a text written almost five hundred years ago. Finally, all embed quotes from the Relación are from this
+translation.
+2
+Fransico de los Cobos, "'Instructions Given to Cabeça de Vaca for his Observance as Treasurer to the King of
+Spain in the Army of Narváez For the Conquest of Florida,'" in Relation of Núñez Cabeza de Vaca, trans.
+Buckingham Smith, March of America Facsimile Series (Ann Arbor, Michagan: University Microfilms, 1871), 218222.
+
+2
+conquerable. Instead of relaying information in the passage above, he communicates the horror
+of the situation through silence; no words or discourse can describe the terror of the situation.
+The technical discourse of a treasurer and the language of superiority available to Cabeza de
+Vaca fail him and he has no words to deal with what happens to him. Yet, Cabeza de Vaca
+writes the Relación to the Crown and imperialist officials, so that he can gain promotion in the
+imperialist system. Without the imperialist discursive modes of comprehension, he must find a
+way to make the events comprehensible. The evocation of the readers’ imaginations allows
+Cabeza de Vaca to reconcile the distance between actual experience, which cannot communicate
+through discourse about conquests and what his Spanish audience wanted to read. Facts are
+delivered as reality, such as the identification of Aute as location of this disaster, and also as
+unreality, such as the reader’s imagination. Just from the one line about the reader’s
+imagination, the Relación presents a problematic reliance on the unreal to communicate reality.
+The text is a first hand account of the catastrophic Narváez expedition and provides
+practical information about an historical event and belongs in a chronological narrative about
+Spanish colonial ventures. Pánifilo Narváez, who would have been known for his failed attempt
+to stop Hernán Cortés’s invasion of Mexico-Tenochtitlán,3 petitioned the king for the charter to
+conquer and rule the Florida peninsula, the land that outlined the Gulf of Mexico, and the
+northern part of Mexico.4 In December 1526 the Council of Indies and Emperor signed off on
+the expedition, and Narváez received the title of adelantado, or military governor. The
+expedition departed from Seville in the spring of 1527.
+
+3
+
+Andrés Reséndez, A Land so Strange: The Epic Journey of Cabeza De Vaca : the Extraordinary Tale of a
+Shipwrecked Spaniard Who Walked across America in the Sixteenth Century (New York: Basic Books, 2007), 22-34
+4
+Panifilo, Narvaez, “Petitions of Narváez to the King of Spain, with Notes of Concessions Made to Him by the
+Council of Indias for the Conquest of Florida” in Relation of Núñez Cabeza de Vaca, trans. Buckingham Smith,
+March of America Facsimile Series (Ann Arbor, Michagan: University Microfilms, 1871), 207-210.
+
+3
+Cabeza de Vaca, a military man from Jerez de la Frontera, left as a royally appointed
+treasurer on the Narváez expedition with six hundred other Spaniards.5 Off the coast of Cuba the
+expedition met its first disaster losing sixty people in a hurricane. After this the navigator led the
+crew to the Florida peninsula instead of the mouth of the Rio de las Palmas in northern Mexico
+in the spring of 1528.6 Narváez leads part of the crew inland on foot away from the ships.
+Walking inland the men get completely separated from the ships and are stranded in the Florida
+peninsula. In a series of attempts to make it to the New Spain on the other side of the Gulf, about
+200-300 men lose their lives to disease, starvation, attacks by American Indians, and drowning.
+Only four men survive: Alonso del Castillo Maldonado, Andrés Dorantes de Carranza, Álvar
+Núñez Cabeza de Vaca, and Estevanico, a Moorish slave.
+Stranded on an island he names “Malhado”,7 which is probably Galveston Island off the
+northeast coast of Texas, he became a captive of the Capoque peoples, and then lived amongst
+the Chorrucos, a tribe on the Mexican mainland southeast of Galveston. During the six years
+that he was with the Capoque and Chorrucos he became a tradesman and a shaman.8 Cabeza de
+Vaca had to have known about trade routes and economic practices of the native groups in order
+to be a successful tradesman. Thus, Cabeza de Vaca not only lives amongst the native peoples,
+but he also learns the nuances of how these indigenous societies function. Eventually, Cabeza de
+
+5
+
+Reséndez, 44-46
+Resendez, 76- 82. Cabeza de Vaca does not point out this huge mistake in his Relacion. This is a notable omission,
+because he could have used this mistake to construe Narvaez as incompetent. Though we can only conjecture as to
+why he left this out, it does highlight the extent to which Cabeza de Vaca was making authorial decisions.
+7
+Rolena Adorno, Patrick Charles Pautz, and Alvar Nunez Cabeza de Vaca, Alvar Núnez Cabeza De Vaca: His
+Account, His Life, and the Expedition of Pánfilo De Narváez (Lincoln, Neb.: University of Nebraska Press, 1999), 3:
+106
+8
+Nan Goodman, "Mercantilism and Cultural Difference in Cabeza de Vaca's 'Relación,'" Early American literature
+40, no. 2 (2005): 203, accessed August 7, 2015, http://www.jstor.org/stable/25057398
+6
+
+4
+Vaca is able to figure out routes that would later lead him to west to Spanish territory in
+Mexico.9
+Cabeza de Vaca details these historical events after he returns to Spain from the New
+World in the remarkable narrative that is the Relación. Though Cabeza de Vaca writes the
+document based off earlier official accounts he wrote with the other survivors, his distance from
+the events, and his use of literary devices, such as narrative and allegory, bring up issues of the
+authenticity of his account and his authorial choices. Thus, we can examine the literary qualities
+of his text, questioning not only what he writes about, but also how he writes about his
+experiences; and, in particular how writes about his time in America for a Spanish audience.
+Considering his Spanish audience, Cabeza de Vaca’s authorial choices to detail disaster
+and his participation in native spiritual practices present us with a conundrum. He has
+experiences that present to the reader an alternative way for a Spaniard to understand his
+relationship to the New World and native peoples. Thus, the text is both a detailing of how his
+experience transforms Cabeza de Vaca’s subjectivity and the textual result of this new subject
+position. Yet, Cabeza de Vaca writes his text for King Charles V and other elite Spaniards, who
+were at the center of producing Spanish ideologies about Spanish and catholic superiority. In the
+passage I first point out, Cabeza de Vaca is reconciling the reality of colonial failure, the
+deterioration of understanding the Spaniards as capable conquerors, and the disruption discourse
+that is contingent on these ideas about Spanish superiority.
+This new subjectivity suggests that Cabeza de Vaca has a novel understanding of himself
+in relationship the outside world. Yet, he uses this unique subject position for his advantage in an
+imperialist context. He presents his novel understanding in a narrative that his Spanish audience
+
+9
+
+"The Negotiation of Fear in Cabeza de Vaca's Naufragios." Representations 33 (Winter 1991): 163-99. Accessed
+April 10, 2015, http://www.jstor.org/stable/2928762. In this essay Adorno suggests that
+
+5
+can comprehend. Thus, the literary qualities of his text make his new subjectivity not only
+accessible, but also appealing and valuable in Spain’s colonialist project. When Cabeza de Vaca
+crafts his text for a Spanish audience he molds his unique authorial voice into an imperialist
+voice. I am arguing that production of the literary—the use of metaphor, allegory, and
+narrative—occurs when Cabeza de Vaca negotiates the space between his novel subject position,
+which he develops during his experience in America, which Spanish rationality cannot
+comprehend, and the presentation of this novel subjectivity to a Spanish audience.
+In my first chapter I look at critics who identify Cabeza de Vaca as someone who
+develops a hybrid Spanish-Indian identity. In particular the critics Silvia Spitta10 and Juan BruceNovoa11 point to Cabeza de Vaca’s text as a foundational piece of Chicano/a literature. Placing
+him in a genealogy of Chicano literature suggests that the reader think about the Relación as an
+example of a man living with a hyphen identity reconciling his sense of belonging in two
+different cultures. I find this reading of Cabeza de Vaca’s text problematic, because the
+conversation about his hybridity coincides with calling him an anti-conquistador and sympathetic
+to the native peoples. Scenes where Cabeza de Vaca pictures his ability to communicate with
+natives are construed as examples of his sympathy for natives rather than demonstrations of his
+abilities to lead and pacify the natives. Furthermore, the conversation about Cabeza de Vaca as
+hybrid ignores Cabeza de Vaca’s writing about conversion, pacification, and the belief that the
+superiority of Spanish culture excused the Spaniard’s violent conquering and taking of land from
+Americans.
+
+10
+
+Silvia Spitta, "Shamanism and Christianity: The Transcultural Semiotics of Cabeza de Vaca's Naufragios," in
+Between Two Waters: Narratives of Transculturation in Latin America, by Silvia Spitta (College Station: Texas A &
+M University Press, 2006.
+11
+Juan Bruce-Novoa, "Shipwrecked in the Seas of Signification," in Reconstructing a Chicano/a Literary Heritage,
+ed. Maria Herrera-Sobek (Tucson, AZ: The University of Arizona Press, 1993)
+
+6
+In my second chapter, I turn the conversation away from thinking about the text in a
+genealogy of Chicano literature, and focus on the history of the document. First, I look at the
+story the text was supposed to tell, examining the goals of the Narváez expedition. I show
+through the extensive scholarship of Adorno and Pautz on the textual history of the Relación that
+scenes where Cabeza de Vaca acts as a shaman and seemingly participating in his hyphen
+identity are moments that Cabeza de Vaca adds to story to construct a picture of himself as a
+miraculous person.12 I then turn to the text’s publication history thinking about Cabeza de
+Vaca’s audience and how the details of his experience were shaped for the eyes and ears of
+Charles V, his court, and elite Spaniards. A conversation about the publication history also
+allows us to see how text, literature, and art were an integral part of Spanish colonialism. Cabeza
+de Vaca’s text was one of many accounts about the New World that were being circulated in
+Spanish book markets. The book market allowed him to present a text to the public that told a
+narrative of a remarkable individual.
+In my third chapter, I look to the parts of the text that seem void of a literary voice,
+which, as other scholars do, I call Cabeza de Vaca’s ethnographic voice. With this dry minimalist
+voice Cabeza de Vaca extensively details the native tribes and their way of life. These sections
+seem to poise a problem to my argument that the literary devices mediate incomprehensible
+experiences to a Spanish audience. However, I argue that these ethnographic sections are
+examples of Cabeza de Vaca’s novel subjectivity. I use Kathleen Donegan’s theory about the
+discourse of colonial catastrophe to show how recourse to normative European discourse falls
+apart in the face of unthinkable disastrous events.13 Also, as Donegan suggests, examining style
+allows us to think about the way in which people understood the world through discourse.
+12
+
+Adorno, Pautz, and Nunez Cabeza de Vaca, Alvar Núnez Cabeza De Vaca, 1
+Kathleen Donegan, Seasons of Misery: Catastrophe and Colonial Settlement in Early America (Philadelphia:
+University of Pennsylvania Press, 2014)
+13
+
+7
+Instead of thinking about encounters with cultural otherness as causing a dramatic shift in
+discourse and settlers’ understanding of themselves in relationship to the outside world, she
+articulates the notion that calamitous events shaped colonial identity and Europeans’
+comprehension of their selves. Using Donegan, I do not want to think about transformation as
+enlightenment, but rather as destabilizing Cabeza de Vaca’s Spanish identity and discourse.
+Thus, the moments when Cabeza de Vaca uses an ethnographic style can be interpreted as
+examples of when Spanish discursive modes of understanding the New World are no longer
+useful. Yet, I posit that it is precisely in their incomprehensibility that the moments describing
+the unknown New World work in Cabeza de Vaca’s narrative, because the marvel of the unreal
+works as a literary device in an allegorical narrative.
+My project depends on thinking about the intersection of different academic disciplines.
+Cabeza de Vaca’s text can be placed in a larger historical narrative of Spanish colonialism. Yet,
+simply thinking about the Relación as an account of events limits our historical perspective.
+Examining the way Cabeza de Vaca writes is a way to access history: his style reflects why and
+who he writes for, and also reveals the way a man used text to promote himself. I suggest that
+Cabeza de Vaca’s reconciles his unique voice that clearly describes the marvelous real through
+placing these descriptions in an allegorical narrative. The allegorical narrative uses the real and
+the unreal to communicate a message, and thus the incomprehensibility of the strange can fit into
+Cabeza de Vaca’s story. Furthermore, through placing his details of native lifestyles, Cabeza de
+Vaca can use his prolonged encounter with otherness for his personal purposes. If his prolonged
+encounter with otherness undoes his biases of the native peoples, he again constructs biases of
+the native peoples when he puts descriptions of indigenous people in a narrative of selfpromotion. Cabeza de Vaca’s text brings up our problematic desire to divide texts into genres
+
+8
+and use them for the purpose of our disciplinary practice. Though this is primarily a literature
+project, I do not ignore the historical, because Cabeza de Vaca’s style reflects his historical
+moment, and their historical moment gives us clues as to why Cabeza de Vaca wrote about
+certain events. We lose an aspect of the text when we think about Cabeza de Vaca’s writing
+through one disciplinary lens.
+
+9
+
+Chapter 1
+
+Cabeza de Vaca’s False Multiculturalism
+
+1. The Authorial Voice of Álvar Núñez Cabeza de Vaca and the Intentional Ambiguity in the
+Text
+
+The Relación is about a 16th century Spanish man writing about his integration into the
+communities of the cultural other during a time when the Spanish crown was centralizing power
+and attempting to create a homogenous Catholic society through expelling Jews and Muslims.14
+Cabeza de Vaca’s imagery can be read as representing a man’s close encounter with otherness
+and a subsequent reconciliation between his Spanish identity and his new Native identity. Yet, I
+suggest that it is controversial to distinguish this text as an exceptional example of tolerance, and
+I will maintain that the Relación does mold to a narrative of conquest.
+Moving to the treasurer’s writing, we learn how the text seems not to partake in
+imperialist discourse. Early in the expedition a majority of the crew is separated from the ships
+while exploring the Florida peninsula. Desperate, the men construct handmade barges using a
+combination of the natural materials they find and their clothes, and then depart onto the Gulf of
+Mexico. Cabeza de Vaca writes about his barge capsizing:
+
+14
+
+Barbara Fuchs, "'A Mirror Across the Water: Mimetic Racism, Hybridity, and Cultural Survival," in Writing Race
+across the Atlantic World: Medieval to Modern, ed. Philip D. Beidler and Gary Taylor (New York: Palgrave
+Macmillan, 2005), 10
+
+10
+Those of us who escaped [were] naked as the day we were born and [we had] lost
+everything with us. And although all of it was of so little value, at the time it was worth a
+great deal. And since it was November and the cold very great, we, so thin that with little
+difficulty our bones could be counted, appeared like the figure of death itself.15
+Though the men are not setting out on the Atlantic—the literal boundary between Spain and the
+New World—the water is still a liminal space, which represents a border between existing as a
+Spaniard and existing as a Spaniard in the New World. The sea literally washes away the men’s
+Spanish clothes, erasing a physical signifier of their European identity. Without external Spanish
+elements, such as clothes, ships, and food, to construct a Spanish self, the men return to a natal
+state in which they are left with the possibility of taking on new physical signifiers and building
+a novel identity. The Spaniards are not only distanced from their Europeaness, but also from
+their humanness, because they are more like skeletons than people. As living people who
+embody the image of death the capsized men are similar to apparitions that live in the
+borderlands between the living realm and the deathly world. Though the natives are cultural
+others, in this moment Cabeza de Vaca ascribes an otherness to Spaniards; after being capsized
+they are no longer Spanish and no longer human. Describing the Europeans as beings close to
+apparitions poses the weirdness of the colonialists’ deathly states to capture the Spanish reader’s
+imagination, instead of just allowing the strangeness of the natives to incite the reader’s wonder.
+Cabeza de Vaca rewrites the tropes of colonization on a material and symbolic level in this
+passage, because he describes the Europeans as the strange helpless other who needs to be fed,
+clothed, and sheltered. Using similes—“naked as the day we were born” and “like the image of
+death”—he structures the descriptions to have symbolic significance. Though the term “identity”
+is a modern term that Cabeza de Vaca would not have used, he does describe an estrangement
+
+15
+
+Cabeza de Vaca, Adorno, and Pautz, The Narrative,f22r.
+
+11
+from a European-self using symbolic imagery, highlighting the way in which the text can be read
+as allegory for a multicultural existence.
+This scene also complicates the realism of the event. Only a few lines before he writes,
+“…we were hit by such a huge wave that we were all soaked, and since we went naked and the
+cold was very great, we dropped the oars from our hands”.16 Cabeza de Vaca reiterates the
+men’s nakedness in the second chapter, showing how he uses the men’s bareness to construct an
+image of desolation. The repetition of the term nakedness relays different meaning beyond the
+detail of the event. Cabeza de Vaca’s authorial choices are apparent; he is not just relaying
+information, but also trying to construct a particular image. Cabeza de Vaca uses literary tools to
+relay information through a metaphorical construction. This scene, which describes a failure of
+the Spanish crown, communicates meaning beyond a colonial debacle, telling another story
+about an individual’s separation from Spanish civilization. The image of the deathly and nude
+bodies might be about a man’s ability to deal with hardships, but the passage’s metaphorical
+construction makes the image’s meaning ambiguous and we are left asking, “What does the
+men’s nakedness represent?”.
+
+2. The Multicultural Cabeza de Vaca
+
+The critic, Jaun Bruce-Novoa, dwells on the “…ambiguity produced by the alteration
+inside the code’s signification”17 in the inter-/intra-textual realms of the Relación in the essay
+“Shipwrecked in the Seas of Signification: Cabeza de Vaca’s Relación and Chicano Literature.”
+For Bruce-Novoa ambiguity moves beyond the codes inside the text, such as the image of
+
+16
+
+17
+
+Ibid., f21v
+Bruce-Novoa, 4
+
+12
+nakedness, to the text’s reception and publication. He suggests that the ambiguity that surrounds
+Relación is foundational to Chicano/a literature, placing the Relación in a canon for a people
+who occupy an “indeterminate space” or the “space of the hyphen”,18 where people are not fully
+Mexican nor American but are constantly oscillating between performing both identities and
+associating with both cultures.19 For Bruce-Novoa every time a person decides to use only one of
+Cabeza de Vaca’s names they “shipwreck” Cabeza de Vaca. In other words, they disconnect him
+from his heritage, and thus the critic/writer/editor communicates an identity of Cabeza de Vaca’s
+that he did not intend to relate. Bruce-Novoa calls the treasurer “ANCdV”. Choosing to call
+Cabeza de Vaca “ANCdV” brings all of his names together, emphasizing Cabeza de Vaca’s wish
+to stabilize his identity.
+Bruce-Novoa treats Cabeza de Vaca’s text as a proto-Chicano text that is an allegorical
+representation of man experience of continuously moving between his Spanish and native
+identities. The critic turns to a scene at the end of Relación where Cabeza de Vaca acts as an
+intermediary between the native peoples and the Spanish. The treasurer finds a Spanish captain
+who, “…was quite lost there because a few days had passed and he had not been able to capture
+any Indians and it was apparent they had to leave because amongst them hunger and need were
+becoming apparent”.20 Cabeza de Vaca guides the men and in exchange “…he receives what he
+desires the most: ‘testimony as to the day and year he had arrived there and the manner in which
+he had appeared to them. And that is how they did it.’”21
+Bruce-Nova writes about these passages:
+Cabeza de Vaca is granted reorientation within the dual semantic system—religious and
+civil—of European power. However, in the chapter that follows, the Spaniards are not
+18
+
+Spitta, 40
+Fuchs, "'A Mirror Across the Water," in Writing Race across the Atlantic, 20-21
+20
+Ibid., 13. Bruce-Novoa provides his own translation of the passage.
+21
+Ibid., 13
+19
+
+13
+able to convince the Indians that ANCdV is Spanish….The two groups interpret ANCdV
+from two distinct codes which are impossible to translate due to lack of contact…What
+they do have in common is ANCdV. Even though they see him from different vantage
+points, he can relate to all of them through his own being. 22
+When Cabeza de Vaca encounters the captain his European identity is validated with testimony,
+placing him back into a Spanish order, which uses documents to officiate reality. The critic
+points out that despite Cabeza de Vaca’s recognition as Spanish, the natives do not believe he is
+European. According to Bruce-Novoa the Spanish interpret Cabeza de Vaca through Spanish
+cultural codes, which include his language, the way he behaves, and the clothes he wears.
+However, the natives also see him performing and dressing native. In this scene he wears the
+cultural codes of two communities and thus he can communicate with the disparate groups.
+Thus, his identity is ambiguous in the text and his simultaneous difference and similarity to both
+groups give him the unique quality of alterity. Again Bruce-Novoa points to ambiguity that
+exists in the text that does not come from Cabeza de Vaca’s writing, but rather from how the
+reader and the characters in the text identify him.
+Bruce-Novoa and I both treat Cabeza de Vaca as a literary character, analyzing the intertextual treasurer with a symbolic logic. Both of us are thinking about Cabeza de Vaca on the
+level of text. This text, however, presents the reader with a conundrum, because Cabeza de Vaca
+was a historical figure. Bruce-Novoa problematically collapses the historical and textual Cabeza
+de Vaca when he writes, “ANCdV becomes a marked man because of his alterity, the alterity
+that permits him to be the intermediary between two exclusive codes. He incarnates two key
+tropes of the relation: metonymy and synecdoche—mutable enough to convey movement in both
+directions”.23 Bruce-Novoa prescribes literary terms to Cabeza de Vaca in the text giving the
+inter-textual Cabeza de Vaca symbolic value, despite the supposed realism of the character. The
+
+22
+23
+
+Bruce-Novoa, 13
+Ibid.
+
+14
+critic, however, writes of something that actually happens. Bruce-Novoa suggests that while
+Cabeza de Vaca acts as intermediary he “incarnates” two literary structures, thus according to
+this critic, the Spanish treasurer lives and breathes as a representation of alterity. For the critic
+Cabeza de Vaca is marked with a “permanent alterability”.24 He writes that Cabeza de Vaca’s
+governorship in Río de la Plata, which he takes on after he has returned from Northern Texas,
+was a failure because: “ANCdV’s error was to return to Spain and to try to be what he no longer
+could fully be”.25 Something to consider is that Bruce-Novoa is finding representational value in
+descriptions of things, such as clothes and behavioral patterns that are not explicitly written with
+metaphorical structures, such as he does with the passage above. Though it is important to
+recognize what cultural signs represent—inside texts and in the real world—the reader cannot let
+this overshadow Cabeza de Vaca’s own subjectivity and his use of metaphorical constructions
+that can take on multiple meanings. The critic is treating Cabeza as an emblem who exists in the
+world of the text, and then stays an emblem even though he is no longer a character inscribed
+into a narrative. I am suggesting that Bruce-Novoa makes an assumptive mistake when he writes
+of Cabeza de Vaca leaving the text and entering real life as a symbol. Bruce-Novoa uses Cabeza
+de Vaca’s sympathy for the native peoples as an example of Cabeza de Vaca not being
+completely Spanish. Perhaps, his experiences made him more sympathetic to the natives in Río
+de la Plata, but he still acts within Spanish political structures, ruling a land that had recently
+belonged to other peoples.
+Bruce-Novoa does bring up the issue that Cabeza de Vaca’s experience does not seem to
+fit into a classical narrative of imperialism. The critic Silvia Spitta also explores the notion that
+Cabeza de Vaca functions in an indeterminate space, which is both inside and outside American
+
+24
+25
+
+Ibid.
+Ibid., 17
+
+15
+and Spanish culture, while he lives in America. She writes about the way in which Cabeza de
+Vaca’s historical context morphs the treasurer’s writing. She examines the Relacións similarity
+to “chronicles”, which were official texts written for the Council of Indies.26 She suggests that
+the chronicles were written with the Council of Indies in mind, pandering to the desires of the
+officials who granted charters for conquests in the Indies. She writes about how these documents
+have to be thought about in relation to Spanish power and the chroniclers’ desire to manipulate
+and receive favors from the council by, “…identifying their own private interests, with those of
+that power. In other words, they reflect and echo the Crown’s imperial, monologic ‘I/eye’ in the
+New World. Far from being free observations of the chroniclers, these texts were the official
+vehicle of religious and cultural power”.27 Spitta details the idea that the narrative “I” in these
+texts collapses with the imperial “I”. Spitta points to the way in which the difference of the New
+World was relayed in the old world. She suggests that the chroniclers were formed to promote
+the Spanish Crown and its agenda. For this critic, the reality that the explorers relay morphs to an
+actuality that the Council of Indies wanted to see. In the chronicles the actuality of the New
+World is mediated through writing that reflects people’s political interests. A chronicler might
+write about gold that did not exist, luscious land that was in fact barren, or docile simple natives,
+who in reality were politically complex and militaristic. Terrible imperialist happenstances, such
+as the one Cabeza de Vaca lived through, must have been written in a way that somehow
+glorified the Crown.
+Spitta also brings up the notion that the chronicles used known genre codes to relate the
+reality of the New World to the center of Spanish power. She describes how Columbus,
+“…lacked both the concept of a fourth world…and the words with which to describe it. Instead,
+
+26
+27
+
+Spitta, 31
+Ibid., 32
+
+16
+he imposed on the New World paradigms with which he was familiar and insisted that he found
+only what he already knew, namely the East as described by Marco Polo and others”.28 Spitta
+points to the idea that even though the chroniclers were describing new and different places and
+peoples they used already known phenomena to describe their observations. Columbus at first
+describes the New World by comparing it to a known foreign land and an acceptable strange
+place. Spitta brings up the way in which style affected the Spanish explorers’ ethnographic
+tendencies. Spaniards would structure their writing with familiar tropes and paradigms,
+morphing the texts to writing that the Council of Indies and Crown could understand and
+promote.
+Cabeza de Vaca’s text belongs in the textual family of the Chronicles,29 because it was an
+official document written in response to an official ordinance from the Council. In some ways he
+must hide actuality under language that the Council would find acceptable and appealing. Yet,
+Spitta suggests that the treasurer’s text is different from the other Chronicles. In particular, she
+focuses on Cabeza de Vaca’s shamanism, arguing that in his participation in Native American
+shamanistic rituals he mixes Spanish and native cultures. Spitta examines the end of the
+narrative to the scene where Cabeza de Vaca peacefully tells the natives of New Spain about
+converting to Christianity. Spitta quotes the Relación: “We told them that the god [Aguar] they
+were telling us about we called God, and that they should call him God too and they should serve
+and worship him as we ordered and that they would fare well. They answered that they had
+understood very well and they would do so”.30 In response to this passage she writes:
+By hiding indigenous idolatrous practices under Christian rituals, the Native Americans
+contributed to an uneasy fusion (or confusion) of the two religions. What is noteworthy in
+this case, however, is that it is a Spaniard, not Native Americans resisting imperialism,
+28
+
+Spitta, 33
+Ibid, 30
+30
+Spitta, 49
+29
+
+17
+who merges the two religions and manipulates the indeterminacy and arbitrariness of
+signs to his own advantage.31
+She looks at the scenes where Cabeza de Vaca seems to completely contradict the Inquisition’s
+policies about participating in native religious rituals. She argues that he is able to translate these
+native cultural practices into Spanish ones. For Spitta, the scene at the end of the Relación where
+Cabeza de Vaca tells the natives of New Spain that they can easily convert to Christianity
+represents an example of transculturation; Cabeza de Vaca is trying to translate the native
+religion when he says Aguar translates to God. Spitta makes a significant point about the way in
+which Cabeza de Vaca handles his experience with participating in a heathen religion. Yet, there
+is a contradiction in her reasoning. In the example she gives from the text she tries to portray our
+protagonist as “resisting imperialism”, and he resists because he has irrevocably changed—living
+indefinitely on the hyphen—from a Spanish imperialist during his experience in America. Yet,
+even though Cabeza de Vaca is not using violence, he is proselytizing. Calling the treasurer
+empathetic to the natives ignores how the text reflects how colonial power not only involved
+direct physical violence but also a soft violence that involved creating a dialogue that prioritized
+Spanish religion and a way of life, which depicted the natives as people who the Spanish needed
+to conquer in order to convert Indians to Christianity. Converting to Christianity transforms the
+Natives from people who the Spanish violently rule to people that the Spanish can peacefully
+rule. Spaniards are still in the position of political power, controlling lands that previously
+belonged to the native peoples. Spitta does highlight the issues that Cabeza de Vaca has of
+translating his experience with a foreign community into a narrative that Spaniards would
+understand. A hyphen, which creates ambiguity, does exist between his experience in the New
+World and the narrative he has to tell.
+
+31
+
+Ibid., 50
+
+18
+Despite Cabeza de Vaca’s connection to Spain, Spitta argues that it was impossible to
+place Cabeza de Vaca’s experience in imperialist literary framework, because he resists
+imperialism:
+Naufragios, then, must be situated as a singular text within that corpus of narratives that
+constitutes the chronicles…Cabeza de Vaca learned to live between cultures and to
+understand cultural differences, and that his new understanding of the world situated him
+both within and outside Spanish culture as well as both within and outside North
+American culture.32
+Spitta suggests that Cabeza de Vaca’s text is different from other chronicles of the New World
+because he inhabits an inside and outside space of Spanish culture. In particular, she points to the
+difference in Cabeza de Vaca’s first person “I”: “The collapse between a narrative and an
+experiential ‘I’, as evidenced in so many chronicles, becomes doubly problematic in Naufragios
+because Cabeza de Vaca’ shamano-Christian experiences cannot be encompassed by European
+narrative ‘I’”.33 Spitta points to the way Cabeza de Vaca cannot use traditional literary forms to
+describe his experience in the New World. She suggests that Cabeza de Vaca must use a new
+subject position in order to detail what happens to him. Spitta suggests an important point that
+Cabeza de Vaca writes from a unique subject position that does not fit into a European colonial
+narrative, because of the situations where he must reconcile his Spanish identity with his
+participation in native spirituality. Yet, Spitta’s notion of a new “I” is problematic, because she
+describes the “I” as belonging to an anti-imperialist voice. There is a possibility that the new
+subject position does not directly correlate to the European “I” but still be colonialist. Though
+Cabeza de Vaca’s experience does dissociate him from the Crown and the Spanish Old World
+Order, this does not necessarily make him sympathetic. When Spitta writes that Cabeza de Vaca
+
+32
+33
+
+Spitta, 49
+Ibid., 40
+
+19
+“understood cultural differences” it depicts the Spaniard as someone who becomes aware of the
+false construction of Spain’s cultural superiority.
+
+3. The Multicultural Imperialist
+
+Focusing on how Cabeza de Vaca’s voice is anti-imperialist distracts us from the way
+Cabeza de Vaca uses his experience to tell a good a story. When Cabeza de Vaca washes up on
+shore without clothes, we see Cabeza de Vaca turning a colonial trope of being clothed and
+civilized on its head. Though the reversal of this trope imagines a novel understanding of a
+Spaniard to the New World, it also gives representational and entertainment value to Cabeza de
+Vaca’s story. In the barge scene Cabeza de Vaca panders to his reader through constructing an
+entertaining scene through intentionally ambiguous writing. Spitta and Bruce-Novoa also ignore
+the ways that Cabeza de Vaca directly panders to the Crown, inscribing in the text the recitation
+of an official document.
+In a scene where Cabeza de Vaca tries to fix the damage that the conquistador, Diego de
+Alcaraz, had caused towards the natives in Northern Mexico, we could interpret Cabeza de Vaca
+as anti-imperialist. Cabeza de Vaca and his crew find Melchior Díaz, the alcalde mayor and
+captain of the region. Melchior Díaz asks that Cabeza de Vaca and the other survivors stay so
+that they could, “perform a very great service to God our Lord and Your Majesty, because the
+land was abandoned and not cultivated and all of it greatly destroyed, and the Indians went about
+hidden…and [he asked] that we have them called together and order them on behalf of God and
+Your Majesty to come and settle the plain and work the land”.34 Melchior Díaz asks Cabeza de
+Vaca and his companions to communicate with the natives, asking Cabeza de Vaca to use his
+34
+
+Cabeza de Vaca, Adorno, and Pautz, The Narrative, f61r
+
+20
+understanding of native peoples to help him repopulate the land. This scene could be an example
+of Cabeza de Vaca’s sympathy. He is bringing the native people back to their homes, allowing
+them to have access to the resources they need for survival. Yet, Cabeza de Vaca does not
+question the fact that Melchior Diaz rules over this land. Moreover there is a subtle infusion of
+imperialist language in this narrative. Besides the fact that Cabeza de Vaca would be helping the
+natives for the king and the catholic God, he is bringing the natives back into the valley so that
+the Indians can settle and cultivate the land. Cabeza de Vaca’s ability to communicate with the
+natives allows him to command hundreds of natives so that the Spanish territory is fruitful and
+economically viable.
+The way that Cabeza de Vaca communicates with the natives could be seen as him
+performing his native identity. He finds two natives who can act as interpreters. He writes that
+these interpreters “saw the people who accompanied us and learned from them about the great
+authority and influence through all those lands we had possessed and exercised, and the wonders
+that we had worked and the sick people we had cured and many other things”.35 Cabeza de
+Vaca’s supposed performance of his native identity is helpful, because the two interpreters have
+respect for him and take his authority seriously. Cabeza de Vaca also communicates with the
+natives through a native practice of carrying around a gourd: “We gave them a very large gourd
+of those that we carried in our hands, which was our principal insignia and emblem of our great
+estate. And taking this gourd they set out and went through the area for seven days…they
+returned and brought with them three lords, of those who were taking refuge in the sierras”.36
+Cabeza de Vaca’s performance as a native gives him access to the native communities that other
+Spaniards do not have. Yet, Cabeza de Vaca repopulates the sierras, so that the Spanish land can
+
+35
+36
+
+Cabeza de Vaca, Adorno, and Pautz, The Narrative, f61r-f61v.
+Ibid., f61v
+
+21
+be cultivated. Calling Cabeza de Vaca Chicano assumes that he belongs to a native community
+and thus has sympathy for the native peoples. Even if he was sympathetic, he still participates in
+imperialist practices, which assumed Spanish superiority. Cabeza de Vaca undoes the notion that
+a Spaniard has to keep his distance from the natives, because knowing about the native cultures
+and practices makes him an effective leader. Though Cabeza de Vaca does not understand
+himself as utterly different from the Americans, he uses his different stance for imperialism.
+This scene ends with Cabeza de Vaca explicitly adding the language of an official
+imperialist document, the Requerimiento. The critic José Rabasa writes about the Las ordenanzas
+sobre el buen tratatamiento de los Indios (the ordinances regarding the good treatment of
+Indians), “which were physically included in the capitulaciones (contracts) between Paniflo de
+Narváez and the Crown (as in every contracted drafted between 1526 and 1540)”.37 Rabasa
+provides a partial translation and summary of Las ordenanzas. The sixth ordinance orders that
+Conquistadors must read to the Indians the Requerimiento, which communicated to Americans
+the option of conversion or violent enslavement and war.38 Rabasa points out that Cabeza de
+Vaca adds the Requerimiento in this scene where he is talking to the natives from the sierras.
+Melchior Díaz, Cabeza de Vaca, and the other Spaniards communicate through the native
+interpreters, “How we had walked through the world for nine years, telling the people we had
+found to believe in God and serve him because he was Lord of all things in the world, and that he
+blessed and rewarded the good, and punished the bad with perpetual fire”.39 He then tells the
+natives that if they convert “The Christians would take them as brothers and treat them very well,
+
+37
+
+José Rabasa, Writing Violence on the Northern Frontier: The Historiography of Sixteenth Century New Mexico
+and Florida and the Legacy of Conquest (Durham: Duke University Press, 2000), 38
+38
+Ibid., 45.
+39
+Cabeza de Vaca, Adorno, and Pautz, The Narrative, f61v
+
+22
+and we would order them [The Christians] not to provoke or take them out of their lands”.40
+After the recitation of the Requerimiento the Indians say they believe in Aguar and not God, and
+Cabeza de Vaca responds that Aguar is God.41 Las ordenanzas allow people to control native
+lands after reading the Requerimiento. The sixth rule of the ordnances reads “Once having read
+the Requerimiento, fortresses must be built in suitable places without harming the Indians”.42
+And the seventh rule reads, “No one must take slaves, unless, after having been admonished by
+clerics, Indians refuse their obedience to the crown”.43
+In this moment Cabeza de Vaca uses his ability to communicate with the natives to
+communicate the Crown’s legal message to the Indians. He differentiates himself from Alcaraz,
+because he proves that he is following the Crown’s requirements to try to convert instead of
+violently enslaving. Thus, Cabeza de Vaca makes himself out to be a dutiful subject to the
+crown. Besides Requerimiento’s contingency on Spaniards’ natural right to rule and conquer, the
+document is also a legal stipulation that allows for direct physical violence. Furthermore, this is
+the scene that Spitta suggests that Cabeza de Vaca is transculturating and resisting imperialism.
+Cabeza de Vaca, however, is translating imperialist law to the natives of the sierras. Calling
+Cabeza de Vaca anti-imperialist at this moment ignores the ways that Cabeza de Vaca is
+explicitly writing about how he participates in a violent imperialist regime.
+Rabasa argues that this scene is an explicit example of how Cabeza de Vaca constructs
+his voice to pander to the crown.44 Yet, I do not want to completely read this scene as starkly
+imperialist, because Cabeza de Vaca copies the Requerimiento into his account. This scene
+shows how Cabeza de Vaca fits his novel understanding of himself in relation to the natives into
+40
+
+Ibid.
+Ibid., f61v-f62r
+42
+Rabasa, 40
+43
+Ibid.
+41
+
+44
+
+Rabasa, 67
+
+23
+the imperialist comprehension of how to treat the Americans. Cabeza de Vaca uses his difference
+not only to make an entertaining story, but also to show how useful he is in the imperialist
+regime. At the beginning of the narrative Cabeza de Vaca deconstructs Spanish superiority to
+natives, only to reconstruct an individualized notion of Spanish superiority in the end of his tale.
+Cabeza de Vaca is remarkable not only because he belongs to a nation that wears clothes, speaks
+Spanish, and practices Catholicism; he is also remarkable because he can lose these signifiers of
+his European identity and still be Spanish. By the end of the Relación Cabeza de Vaca becomes
+the rugged conquistador who is better than both other Spaniards and the natives, because he is
+the conqueror who can endure the hardships of the American land and thus skillfully maintain
+his imperialist agenda.
+Dwelling on the treasurer’s alterity removes the Relación from its historical context,
+which reveals that the text was shaped for Cabeza de Vaca’s colonialist goals. Calling Cabeza de
+Vaca Chicano also constructs him as a sympathetic figure who protects the natives and resists
+imperialism. Though he does not participate in direct physical violence, he does participate in a
+softer violence that involves pacification of peoples through conversion practices. He constructs
+Spanish religion as superior and the native peoples as easily conquerable. Furthermore, the
+critics seem to overshadow Cabeza de Vaca’s authorial voice, associating the ambiguity in the
+text with his mixed identity rather than with his stylistic choices.
+Though I do not agree with the critics’ reading of the text as an example of exceptional
+tolerance, they point to a distance between what the text is supposed to communicate and the
+experience that Cabeza de Vaca has. The two critics articulate this distance through saying that
+he lives on the hyphen, continuously performing two different identities, living an existence that
+is never really Spanish or really Indian. Thus, ambiguity surrounds Cabeza de Vaca because one
+
+24
+can never pinpoint what type of man he is or what type of writing—Spanish, Native, or
+American—he produces. For the critics, living on the hyphen leads Cabeza de Vaca to mix codes
+in his writing, and produce images that have multiple significances. I do not want to throw away
+the concept of the hyphen. I argue that the hyphen is between the narrative he was supposed to
+tell and his experience. If we look at the text’s murk as a product of Cabeza de Vaca’s intentions,
+then its obliqueness is part of its literary quality and what makes the text sellable. Looking to the
+historical context can show how he uses ambiguity to deal with the distance between his
+experience and imperialist narrative he is supposed to tell, because he not only tells tales about
+colonial disaster, but also ones about his perseverance.
+Both Jaun Bruce-Novoa and Silvia Spitta articulate the ways in which Cabeza de Vaca
+was different from his Spanish counterparts. Bruce-Novoa philosophizes the ways Cabeza de
+Vaca mixes codes and oscillates between identifying with the Spanish and the native
+communities. Bruce-Novoa allows us to understand the way the text can illuminate the actual
+Cabeza de Vaca’s alterity, while Spitta points to the way the treasurer’s alterity makes his
+language expand beyond European paradigms and tropes for understanding otherness. Spitta
+connects the way in which Cabeza de Vaca’s struggles with his identity translate into writing that
+also has alterity. However, he sees this transformation as useful, because it proves his ability to
+lead natives and persevere in the face of disaster.
+
+25
+
+Chapter 2
+Audience, Context, Text
+
+1. The Intended Narrative of Colonial and Personal Success
+
+The alternative colonial story that Cabeza begins to tell can lead the reader to interpret
+Cabeza de Vaca’s text as anti-imperialist and anti-colonialist. Yet, the reader has to consider that
+there are two Cabeza de Vacas: the one who lives and changes because of the disastrous
+experiences and the man who writes as a supposedly transformed man. I wish to do a reading of
+Cabeza de Vaca’s Relación considering the historical context in which Cabeza de Vaca wrote:
+context in which we find out that Cabeza de Vaca was deeply involved in colonialism and his
+text was marketed in a royally regulated Spanish book market; a context which shows that
+Cabeza de Vaca lived in a colonial Spain in which his unique voice of someone who has been
+displaced from his Spanish cultural base is actually marketable, useful, and acceptable.
+Instead of considering Cabeza de Vaca’s text in a genealogy of multicultural experience,
+I want to examine the text’s place in Spain’s history of imperialism, considering the ways the
+Relación reflects and engages with Spain’s imperialist project. I will explore further how calling
+Cabeza de Vaca Chicano is problematic, because Cabeza de Vaca was constructing an image of
+himself as someone who could pacify and use native people for his own benefit. At some
+moments in the text Cabeza de Vaca’s writing has ambiguous connotations, because it is difficult
+to solidify the exact signification of the text’s details. However, The text’s use for self-promotion
+
+26
+and its place in the Spanish book market show that Cabeza de Vaca did not have ambiguous
+intentions for the text. Taking the text out of its historical context does not allow us to use the
+work to learn about the mechanisms of imperialist power, and how texts were closely connected
+to colonial projects. Encounters with the New World and texts detailing colonial adventures were
+shaping Spanish literature. And, in return, texts were shaping the way in which people
+understood the New World. I will examine how Cabeza de Vaca’s text was shaped for a Spanish
+audience for the purpose of reorienting himself in a Spanish economic order.
+When considering the historical context in which the text was formed I will first consider
+Cabeza de Vaca’s intentions for going on the Narváez expedition and then look at how Cabeza
+de Vaca wrote his text for the king and then later shaped the Relación for a broader Spanish
+audience. Examining why he might have joined the trip reveals that a story of self-promotion
+was beginning before he even wrote the Relación. Cabeza de Vaca’s was born in Jerez de la
+Frontera and probably spent his early life there. His paternal lineage connected him to the Vera
+family who were connected to the conquering of the Canary Islands. The name “Cabeza de
+Vaca”, or “head of a cow”, came from his mother and connected Cabeza de Vaca to a wellknown military family. Though an odd name, it was derived from lore about the founder of the
+house that helped King Alfonso VII through a mountain pass.45 Even though he came from a
+prominent military family at the time, his father and mother died early in de Vaca’s life and did
+not leave their six children with land and a means of gaining personal wealth in his region.
+Furthermore, titled aristocracy gained control over commercial enterprise and large portions of
+land. Thus, “…families dedicated by tradition to the military vocation found themselves rich in
+historical reputation, but relatively poor in material means”.46 Thus, De Vaca would have to
+
+45
+46
+
+Adorno and Pautz, Álvar Núñez, 1, 298-299, 304-305
+Ibid., 342
+
+27
+leave a traditional economy, in which a person inherited their wealth, and look westward for
+personal gain. Cabeza de Vaca’s particular position of being part of respected family but not
+having the economic means to match his name made an American venture particularly appealing
+to Cabeza de Vaca.
+Narváez had received a charter from King Charles to discover and conquer all of
+Florida, the land that outlined the Gulf of Mexico, and the northern part of Mexico. The King
+and Council of the Indies chartered expeditions, creating the rules and expectations for the trip.
+For this particular expedition, “Narváez was allowed to establish two towns and three
+fortresses”47 in land he was supposed to occupy. The crown could have given Narváez a lot less
+freedom in the charter, allowing him only to trade with Indians.48 The land that Narváez was
+supposed to occupy was vast and the goals of the expedition were tremendous. Yet, the returns
+for Narváez and the other crewmembers had the potential for being huge. In return for creating a
+colony, “Narváez would receive some tax exemptions, a large piece of land measuring ten square
+leagues, as well as the titles of governor of Florida, captain-general…chief law enforcer, civilian
+authority, and superintendent of the projected fortresses”.49 The huge returns Narváez expected
+reveal why he would want to lead an expedition that would have to navigate the barely known
+waters of the Gulf of Mexico and the unknown lands of Northern Mexico and Florida. The
+organization of the Narváez expedition reflected the organization of Spain’s imperialist project.
+Though men lead expeditions and were promised governorship of large portions of land, the
+crown commissioned and authorized trips. Narváez’s trip was closely connected to the state’s
+power and imperialist agenda. The trip was a means for Narváez to gain wealth and power, but
+
+47
+
+Resendez, 44
+Ibid.
+49
+Ibid.
+48
+
+28
+the expedition was also supposed to accomplish more expansive nationalistic goals of expanding
+Spanish territory and national wealth.50
+Another thing to consider are the successful narratives of conquest that predated
+Narváez’s decision to organize and lead a conquistador expedition. Just a few years earlier
+Hernán Cortés had successfully conquered the Aztec empire with a couple thousand men.51
+After conquering the empire Cortés began to rebuild the Aztec capital, Tenochtitlán, and King
+Charles established him as the ruler of the new Spanish colony.52 Cortés’s triumph set the
+backdrop for the Narváez expedition. Narváez and Cortés were established rivals. In 1520 the
+governor of Cuba, Diego Velázquez de Cuéllar, suspicious of Cortés’s intentions in Mexico, sent
+Narváez to stop Cortés invasion of the Inca Empire. Narváez was supposed to take over Cortés
+role as conqueror of the interior of Mexico, but failed and was taken prisoner.53 Cortés’s success
+also set a precedent for Spanish colonization to come. The expectation that Narváez would
+establish control over a large amount of land was not unprecedented compared to Cortés’s
+tremendous success. The trip was a result of the Crown belief that Spain’s empire should and
+could have an expansive reach;54 and the dominance of Spain’s military in the 15th and 16th
+centuries, and the success of colonist projects, such as conquest of the Canary Islands, Cuba, and
+the Aztec empire, supported and reflected Spain’s expansionist ideologies.55
+Spitta writes about a separation between an “I” and a Spanish “We” in Cabeza de Vaca’s
+text. Even before Cabeza de Vaca wrote the Relación, we learn that the power dynamics on the
+
+50
+
+J. H. Elliott, Imperial Spain 1469-1716 (London: Penguin, 2002), 59-60. Elliot tracks the development of the
+crowns expectations that they would not only establish trading posts in foreign lands, but they would also establish
+settlements and govern lands, whose resources and peoples Spain would control.
+51
+Hugh Thomas, The Golden Empire: Spain, Charles V, and the Creation of America (New York: Random House,
+2010), 3.
+52
+Thomas, The Golden Empire: Spain, 6
+53
+Resendez, 22
+54
+Elliot, 45
+55
+Elliot, 58, 63
+
+29
+trip were ambiguous. Even though Narváez was the leader of the trip there were also people who
+held royally sanctioned positions. These royal appointees’ main allegiance was to the Spanish
+Emperor, so they could challenge the authority of the crew leader. Álvar Núñez Cabeza de Vaca
+was one of these royal appointees. His name and earlier military feats probably played a big
+factor in his receiving this job. As treasurer “his main duties consisted of overseeing all
+economic transactions and making sure that the Crown received its rightful share of profits”.56
+Perhaps more important than the authority his royal position granted him was the promise that he
+could govern part of the area that Narváez set out to conquer. De Vaca had “…a grant for his
+appointment as regidor, or councilor, of the first municipality established and populated in the
+new land”.57 The trip promised an opportunity for de Vaca to climb from the ranks of soldier to
+governor. The expedition provided De Vaca the ability to transcend the economic limitations of a
+non-landowning military man.
+Choosing to go on a journey to an unknown land was physically dangerous, and it was
+also financially risky for Cabeza de Vaca. Cabeza de Vaca actually had to pay the King a large
+sum of money. In order to be Royal Treasurer, “he was to deposit 2,000 ducats with the royal
+treasury in Seville as security and ‘bond of proper conduct in office’”.58 This deposit of 2,000
+ducats was not a small sum of money it, “was the equivalent of more than five and a half years’
+expected salary”.59 The incentive for De Vaca “was surely the hope of good performance that
+would merit future royal reward in form of higher positions”.60 Cabeza de Vaca had a lot at stake
+and the expectations for the trip were huge. The investment reflects an assurance in Spain’s
+ability to dominate other peoples militaristically, and a belief in Spain’s methods of conquering
+56
+
+Ibid., 50
+Adorno, Pautz, Álvar Núñez,1: 377
+58
+Ibid., 375
+59
+Ibid.
+60
+Ibid.
+57
+
+30
+and settling foreign lands. The imperialist project that Cabeza de Vaca joined was contingent on
+Spanish ideologies that involved the belief that Spaniards could conquer the New World and
+make its lands available for Spain to control and rule.
+As treasurer, Cabeza de Vaca was the eyes and ears of the crown, making sure Narváez
+upheld his economic obligations to the Crown. Not only did Cabeza de Vaca’s investment
+reflected a faith in the mechanics of Spanish imperialism, but the mechanism of Spanish
+imperialism determined how he was supposed to write and understand the New World. In the
+official “Instructions Given to Cabeza de Vaca for his Observance as Treasurer to the King of
+Spain in the Army of Narváez for the Conquest of Florida”61 the Council of the Indies tells de
+Vaca to observe the people that he encounters. They want him to take note of,
+How our commands are obeyed and executed in those lands and provinces, of how the
+natives are treated, our instructions observed, and other of the things respecting liberties
+that we have commanded; especially the matters touching the services of our Lord and
+the divine worship, the teaching of the Indians of the Holy Faith, and in many other
+things of our service, as well as all the rest you see, and I should be informed of”.62
+The Council of Indies tells Cabeza de Vaca to observe their imperialist project. Moreover, the
+line about observing how well the Indians are taught the Holy Faith uses a language that assumes
+Spanish superiority. The Spaniards are the teachers, while the Indians are the people who the
+Spaniards must help develop into better humans. Cabeza de Vaca is supposed to take note of
+how willing the Indians are to convert to Christianity. Cabeza de Vaca is supposed to write from
+this assumed superior position. The instructions also assume that the Spaniards will fulfill the
+expeditions expectations of subjecting the natives and establishing Spanish governorship over
+the Florida land. Furthermore, Cabeza de Vaca’s voice is supposed to be an extension of the
+Crown, because he supposed report back how well the King’s instructions are being followed.
+Additionally, Cabeza de Vaca is supposed to report back to Spain about how the Spaniards
+61
+62
+
+de Los Covos, Smith, "'Instructions Given to Cabeça," in Relation of Núñez Cabeza, 221
+Smith, 221
+
+31
+follow the established mechanics of imperialism. Furthermore, these instructions insist that
+Cabeza de Vaca gather information for the crown, but the instructions demand that Cabeza de
+Vaca detail what he sees. The instructions assume that he will maintain his position as conqueror
+and maintain a distance from the peoples of the New World; attempts at converting and
+subjecting the Indians would be the only interaction he would have with the native peoples.
+These instructions do not give him a vocabulary for falling from the position of conqueror and
+participating in native culture. The discourse that the instructions provide was contingent on the
+assumption that the Spaniards would easily dominate the natives. Yet, he figures out a way to
+depart from a narrative based off the assumptions of Spanish imperialism and still write an
+account that constructs an image of Spanish superiority.
+
+2. The Formation of the First Person Pronoun
+
+Looking at the publication history we can see how Cabeza de Vaca develops an
+entertaining narrative told from the first person position to communicate a unique story of a
+Spaniard’s success. A text is shaped and formed for the eyes and ears of the author’s audience.
+What is surprising for Spitta and Bruce-Novoa is the fact that there are parts of the text that do
+not seem to be shaped for the eyes of a Spaniard. Yet, if we examine the history of the text’s
+publication, we learn how the text is explicitly formed for a Spanish audience. Moreover, we
+learn how Cabeza de Vaca uses the text to reconcile the interrupted narrative of economic
+success. The codes in the text must take on multiple meanings, because the reality of his tale did
+not fit the narrative he had to tell. Examining the 16th century book market shows how the
+
+32
+growth in printed materials coincided with the development of publishing companies. The book
+market presented a way for men to relay their adventures to an audience seeking entertainment
+and information through literature. Thus, men’s experience in the Americas was shaping and
+forming Spanish literature and the market was also shaping the way in which men wrote about
+their adventures. Spain’s colonialist project was closely connected to word, art, and
+entertainment, and Cabeza de Vaca’s text was part of this movement of selling the colonial
+experience to a Spanish audience that may are may not have been to the Indies.
+Spitta writes about how Cabeza de Vaca’s experiences do not allow him to write with an
+“I” that completely reflects the desires of the Council of Indies and the Crown. According to
+Spitta Cabeza de Vaca relates things that Spanish officials did and did not want to see, he reports
+about gold, but also reports about participating in a heathen religion. Through examining the
+textual history of the Cabeza de Vaca’s documents and transformations of the text I want to
+explore how the development of the “I” actually reflected Cabeza de Vaca’s participation in
+Spain’s colonial economy. Furthermore, I want to agree with Spitta’s suggestion that this first
+person position is a new and different voice. Yet, the development of a unique “I”, which
+separates him from the Spanish royal establishment, is necessary for him to actively participate
+in colonization. The “I”, which I am arguing is produced from colonial circumstances, does have
+a unique voice that creates a text that expands beyond the confines of a technical document
+simply pandering to the Spanish crown and Council of Indies.
+In tracking the development of the individual voice Adorno and Pautz compare the 1542
+Relación to Oviedo’s version of the Joint Report. Oviedo transcribed a version of the text in his
+Historia general y natural de las Indias. Adorno and Pautz suggest that finding Cabeza’s
+embellishments help assess “the highly inflected and personal character of Cabeza de Vaca’s
+
+33
+published Relación”.63 Cabeza de Vaca calls himself alguacil mayor, or chief constable, in
+Relación, which was actually the title given to Narváez. In Oviedo’s account he simply writes
+that Cabeza de Vaca was the treasurer and official of the Majesty.64
+The textual history of the 1542 Relación reveals why Cabeza de Vaca uses the first
+person narrative “I”. Before Cabeza de Vaca wrote the 1542 Relación, he created two other
+documents that reported what happened to him and the other Narváez survivors. The three
+surviving Castilians put together the Joint Report in New Spain sometime between the summer
+of 1536 and the winter of 1537. The Joint Report was official testimony that was sent Spain and
+the Audiencia of Santo Domingo.65 The second document was an official Relación that Cabeza
+de Vaca and Dorantes put together. In 1537 Cabeza de Vaca presented this document as a
+petition to the emperor.66 Though both of these documents are now lost, the existence of the
+Joint Report and the official petition shows how Cabeza de Vaca went from producing official
+documents with other authors to independently publishing the Relación in 1542. Adorno and
+Pautz write explicitly about the difference between the 1537 joint account and the 1542 account.
+The 1537 account was a document created to help both Dorantes and Cabeza de Vaca win the
+charter to conquer Florida. Thus, the 1537 document would reflect the desires of two Spaniards,
+while the 1542 Relación reflects only the interest of Cabeza de Vaca.67 On one hand, the
+transition from Cabeza de Vaca writing for the desires and needs of a group to writing for his
+own self-interest reflect the reality of his situation. The petition to settle and conquer Florida
+
+63
+
+Adorno, Pautz, Alvar Nunez 3: 58
+Ibid., 59
+65
+Ibid., 83
+66
+Ibid., 46
+67
+Ibid., 54
+64
+
+34
+would have been useless because Hernando de Soto won the contract in spring of 1537 while
+Cabeza de Vaca was still in New Spain.68
+Cabeza de Vaca goes from helping to report what happened to the “we” to writing about
+the experience of the “I”. Cabeza de Vaca’s move from writing accounts that would have
+reflected the interest of a “we” to writing a text that reflect his personal interest both reflects his
+practical reality and also a general change in the way individuals could assert independence in
+the colonial economy. According to Adorno and Pautz, the way that Cabeza de Vaca “accepted
+and then declined…De Soto’s offer to accompany him to Florida…reveals that he did not wish
+to go the Indies again as someone else’s subordinate but rather in possession of his own
+governorship”.69 Adorno and Pautz posit that Cabeza de Vaca wrote the Relación in the two
+years he was in Spain after he returned to Europe in 1537. The historians suggests:
+He needed to construct a petition of considerable scope that would demonstrate his
+personal integrity and professional skills, not only of soldiering but also of managing
+people and, in particular, exercising moral leadership regarding the proper treatment of
+the Indians so that, once pacified, they could serve the economic needs of Spanish
+settlement.70
+Adorno and Pautz formulate Cabeza de Vaca’s reasons for being sympathetic to the
+Indians differently than Bruce-Novoa and Spitta. They suggest that Cabeza de Vaca’s ability to
+proselytize was useful for Spanish colonization. Before, I used the history of the document and
+its place in the market as evidence of its place in the Spanish economy and point out that the
+Relación was an opportunity for Cabeza de Vaca to promote his abilities. Here, Adorno and
+Pautz examine the ways that Cabeza de Vaca’s writing reflects his individual desires for
+promotion in Spanish colonization. I will track the development of Cabeza de Vaca’s voice in the
+production of the text. This is a task that Adorno and Pautz have extensively undertaken. Unlike
+
+68
+
+Ibid.
+Ibid., 55
+70
+Ibid.
+69
+
+35
+Adorno and Pautz, however, I will think about how in the places where Cabeza de Vaca
+individualizes the text, we can also see him adding his own style and voice to the document. In
+other words, we can track the way in which Cabeza de Vaca develops the “I” while also
+developing an authorial voice that colors the text as art or literature, and, thus explicitly reveal
+the implicit connection between Cabeza de Vaca’s voice and the violence of Spanish
+imperialism. The 1542 Relación is Cabeza de Vaca’s choice to create an autobiographical
+account. The use of the first person position allows Cabeza de Vaca to stand out from other
+Spaniards and to show that he was qualified to conquer and settle land.
+The barge scene, where Cabeza de Vaca loses his physical Spanish signifiers, also shows
+him symbolically separating from a social hierarchy, which the crown produced. Cabeza de Vaca
+literally and metaphorically separates from the Spanish community and Spanish social structures
+and becomes a self-ruling man. The men take the barges out into the Gulf of Mexico, trying to
+follow the shore to Spanish held territory. Even in this moment of desperation Cabeza de Vaca
+still defers to Narváez:
+I told him that since I saw the small possibility we had to be able to follow him and do
+what he had commanded, he should tell me what it was that he ordered me to do. He
+answered me that it was no longer time for one man to rule another, that each one should
+do whatever seemed best to him in order to save his own life, and that he intended so to
+do it. And saying this he veered away with his raft.71
+When Cabeza de Vaca realizes he cannot follow Narváez’s original order he still attempts to
+defer to the expeditions’ leader, asking the commander for alternate commands. In mentioning
+how he tried to follow Narváez, Cabeza de Vaca first highlights his own correct and obedient
+behavior. De Vaca establishes that he was doing what he was supposed to while the crew was
+dying, diminishing, and falling into chaos. Narváez tells Cabeza de Vaca that he must answer to
+the necessity of life rather than follow any social hierarchy. The precariousness of the men’s
+
+71
+
+Núñez Cabeza de Vaca, Adorno, and Pautz, The Narrative, f20r
+
+36
+situation levels the all the crewmembers to the same social status. Though this social leveling
+comes at a moment of disaster, the crew’s ruin allows Cabeza de Vaca to put himself at the
+center of his narrative without causing an unlawful mutiny against Narváez. This passage
+highlights the reasons that Cabeza de Vaca would chose to go on a risky expedition to an
+unknown land surrounded by rarely navigated waters. The disastrous Cabeza de Vaca to become
+equals with the men who once led to him. Furthermore, this scene has representational value,
+because it can be read as an allegory about successful leadership. Giving this scene an allegorical
+construction not only allows Cabeza de Vaca to communicate a story about his individual
+prowess as a leader, but it also makes the texts nuanced, complicated, and entertaining. Through
+a literary device—allegory—Cabeza de Vaca communicates a new understanding of himself as
+separate from a Spanish whole, but still pictures himself as a capable leader
+Spitta’s insistence that Cabeza de Vaca’s participation in Shamanism proves his empathy
+further falls apart when we examine the text’s history and transformations. After Cabeza de Vaca
+and his men capsize on an island looking like “the figure of death”,72 he finds Andres Dorantes
+and Alonso del Castillo, who still have a raft. The men try to leave the island on the still intact
+raft, but the raft falls apart. Cabeza de Vaca writes: “To this island we gave the name
+Malhado”,73 which translates to “bad fate”. On the island the treasurer describes how he began
+his healing practices. Adorno and Pautz point out that Oviedo in the Historia General y Natural
+de Las Indias does not have any reference to healing activity on the island and furthermore, “he
+objected to Cabeza de Vaca’s imposition of the name of the island, which he said was not found
+in the Joint Report”.74 Pointedly, Cabeza de Vaca’s healing practices, which Spitta and BruceNovoa identify as controversial, because it counters the Inquisition’s policies, is actually
+72
+
+Ibid., f22r
+Ibid., f24r
+74
+Adorno, Pautz, Álvar Núñez, 60
+73
+
+37
+something that Cabeza de Vaca embellishes in his narrative. Cabeza de Vaca’s addition of the
+healing practices brings up the question of why it would be useful for his narrative to describe
+his participation in something heathen. Oviedo, Adorno, and Pautz suggest that Cabeza de Vaca
+titles the island “Malhado” when he writes the Relación in 1542. He gives the island a name that
+has a ripe symbolic presence. What occurs on the island happens in the allegorical realm of the
+“Island of Ill Fate”. Thus, Cabeza de Vaca creates a text that expands beyond strict realism. As
+an author he explicitly uses metaphor and allegory to present a story that will aid his selfpromotion. Furthermore, placing the island in the realm of metaphor allows for events to occur
+that do not follow the Spanish order. Malhado is the island where the Spaniards partake in
+cannibalism. In order to make sense of the terrible events, Cabeza de Vaca writes about them
+happening in the allegorical world of the Island of Ill fate. Thus, he uses literary tools to make
+sense of real events that a Spanish imperialist discourse cannot comprehend.
+Adorno and Pautz point to another extraneous addition to the account, after Cabeza de
+Vaca has been reunited with Dorantes, Castillo, and Estevanico. A miraculous event occurs in an
+instance when he is briefly separated from his fellow survivors and a group of Indians, who is
+traveling with. While traveling with Avavares Indians they stop and set up camp at a river. While
+looking for food, “the people returned and I remained alone, and going to look for them, that
+night I got lost. And it pleased God that I found a tree aflame, and warmed by its fire I endured
+the cold that night, and in the morning I gathered a load of firewood, and I took two firebrands
+and again looked for people”. For five days he carries a lighted torch and a load of wood so that
+he could keep the fire alive. While he is alone for five days he writes, “In this entire time I did
+not eat a mouthful of food, nor did I find anything that I could eat, and since my feet were bare,
+the bled a great deal. And God took pity on me, that in all this time the north wind did not
+
+38
+blow”75. We cannot say for sure whether or not Cabeza de Vaca was trying to reference the
+burning bush that Moses finds when traveling through the Egyptian desert alone.76 However, this
+scene does depict God granting Cabeza de Vaca a miracle. He skillfully and almost miraculously
+survives in the wilderness alone, proving his fortitude to his Spanish reader.
+The other episode the two scholars point out as extraneous is the one in which Cabeza de
+Vaca resurrects a man. The Susolas find the Spaniards harvesting prickly pears and they ask the
+men to come see a sick man, because “throughout the land nothing was talked about except the
+mysteries that God our Lord worked through us, people came from many places to seek us out so
+that we could cure them”.77 Dorantes, Estevancio, and Cabeza de Vaca find that the man “was
+dead” and “his eyes rolled back in his head, and without a pulse, and with all signs of death”.78
+Even though he seems to be dead, Cabeza de Vaca tries to heal him. “And as best I could, I
+beseeched our Lord to be served by giving health to that man and all the other among them who
+were in need. And after having made the sign of the cross and blown on him many times, they
+brought me his bow…”79 The Indians report to him that “that one who had been dead and whom
+I had cured in their presence had arisen revived and walked about and eaten and spoken with
+them”.80 Adorno and Pautz write about this passage, “Without mentioning the name of Lazarus,
+Cabeza de Vaca presented a case that echoed the account of the most remarkable healing episode
+attributed to Jesus of Nazareth in the gospel”.81
+
+75
+
+Cabeza de Vaca, Adorno, Pautz, The Narrative f37r
+Adorno, Pautz, Álvar Núñez, 3: 61
+77
+Ibid., f38r
+78
+Ibid., f38v
+79
+Ibid
+80
+Ibid.
+81
+Adorno, Pautz, Álvar Núñez 3: 61
+76
+
+39
+This scene has been interpreted82 as an instance of Cabeza de Vaca performing his dual
+identity. One could see this moment as him portraying his native idolatrous practice fused with
+the biblical image of Jesus. Yet, according to Adorno and Pautz’ comparison of Cabeza de
+Vaca’s text to Oviedo’s this scene is one that Cabeza de Vaca has added and embellished. This is
+not a scene where Cabeza de Vaca is trying to hide his experience, but one that he adds to his
+narrative of self-promotion. Cabeza de Vaca is someone who God grants miracles to and he is
+someone is administers the miraculous. Furthermore, the allusion to the bible provides yet
+another way for the reader to interpret the text. One can read the text as a religious journey where
+Cabeza de Vaca must live the ascetic lifestyle of the natives in order to become spiritually pure.
+Though reading the text simply as an example of a spiritual journey would be a mistake, because
+this would overshadow the other elements of the text that are not religious. But, we see that
+Cabeza de Vaca is yet again using a literary tool—allusion—to communicate his own
+importance. Cabeza de Vaca’s crafty authorial voice draws us into a story about miracles, and
+then convinces us of his remarkable character.
+These miraculous scenes also function to help the reader makes sense of Cabeza de
+Vaca’s integration into the native communities. Through adding scenes where he performs
+almost impossible miracles Cabeza de Vaca creates a realm that follows an alternative logic to a
+Spanish realm. Thus, the strangeness and difference of the native customs actually allow Cabeza
+de Vaca to picture himself as miraculously and remarkably different from other Spaniards. His
+unique relationship to the Americans is communicated through allegory and allusions. In return,
+the strangeness of the natives and their customs allow for the magical to be real in the miraculous
+scenes. Even though he does not hold the position of conqueror while living with natives, he uses
+
+82
+
+Spitta, 38-39
+
+40
+the astonishing reality of the natives’ world to turn his participation in native customs to his
+advantage.
+The addition of the “Malhado”, the miraculous burning bush, and the resurrection give
+the text metaphorical presence, allowing these occurrences to have greater meaning beyond just
+being a practical communication of information. Cabeza de Vaca adds layers and nuances to his
+text that make the reader dwell on his words longer than she would have if it was just his
+observations. The readers need to dwell on the text and think about the meaning of the words
+works in Cabeza de Vaca’s advantage. Cabeza de Vaca takes on the role of a creative author,
+creating allegorical structures that can take on multiple meanings. What we see here is the
+production of an “I” that is forcibly separated from a Spanish modes of understanding the New
+World as a place that would be systematically, militaristically, and easily conquered. Unable to
+follow the orders of the royal charter or Council of the Indies’ instructions, which dictated the
+rules of the Narváez expedition, Cabeza de Vaca must find a new way to create meaning from
+his journey. He communicates real events, which have no place in a Spanish narrative of
+imperialist domination, through the structures of metaphor and allegory. Constructing his text
+with an allegorical structure, making his text literary, helps to reconcile the distance between his
+experience and the message he wants to present to Spaniards. Thus, the production of the literary
+is closely linked to Cabeza de Vaca’s colonialist agenda.
+The historians mention the ways that Cabeza de Vaca depicts himself as the protagonist
+of his narrative. They point to the scene where Cabeza de Vaca counters Narváez’s orders to exit
+the ships and explore the inland of Florida. When the crew lands on the east coast of Florida
+Narváez tells the commissary, the comptroller, the inspector, the notary, the sailor and Cabeza de
+Vaca that he wants to explore inland Florida. Cabeza de Vaca says he responded to his leader
+
+41
+saying, “…that by no means should he leave the ships without first assuring that they remained
+in a secure and inhabitant port, and that he should take notice that the pilots were not convinced,
+nor were they all affirming the same thing, nor did they know where they were…”83 The other
+men agree with Narváez. Narváez responds to Cabeza de Vaca’s consternation, telling him that,
+“…since I objected so much and feared the inland expedition, I should stay and take charge of
+the ships and the people who remained on them”.84
+…I was more willing than he and others to expose myself to danger and endure than to
+take charge of the ships and give occasion that it be said, as I had opposed the overland
+expedition, that I remained out of fear, for which my honor would be under attack, and
+that I preferred risking my life than placing my honor in jeopardy.85
+In this moment Cabeza de Vaca depicts himself as the hero in this situation. As Adorno and
+Pautz say, “it is the self-portrait of a loyal, brave, and honor-bound subject of the emperor”.86
+Besides this being a moment of self-promotion, Cabeza de Vaca is also configuring a narrative
+where he is at the center. More than just a depiction of self-advocacy, this scene explicitly
+highlights the centrality of Cabeza de Vaca’s subjectivity in the text. The treasurer repeatedly
+uses the word “I”, writing “I objected”, “I should stay”, “I remained”, and more. This scene
+structures the narrative so that what occurs in the text happens to Cabeza de Vaca. He is the eyes,
+ears, and body that experiences what goes on. Of course the use of the first person pronoun is
+natural when writing an autobiographical text. Here, however, Cabeza de Vaca repeatedly writes
+“I” and in particular he writes of an “I” that opposes the Spanish majority who agree with
+Narváez. Cabeza de Vaca both promotes himself and separates himself from the other Spaniards.
+When Cabeza de Vaca counters Narváez and the other Spaniards’ decision he proves his
+leadership prowess. The treasurer’s repeated use of “I” allows him to create an exceptional
+
+83
+
+Núñez Cabeza de Vaca, Adorno, and Pautz, The Narrative of Cabeza, f7v
+Ibid., f8r
+85
+Ibid., f8v
+86
+Adorno, Pautz, Álvar Núñez, 3: 60
+84
+
+42
+image of himself. Cabeza de Vaca forms a picture of himself that reflects what emperor would
+want to see. Spitta, who argued that Cabeza de Vaca’s text was not completely molded to the
+desires of official Spanish, points to the instances where Cabeza de Vaca participates in
+Shamanism as moments where he distances himself from other Spaniards. She writes about his
+practice of him taking gifts from natives only to redistribute them to his native guides. She
+writes, “Although it was normal for conquistadors to either exchange trinkets of little value for
+gold of simply to rob the Native Americans outright, here the Spaniards have transculturated an
+indigenous practice and give away what they receive, taking little or nothing with them”.87 Spitta
+suggests that Cabeza de Vaca differentiates himself from the Spaniards because he reverses the
+practice of taking land from the natives. In this instance he is both native and Spanish, because
+he takes from the natives, such as a Spaniard would, but he also gives land back, following a
+native practice. This is an idea that I have already disputed. Cabeza de Vaca does use his
+difference and Spanish customs to his advantage when he is a shaman; the native people think he
+has strong mystical powers and thus give up all their possessions to him. And, he does prove his
+difference from Spaniards, because he communicates and interacts with the natives in a way that
+the other Conquistadors cannot. Yet, as Adorno and Pautz suggest, he might be showing off his
+capabilities for being a moral leader.88 More than show his empathy, this scene shows that he can
+and does control the natives. Redistributing items back to his guides seems just as much a
+survival mechanism as an instance of the treasurer’s empathy. When he redistributes items he
+maintains an alliance with people who are guiding him through a land unknown to him.
+Though I have already shown how Spitta connects Cabeza de Vaca’s spiritual practices to
+a separation from a Spanish “we”, here I want to show how Spitta suggests that the treasurer’s
+
+87
+88
+
+Spitta, 49
+Adorno, Pautz, Álvar Núñez, 3: 55
+
+43
+shamanism directly affects the way that Cabeza de Vaca writes his narrative. According to
+Spitta, inscribed in the narrative is the separation between Cabeza de Vaca and the other
+Spaniards. Spitta describes the gap between the pronouns “us” and “them”, pointing to two
+moments in the text: “‘We saw clear sign of Christians’, and later he reports that ‘We gave the
+Christians many blankets’”.89 When Cabeza de Vaca collects the blankets and then gives them
+to the Spaniard, he is again transculturating, as Spitta would suggest. Moreover, his participation
+in native rituals differentiates him from the other Spaniards, causing him to call them “the
+Christians”. There is a reason for Cabeza de Vaca’s distance from the Spaniard’s in this scene:
+Cabeza de Vaca can communicate with natives, participate in their religion, and control the
+native peoples in a way the other Spaniards are unable to. His distance from the other Spaniards
+in this scene is transcribed in the text because he does not refer to himself as being apart of the
+Conquistador group. The transcription of his difference parallels his repeated use of the first
+person pronoun in the scene where he counters Narváez’s decision to explore inland Florida. In
+that earlier scene Cabeza de Vaca depicts himself as a skilled leader, who anticipates the
+disastrous outcomes of the trip. Distancing himself from the other Spaniards allows him to
+position himself as the hero of the tale. Cabeza de Vaca’s “us”, which he uses later in the text,
+coincides with the heroic and honorable “I”. Thus, “us” and “I”, pronouns that represent a unique
+Cabeza de Vaca, are connected to a narrative that is supposed to communicate Cabeza de Vaca’s
+importance.
+When Cabeza de Vaca adds tableaus that picture him accomplishing incredible feats, he
+adds to a narrative that communicates a message about his competence. Cabeza de Vaca does not
+simply add the first person pronoun into his text, but constructs scenes, such as the barge scene
+
+89
+
+Spitta, 48
+
+44
+and the one where he counters Narváez decision, that tell a allegorical tale about colonial
+leadership. In these scenes Cabeza de Vaca is both countering real people, and also emblems of
+different types of colonialist leaders. Through adding scenes where he performs miracles,
+controls Indians, and saves Spaniards from the cold, Cabeza de Vaca makes sure that he is an
+emblem of the remarkable and capable person in the text.
+
+6. Publication History; or, for Whom the Text was Formed
+
+Though we can never really know the intentions of Cabeza de Vaca, examining the
+publication history allows us to learn for whom the text was written, Cabeza de Vaca’s intentions
+for the text, and gives us clues as to why he wrote the way that he did. Furthermore, looking at
+the publication history allows us to learn who it was that had to understand Cabeza de Vaca’s
+radical experience. As pointed out before, the text was at first a petition to Charles V for
+promotion in Spain’s imperialist project. Nuance, layers, and ambiguity allow Cabeza de Vaca to
+give meaning to the disasters that plagued his trip. The addition of literary devices, such as
+allegory, allusion, and narrative, also animate the text with intrigue and entertainment value.
+Writing an entertaining text would have been important for Cabeza de Vaca, because the
+Relación was a representation of himself to his audience.
+Investigating the publication history also allows us to think about the transformations in
+ideologies that influence people’s subjectivity. Imperialist and religious ideologies shaped the
+way Spaniards understood the New World. As treasurer, Cabeza de Vaca was supposed to
+understand the New World as something that could be organized in words that Spaniards could
+
+45
+use to make sense of the land they were conquering. The instructions to Cabeza de Vaca gave
+him a limited scope of the New World, a scope that could be easily challenged and expanded.
+From the publication history, we see that texts about the Indies were constantly providing new
+perspectives and shaping Spaniards’ view and understanding of the Americas. On one hand,
+Cabeza de Vaca must morph his experience into a text that people in Spain could understand, but
+on the other hand the text was circulated in Spanish book markets where people were looking to
+learn about the New World. For people looking to learn about the West, new perspectives
+provided information about how to conquer lands and control natives.
+Looking at the publication history, we can see how not only the language of the text is
+formed for the eyes of king Charles, but also how the textual body is morphed for a Spanish
+market. Two different versions of Cabeza de Vaca’s writing were published during his lifetime.
+The first one was published in 1542 in Zamora. Even though Cabeza de Vaca’s family had its
+own coat of arms, the frontispiece is a woodcut of Charles V’s imperial arms. The woodcut
+illuminates to what degree Cabeza de Vaca was working within the outlines of his royal duty. He
+was writing about a royally commissioned trip and as a royally appointed employee. The royal
+coat of arms communicates to the reader that Cabeza de Vaca was explicitly connected to the
+Crown. Cabeza de Vaca’s intriguing language is not only the only way that his story is made
+accessible to his reader, but so is the physical presentation of the text. Placing the coat of arms in
+the beginning of the text legitimates the Relación and makes its radical story acceptable.
+Though the text was originally written as a petition to Charles, looking at where and by
+whom the text was published suggests that there was a broader audience than just the king and
+his court. I have been suggesting that ambiguity and nuances make the Relación intriguing and
+marketable, and the text’s almost immediate transformation into a physically marketable book
+
+46
+shows that the text had entertainment value in the 16th century. The first edition was published as
+La Relación que dio Alvar nunez Cabeza de vaca de los ascaescido en las Indiaas/ en la armada
+donde yua por gouernador P. phil de narbaez/ Desde el ano de veinte/ y siete hasta el ano d’
+trienta y sies/ que bolvio a Sevilla con tres/ de su compania.90 The colophon identifies Zamora as
+the place where the text was published, Augustin de Paz and Juan Picardo as the printer of the
+text, and Juan Pedro Musetti as the financer. The trio published the Relación in quarto-size rather
+than as a folio-sized volume. Adorno and Pautz write that the Zamora printers “place the
+publication of Cabeza de Vaca’s Relación in prestigious company; we have discovered that the
+same three bookmen were responsible for the publication of Florian de Ocampo’s editions of the
+Cronica general de Espana of Alfonso X, which appeared in Zamora in 1541 and 1543”.91 The
+extravagant Cronica was a history book Alfonso X of Castile commissioned in the 13th century.
+Paz and Picardo used the same imperial woodcut in the Cronica as they did in the Relación.
+Adorno and Pautz suggest that the use of the woodcut “enhances the dignity of Cabeza de Vaca’s
+publication”.92 Ocampa’s publications were produced with royal endorsement and the emperor’s
+command, and Paz and Picardo were prominent enough publishers to print a book that was
+royally commissioned. Adorno and Pautz point out the two men’s publication of the Cronica to
+prove their legitimacy and prominence as book producers. The fact that the Relación came from
+the same publishing group as such markedly nationalistic text also reveals that Cabeza de Vaca’s
+work was not fundamentally opposed to Spanish nationalism. By placing the royal coat of arms
+in the frontispiece, Paz and Picardo morph the physical presence of the text to communicate that
+the writing somehow reflects some essence of the Crown’s ideologies. Thus, the physical
+presentation of the book is also reconciling, or perhaps mediating, the radical story inside and the
+90
+
+Rabasa, 53
+Adorno, Pautz, Álvar Núñez, 3: 68
+92
+Ibid., 70
+91
+
+47
+audience’s expectations of what the story would tell. Furthermore, looking at Cabeza de Vaca’s
+text in the Spanish book market is to think about it as Spanish literature. Thus, the text’s
+presentation and language is shaped in consideration of a Spanish audience, but as a piece of
+literature that circulates, the text has its own opportunity to morph the readers’ perspectives of
+the New World.
+Much of Spanish literature at the time was about Spaniards’ experiences in the Americas.
+Though the Relación was printed in Zamora, that does not necessarily mean that it was where the
+text was circulated. Musetti, the financer of the project, was part of larger group of new
+booksellers who had books printed by remote printers in different cities from where the books
+were sold. In particular, Musetti’s city was Medina del Campo, which held an annual Castilian
+book fair. “Musetti was a member of a new category of practitioners in the book industry: those
+booksellers who were distinct from printers and sold books printed for them in other cities. This
+new field was developed in Spain precisely in Musetti’s city of Medina del Campo, which was
+the site of Castile’s celebrated annual book fair.93 Though Medina del Campo was in the North
+there was lots of trade and exchange between the city and the other Castilian commercial centers
+of Burgos and Seville.94 Adorno and Pautz write that, “These circumstances of publication thus
+place the Relación at the center of a vigorous book trade in easy communication with the Indies
+interests of Andalusia”.95 Though Cabeza de Vaca produced the text for self-promotion, there
+was also outside interest in the text as a marketable piece of literature. The text was put in a
+market of people who were interested in the Indies for enterprising and entertainment reasons.
+The Relación was both something that would capture the imagination and also help a prominent
+Spaniard educate himself on his future investments in Spain’s conquest of the Americas.
+93
+
+Adorno, Pautz, Álvar Núñez 3: 74
+Ibid.
+95
+Ibid.
+94
+
+48
+Furthermore, Cabeza de Vaca’s text was published alongside other texts that detailed encounters
+with difference. The treasurer published his work in a market that was selling the captivation of
+the New World’s strangeness.
+When Cabeza de Vaca has the Relación published he is taking part in a Spanish economy
+based off of investment and interest in the Indies. When he first testifies in front of the King’s
+court in 1537, he has to sell himself as a conquistador. Cabeza de Vaca’s interest lay in
+governing Florida, but by the time he returned to Seville the king had granted the job to Hernado
+de Soto.96 However, the Narváez survivor was successful and was given the title of aldelantado,
+or governor, of Rio de la Plata. Even before the Relación is published, Cabeza de Vaca’s crafty
+text proved to work for him and the morphing of his experience into a narrative of selfpromotion was effective.
+The second publication of the text shows the text’s place in the Spanish literature of the
+time. In 1540 Cabeza de Vaca returned to the Americas not as a treasurer but as a governor,
+having made an opportunity out of the disaster he lived through. His leadership proved
+controversial and in 1544 Cabeza de Vaca returned to Spain as a prisoner charged for bad
+administration and had the responsibility of exonerating himself. Eventually, Cabeza de Vaca
+was freed and the charges against him were cleared. In 1555 Cabeza de Vaca was no longer in
+chains, and he had the opportunity to construct and circulate a positive image of his service to the
+king with a republication of his text. The prominent bookseller and printer Francisco Fernandez
+de Cordoba published Cabeza de Vaca’s work in 1555 with changes from the Zamora edition.97
+Cabeza de Vaca transformed his text from a document for the king and his court to something
+more accessible to the public reader. The text is divided into chapters with different subtitles,
+
+96
+97
+
+Ibid., 50
+Ibid., 90
+
+49
+helping the reader keep track of the sequence of events and allowing for the early modern
+Spaniard to put the book down without losing his place. The title of the front of the text also
+changes from the long-winded technical title Relación de Cabeza de Vaca … to just Relación y
+comentarios. The title “Naufragios” is also present on “the running head on each page of the
+Relación and in the heading of its table of contents”.98 The text was also published with
+Comentarios, a biography of Cabeza’s de Vaca’s governorship written by his secretary Pero
+Hernadez. Commentarios were commonly placed alongside personal accounts. The addition of
+the biography shows Cabeza de Vaca transforming his text into a genre of personal accounts that
+were about constructing a positive public reputation.99 Cabeza de Vaca’s descriptions of his
+New World experience proved captivating enough to be circulated in a more public market than
+just the King’s court. The changes from the 1542 text to the 1555 text show that the writing
+could be transformed from a piece of self-promotional material to public entertainment. The title
+“Naufragios”, which is literally translated as Shipwrecks and more loosely translated as
+Calamities, moves the book into the realm of symbolism and metaphors. The revisions to the
+text that happened in 1555 made the text more accessible to a broader audience, and the changes
+solidify the notion that Relación was circulated as literature at the time.
+A text does not always exist in the context in which it was published, and people can find
+aspects of a text, such as Cabeza de Vaca’s, that echo Latin American literature, or Chicano
+literature. However, I insist that we think about Cabeza de Vaca’s text as Spanish, as a piece of
+literature that circulated in Spanish book markets and to a Spanish audience, so that we do not
+detach it from its connection to Spain’s imperialist ideologies. Furthermore, thinking about the
+text as Spanish allows us to access how the texts were connected to Spain’s colonialist project. A
+
+98
+99
+
+Ibid.
+Ibid., 84-85
+
+50
+predominate part of Spanish literature in the sixteenth century was texts about the Indies, and a
+diversity of perspectives on the Indies was presented to the Spanish public in published works. In
+the 1550s there was a surge of published text on the Indies circulating in Spain’s cities.100 At the
+same time that Cabeza de Vaca republished his text, Francisco Lopez de Gomara’s Historia
+general de las Indias, a general history about the conquest of the Aztec Empire, Pedro de Ciez de
+Leon’s Primera parte de la cronica del Peru, a book detailing the conquering of Peru, and Fray
+Bartolome de Las Casas’s Brevisima Relación de destruction de las Indias, a short piece that
+exposed the Spaniard’s abuse of indigenous Americans,101 were published. During the 1550s
+there was a lucrative market for books about the Indies, and Cabeza de Vaca’s text was another
+marketable description of the unknown lands to the west. Gomara, Ciez de Leon, and Las Casas’
+texts represent disparate perspectives on understanding the New World; imperialist subjectivity
+was not solidified but ambiguous. Cabeza de Vaca’s text was part of a group of textual works
+shaping and morphing people’s perspectives.
+The crown explicitly approved Cabeza de Vaca’s text. Spanish imperialism was the
+crown’s project, and thus the literature that described people’s experiences in the Indies reflected
+the character of the Spanish nation and its leadership. Thus, when there was a flourishing of
+books about the Indies, the king’s court decided to regulate the publication of texts about the
+west in 1556. The royal decree made sure that any book on the topic of the Indies had to be read
+over by the Council of the Indies and published with a royal license.102 De Vaca’s edition had
+royal approval and an official price, so even though it was published before 1556 it could be
+legally sold in the book market. The new laws about regulating and censoring books about the
+Indies reveal the extent to which texts about the Indies were being published during the time.
+100
+
+Ibid., 87
+Ibid., 88
+102
+Ibid.
+101
+
+51
+The censorship decree insured that books about the Indies supported and coincided with Spain’s
+national agenda and image. Cabeza de Vaca’s text seems radical, because it features a Spanish
+failure and a royal employee being stripped of his Spanish identity by the American land and the
+American people. Yet, the Relación’s publication in 1542 and again in 1555 shows that it was
+not seen as radically opposed to the Spanish Crown’s agenda. On the contrary, the 1555 edition
+was legally published and circulated with royal approval. Cabeza de Vaca’s text represents a
+change in the way Spanish superiority is articulated. Cabeza de Vaca finds away to articulate a
+Spaniard’s remarkable qualities through descriptions of events and circumstances that do not
+seem to be Spanish. In other words, Cabeza de Vaca’s colonial circumstances morphed the way
+Cabeza de Vaca articulated Spanish ideology, which assumed the Spaniards’ cultural superiority.
+Spitta points to the narrative first person pronoun, suggesting that Cabeza de Vaca
+produces a text that details phenomenon that the Council of Indies would not have wanted to
+read about. Spitta calls Cabeza de Vaca’s new subject position radical and anti-imperialist. And,
+in some ways, the treasurer is dissimilar to his conquistador counterparts, because he does resist
+violent colonization. Yet, Cabeza de Vaca still actively participates in the Spanish economy,
+using his text for self-promotion and then for preservation of his reputation in the public eye. In
+the historical context of the text’s earliest perception, we can consider the ways in which a new
+subject position, which seems to be not quite Spanish, is actually acceptable and marketable to
+the Spanish crown and the Spanish public. Examining the text for its usefulness in the colonial
+economy can give us access to understanding the mechanics of Spanish colonialism. The
+narrative of self-promotion reflected a shift in Spain’s economy and men’s ability to forge their
+own success. The text also reveals the ways that power was distributed to colonial employees;
+the colonial situation led men to try to prove their superiority to their counterparts. Thus, Cabeza
+
+52
+de Vaca could gain power through self-aggrandizement in an official document. However, even
+if a person had more economic opportunity in the New World, they are still employees of the
+crown and had to pander to the crown’s expectations. The text also illuminates Spanish
+ideologies about who the native people were and how they should be treated. Though Cabeza de
+Vaca did not promote physical violence, he did show his ability to pacify and control the native
+peoples. Treating the ambiguity in text as exceptional tolerance for the natives ignores the text’s
+place in a colonial system. Instead, ambiguity is used to obscure colonial failure and to transform
+a story about communal disaster into individual success. Creating a captivating narrative using
+literary tools, such as narrative formation and metaphors, forms a text that Charles V would want
+to read and publishers would want to circulate to curious readers.
+
+53
+
+Chapter 3
+
+Colonial Subjectivity
+
+1. The Ethnographic Cabeza de Vaca
+
+I have dealt so far with the way Cabeza de Vaca has used literary tools, such as narrative
+formation, magical-realism, and allegory to present a narrative that transforms a story about
+failure into one about individual success. The scenes where Cabeza de Vaca pictures himself—
+his deathly body, his miraculous practices, his separation from Narváez—all can fit into an
+allegory about a man’s leadership skills. However, the text does not always take on this literary
+register with which he purposefully creates scenes with ambiguous meaning. In the text, Cabeza
+de Vaca will slip into writing that is vacant of the first person pronoun, and seemingly absent of
+personal style. He does not seem to be reconciling the distance between his experience and his
+audience, because he writes simply about what he sees. Meaning is not murky in these plain
+descriptions, because they just convey information.
+In these descriptive sections Cabeza de Vaca takes on a voice that echoes the scientific
+descriptions of modern day ethnographers. Calling Cabeza de Vaca an ethnographer is
+precarious, because this would assume that he had an understanding of culture that was
+developed and established in a twentieth or twenty-first century academic setting. Yet, I want to
+call Cabeza de Vaca’s descriptive writing ethnographic for a couple reasons: to differentiate
+from the other more literary voice he uses, and also to think about his descriptive writing as a
+result of him comprehending the difference of the New World (though he might not have been
+
+54
+thinking about “cultural” difference).103 Pointedly, he has access to detailed information about
+the native peoples and American lands, because of his experience. Spitta and Bruce-Novoa
+suggest that in the time that Cabeza de Vaca lived amongst the natives he developed sympathy
+for the Americans. Thus, the plain descriptions, which do not use tropes about barbarism, could
+represent how his experience changes his Spanish biases. I want to maintain the notion that
+Cabeza de Vaca’s ethnographic writing represents a transformation in understanding the New
+World, but I also want to see how Cabeza de Vaca uses his novel subject position as a means of
+power. Instead of asking how he was able to write the revelation of his native identity, we can
+ask how he was able to present an independent subjectivity—a novel understanding of his
+relationship to the Crown and the New World—to a Spanish audience a clear representation of
+cultures, land, and experiences, which were unknown and incomprehensible. We cannot say that
+he uses literary tools, such as narrative or metaphor, when he uses an ethnographic voice.
+Perhaps, the incomprehensibility of the New World helps us reconcile Cabeza de Vaca’s two
+disparate authorial voices; the ethnographic scenes have an element of fantasy and unreality,
+because they display a world unknown and unintelligible to the audience. Instead of isolating
+these ethnographic moments we must look at them with the passages that have more of a literary
+quality, in order to show how the line between the real and the unreal is murky and how the
+literary and the ethnographic work together to communicate Cabeza de Vaca’s message. Even
+the scenes that do not seem as if Cabeza de Vaca is translating his experiences through literary
+devices fit into a narrative that relays a message about the treasurer’s perseverance.
+
+103
+
+Brad Evans, Before Cultures: The Ethnographic Imagination in American Literature, 1865-1920 (Chicago:
+University of Chicago Press, 2005), 3. Evans writes that the anthropological sense of the word “culture” as a term
+used to describe “a way of life, or a system of meaning shared among a people” did not enter our lexicon until the
+20th century.
+
+55
+First, I will look at how Cabeza de Vaca’s ethnographic voice differs from other
+Spaniards, because he neither romanticizes the natives nor depicts them as barbarous. Then I will
+show how this unique voice reflects the experience he had in America of integrating into native
+communities, and more broadly, the descriptions reflect a colonial moment when normative
+forms of discourse are no longer useful. The ethnographic passages reflect the notion that Cabeza
+de Vaca has experiences that do not fit into the narrative he was supposed to tell. Finally, I will
+look at the way he uses two seemingly different authorial voices for a narrative of selfpromotion.
+
+2. Cabeza de Vaca’s Clear Eyes
+
+If we were to ignore Cabeza de Vaca’s descriptive passages, we would neglect a large
+chunk of the Relación. Long descriptions of the Capaque, Han, and other native groups follow
+Cabeza de Vaca’s detail of the Narváez catastrophe. He provides descriptions of how the native
+peoples who live on the Gulf of Mexico’s coast ward off mosquitoes:
+Those from the inland areas use for this purpose another remedy even more intolerable than
+this one that I have just mentioned; and it is to walk, with torches in hand, burning the fields
+and woods they encounter to drive the mosquitoes away, and also drive out from
+underground lizards and other similar things in order to eat them. And they also often kill
+deer, surrounding them with many bonfires, And they also use this to take pastureland away
+from the animals, since necessity forces them to go to seek it where they want, because they
+never set down their houses except where there is water and firewood.104
+Besides his use of the word “intolerable” Cabeza de Vaca’s language is quite mechanical. He
+simply describes how people gather food. At this point Cabeza de Vaca has been living on the
+
+104
+
+Núñez Cabeza de Vaca, Adorno, and Pautz, The Narrative of Cabeza, f33v
+
+56
+Island of Malhado for four years.105 He has been eating, gathering food, and living like the
+Americans. He understands the native people’s way of life not as an observer, but rather as
+someone who participates in these activities. Thus, this description represents his experience of
+being stranded in America and separated from any form of his Spanish lifestyle. He does not
+mediate this experience through metaphors, he barely even uses the first person pronoun to show
+his involvement with this scene, nor does this description add to the forward movement of the
+narrative. Instead this description seems to place the narrative on hold, allowing Cabeza de Vaca
+to simply relay what he has done.
+To answer the question of how this fits into his narrative of self-promotion we can simply
+look at the proem to Emperor Charles, which begins the narrative. In Cabeza de Vaca’s proem he
+states explicitly how his descriptive writing would be useful for the Spanish crown. He writes
+that his service to the king, “is to bring to Your Majesty an account of all that I was able to
+observe and learn in the nine years that I walked lost and naked through many and very strange
+lands, as much the locations of lands and provinces and the distances among them, as with
+respect to the foodstuff and animals that are produced in them…”.106 He continues, “I would be
+able to bear witness to my will and serve Your Majesty, inasmuch as the account of it all is, in
+my opinion, information not trivial for those who in your name might go conquer those lands”.107
+Cabeza de Vaca did not conquer land, nor find gold, nor save people from death. What he can
+provide is a map not simply of the geography of the land, but also of the people who occupy and
+live in the land. Cabeza de Vaca creates a guidebook for the future explorers and conquerors of
+land. I do not want to stop here, simply showing with his proem to Charles how Cabeza de
+Vaca’s writing is obviously imperialist. I want to push further on the notion that Cabeza de
+105
+
+Adorno, Pautz, Relacion, 98
+Núñez Cabeza de Vaca, Adorno, and Pautz, The Narrative of Cabeza, f2r
+107
+Núñez Cabeza de Vaca, Adorno, and Pautz, The Narrative of Cabeza, f2r-f2v
+106
+
+57
+Vaca’s writing, and especially his ethnographic writing, is unique and different. And ask how the
+peculiar and special qualities of Relación’s descriptive sections fit into a historical narrative of
+Spanish conquest and colonization.
+Before further exploring how Cabeza de Vaca’s text is colonial, I want to explore how
+the treasurer’s writing is unlike other chronicles of the time. In particular I am exploring the parts
+of Cabeza de Vaca’s writing that echo nineteenth century ethnographies. For Spitta, the “I” that
+she writes about is closely connected to Cabeza de Vaca’s actual eyes. According to Spitta,
+Cabeza de Vaca is able to observe and write about native cultures in a manner which traditional
+European tropes of understanding otherness does not obscure. Stephanie Merrim agrees with
+Spitta’s point, writing about his ethnographic tendencies and how his writing mostly does not
+have, “Eurocentric biases found in most early New World ethnography. Unlike Pane and Oviedo,
+Nunez draws few comparisons, implicit or explicit, with his own world or other cultures. This is
+not a narrow perspective: he sees the Indian world not barbaric, but as a civilization in its own
+right whose customs it is his duty to report”.108 Merrim suggests that Cabeza de Vaca’s voice
+does not reflect a European subjectivity, which Spanish biases form. Merrim and Spitta’s
+suggestion that Cabeza de Vaca’s writing does not have a Eurocentric voice complicates my
+argument that the Relación is useful for a man who desires to take part in European imperialism.
+Christopher Columbus’ text presents a markedly different voice than Cabeza de Vaca’s.
+As Spitta points out, Columbus finds the known in the unknown, making the strangeness of New
+World familiar to the Spanish reader. Columbus also makes out the New World to be
+overflowing with gold, appealing to the desires of Spaniards involved in the country’s colonial
+projects. On October 13th, 1492 he writes, “I was able to make out that to the south, or going
+
+108
+
+Stephanie Merrim, The Cambridge History of Latin American Literature, ed. Roberto González Echevarría and
+Enrique Pupo-Walker (Cambridge: Cambridge University Press, 1996), 92
+
+58
+from the island to the south, there was a king who had great cups full [of gold]…”.109 Columbus
+uses the term “king” depicting the native as someone similar to a European noble. This native
+nobleman also has cups full of gold. The king’s likeness to a European noble is emphasized
+again when Columbus writes “The reverence with which he is treated by all his people, would
+appear good to your Highness, though they all go naked”.110 And later in the text he describes the
+king’s aura: “The king is a man of remarkable presence, and with a certain self-contained manner
+that is a pleasure to see”.111 On December 24th he calls the native area of Cibao “Cipango”
+(Japan) in Japan the natives tell Columbus, “there was a great quantity of gold, and that the
+Cacique carried banners beaten gold”.112 Epitomizing Columbus’ comparison of the native
+leader to a European noble is an instance when the explorer describes the native king wearing
+European clothes: “The Lord had on a shirt and a pair of gloves given to him by the Admiral, and
+he was more delighted with the gloves than with anything else. In his manner of eating, both as
+regards the high-bred air and the peculiar cleanliness he clearly showed his nobility”.113 Instead
+of depicting the native leader as a completely odd and foreign, Columbus writes about a man
+who has noble airs. Despite the native’s nakedness the native leader is comfortable in European
+gloves, dines with civility, and is clean. Here, Columbus seems to project the familiar on to the
+foreign. His understanding of nobility, which was constructed in Europe, obscures his
+observations and descriptions of the reality.
+Furthermore, the notion of being in a new land is so incomprehensible that he thinks that
+he is in Japan. Columbus rejects the name “Cibao” that his native guide tells him and insists that
+109
+
+Christopher Columbus, Journal of Christopher Columbus (during His First Voyage, 1492-93): And Documents
+Relating to the Voyages of John Cabot and Gaspar Corte Real, trans. Clements R. Markham (New York, NY: Burt
+Franklin, 1971), 39
+110
+111
+
+Ibid., 117
+
+Ibid., 135
+112
+Ibid., 131
+113
+Ibid., 136-7
+
+59
+the place is Cipango. Columbus is using an already existing model of otherness—Japan and the
+East—to comprehend the New World. Merrim writes, “For, to the very end, Columbus would
+equate the new reality to his a priori models: even after three journeys he states unequivocally in
+a report to the Pope in 1502: ‘This Island is Tharsis, it is Cethia, it is Ophir and Ophaz and
+Cipanga [Japan]”.114 When Columbus finds the New World, he does not find anything new, but
+instead finds the old. Columbus’ literary and cultural influences are explicitly inscribed in his
+writing. He depicts the New World not only in a way that he understands, but a way that other
+Spaniards can comprehend. The explorer describes Central America as the place the imperialist
+machine expected it to be: an Asian land ripe with gold and opportunities for the Crown to enrich
+itself. His refusal to accept the names the natives give for the land reflects both his ignorance and
+his arrogance. His continual use of “Cipanga” suggests that Columbus cannot understand the
+New World without familiar terms. His coining of the land “Japan” also proves that he prioritizes
+a European understanding of the world and geography. He relies on his Spanish knowledge to
+create a map of his world, and is unable to accept and learn from the native’s knowledge.
+In comparison to Columbus, Cabeza de Vaca’s text does not seem pander to Spanish
+colonialist establishment. Cabeza de Vaca writes bluntly about how when Narváez leads the men
+through Florida to Apalache, he is trying to find gold that does not exist. Furthermore, his
+descriptions of Natives do not seem to project his European influences. Cabeza de Vaca writes
+about how the Indians who held Dorantes and Castillo would cross to a different part of the
+Mexican mainland to eat oysters than the Indians that held Cabeza de Vaca would. Once on the
+mainland,
+They remained there until the first day of the month of April, and afterward they returned
+to the island, which is probably about two leagues from there at the point where the water
+is the widest, and the island is half a league wide and long. All the people of this land go
+114
+
+Merrim translates from p. 311 of Consuelo Varela’s “Documentos colombinos en la Casa de Alba”
+
+60
+about naked. Only the women cover part of their bodies with a type of fiber that grows
+on trees. The young women cover themselves with deerskins. They are people who freely
+share what they have with one another…On the island live people who speak two
+different languages: some are called of Capoques, and the others, of Han.115
+Unlike Columbus, the treasurer does not describe cups of gold, banners of gold, or native leaders
+who act like European noblemen. When Columbus describes the native king his language is full
+of adjectives, such as “remarkable”, “self-contained”, “high-bred”, and “peculiar cleanliness”. In
+comparison to Columbus, Cabeza de Vaca’s description is vacant of the adjectives and
+modifiers. He neither uses seemingly positive adjectives, such as “noble”, nor does he use
+negative ones, such as “barbaric”. Instead he writes with a lucent realism, constructing simple
+descriptive sentences that just have subject, verbs, and objects. Adding to the realism of his
+description he writes with a scientific precision explaining the exact day—April 1st—that the
+Han and Capoque travel, and the exact length of the island—half a league wide and long. Also
+unlike Columbus, he acknowledges the names that Indians have for themselves and does not try
+to impose his own moniker on the natives of the Island. Cabeza de Vaca writes with the precision
+of a person who has intimate access to a people. Cabeza de Vaca not only observes, such as
+Columbus does, but also lives, interacts, and integrates with the native community. Furthermore,
+his experience seems to be connected to the language he chooses to use to describe the natives.
+His prolonged interaction with the Capoque allows him to understand Americans in a way that
+remained incomprehensible to Columbus. Though his language lacks warmth—he does not
+describe friendship and love—the lack of Eurocentric descriptions suggests Cabeza de Vaca let
+go of differences that distanced him from his native custodians.
+The presence of European tropes in Columbus’ Diaro shows how the Admiral’s
+subjectivity is formed from European models of understanding otherness. Though Cabeza de
+
+115
+
+Núñez Cabeza de Vaca, Adorno, and Pautz, The Narrative of Cabeza, f26r-f26v
+
+61
+Vaca presents the reader with a novel subjectivity, there is a danger in thinking of his point of
+view as “enlightened”. Jose Rabasa offers another critique of the idea that Cabeza de Vaca
+becomes an enlightened ethnographer because of his hybrid experience. Rabasa critiques
+Tzvetan Todorov’s essay on Naufragios in The Conquest of America notion that Cabeza de Vaca
+has an “evolved ethnographic viewpoint”.116 Todorov comments about Cabeza de Vaca’s
+ethnographic viewpoint: “Cabeza de Vaca also reached a neutral point, not only because he was
+indifferent to the two cultures but because he had experienced them both from within—thereby,
+he no longer had anything but ‘the others’ around him”.117 Todorov takes a similar stance to
+Spitta, suggesting that living within both communities makes both the Spaniards and natives
+others to Cabeza de Vaca. He no longer fits into either community, so he becomes “neutral” and
+“indifferent”. Todorov’s suggestion seems to have anti-imperialist connotations, because he
+argues that Cabeza de Vaca is no longer Spanish.
+Rabasa interprets Todorov’s language as biased and assumptive. Rabasa writes:
+“Todorov’s narrative of an evolving ethnographic consciousness manifests a Western need to
+believe in its privileged capacity to understand other cultures. It is far from obvious whether
+Cabeza de Vaca would have recognized the value of being the Other and yet not quite the
+same”.118 Rabasa gives an important critique of the idea that Cabeza de Vaca viewed himself as
+being other from Spaniards, or that connected this seeming distance from his Spanish identity as
+a key to his understanding natives peoples. Rabasa suggests that Todorov’s viewpoint—one that
+Bruce-Novoa and Spitta share—actually reflects a bias that assumes that Westerners are
+particularly apt at comprehending foreign cultures. For Rabasa, the notion that Cabeza de Vaca is
+consciously using his developed otherness to gain a deeper understanding of native cultures is
+116
+
+Rabasa, 41
+Tzvetan Todorov, The Conquest of America: The Question of the Other (New York: Harper & Row, 1984, 249
+118
+Rabasa, 41
+117
+
+62
+actually a Western-centric idea. Calling Cabeza de Vaca the privileged “other” depicts the
+conquistador as continually thinking about his outside/inside position to the Spaniards and native
+communities. In other words, Todorov, Bruce-Novoa, and Spitta describe Cabeza de Vaca within
+the theoretical framework of identity and also depict him as aware of this framework. Rabasa
+critic of Todorov reveals an issue with calling Cabeza de Vaca an ethnographer, because he is
+not a twentieth century ethnographer, who is aware of cultural differences, and is gathering
+information in the form of scientific descriptions for academic purposes.
+Comparing Cabeza de Vaca to Columbus shows how the treasurer’s voice is unique from
+one of his Spanish counterparts. Juxtaposing the two Spaniards’ writing styles also reveals the
+extraordinary access that Cabeza de Vaca had to the native people he lived with. He develops an
+understanding for the Capoque and does not need European tropes to comprehend what he sees
+and experiences. Mary Louise Pratt’s study of modern anthropological writing provides a way to
+understand Cabeza de Vaca’s clear eyes, which are seemingly cleared of Eurocentric tropes, can
+still be imperialist. Pratt explores the relationship between personal narrative and supposedly
+scientific, objective, and unbiased, ethnographies in her essay “Fieldwork in Common Places”.
+Though I am exploring a text that was written before the birth of anthropology and the genre of
+ethnographic writing, Pratt is exploring how texts that are supposed to relay objective truths
+about foreign cultures are inescapably subjective. Pratt suggests that anthropologists use personal
+narrative to negotiate the difference between subjective experience and objective
+methodology.119 Pratt explores anthropological writing about the !Kung tribe done in mid 20th
+century. She writes:
+To make sense of the conflicting concerns of the Harvard group, one must locate them on
+the one hand in the context of the American counterculture of the 1960s, many of whose
+social ideals seem to realize themselves in the !Kung, and other hand, in the context of
+119
+
+Ibid., 32
+
+63
+the expansion of biological, ‘hard science’ sector of anthropology that has made Harvard
+the center for sociobiology in the 1980s.120
+I point to Pratt’s criticism of the Harvard study of the !Kung people to show not only the
+inescapability of the personal subjective stance in one’s technical writing, but also the writer’s
+inescapability from the influences of his or her historical moment. Even though scientific
+discourse is supposed to relieve the anthropologists from the problem of tainting his research
+with possibly ethnocentric or racist opinions, a personal experience is the basis of the
+anthropologist work. Not only is a person own “sensuous experience”121 writing about the
+foreign other going to be taint their research, but also their implicit political and cultural agenda.
+Anthropological writing, which reflects a cultural agenda of the researchers, has some fictional
+aspects; the researchers seem to construct a narrative out of real experiences in order project
+certain ideological stances. Pratt points out that problem with this scientific discourse is that this
+objective discourse is that the person doing research has to negotiate his or her own personal and
+subjective experience with the supposedly objective ethnographic method. Though Cabeza de
+Vaca writes without explicit Eurocentric tropes, he still writes in way that reflects his own
+“sensuous experience”, or his own subjective experience. Though he writes without many
+modifiers in a technical language, what he chooses to write about reflect his agenda. Pratt shows
+how descriptive writing can reflect ideological leanings, and I am going to explore further how
+Cabeza de Vaca fits his personal subjective experience of the New World into a narrative that
+reflected the ideologies of the Spanish crown.
+
+120
+121
+
+Ibid., 49
+Ibid., 32
+
+64
+
+3. Different but not Sympathetic
+
+Thinking about Cabeza de Vaca’s material reality— the reality of disaster and survival—
+we can understand Cabeza de Vaca’s transformations without describing him as the antiimperialist conquistador. In her book Seasons of Misery, Kathleen Donegan provides a
+theoretical framework for understanding the distance between the colonialists’ lived experience
+and the narrative that they were supposed to provide to European authorities. Donegan focuses
+on the English settler’s failures, thinking about the disastrous attempt to establish Englishness in
+the form of physical, political, and communal structures in America and the subsequent
+deterioration of the English identity. She writes:
+Catastrophe was more than a description of calamitous events. It became a discourse
+through which settlers witnessed themselves and registered their shock at unprecedented
+circumstances that they could neither absorb nor understand. Both as an event and as a
+discourse, catastrophe marked a threshold between an old European identity and a new
+colonial identity, a state of experiential and narrative instability wherein only fragments
+of Englishness were retained amid the upheavals of New World experience.122
+Here, Donegan connects experience, identity, and discourse. Terrible situations destroyed
+referents—laws, political institutions, and other English bodies—that Englishmen could use to
+construct an identity. With the undoing of English identity came the undoing of English
+discourse—“narrative instability”—available for understanding and communicating
+understanding of circumstances. In other words, an English settler’s isolation from his European
+identity led to a new way of understanding and writing about the real world. Like the English
+settlers, disaster removes the treasurer from referents—other Spanish men, political structures,
+ships, clothes, food—in which he can construct a Spanish identity. And similarly to the
+
+122
+
+Donegan, 2-3
+
+65
+Englishmen, Cabeza de Vaca is removed from a Spanish discourse for comprehending his
+activity in America; stranded on Malhado Island he cannot use Spanish imperialist discourse,
+about gold or barbarism—a discourse which depicts the Spaniard in the position of power—
+because he is no longer in the position of the conqueror. Instead he must the treasurer must
+comprehend the natives in practical way, using a discourse of survival instead of conquering, and
+write how he relates to the natives in order to survive. Through Donegan’s theoretical framework
+we can read Cabeza de Vaca’s depictions of catastrophic events as more than just “a description
+of calamitous events”. Cabeza de Vaca’s text is an example a new colonial discourse produced to
+describe and comprehend events, because the language for understanding these events did not
+exist in established Spanish imperialist tropes.
+Donegan provides a different way of understanding why people wrote about the real.
+Donegan writes about how the English settlers had to find something new to identify with: “The
+settler’s body was dissociated from the corporate body of Englishness, and so something else
+became its identifying principle. Colonists understood themselves as becoming colonial through
+confrontation with, and eventually through identification with their misery”.123 According to
+Donegan the Jamestown colonist no longer identify as English, but as men isolated from their
+Englishness because of their catastrophic circumstances. Without recourse to English discourse
+about settlement and colonization people had no choice but describe what they saw. Donegan
+gives a new framework for understanding Cabeza de Vaca’s identity. He lives through a
+disastrous situation that does not completely erase his Spanish ways, but leaves him as a
+Spaniard isolated from his Spanish identity. He does not come out of the disaster renewed, but
+
+123
+
+Donegan, 87
+
+66
+rather with a disrupted identity, with which he is continually aware of the absence of external
+Spanish institutions and comrades.
+Importantly, Donegan provides us with an alternative way of looking at Cabeza de
+Vaca’s identity in the text. Whereas Spitta and Bruce-Novoa view Cabeza de Vaca as a figure of
+multicultural identity, Donegan suggests a separation that disaster creates between a colonist and
+his European identity. For Donegan it is a colonialist, not multicultural, identity that is the
+muddled mixture of one not being able to completely identify as European, but also not identify
+with the native other.124 And, it is from this colonialist standpoint that new and novel discourse is
+created. The colonialist subject is one that must negotiate what he used to be and his European
+ways he understood how to be in the world with the way his American experience has
+transformed the comprehension of himself in his environment. Cabeza de Vaca’s negotiation
+between being European and his colonial self are externalized both in what he writes about and
+the style in which he writes.
+Though Donegan provides an important perspective on colonialist subjectivity and the
+colonists understanding of themselves in relation to England, it is also important to point out the
+distinctions between Spanish and English colonialist is important to point out the distinctions
+between Spanish and English colonialism. Independent private companies, such as the Virginia
+Company of London, charted English expeditions and settlements. The English settler’s
+connection to England, and the English crown, was either purposefully severed or not always
+very strong. Thus, according to Donegan, the English settlers’ ambiguous connection to home
+country exasperated the feeling of being disconnected from their English identity.125 In contrast,
+Spanish colonialism stemmed from the government and was a nationalistic and militaristic
+124
+125
+
+See her discussion of Jamestown on page 89.
+Donegan, 2
+
+67
+project that was supposed to enhance the country’s financial and political situation. Practicing
+imperialism was also practicing one’s nationalistic duties. Despite the difficulties the New World
+posed to a Spaniard, a Spaniard was expected to find recourse with Spanish discourse and
+political institutions. Cabeza de Vaca expected to integrate himself back into the Spanish
+community when he returned to Spanish territory or Spain itself. Donegan provides an important
+way to think about how Cabeza de Vaca’s disastrous experience, and how European discourse
+could not describe what happened to him. Yet, Cabeza de Vaca does not have the problem of
+living in the continuous misery of the English settlement, but instead has the particular problem
+of having to construct a petition that images his Spanish identity despite the potentially
+transformative events he lived through in the New World. When Cabeza de Vaca returns to
+Spain he must make sure that he pictures himself in a way that coincides with the Crown’s
+expectations. Thus, Cabeza de Vaca’s text reflects a novel perspective that he gained from his
+disastrous experiences, and also reflects his reconciliation of the novel viewpoint with the
+viewpoint of the Spanish crown.
+Donegan examines an alternative colonial discourse to the one of conquering and
+controlling the American land and its peoples. She suggests that there was a period when people
+could not use European tools or knowledge to live in the New World safely. For Donegan, there
+was a failure to implement a knowledge system in America, and thus a new discourse had to
+appear in order to understand the new and strange land. Before Europeans successfully settled
+their arrogant belief in their superiority to the native peoples was challenged. When the governor
+Narváez decides to disembark from the Spanish ships in order to explore what he thinks is
+Mexico, he relies too heavily on his own understanding of the land and his pilot’s knowledge of
+
+68
+the Gulf of Mexico. What results is chaos, and European ways of comprehending death
+deteriorate.
+When the men leave the southeastern coast of Cuba they get caught in a tempest. Cabeza
+de Vaca documents these deaths: “I prepared a probanza documenting it, the testimony of which
+I sent to Your Majesty”.126 Here Cabeza sends a probanza, or an official letter, to King Charles
+about the hurricane and the deaths that occurred during the storm. Cabeza de Vaca is fulfilling
+his European duty, which is written out in a mandate. Cabeza de Vaca is able to give significance
+to the deaths through officially recording the event. He takes part in a Spanish colonial
+mechanism when he writes, documents, and sends the letter; a Spanish knowledge system allows
+him to put these mass deaths into form that he can understand.
+Deaths continue to occur as the men move on with their adventure. When the men land in
+the Florida, they think they are in Mexico. They go inland looking for the port that is on the
+mouth of the Rio de las Palmas, which is in Mexico. While walking, the men hear about a place
+called Apalachen in the Northern part of Florida peninsula, which is supposed to be a wealthy
+native empire. Cabeza de Vaca records the first death that occurs while searching for Apalachen:
+“One of the horsemen, who was named Juan Veláquez, a native of Cuellar, because he did not
+want to wait, went into the river on his horse, and the current, since it was strong, swept him off
+his horse, and he held tight to the reins, and thus he drowned and drowned the horse as well”.127
+He continues, “And his death gave us much grief, because up to that point none of us had
+perished. The horse fed many that night”.128 The horseman’s bravado seems to represent the
+Spaniard’s general arrogance about being able to conquer and settle the land. Pride kills Juan
+Veláquez and kills the rest of the crew. Notably, Cabeza de Vaca tells us the man’s name and
+126
+
+Núñez Cabeza de Vaca, Adorno, and Pautz, The Narrative of Cabeza, f4v
+Ibid., f10r
+128
+Ibid., f10r
+127
+
+69
+where he is from. Death at this moment is still unique. Here death is an occurrence rather than
+part of the crew’s life. Cabeza de Vaca’s silence about a mourning ritual and the act of eating the
+horse points to how necessity drives the men to quickly move on from death. Death is treated
+sanctimoniously, because the men still have time and energy to mourn. Similar attention is given
+to another hidalgo, Avellaneda, who the natives kill: “And the Indians struck him…and the
+wound was such that almost the entire arrow passed through his neck, and later he died there,
+and we carried his body to Aute. We arrived there after nine days’ travel from Apalachen”.129
+Avellaneda’s status as hidalgo explains why they give this man’s death enough reverence to
+carry his body for nine days. The energy that men use for processing the hidalgo’s death points
+to the place they are in during the journey. Death is still rare enough that they use rituals to
+process the man’s passing. Using resources to burry Avellaneda points to the notion that at this
+point in the journey death is still seen as special.
+At the beginning of Cabeza de Vaca’s journey in inland America he has the energy, time,
+and resources to deal with the deceased. Pointedly, he also has the words to describe what
+happened to the hidalgo. Cabeza de Vaca describes the gory sight of an arrow pierced through a
+person’s neck. Though the scene is horrid, it is not indescribable, or incomprehensible. The man
+dies of a war wound, like Spaniards would have in a battle against the Moors. When the men
+arrive at Aute they become sick, but still journey on. Cabeza de Vaca loses the words to detail
+what is happening to the men. “The journey was difficult in the extreme, because neither the
+horses were sufficient to carry all the sick, nor did we know what remedy to seek because every
+day they languished, which was a spectacle of very great sorrow and pain to see the necessity
+and hardship in which we found ourselves”.130 The men become so sick they cannot go on. The
+
+129
+130
+
+Ibid., f13v
+Núñez Cabeza de Vaca, Adorno, and Pautz, The Narrative of Cabeza, f14r
+
+70
+treasurer writes about the state that he sees: “I refrain here from telling this at greater length
+because each one can imagine for himself what could happen in a land so strange and so poor
+and so lacking in every single thing that it seemed impossible either to be in it or escape from
+it”.131 Here Cabeza de Vaca evokes the readers’ imaginations. Our protagonist is engaging the
+reader, asking him to construct a picture of the misery that he sees. Cabeza de Vaca uses the New
+World’s weirdness and mystery to help his audience conjure an image of what is going on. On
+one hand, the treasurer uses misery’s spectacle to draw the reader into his texts. On the other
+hand, he has lost a vocabulary or reference point to describe what is happening. His reader can
+only imagine what he saw, because there are no other instances of the type of misery he
+experiences. No place that the Spaniards have gone before is as desolate or strange as the New
+World. Cabeza de Vaca has no words or images to understand what he sees. Cabeza de Vaca
+does not have a literary framework in which to describe the scenario. In Donegan’s words, he is
+struggling to create a new form of discourse.
+Cabeza de Vaca’s relationship to the deceased transforms as death becomes more
+ubiquitous. In desperation the men make barges out of the materials that the American land
+provides. Before the men disembark on the homemade barges: “more than another forty men,
+excluding the ones whom the Indians had killed, died of sickness and starvation. On the twentysecond day of the month of September all but the last horse had been eaten”.132 The men who die
+of illness become nameless bodies. Cabeza de Vaca does not describe the deaths in a ritualistic
+manner; the dead men are not grieved over, such as Jaun Valaquez their bodies are not carried,
+such as Avallaneda. While everyone is dying, there is no way he can take part in mourning
+rituals so that he can process or understand what is happening to his fellow crew members.
+
+131
+
+132
+
+Ibid.
+Ibidf16r
+
+71
+Cabeza de Vaca also lacks the ability to name the people who have died. He cannot write down
+the identities of his dead companions. The inability to name people, because of the large number
+of deaths, shows how Cabeza de Vaca cannot use European discourse to process what happens to
+him. The catastrophic occurrences that Cabeza de Vaca lives through cause a narrative
+instability. He can neither write in the technical voice, which he was commanded to report in,
+because the disaster is too vast; nor can he write a story about Spanish superiority and
+domination. The narrative instability in the Relación represents how Cabeza de Vaca was
+distanced from his ability to continue his Spanish identity in the New World. As his fellow
+Spaniards begin to die, corpses, and not Spaniards surround him.
+Donegan provides a way of thinking about Cabeza de Vaca ethnographic sections in a
+new way. The reality of his situation does not allow him to have recourse to the discourse that he
+is supposed to use. Unable to use any other form of discourse, he has to write about the reality of
+his situation. Instead of representing his empathy or his unbiased eyes, the detailed sections
+represent his separation from his Spanish identity. Donegan gives us a way of thinking about
+Cabeza de Vaca as not enlightened, but rather writing in a mode that reflected his reality. Of
+course, we have to take into consideration that Donegan is thinking about people writing while
+they are experiencing colonial misery, while Cabeza de Vaca probably wrote from the safety of
+his home in Jerez de la Frontera. Yet, Donegan gives us a way to think about the extra-textual
+Cabeza de Vaca and the intentions for his text. The publication history shows how Cabeza de
+Vaca uses the text to reinstitute himself in the Spanish political and communal order, first as a
+colonial governor and then as a reputable member of society. The narrative of self-promotion
+and the embellishments about miracles draws the reader into the text and convinces him of his
+superior skills. Yet, the less literary sections of his writing reveal incomprehensibility of his
+
+72
+situation. We cannot separate the real and the unreal, because placing the real in an allegorical
+construction makes the incomprehensible—the seeming unreality of the real—understandable.
+The text presents the Spanish with a new and different discourse and frames it in narrative, so
+that he can understand this novel writing.
+
+4. The Magical Real
+
+Rabasa provides another way of articulating how Cabeza de Vaca uses the tropes of
+marvel to get away with describing his participation in Shamanism. Rabasa suggests that an
+ethnographic reading of Cabeza de Vaca’s texts involves awareness of, “historiographical
+difficulties Cabeza de Vaca encountered telling the story of his experience of customs contrary to
+Western values. How does Cabeza de Vaca communicate a whole series of cultural phenomena
+usually associated with heresy, witchcraft, and superstition?”.133 Along with Bruce-Novoa and
+Spitta, Rabasa finds the scenes where Cabeza de Vaca takes part in native rituals problematic,
+because they present the Spanish reader with the fact that he took part in illegal activity. Unlike
+the other two critics, Rabasa suggests that these scenes actually fit into a narrative of conquest.
+He writes, “We must insist that Cabeza de Vaca’s task is not simply to convey New World
+phenomena to a European audience—his reversal of stock images manifest a mastery of the
+code—but to convey a sense of the uncanny that underlies his experience of the magical”.134 For
+Rabasa, when Cabeza de Vaca describes his participation in Shamanism, he is manipulating
+codes. Without going too deeply into the philosophy of the uncanny, we can understand the term
+
+133
+134
+
+Rabasa, 49
+Ibid.
+
+73
+as resurfacing of something that has happened to us that we previously had forgotten. His
+suggestion that Cabeza formulates the events as uncanny does depict Cabeza de Vaca entering a
+world that predates Spaniard civilization. Rabasa reformulates the notion of finding the familiar
+in the unknown. Rabasa suggests that Cabeza de Vaca does use Spanish codes, but he reverses
+them to give the sense of the uncanny. Cabeza de Vaca’s shamanism is part of this uncanny
+world, and thus is not something that he has to hide, but rather something he can add to depict
+the New World in a certain marvelous way.
+Perhaps the most striking image of the Spaniard’s misery comes after Cabeza de Vaca
+and some of his other companions have washed up on what he calls “Malhado” Island. Here
+some of the Spaniards are so desperate they start eating each other. Cabeza de Vaca writes of the
+Spaniards cannibalism:
+And as the houses were so unprotected, the people began to die. And five men who were
+in Xamho on the coast came to such dire need that they ate one another until only one
+remained, who because he was alone had no one to eat him. The names of those men
+were: Sierra, Diego Lopez, Corral, Palacios, Gonzalo Ruiz. The Indians became very
+upset because of this and it produced such a great scandal among them that without a
+doubt, if at the start they had seen it, they would have killed them and all of us would
+have been in grave danger. 135
+Cabeza de Vaca relays a situation that is a direct reversal of colonial tropes. Here the Spaniards
+are savages, because they are the ones eating each other, causing the natives to be horrified. This
+scene seems particularly unfitting for an imperialist narrative. Yet, this is a moment when the
+Spaniards identify with their misery. The men’s cannibalism seems to be the ultimate disruption
+of Spanish rules and order. There are no longer rules to govern the men’s action. Pointedly,
+Cabeza de Vaca names these savage Spaniards. Diego, Sierra, Corral, Palacios, and Gonzalo eat
+each other. The treasurer’s identification of the Spaniards points to a tension in the text between
+his official duty to report what was happening, and how the actions are completely not Spanish.
+
+135
+
+Núñez Cabeza de Vaca, Adorno, and Pautz, The Narrative of Cabeza, f24r.
+
+74
+He names the men, trying to make meaning and order out of a situation that is defined by a
+disruption of systems and rules. Yet, the description of these men’s cannibalism creates the
+notion that Cabeza de Vaca is living in a native realm that has different rules and logical orders
+than Spanish realm. Here, Cabeza de Vaca uses this instance of Spaniards acting barbaric to
+show the alternative logic of the New World. Thus, the strangeness and the mystery of the New
+World allow Cabeza de Vaca to write about his disastrous experience in a narrative that is
+supposed to reestablish his Spanish identity.
+Before giving the description of how the Capoque gather oysters he describes a scene
+where he participates as a healer. He writes about how he uses the native practice of burning: “I
+have tried it and it turned out well for me. And after this, they blow upon the area that hurts, and
+with this they believe that they have removed the malady. The manner in which we performed
+cures was by making the sign of the cross over them and blowing on them, and praying a Pater
+Noster and an Ave Maria”.136 Spitta interpreted Cabeza de Vaca’s shamanism as a mixture of
+cultural codes. For Spitta, he is translating his shamanism into Christian behavior when he says
+the Pater Noster and Ave Maria while cauterizing people and blowing on their wounds.
+However, Another way of interpreting this scene is as Cabeza de Vaca participating in
+miraculous behavior. As seen in the Chapter 1, he adds shamanistic scenes in order to promote
+himself.
+Another line of Cabeza de Vaca’s could also explain how he gets away with describing
+his involvement in Shamanistic practice. After escaping from Malhado and traveling towards
+New Spain he describes the way one of the tribes cooks beans. He writes, “The manner in which
+they cook them is so novel that, for being such, I wanted to put it here so that the extraordinary
+
+136
+
+Cabeza de Vaca, f26r-f26v
+
+75
+ingenuity and industry of humankind might be seen and known in all its diversity”.137 At once he
+seems to be praising the natives and humanity, because he calls them extraordinary, ingenious,
+and industrious. Yet, he is also inciting the audiences’ wonder and amazement with these people.
+This line shows how Cabeza de Vaca is writing about the wondrous real. The people heat up
+their beans by throwing hot rocks into gourds full of water. And, for Cabeza de Vaca this is
+novel, unusual, and strange. Here, the real has a magical quality, not in a supernatural way, but
+rather in a way that is an extraordinary difference from the everyday. Thus, Cabeza de Vaca’s
+shamanism adds to the marvelous quality of the New World.
+Cabeza de Vaca’s descriptions of the natives represent a new understanding and novel
+subject position. Yet, he puts these descriptions in a narrative that relies on the strangeness of the
+real to relay an account of an unfathomable disaster. Catastrophe happens in a realm that has an
+alternative logic and reality to the Spanish world. Thus, instead of presenting to the reader a pure
+unbiased image of the Americans, he uses the strangeness and difference of the New World to
+his advantage in a text that communicates his remarkable character. Thinking about Cabeza de
+Vaca’s ethnographic descriptions as working with the rest of the narrative, as a brush stoke in a
+larger artistic piece, reveals that he was not radically sympathetic.
+
+137
+
+Cabeza de Vaca, f54r
+
+76
+
+Conclusion
+
+While doing this project, I was asked numerous times if I like Cabeza de Vaca. I had
+never really thought about whether or not I liked a man who had been dead for four hundred
+years. I thought I had taken an academic indifference to the man who wrote the text that I was
+studying. Yet, this is a particularly important question for thinking about a text that is supposed
+to be a representation of Cabeza de Vaca’s character. Cabeza de Vaca wanted the reader to
+conflate the man in the text with his real self, and liking the text is to find favor in an extension
+of the man who wrote the piece.
+When I first read the Relación I liked the piece for its entertainment value. I thought the
+entertaining aspects of the text derived from just the fact that Cabeza de Vaca lived through and
+then wrote about remarkable happenstances. I was awed by the disaster, the tale of survival, and
+his miraculous shamanistic practices. After examining the text we can see how Cabeza de Vaca
+is not simply relaying what happens to him, but he intentionally adds nuance, ambiguity, and
+miraculous scenes, in order to captivate the reader. However, when I examined the text’s
+historical context, I felt duped into falling for a text that spoke the language of imperialism.
+The text is intriguing for me because of the issues that the Relación brings up about the
+connection between art and oppression. I titled my project “The Sympathetic Oppressor” because
+I examine why critics perceive Cabeza de Vaca as being sympathetic to the native peoples, and
+then find his sympathy problematic by looking at how his text is useful for his own imperialist
+agenda. An alternative title for my project could have been “Sympathy for the Oppressor”,
+revealing the implicit ways that treating a person as an artistic author glorifies and romanticizes
+
+77
+the writer. The publication history shows that sixteenth century Spaniards found the text as
+intriguing as the modern day reader does. Cabeza de Vaca artfully constructs a narrative of his
+participation in an oppressive imperialist agenda, and then circulates this narrative as literature.
+Continuing to treat the text as literature, we can easily romanticize the text, applauding the work
+for its art and praising Cabeza de Vaca’s authorial capabilities. Instead of looking at a piece of
+literature isolated from its context, Cabeza de Vaca’s text makes us consider the ways in which
+the political ideologies of the time influenced the way he wrote. I argue throughout the paper that
+Cabeza de Vaca’s use of literary tropes is a direct response to the political climate of the time.
+Instead of examining Cabeza de Vaca’s text wrested from its historical context, we can examine
+how circumstances influence art, and art in return influences people’s subjective comprehension
+of their experiences. Cabeza de Vaca’s text was part of a body of textual works that were shaping
+peoples ideas about the New World.
+Yet, treating the text as literature allows us to think about Cabeza de Vaca’s text beyond
+its supposed realism. Cabeza de Vaca was probably naked when he was raft-wrecked. But he
+uses the image of his nakedness to construct an image with representational value. The critics
+who read Cabeza de Vaca as Chicano make the mistake of taking the realism of the text too
+seriously, equating the man in the text with the real man. The purposeful ambiguity that Cabeza
+de Vaca ascribes to images of himself in the text becomes the permanent alterity of the real man.
+Looking at how he writes in conjunction with what he writes about allows us to think about the
+reality of the text in a different way. The real referent of disasters and tribal customs are things in
+which he uses words to understand. His discourse represents his understanding of the referents.
+Yet, his referents also have the ability to change his discourse and comprehension of his
+experience. Further complicating Cabeza de Vaca’s discourse is the consideration of his
+
+78
+audience. He had to write in a way that appeals to the Charles V, his court, and elite Spaniards.
+He had to form his mode of understanding the New World in a way that his Spanish audience
+could comprehend. Thinking about the ways in which Cabeza de Vaca’s political and historical
+circumstances shape his language gives us access to a reality—the reality of Spain’s imperialist
+projects, the book market, and Cabeza de Vaca’s audience—beyond the circumstances the text
+describes.
+Of course, the choice of whether or not to separate art from the artist is a constant
+conundrum that we face. However, Cabeza de Vaca’s text brings up our problematic desire to
+forgive and forget the intentions of the author or artist. The same way that a modern day reader
+forgives Cabeza de Vaca, because of his captivating narrative, they might forgive an artist
+because of the quality of his or her work. Yet, Cabeza de Vaca’s text reveals that his authorial
+style is shaped from his own subjective understanding of the New World—an understanding that
+experience shapes—and then, in turn, his authorial voice is further formed to communicate this
+understanding as reflective of the oppressive ideologies of the Spanish Crown. Analysis of
+Cabeza de Vaca’s Relación reveals we cannot ignore the ways in which authorial style, literary
+forms, the brushstroke, the camera angle, can both be a result and articulation of oppressive
+ideologies.
+
+79
+
+Bibliography
+
+Adorno, Rolena. "The Negotiation of Fear in Cabeza de Vaca's Naufragios." Representations 33
+(Winter 1991): 163-99. Accessed April 10, 2015. http://www.jstor.org/stable/2928762.
+Adorno, Rolena, Patrick Charles Pautz, and Alvar Nuu0301nu0303ez Cabeza de Vaca. Alvar
+Núnu0303ez Cabeza De Vaca: His Account, His Life, and the Expedition of Pánfilo De
+Narváez. Vol. 1. Lincoln, Neb.: University of Nebraska Press, 1999.
+Bruce-Novoa, Juan. "Shipwrecked in the Seas of Signification." In Reconstructing a Chicano/a
+Literary Heritage, edited by Maria Herrera-Sobek, 3-36. Tucson, AZ: The University of
+Arizona Press, 1993.
+Columbus, Christopher. Journal of Christopher Columbus (during His First Voyage, 1492-93):
+And Documents Relating to the Voyages of John Cabot and Gaspar Corte Real.
+Translated by Clements R. Markham. New York, NY: Burt Franklin, 1971.
+de Los Covos, Fransico. "'Intructions Given to Cabeça de Vaca for his Observance as Treasurer
+to the King of Spain in the Army of Narváez For the Conquest of Florida.'" In Relation of
+Núñez Cabeza de Vaca, 218-23. Translated by Buckingham Smith. March of America
+Facsimile Series. Ann Arbor, Michagan: University Microfilms, 1871.
+Donegan, Kathleen. Seasons of Misery: Catastrophe and Colonial Settlement in Early America.
+Philadelphia: University of Pennsylvania Press, 2014.
+Elliott, J. H. Imperial Spain 1469-1716. London: Penguin, 2002.
+Evans, Brad. Before Cultures: The Ethnographic Imagination in American Literature, 18651920. Chicago: University of Chicago Press, 2005.
+Fuchs, Barbara. "'A Mirror Across the Water: Mimetic Racism, Hybridity, and Cultural
+Survival." In Writing Race across the Atlantic World: Medieval to Modern, edited by
+Philip D. Beidler and Gary Taylor, 9-23. New York: Palgrave Macmillan, 2005.
+Goodman, Nan. "Mercantilism and Cultural Difference in Cabeza de Vaca's 'Relación.'" Early
+American literature 40, no. 2 (2005): 229-50. Accessed August 7, 2015.
+http://www.jstor.org/stable/25057398.
+Krieger, Alex D. We Came Naked and Barefoot: The Journey of Cabeza De Vaca across North
+America. N.p.: Univ Of Texas Press, 2014.
+
+80
+Liparulo, Steven P. "'From Fear to Wisdom': Augustinian Semiotics and Self Fashioning in
+Cabeza de Vaca's Relacion." Arizona Quarterly: A Journal of American Literature,
+Culture, and Theory 62, no. 2 (Summer 2006): 1-25. Accessed July 9, 2015.
+doi:10.1353/arq.2006.0009.
+Merrim, Stephanie. The Cambridge History of Latin American Literature. Edited by Roberto
+Gonza?lez Echevarri?a and Enrique Pupo-Walker. Cambridge: Cambridge University
+Press, 1996.
+Nunez Cabeza de Vaca, Alvar, Rolena Adorno, and Patrick Charles Pautz. The Narrative of
+Cabeza De Vaca. Lincoln: University of Nebraska Press, 2003.
+Rabasa, Jose. Writing Violence on the Northern Frontier: The Historiography of Sixteenth
+Century New Mexico and Florida and the Legacy of Conquest. Durham: Duke University
+Press, 2000.
+Resendez, Andres. A Land so Strange: The Epic Journey of Cabeza De Vaca : the Extraordinary
+Tale of a Shipwrecked Spaniard Who Walked across America in the Sixteenth Century.
+New York: Basic Books, 2007.
+Resendez, Andres. "Cabeza de Vaca and teh Problem of First Encounters." Historically Speaking
+10, no. 1 (January 2009): 36-38. Accessed July 8, 2015. doi:10.1353/hsp.0.0015.
+Smith, Cassander L. "Beyond the Mediation: Estaban, Cabeza de Vaca's Relacion, and a
+Narrative of Negotiation." Early American Literature 47, no. 2 (2012): 267-91. Accessed
+July 8, 2015. doi:10.1353/eal.2012.0021.
+Spitta, Silivia. "Shamanism and Christianity: The Transcultural Semiotics of Cabeza de Vaca's
+Naufragios." In Between Two Waters: Narratives of Transculturation in Latin America,
+by Silvia Spitta, 29-54. College Station: Texas A & M University Press, 2006.
+Thomas, Henry. Periods of Typography: The Spanish XVI Century. Plymouth, Great Britain:
+Mayflower Press, 1926.
+Thomas, Hugh. The Golden Empire: Spain, Charles V, and the Creation of America. New York:
+Random House, 2010.
+Todorov, Tzvetan. The Conquest of America: The Question of the Other. New York: Harper &
+Row, 1984.
+White, Hayden. "The Question of Narrative in Contemporary Historical Theory." Wiley for
+Wesleyan University 23, no. 1: 1-33. Accessed September 7, 2015.
+http://www.jstor.org/stable/2504969?seq=1#page_scan_tab_contents.
+
+81
+
+

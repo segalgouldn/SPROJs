@@ -1,0 +1,3275 @@
+Bard College
+
+Bard Digital Commons
+Senior Projects Spring 2011
+
+Bard Undergraduate Senior Projects
+
+2011
+
+Evaluation of Interfaces for Senior Citizens:
+BigScreenLive, Eldy and PointerWare
+Bella Manoim
+Bard College
+
+Recommended Citation
+Manoim, Bella, "Evaluation of Interfaces for Senior Citizens: BigScreenLive, Eldy and PointerWare" (2011). Senior Projects Spring
+2011. Paper 242.
+http://digitalcommons.bard.edu/senproj_s2011/242
+
+This Open Access is brought to you for free and open access by the Bard
+Undergraduate Senior Projects at Bard Digital Commons. It has been
+accepted for inclusion in Senior Projects Spring 2011 by an authorized
+administrator of Bard Digital Commons. For more information, please
+contact digitalcommons@bard.edu.
+
+Evaluation of Interfaces for Senior Citizens:
+BigScreenLive, Eldy and PointerWare
+
+Senior Project submitted to
+The Division of Science, Mathematics, and Computing
+of Bard College
+by
+Bella Manoim
+
+Annandale-on-Hudson, New York
+May 2011
+
+Abstract
+The evolution of the Internet has revolutionized how people acquire information. People
+are rapidly and easily locating information online, from students doing research projects to adults
+looking for long lost classmates. North America has been dominating with the highest Internet
+penetration rate, currently 77.4%. However, the Internet has not proved to be successful with all
+demographics; a mere 42% of people aged 65+ are Internet users. Internet usage, particularly for
+senior citizens, can be extremely beneficial. One way to achieve a higher percentage of senior
+citizen Internet users is to make the Internet more accessible by improving interfaces for
+common applications.
+The purpose of this study was to compare and examine the usability of three software
+programs for senior citizens, as well as the usability of a touch screen interface. A think-aloud
+usability study was performed, supplemented by pre and post-surveys, examining the combined
+use of touch-screen interfaces and accessibility-enhanced software. The goal was to ascertain
+how useful senior citizens find accessibility-enhanced design and how to improve the user
+experience.
+Time-on-task measurements and user comments suggest the importance of combining
+text and image cues in an interface. Time-on-task and mouse click counts suggest the superiority
+of flat (non-hierarchical) organization of activities that avoid pop-up windows. Finally,
+consistent interface elements help ensure users know where they are within a program,
+eliminating a great deal of confusion.
+
+Acknowledgement
+
+It is a pleasure to thank those who made this project possible. I would like to acknowledge
+Justus Rosenberg for inspiring this work. I owe my deepest gratitude to my parents and
+advisers Rebecca Thomas, Sven Anderson, Robert McGrail and Barbara Luka, who helped
+me with their continued support. I am grateful to Evelyn Aveledo, Wendy Fieser and Louise
+Bay, and everyone else who supported this work.
+
+Table of Contents
+1
+
+INTRODUCTION ............................................................................................................................................. 1
+
+2
+
+BACKGROUND ............................................................................................................................................... 2
+2.1
+WHY IS IT ESSENTIAL THAT SENIOR CITIZENS GET ONLINE? ..........................................................................................2
+2.2
+WHAT ARE THE CHALLENGES FOR SENIOR CITIZENS ..................................................................................................2
+2.2.1 Physical Limitations .................................................................................................................................3
+2.2.2 Cognitive Limitations ...............................................................................................................................3
+2.2.3 Other Barriers .......................................................................................................................................... 3
+
+3
+
+SENIOR CENTERED DESIGN ............................................................................................................................ 6
+3.1
+WHAT ARE THE CURRENT SOLUTIONS ....................................................................................................................6
+3.2
+PROBLEMS WITH CURRENT SOLUTIONS ..................................................................................................................8
+3.3
+SKYPE .............................................................................................................................................................9
+3.4
+SOCIAL MEDIA..................................................................................................................................................9
+3.5
+E-MAIL..........................................................................................................................................................13
+3.6
+A SOFTWARE SOLUTION – BIGSCREENLIVE, ELDY AND POINTERWARE ......................................................................13
+3.6.1 BigScreenLive .........................................................................................................................................14
+3.6.2 Eldy ........................................................................................................................................................16
+3.6.3 PointerWare ...........................................................................................................................................18
+3.7
+RESEARCH ON BIGSCREENLIVE, ELDY AND POINTERWARE.......................................................................................20
+
+4
+
+METHODS .................................................................................................................................................... 22
+4.1
+RECRUITMENT ................................................................................................................................................22
+4.2
+QUANTITATIVE AND QUALITATIVE DATA ..............................................................................................................22
+4.3
+DATA COLLECTION ..........................................................................................................................................23
+4.3.1 Surveys ...................................................................................................................................................23
+4.3.2 Study Tasks ............................................................................................................................................ 25
+4.3.3 Measuring Usability ...............................................................................................................................26
+4.3.4 Usability Data Collection ........................................................................................................................27
+4.3.5 Think-Aloud Protocol..............................................................................................................................28
+4.3.6 Analysis ..................................................................................................................................................29
+4.3.7 Evaluation .............................................................................................................................................. 30
+
+5
+
+SURVEY RESULTS ......................................................................................................................................... 31
+5.1
+5.2
+5.3
+5.4
+5.5
+5.6
+5.7
+
+6
+
+DEMOGRAPHICS..............................................................................................................................................31
+PREVIOUS EXPERIENCE WITH COMPUTERS ............................................................................................................32
+PHYSICAL AND COGNITIVE LIMITATIONS ...............................................................................................................33
+PREFERENCES FOR INTERACTION ........................................................................................................................34
+USER SATISFACTION.........................................................................................................................................35
+TASK EVALUATION AND CONFIDENCE ...................................................................................................................38
+COMPUTER ATTITUDE SCALE, COMPUTER ANXIETY RATING SCALE, AND SYSTEM USABILITY SCALE RESULTS ......................41
+
+TASK COMPLETION RESULTS ....................................................................................................................... 43
+6.1
+6.2
+
+TIMING .........................................................................................................................................................44
+ERROR SUMMARY ...........................................................................................................................................48
+
+7
+
+CONCLUSION ............................................................................................................................................... 55
+
+8
+
+APPENDIX .................................................................................................................................................... 58
+8.1
+DESCRIPTIVE LIST OF ERRORS .............................................................................................................................58
+8.1.1 Eldy ........................................................................................................................................................58
+8.1.2 PointerWare ...........................................................................................................................................62
+8.1.3 BigScreenLive .........................................................................................................................................65
+8.2
+SURVEY RESPONSES TO OPEN ENDED QUESTIONS .................................................................................................68
+8.2.1 If you are not currently a regular user, what has kept you from using a computer?.............................68
+8.2.2 If you have used a computer before, what do you find most confusing or frustrating about using a
+computer? ...........................................................................................................................................................69
+8.3
+GRAPHS ........................................................................................................................................................ 71
+
+9
+
+BIBLIOGRAPHY ............................................................................................................................................ 78
+
+1
+
+1 Introduction
+The evolution of the Internet has revolutionized how people acquire information. People
+are rapidly and easily locating information online, from students doing research projects to adults
+looking for long lost classmates. The Internet has changed the way people communicate,
+rendering phonebooks obsolete [1], and hand-written letters a thing of the past. As of June 30,
+2010 there are 1.96 billion Internet users in the world, a yearly growth rate of 17.8% and a world
+growth rate of 444.8% over the past decade [2]. North America has been dominating with the
+highest Internet penetration rate of 77.4%. Despite this growth, the Internet has not proved to be
+successful with all demographics. While 95% of people aged 18-29 are Internet users, and 78%
+of adults between the ages of 50 and 64 go online, only 42% of people aged 65+ are Internet
+users [4]. Interestingly, the greatest increase in Internet use between 2005 and 2008 falls in the
+70-75 age range, where 45% are online, up from 26% [32].
+There are numerous reasons why this is the case. A smaller population of senior citizens
+using the Internet could be attributed to issues of usability, accessibility, and attitudes, among
+other things. According to eMarketer, Internet use has not fully infiltrated the current generation
+of adults over 65 because many had retired before Internet access became common in the
+workplace [7]. Nevertheless, Internet usage, particularly for senior citizens, can be extremely
+beneficial and even raise the quality of life for this population. One way to achieve a higher
+percentage of senior citizen Internet users is to make the Internet more accessible by improving
+usability. Several software programs, including PointerWare, BigScreenLive, and Eldy, have
+been designed specifically to help senior citizens use the Internet efficiently and comfortably.
+This project explores how successful these programs are in their mission to be user-friendly for
+senior citizens, as well as how they can be improved for better ease of use.
+
+2
+
+2 Background
+2.1 Why is it essential that senior citizens get online?
+Access to the Internet offers senior citizens numerous benefits. In addition to the benefits
+of social networking and connections they can establish with family, friends and old classmates,
+the Internet is a powerful tool for information access; it allows elderly individuals to take a more
+active role in the health care process and to learn about retirement options, as well as work and
+education opportunities [11]. The ability to access reliable online health information has been
+linked to a reduction in anxiety, an increase in confidence, and a decrease in utilization of
+ambulatory services. Studies have also suggested that Internet use for senior citizens “is
+associated with higher levels of social connectivity, higher levels of perceived social support,
+decreased feelings of loneliness, lower levels of depression, and generally more positive attitudes
+toward aging” [33].
+Senior citizens have the power to enhance their independence by utilizing online services
+such as banking, shopping, and healthcare management, and pursuing leisure activities including
+recreation and communication using the Internet [37]. A large scale study, “Internet Use and
+Depression Among the Elderly,” which examined survey responses from 7,000 senior citizens,
+revealed that spending time online reduces depression by 20% for this demographic [36].
+
+2.2 What are the challenges for Senior Citizens
+As humans reach the age of 65 and older, normal physical and cognitive limitations arise
+that hinder the ability to use technology. Even though today’s older adults are healthier than
+previous generations, the likelihood of developing a disability still increases with age and many
+older people have at least one chronic condition. According to the Pew Internet and American
+Life Report in 2004, senior citizens with disabilities are less likely to use technology such as
+computers and the Internet [30].
+
+3
+2.2.1
+
+Physical Limitations
+
+The most common physical change that occurs due to the aging process is worsening of
+vision, which includes but is not limited to “reductions in the amount of light that reaches the
+retina, loss of contrast sensitivity, and loss of the ability to detect fine details” [8]. This creates
+difficulty with small text size and color perception [9].
+Many older adults also experience a decline in hearing ability, as well as changes in
+motor skills including slower response times, disruptions in coordination, and loss of flexibility
+[30]. Difficulties with motor skills result in trouble using input devices such as the mouse and
+keyboard.
+2.2.2
+
+Cognitive Limitations
+
+The likelihood of developing a cognitive impairment also increases with age. According
+to “The Impact of Aging on Access to Technology” [30], cognitive functions pertaining to
+memory, attention, and spatial cognition gradually decline with age. This is particularly the case
+when confronted with unfamiliar situations, such as new technology. Declines in working
+memory and attentional capacity make it difficult for senior citizens to learn new concepts and
+skills, recall procedures, perform concurrent activities and switch attention between different
+displays of information.
+2.2.3
+
+Other Barriers
+
+Lack of experience with computers creates anxiety, lack of confidence, and negative
+attitudes toward computers; however, effective learning and familiarity with technology
+decreases anxiety and reluctance. Although older adults are reported to have significantly higher
+computer anxiety than younger adults, surveys repeatedly suggest that training the elderly to use
+computers reduces their levels of computer anxiety [11, 40]. In addition, computer use helps to
+
+4
+
+increase self-efficacy and lower computer anxiety thereby increasing overall life satisfaction
+[34].
+Senior citizens also tend to be concerned with personal and private information being
+stolen over the Internet. They are afraid of damaging the computer and getting viruses and
+worms. It is no surprise: according to a study at Kaspersky Lab, a leading computer security
+company, the number of malicious programs has risen tremendously over the years. Figure 1
+below, from a Kaspersky Security Bulletin in 2010, shows the jump in malware samples detected
+over a 7 year period [44]. The jump that occurred between 2007 and 2008 can be attributed to the
+spread of rootkits, malicious programs which target online games, and botnets [58].
+
+Figure 1: Malware Samples Detected over a 7 Year Period
+According to Kaspersky Lab research, the main focus of modern malware has been to
+steal users’ accounts, regardless of whether they are of the banking, e-mail or social networking
+variety. For 2011, they predict that a new class of spyware will emerge, stealing any and all
+information including location, work, friends, income, eye color, hair color, etc. Inexperienced
+and novice computer users will unknowingly click on advertisements and pop-ups, opening
+malicious links and entering personal information. Some people are unaware of the dangers of
+
+5
+
+the Internet, though wary about entering personal information. Others simply do not have the
+experience to tell an advertisement from an information source.
+Barrier to use
+
+Reference
+
+Perceived lack of benefit
+Lack of interest or
+Motivation
+
+Mann et al. (2005), Melenhorst et al. (2006)
+Selwyn, Gorard, Furlong, and Madden (2003),
+Carpenter and Buday (2007), Morris, Goodman,
+and Brading (2007), Peacock and Kunemund
+(2007)
+Opalinski (2001), Peacock and Kunemund
+(2007), Ng (2008)
+Peacock and Kunemund (2007)
+Festervand and Meinert (1994), White and
+Weatherall (2000), Opalinski (2001), Saunders
+(2004), Mann et al. (2005), Carpenter and
+Buday (2007)
+Saunders (2004)
+
+Lack of knowledge
+Lack of access
+Cost
+
+Fear of hardware being
+outdated quickly
+Perceived barriers due to
+physical limitations
+
+Carpenter and Buday (2007), Saunders (2004)
+
+Table 1: Barriers to Computer Use by Older Adults
+Numerous studies summarized in Table 1 from “Computer Use by Older Adults” have
+looked at barriers to computer use by older adults [37]. One study on older adults’ use of
+information and communications [33] suggested that the top 5 reasons for not using ICT
+(information and communication technologies) are lack of interest/motivation (by 25% of
+individuals who had not made use of a computer in the past 12 months), feeling too old (21%),
+having no need (18%), no skills/inability to use computers (13%) and no access (7%). Small
+percentages of people cited ill health, fear of computers being too technical, and cost as chief
+reasons for not using ICT (2%, 2% and 1%, respectively).
+Lack of interest and relevance to life as the chief reason for people not using computers
+suggests that there might be a lack of overall awareness for the many potential benefits
+computers can offer senior citizens. Similarly, Melenhorst, Rogers, and Bouwhuis (2006) assert
+that it is a lack of perceived benefit, rather than cost issues, keeping older adults from seeking
+
+6
+
+out and using new technologies, either because their needs are not met by the technology or they
+do not understand they ways in which they would benefit from the technology [37].
+
+3 Senior Centered Design
+3.1 What are the current solutions
+There are various current solutions proposed for increasing web accessibility for senior
+citizens. Several institutions such as the National Institute on Aging [8] and the National Library
+on Medicine [10], as well as the Web Content Accessibility Guidelines created by the World
+Wide Web Consortium [19], provide design guidelines to follow. The NIA published a checklist
+called, “Making Your Website Senior Friendly” [8]. It consists of recommendations about visual
+website components like typefaces, text sizes, physical spacing and justification, and
+backgrounds and colors. They also discuss how to present information in terms of style,
+phrasing, simplicity, and organization. There are media and layout guidelines, as well as other
+information flow tips. In addition, several reports published by the Nielsen Norman Group
+provide guidelines for design, including “Web Usability for Senior Citizens: 46 Design
+Guidelines Based on Usability Studies with People Age 65 and Older” [16, 17]. The World Wide
+Web Consortium, a leading international community that develops web standards, also has a
+Web Accessibility Initiative that develops guidelines widely regarded as the international
+standard for web accessibility, as well as support materials and other resources [19].
+The United States Government has also taken a stance on accessibility, amending the
+Rehabilitation Act of 1973 with Section 508 Laws in 1998. Section 508 requires that Federal
+agencies make electronic and information technology accessible to people with disabilities. It
+was enacted to eliminate barriers in IT, helping individuals with impairments obtain and use
+information quickly and easily. The Federal Information Technology Accessibility Initiative
+
+7
+
+offers information and technical assistance on implementing Section 508, including a checklist
+for ensuring accessibility when designing websites [18].
+In addition, the U.S. Department of Health and Human Services (HHS), in partnership
+with the U.S. General Services Administration, came out with Research-Based Web Design &
+Usability Guidelines [22]. This was originally created as part of the National Cancer Institute's
+usability.gov project and at its start in March of 2000, consisted of over 500 guidelines, based on
+the best available research, to help designers build Web sites. Since 2000, it has undergone
+several transformations. A first internal review process narrowed down the very large list to a
+more manageable list of 398 guidelines. A further look determining the “relative importance” of
+each guideline narrowed it down to 287, and after several more cuts a final set of 187 guidelines
+was published in 2004. This set was updated and edited, and the most recent 2006 version
+consists of 209 carefully picked guidelines, each with a “strength of evidence” and “relative
+importance” ranking from 1 to 5.
+In addition to the numerous sources that publish usability standards guidelines, web
+browsers and operating systems also have personalization tools for accessibility. As an example,
+the Windows 7 operating system has an “Ease of Access” center within the control panel, where
+it is possible to change and optimize visual display settings, text size, how the mouse and
+keyboard work, and adjust audio devices replacing sounds with visual cues and using speech
+recognition. There is the option to accommodate low vision and use a screen reader, change
+contrast, specify single or double clicking to open folders, edit font settings, and more. Apple’s
+OS X also has accessibility tools, with built-in screen reading, voice over technology, automatic
+drivers for braille displays, screen magnification, and task automating.
+Web browsers also have accessibility tools. The top three current web browsers, Mozilla
+Firefox, Internet Explorer, and Google Chrome with 42.8%, 26.6% and 23.8% usage statistics
+
+8
+
+[24] (as of January 2011) respectively, all have special features for accessibility. Mozilla Firefox
+released a Voluntary Product Accessibility Template in 2009 [27] citing accessibility
+compliance. Firefox has numerous extensions and add-ons available. such as screen readers,
+theme font size changers, page zoom buttons, mouse-less browsing, and many others [26].
+Firefox has accessibility themes or ‘skins’ that change the appearance of Firefox to have high or
+low contrast and extra large icons and buttons with large bold text, helpful for people with visual
+impairments. Internet Explorer 8 has accessibility features, some of which include accelerators to
+simplify common tasks, using the keyboard to select text and move around a webpage,
+customizable font and colors, and zooming to enlarge everything on the page [28]. Google
+Chrome also has over 5,000 accessibility extensions to choose from, focusing on helping people
+with special needs, such as limited vision [29]. Chrome has features for zooming, web browsing
+using the keyboard instead of the mouse, smooth mouse gestures, color control, and others.
+
+3.2 Problems with current solutions
+Although the Section 508 Laws require Federal agencies to make information technology
+accessible for people with disabilities, numerous websites still do not implement the latest
+recommendations. Too often, usability is not a major concern in web development and the proper
+checks are not made to ensure a user friendly web site.
+Browsers also have certain tools for accessibility, but they are often hard to find without
+specific knowledge of them. Many people are unaware that these options exist, especially the
+populations that would most benefit from them. These add-ons would all be quite difficult for a
+novice user to install; many novice users do not know what downloading and uploading mean,
+and are reluctant to even install safe software updates. Unless someone explicitly searches for
+these options, it is difficult for a novice, senior citizen to be able to use a browser properly and
+comfortably.
+
+9
+
+There are numerous shortcomings with all of the current solutions to the problem of
+accessibility. The checklists available and all of the literature that has been written about good
+usability practices, unfortunately do not get enough attention as many websites are not up to par
+with standards, especially those created by individuals without the resources or time to devote to
+good usability practices.
+
+3.3 Skype
+Skype, a popular video and voice call and chatting program, has the power to improve
+senior citizens' quality of life by offering them the opportunity to talk with distant friends and
+family. Currently, younger Internet users are significantly more likely to take part in video chats
+or calls. Approximately 29% of the Internet users ages 18-29 have participated in video calls,
+chats or teleconferences, compared with 15% of Internet users age 65 or older [49]. However,
+according to MobiHealthNews.com and the New York Times, Skype is expanding into the
+telehealth and assisted living facilities markets. Experts predict that services such as Skype will
+become more heavily utilized as baby boomers age, due largely to advances in video
+communication programs allowing for independent living and improved healthcare in remote
+areas [45]. Skype allows elderly individuals to feel more included in their social circles,
+particularly when they have issues with mobility.
+
+3.4 Social Media
+The impact of social media and social networks on older adults’ well-being has become
+an increasing area of interest for gerontology research. Social media usage has grown
+tremendously among Internet users ages 50 and older. Among users between the ages of 50 and
+64, social media use rose from 22% in April 2009 to 42% in May 2010. Among users ages 65+,
+usage of social media grew from 13% to 26% within that same time period [5, 39]. Although
+
+10
+
+younger generations are currently more likely to use social networking sites, the fastest growth
+has come from Internet users 74 and older. Social network site usage for this demographic has
+quadrupled since 2008, from 4% to 16% [50].
+According to the Pew Research Center’s Internet & American Life Project’s new report,
+“Older Adults and Social Media,” [5] between April 2009 and May 2010, Internet users between
+the ages of 50-64 who said they use a social networking site increased 88%, from 25% to 47%,
+and use among those ages 65 and older grew 100%, from 13% to 26%. The growth rate for those
+ages 18-29 by comparison was only 13%, from 76% to 86%. One of the reasons for this rapid
+rise, according to Mary Madden, Pew senior research specialist and author of the report, is that
+senior citizens are aware that their children and grandchildren are spending time on Facebook
+and Twitter, and want to keep up with them to bridge generational gaps, so to speak. Mary
+Madden added, “There are few other spaces — online or offline — where tweens, teens,
+sandwich generation members, grandparents, friends and neighbors regularly intersect and
+communicate across the same network.”
+Studies have suggested that active participation in seniors’ online communities may
+contribute to the well-being of older adults. As noted in a 2009 study on seniors in online
+communities, Social support affects Psychological Well-Being (PWB) by doing the following:
+helping people cope with difficult life events, strengthening personal control and feelings of selfworth, encouraging hope and optimism, and enhancing mental stimulation and active social
+engagement [33]. The above study looked at 14 established online communities for senior
+citizens over a year long period. It found that the top 6 subjects discussed were the following:
+1. Fun on line – Over 140,000 posts including funny stories and jokes that people share
+with each other, as well as online games, riddles, etc.
+2. Retirement- Over 94,000 posts including discussions of retirement rights, pensions,
+relocation, etc.
+
+11
+
+3. Family- Over 77,000 posts concerning spousal relationships, parenthood, and
+grandparenting.
+4. Health- Over 56,000 posts dealing with both sickness (e.g., medical conditions,
+medicines) and wellness (e.g., nutrition, beauty).
+5. Work and Study- Over 50,000 posts that relate to possible occupations for retirees,
+including jobs and courses
+6. Recreation- Over 48,000 posts including recommendations of books, films, etc.
+The researchers came to several valuable conclusions about the benefits of these online
+communities for senior citizens. The nature of the popular discussion subjects, namely
+retirement, family, and health, suggest that when facing transitions that occur later in life like
+retirement, loss, and declining health, senior citizens “find comfort in sharing their emotions
+online with peers, who may have been through similar experiences and can provide
+understanding and good advice. In addition, the dominance of ‘Fun on line’ suggests that these
+communities also offer relief and distraction from stressful circumstances. When feeling bored,
+sad, or lonely, one can avoid these feelings by chatting and playing with other online friends.”
+Table 2 from “Computer Use by Older Adults” [37], and Figure 2 from “Generations Online
+2010: Summary” [50] summarize the most common computer uses of older adults;
+communication tools, such as e-mail, are the most widely utilized of computer functions.
+Activity
+Communication and social
+Support
+Eg. contact with family and friends, coping with
+grief, and dealing with geographic boundaries or
+limited mobility via e-mail, instant messaging, and
+online forums
+Leisure and entertainment:
+Eg. offline interests and hobbies such as genealogy
+Information seeking-health:
+
+Information seeking-education:
+Productivity:
+Eg. mental stimulation
+
+Table 2: Common Uses for Computers, for Older Adults
+
+Reference
+McMellon and Schiffman (2000), Morrell
+et al. (2000), Opalinski (2001), Mann,
+Belchior, Tomita, and Kemp (2005), Thayer
+and Ray (2006), Alexy (2000)
+
+McMellon and Schiffman (2000), Opalinski
+(2001), Campbell (2008)
+Morrell et al. (2000), Tak and Hong (2005),
+Flynn, Smith, and Freese (2006), Campbell
+(2008), Macias and McMillan (2008)
+McMellon and Schiffman (2000), Opalinski
+(2001), Dorin (2007)
+White and Weatherall (2000), Campbell
+(2008)
+
+12
+
+Figure 2: 2010 Summary of Popular Internet Activities by Generation
+
+13
+
+3.5 E-mail
+In a study called, “Usable Computers for the Elderly: Applying Coaching Experiences,”
+[46] authors Kantner & Rosenbaum observe that the primary reasons why senior citizens started
+to learn how to use computers were e-mail and children. Seniors often bought their computers
+because they wanted to communicate with their friends and children; they saw e-mail as a fast,
+cost-effective way to achieve this and felt that they were ‘missing something’ without it.
+Additionally, children often purchased computers for their parents because they wanted e-mail
+contact with them and felt it was ‘time to learn.’
+According to Pew Internet and American Life Project data from April, 2009, 90% of US
+Internet users have gone online and sent or read e-mail. Each day, an incredible 247 billion emails are sent and the number of e-mail users (1.4 billion in 2009) is expected to rise to 1.9
+billion by 2013 [3]. Senior citizens are also utilizing the benefits of e-mail; 92% of those ages 50
+to 64, and 89% of those ages 65 and older say they send or read e-mail, and more than half of
+each age group e-mails on a typical day [39].
+
+3.6 A Software Solution – BigScreenLive, Eldy and PointerWare
+BigScreenLive[53], Eldy[51], and PointerWare[52] are software application solutions to
+the problem of accessibility for senior citizens. Each of these software programs has its own email address the user sets up with installation of the program. They have simple built in e-mail
+applications, easy interfaces specifically tailored to senior citizens, compatibility with touch
+screen computers, and support. BigScreenLive and PointerWare have a one-month free trial
+followed by the option to purchase (annual membership costs $119.40 for BigScreenLive, and
+PointerWare has a one-time fee of $149), and Eldy is free software. These programs also have
+some built in security features to protect people from malicious attacks. PointerWare runs on top
+of other windows, so any pop-ups, automatic updates, update downloads and virus updates are
+
+14
+
+hidden from the user to avoid causing confusion. PointerWare also filters e-mail using
+SpamAssasin. The BigScreenLive system checks all incoming e-mail to make sure it is free of
+viruses, providing their own internet browsing security, spam filter, and pop-up blocking. Eldy
+also has spam protection, with pop-up blocking as well. Although they all aim to help senior
+citizens utilize the Internet in a user friendly way, and each includes its own e-mail and web
+browsing components, these programs differ in some of the other features and components they
+include, as well as layout, navigation and functionality.
+3.6.1
+
+BigScreenLive
+
+BigScreenLive has a home page with 7 large colorful buttons on the left hand side of the
+screen (Mail, Photos, DailyDigest, Web, Shop, Games, Tools) and a photo of the day, quote of
+the day, and weather report on the main part or center of the screen (see Figure 3).
+The e-mail system has 5 tabs on top, much like file folder tabs, saying InBox, Write Mail,
+Address Book, Mail Sent, and Trash from left to right (see Figure 4). The InBox is where new
+mail arrives and old mail is stored; users have the option to reply, forward, and delete e-mails.
+The write mail tab shows a blank e-mail for the user to fill in and send, with a simple “to” line, a
+subject, and a body of the letter. The address book allows users to save information for their
+contacts. The mail sent tab shows all e-mails that have already been sent, and the trash shows
+deleted e-mails. Viruses and spam are automatically blocked by BigScreenLive to keep them
+from getting to the user. BigScreenLive protects users from unsolicited e-mail, viruses, phishing,
+and pop-up advertisements [53].
+BigScreenLive has a photo sharing category (see Figure 5) where users can keep digital
+photos in albums, play them in a slideshow, print them, and send them to friends and family by
+e-mail. There is the option to keep albums private or share them with friends and family. There is
+
+15
+
+also a portal online where friends and family can sign on to upload pictures and share on the
+friends and family portal.
+The Daily Digest category lets users see the top news stories from Yahoo! News. There
+are 5 tabs with news, money, health, sports and entertainment information. Web Browsing (see
+Figure 7) is another category, with three tabs for the users’ favorites, ‘family favorites’, and ‘our
+favorites,’ i.e. suggested favorites by the creators of the program. There is one search bar where
+URL’s can be entered as well as search terms. Google is the default search engine. There is also a
+button at the bottom of the screen to add bookmarks that get saved in ‘my favorites’.
+
+Figure 3: Home Page for BigScreenLive
+
+Figure 4: E-mail
+
+Figure 5: Photo Sharing
+
+Figure 6: Daily Digest
+
+16
+
+Figure 7: Web Browsing
+There is also an online shopping category, powered by Amazon.com, a games category
+with 11 available games to play, and a tools category for managing user information. In addition,
+there are several great features. At the bottom of the screen, there are buttons for enlarging the
+text and for minimizing the text, a help button, and a print button for easy access printing.
+3.6.2
+
+Eldy
+
+The Eldy association is a non-profit organization designed in 2005 in Italy and introduced
+in Mexico, France, the Netherlands, Germany, and the UK. The Eldy software program has
+already been translated into 22 languages. It currently has approximately 220,000 users. Eldy’s
+home page (see Figure 8) is called ‘The Square.’ There are six buttons on the home screen: mail,
+surf the web, my profile, chat, Eldy TV, and useful tools. The e-mail category takes the user to a
+screen with 3 options, mail, write, and address book. If a user goes to mail, they will have three
+more options: new mail, mail read, and mail sent. The ‘surf the web’ button on the home screen,
+or ‘square,’ takes the user to an Internet browsing page where there are pre-set websites (see
+Figure 9) on what they call the ‘Portal’, as well as a place for bookmarks and a text field for
+URL’s. ‘My Profile’ contains general information about the user, and the chat category (see
+
+17
+
+Figure 10) allows the user to chat with friends, relatives and other people online using Eldy from
+around the world.
+Eldy also has a category called ‘Eldy TV’ (see Figure 12) that shows a list of popular
+websites where users can watch different videos. Hulu is featured, as well as CNN.com,
+YouTube and TED. Lastly, a useful tools category (see Figure 11) has three options: ‘skype’- a
+video chatting program, ‘notepad’- a text editor, and ‘documents’- for picture management.
+
+Figure 8: The Square (Eldy’s home page)
+
+Figure 10: Chat
+
+Figure 9: Internet
+
+Figure 11: Useful Tools
+
+18
+
+Figure 12: Eldy TV
+3.6.3
+
+PointerWare
+
+PointerWare, deployed in 2008, is currently available in beta format in English, French,
+Spanish, Japanese, Mandarin and Cantonese. It has a home screen (see Figure 13) consisting of 6
+large icons, namely ‘Internet’, ‘photos’, ‘mail’, ‘phone’, ‘games’, and ‘exit’. The mail option
+takes the user to a screen with three buttons, one to read mail, one to write mail, and one to find
+mail (see Figure 14). When the user opens the e-mail, (see Figure 15) they can delete it, forward
+it, print it, reply to it, have the program read the e-mail out loud, and go to the next e-mail or next
+page of the e-mail. The Internet button from the home screen will take the user to a screen for
+web browsing (see Figure 16), with a simple instruction to type what you are searching for, and
+click ‘Search Now!’. Underneath the searching textbox, saved web pages are listed. When a user
+accesses a web page, they can save it, increase or decrease text size with two large magnifying
+glass symbol buttons, as well as print and go back. There is also a button for scrolling down (see
+Figure 17). The phone button from the home screen links up to Skype, (see Figure 18) and
+automatically imports online contacts into the “Whom do you want to call?” window. The user
+must be signed into Skype in the background of the program in order to use this feature. The
+photos button automatically saves photos that have been received in e-mails. There is also a
+
+19
+
+games category (see Figure 19) where the user is presented with card games, board games, trivia
+quiz, word games and web games. Some of the games link up to existing games on Yahoo!
+Games, while others are built into the PointerWare package.
+
+Figure 13: PointerWare Home Screen
+
+Figure 14: Mail
+
+Figure 15: Sample E-mail
+
+Figure 16: Internet Browsing
+
+Figure 17: Sample Search Page
+
+Figure 18: Skype
+
+20
+
+Figure 19: PointerWare Games
+Table 3 below displays a summary comparing the basic offerings of each software
+program.
+
+E-mail
+Sent mail folder
+Internet Browsing
+Bookmarks/Favorites
+Profile
+Chat
+Skype
+Games
+E-mail Spam filter
+Attach Documents
+Attach Pictures
+Notepad
+Photo album
+
+Eldy
+X
+X
+X
+X
+X
+X
+X
+
+PointerWare BigScreenLive
+X
+X
+X
+X
+X
+X
+X
+X
+
+X
+X
+X
+X
+X
+
+X
+X
+X
+X
+X
+X
+
+X
+X
+X
+X
+
+Table 3: Summary of Software Offerings
+
+3.7 Research on BigScreenLive, Eldy and PointerWare
+Although a lot of research has been done on aging and technology, there has been little
+research analyzing the use of programs such as BigScreenLive, Eldy, and PointerWare outside of
+internal company research done to improve these products.
+A study on the usability of Eldy was made by the Faculty of Psychology, University of
+
+21
+
+Padua, Center for Cognitive Science by analyzing the eye movements of a sample of elderly
+Eldy users. The observations, mouse logging and a cognitive walkthrough study showed that
+Eldy is generally easy to use, with some exceptions, and the difficulties encountered by the
+elderly are due to non-recognition of some commands or icons as opposed to an inadequate
+understanding of the text and images. Difficulties are more often attributed to unfamiliarity with
+some specific procedures that are generally used in interaction interface [43].
+In a study titled “Senior-Friendly Computer Interface to Enhance Learning and
+Independent Use of Email Among Seniors” [38] that trained 25 elderly people to login, read and
+write e-mail on Windows Live Hotmail and PointerWare, gathering task performance time,
+number of ‘errors’ and a subjective confidence score, users performed all training and tasks
+significantly faster using PointerWare compared to Windows Live Hotmail. They were also
+more confident using PointerWare and made 84% fewer errors.
+Some of the research that mentions these programs includes a 2009 Market Overview
+called “Technology for Aging in Place” [31]. This overview revealed that seniors and caregivers
+are interested in the technological advances that exist, but are not necessarily aware of what
+exists. Nearly half of 50-64 year-olds have broadband connections and only 7% of caregivers
+currently use a computer to stay in touch with the person that they help. Approximately 90% of
+caregivers believe they would have difficulty persuading the person they help use a personal
+computer to stay in touch. The overview lists four “Aging in Place” technology categories; Email, Social Networking, and Education and Learning fall into the Communication and
+Engagement, and Learning and Contribution categories. PointerWare and BigScreenLive are
+briefly mentioned as “simplification products” that mask the complexity of PC applications.
+“The PC – and its unfettered wired and wireless access to the Internet -- offers by far the
+broadest access to technologies to help seniors remain in their homes.”
+
+22
+
+This research aims to compare and examine the usability of the three software programs
+for senior citizens, as well as the usability of a touch screen interface. A think-aloud usability
+study was supplemented by surveys, examining the combined use of touch-screen interfaces and
+accessibility-enhanced software. The goal was to ascertain how useful senior citizens find
+certain design decisions and how to improve the user experience.
+
+4 Methods
+The study was performed one-on-one; each participant would come for one hour to work
+on an HP TouchSmart 300 computer that was provided, and they would complete an initial
+survey, several tasks on the computer, and a concluding survey.
+
+4.1 Recruitment
+In order to get a good representative spread of people in different capacity/skill levels
+(e.g., no prior computer use, novice with some use, some skill with more previous use), 32
+participants aged 55+ were recruited using fliers, word of mouth, and phone calls. The majority
+of participants came from independent living communities. The major benefit of using real
+potential users as opposed to experts is that regardless of the skill and experience of an expert
+usability specialist, they are still evaluators who emulate the user community and are not typical
+users of the web site. Real users on the other hand often have unexpected and surprising
+problems, and sometimes have no problems where we expect them to have the most. By
+studying actual users and the key audience group, senior citizens, I sought to discover which
+problems users will encounter most frequently [15].
+
+4.2 Quantitative and Qualitative Data
+My approach was to obtain both quantitative and qualitative data for the most in-depth
+analysis. The pre and post-surveys contained rating scales designed to capture estimates of
+
+23
+
+magnitude, as well as several open-ended questions where users could describe their feelings,
+experiences and opinions (see Section 8.2). Likert scale ratings were used to get a quantitative
+subjective measurement for satisfaction, and their comments related to satisfaction for more in
+depth, qualitative information. A screen, audio and video logging software called Camtasia [55]
+was utilized to log the sessions. A web camera was set up over the computer or in some cases to
+the side of the computer (depending on the lab area) pointed at the computer screen, to
+distinguish screen touches from mouse clicks, because the Camtasia software currently cannot do
+this. Videos of each session were manually viewed and analyzed to evaluate performance based
+on performance metrics, also obtaining additional quantitative data such as task success, errors
+and efficiency, as well as qualitative subjective data like the participant's comments related to
+completing the tasks.
+
+4.3 Data Collection
+4.3.1
+
+Surveys
+
+Two surveys were designed, a pre-survey that participants would complete before doing
+the computer tasks, and a post-survey they would complete afterward. Participants would have
+15 minutes to fill each survey. The subjective, self-reported preference data give the most
+important information about participants’ perception of the system and their interaction with it.
+Often times, even if a user was frustrated with a certain subtask, they were still overall very
+satisfied with the program.
+4.3.1.1 Pre-Survey
+
+The pre-survey starts with some basic demographic information, such as age, gender,
+education and employment. All of the participants were 55+ as per study requirements and they
+all happened to be retired as well. Next, basic health information was asked pertaining to
+
+24
+
+limitations with hand mobility, eye sight, hearing and memory. Participants were asked to gauge
+their current comfort with computers on a 7-point Likert scale, and were asked some technical
+information to see how they learned to use computers (if they had ever used a computer before),
+how often they used computers, what kinds of tasks they have used computers for, and what their
+interaction preference is (mouse, touchpad on a laptop, or touch screen). None of the participants
+had ever used a touch screen before. In order to gauge whether or not the e-mail and web
+browsing components of the software they used were easier to use than previous experience, I
+asked them to measure their previous ease-of-use of e-mail and web browsing. Next on the
+survey were 14 questions that I grouped into 3 categories: comfort/discomfort, interest in
+computers, and confidence. The last two questions on the survey were open-ended, and asked
+those who have used a computer before what they have found to be most frustrating or confusing
+about using a computer, and those who are not regular computer users what has kept them from
+using a computer.
+4.3.1.2 Post-Survey
+In deciding the best questions to ask to obtain the most useful results, I looked to a study
+in 2004 titled “A Comparison of Questionnaires for Assessing Website Usability,” that looked at
+the effectiveness of various questionnaires for assessing the perceived usability of an interactive
+system. The study concluded that one of the simplest questionnaires studied, the System
+Usability Scale (SUS), with only 10 rating scales, yielded some of the most reliable results
+across sample sizes. It is also the only questionnaire of those studied whose questions address
+different aspects of the user’s response to the website as a whole (e.g., “I found the website
+unnecessarily complex”, “I felt very confident using the website”) as opposed to asking the user
+to evaluate specific features of the website (e.g., visual appearance, organization of information,
+etc) [25].
+
+25
+
+I used the System Usability Scale (SUS) as a tool for gaining insights to user satisfaction.
+The SUS, developed by John Brooke at Digital Equipment Co Ltd., Reading, United Kingdom,
+is a ten statement questionnaire whose responses indicate the degree of agreement or
+disagreement on a 7-point Likert scale.
+I also included questions from the Computer Attitude Scale (CAS) and Computer
+Anxiety Rating Scale (CARS)[16]. It has been found that many older adults tend to
+underestimate their actual computer knowledge and under-confidence in their abilities may pose
+a major hindrance for older adults to master computer technology [34]. This is one of the many
+reasons it is important to look at computer confidence and anxiety. The Computer Attitude Scale
+and its three subscales (Computer Liking, Computer Confidence, and Computer Anxiety) is an
+effective, reliable, and convenient instrument to measure attitudes towards learning about and
+using computers [12,41].
+4.3.2
+
+Study Tasks
+
+Each user was given two tasks to complete using one of the three interfaces, involving
+using e-mail and searching on the Internet for information. Both had subtasks, and participants
+were given 15 minutes to do each task. In order to keep the order of the tasks from impacting the
+results, counterbalancing was used to randomize the order that participants would do the tasks.
+Some participants started with the e-mail task, and others with the web browsing task. In order to
+pick the tasks, I looked at what kinds of activities senior citizens tend to do most using the
+Internet, to give them tasks that they would be most likely to do on their own if they were to use
+a computer. It has been found that senior citizens tend to use computers and the Internet for the
+same activities that younger users are known to, but perform different activities to different
+extents. Table 2 and Figure 2 in Section 3.4 summarize the most common computer uses of older
+adults.
+
+26
+
+Since the tasks were slightly different for the three programs, meaning, there were certain
+different steps to take to get the same result, I chunked some of the small subtasks or steps to
+keep consistency amongst the programs. I chunked the subtasks the following way for the e-mail
+task:
+1. Go to your e-mail
+2. Add address to address book
+3. Write and send e-mail
+4. Go to read new mail
+5. Print e-mail
+6. Delete e-mail
+For the web browsing task, I chunked the subtasks into the following:
+1. Go to the web to browse for a recipe
+2. Search for a lasagna recipe
+3. Increase text size
+4. Add bookmark
+5. Locate saved bookmark
+4.3.3
+
+Measuring Usability
+
+There are many different ways to go about defining usability. In 1998, the International
+Standards Organization (ISO 9241-11) defined usability as the “Extent to which a product can be
+used by specified users to achieve specified goals with effectiveness, efficiency and satisfaction
+in a specified context of use” [20]. Jakob Nielsen, a leading web usability consultant and
+inventor of heuristic evaluation among other usability methods, writes in his 1993 book Usability
+Engineering [54], “It is important to realize that usability is not a single, one-dimensional
+property of a user interface. Usability has multiple components and is traditionally associated
+with these five usability attributes: learnability, efficiency, memorability, errors, satisfaction.”
+He goes on to further define those attributes [21]:
+
+27
+
+1. Learnability: How easy is it for users to accomplish basic tasks the first time they
+encounter the design?
+2. Efficiency: Once users have learned the design, how quickly can they perform tasks?
+3. Memorability: When users return to the design after a period of not using it, how
+easily can they reestablish proficiency?
+4. Errors: How many errors do users make, how severe are these errors, and how easily
+can they recover from the errors?
+5. Satisfaction: How pleasant is it to use the design?
+Human Computer Interaction and Web Usability expert Steve Krug, in his 2005 book,
+Don’t Make Me Think, writes “After all, usability really just means making sure that something
+works well: that a person of average (or even below average) ability and experience can use the
+thing - whether it's a web site, a fighter jet, or a revolving door - for its intended purpose without
+getting hopelessly frustrated” [17].
+4.3.4
+
+Usability Data Collection
+
+In line with standard definitions of usability, data was grouped into three categories:
+effectiveness, efficiency, and satisfaction. I defined effectiveness as the tasks completed
+successfully and number of errors made by a user during task performance. Participants’
+comments and opinions of how they felt completing a task were also taken into account. To
+measure efficiency, the number of mouse clicks performed during task completion was counted.
+Satisfaction was measured with Likert scale ratings. Though measurements of time were taken,
+these measurements are slightly less reliable due to the impact that the think-aloud protocol has
+on the time required to complete a task. Camtasia [55] was utilized to log the sessions, and
+Microsoft Excel was used to store and analyze the results of the two surveys.
+
+28
+4.3.5
+
+Think-Aloud Protocol
+
+The Think-Aloud technique is intended to capture what participants are thinking while
+they perform tasks [57]. Participants are encouraged to speak aloud their thought process and
+commentary, any confusion they might have, frustration, as well as note things they like. The
+technique allows the researcher to capture preference and performance information at the same
+time. The researcher also gets clues about why people make certain actions and what their
+expectations are, helping to trace why potential errors occur. Sometimes thinking aloud helps
+participants focus on their task, and concentrate. However, some people find speaking aloud an
+unnecessary distraction, and find it very unnatural. These participants have to be encouraged to
+speak aloud, disrupting their rhythm. Thinking aloud also slows the thought process, making
+people more careful and possibly preventing errors that might have occurred otherwise [47]. For
+my purposes, the think-aloud technique worked fairly well. Some participants were reluctant to
+think aloud, but valuable information was gleaned from their vocalization of thought processes.
+When participants would forget to speak aloud or pause for a period of time, I kept a
+technique sheet and used several techniques listed in the “Methods for successful Thinking Out
+Loud Procedures” guide by Xerox Corporation [23] as well as Rubin and Chisnell’s “Handbook
+of Usability Testing” [47] to keep them vocalizing. I would prompt, echo, use ‘conversational
+disequilibrium’ and summarize at key points. Some neutral questions I would ask include:
+1. What is your goal?
+2. What did you expect when you did that?
+3. What are you thinking right now?
+4. You seem surprised/puzzled/frustrated, what happened?
+5. What were you thinking when you used that feature?
+6. Describe the steps you are going through here.
+7. What did you expect to happen when you . . . .?
+
+29
+
+I would also echo their last words to see if they could elaborate on their thinking, and ask trailing
+questions such as “And you were expecting. . .?”, “And your goal is . . .?” encouraging to
+complete the thought. Often times, lack of confidence would keep participants from interacting
+at all with the program, and after they completed a task they would ask ‘What do I do next?’ This
+is when the summarizing technique was used, quickly reiterating what they just did while
+encouraging them. Often, a little bit of encouragement would go a long way and give them that
+little bit of confidence they would need to continue on their own.
+When participants would get stuck or frustrated, and were unable to continue without my
+intervention, I would gradually reveal hints to get them past an obstacle rather than revealing the
+answer all at once. This way, I could see if it was minor intervention that was needed, moderate
+intervention, or mark that they were unable to complete the task. I could distinguish the
+minimum amount of information required for them to recover from the error. Often the
+participant just needed to be guided to look all over the screen because they would get stuck
+looking at one thing, or instruct them to read a direction on the page to see if it is helpful.
+4.3.6
+
+Analysis
+
+Using video records, several performance metrics were used for evaluation. When going
+through each session, the number of mouse clicks needed for a user to accomplish each task was
+logged, whether or not the task was completed successfully and how much interference there
+was, as well as how long it took to accomplish each task. Some of these metrics, such as mouse
+clicks and time spent per completed task, were used to objectively measure efficiency, or amount
+of effort. Camtasia logged mouse clicks that were manually counted. Double clicks or erroneous
+clicks (such as when a user would touch the screen and it wouldn’t recognize the press) were not
+counted. Only successful tasks were counted in the evaluation of efficiency; the mouse click
+count for tasks users were unable to complete was not included. I used a count of tasks
+
+30
+
+completed successfully and a count of errors committed by the user during task performance to
+measure effectiveness. Errors were logged, defined as the steps they took that did not get them
+closer to their goal.
+Since think-aloud protocol was used, time-on-task results were variable. Speaking aloud
+almost always has an impact on time-on-task data [42], so it was only used as a general
+measurement. There were some steps such as ‘locate the print button’ that I could get good time
+measurements for, because participants were not saying anything out loud; they were just
+looking for something and I would get a good estimate for how long it took them to find what
+they were looking for.
+4.3.7
+
+Evaluation
+
+In addition to the analysis performed on the three software programs, Eldy, PointerWare
+and BigScreenLive, popular heuristics were kept in mind for evaluation to supplement the
+information retrieved from the 32 participants and the results of the usability study. Heuristics
+are recognized usability principles; interfaces are examined with respect to these principles to
+help identify usability issues.
+Jakob Nielsen and Rolf Molich's ten general principles for user interface design are listed
+below, and were kept in mind during evaluation. [13, 14]
+
+1. Visibility of System Status: It is essential that the user is always aware of where they are
+and where they can go next.
+2. Match Between the System and the Real World: The language used throughout the
+interface needs to be appropriate for the user population. Words, phrases and concepts
+need to be familiar to the user, and information flow should be in natural and logical
+order.
+3. User Control and Freedom: When users mistakenly find themselves somewhere they
+did not mean to be, there should be a way for them to return or exit and be able to control
+
+31
+
+the system. For instance, an “exit” button that appears on every page lets a user know that
+they can exit the program at any time.
+4. Consistency and Standards: Throughout the program there should be consistency of
+language, situations and actions. Users should not be burdened with ambiguity.
+5. Error Prevention: The best way to prevent error is to do a lot of testing. However, when
+errors occur, there should be user friendly messages in natural language as opposed to
+code.
+6. Recognition Rather than Recall: Objects, actions and options should be visible. This is
+particularly important for the senior citizen population and novice computer users. Users
+should not have to remember information between different parts of their interaction with
+the program. Instructions should be clear and obtainable so users do not get lost and do
+not have to retrace their steps from the home page. There should be a 'breadcrumb trail' or
+some way for users to know what section they are on and how to reach other sections.
+7. Flexibility and Efficiency of Use: Software should be well designed and developed. It
+should be efficient and easy to use. The user should always feel that the software meets
+expectations to perform the intended services.
+8. Aesthetic and Minimalist Design: The system should not be cluttered with extraneous
+information; this is distracting and slows down the user.
+9. Help Users Recognize, Diagnose, and Recover from Errors: Errors are bound to
+happen even with the most foolproof system. Error messages should be informative so
+people can recover from them with minimal effort.
+10. Help and Documentation: There should be an accessible way to locate help or
+assistance with the system. The documentation should be easy to search, should focus on
+the user's task, list concrete steps and not be overly complicated.
+
+5 Survey Results
+This section describes results obtained from the pre and post-surveys. Participants were
+volunteers, so they had a generally positive attitude about learning how to use computers.
+
+5.1 Demographics
+For this study, 32 participants aged 55+ were recruited. According to Jakob Nielsen’s
+“Why You Only Need to Test with 5 Users” [56], testing a single user catches almost a third of
+
+32
+
+all usability problems found. A second user will add some more insight and catch more
+problems, but there will be some overlap of what is learned from their results with the first user.
+By the third participant, almost 75% of usability problems are obtained. Nielsen suggests that
+after the fifth user, one observes the same findings repeatedly and is not gaining much new
+information. Having 10-11 participants using each program, according to Nielsen, should yield
+the majority of usability problems.
+An effort was made to try to keep the members of the three groups well dispersed by skill
+level and to get a representative range of senior citizens using each program. Responses to the
+question asking how often they currently use a computer were used to determine which program
+they would use. Figures 20 - 23 (see Section 8.3) represent demographic information. The
+participants ranged in age from 62 – 90 years old. The majority of participants (78%) were
+female, and had a high school or college degree. Figure 22 in Section 8.3, “How often
+participants use computer,” shows that the number of participants using each program was
+balanced by skill level.
+
+5.2 Previous experience with computers
+To learn about the previous experiences participants had with computers, the survey asked
+what tasks they had previously done on a computer and how they were taught to use a computer
+(if applicable). Participants were able to check more than one answer for those questions, as
+reflected in the figures below.
+Approximately 44% of participants learned to use a computer from family or friends.
+Close to a third (34%) cited self-taught as their main method of learning, and less than 10%
+learned in the work place. The most common tasks done previously on a computer included
+using e-mail (81%) and searching for information (75%). The least commonly done task was
+web/video chatting of which 5 participants, or 16% of the population, had previously tried.
+
+33
+
+Number of Participants
+
+Computer Learning Methods
+16
+14
+12
+10
+8
+6
+4
+2
+0
+
+14
+11
+
+6
+4
+
+never used a
+computer
+before
+
+3
+
+self taught
+
+learned with taught by friend taught at work
+instructor
+or family
+
+Figure 24:: Computer Learning Methods
+
+Tasks Done on Computer
+Number of Participants
+
+30
+
+26
+
+25
+
+24
+
+20
+15
+
+13
+
+11
+
+9
+
+10
+5
+5
+0
+word
+processing
+
+search for
+information
+
+email
+
+chat/video
+chat
+
+shopping
+
+games
+
+task type
+
+Figure 25:: Tasks Done on Computer
+
+5.3 Physical and Cognitive Limitations
+It is important from a design perspective to have a good iidea
+dea of the most common physical
+and cognitive limitations senior citizens face. By far, the most common physical limitation in this
+survey was difficulty with vision, which 84% of participants had (see Figure 226 below). About
+
+34
+
+half of all participants (53%) faced some sort of trouble with memory, of which 59% had
+minimal problems and 41% noted
+oted moderate problems. Difficulties with hearing and hands were
+less common though still significant (31% of the population had difficulties with hands and 34%
+suffered difficulty
+fficulty with hearing).
+
+Physical and Cognitive Limitations
+11
+
+10
+
+10
+
+9
+
+number of participants
+
+9
+
+8
+
+8
+7
+
+6
+
+6
+5
+
+5
+4
+
+4
+
+4
+
+4
+3
+
+6
+
+4
+3
+
+Eldy
+PointerWare
+BigScreenLive
+
+2
+
+2
+1
+0
+Trouble w/Hands
+
+Trouble w/Eyes
+
+Trouble w/Hearing Trouble w/Memory
+
+Figure 26:: Physical and Cognitive Limitations
+
+5.4 Preferences for Interaction
+Figure 27 below shows participants’ preferences for interaction before and after the study.
+None of the participants had ever used a touch screen computer before the study, and 89% of
+respondents listed the mouse and keyboard as their preferred way of interacting with
+w the
+computer; 11% of respondents listed touch pad (on a laptop) as their preference.
+After the study, there was a large shift away from the mouse and keyboard, with the
+majority of respondents (56%) now listing a combination of mouse and touch screen as their
+preferred way to interact with the computer. After completing the study,, 22% of participants
+preferred mouse and keyboard exclusively, and 22% of participants preferred the touch screen
+
+35
+
+exclusively. This shift suggests that while some users prefer to stick with what they know and
+are used to, many individuals, with and without hand limitations, find the touch screen interface
+useful. Of the participants who noted difficulties with hands (difficulty moving fingers,
+numbness, tremor, pain), 40% prefe
+preferred
+rred using a combination of touch screen and
+mouse/keyboard, 40% preferred using the touch screen exclusively, and 20% preferred using the
+mouse and keyboard. This suggests that for senior citizens who have difficulties with hands, the
+touch screen may be very beneficial.
+
+Preferences for Interaction: Before and After
+number of participants
+
+30
+25
+
+24
+18
+
+20
+15
+10
+
+7
+
+7
+3
+
+5
+
+Preference for interaction before
+Preference for interaction after
+
+0
+
+0
+
+0
+
+0
+mouse
+
+touchpad
+
+combination
+mouse &
+touchscreen
+
+touchscreen
+
+interaction preference
+
+Figure 27:: Preferences for Interaction
+
+5.5 User Satisfaction
+One of the best ways to gauge how users re
+responded
+sponded to the different programs was to
+evaluate user satisfaction. Users self
+self-reported this information in the post-survey.
+survey. What is
+interesting
+teresting in Figure 28 below, “Satisfaction,” is that users had the least satisfaction with Eldy’s
+system of navigation. Results off a one
+one-way ANOVA comparing user satisfaction with navigation
+
+36
+
+across the programs show significant difference (F (2, 29) = 5.98, p = .0066). Overall design
+followed the same pattern, with BigScreenLive users most satisfied. However, Eldy users were
+more likely by a small margin to seek a computer in the future, which may possibly be attributed
+to the types of people using the programs and their personal interest in pursuing use of a
+computer again. Even though Eldy users might be more likely to seek a computer in the future,
+Eldy users were less likely than BigScreenLive users to use the program again (see Figure 29
+below, “Likeliness to Repeat Tasks”). Results of a one-way ANOVA comparing likeliness to use
+the program again show significant difference (F (2, 29) = 5.04, p = .0131). Interestingly,
+PointerWare users had the lowest likelihood of using the program again, while their overall
+experience was still positive and they were generally pleased with the overall design, ranking it a
+6.36 out of a possible 7 (very satisfied).
+The navigation of the Eldy program differs from PointerWare and BigScreenLive. It seems
+one of the reasons for the difficulties users experience is because they might not have a good
+sense of what ‘home’ is and how to get there. “Stable visual elements not only enable people to
+navigate fast, they act as dependable landmarks, giving people a sense of ‘home’” [48]. There
+should always be some way for users to know what section they are on and how to reach other
+sections. The main screen of the PointerWare program has “Home” written across it, with a
+recognizable ‘Home’ button (with the PointerWare logo- a dog) on every page, so once a user
+clicks on ‘Mail’ or ‘Internet’, there is consistency and they can find the ‘Home’ button in the top
+left-hand corner.
+The BigScreenLive interface does not say “Home” anywhere on the main home page;
+however, there is a button in the bottom left corner that never goes away with a picture of a
+house. If the user puts the cursor over the button, a mouse-over textbox appears saying “Go to
+BigScreenLive Home”.
+
+37
+
+Eldy’s home page differs
+rs in that there is less consistency (see Figure 34 where Eldy users
+ranked the program with highest inconsistency). Eldy’s home page is called “The Square” and
+when a user is viewing the home page, the words “The Square” can be found at the top of the
+screen.
+een. When a user navigates away to any other page, there is a button at the bottom of the page
+in the center that changes text depending on where in the site a user may be. For instance, if a
+user is one step from the square, it will say “Back to the Squar
+Square.”
+e.” If a user is reading an e-mail,
+e
+the button at the bottom will say “Back to mail menu.” People often would not recognize the
+heading of the page, or the text at the top of the page, (i.e. “Mail”, “Internet”, “The Square”) as
+the heading and thought it might
+ight take them somewhere, clicking on it with no result. In addition,
+if a user was in the e-mail
+mail part of the program and wanted to go to the Internet, they would look
+around the page, see “Back to mail menu,” and say out loud that they did not know where to go
+because they did not want to go back to the mail menu, not realizing that they would have to go
+back several times to get to the home screen.
+
+Satisfaction
+7
+6
+5
+4
+
+6.636.36
+6.2
+
+6.546.5
+5.9
+
+6.9 6.9
+6.36
+
+5.725.9
+
+6.366.6
+5.72
+
+3
+
+Eldy (mean)
+PointerWare (mean)
+BigScreenLive (mean)
+
+4.18
+2
+1
+How likely to Text readability
+seek computer
+in future
+
+Figure 28: User Satisfaction
+
+Colors and
+contrast
+
+Navigation
+
+Overall Design
+
+Confidence
+Interval : 95%
+
+38
+
+Likeliness to repeat tasks in future
+7
+6
+5
+4
+
+6.7
+6
+
+3
+
+6.366.54 6.6
+
+5.36
+
+6.6
+5.72
+
+6.6
+5.81 6
+
+5.81 6
+
+6.4
+
+4.36
+
+Eldy (mean)
+PointerWare (mean)
+BigScreenLive (mean)
+
+2
+1
+How likely: write How likely: search How likely: use
+the program
+an email
+for info
+
+How likely:
+recommend to
+friend
+
+Overall
+Experience
+
+Confidence
+Interval : 95%
+
+Figure 29: Likeliness to Repeat Tasks in Future
+
+5.6 Task evaluation and confidence
+Another part of user satisfaction is a measurement of task evaluation before and after the
+study. I wanted to see if users with prior eexperience with search or e-mail found those tasks to be
+easier or more difficult after using their respective program. Figure 331, “Task Evaluation,”
+Evaluation shows
+on a Likert scale from 1 to 7 where 1 is very difficult and 7 is very easy, how people who have
+previously performed the tasks ranked them before and after the study. What is apparent from
+this graph is that most participants felt the ta
+tasks
+sks were easier to accomplish after using the
+programs, with the exception of only one task
+task, using e-mail,
+mail, with the Eldy program. Shown in
+Table 4 below, the greatest change observed occurred with the web browsing
+ing task in
+PointerWare. The next biggest incr
+increase in ease was also with the web browsing
+ing task, using the
+BigScreenLive program.
+
+39
+
+Task Evaluation
+Difference
+Write email
+Search for
+information
+
+Eldy
+
+PointerWare
+
+BigScreenLive
+
+-0.25
+
+0.4
+
+0.29
+
+0.37
+
+2.25
+
+1.43
+
+Table 4: Increase in ease (Likert
+Likert score
+score) before and after the study
+The biggest difference between Eldy’s ee-mail
+mail program and that of PointerWare and
+BigScreenLive is the flow of steps. Despite the fact that Eldy and PointerWare users encounter a
+minimum of 10 screens to complete the task, and BigScreenLive users encounter 8, it
+i took
+participants over 2 minutes to write and send an ee-mail
+mail in Eldy, and under 1 minute to do the
+th
+same task using PointerWare (Figure
+Figure 336). Even though the number of screens participants see to
+complete the task is the same, as shown in Figure 30 below, it takes Eldy users on average 12.92
+more clicks to complete the
+he task than PointerWare users (F (2, 22) = 27.88, p = 9.29 x 10-07).
+Figures 38, 39 and 40 in Section 8.3 show flow diagrams of steps to get through writing and
+sending an e-mail
+mail (including adding the new contact to the address book).
+
+Average Number of Mouse Clicks
+Number of Mouse Clicks
+
+14
+12
+10
+8
+6
+
+Eldy
+
+4
+
+PointerWare
+
+2
+
+BigScreenLive
+
+0
+Add address to
+address book
+
+Write and send
+email
+
+Search for the
+recipe
+
+Task
+
+Figure 30: Average Number of Mouse clicks
+
+Increase text size
+
+40
+
+In Eldy, the user adds an address to the address book, goes to write an e-mail, and then gets
+to a page where they have the option to send the e-mail, attach documents and pictures, and
+choose addressees. Participants got confused at this step, and most clicked “Send” as opposed to
+“Choose the addressees.” Some did not know where their e-mail went, since it does not appear
+with the sending options page; they thought it disappeared and would click ‘Back’.
+In PointerWare, when a user clicks ‘Write e-mail’, they have to pick a recipient or add a
+new contact, and then they are explicitly asked if they would like to send an e-mail to the contact
+they just added. This step eliminates any other need for the user to specify who they are writing
+to. There is also a confirmation step after they click “Send,” to make sure they know who the email is being sent to.
+BigScreenLive’s flow is a little different as well, as the user adds the e-mail address to the
+address book and then goes to the “Write mail” tab. Adding a contact to the address book caused
+some people confusion. This occurred because the address book window popped-up covering the
+screen, and the participant read the directions in the address book window, as well as the
+directions on the screen behind the address book, getting confused about which instructions to
+follow. When writing an e-mail, there is a text box with a blue “To” button next to it, and an
+instruction that tells users that they can click the “To” button to choose whom they want to write
+to. Most participants did not read this instruction and just started typing in the text box. There
+was minor confusion at this step when the blue drop down box appeared, as experienced users
+knew that a contact name “Bella” was not equivalent to an e-mail address, and didn’t quite
+understand how you can send an e-mail to someone’s name and not have to put their address in.
+Either way, the name of the contact and the e-mail message are displayed on the same page, so
+the user knows who the e-mail is going to. One participant said about Eldy, “I’d like everything
+
+41
+
+to be on the same page so you can just find it all, instead of going back and forth. To me that’s a
+little easier, but this is better to see.”
+
+Very
+
+Task Evaluation
+7
+
+6.57
+6.29
+6
+
+6
+
+5.5
+5.25
+
+5.6
+
+6
+
+6.12
+5.75
+
+6.12
+5.14
+Eldy (before)
+
+Easy
+
+5
+
+Eldy (after)
+3.87
+
+4
+
+PointerWare (before)
+PointerWare (after)
+
+Very Difficult
+
+3
+
+BigScreenLive (before)
+BigScreenLive (after)
+
+2
+1
+Write E-mail
+
+Search for Information
+
+Figure 31: Task Evaluation: Before and After Study
+
+5.7
+
+Computer Attitude Scale, Computer Anxiety Rating Scale, and System
+Usability Scale results
+The same 14 questions gathered from the Computer Attitude Scale and the Computer
+
+Anxiety Rating Scale were included in both the pre-survey and the post-survey to see how
+comfortable or anxious people felt before and after using the programs, as well as how useful
+they found computers. The purpose of this was to see was if certain programs made participants
+feel more confident and at ease than others. Figure 34 shows the most interesting subset of my
+results. Figure 35 in the appendix contains the full graph of results.
+
+42
+
+Concerning user confidence, PointerWare had the highest before and after study change
+of the three programs, suggesting people became the most confident upon using the program. A
+pattern emerged that positive questions get higher values of agreement and negative questions
+get lower values of disagreement. The System Usability Scale results below display the pattern
+above where participants agree more with positive statements and disagree more with negative
+statements, suggesting that overall participants had a positive attitude about the programs.
+The System Usability Scale also shows that participants had more struggles with Eldy
+than other programs. Eldy participants agreed the most that they had to learn a lot of things to get
+going with the program. They found the program the most cumbersome to use (F (2, 29) = 2.78,
+p = .0782), and found the program unnecessarily complex (F (2, 29) = 3.16, p = .0569).
+PointerWare generally came out in the middle for most of the questions, with the
+exception of “I think I would need the support of a technical person to be able to use this
+program” where participants agreed more than disagreed with the statement, and “I think that I
+would like to use this program frequently.” PointerWare users also felt that they did not need to
+learn a lot of things to get going with the program. BigScreenLive came out on top for most of
+the questions. In the questions “I think using a computer would be very hard for me” and
+“Computers intimidate me because they seem so complex”, BigScreenLive had the biggest
+change (in the negative direction) citing people disagreed more with the statements and felt
+overall less intimidated by computers after using the program.
+
+43
+
+System Usability Scale
+I needed to learn a lot of things before I
+could get going with this program
+I felt very confident using the program
+I found the program very cumbersome to
+use
+I would imagine that most people would
+learn to use this program very quickly
+I thought there was too much inconsistency
+in the program
+BigScreenLive
+
+I found the various functions in this program
+were well integrated
+
+PointerWare
+Eldy
+
+I think I would need the support of a tech.
+person to be able to use this program
+I thought the program was easy to use
+I found the program unnecessarily complex
+
+Confidence
+Interval : 95%
+
+I think that I would like to use this program
+frequently
+1
+
+2
+
+Strongly Disagree
+
+3
+
+4
+
+5
+
+6
+
+7
+Strongly Agree
+
+Figure 34: System Usability Scale
+
+6 Task Completion Results
+As a whole, participants were able to complete the majority of tasks they were given.
+However, there were some tasks that were clearly more difficult than others, and some design
+decisions made across the programs that impacted the users in positive and negative ways. This
+
+44
+
+section explores difficulties for participants in completing the tasks, with recommendations for
+improvement in the following section.
+
+6.1 Timing
+The following chart is a summary of timing results. Participants were able to complete all of
+the tasks the fastest using the PointerWare program. Looking at the time on task table below,
+participants completed tasks using PointerWare faster than with both other programs. However,
+this is not the case with all of the subtasks and steps.
+Average Total Time on Task (seconds)
+Eldy
+PointerWare BigScreenLive
+E-mail
+
+301.44
+
+211.62
+
+342.7
+
+Web
+Browsing
+
+317.2
+
+213.03
+
+220.64
+
+Table 7: Time on Task
+Figure 36, “Average Time on Task,” is a more detailed look at how long it took
+participants to complete each subtask within the e-mail and web browsing tasks. This shows
+where the biggest hurdles were. A few subtasks will be focused on here, namely writing and
+sending an e-mail, reading a new e-mail, printing an e-mail, deleting an e-mail, adding a
+bookmark and finding a saved bookmark. These are the tasks that had the greatest levels of
+variance.
+To further determine why there was such variance within some of the e-mail tasks, flow
+diagrams were created to document how many steps it would take someone to complete one of
+the tasks that had multiple steps, namely the writing and sending an e-mail task (see Figures 38,
+39 and 40). Due to the natural variance in the structure of the e-mail systems, there were some
+programs where it had to take longer to complete the task than other programs. For instance,
+PointerWare had the fastest time to write and send an e-mail of just under a minute (56 seconds),
+
+45
+
+while BigScreenLive and Eldy took twice as long, 122 and 136 seconds respectively (F (2, 23) =
+7.58, p = 0.0029). Reasons for the time difference are further explored in Section 5.6. Reading a
+new e-mail was also faster on the PointerWare system (F (2, 25) = 2.34, p = .1162), taking an
+average of only 11 seconds, while BigScreenLive and Eldy took 53.5 and 46.5 seconds,
+respectively. Printing an e-mail took 3-5 seconds using Pointerware and Eldy, but 33 seconds
+using BigScreenLive (F (2,28) = 1.79, p = .184). Lastly, adding a bookmark took almost 2
+minutes (112 seconds) using Eldy, less than a minute (46 seconds) using PointerWare, and 72
+seconds using BigScreenLive (F (2, 21) = 3.88, p = .0366).
+
+Average Time on Task
+
+Time on Task (seconds)
+
+250
+200
+150
+100
+Eldy
+
+50
+
+PointerWare
+0
+
+BigScreenLive
+
+Confidence
+Interval : 95%
+
+E-mail Task
+
+Web-browsing Task
+
+Figure 36: Average Time on Task
+
+The reason for the above time discrepancies may be attributed to lack of visual cues.
+PointerWare has an image of a printer next to the word “Print”, and an image of a folder next to
+
+46
+
+the words “Save Site”. When participants had to increase text size, several did not immediately
+recognize the plus and minus signs with the magnifying glasses in PointerWare; one participant
+remarked, “I wasn’t sure exactly what the plus and minus meant, I was thinking numbers rather
+than size, but I took a guess and it was the only thing I could pick so it worked.” Adding a
+bookmark in Eldy was a struggle because the majority of participants did not recognize the star
+symbol. According to Figure 37, only half of all Eldy users were able to add a bookmark. One
+participant remarked that it should just say the word “Bookmark” next to the button because
+there is no way she would have ever known what the star symbol meant. It would be beneficial
+and eliminate confusion if words such as “Print” and “Home” had symbols next to them. Eldy
+and BigScreenLive have hover-over text for the different buttons, but participants, particularly
+novices and those unfamiliar with features like this, did not know about it and struggled to find
+out the meaning of the buttons without clicking them. One participant said she hesitated to click
+a button she thought was correct, “Sometimes I’m afraid to get further and further away from
+where I was, because I don’t know how to get back.”
+The last observation about this chart is that there is no bar for Eldy under deleting an email because not a single participant could successfully complete the task. To delete an e-mail
+using one of the other programs required clicking a button on the same page as the e-mail being
+read. However, if a participant is reading a new e-mail in Eldy, there is no accessible delete
+button on the page. There is a delete button on the new e-mail page that shows all of the new emails before they have been read. Often participants would go back to the new e-mail folder after
+reading the e-mail, see the delete button and click it, thinking they had deleted the e-mail. They
+would not notice that the e-mail they had read was no longer in the folder, and that they had to
+go to the ‘mail read’ folder to delete the e-mail, taking several steps. It is unclear if it is the
+intention of the developers to make it more difficult to delete an e-mail; perhaps they are of the
+
+47
+
+mindset that e-mails
+mails should never be deleted and everything should be kept. While this is one
+way of thinking, itt is my belief that a user should have control over ttheir
+heir inbox, and should be
+able to easily delete any junk mail that slips through, or ee-mails
+mails they simply do not want to save
+for other reasons. Also, since Eldy does not have the ability to create folders to store e-mails
+e
+in
+categories, participants just have
+ave one long list of ee-mails
+mails accumulating and it adds frustration to
+have to take multiple steps to delete an ee-mail that is currently being read.
+
+Task Completion Rates
+Find saved bookmark
+
+70
+70
+
+18.1
+
+90
+
+Add bookmark
+
+45.4
+90
+81.8
+90.9
+
+Increase text size
+Search for the recipe
+
+90.9
+
+Go to the internet
+
+90.9
+90
+
+Delete email
+Task
+
+0
+BigScreenLive
+
+80
+
+Print email
+
+PointerWare
+Eldy
+
+Read new email
+
+77.7
+70
+72.7
+
+Write and send email
+Go to 'write' an email
+
+90.9
+
+90.9
+
+Add address to address book
+
+70
+
+90.9
+
+Go to your email
+0
+
+20
+
+40
+
+60
+
+80
+
+Percentage of Participants to Complete Task
+
+Figure 37:: Task Completion Rates
+
+100
+
+48
+
+6.2 Error Summary
+It is important to see if certain tasks have more frequent and/or serious errors than others.
+In order to measure error frequency and severity for each task, or subtask, I defined error type as
+follows. Minimal errors are minor and require limited intervention. For instance, if a participant
+does not see something on the page or is getting frustrated, I may point them to look around the
+whole page, or I may have to step in and reassure under-confident or overwhelmed participants
+to just take their time. Sometimes people would be unsure and voice their questions out loud but
+continued on their own. If a participant would get stuck and need me to hint at something or
+point out one thing, that would go into the minimal category. Moderate error or interference
+occurs when a participant is doing something wrong and is unable to proceed without more than
+one intervention. If a participant needed me to comment two or three times to get them through a
+task, that would be considered moderate intervention. A participant may be in the 'incomplete'
+category for a number of reasons. Sometimes they give up and just do not know what to do, or
+get stuck and a series of wrong steps lead them to be unable to complete the task. Other times
+they cannot do the task in the allotted time period, needing a significant level of interference. If I
+need to step in more than two or three times for the participant to get past the error, or it feels
+like I have to guide them through every other step, the task is judged incomplete since more than
+a moderate level of interference is required. Some participants were unable to complete tasks due
+to a combination of time limit and lack of the knowledge they needed to know to get through the
+task. Some novice participants had trouble controlling the mouse, using the touch screen, typing
+and editing text, and controlling the blinking cursor, making it difficult to complete the task in
+the allotted time period. See Section 8.1 in the appendix for a more thorough descriptive list of
+errors for each program. Figure 41 below shows a comparison of error severity among the three
+programs, with number of participants on the y axis.
+
+49
+
+Error Severity: Eldy
+14
+12
+10
+8
+6
+4
+2
+0
+
+Incomplete
+Moderate
+Minimal
+
+Error Severity: PointerWare
+14
+12
+10
+8
+6
+4
+2
+0
+
+Incomplete
+Moderate
+Minimal
+
+Error Severity: BigScreenLive
+14
+12
+10
+8
+6
+4
+2
+0
+
+Incomplete
+Moderate
+Minimal
+
+Figure 41:: Error Severity for Eldy, PointerWare and BigScreenLive
+
+50
+
+The most notable errors were the following:
+-
+
+Eldy: The majority of participants (8) had minimal errors adding an address to the
+
+address book. Participants would click on the blank text space under ‘Name’ instead of the ‘Add
+a new person to your address book’ button. Novice participants who would not know to look for
+a blinking cursor would try to click in the text box and just start typing, wondering why no text
+was appearing (See Figure 42 below for reference).
+
+Figure 42: Address book in Eldy
+Users also had trouble with deleting an e-mail (no participants were able to complete this
+task using Eldy), which is discussed in Section 6.1. There was also more trouble adding a
+bookmark and locating a saved bookmark using Eldy than the other two programs. The biggest
+problem was participants’ lack of familiarity with the star symbol that stands for bookmarks. The
+next concern was locating a saved bookmark and getting back to the ‘portal’. Participants would
+not recognize the word ‘portal’ as being the main Internet browsing page they enter when they
+initially click on Internet, and had trouble figuring out how to get to it. More than half of
+
+51
+
+participants (6) also clicked on the star again to view bookmarks, without understanding that
+they were adding another bookmark. A minor inconsistency that 7 of the 11 Eldy participants
+were confused by was the cursor being set in the middle of the text bar by default when entering
+a name for the added bookmark. Participants would try to move the blinking cursor to the
+beginning of the text bar, and this inconsistency confused them.
+The trouble participants had with navigation is discussed further in Section 5.5, but it is
+worth mentioning some specific errors to get a better understanding of where people got stuck.
+The biggest problem observed while participants performed tasks was transitioning from the email task to the web browsing task, or vice versa. In particular, participants had trouble
+remembering what I would call the hierarchy of pages within Eldy. When a participant wanted to
+go to the home screen, or what Eldy calls the ‘Square,’ there was no one-click button to do this.
+At the bottom of the page, there is a centered button that displays different text depending on
+where within the program a user currently is. Numerous participants clicked ‘exit’ to try to get to
+the ‘Square,’ unsure of what to do. Several participants clicked the lifeboat (help) on the upper
+right hand corner of the page, but were either reluctant to go further and look at the tutorial, or
+clicked on tutorial and saw a section in Italian (since the program was developed in Italy, part of
+the help section is written in Italian), or they would find the section they were looking for, but
+they would click on the reference images within the tutorial which would not result in any action
+or take them where they expected to be taken. When participants did see the ‘back to the square’
+button at the bottom of a page, they did not recognize what ‘square’ meant and would not know
+to click it. Lastly, participants struggled with writing and sending an e-mail, which is discussed
+in Section 5.6. The flow of steps it takes to complete the task is confusing to users, as confirmed
+by the high number of mouse clicks needed to accomplish the task (shown in Figure 30, Section
+5.6).
+
+52
+
+-
+
+PointerWare: The biggest area for errors in PointerWare was adding an address to the
+
+address book. Approximately half of participants (5 out of 11) had minor or moderate issues
+completing this task, with three unable to complete the task. Upon clicking the ‘New Person’
+button when prompted “Whom are you writing to?,” three participants clicked on the ‘add email’ button before adding an e-mail address in the text box. This would take them to an error
+message page, saying “Invalid mail address”. This type of error could be attributed to not
+carefully reading the directions. One participant had an extra space before the e-mail address,
+and could not figure out why she was getting to the error page. Perhaps if the error message
+could be more descriptive, it would cause less confusion. Two participants saw the “Whom are
+you writing to?” prompt and instead of clicking ‘New Person,’ they clicked in the big empty
+square and started to type, a more minor error. See Figure 43 below for reference.
+
+Figure 43: PointerWare address book
+Another issue that came up a few times during the internet task was scrolling. There is an
+up button and a down button used to scroll on the page. Participants had trouble conceptualizing
+that the ‘up’ arrow moves the actual page down, and the ‘down’ button moves the page up. Also,
+these buttons move the page at a defined interval with each click, making smooth scrolling hard
+and often cutting off the page in awkward places. Participants who used a computer before,
+expected a scroll bar on the right, which did not consistently appear.
+
+53
+
+-
+
+BigScreenLive: More than half of participants (6) had minimal errors adding an address
+
+to the address book and (7) had minimal errors adding a bookmark. The biggest concern with the
+address book had to do with the layout of the page. Participants had no trouble locating the
+address book and saw the tab right away, clicking on it. However, after they did this, they saw
+the words “No data available” in the address book and tried to click on it, tried to delete the
+words to write the contact information, and wanted to get rid of “No data available.” There is a
+button that says ‘add new name’ on the right side of the page, but since people read from left to
+right, they would get stuck on the left side of the page without seeing the button on the right.
+The difficulty with adding a bookmark for most participants was confusion over ‘our
+favorites’, ‘family favorites’ and ‘my favorites’. Since the ‘my favorites’ tab was open when
+participants were browsing, it is possible they did not realize that clicking on that tab (that
+already looks like it is open) will change the screen. Participants would click on the ‘our
+favorites’ tab instead of ‘my favorites’. See Figure 44 below for reference.
+
+Figure 44: Web browsing in BigScreenLive, “My Favorites”, “Family Favorites”, and “Our
+Favorites” tabs at the top
+A navigational issue that participants came across using BigScreenLive was transitioning
+from one part of the program to the other. For instance, when a participant wanted to go from email to web browsing, they did not know how to do this. Several participants wanted to minimize
+
+54
+
+the screen after using e-mail to get back to web browsing, not realizing how navigation worked.
+When participants were looking for bookmarks, several people went to tools and needed to get
+back to the web browsing page, but when they went back, the page they were on would
+disappear and they were on the initial search page. This confused them: they thought that they
+had to perform the whole search over again, not realizing that their previous search results were
+saved and that there is a small back arrow button that would take them back through their
+actions. One participant clicked on the ‘clear’ button in the e-mail part of the program, thinking it
+would clear the page so she could go to e-mail. However, the ‘clear’ button was meant for
+clearing the text in the body of the e-mail. From the home page, users are quick to locate e-mail
+and Internet because the buttons of the left side of the screen have both a picture and text next to
+them. However, when a user is on any other page, the text that was next to those same
+navigational buttons disappears and they have more trouble navigating. See Figure 45 below for
+reference.
+
+Figure 45: BigScreenLive icons
+
+55
+
+7 Conclusion
+All of the programs had an overall positive impact on the participants. In every case,
+confidence grew upon using the programs; overall, people had positive experiences and were
+satisfied with the design of the programs. Figure 32 and Table 5 in Section 8.3 show how the
+level of comfort after using the programs increased for all three programs as well, showing that
+these programs have a profound impact on how comfortable senior citizens feel using computers.
+Time-on-task measurements and user comments suggest the importance of combining
+text and image cues in an interface. Time-on-task and mouse click counts suggest the superiority
+of flat (non-hierarchical) organization of page layout that avoid pop-up windows. Survey
+responses indicated an overall preference for the combination approach, using a touch screen
+interface in conjunction with mouse and keyboard. The touch screen was particularly beneficial
+for those with hand difficulties. Finally, consistent interface elements help ensure users know
+where they are within a program, eliminating a great deal of confusion.
+The list below serves as a list of recommendations based on observations from the study.
+1. Interface: Having a flat interface as opposed to one with any kind of layers or pop-up
+boxes is the least confusing for novice users. This is confirmed by looking at the time it
+took to add an address to an address book using the program BigScreenLive, which had
+a pop-up window come up to type the contact information in. Because of some
+confusion participants had reading directions on the pop-up window and on the layer
+behind it, it look longer for participants to complete the task using BigScreenLive than
+using the other two programs (see Figure 36). A suggestion would be to embed any popup windows so that there are no layers created.
+2. E-mail: Several participants mentioned that they need to have spell check available
+when they are typing. One participant who had used e-mail before said that she would
+
+56
+
+type e-mails in a word processing program just to use the spell check feature, then copy
+and paste them into an e-mail. It would be helpful to have a spell check feature for
+people to utilize when writing e-mail.
+3. Web browsing: When participants were presented with a search bar, they knew to type
+what they were looking for into it. In Eldy, there is a URL bar that confuses people who
+do not know what a URL or web address is and what a search term is. The URL bar in
+Eldy does not allow users to type in search terms, it is only for web addresses. Some
+participants were not familiar with search engines like ‘Google’ either. It is my
+recommendation that the Internet page have a simple search bar with a direction
+instructing the user to type what they are searching for into the box, while allowing them
+to type in a web address as well. In addition, it might make sense to have a bookmarks
+button that adds a bookmark but also shows a list of saved bookmarks, since users will
+often click on the same button they clicked to add a bookmark, to also view their saved
+bookmark.
+4. Navigation and Visual Cues: It is critical for a user to know where they are within a
+program. Consistency and symbols a user can recognize and recall rather than remember
+are very important. I suggest that there be a recognizable ‘Home’ button in the same
+place on every page a user visits. I also suggest that every button (to the extent possible)
+have both text and a clear symbol. It is not enough to simply have a picture of a printer
+or a symbol of a star for bookmarks, but it should explicitly say the words “Print” and
+“Bookmark” next to the proper symbols. Printing is ranked one of the most useful
+features (see Figure 33) so it is important that people can find the button to do this
+without frustration.
+
+57
+
+5. Touch screen vs. mouse and keyboard: It was observed over the course of the study
+that users had an overall preference to using a combination of touch screen, as well as
+mouse and keyboard. The touch screen was particularly helpful for those with hand
+difficulties (including tremors, trouble moving fingers, numbness, and so on).
+Participants who are used to using a mouse, and comfortable with it, do not have as
+strong of a need for a touch screen. The populations that most benefit from the touch
+screen are novice participants and those with any difficulty controlling a mouse.
+These findings support the recommendations given by the National Institute on Aging
+and the National Library of Medicine [8, 10], which emphasize the importance of a clear,
+consistent layout, with buttons incorporating both text and images. In addition, these results
+are consistent with recommendations from the U. S. General Services Administration and
+the U. S. Department of Health and Human Services [22] that encourage discontinuing the
+use of pop-up windows or graphics. With emerging touch screen technologies such as ipads
+and touch phones dominating the minutest of activities in our daily lives, it is important to
+consider accessibility for senior citizens in our increasingly complex, technologically
+dependent society. However, with this area of research being given more attention, we are
+well on our way to making a more simply integrated modern world.
+
+58
+
+8 Appendix
+8.1 Descriptive list of errors
+Below is a descriptive list of errors participants made and interference required broken up into
+subtasks and program name.
+8.1.1
+
+Eldy
+
+8.1.1.1 Minimal
+
+E-mail task: Go to your e-mail
+- Participant had trouble getting started, and was trying to recall what they used to do to
+send an e-mail. Participant just needed confidence to hit the button they were staring atthe e-mail button.
+E-mail task: Add address to address book
+- Participant first thought typing would automatically go in text box, then tried to click in
+the empty box in the address book several times. I had to interfere and tell participant
+there was another step before you could start typing contact info.
+- Participant tried to click in name box, needed to interfere to tell participant there was
+another step.
+- Participant tried to click on textbox under name numerous times, had to interfere and
+guide participant to do one more thing before being able to add person.
+- Participant put e-mail address in name spot in address book, having to fix it.
+- Participant tried to click inside of text box instead of add new person.
+- Participant tried to click inside of text box before hitting add person button.
+- Participant tried to click in box under name and started typing, had to tell participant
+there was another step.
+- Participant kept clicking on empty bar under name, had to tell participant there was one
+more thing you have to click before you can add a name.
+E-mail task: Going from address book to writing a new e-mail, and writing the e-mail
+- Participant tried to hit back arrow in address book before back to mail menu key.
+- Participant asked ‘where do I write it?’ referring to the e-mail, I had to tell her she was in
+the address book.
+- Participant wanted to hit next page arrow, had to tell participant that next page will show
+next page in address book.
+E-mail task: Get to new e-mail and read it
+- Participant went to help, back to square, mail, and then finally read.
+Web browsing task: Search for the recipe
+- Participant wasn’t sure of the different between www URL address and search term, so I
+explained that.
+- I had to explain that the top bar is only for addresses, participant wanted to type search
+term into top URL bar but quickly clicked the google search page after realizing.
+- Participant hit search 3 times before realizing results were already displayed underneath.
+
+59
+
+-
+
+Participant commented that previous experience taught them that there is a thing to print
+(participant meant the word type) in what you’re looking for. Participant wanted to put
+search term in address bar first. Minimal interference, as participant Figured out on their
+own to go to google.
+
+Web browsing: Increase text size
+- Participant hit 'back to the square' accidentally when hovering over the touch screen with
+finger.
+Web browsing: Add a bookmark
+- Participant recognized the star and asked what it was, but when participant got to the
+bookmark page, didn’t know what they was looking at. Didn’t know it was the bookmark
+page.
+- Participant was looking inside of website at first, then asked if it was the star symbol.
+Participant didn’t know what the symbol was but guessed.
+- Participant heard of bookmark but had no idea what it was for. Didn’t know where to find
+it, had to tell her there was a button that does it, then she clicked star. Took guess. Never
+done it before.
+- Participant didn’t know what a bookmark was. Participant tried to put cursor in beginning
+of box when it was set by default to the middle.
+- Participant tried to move cursor to beginning of line.
+- Participant said “I put the title of what? Just lasagna recipe?” minimal explanation
+required. “How do I get that back?” (referring to cursor in the middle of the text box).
+- Participant tried to move cursor to front of text box.
+- Participant clicked in the beginning of line to move cursor.
+- Participant hit beginning of line trying to move cursor, had to tell her that the title is
+something you give it to refer back to it.
+Web browsing task: Locate bookmark in favorites
+- Participant has heard of favorites before, would just hit their favorite button- but knew
+hitting the button again would probably save it again. Didn’t see favorites on top so
+didn’t know what to do exactly. Guessed to go to portal.
+8.1.1.2 Moderate
+
+E-mail task: Add address to address book
+- Participant tried to click inside name box first before hitting ‘add new name’ button.
+Participant started typing whole thing in first box. Had to let participant know to go down
+to mail address box and put the address in there. Participant used the @ button properly.
+However, when participant meant to save the address book entry, they hit @ twice.
+- Participant tried to click in the box under mail address, had to tell participant there was
+one other step. Participant started writing e-mail address in e-mail line, had to move
+cursor to next line. Had some trouble typing and editing, going back in the line to fix
+what was left out.
+E-mail task: Going from address book to writing a new e-mail, and writing the e-mail
+- Participant first wanted to go to the next page in the address book, I explained that that
+takes you through your address book. Participant asked if ‘click here to proceed’ was
+going to take them to the letter. Had to tell participant that they were looking at the letter.
+
+60
+
+-
+
+-
+
+-
+
+Participant had trouble with navigation, didn’t know how to go back. Went to help, then
+back to the square, then write.
+Participant put subject in wrong place, got confused with navigation as a result.
+Participant held key too long, trouble typing and deleting, and moving cursor. Thought
+'back to mail menu' would bring up address you need. Hit 'send' before choosing
+addressees. Followed warning message though and hit right button. Then didn’t highlight
+'bella' before hitting click to proceed.
+Participant didn’t see subject right away, hit send mail before choosing addressees, then
+fixed error right way.
+Participant hit send before adding addressee, then hit choose addressees, then didn’t
+highlight name and hit send again. Had to tell participant to highlight it.
+Participant hit send mail before adding addressee. Ht back and then wanted to put the
+address in the subject line of the letter. Didn’t know what the subject of the letter was.
+Had to tell participant that there is a way to choose who you want to send the letter to,
+and then he hit choose addressee, highlighted bella, and sent.
+Participant hit choose addresses button but didn’t highlight it, didn’t know that’s what
+they have to do. Then hit click to proceed and send.
+Participant had trouble with control of mouse. Wrote e-mail fine, then got stuck when
+trying to send it. First hit send, then saw error message, then hit choose addressees, then
+hit add new contact here and to address book, knew they did something wrong and went
+back, tried to send again without an addressee, had to highlight name..missed one step.
+
+E-mail task: Get to new e-mail and read it
+- Participant first went to mail read, had to explain why there are old e-mails, that
+participant is in the folder showing mail that has already been read. Participant thought
+they read the letter but it was just the 'congratulations' subject and participant needed to
+open it, had to tell participant that.
+- Participant went to mail read, had to tell them there is another folder new mail comes to.
+Web browsing task: Search for the recipe
+- Participant hit 'go' 3 times- trying to get it to go to other things because they wanted to
+surf the net. Thought hitting 'go' would put other screens up. Wanted to put lasagna in
+address bar. I interfered to tell participant to look at the options and see if any would take
+participant where they want to go, so participant hit the 'search' / google button.
+Web browsing: Increase text size
+- Participant hit go, looked to bottom of page- thought it might be inside page. Clicked on
+‘Aa’ several times and thought it was caps and not size. Went to help. Tutorial. Settings. I
+interfered to bring participant back, and participant noticed the magnifying glass and
+dragged it.
+Web browsing: Add a bookmark
+-
+
+Gave hint to look at the 9 buttons on the screen and to think about the function of each
+one. Participant made a bunch of mis-clicks trying to get the cursor to the front of text
+field instead of the middle where it was set by default. Participant thought title was the
+URL, I had to explain link/title.
+
+61
+
+-
+
+Participant never knew what bookmark meant. Wasn’t sure if it’s the same as favorites, I
+said yes. Wanted to hit portal, I told participant it is another button. Then hit go several
+times.
+
+Web browsing: Find bookmark in favorites
+- Participant didn’t recognize eldy portal button, hit back button several times, wanted to
+hit exit.
+8.1.1.3 Severe ( Incomplete )
+
+E-mail task: Add address to address book
+- Participant had significant trouble typing and fixing errors, deleting wrong letters.
+Participant hit back button instead of saving name and address.
+E-mail task: Going from address book to writing a new e-mail, and writing the e-mail
+- Participant hit ‘next page’ in address book, then ‘add new entry’ and started typing a new
+entry in address book. Thought she had to click 'mail' bar on top- just the heading. She
+kept trying to write in address book. I had to explain she was already in address book, but
+she couldn’t Figure it out. She didn’t know how to go back and wanted to click exit, but
+couldn’t Figure it out and eventually hit ‘back to address book’. I had to explain how
+program works, she couldnt Figure it out. I took her back to mail menu.
+- Participant didn’t know where to go to read a new message. Participant lacked
+confidence, and was afraid to hit anything and try it.
+E-mail task: Get to new e-mail and read it
+- Participant didn’t know where to go to read a new message and gave up. She lacked
+confidence and was afraid to hit anything and try it.
+- Participant did not read the e-mail, thought she had read it because she saw the e-mail in
+the new mail box
+E-mail task: Delete e-mail
+- I had to tell participant that you have to highlight the e-mail you want to delete.
+- Participant knew to go back, then got stuck, then thought to go to mail sent. She just
+didn’t know what to do and I had to talk her through it.
+- Participant tried to find delete, went to write mail, respond to mail…had no clue. "I don’t
+really want to read it, I want to get to the page where it says delete", and so went to mail
+sent.
+- I had to tell participant that the option wasn’t on that page to delete. When she got to 'new
+mail' she saw the delete button and clicked it. She thought she deleted the e-mail. I had to
+explain to her that it went to a different box.
+- Participant went back to the new mail folder and hit delete button several times. She
+didn’t understand that e-mail left the folder and went elsewhere.
+- Participant went back to last screen and hit delete, so I had to explain it wasn’t in that
+box, but in a different box.
+- Participant went back a step and hit delete, but there was no e-mail there to delete. She
+knew the e-mail wasn’t in the box because she already read it, but thought she deleted it.
+I had to tell her it moved to a different folder and she wanted to go to new mail again.
+- Participant had no idea how to do it. I had to tell her you have to get back to ‘mail read’
+folder. She hit ‘trash can’ before highlighting message.
+
+62
+
+Web browsing task: Go to the Internet
+- Participant thought she would go to ‘my profile’ to search for information. I had to teach
+her the keyboard, the @ symbol, how to use the keyboard, and how to use the mouse. She
+was not familiar with the Internet, and I had to explain to her what it is.
+Web browsing task: Search for the recipe
+- I had to tell participant about blinking cursor, and that you use keyboard to type/interact.
+There was just no way she could accomplish tasks on own. I had to walk her through
+clicking, how to put mouse over what you want to select and then press button; that you
+can’t just press buttons. I had to tell her to click on blue underlined part. She didn’t know
+the expression 'surf the web' and clicked on 5 other buttons. I had to walk her through
+every step because she didn’t know google, or searching, or anything really.
+Web browsing: Increase text size
+- Participant couldn’t find it, hit back button, then hit magnifying glass, but didn’t know to
+drag it to the right.
+Web browsing: Add a bookmark
+- Participant never heard of bookmarks or favorites.
+- I had to explain what bookmarks were. Participant thought print button would do it and
+had no idea what it was.
+Web browsing: Find bookmark in favorites
+- Participant hit bookmarks again, thought she located it and had to type in lasagna again.
+She did not understand she was bookmarking again.
+- Participant thought she had to push star button, so I had to tell her how it works.
+- Participant went to star again and almost added bookmark again. She needed guidance.
+- Participant hit star again to find it, so I had to explain it and show her.
+- Participant hit star again, so I had to tell her to get back to main screen. She hit the
+birthday cake and it got her there. Note- how is it intuitive that a birthday cake brings you
+to the main screen? Participant asked, 'what does portal mean?'
+- Participant clicked on star again, so I had to explain it and show it to her.
+8.1.2
+
+PointerWare
+
+8.1.2.1 Minimal
+
+E-mail task: Go to your e-mail
+- Participant wanted to click on phone to read e-mails… but made right choice.
+- Participant was looking for icons at top of screen, so I told him you can press the large
+buttons. “Is mail the same as e-mail?”
+E-mail task: Add address to address book
+- Participant was going to start writing in empty square under 'whom are you writing to',
+then saw new person.
+- Participant was about to start writing in empty big box, then I told him to look at screen
+before he starts writing and see where he is writing, then he hit new person.
+E-mail task: Going from address book to writing a new e-mail, and writing the e-mail
+
+63
+
+-
+
+Participant was looking at keyboard for a 'send' button, so I told him its not on the
+keyboard after which he saw send button right away.
+
+E-mail task: Get to new e-mail and read it
+- Participant hesitated slightly between find mail and read mail, ultimately clicking read
+mail.
+Web browsing task: Search for the recipe
+- Participant typed cnn.com from example at end of lasagna recipe in search term, but still
+got results.
+- Participant lacked confidence, typed in lasagna recipe very fast, then looked at screen, but
+didn’t know what to do. When I told her to look at the buttons on the screen and think
+about what they might do, she immediately hit search now.
+- Participant had a little trouble clicking blue hyperlink.
+- Participant had trouble clicking blue links, clicked on ad, and typed cnn.com and recipes,
+but didn’t understand what they had to do with each other. The instruction screwed him
+up, but he still got results.
+Web browsing: Increase text size
+- I guided participant to look at left side of screen because he was looking within browser.
+Web browsing: Add a bookmark
+- Participant did not want to save entire cooking website- didn’t quite understand how 'save
+site' worked.
+- Participant never did bookmark before, so wasn’t sure what it was, but was able to save
+the site.
+8.1.2.2 Moderate
+
+E-mail task: Add address to address book
+- Participant hit add e-mail before putting anything in textbox. Didn’t understand error
+message.
+- Participant thought she was supposed to hit 'add e-mail' first before typing it in.
+- Participant wrote contact name where address was supposed to be, didn’t understand that
+only address goes on that line and not contact name too.
+E-mail task: Going from address book to writing a new e-mail, and writing the e-mail
+- When program asked participant if she wants to type or send a voice-mail, she spoke to
+the computer and said 'type'. She said it 3 times. When she got no response, she thought
+she might have to press ‘speak message into microphone’ to tell it she wants to type. I
+had to intervene. It seemed because the cursor was over the microphone button, she
+thought it was telling her to actually speak into the microphone.
+- Participant spoke to computer when voice said 'what kind of message do you want to
+send'.
+Web browsing: Increase text size
+- Participant didn’t notice that when she hit + it increased text. She didn’t think it did
+anything.
+
+64
+
+-
+
+Participant clicked ‘save site’ not knowing what it meant. She saved the site and hit the +
+but didn’t see a change in the text size, and didn’t know she did it right. "it confused me,
+there must be some better way of communicating text size- smaller and larger, maybe it
+needs a label like you have this for up and this for down. The magnifying glass is not
+helpful but if there was a block that said text size, and a plus or minus that would be
+helpful."
+
+Web browsing: Add a bookmark
+- Participant didn’t know what bookmark was, thought you could bookmark e-mails.. I had
+to explain it was different.
+- 'I can’t enter a name for the website because I don’t know any'. I explained for a while
+how exactly favorites work.
+Web browsing: Find bookmark in favorites
+- Participant clicked save site again, but realized she had to go back and learned you can
+hit the go ‘back’ button as many times as you want.
+- Participant hit ‘go back’ until she found it.
+- With moderate interference, I told participant she had to keep going 'back' and then she
+saw it on the Internet home screen. She didn’t know what a bookmark was.
+8.1.2.3 Severe ( Incomplete )
+E-mail task: Add address to address book
+- Participant wrote contact name where address was supposed to be, and didn’t understand
+that only address goes on that line and not contact name too. Significant interference.
+- Participant clicked add e-mail before entering e-mail address.
+- Participant hit enter instead of shift for the @ symbol so I had to explain keyboard.
+- Participant wrote my name, e-mail and entire body of letter in that one line, but didn’t
+understand 'invalid mail address' and thought maybe it shouldn’t be all across, but up and
+down. (not on 1 line). Participant didn’t know what to do so I explained it to her: just 1
+address on the line. I showed her how to do it, but got invalid message again because
+there was a space after and before the e-mail.
+E-mail task: Going from address book to writing a new e-mail, and writing the e-mail
+- Typing took a very long time, as did going back to edit words, putting a space between
+the words, using arrow keys.
+Web browsing: Increase text size
+- Participant clicked images thinking it would make it larger, was looking within the
+browser , went off track.
+- Participant clicked on 'belly flab ad', but program didn’t let her go to it. Participant didn’t
+know what the + and - buttons do, thought it raised the page up and down.
+Web browsing: Find bookmark in favorites
+- Participant went to save site, and I had to tell him it would save it again. He never heard
+of favorites/bookmarks.
+- Participant wasn’t sure where they went, didn’t quite understand favorites, went to save
+site again.
+
+65
+8.1.3
+
+BigScreenLive
+
+8.1.3.1 Minimal
+
+E-mail task: Go to e-mail
+- Participant went to web first, then e-mail.
+E-mail task: Add address to address book
+- Participant was somewhat confused, didn’t understand how tabs worked.
+- Participant tried to click ‘no data available’.
+- Participant clicked ‘no data available’ and ‘add new name’ - the text, not button. I guided
+him to read the directions and look to the right of the screen.
+- Participant tried to click 'no data available' 3 times before seeing 'add new name'.
+- Participant tried to just start typing, and I told her she can’t type in the 'no data available'
+spot. She found the ‘add new name’ button.
+- Participant tried to click ‘no data available’ many times and wanted to type without text
+field, then went to ‘write mail’ and back to address book again. I needed to interfere and
+guide her to the 'add new name' button.
+E-mail task: Going from address book to writing a new e-mail, and writing the e-mail
+- Participant had trouble typing and experienced slow difficulty fixing things.
+- Participant looked for ‘send’ button on keyboard.
+E-mail task: Get to new e-mail and read it
+- Participant first hit clear.
+- Participant didn’t know to click on message to read it.
+E-mail task: Delete the e-mail you have just read
+- Participant pressed ‘trash’ tab instead of ‘delete’ button and thought it was deleted. I had
+to tell her the function of the ‘trash’ tab. When she opened the actual e-mail letter, she
+found delete button right away.
+- Participant looked at ‘trash’ tab first, then saw ‘delete’ button.
+Web browsing task: Go to the Internet
+- Participant said "I'm stuck, completely stuck" so I told him the buttons on the left allow
+you to go to different categories. He hit 'Daily Digest'.
+Web browsing task: Search for the recipe
+- Participant had minor trouble using mouse, and getting cursor to blink in box.
+- Participant needed to type in the text book, not just start typing. I explained that you need
+to tell it where you want to type- i.e., blinking cursor. Participant got confused, but there
+was minimal interference.
+Web browsing: Increase text size
+- I had to tell participant that there was a button on the screen, after looking for one on
+keyboard. Participant didn’t increase the text size nearly enough.
+Web browsing: Add a bookmark
+
+66
+
+-
+
+Participant went to ‘tools’ again first, then hit ‘home’ button at bottom of screen to get
+back to recipe (inefficient). I told her to look at frame when she gave up/got frustrated.
+Participant looked inside page, scrolled up and down, then saw button on bottom.
+Participant went to ‘tools’ again, this time knew how to get back to web. I had to tell her
+bookmarking is another way of 'saving'.
+Participant never heard of bookmarks, so I had to explain it to her.
+I told participant to read directions, but he wasn’t sure what to do.
+I had to say bookmarking is same as favorites/saving site.
+Participant clicked on ‘my favorites’ tab and said "now I’m back to where I started", then
+proceed to start search over.
+
+Web browsing: Find bookmark in favorites
+- Participant looked in ‘our favorites’ first.
+8.1.3.2 Moderate
+
+E-mail task: Going from address book to writing a new e-mail, and writing the e-mail
+- Participant started writing while looking at ‘saved address book’ page, without a text
+field. I explained he needed to get to address book. Participant thought he had to copy email address from address book or save it somehow.
+- Participant didn’t know why drop down showed up when she wrote my name in the 'to'
+box.
+- Participant went to address book, hit my name, and said write letter to me. She was
+slightly confused when 'bella' showed up, questioning doesn’t it have to say the address?.
+- Participant had trouble with mouse, especially the clicking. Participant kept clicking
+wheel instead of button. I interfered moderately, helping him use mouse. He was
+confused when he saw blue 'bella' come up after beginning typing in the 'to' field. He
+knew there was a way to get contact out of address book but not how. He didn’t
+recognize the drop down.
+E-mail task: Get to new e-mail and read it
+- Participant didn’t open the e-mail, but thought she read it. When I told her that she didn’t
+read the e-mail, she was surprised. She read the direction that said to select a blue
+highlighted message, and then opened it and got to the letter.
+- Participant clicked ‘get new mail’, but didn’t know she had a new e-mail. She didn’t
+know the blue highlighted message was new. I guided her to read directions, then she did
+the right thing and opened e-mail.
+E-mail task: Print the e-mail
+- Participant thought forwarding would print it so she hit forward. I had to tell her there
+was a button with a picture of a printer because she gave up.
+Web browsing task: Search for the recipe
+- Participant didn’t think he was really 'in it' and didn’t know where he was when he was in
+the web. I told him to read direction to see if it helps. He tried to click on the direction
+itself. I had to tell him to type it into the text box.
+Web browsing: Increase text size
+- Participant went to tools first, and then had trouble getting back to recipe.
+
+67
+
+-
+
+Participant got frustrated, showed a lack of confidence. I gave a hint to put the mouse
+over a button to see what it does.
+Participant went to tools to make text bigger, but had trouble getting from tools back to
+web. "I don’t know how to get rid of this". She went to log out, to close it, and start over
+again due to frustration.
+
+Web browsing: Find bookmark in favorites
+- Participant went to 'our favorites' then family and friends before finding her own.
+8.1.3.3 Severe ( Incomplete )
+
+E-mail task: Add address to address book
+- Participant looked at ‘no data available’ and tried to take it out to type in the address, then
+tried to click it several times to get rid of it. He wanted to hit ‘trash’ tab to get rid of 'no
+data available', so I needed to explain that you don’t need to delete 'no data available'. I
+had to tell him there is a button that says ‘add new name’.
+- Participant first clicked on 'no data available', then found the 'add new name' button by
+herself. She looked at 'select new name' directions on the window behind the 'add new
+name' window and got confused. "I have to save it- but I have to put the message in it."- I
+had to explain to her it is just the address book, not the e-mail itself.
+E-mail task: Going from address book to writing a new e-mail, and writing the e-mail
+- Participant thought she sent it when she hit "mail sent" button.
+- Participant couldn’t Figure out how to get my name from address book to e-mail. I told
+her how to do that.
+- Participant had trouble with keyboard- backspace key and blinking cursor. She ran out of
+time.
+E-mail task: Get to new e-mail and read it
+- Participant thought he read the e-mail, didn’t realize you have to open it. I had to tell him
+that. He clicked ‘get new mail’. I had to tell him how to open it.
+E-mail task: Print the e-mail
+- Participant went to write mail, and thought printing was writing. She then went to the
+inbox and found ‘print’ icon, but it wasn’t the e-mail letter, just the list.
+Web browsing: Add a bookmark
+- Participant needed lots of intervention. She went to ‘our favorites’, then ‘my favorites’,
+not bookmark button on bottom.
+Web browsing: Find bookmark in favorites
+- Participant went to ‘family favorites’, thinking that is where it should be inserted. She
+wanted to type in lasagna again. I had to explain it went to ‘my favorites’. She didn’t
+quite understand how that worked either.
+- Participant hit ‘bookmark’ again to find bookmarks, so I had to tell him to hit ‘my
+favorites’.
+- Participant hit ‘bookmark’ again, though he knew he didn’t want to add it again. He hit it
+again. I asked him to read the little direction under ‘adding bookmark’. Participant
+
+68
+
+clicked on ‘web’, not really realizing he was in web already. I had to let him know he was
+in the web section. He clicked on ‘our favorites’, so I had to explain what that meant. He
+then hit ‘family favorites’ and finally ‘my favorites’. He needed a lot of interference.
+
+8.2 Survey Responses to Open Ended Questions
+Below are some users’ responses to two open ended questions asked on the post-survey.
+8.2.1
+
+-
+
+-
+
+-
+
+-
+
+-
+
+If you are not currently a regular user, what has kept you from using a computer?
+
+“For one thing, most people my age don’t have a lot to look up. We're from a different
+generation where we look things up with an encyclopedia. Most people my age don't
+have e-mail, we just pick up the phone or write a letter. When I have used it, sometimes I
+get stuck and frustrated, and stop. I haven't used it in years. It’s a different form of
+communication.”
+“I don’t understand them at all. I have no idea what to do, and don’t know the phrases. I
+don’t know the terminology, what all of the ‘thingymabobs’ mean. I have no clue what
+anything means.”
+“I gave my computer away, and have none now. I just wasn’t doing much with it. I
+recently ordered a laptop.”
+“First I didn’t have a computer, then my friend gave me one and now I’m in the process
+of hooking it up.”
+“It just seems complicated to me, and I have to sit and wait all of the time.”
+“Partially it’s time. Nobody has dedicated time to teaching me the computer. I had a
+computer at home but it was slow, patience is not one of my virtues. I do enjoy it when I
+do go on the computer, I can’t believe so many hours have passed, that I’ve been on it for
+that length of time.”
+“I don’t understand it. Everything has kept me from using it.”
+“I’m just really not into it. I had to use it at work. I took a computer class at the high
+school and remembered a lot of stuff but didn’t practice it, so I only use it for games.”
+“I use the computer to write up notes from meetings. I do a little e-mail but I just don’t
+know how to do anything else.”
+“I wanted to use the Microsoft word tutorial, it is on the computer. I can’t take notes
+because my tremor makes my handwriting illegible. I would have to remember every new
+instruction from the tutorial, it was too hard. I did use one of my son’s computers to find
+things on the web and enjoyed it.”
+“I play games. I have tried to use the internet but I get to a certain point and get
+frustrated, and I end up finding nothing out.”
+“I really don’t want one. I worked with a computer in the past, and had one at home but
+got so sick of the computer. I’m trying to live on the periphery of technology, it’s not that
+easy. My daughter gave me a laptop a year ago, it is still sitting, not connected.”
+
+69
+
+-
+
+8.2.2
+
+-
+
+-
+
+-
+
+-
+
+“I don’t use it that often, just for looking things up. I do e-mail the grandkids but that’s
+all. I have the basics of it. Dial up is slow and I don’t have time to wait for it.”
+“I am intimidated because I don’t know many things about how to use it.”
+“I don’t find them that friendly. I also want to be comfortable and sit with my feet up, I'm
+not so comfortable sitting up. I watch tv with my feet up.”
+“I rarely use a computer, maybe once or twice a month. The printer is not working; there
+are problems with set up. I am also very busy.”
+If you have used a computer before, what do you find most confusing or frustrating
+about using a computer?
+
+“Finding my way around the computer, I could get online but right now I don't know
+how.”
+“Sometimes I find e-mail confusing, it’s really my impatience. I want it to be clearer right
+away. I want a step by step description. I worry about viruses too.”
+“Understanding some of the confusing instructions my computer gives me when I am
+doing something wrong. Directions disappearing too quickly before I can read them.”
+“I find that the text is too small, and I have to put my glasses on and off depending on
+what the text looks like. I often follow the tv and they say ‘go to this’ and ‘go to that’,
+and I just can’t remember what they say because it goes so fast. They say go to a link and
+I can’t find it, I don’t know what it is, where does it say "link"? One thing I never learned
+to do is download, I have no idea what it means or how to get it, whether it’s finished or
+not finished.”
+“The chatroom and facebook. I know there are things the computer can do but not how to
+do them: banners and flyers, spreadsheets and banking. Spyware and risks, what I need to
+protect my information. Cleaning out the computer of errors and whatnot, that is on the
+foreign side, and whether or not to trust companies that offer to clean out the computer to
+make it work faster and to find out whether I should update it- if it’s worth it or if the one
+I have is sufficient for my needs. My computer had things on it that disappeared and I
+don’t know how, when or where. I think it was changing service providers. Spell
+checking is more annoying now, and I have dyslexia so spell check is really important.”
+“You can’t just turn it on and begin using it as you could with the word processors. The
+computer wants to know: did you do this? Did you renew this? Do you want to change
+this? Etc. etc.”
+“Utilizing Microsoft word, email connection, address book, getting an address onto a
+greeting card by printing, exporting and importing photos”
+“Pasting, sending an attachment in an email, printing photos and organizing photos on
+my computer”
+“I get frustrated when I can't find what I'm looking for, not that I've done it very often. I
+have a computer in my house, my daughter and son in law use it, and grandkids use it all
+of the time.”
+
+70
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+“If I’m looking something up and it tells me to go somewhere else, I have to lose
+whatever I have on the screen”
+“Things not coming up quickly, a lot of pop-ups that interfere. I upgraded my speed and
+it’s not working. Trying to look up certain things, you have to be persistent and I get a
+little impatient. If you don’t use the exact word or phrase you can’t find it. When people
+send me things, a lot of times I can’t open them, and that’s probably my security system.
+I’m always concerned about things that you have to download, I'm not sure and I don’t
+want to get a virus. Sometimes you have to sign license agreements and I'm not crazy
+about that. Adobe reader keeps asking to upload, and I'm used to that. Anytime it asks me
+to sign an agreement, I usually cancel.”
+“I had a terrible time trying to get help. Adobe reader came out with an update and now
+nothing appears in my print queue when I try to print.”
+“I have trouble with my elements program (fixing photos) for photography. Sometimes
+when it freezes I have a problem. I don’t know the differences between a pc and mac, I
+have total unfamiliarity.”
+“Not knowing how to fix problems from here to there, and setting up the computer”
+“I basically just play games. I do get e-mails on my son in law’s computer and I know
+how to go to the food channel for recipes, just simple things.”
+“Not being able to find what you’re searching for”
+“Things change on the computer which always surprises me. I’m writing a manuscript
+and I went to Microsoft, but the icons changed where they were on the screen. Any
+changes without explanation confuse me. The unknown confuses me.”
+“I don't think I could just keep hitting the keys and going through programs, I get various
+error messages. I understand you can’t really hurt a computer, but I worry about that.”
+“I don’t know whether my computer needs a spell at genius bar. I have very uneven
+response, sometimes I can’t open my email, sometimes I have to shutdown & open again,
+other times its fine. I have a Macintosh and it’s almost as if the mac’s intuition does
+things that I’m not controlling. As I said before, what’s confusing is that I don’t have
+consistent idea of where my various files are, its hit or miss when I go back and open
+some of the things I have downloaded. Not really organized in a way I can reference
+them (contacts in files).”
+“The slowness of it, and because I have an old computer they keep asking me to update
+my browser which I can’t because I don’t have the money to buy a new computer.
+Change/update browser (windows 98) popping up. I purchased a secondhand laptop that I
+couldn’t get going, I got frustrated, used other peoples laptops.”
+“When the server goes down, using word, keeping files in order”
+“Some things were confusing, mainly dealing with the internet”
+“It has been 2 years since I used it. I couldn’t get on my yahoo mail. I had trouble
+figuring out the numbers and letters [captcha] and my daughter had to help me. Getting
+on word processing was confusing”
+
+71
+
+8.3 Graphs
+
+Gender
+
+Highest Level of Education
+Completed
+
+Male
+22%
+
+No Degree
+
+High School Degree
+6%
+
+Female
+78%
+44%
+
+2-4
+4 yr College Degree
+
+Post Grad
+
+9%
+
+41%
+
+Figure 20: Gender
+
+Figure 21: Highest Level of Education Completed
+
+number of participants
+
+How Often Participants Use
+Computer
+5
+4
+3
+2
+
+Eldy
+
+1
+
+PointerWare
+
+0
+
+BigScreenLive
+never
+
+rarely
+
+several
+times a
+week
+
+daily
+
+Figure 22: How Often Participants Use Computer
+
+number of participants
+
+Age Range of Participants
+8
+6
+4
+2
+0
+55-59
+
+60-64
+
+65-69
+
+70-74
+
+75-79
+
+age range
+
+Figure 23: Age Range of Participants
+
+80-84
+
+85-89
+
+90-94
+
+72
+
+Level of Comfort with Computers
+7
+6
+5
+4
+
+Before
+
+3
+
+After
+
+2
+1
+Eldy
+
+PointerWare
+
+BigScreenLive
+
+Confidence
+Interval : 95%
+
+Figure 32:: Level of Comfort with Computers
+
+Difference (Before
+and After Study)
+
+Eldy
+
+PointerWare
+
+BigScreenLive
+
+Level of Comfort
+
+1.45
+
+.36
+
+.9
+
+Table 5: Difference in Level of Comfort with Computers
+
+Usefulness of Features
+7
+
+6.28
+
+6
+
+6.09
+5.03
+
+5.56
+
+5.45
+
+5.53
+
+5.9
+
+4.56
+
+5
+4
+3
+2
+1
+print
+
+hear an
+email
+message
+read out
+
+playing
+games
+
+Confidence
+Interval : 95%
+
+Figure 33:: Usefulness of Features
+
+video chat being able send a
+attach an attach a
+typed
+to touch voice msg image to
+document
+computer instead of
+email
+or other
+screen
+txt email
+type into
+an email
+
+73
+
+Figure 35: CAS and CARS Rating Scale Results
+
+74
+
+Click “Mail”
+
+Click “Address Book”
+
+Enter the name and e-mail address of the new contact
+
+Click “Add New Name”
+
+Click “Write Mail”
+
+Click inside of textbox next to “To” to
+enter e-mail address
+
+Write letter and click “Send”
+
+Select contact name from drop down
+list
+
+Figure 38: BigScreenLive flow chart for writing an e-mail and adding a contact to address book
+
+75
+
+Click “Mail”
+
+Click “Write Mail”
+
+Type in the e-mail address of the new contact
+
+Click “New Person” to add a new
+person to the address book
+
+Type in the name of the new contact
+
+Do you want to write an e-mail to
+this new contact?
+
+76
+
+Click “Type message on keyboard”
+
+Write the body of the letter and click
+“Send”
+
+Confirmation that your message was sent
+
+Confirm you want to send this e-mail
+
+Figure 39: PointerWare flow chart for writing an e-mail and adding a contact to address book
+
+Click mail icon on home screen
+
+Click on address book
+
+77
+
+Add the new entry
+
+Click “Back to mail menu”
+
+Click “Choose the addressees”
+
+Click “Add new entry in your address book”
+
+Click “Write”
+
+Write the subject and body of letter
+
+Choose name of the addressee
+Click “Send”
+and click “Click to proceed”
+Figure 40: Eldy flow chart for writing an e-mail and adding a contact to address book
+
+78
+
+9 Bibliography
+[1] Fields, Elizabeth. “Phasing-out phonebooks: Internet convenience makes companies question
+need.” Wane.com. 17 Nov 2010. <http://www.wane.com/dpp/news/local/phasing-outphonebooks>.
+[2] “Internet Usage Statistics for the Americas: Usage and Population Statistics.” Miniwatts
+Marketing Group. 30 June 2010. <http://www.internetworldstats.com/stats2.htm>.
+[3] Brownlow, Mark. “Email and Webmail Statistics.” Email Marketing Reports. December
+2010. <http://www.email-marketing-reports.com/metrics/email-statistics.htm>.
+[4] “Demographics of Internet Users.” Pew Internet & American Life Project. 30 May 2010.
+<http://www.pewinternet.org/Static-Pages/Trend-Data/Whos-Online.aspx>.
+[5] Madden, Mary. “Older Adults and Social Media.” Pew Internet & American Life Project. 27
+Aug. 2010. <http://www.pewinternet.org/Reports/2010/Older-Adults-and-Social-Media.aspx>.
+[6] Fox, Susannah. “Four in ten seniors go online.” Pew Internet & American Life Project. 13
+Jan 2010. <http://www.pewinternet.org/Commentary/2010/January/38-of-adults-age-65-goonline.aspx>.
+[7] “Strong Internet Use by Tomorrow's Seniors Means Big Changes for Market.” Senior
+Citizens Information and News. 19 May 2005. <http://seniorjournal.com/NEWS/SeniorStats/505-19OldBoomersOnNet.htm>.
+[8] “Making Your Web Site Senior Friendly: A Checklist.” National Institute on Aging and the
+National Library of Medicine. Rev. September 2002. <http://www.nlm.nih.gov/pubs/
+checklist.pdf>.
+[9] Hanson, V. L. “Web Access for Elderly Citizens.” In Proceedings of the Workshop on
+Universal on Accessibility of Ubiquitous Computing, WUAUC’01. Alccer do Sal, Portugal, May
+2000. ACM Press, 14-18.
+[10] “Making Your Website Senior Friendly: Tips from the National Institute on Aging and the
+National Library of Medicine.” National Institute on Aging and the National Library of
+Medicine. Rev. March 2009. http://www.nia.nih.gov/NR/rdonlyres/FF9E472A-8363-4EA0848E-5AFA56502ECE/12338/Sr_Web_tips_forweb_final_032509.pdf
+[11] Campbell, R. J., and J. Wabby. “The Elderly and the Internet: A Case Study.” The Internet
+Journal of Health. Volume 3 Number 1. 2003. <http://www.ispub.com/ostia/index.php?xml
+FilePath=journals/ijh/vol3n1/elderly.xml>.
+[12] Loyd, H., and C. Gressard. “Reliability and Factorial Validity of Computer Attitude scales.”
+Educational and Psychological Measurement, 44, 501-505. 1984. <http://epm.sagepub.com/
+content/44/2/501.abstract>.
+
+79
+
+[13] Nielsen, Jakob and Rolf Molich. “Ten Usability Heuristics.” 2005. <http://www.useit.com/
+papers/heuristic/heuristic_list.html>.
+[14] Nielsen, Jakob, Don. Norman, and Bruce Tognazzini. “Publications.” Nielson Norman
+Group. 2011. <http://www.nngroup.com/reports/>
+[15] Kanter, Laurie, and Stephanie Rosenbaum. “Usability Studies of WWW Sites: Heuristic
+Evaluation vs. Laboratory Testing.” Proceedings of the 15th Annual International Conference on
+Computer Documentation SIGDOC. pp.153–160. 1997.
+[16] Heinssen, R.K., C.R. Glass, and L.A. Knight. “Assessing Computer Anxiety: Development
+and Validation of the Computer Anxiety Rating Scale.” Computers in Human Behavior, 3, 4959. 1987.
+[17] Krug, Steve. “Don’t Make Me Think: A Common Sense Approach to Web Usability.” 2nd
+Edition, New Riders Press. 2005.
+[18] “Resources for understanding and implementing Section 508.” December 2010.
+<http://www.section508.gov/>.
+[19] “Web Accessibility Initiative (WAI).” World Wide Web Consortium (W3C). 16 Feb. 2011.
+<http://www.w3.org/WAI/>.
+[20] “Guidance on usability: ISO 9241-11:1998 Ergonomic requirements for office work with
+visual display terminals (VDTs) -- Part 11.” Userfocus. 2011. <http://www.userfocus.co.uk/
+resources/iso9241/part11.html>.
+[21] Nielsen, Jakob. “Usability 101: Introduction to Usability.” n.d. Web. 12 Feb 2011.
+<http://www.useit.com/alertbox/20030825.html>.
+[22] “Research Based Web Design and Usability Guidelines.” U. S. General Services
+Administration and the U. S. Department of Health and Human Services. 2006.
+<http://usability.gov/guidelines/guidelines_book.pdf>.
+[23] “Usability and User Experience Resources: Usability Toolkit.” Society for Technical
+Communication. n.d. Web. 21 Feb 2011. <http://www.stcsig.org/usability/resources/toolkit/
+toolkit.html>.
+[24] “Browser Statistics.” W3Schools. Feb 2011. <http://www.w3schools.com/browsers/
+browsers_stats.asp>.
+[25] Tullis, Thomas S., and Jacqueline N. Stetson. “A Comparison of Questionnaires for
+Assessing Website Usability.” Human Interface Design Department, Fidelity Center for Applied
+Technology Fidelity Investments Boston MA. Usability Professionals Association. 2004.
+<http://home.comcast.net/~tomtullis/publications/UPA2004TullisStetson.pdf>.
+[26] “Firefox Accessibility Extensions.” Access Firefox, a Mozilla Community Run Project.
+2011. <http://www.accessfirefox.org/Firefox_Accessibility_Extensions.php>.
+
+80
+
+[27] “Voluntary Product Accessibility Template.” Mozilla Firefox. 13 July 2009.
+<http://www.mozilla.com/en-US/firefox/vpat-3.html>.
+[28] “Accessibility in Internet Explorer 8.” Microsoft Accessibility: Technology for Everyone.
+2011. <http://www.microsoft.com/enable/products/ie8/>.
+[29] “Extensions to Make the Web More Accessible.” Google Chrome. 2010.
+https://chrome.google.com/extensions/featured/accessibility>.
+[30] Czaja, Sara J. “The Impact of Aging on Access to Technology.” University of Miami:
+Miller School of Medicine. September 2005. <http://www.sigaccess.org/community/
+newsletter/september_2005/sep05_02.pdf>.
+[31] Orlov, Laurie M. “Technology for Aging in Place: A 2009 Market Overview.” Aging in
+Place Technology Watch. 17 December 2009. <http://changinghomecare.com/documents/
+Aging%20In%20Place%20Technology%20Market%20Overview%2012-17-2009.pdf>.
+[32] Jones, Sydney and Susannah Fox. “Generations Online in 2009.” Pew Internet & American
+Life Project. 28 January 2009. <http://pewresearch.org/pubs/1093/generations-online
+[33] Nimrod, Galit. “Seniors’ Online Communities: A Quantitative Content Analysis.” The
+Gerontologist (2010) 50 (3): 382-392. doi: 10.1093/geront/gnp141 First published online: 16
+November 2009. <http://gerontologist.oxfordjournals.org/content/50/3/382.full>.
+[34] Karavidas, Maria, Nicholas K. Lim, and Steve L. Katsikas. “The effects of computers on
+older adult users.” Computers in Human Behavior, Volume 21, Issue 5, September 2005, Pages
+697-711, ISSN 0747-5632, DOI: 10.1016/j.chb.2004.03.012.
+[35] Selwyn, Neil, Stephen Gorard, John Furlong, and Louise Madden. “Older Adults' Use of
+Information and Communications Technology in Everyday Life.” Ageing and Society, 23, pp
+561-582. 2003.
+[36] Ford, George, and Sherry Ford. “Internet Use and Depression Among the Elderly.” Policy
+Paper No.38, The University Club Washington DC. 15 October 2009. <http://www.phoenixcenter.org/DepressionOct152009.pdf>.
+[37] Wagner, Nicole, Khaled Hassanein, and Milena Head. “Computer use by older adults: A
+Multi-disciplinary Review.” DeGroote School of Business, McMaster University, Hamilton,
+Ontario, Canada. 22 April 2010. <http://www.business.mcmaster.ca/IS/head/Articles/
+Computer%20use%20by%20older%20adults.pdf>.
+[38] Lo, Jennifer., Arielle Mendel, Dana Borrie, Raul Rupsingh, and Michael Borrie. “SeniorFriendly Computer Interface to Enhance Learning and Independent Use of Email Among
+Seniors.” Division of Geriatric Medicine. 2009. <http://pointeremail.com/
+cases/CGS_2009_PosterEdit.pdf>.
+
+81
+
+[39] Choney, Suzanne. “Older Adults are Flocking to Social Networks.” MSNBC.com. 27 Aug.
+2010. <http://technolog.msnbc.msn.com/_news/2010/08/27/4982716-older-adults-are-flockingto-social-networks>.
+[40] Laguna, K., and R. Babcock. "Computer anxiety in young and old adults: Implications for
+human-computer interactions in older populations." Computers in Human Behavior 13, no. 3:
+317-326. 1997.
+[41] Teo, Timothy. “Pre-service Teachers’ Attitudes Towards Computer use: A Singapore
+Survey.” Australasian Journal of Educational Technology. Nanyang Technological University.
+24(4), 413-424. 2008. <http://www.ascilite.org.au/ajet/ajet24/teo.pdf>.
+[42] Tullis, Thomas, and William Albert. “Measuring the User Experience: Collecting,
+Analyzing, and Presenting Usability Metrics.” Morgan Kaufmann. 2008.
+[43] Gamberini, Luciano, and Concetta Alberti. “Eldy Usability.” Human Technology Lab: DPG
+Department of General Psychology and CISC Center For Cognitive Science. University of
+Padova. <http://htlab.psy.unipd.it/index.php?page=eldy-usability>.
+[44] “Kaspersky Security Bulletin: Malware Evolution 2010.” Kaspersky Lab. n.d. Web. 17 Feb
+2011. <http://www.securelist.com/en/analysis/204792161/Kaspersky_Security_Bulletin
+_Malware_Evolution_2010>.
+[45] “Skype provides communication and health services for elderly.” AARP Global Network:
+Senior Living News. 19 July 2010.
+[46] Kantner, Laurie, and Stephanie Rosenbaum. “Usable Computers for the Elderly: Applying
+Coaching Experiences.” In: IEEE Professional Communication Conference. 2003.
+<http://www.teced.com/PDFs/ipcc_2003.pdf>.
+[47] Rubin, Jefferey, and Dana Chisnell. “Handbook of Usability Testing: How to Plan, Design,
+and Conduct Effective Tests.” Second Ed. Wiley Publishing, 2008.
+[48] Tognazzini, Bruce. “First Principles of Interaction Design.” n. d. Web. 12 March 2011.
+<http://www.asktog.com/basics/firstPrinciples.html>.
+[49] Rainie, Lee, and Kathryn Zickuhr. “Video Calling and Video Chat: Main Findings.” Pew
+Internet & American Life Project. 13 October 2010. <http://www.pewinternet.org/Reports/
+2010/Video-chat/Findings.aspx>.
+[50] Zickuhr, Kathryn. “Generations Online in 2010.” Pew Internet & American Life Project. 16
+December 2010. <http://www.pewinternet.org/Reports/2010/Generations-2010/Overview.aspx>.
+[51] “Eldy Seniors Computer Software for Elderly.” Eldy. n.d. Web. 24 February 2011.
+<http://www.eldy.eu/>.
+[52] “PointerWare: Computers Made Simple.” Pointerware. n.d. Web. 10 March 2011.
+<http://www.pointerware.com/c/pages/home>.
+
+82
+
+[53] “Easy-To-Use Computer for Seniors.” BigScreenLive. n.d. Web. 24 February 2011.
+<http://bigscreenlive.com/>.
+[54] Nielsen, Jakob. “Usability Engineering.” Morgan Kaufmann. 1st edition.1993.
+[55] “Camtasia Screen Recorder Software.” TechSmith. 2011. <http://www.techsmith.com/
+[56] Nielsen, Jakob. “Why You Only Need to Test With 5 Users.” Jakob Nielsen's Alertbox, 19
+March 2000. <http://www.useit.com/alertbox/20000319.html>.
+[57] Lewis, Clayton, and John Rieman. “Task-Centered User Interface Design: A Practical
+Introduction.” 1994.
+[58] “Kaspersky Security Bulletin: Malware Evolution 2008.” Kaspersky Lab. n.d. Web. 17
+April 2011. <http://www.kaspersky.com/reading_room?chapter=207716858>.
+
+

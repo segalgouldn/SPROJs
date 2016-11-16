@@ -1,0 +1,1666 @@
+Bard College
+
+Bard Digital Commons
+Senior Projects Spring 2016
+
+Bard Undergraduate Senior Projects
+
+2016
+
+An Overview of a Driving Profile Based on Mobile
+Phone Sensor Data
+John Steven Belk
+Bard College
+
+Recommended Citation
+Belk, John Steven, "An Overview of a Driving Profile Based on Mobile Phone Sensor Data" (2016). Senior Projects Spring 2016. Paper
+57.
+http://digitalcommons.bard.edu/senproj_s2016/57
+
+This On-Campus only is brought to you for free and open access by the
+Bard Undergraduate Senior Projects at Bard Digital Commons. It has been
+accepted for inclusion in Senior Projects Spring 2016 by an authorized
+administrator of Bard Digital Commons. For more information, please
+contact digitalcommons@bard.edu.
+
+An Overview of a Driving Profile Based on
+Mobile Phone Sensor Data
+
+A Senior Project submitted to
+The Division of Science, Mathematics, and Computing
+of
+Bard College
+by
+John Belk
+
+Annandale-on-Hudson, New York
+May, 2016
+
+2
+
+Abstract
+
+This project explores the idea of building a phone application to measure driving behavior through phone sensor data. Research into mobile data collection frameworks,
+sensor-related phone apps, and experiments on driving behavior measurement, analysis, and profiling was completed. We perform an experiment on data for a single
+driver to determine what types of acceleration related measures are potentially consistent for individual drivers, and which measures show too much variation among
+driving by one driver to be used for comparison with other drivers. We use our research and data from our experiment to outline a driving profile phone application.
+
+4
+
+Contents
+
+Abstract
+
+3
+
+Dedication
+
+9
+
+Acknowledgments
+
+11
+
+1 Introduction
+
+13
+
+2 Background
+2.1 Mobile Data Collection . .
+2.1.1 Frameworks . . . .
+2.1.2 Applications . . . .
+2.2 Driver Recognition . . . .
+2.2.1 General Features .
+2.2.2 Existing Methods .
+2.3 Driving Behavior Analysis
+2.3.1 Basic Actions . . .
+2.3.2 Efficiency . . . . .
+2.3.3 Safety . . . . . . .
+2.4 Driving Profiles . . . . . .
+
+17
+18
+18
+20
+24
+25
+26
+28
+29
+30
+32
+33
+
+3 Results
+3.0.1
+3.0.2
+4 Discussion
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+37
+Methodology . . . . . . . . . . . . . . . . . . . . . . . . . . . 38
+Data . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 43
+51
+
+Contents
+
+Contents
+
+5 Conclusion
+57
+5.0.3 Future Work . . . . . . . . . . . . . . . . . . . . . . . . . . . . 60
+Bibliography
+
+61
+
+6
+
+List of Figures
+
+2.1.1 A basic data collection framework layout. Figure from [2]. . . . . . .
+2.1.2 An illustration of pull- and push-based approaches. Figure from [25].
+2.1.3 A regression model highlighting outliers on a sensor dataset . . . . .
+2.1.4 Probabilistic model based data cleaning. Figure from [25]. . . . . . .
+2.2.1 A sample plot of FAR and FRR. Figure from [25]. . . . . . . . . . . .
+2.2.2 Smoothed diary of physical activity over a single day. Figure from [28].
+2.3.1 Acceleration data with associated driving activities labeled. Figure
+from [21]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+2.3.2 True Positives (TPs), False Positives (FPs), Ground Truth (GT),
+Precision (PR) and Recall (RC) for various kinds of dangerous driving
+events. Figure from [29]. . . . . . . . . . . . . . . . . . . . . . . . . .
+2.4.1 Percent of drivers from the ”controlled” group who were correctly
+matched with their driving profile, as number of possible drivers increases. Figure from [30]. . . . . . . . . . . . . . . . . . . . . . . . . .
+2.4.2 An example stop and go region, defined as the period when a vehicle
+moves off from a stationary position until the moment it comes to a
+complete halt. Figure from [24]. . . . . . . . . . . . . . . . . . . . . .
+
+19
+21
+22
+23
+25
+28
+30
+
+32
+
+35
+
+36
+
+3.0.1 X and Y acceleration readings from a phone lying flat on a table for
+several minutes. A mean filter with window size 7 has been applied. . 40
+3.0.2 Raw data (left) and the same data smoothed using a mean filter with
+window size 7 (right). . . . . . . . . . . . . . . . . . . . . . . . . . . . 41
+3.0.3 Detected turns for a drive-through using a window size of 2 seconds
+(left) and a window size of 4 seconds (right). . . . . . . . . . . . . . . 42
+
+LIST OF FIGURES
+
+LIST OF FIGURES
+
+3.0.4 The average change in x acceleration (in m/s2 ) every tenth of a second
+for each of the ten selected turn regions for each drive-through. . . . .
+3.0.5 Graph of Figure 3.0.4. . . . . . . . . . . . . . . . . . . . . . . . . . .
+3.0.6 The average standard deviation of the change in x acceleration (in
+m/s2 ) for each of the ten selected turn regions for each drive-through.
+3.0.7 Graph of figure 3.0.6. . . . . . . . . . . . . . . . . . . . . . . . . . . .
+3.0.8 The average standard deviation of the x acceleration (in m/s2 ) for
+each of the ten selected turn regions for each drive-through. . . . . .
+3.0.9 Graph of figure 3.0.8. . . . . . . . . . . . . . . . . . . . . . . . . . . .
+3.0.10The total change in x acceleration (in m/s2 ) for each of the ten selected turn regions for each drive-through. . . . . . . . . . . . . . . .
+3.0.11Graph of figure 3.0.10. . . . . . . . . . . . . . . . . . . . . . . . . . .
+3.0.12The average change in y acceleration (in m/s2 ) every tenth of a second
+for each of the ten selected turn regions for each drive-through. . . . .
+3.0.13Graph of figure 3.0.12. . . . . . . . . . . . . . . . . . . . . . . . . . .
+3.0.14The average change in y acceleration (in m/s2 ) every tenth of a second
+for each of the ten selected turn regions for each drive-through. . . . .
+3.0.15Graph of Figure 3.0.14. . . . . . . . . . . . . . . . . . . . . . . . . . .
+3.0.16The y acceleration (in m/s2 ) every tenth of a second for each of the
+initial acceleration regions for each drive-through. . . . . . . . . . . .
+3.0.17Graph of figure 3.0.16. . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+8
+
+43
+43
+44
+44
+45
+45
+46
+46
+46
+47
+47
+48
+48
+49
+
+Dedication
+
+To Eli and Ethan, who singlehandedly made these four years survivable and even,
+occasionally, enjoyable.
+
+10
+
+Acknowledgments
+
+Many people involved in the completion of this project have my gratitude and
+appreciation, but I would like to extend particular thanks to the following:
+Bob McGrail, who was patient when I was stuck, supportive when I was struggling,
+and who provided guidance at every step of this process.
+My parents, without whom none of the learning or knowledge which went into
+this project would have been possible.
+Peter Wiley, who has constantly inspired my growth as a musician, and who was
+as understanding and supportive as can be imagined when I needed to put that
+growth on hold by way of sleepless nights spent researching, coding, and writing.
+
+12
+
+1
+Introduction
+
+In 2014, drivers in the United States alone traveled over 3 trillion miles in more
+than 253 million different vehicles [23] [9]. 32,675 of these drivers were killed in
+driving related accidents, and 689,527 of these vehicles were stolen [16] [11]. The
+enormous prevalence of driving, and the magnitude of the dangers such as theft
+and fatality associated with it, means that any tool with reasonable potential to
+improve the safety, efficiency, or security of driving and driving-related activities is
+worth researching. In this paper, we explore the idea of using data from mobile phone
+sensors to build a driving profile, which we define as a set of information about a
+particular driver which can be used to accurately analyze their behavior in multiple
+ways and for multiple purposes. The experimental portion of our research focuses
+on using accelerometer data for driver recognition, but we also provide background
+and analysis on other potential uses such as driving behavior analysis.
+We give an overview of work related to driving profiles and relevant issues in
+mobile application development in Chapter 2. Methods for data collection and management are discussed, along with the associated issues of energy management, user
+
+1. INTRODUCTION
+privacy, and data compression, cleaning, and analysis. Examination is made of existing or proposed driver identification and verification methods, along with the
+theories behind and foundation of such systems. We also discuss literature related
+to driving behavior analysis, especially in the areas of fuel-efficiency and safety.
+Finally, we look at several studies of existing driving profile related work.
+An experiment on collecting and analyzing accelerometer data for a single driver is
+described in Chapter 3. The experiment focuses largely on driving behavior through
+turns and operates on the hypothesis that a driver will navigate the same turn in
+close to the same way each time he traverses it. We also attempt to discover whether
+accelerations from a full stop show consistent patterns in acceleration data. We find
+that two measures of behavior related to x acceleration show relative consistency
+across five drive-throughs of the same route, while two others related to x acceleration and three measures related to y acceleration do not. This provides us with a
+practical and theoretical basis for further research into what type of measures are
+potentially individually specific enough for use in a driving profile, and which are
+likely not consistent enough within data for a single driver to provide a meaningful
+basis for comparison across multiple drivers.
+Chapters 4 and 5 contain the bulk of our theoretical analysis of our results, including how they relate to our initial research, and ideas for potential extensions of
+the overviewed driving profile application. Among other things, we discuss what our
+data implies about driver behavior through turns and the potential limitations of
+analyzing driving through acceleration readings, as well as what factors may have
+been involved in the failure of the inconsistent measures. Further, we explore what
+types of data cleaning and analysis might be appropriate for different complexities
+of driving profile and driving profile applications. Proposed extensions of our work
+include detecting outlier acceleration behavior in certain driving events to provide
+14
+
+1. INTRODUCTION
+information on efficiency and safety, and expanding driver recognition methods to
+detect impaired driving.
+
+15
+
+1. INTRODUCTION
+
+16
+
+2
+Background
+
+A substantial amount of work has been done with a focus on utilizing mobile sensors,
+particularly in recent years as smartphones have grown ever more prevalent. The
+diversity of possible applications for sensor data, the wide array of sensor-enabled
+phones and devices, and especially the rapid pace of technological advance in the
+mobile world, make a comprehensive and cohesive overview of sensor-based research
+difficult or impossible. However, we attempt to provide a meaningful, if incomplete,
+survey of the theoretical and practical basis of existing sensor-based work. This
+includes a review of existing and proposed data collection frameworks and a more
+specific examination of several applications relevant to this project which have been
+developed or are in development.
+Driver Verification and Identification, as a much more specific field of study, is
+easier to review. Most existing work is unrelated to, or only loosely related to, the use
+of mobile sensors. However, many of the issues addressed in existing identification
+and verification projects are highly relevant to the work in this project. Similarly,
+previous work on the development of individual driving profiles is diverse and often
+
+2.1. MOBILE DATA COLLECTION
+
+2. BACKGROUND
+
+tangential in its methods, but is also very informative in its theory and approach.
+We scrutinize both areas both generally and at specific points.
+
+2.1 Mobile Data Collection
+The Android API provides basic functionality for retrieving and storing data available from the various sensors that are present on a particular phone [7]. However,
+building an application to collect and analyze data from these sensors, either on an
+individual phone or on a group of phones, often requires a much more customized
+apparatus. In particular, significant challenges are posed by the sheer amount of
+potential data collected and the need for complex data processing to render sensor
+information meaningful. Privacy, security, and energy management are also commonly addressed issues. We examine both frameworks and specific apps which help
+shed light on these problems.
+Data collection frameworks have evolved along with the devices and applications
+they manage, with Cardone et. al defining four generations of frameworks [3]. Similarly, sensor-based applications built outside of the past few years rely largely on
+outdated hardware. The full evolution of the field of mobile sensor data collection
+is informative but beyond the scope of this paper, and we focus largely on recent
+work. The use of mobile sensors which are not contained in smartphones, and sensing
+applications such as RFID, are also outside of the scope of this project.
+
+2.1.1
+
+Frameworks
+
+The frameworks which have been built or proposed for use in mobile data collection
+focus largely on extensibility. As such, many of their design fundamentals are not
+immediately relevant to the design of a single application such as the one this paper
+18
+
+2. BACKGROUND
+
+2.1. MOBILE DATA COLLECTION
+
+overviews. However, we provide a brief overview of the unifying aspects of modern
+data collection frameworks.
+The clear demarcation of the frontend and backend is a key component for the
+ease of future development, as is the use of high-level abstractions and the availability of multiple configurations for common design needs (e.g. sensor and power
+management) [2] [4]. Specification and management of any and all tasks that can be
+expected of the sensors should be possible, and as much low-level optimization as
+possible of any sensor-related task should be handled in the framework [2] [3]. All
+frameworks seek to handle obtaining permissions for sensors in a secure and contained way, and to automatically resolve conflict between the needs of any possible
+configuration of sensors [27] [3].
+
+Figure 2.1.1. A basic data collection framework layout. Figure from [2].
+
+Certain frameworks are also built to handle cases in which it is expected that
+applications will be designed for use in a large network of phones. Data-sharing between phones and between apps would ideally be facilitated by the framework, and
+in these cases distribution of apps to specific phones can be handled by the framework as well [2] [6]. Methods for device inventory and management are provided,
+and orchestration of the population of phones as a unit is facilitated [2] [6].
+19
+
+2.1. MOBILE DATA COLLECTION
+2.1.2
+
+2. BACKGROUND
+
+Applications
+
+Applications which utilize phone sensors are extremely numerous and are developed
+with a diverse array of goals, from communication to gaming to navigation. We focus
+on applications which have data collection methods or outcomes similar to that of
+our proposed application. Generally, they collect a large volume of sensor data, often
+of multiple types, and process it through the use of filtering and/or classification.
+Data is used for the purpose of defining a measurement or key specific to unique
+individuals, analyzing motion in general, or analyzing driving behavior specifically.
+Several issues are key to this type of application. Data management, specifically
+as it pertains to the accuracy and relevance of the data acquired, is a multi-tiered
+problem. Data acquisition can be handled in several ways, each of which results
+in trade-offs in accuracy, volume, and resource requirements. Energy usage must be
+handled carefully, as extracting the maximum amount of data can result in extremely
+fast battery drain for app users. Finally, privacy and security are important for any
+mobile application but are especially relevant when dealing with location and motion
+related data.
+Approaches to data acquisition fall into two broad categories: pull-based and pushbased. In a pull-based app, sensors acquire data at intervals and with frequencies
+solely specified by the user [2]. This allows the user to control sampling frequency via
+queries. Defining time intervals at which to acquire data is a straightforward and very
+common approach. However, in a pull-based approach, users can also set sampling to
+occur according to parameters other than time. The Barbie-Q system, for example,
+acquires exactly as much data as is needed to maintain a multi-dimensional Gaussian
+distribution [25].
+
+20
+
+2. BACKGROUND
+
+2.1. MOBILE DATA COLLECTION
+
+Taking a push-based approach is more complex but can result in more accurate
+and/or more relevant data. The sensors themselves decide when to communicate
+data in a push-based approach [2]. This allows for more dynamic evaluation of observations; a pull-based app might miss unusual data patterns if they occur between
+sensing intervals, but a push-based app can be programmed such that unusual patterns are automatically recorded. In an ideal push-based scenario, sensors report
+data at a high frequency only when observations are in an unusual pattern. When
+observations follow a known pattern and can be easily interpolated, sensors report
+at a low frequency, which saves substantial amounts of energy. Achieving this goal is
+commonly done through use of some kind of model. Sensors are aware of the values
+expected by the model, and send data back to the user only when the observed value
+differs from the model-predicted value by some threshold [25].
+
+Figure 2.1.2. An illustration of pull- and push-based approaches. Figure from [25].
+
+Seemingly contradictory problems of sheer volume of potential data and inaccuracy of data taken via sensor readings can be major hindrances. Readings from
+multiple sensors at speeds of up to many times a second can quickly create unwieldy
+datasets. However, particularly with motion and location related sensors such as
+GPS, volume does not necessarily correlate with accuracy. Both of these problems
+can be addressed to a certain extent in the collection phase. In a pull-based ap21
+
+2.1. MOBILE DATA COLLECTION
+
+2. BACKGROUND
+
+proach, the user can set limits on volume themselves, and in a push-based approach
+they can select their model with dataset size in mind. The pull-based approach
+also allows a user to discard data outside of a certain threshold with the goal of
+eliminating probable errors [25].
+Further, and more thorough, data cleaning can be done post-data acquisition. An
+anomaly detector, which utilizes some type of model to detect abnormal values, is
+employed either as data is acquired or on sets of data of a defined size or time interval.
+Regression models, either Polynomial of Chebyshev, are commonly used to highlight
+and eliminate outlying data [25]. The natural continuity of sensor measurements,
+and of measurements of the same event between sensors, make these types of models
+well-suited.
+
+Figure 2.1.3. A regression model highlighting outliers on a sensor dataset
+22
+
+2. BACKGROUND
+
+2.1. MOBILE DATA COLLECTION
+
+Probabilistic models are also commonly used for data cleaning [25]. In this case,
+some type of probability distribution is inferred from a sliding window of previous
+data values. Each new data point is checked against the value predicted by the
+probability distribution and discarded if it is beyond a user-defined threshold (e.g.
+more than three standard deviations away). Kalman filters are often used in the
+
+Figure 2.1.4. Probabilistic model based data cleaning. Figure from [25].
+context of motion-related data cleaning. Other utilized probabilistic models include
+those derived from Markov chains and Bayesian models.
+By nature, phone sensors carry data specific to a phone’s user, entailing privacy
+and security risks. The SemaDroid [27] framework was developed to improve on
+the basic security features present in Android. It highlights several issues. First,
+Android provides access privileges without managing sensor usage, allowing apps
+running in the background to stealthily collect sensor data as long as permissions
+for that sensor have been granted to any other running app. They address this, and
+other potential sensor data collection attacks, by creating a user interface where
+a phone user can view sensor usage of all apps and create detailed sensor usage
+policies. Furthermore, they suggest allowing users to create data adjustment rules,
+23
+
+2.2. DRIVER RECOGNITION
+
+2. BACKGROUND
+
+whereby data is manipulated (rounding, lowered sampling rates, mock data, etc.)
+to make tracking the user more difficult while ideally preserving the needed quality
+for the app in question. Somewhat simpler measures are implemented in the PRISM
+framework [6]: resource metering to prevent applications from leaking out sensitive
+sensor data, and forced amnesia to prevent sensing applications from storing longterm data.
+
+2.2 Driver Recognition
+Driver recognition falls into the two broad categories of identification and verification
+[24]. In a driver identification process, input signals from an unknown driver are
+compared against a database of input signals from known drivers. The closest match
+between a known identity and the input of the unknown driver is determined through
+some comparison measure, as is the closeness of that match. Driver recognition is
+a narrower objective. In order to determine if an unknown driver is who he or she
+claims to be, input signals are generally compared only to the stored input signals
+of the claimed identity. A user-defined threshold for closeness of match determines
+whether the result is a positive or negative verification.
+At what point the acceptance threshold in a verification task is set is largely
+determined by two types of error rate: False Acceptance Rate (FAR) and False Rejection Rate (FRR). FAR is defined as the percentage of time a driver is incorrectly
+accepted by the system (i.e. is able to claim successfully that they are someone they
+are not). Conversely, FRR is the percentage of time a driver is incorrectly rejected
+by the system. The point at which FAR and FRR are exactly equal is the Equal
+Error Rate (EER).
+Whether to calibrate a verification system based on EER or whether to attempt to
+maximize one of the error rates is context dependent and has no exact answer. Most
+24
+
+2. BACKGROUND
+
+2.2. DRIVER RECOGNITION
+
+Figure 2.2.1. A sample plot of FAR and FRR. Figure from [25].
+existing verification systems are proposed for security purposes [20] and so value a
+low FAR even at the expense of a higher FRR; the security breach entailed by a
+false acceptance (e.g. a thief gaining access to a car) is considered a substantially
+more negative outcome than the inconvenience (e.g. a driver being forced to repeat
+a verification task) caused by a false rejection. However, as can be seen in figure
+2.2.1, past a certain point minor decreases in FAR result in exponential increases in
+FRR. Determining the extent to which this type of trade-off is acceptable is often a
+difficult question.
+2.2.1
+
+General Features
+
+A satisfactory measure for driver recognition must display several characteristics.
+The first is uniqueness. Clearly, identification or verification cannot be performed
+with reasonable certainty if the determining characteristic or characteristics are
+25
+
+2.2. DRIVER RECOGNITION
+
+2. BACKGROUND
+
+widely shared. The methods explored in this paper satisfy this requirement either
+through unique biological information (e.g. fingerprints) or by developing a short
+task personalized to each individual (e.g. a gesture). Repeatability, and ease of repetition, is a second requirement. A ten minute series of gestures would contain a
+wealth of measurable, individual-specific information, but would be totally impractical for everyday use. Closely tied to uniqueness, and often at odds with repeatability,
+is a requirement for security. A personalized task might be unique upon conception
+but can be easily stolen if recognition measures rely only on broad information.
+Modern sensor technology allows systems to generate security through measuring
+very fine-grain, difficult to copy variation in how a person performs even a simple
+task (e.g.precisely how they move each part of their hands during an exercise).
+2.2.2
+
+Existing Methods
+
+We define three categories of driver recognition method. The first, biometrics, relies
+on biological information for recognition. The second, active measurement, requires
+a user to perform a task specifically for the purpose of identification or verification.
+Finally, passive measurement uses information from tasks a user would have performed regardless of the need for identification or verification. We provide a brief
+overview of an example from the literature for each of these methods.
+Biometrics
+
+Silva et al. propose integrating sensors into the steering wheel of a car in order
+to measure ECG signals from a driver’s hands [20]. Users first register ECG templates, then subsequently only have to put their hands on the steering wheel for the
+recognition process to be performed. Discriminative content in cardiac cycles is the
+proposed unique key for recognition. Tests on a group of 32 users were promising
+but only in a preliminary sense. Even in the best case, the system was able to de26
+
+2. BACKGROUND
+
+2.2. DRIVER RECOGNITION
+
+termine between two users with a classification error of 1.66% ± 2.28. Identification
+tasks among larger groups would have unacceptably high error rates. Moreover, this
+method requires that a custom apparatus be installed in the car of each user.
+Active Measurement
+
+Kun et. al use a sequence of 2-8 taps on the steering wheel as a key for driver recognition [13]. Experiments measured not only whether recognition was performed successfully, but how successfully a nearby person could visually steal the tap sequence
+and use it to gain a false acceptance. Force sensing resistors were placed on the back
+of a steering wheel and drivers were asked to attempt a chosen tap sequence while
+a nearby person attempted to determine the sequence visually. The most complicated sequences, which consisted of six taps of either high or low pressure among
+the three sensors, were measured as quite secure, with no user successfully stealing
+them. However, the median success rate for these sequences was an unacceptably low
+40%, with users often missing sensors, hitting multiple sensors at once, etc. Again,
+the need for installation of new apparatus provides a significant hurdle to potential
+widespread adoption.
+Passive Measurement
+
+Work done by Yang in [28] focuses on physical and motion activity generally instead
+of driving specific activities, but uses phone sensors in a similar fashion to that proposed by this paper. Accelerometer data is collected from a Nokia N95 phone during
+everyday activities such as sitting, walking, and driving. Data was smoothed, the
+vertical and horizontal components are extracted, and features were selected using
+the correlation based feature selection method of the WEKA toolkit. Several classifiers were tested, of which decision trees were found to have the best results. Output
+is then smoothed using a Hidden Markov Model, resulting in the output shown in
+27
+
+2.3. DRIVING BEHAVIOR ANALYSIS
+
+2. BACKGROUND
+
+figure 2.2.2. Data correlates fairly well with the activities logged by the researcher,
+
+Figure 2.2.2. Smoothed diary of physical activity over a single day. Figure from [28].
+and as can be seen, activities transition in a largely reasonable fashion, though some
+clear errors remain (e.g. simultaneous walking and driving classifications).
+
+2.3 Driving Behavior Analysis
+Many proposed driving-related measurement systems focus on driver behavior. In
+the methods we review, measurement is done either visually (e.g. with the cameras
+on the driver’s phone or through external cameras) or via sensor data. As with
+driver recognition, chosen measures must have features unique enough to differentiate between different drivers, though this is primarily for the purpose of ensuring
+the output data is actionable rather than for security. Standards for evaluation are
+chosen to classify behaviors according to user-selected categories such as ”risky” or
+28
+
+2. BACKGROUND
+
+2.3. DRIVING BEHAVIOR ANALYSIS
+
+”safe.” Many proposed driving behavior analysis systems are also designed to offer
+feedback to a user with the goal of improvement in an analyzed category such as
+fuel efficiency. We separate the works we review into the categories of basic action
+detection, efficiency-based behavior analysis, and safety-based behavior analysis.
+2.3.1
+
+Basic Actions
+
+A mobile phone application built by Singh et al. [21] uses a combination of GPS
+and accelerometer to attempt to detect instances of common driving behaviors while
+also recording nearby sounds using the microphone. Researchers also built a ground
+truth app with which a passenger could record exactly when each of the following
+activities occurred: braking, indicator usage, left turn, right turn, reverse, horn use,
+and lane change. Distinct regions in the acceleration data were observed for each of
+the motion-related activities, as can be seen in figure 2.3.1.
+
+29
+
+2.3. DRIVING BEHAVIOR ANALYSIS
+
+2. BACKGROUND
+
+Figure 2.3.1. Acceleration data with associated driving activities labeled. Figure
+from [21].
+
+Findings were largely observational instead of experimental, but results were compelling. Researchers also proposed matching sound data to detected driving activities
+as a method for detecting risky behavior (e.g. lack of an indicator sound when a
+lane change is detected).
+
+2.3.2
+
+Efficiency
+
+Riener et al. [17] hope to leverage social pressures using shared driving data between drivers to improve fuel efficiency. They hypothesize firstly that drivers who
+30
+
+2. BACKGROUND
+
+2.3. DRIVING BEHAVIOR ANALYSIS
+
+have more experience on a particular route will drive it more efficiently, and secondly that providing drivers new to a route recommendations based on how experienced drivers navigated it, as well as competition incentives in the way of a
+public driver-skill ranking system, would result in improved performance from the
+new drivers. They were unable to show any increased fuel efficiency gained from
+being experienced with a result, and new drivers who were provided with steering
+recommendations performed no better than new drivers who were not. However, it
+is important to note that failure of the first hypothesis rendered confirmation of
+the second almost impossible, and so the study does not provide evidence against
+the possibility that steering recommendations based on sensor information can improve driver performance. Indeed, the authors cite several studies which show that
+they do (Tulusan, J., Staake, T., and Fleisch, E. Providing eco-driving feedback to
+corporate car drivers: What impact does a smartphone application have on their
+fuel efficiency, and Riener, A. Subliminal Persuasion and Its Potential for Driver
+Behavior Adaptation., as cited in [17]).
+Work by Jakobsen [12] focuses on which driving behaviors have the biggest impact
+on fuel efficiency and whether providing drivers advice about these behaviors can
+improve their fuel efficiency. Data from the Controller Area Network Bus and GPS
+was used to measure fuel consumption per second, RPM, etc. The paper found five
+factors which significantly affected fuel consumption: magnitude of acceleration,
+magnitude of speed, steadiness of speed, number of starts and stops, and time spent
+idling. Researchers did not attempt to alter the driving behavior of any test subjects,
+but data analysis leads them to propose that drivers could improve fuel efficiency
+by attempting to regulate magnitude and steadiness of speed and magnitude of
+acceleration, though number of stops and time spent idling may be largely outside
+of the control of the driver.
+31
+
+2.3. DRIVING BEHAVIOR ANALYSIS
+2.3.3
+
+2. BACKGROUND
+
+Safety
+
+Haloi et al. [8] use an external wide angle camera to attempt to analyze driver
+behaviors visually. They analyze consecutive video frames to attempt to extract
+features which correspond to: fast sideways or forward acceleration, driving in the
+wrong direction, frequent lane changes, and driving close to other cars. Proposals
+are largely theoretical and little data is presented, but the behaviors they attempt
+to discover provide a possible starting point for analysis of rash driving.
+CarSafe, an app developed by You et al. [29], attempts to use a phone’s front
+and back cameras to detect dangerous driving conditions inside and outside of a
+car. The front camera monitors where the driver is looking and uses blink detection
+algorithms to determine their drowsiness levels, while the back camera and phone
+sensors are used to monitor the behavior and location of the driver’s car and that
+of the cars around them. Dangerous driving events in five classes are detected:
+Drowsy Driving, Inattentive Driving, Tailgating, Lane Weaving, and Careless Lane
+Changing. Researches tracked periods of normal daily driving as well as staging
+controlled dangerous driving maneuvers. The app detected dangerous driving events
+with the accuracy shown in figure 2.3.2. Risky behaviors related to the motion of
+
+Figure 2.3.2. True Positives (TPs), False Positives (FPs), Ground Truth (GT), Precision (PR) and Recall (RC) for various kinds of dangerous driving events. Figure
+from [29].
+32
+
+2. BACKGROUND
+
+2.4. DRIVING PROFILES
+
+the driver’s car were all detected with moderately high accuracy. Generally, results
+in the area of detecting dangerous driving through phone sensors were promising.
+Rather than attempting visual analysis, Martelaro et al. [14] try to measure a
+driver’s awareness through app-based tests. Proposed systems were not tested, but
+the paper’s idea of using an in-car app to measure situational awareness by asking the
+driver about events outside of the car is a relatively unique one. Context-dependent
+queries provide a compellingly simple and resource light avenue for making phonebased driving observation systems more robust.
+Chowdhury et al. [5] hypothesize that driving aggressiveness is reflected primarily
+in the acceleration and deceleration patterns of drivers. They use the kurtosis of
+acceleration data to attempt to detect extreme deviation from normal driving behavior, especially high magnitude of acceleration. Researcher’s collected two months
+worth of acceleration data for 12-13 drivers, then calculated the mean plus two standard deviations of kurtosis for each driver. Using the minimum of these values as a
+threshold, drivers were ranked based on how many trips in their dataset exceeded
+that threshold of kurtosis (fewer trips exceeding resulted in a higher ranking). These
+rankings were not tested against other measures of driving aggression or risk, but
+researcher’s found that kurtosis was relatively consistent across a single driver’s
+trips and relatively different between drivers, providing evidence that it is a useful
+measure of driver behavior.
+
+2.4 Driving Profiles
+We classify driving profiles as works which attempt to describe individual drivers
+in a holistic sense. They do not focus only on a single type of behavior, such as
+aggressive maneuvering, or on a single goal, such as identification or verification.
+Instead, profiles are defined by a few or more different, if likely related, aspects
+33
+
+2.4. DRIVING PROFILES
+
+2. BACKGROUND
+
+of a subject’s driving. There is of course a certain amount of overlap; an ideal
+driving profile can be used to both identify drivers and to detect abnormal behaviors
+that may entail increased risk. In general, however, driving profiles provide a more
+comprehensive portrait of a driver than the work previously discussed.
+Work on driving profiles can be extremely technologically basic, as is the case with
+the questionnaire developed by Shahab et al. [19]. Building off previous theories such
+as Risk Homeostasis (drivers who accept more risk will drive faster than drivers who
+accept less) (Wilde, G.J.S. The theory of risk homeostasis: implications for safety
+and health. as cited in [19]) and Task Difficulty (drivers who believe they are more
+skilled will drive faster than those who believe they are less skilled) (Fuller, R.,
+McHugh, C., and Pender, S. Task difficulty and risk in the determination of driver
+behaviour. as cited in [19]), researchers hypothesized seven areas as of key importance
+in driving motivation and behavior: Safety, Time, Comfort/Ease, Fun, Money, Being
+a good driver, and Sustainability (nature issues). A questionnaire consisting of 52
+questions from among the seven subjects was presented to each of 250 subjects. An
+exploratory factor analysis of the responses identified six underlying factors: Fun,
+Fines, Sustainability, Time, Relaxation, and Safety. The driving profile developed
+by researchers attempted to determine which of these was the key factor in the
+decisions made by each driver, and results suggested that safety and avoidance of
+fines are far more likely than other factors to be the primary reason a driver picks
+his or her speed.
+Zhang et al. [30] attempted to profile drivers based on driving behaviors as determined by both phone sensors and the diagnostic outlet of the test car. A ”controlled” group of drivers consisted of 14 drivers who each drove three different cars
+on a pre-defined route, and a ”naturalistic” group which consisted of three couples
+who shared a car and performed their everyday driving activities over a four day
+34
+
+2. BACKGROUND
+
+2.4. DRIVING PROFILES
+
+period. A Hanning window was used to smooth the sensor data and features were
+then extracted from each 30 second window of time-series data. Researchers built a
+classifier to classify instances from each of these windows. The profile of each driver
+was a Support Vector Machine model with a polynomial kernel. As can be seen from
+
+Figure 2.4.1. Percent of drivers from the ”controlled” group who were correctly
+matched with their driving profile, as number of possible drivers increases. Figure
+from [30].
+
+figure 2.4.1, the driving profile built with data from all sensors was used to identify
+drivers with 100% accuracy among up to six drivers, though results for very large
+groups of drivers would likely have been poor.
+Wahab et al. [24] use data from the Center for Integrated Acoustic Information
+Research to attempt to build driving profiles from information on the pressure applied to the accelerator and brake pedals. Roughly 600 hours of data from about
+800 different drivers was used, with each subject driving a specialized data collection vehicle. Work was focused on stop and go regions (pictured in figure 2.4.2),
+and especially on the regions where drivers were accelerating from a full stop and
+decelerating to a full stop.
+35
+
+2.4. DRIVING PROFILES
+
+2. BACKGROUND
+
+Figure 2.4.2. An example stop and go region, defined as the period when a vehicle
+moves off from a stationary position until the moment it comes to a complete halt.
+Figure from [24].
+Data was filtered and then features were extracted using both a Gaussian Mixture
+Model of size 3 and a Daubechies Wavelet based extraction technique. The features
+were then used to train two fuzzy neural networks (EFuNN and ANFIS), and these
+systems were compared against an artificial network (MLP) and a statistical GMM
+technique (GMSS) in tasks of driver verification. Training time for MLP was quite
+high (up to a day) whereas both fuzzy neural networks could be trained very quickly.
+Testing time for all implementations was quite low. Models using GMM-extracted
+features vastly outperformed those using Wavelet-extracted features in all cases, with
+GMMS, EFuNN, and ANFIS achieving average verification error rates of between
+3.4% and 5.1% when using GMM-extracted features.
+
+36
+
+3
+Results
+
+We run a demonstrative experiment with the goal of illustrating some of the techniques, applications, and issues discussed above. A single driver was tasked with
+driving the same route 5 times, and accelerometer data was collected from each
+drive-through. Because the route driven was the same each time, we focus largely
+on analyzing turning behavior; we hypothesize that the same driver will exhibit similar behavior in navigating the same turns on different drive-throughs. Rather than
+attempting to identify and analyze every small turn along the route, we focus on the
+ten turning periods with the greatest magnitude of average x (left-to-right) acceleration. This ensures a certain amount of distinctiveness in the timeframes analyzed
+and minimizes the effect low-level noise will have on our results. We calculate the
+average magnitude of x acceleration change, standard deviation of x acceleration,
+standard deviation of x acceleration change, and total change in x acceleration for
+each of these turning periods. Based on the hypothesis that y (forward-to-backward)
+acceleration will change in a consistent manner during a turn, we also calculate the
+average magnitude of y acceleration change for each turning period. We further find
+
+3. RESULTS
+separate turning periods based on the ten turning periods with the greatest magnitude of average y acceleration, and calculate the average magnitude of y acceleration
+change for these.
+We do not attempt to prove that any of these measures are unique to individuals.
+Without a more rigorous experiment involving multiple drivers, we cannot classify
+our data on this question as anything more than promising. Instead, we look at
+the variation in the statistics for a single driver to help determine which are viable
+potential components of a driving profile and which are not. Measures which show
+consistency across drive-throughs for one driver can be used for useful comparisons if
+further research shows that they are also consistently different from driver to driver.
+Measures which are widely varied across drive-throughs, on the other hand, can
+likely be discarded immediately, as showing a difference in that measure between
+drivers would be meaningless when it also differs across drive-throughs for the same
+driver.
+
+3.0.1
+
+Methodology
+
+The route chosen was 7.7 miles in length and took roughly 9 minutes to complete
+on average. It began and ended at the same location, and contained a large number
+of turns (more than 40) of varying magnitude. The same driver drove each time in
+a 2002 Honda Accord, and data was collected on an LG G3 running Android 5.0.1.
+Data collection was stopped and started at the same physical location in each drive
+through. Driving was done late at night so as to minimize the impact of traffic on the
+data. All data analysis and figure generation was done using Wolfram Mathematica.
+Data was collected using the AndroSensor app from the Google Play Store, with
+which we were able to set the sampling frequency manually. Sampling frequency in
+accelerometer data collection varies widely across applications and experiments. In
+38
+
+3. RESULTS
+the most extreme case, Wahab et al. [24] collect data at 1000 Hz initially, though
+they down-sample to 100 Hz at the beginning of their data preprocessing. Other
+researches sample at rates of 1, 2, 36, and 90 Hz [5] [12] [28] [30]. We tested sampling
+rates in the range of 1 to 100 Hz, finding that increases in sampling frequency past
+low-single-digit Hz values provided very minimal gains in information content and
+readability. We chose 10 Hz as our sampling frequency to ensure robust data while
+keeping data analysis times relatively low.
+For studies in which phones were worn on or around a user’s body, or were carried
+in a car in no specified position, reorienting and aligning accelerometer data from
+different datasets needed to be accomplished [26] [28]. For ease of use, we simply
+placed the phone in the same stable position for each drive, eliminating this need.
+The phone was laid flat, and thus the x acceleration readings corresponded to the
+left and right motion of the car and the y acceleration readings corresponded to the
+forward and backward motion of the car.
+Slight errors are present in a phone’s accelerometer readings, as well as a certain
+amount of noise from low level environmental vibration. Figure 3.0.1 shows x and
+y accelerometer readings from a phone lying flat on a table for several minutes.
+Both should be hovering steadily around 0, but both are slightly offset and a certain
+amount of jittering is present. Yang [28] proposes scaling down readings by a factor
+of five to account for this variation, but we feel that the errors are small enough
+(offsets of less than .12 m/s2 and standard deviations of less than .012 m/s2 across
+multiple tests), and the filters discussed below effective enough on their own, that a
+scaling down is not worth the inherent loss of information. In work by Agrawal et al.
+[1] all readings less than .5 m/s2 are labeled as noise, but this measure is taken for
+use in hand gesture recognition. We consider noise of this magnitude highly unlikely
+to meaningfully affect driving data. The average change in x acceleration in figure
+39
+
+3. RESULTS
+Acceleration (m/s^2)
+
+0.10
+
+0.05
+
+500
+
+1000
+
+1500
+
+2000
+
+2500
+
+Time (.1 sec)
+
+-0.05
+
+Figure 3.0.1. X and Y acceleration readings from a phone lying flat on a table for
+several minutes. A mean filter with window size 7 has been applied.
+3.0.1, for example, is 0.000606271 m/s2 , which is less than 1% of the smallest average
+change in x acceleration we measure in any of our drive-throughs.
+The type of filter chosen for smoothing varies in the literature. Low-pass filters are
+unsuited for this type of data, as they can over-smooth the sharp transitions inherent
+in turns, braking, etc. Mean and Median filters have both been used successfully [22]
+[24]. We prioritize maintaining as much of the detail in sharp maneuvers as possible,
+and so we use a mean filter. Ideal window size has been found to be between 2 and
+7 [1] [28] [22], with our own testing confirming 7 as a useful smoothing window size
+(see Figure 3.0.2).
+Our first goal was to isolate the ten turning periods with the highest magnitude
+of average acceleration. Initially, we focused on relatively small windows (around
+2 seconds) for our turn detection, based on the feeling that completing a turn is a
+relatively quick process. However, we found that windows as small as these generally
+40
+
+3. RESULTS
+
+Figure 3.0.2. Raw data (left) and the same data smoothed using a mean filter with
+window size 7 (right).
+
+captured only one part of the turn, either the acceleration into it or the deceleration
+out of it, and so we settled on a length of 4 seconds for our turn periods (see Figure
+3.0.3).
+In order to detect these periods we first calculated the absolute difference between
+each successive acceleration value, then used a moving average of size 40 to find which
+portions of the data had the highest average magnitude of acceleration change.
+To prevent different parts of the same turn being registered multiple times, we
+disallowed any turning period to be selected which was within 5 seconds of an
+already chosen turning period. Standard deviation was then calculated for each set
+of 40 acceleration values and each set of 40 acceleration change values.
+The local maximum or minimum value was found for each turning period. If
+the value was a local maximum, the total acceleration change over the turn was
+41
+
+3. RESULTS
+
+Figure 3.0.3. Detected turns for a drive-through using a window size of 2 seconds
+(left) and a window size of 4 seconds (right).
+
+calculated by adding the difference between the local maximum and the minimum
+values at the start and end of the turn. If the value was a local minimum, the
+opposite process was used.
+For each turn period, the accompanying region of y acceleration data was analyzed
+for the average magnitude of y acceleration change. It is important to note that these
+are not the 10 periods with the highest average magnitude of y acceleration change.
+Rather, they are the y acceleration data from exactly the same time periods as the
+previously selected x acceleration data. Data was also analyzed for the 10 periods
+with the highest average magnitude of y acceleration change.
+We used two measures to describe the initial y acceleration of the driver from a
+full stop: length of constant acceleration and magnitude of acceleration change. We
+used a moving average of length 5 to detect when change in acceleration became
+42
+
+3. RESULTS
+consistently negative, and labeled this point as the cutoff of the initial acceleration.
+We then calculated the mean of the change in acceleration over this period.
+3.0.2
+
+Data
+
+Collected data for several of our measures, especially the magnitude of acceleration
+change and the total acceleration change, was suggestive. Without more rigorous
+experimentation on multiple drivers significance cannot be determined, but the close
+clustering of several measures is promising. Moreover, lack of consistent trends or
+correlations in some of the examined areas could allow future research to focus
+on measures with more potential. We refer to the turning period with the highest
+average magnitude of acceleration change as Turn 1, the turning period with the
+seventh-highest average magnitude of acceleration change as Turn 7, and so on.
+
+Figure 3.0.4. The average change in x acceleration (in m/s2 ) every tenth of a second
+for each of the ten selected turn regions for each drive-through.
+
+Figure 3.0.5. Graph of Figure 3.0.4.
+43
+
+3. RESULTS
+Magnitude of x acceleration change was very consistent across all turns. All five
+of most extreme turning periods in particular were within less than
+
+1
+70
+
+meters per
+
+second squared average magnitude of each other, with the lowest magnitude Turn
+1 less than 10% below the highest magnitude Turn 1 in magnitude. Behavior from
+turn to turn also declined in a fairly consistent manner, with no turn displaying a
+range of values larger than 0.024 m/s2 , and the steepest Turn 10 among the drivethroughs varying by less than
+
+1
+100
+
+m/s2 from the others. The third drive-through
+
+displayed the least typical behavior, with both the highest magnitude Turn 1 and
+the lowest magnitude Turn 10. Even in this drive-through, however, no turn was
+more than 0.02 m/s2 apart in magnitude from the turns in other drive-throughs.
+
+Figure 3.0.6. The average standard deviation of the change in x acceleration (in
+m/s2 ) for each of the ten selected turn regions for each drive-through.
+
+Figure 3.0.7. Graph of figure 3.0.6.
+Standard deviation of the change in x acceleration provided less promising results.
+The variation in Turn 1 was more than 0.026 m/s2 apart, and given the inherently
+smaller values of standard deviation this means that the lowest standard deviation
+44
+
+3. RESULTS
+Turn 1 was more than 31% smaller than the highest standard deviation Turn 1. The
+decline from turn to turn, too, was less consistent, with occasional steep drop offs
+such as displayed in drive-through 5 (fourth-highest standard deviation less than
+82% of the third-highest standard deviation).
+
+Figure 3.0.8. The average standard deviation of the x acceleration (in m/s2 ) for each
+of the ten selected turn regions for each drive-through.
+
+Figure 3.0.9. Graph of figure 3.0.8.
+The standard deviation of x acceleration was even more inconsistent. Turn 1’s
+smallest value was not quite 67% of its largest, a disparity mirrored in Turn 10’s
+smallest value equaling not quite 67% of it’s largest value. Steep drop offs were
+also common, such as in drive-through 2 (Turn 3 less than 70% of Turn 2) and
+drive-through 1 (Turn 2 less than 73% of Turn 1).
+
+45
+
+3. RESULTS
+
+Figure 3.0.10. The total change in x acceleration (in m/s2 ) for each of the ten selected
+turn regions for each drive-through.
+
+Figure 3.0.11. Graph of figure 3.0.10.
+Total change in x acceleration was more in line with our results on magnitude of
+acceleration change. Variation in Turn 1 was again relatively small at 0.535 m/s2 ,
+with the least steep Turn 1 still showing more than 90% of the total change in
+the most steep Turn 1. The decline in values from turn to turn was also fairly
+consistent, with values staying close together all the way through Turn 10 (0.28295
+m/s2 variation).
+
+Figure 3.0.12. The average change in y acceleration (in m/s2 ) every tenth of a second
+for each of the ten selected turn regions for each drive-through.
+46
+
+3. RESULTS
+
+Figure 3.0.13. Graph of figure 3.0.12.
+As can be seen in figure 3.0.16, the change in y acceleration for each turn showed
+absolutely massive variation. Turn 1 showed the largest spread, with the smallest
+value nearly .15 m/s2 less than the largest, or barely 22% of the largest value, and
+every other turning period also showed moderate to extreme variation. Apart from
+Turns 1 and 2 displaying the largest average values (though even this was not true
+for drive-throughs 4 and 5), no trend is discernible from turn to turn. Magnitude
+of change in y acceleration peaked and bottomed-out at different turns for each
+drive-through.
+
+Figure 3.0.14. The average change in y acceleration (in m/s2 ) every tenth of a second
+for each of the ten selected turn regions for each drive-through.
+
+47
+
+3. RESULTS
+
+Figure 3.0.15. Graph of Figure 3.0.14.
+Selecting new turns based on average magnitude of y acceleration produced much
+higher variation in y acceleration than our original turn-selection process produced
+in x acceleration. Turn 1 values varied by .124287 m/s2 , or more than 54% of the
+largest value. Very large drop-offs (more than 33% from one turn to the next) were
+present in every drive-thorough but 3 and 5. Variation decreased somewhat in later
+turns, but even in Turn 10, the smallest value was less than 79% of the largest.
+
+Figure 3.0.16. The y acceleration (in m/s2 ) every tenth of a second for each of the
+initial acceleration regions for each drive-through.
+
+48
+
+3. RESULTS
+
+Figure 3.0.17. Graph of figure 3.0.16.
+The initial acceleration regions for each drive-through showed consistency in neither length or magnitude. The longest acceleration region (drive-through 2) was
+more than double the shortest (drive-through 1), and with lengths present throughout the range of 1.4 to 3.0 seconds, it seems unlikely that either the shortest or
+longest value was simply an outlier. Magnitude, too, varied widely, from 0.0481665
+m/s2 average acceleration change for the least-steep region (drive-through 2) to
+0.102523 for the most-steep (drive-through 1). The only trends seemingly present
+are within drive-throughs rather than between drive-throughs: lower starting acceleration change values result in longer total acceleration and/or steeper increases in
+acceleration.
+
+49
+
+3. RESULTS
+
+50
+
+4
+Discussion
+
+Of the measures we examined, only two produced results consistent enough to seem
+viable for use in a driving profile: average change in x acceleration and total change
+in x acceleration. Both showed results clustered closely enough through all five
+drive-throughs that we believe they provide meaningful information on the driver.
+For example, a driver navigating the route used in our experiment who records a
+Turn 1 average change in x acceleration of 0.18333 and a Turn 7 average change
+in x acceleration of 0.17600 is highly unlikely to be the same driver as the one in
+this paper. That these measures in particular showed consistency suggests to us
+that drivers will use a similar amount of x acceleration and deceleration to navigate
+through the turns on the same route at different times.
+Not all measures related to x acceleration were potentially successful however.
+Both standard deviation related measures of x acceleration showed much more substantial variance than did the measures discussed above. Even if drivers navigate
+a turn in roughly the same way on the scale of the whole turn, or large fractions
+of the turn, this seems to indicate that they do not necessarily show consistent x
+
+4. DISCUSSION
+acceleration from split-second to split-second on different drive-throughs. One potential explanation is that a driver’s instincts may lead him to aim for a particular
+level of acceleration throughout a turn, but his or her control is not fine enough to
+achieve it in an exactly consistent manner on a fine-detail level. Another is that the
+steering mechanisms of a car simply do not provide the level of control needed to
+achieve consistency from split-second to split-second.
+All y acceleration related measures performed even more poorly. Measuring average change in y acceleration for both turns selected forx acceleration values and
+for turns selected for y acceleration values resulted in widely varied readings, and
+initial acceleration regions differed significantly in both length and magnitude. We
+hypothesize that regions of interest related to y acceleration (e.g. accelerating and
+braking) are generally too dependent on traffic and road conditions, other drivers,
+the timing of stoplights, and other such factors outside of the driver’s control to be
+used as a consistent measure across many drive-throughs. Further, even when these
+factors are removed, such as in our initial acceleration regions (the driver did not
+start his drive-through unless no other cars were nearby to affect his start), results
+were not consistent. This provides evidence against the idea that drivers accelerate from a full stop in a consistent manner, at least at the level of detail of our
+measurements.
+For driving profile applications which study data at a magnitude similar to the
+data collected for this paper, we believe that a pull-based data collection approach is
+sufficient. Drive-through data showed substantial variation in acceleration in almost
+every second-long period, which means even an ideally implemented push-based
+approach would likely not be able to interpolate a significant number of sensor
+readings. Further, measures we considered failures showed inconsistency at every
+level and measures we considered successes were consistently robust and showed very
+52
+
+4. DISCUSSION
+steady trends, meaning that a push-based increase in data collection rate would be
+unlikely to meaningfully effect results. This reasoning does not necessarily hold for
+trips of great length, where substantial portions of navigation would likely be on
+highways with very consistent direction and speed. However, we believe that for the
+majority of users, trips of these sort would be the exception and not the norm [18].
+Experimentation with more advanced filters is a possibility, but given moderately
+short trip length and our relatively modest data collection rate, we do not believe it
+is a priority. Trends in our data were clear and consistent within and across multiple
+drive-throughs, suggesting that they were not adversely affected by remaining noise.
+We also did not see evidence of the obvious outliers or inaccurate readings which call
+for probabilistic data cleaning models such as those discussed in Chapter 2. Again,
+however, this would not necessarily hold true for trips of much greater length.
+Our results lead us to believe that using measures of x acceleration through turns
+for the purposes of driver recognition is very viable. Even results and analysis as
+basic as those represented here could be useful for the purposes of rejecting obviously
+different drivers, as discussed above. Further specification could be gained with
+more complex analysis, such as analyzing the trends in x acceleration from turn to
+turn, creating a linear mixed model, or using machine learning techniques such as
+neural networks. Data could potentially be made more robust and informative by
+incorporating other sensors (e.g. gyroscope, rotation vector sensor) or by gathering
+significantly more fine-grained data, though the latter raises new issues, as we discuss
+shortly.
+The lack of consistency in our y acceleration related measures does not lead us to
+believe that there is no individually unique information to be found in y acceleration
+data. One possible way to control for the effect of other drivers on y acceleration
+data is to analyze smaller portions of much more detailed data. Gathering more
+53
+
+4. DISCUSSION
+fine-grain data potentially significantly exacerbates the obstacles that noise presents,
+which would likely require more advanced cleaning techniques such as probabilistic
+model based cleaning to overcome. Further, we find compelling the idea that steering
+mechanisms are simply not sensitive enough to register extremely fine directions from
+the driver. If this is the case, collecting high volumes of very specific acceleration
+data might not yield substantially more information than the data presented here.
+To bypass this problem, it might be better to examine y acceleration data from a
+different perspective, such as finding the exact point in time before a turn at which
+y deceleration beings instead of analyzing the y deceleration itself.
+For full practicality, driver recognition must be possible on any route and not only
+on previously driven routes. A driving profile relying on turn data might therefore
+classify turns according to one or more factors, such as magnitude of turn, length
+of turn, or speed through turn. Rather than classifying turning data by a route and
+comparing navigation of that route to stored data, the profile could then compare
+turns to similarly classified turns in its driver database. Similar classification techniques could be utilized for any other measures (e.g. certain acceleration or braking
+periods) which were found to be useful.
+Analyzing driving behavior, on the other hand, can be done usefully even when
+comparisons are made only between the same routes. Many of the behaviors discussed in Chapter 2 which hurt or help fuel-efficiency (e.g. high magnitude acceleration, frequent braking and accelerating) can be measured fairly simply through
+y acceleration readings and relayed to drivers. If a driver drives a certain route
+frequently, their efficiency metrics can also be tracked over time, providing information which can be used to determine what circumstances are particularly good or
+bad or how much attempted behavior changes are helping efficiency. This scenario
+
+54
+
+4. DISCUSSION
+(e.g. taking the same route to work or to buy groceries) would likely be a frequent
+occurrence for the vast majority of users.
+Safety-focused metrics could be geared towards both route-specific and routeindependent scenarios. If unusual numbers or magnitudes of high acceleration or deceleration events on a well-traveled route were detected the driver could be notified
+of the outlier, information which could point to dangerous states such as drowsiness
+or distraction. Similarly, if data on a driver included enough information on a large
+enough variety of driving circumstances, any periods of time with unusual and potentially risky acceleration readings could be reported. Classification measures such
+as those proposed above for turns could also be used for safety related metrics. For
+example, a turn or stop which displayed sharper braking than other similarly classified turns or stops, or a lane change with higher magnitude x acceleration than
+usual, could be tagged as a potentially risky event.
+
+55
+
+4. DISCUSSION
+
+56
+
+5
+Conclusion
+
+Both potential designs for and potential applications of a driving profile application
+are extremely numerous and varied. This paper provides only a general overview of
+the idea and use of a driving profile, along with a survey of some of the issues which
+may be encountered, both in designing a driving profile generally and in designing
+one which leverages mobile phone sensor data specifically. The experiment described
+in Chapter 3 is potentially useful as a building block for later research, but was
+largely undertaken for the purpose of illustrating with practical data some of the
+questions discussed in this paper.
+Questions related to the design of a driving profile begin with the collection of
+data. We use a pull-based approach to collect a moderate volume of accelerometer
+data (10 readings per second), which research and our own testing leads us to believe
+is sufficient information for many potential applications of a driving profile. However,
+measures which depend on extremely fine-grain data (e.g. data collected at over
+100 Hz) could benefit from a well-implemented push-based approach, which, by
+interpolating data in regions which follow a known pattern, could significantly lessen
+
+5. CONCLUSION
+the issues of power drain and data storage overflow inherent in taking extreme
+numbers of sensor readings.
+Noise is naturally present in data collected on our accelerometer, likely as a result
+of a combination of vibration in the environment, slight inaccuracies in readings,
+and other factors. In order to clean and smooth our data while preserving the sharp
+contours inherent in turns and acceleration or deceleration events we use a mean
+filter with a window size of 7. Further cleaning can be done with regression and
+probabilistic based models, which may be a necessary step if the driving profile
+depends on very specific and detailed measurements.
+Measurements of the average and total change in x acceleration throughout turning periods showed the most consistency across five drive-throughs of a chosen route.
+We believe this provides reason for further research into whether drivers accelerate
+and decelerate through turns in a consistent and individually-unique manner, at
+least on the scale of the turn as a whole or in large parts. That standard deviation
+related measures of x acceleration did not show similar consistency suggests to us
+that either drivers themselves or the steering mechanisms of cars do not provide control at a minute enough level for acceleration to show consistency from split-second
+to split-second.
+Relatively large amounts of variance were present in all of our measurements of y
+acceleration based features, which is discouraging evidence for the hypothesis that
+acceleration and braking regions can be used in a driving profile. We believe that this
+is due to factors outside the control of the driver, such as road conditions, stoplight
+timings, and especially the behavior of cars in front of and behind the driver’s.
+Potential solutions for this problem include analyzing smaller y acceleration regions
+in much finer detail and looking at y acceleration data points more as they relate
+to other types of data than as they relate to other y acceleration data points.
+58
+
+5. CONCLUSION
+The two measurements of x acceleration which showed relatively low variance
+can be useful for driver verification even in the very basic state in which they are
+presented here. Their usefulness for driver recognition could likely be significantly
+improved, and new successful measures found, by utilizing data and trend analysis
+techniques related to linear mixed models, machine learning, and others. If individual uniqueness can be proven for these measures or any similar ones, they will meet
+all three of the driver recognition requirements we describe in Chapter 2: uniqueness,
+repeatability, and security. For the vast majority of people, driving is constantly repeated for reasons entirely unrelated to driving profiles and is thus easily repeatable,
+and we consider it difficult to impossible for one driver to mimic the exact acceleration behavior another driver displays from tenth of a second to tenth of a second,
+providing security.
+Beyond uses related to driver recognition, a driving profile could utilize proposed
+measures to improve the efficiency or safety of driving behavior. Fuel-efficiency could
+be examined through various measures related to y acceleration, and information
+could be provided to drivers related to their habits in this regard, both immediately and as they change over time. Risky behavior could also be detected through
+analyzing x and y acceleration in events like turns, lane changes, and stops.
+We believe that a multipurpose driving profile can be built using only data collected from users’ smartphones. By analyzing acceleration data, and potentially data
+from several other common sensors, information about a driver’s unique habits in
+navigating turns and other common driving events can be gathered. This information has the potential to be used in an array of applications ranging from driver
+verification to fuel-efficiency related feedback to detection of dangerous driving behavior.
+
+59
+
+5. CONCLUSION
+5.0.3
+
+Future Work
+
+Research and concepts related to driving profiles are still largely in their infancy,
+and many possible applications remain largely unexplored. Using frameworks such
+as those discussed in Chapter 2, one could potentially examine driving behavior
+for a particular group of drivers or for drivers in a particular region. Many studies
+attempt to analyze driving behaviors, but relatively little work has been done on
+how best to use this information to educate and improve drivers. Similarly, how a
+successful sensor-based driver recognition system would be implemented on a large
+scale is a largely unanswered question.
+One area we believe is of particular importance is the extension of driver recognition designs to detect not only the identity of the driver but whether they are
+in some way impaired. Clearly, the driving behavior of an intoxicated or otherwise
+impaired (e.g. extremely fatigued) driver changes in a very substantial way from
+their natural behavior. Quantifying these changes, and thus gaining the ability to
+detect and potentially prevent drunk driving and related dangerous behaviors, could
+involve many of the same data and data analysis techniques already being explored
+in relation to driver recognition. This area of study of course involves myriad practical, legal, and ethical issues, but with tens of thousands of lives lost to impaired
+driving each year, we believe it is more than worthy of as much future research as
+possible.
+
+60
+
+Bibliography
+
+[1] Sandip Agrawal, Ionut Constandache, Shravan Gaonkar, Roy Choudhury
+Romit, Kevin Caves, and Frank DeRuyter, Using Mobile Phones to Write in
+Air, Proceedings of the 9th International Conference on Mobile Systems, Applications, and Services, 2011, pp. 15–28, DOI 10.1145/1999995.1999998.
+[2] Paul Y. Cao, Gang Li, Guoxing Chen, and Biao Chen, Mobile Data Collection
+Frameworks: A Survey, Proceedings of the 2015 Workshop on Mobile Big Data,
+2015, pp. 25–30, DOI 10.1145/2757384.2757396.
+[3] Giuseppe Cardone, Andrea Cirri, Antonio Corradi, Luca Foschini, and Dario
+Maio, MSF: An Efficient Mobile Phone Sensing Framework, International Journal of Distributed Sensor Networks 538937 (2013), DOI 10.1155/2013/538937.
+[4] Rohit Chaudhri, Waylon Brunette, Mayank Goel, Rita Sodt, Jaylen VanOrden, Michael Falcone, and Gaetano Borriello, Open Data Kit Sensors: Mobile Data Collection with Wired and Wireless Sensors, Proceedings of the 2Nd
+ACM Symposium on Computing for Development, 2012, pp. 9:1–9:10, DOI
+10.1145/2160601.2160614.
+[5] Arijit Chowdhury, Tanushree Banerjee, Tapas Chakravarty, and P. Balamuralidhar, Smartphone Based Estimation of Relative Risk Propensity for Inducing Good Driving Behavior, Adjunct Proceedings of the 2015 ACM International Joint Conference on Pervasive and Ubiquitous Computing and Proceedings of the 2015 ACM International Symposium on Wearable Computers, 2015,
+pp. 743–751, DOI 10.1145/2800835.2804392.
+[6] Tathagata Das, Prashanth Mohan, Venkata N. Padmanabhan, Ramachandran Ramjee, and Asankhaya Sharma, PRISM: Platform for Remote Sensing Using Smartphones, Proceedings of the 8th International Conference
+
+Bibliography
+
+Bibliography
+
+on Mobile Systems, Applications, and Services, 2010, pp. 63–76, DOI
+10.1145/1814433.1814442.
+[7] Google, Sensors Overview (2016). http://developer.android.com/guide/
+topics/sensors/sensors_overview.html.
+[8] Mrinal Haloi and Dinesh Babu Jayagopi, Characterizing Driving Behavior Using
+Automatic Visual Analysis, Proceedings of the 6th IBM Collaborative Academia
+Research Exchange Conference (I-CARE) on I-CARE 2014, 2014, pp. 9:1–9:4,
+DOI 10.1145/2662117.2662126.
+[9] Jerry Hirsch, 253 million cars and trucks on U.S. roads; average age
+is 11.4 yearsTraffic fatalities fall in 2014, but early estimates show
+2015 trending higher (2014). http://www.latimes.com/business/autos/
+la-fi-hy-ihs-automotive-average-age-car-20140609-story.html.
+[10] Eleonora Ibragimova, Nick Mueller, Arnold Vermeeren, and Peter Vink, The
+Smart Steering Wheel Cover: Motivating Safe and Efficient Driving, Proceedings of the 33rd Annual ACM Conference Extended Abstracts on Human Factors in Computing Systems, 2015, pp. 169–169, DOI 10.1145/2702613.2732487.
+[11] Insurance Information Institute, Auto Theft, 2016. http://www.iii.org/
+issue-update/auto-theft.
+[12] Karsten Jakobsen, Sabrine C. H. Mouritsen, and Kristian Torp, Evaluating
+Eco-driving Advice Using GPS/CANBus Data, Proceedings of the 21st ACM
+SIGSPATIAL International Conference on Advances in Geographic Information
+Systems, 2013, pp. 44–53, DOI 10.1145/2525314.2525358.
+[13] Andrew L. Kun, Travis Royer, and Adam Leone, Using Tap Sequences to Authenticate Drivers, Proceedings of the 5th International Conference on Automotive User Interfaces and Interactive Vehicular Applications, 2013, pp. 228–231,
+DOI 10.1145/2516540.2516567.
+[14] Nikolas Martelaro, David Sirkin, and Wendy Ju, DAZE: A Real-time Situation
+Awareness Measurement Tool for Driving, Adjunct Proceedings of the 7th International Conference on Automotive User Interfaces and Interactive Vehicular
+Applications, 2015, pp. 158–163, DOI 10.1145/2809730.2809753.
+[15] Sujitha Martin, Ashish Tawari, and Mohan M. Trivedi, Balancing Privacy
+and Safety: Protecting Driver Identity in Naturalistic Driving Video Data,
+Proceedings of the 6th International Conference on Automotive User Interfaces and Interactive Vehicular Applications, 2014, pp. 17:1–17:7, DOI
+10.1145/2667317.2667325.
+[16] National Highway Traffic Safety Administration, Traffic fatalities fall in 2014, but early estimates show 2015 trending higher
+(2015).
+http://www.nhtsa.gov/About+NHTSA/Press+Releases/2015/
+2014-traffic-deaths-drop-but-2015-trending-higher.
+62
+
+Bibliography
+
+Bibliography
+
+[17] Andreas Riener and Johann Reder, Collective Data Sharing to Improve on Driving Efficiency and Safety, Adjunct Proceedings of the 6th International Conference on Automotive User Interfaces and Interactive Vehicular Applications,
+2014, pp. 1–6, DOI 10.1145/2667239.2667266.
+[18] A. Santos, N. McGuckin, H.Y. Nakamoto, D. Gray, and S. Liss, 2009 National
+Household Travel Survey, U.S. Department of Transportation, 2011.
+[19] Qonita Shahab, Jacques Terken, and Berry Eggen, Development of a Questionnaire for Identifying Driver’s Personal Values in Driving, Proceedings of the
+5th International Conference on Automotive User Interfaces and Interactive
+Vehicular Applications, 2013, pp. 202–208, DOI 10.1145/2516540.2516548.
+[20] Hugo Silva, Andre Lourenco, and Ana Fred, In-vehicle Driver Recognition Based
+on Hand ECG Signals, Proceedings of the 2012 ACM International Conference
+on Intelligent User Interfaces, 2012, pp. 25–28, DOI 10.1145/2166966.2166971.
+[21] Pushpendra Singh, Nikita Juneja, and Shruti Kapoor, Using Mobile
+Phone Sensors to Detect Driving Behavior, Proceedings of the 3rd ACM
+Symposium on Computing for Development, 2013, pp. 53:1–53:2, DOI
+10.1145/2442882.2442941.
+[22] Ziwen Sun, Yao Wang, Gang Qu, and Zhiping Zhou, A 3-D Hand Gesture Signature Based Biometric Authentication System for Smartphones, Proceedings
+of the 8th International Conference on Bioinspired Information and Communications Technologies, 2014, pp. 157–164, DOI 10.4108/icst.bict.2014.257951.
+[23] U.S. Department of Energy, Annual Vehicle Miles Traveled in the U.S., 2015.
+http://www.afdc.energy.gov/data/10315.
+[24] A. Wahab, C. Quek, C. K. Tan, and K. Takeda, Driving Profile Modeling and
+Recognition Based on Soft Computing Approach, IEEE Transactions on Neural
+Networks 20 (2009), no. 4, 563-582, DOI 10.1109/TNN.2008.2007906.
+[25] Fusheng Wang, Chunjie Zhou, and Yanming Nie, Managing and Mining Sensor
+Data (C. Charu Aggarwal, ed.), Springer US, Boston, MA, 2013.
+[26] Yan Wang, Jie Yang, Hongbo Liu, Yingying Chen, Marco Gruteser, and Richard
+P. Martin, Sensing Vehicle Dynamics for Determining Driver Phone Use, Proceeding of the 11th Annual International Conference on Mobile Systems, Applications, and Services, 2013, pp. 41–54, DOI 10.1145/2462456.2464447.
+[27] Zhi Xu and Sencun Zhu, SemaDroid: A Privacy-Aware Sensor Management Framework for Smartphones, Proceedings of the 5th ACM Conference on Data and Application Security and Privacy, 2015, pp. 61–72, DOI
+10.1145/2699026.2699114.
+[28] Jun Yang, Toward Physical Activity Diary: Motion Recognition Using Simple
+Acceleration Features with Mobile Phones, Proceedings of the 1st International
+Workshop on Interactive Multimedia for Consumer Electronics, 2009, pp. 1–10,
+DOI 10.1145/1631040.1631042.
+63
+
+Bibliography
+
+Bibliography
+
+[29] Chuang-Wen You, Nicholas D. Lane, Fanglin Chen, Rui Wang, Zhenyu Chen,
+Thomas J. Bao, Martha Montes-de-Oca, Yuting Cheng, Mu Lin, Lorenzo Torresani, and Andrew T. Campbell, CarSafe App: Alerting Drowsy and Distracted
+Drivers Using Dual Cameras on Smartphones, Proceeding of the 11th Annual
+International Conference on Mobile Systems, Applications, and Services, 2013,
+pp. 13–26, DOI 10.1145/2462456.2465428.
+[30] Cheng Zhang, Mitesh Patel, Senaka Buthpitiya, Kent Lyons, Beverly Harrison, and Gregory D. Abowd, Driver Classification Based on Driving Behaviors,
+Proceedings of the 21st International Conference on Intelligent User Interfaces,
+2016, pp. 80–84, DOI 10.1145/2856767.2856806.
+
+64
+
+

@@ -1,0 +1,2233 @@
+Bard College
+
+Bard Digital Commons
+Senior Projects Spring 2014
+
+Bard Undergraduate Senior Projects
+
+2014
+
+Improving CSL Accessibility: A Bilingual,
+Interactive, Online Database for Chinese Sign
+Language
+Sarah V. Watson
+Bard College
+
+Recommended Citation
+Watson, Sarah V., "Improving CSL Accessibility: A Bilingual, Interactive, Online Database for Chinese Sign Language" (2014). Senior
+Projects Spring 2014. Paper 378.
+http://digitalcommons.bard.edu/senproj_s2014/378
+
+This On-Campus only is brought to you for free and open access by the
+Bard Undergraduate Senior Projects at Bard Digital Commons. It has been
+accepted for inclusion in Senior Projects Spring 2014 by an authorized
+administrator of Bard Digital Commons. For more information, please
+contact digitalcommons@bard.edu.
+
+Improving CSL Accessibility:
+A Bilingual, Interactive, Online Database for Chinese Sign Language
+
+Senior Project submitted to
+The Division of Languages and Literature
+of Bard College
+
+by
+Sarah Watson
+
+Annandale-on-Hudson, New York
+May 2014
+
+Acknowledgements
+
+MANY THANKS TO:
+Hsu Yu-Yin, my project advisor, for asking the right questions.
+Ying Li-Hua, my academic advisor, for her guidance and support.
+Robert McGrail, for helping me through the land of database creation.
+All my wonderful Chinese teachers, whose enthusiasm has been crucial
+to both my learning and my love of Chinese.
+Miao Yongxiang, my CSL teacher, and the members of the Harbin Handicapped Persons’
+Art Group (哈尔滨市残疾人艺术团) for introducing me to CSL.
+Christina Baal, for her mad art skillz.
+Amy Hunt, my patient and fabulous signing model.
+My parents, who have worked selflessly to encourage me and my passions.
+
+Thank you all for believing in me and giving me the tools to succeed.
+This project is just as much a product of your hard word as it is of mine.
+
+Table of Contents
+Introduction……………………………………………………………………………………1
+Chapter One: Dictionary
+User Information………………………………………………………………………3
+Chinese Translation…………………………………………………………………...4
+Articulation……………………………………………………………………………4
+Non-manual Markers………………………………………………………….5
+Iconic Devices …………………………………………………………………………6
+Direct Presentation…………………………………………………………….6
+Number Representation……………………………………………………….7
+Shape Representation………………………………………………………….8
+Movement Representation…………………………………………………….8
+Size Representation……………………………………………………………9
+Part-for-whole Representation………………………………………………...9
+Metonymic/Metaphorical Representation…………………………………....10
+Sound Representation……………………………………………………..…11
+Chinese Character Representation…………………………………………...12
+Combined Verb and Object………………………………………………………….12
+Special Feature of the CSL Lexicon…………………………………………………13
+Chapter Two: Sentences
+Purpose and Structure………………………………………………………………..17
+Exaggeration and Modification………………………………………………………18
+Physical Relationship among Signs………………………………………….19
+Physical Representation and Sign Change…………………………………...19
+Dropping Words……………………………………………………………………...20
+Topicalization………………………………………………………………………..21
+Dislocation within Sentences………………………………………………...22
+Ending Sentences with Subject………………………………………………22
+Questions……………………………………………………………………………..23
+
+Sample Sentences…………………………………………………………………….24
+Chapter Three: Website Design
+Website Features……………………………………………………………………..27
+Dictionary and Database Structure…………………………………………………..27
+Closing Reflection…………………………………………………………………………...33
+Works Cited………………………………………………………………………………….35
+Appendices
+Appendix I: DictionaryExplanationChinese.html……………………………………37
+Appendix II: DictionaryExplanationEnglish.html…………………………………...41
+Appendix III: DictionaryEntryList.html…………………………………………….45
+Appendix IV: ShowSign.php………………………………………………………..47
+Appendix V: EditSign.php…………………………………………………………..53
+Appendix VI: UpdateSign.php………………………………………………………59
+Appendix VII: WordEntry.php………………………………………………………61
+Appendix VIII: AddWord.php……………………………………………………….63
+Appendix IX: EditWordList.php…………………………………………………….65
+Appendix X: DeleteWord.php……………………………………………………….67
+Appendix XI: DictionaryEntryForm.php…………………………………………….69
+Appendix XII: AddSign.php…………………………………………………………73
+
+1
+
+Introduction
+
+Even in Chinese, there are very few resources for studying Chinese Sign Language
+and no online databases that I have found. By creating this bilingual database, I hope to
+make CSL more accessible to the general public and am structuring it accordingly. Currently,
+the site contains resources in English and Chinese on both the CSL fingerspelling alphabet
+and numbers as well as an interactive dictionary. In order to create a database for CSL
+grammar and vocabulary usage, I have designed the linguistic outline for a sentence database
+to be coded based on future development of the website. Sign entries are associated with a
+variety of attributes which, for the benefit of scholars, are grouped according to linguistic
+parameters; however, the goal of this classification system is to be as precise as possible
+while remaining simple enough for users of many educational backgrounds to utilize.
+Because Chinese Sign Language, like any other language, is constantly undergoing change,
+the greatest experts on the most natural and up-to-date CSL are the fluent signers who use the
+language in their everyday lives. In order to more accurately represent CSL, the website
+allows users to upload videos of themselves signing and choose the parameters that they feel
+best describe the signs. While I intend the website to be useful for academics, I do not want
+it to only be meaningful to researchers. My biggest hope is that this website or future
+versions of such can help bridge language gaps between readers of Chinese and English
+regardless of their hearing ability.
+In the first chapter I discuss the information and linguistic parameters associated with
+sign entries in the dictionary portion of the website. The second chapter outlines possible
+grammatical attributes to be examined in a future sentence database and includes a sample set
+
+2
+
+of sentences to display these features. The structure and layout of the dictionary database is
+explained in the final chapter and supported with an appendix of the written code used.
+Throughout the paper, signs are transcribed by taking the most common English translation
+and putting it in all uppercase letters. The English and Chinese words and phrases to which a
+sign or signed phrase refers will be put in quotations.
+
+As of the spring of 2014, the website to which this project refers can be found at:
+
+http://sdubbs42.wix.com/csldatabase
+
+3
+
+Chapter One:
+Chinese Sign Language Online Database: Dictionary
+
+User Information:
+In order to better categorize signs and track signing patterns, users will be asked to
+list anywhere that they have lived or studied that might have impacted their signing starting
+with the places that have had the most influence. Because signing can have regional variety
+such as vocabulary and accent, it is important to know the background of a user uploading a
+sign in order to track how CSL differs according to location.
+Users must also state whether their right or their left hand is dominant. This is
+important because just as people can be right-handed or left-handed when writing and
+performing other actions, there are also right-handed and left-handed signers. Right-handed
+signers are more common, and so the vast majority of sign language reference materials
+show examples with the right hand as dominant. Signers whose left hand is dominant will
+form signs that are opposite and appear to be a reflection of the standard examples in
+reference materials. Whereas signing with the left hand as dominant is acceptable, it is
+considered unnatural for signers to switch their dominant hand. An exception to this occurs
+with one-handed signs, which are normally signed with the dominant hand, when a signer’s
+dominant hand is otherwise occupied1.
+
+1
+
+Most of my knowledge of Chinese Sign Language comes from studying the subject in Harbin and interacting
+with my teacher and the members of the Harbin Handicapped Persons’ Art Group (哈尔滨市残疾人艺术团).
+The textbook that I used for this class was 中国手语日常会话: Chinese Sign Language Daily Conversation, the
+full bibliographic information for which can be found in the works cited section.
+
+4
+
+Chinese Translation:
+When creating a dictionary entry, users will need to enter the Chinese equivalent of
+the sign, and the characters entered in this category will be linked to a scroll-over dictionary
+that will show the English definitions of the Chinese. Multiple Chinese translations will be
+allowed per sign because CSL is not an exact equivalent of Chinese. It is common for a CSL
+sign to represent multiple Chinese words; for instance, “会” (will/be able to), “知道” (know),
+and “明白” (understand) all fall under one sign in CSL.
+
+Articulation:
+The articulation of signed languages is divided into five categories: location,
+movement, handshape, palm orientation, and non-manual markers2. While variation among
+these groups leads to differentiation among signs, devising a system to describe the
+physicality of each sign is far more complicated. I attempted to create a tagging system that
+could completely and accurately describe each individual sign, but there are so many variable
+components involved in the physical execution of a sign that each model I thought of quickly
+became too complex to be useful to both signers and researchers alike. In the case of
+handshape, having names for each handshape as a whole was illogical because of the vast
+amount of different handshapes used in CSL, and establishing set tags for the individual
+positions of each finger became too complicated to be helpful. Movement posed a similar
+problem due to the infinite possibilities of movement pattern combined with movement
+direction. Likewise, location is problematic because it exists in a three-dimensional rather
+
+2
+
+These categories are outlined by Language Files: Materials for an Introduction to Language and Linguistics,
+and were commonly referenced throughout a majority of the other materials that I read. See works cited for
+complete bibliographic information on Language Files.
+
+5
+
+than two-dimensional space. Palm orientation lost its simplicity when it was discovered that
+a signs can have the same palm orientation but a different amount and direction of rotation at
+the wrist. Furthermore, location, movement, handshape, and palm orientation frequently
+change over the course of a sign, and the fact that many signs are compounds multiplied
+these complications by the number of morphemes. Not only were there too many variables
+for me to accurately predict and create tags for, but the tags chosen by users had the potential
+to differ according to individual perception and interpretation. Instead of a tagging system, I
+decided to add an entry field in which users can write out their own explanations of how the
+signs are formed. This is both simpler for users and will enable researchers to observe the
+aspects of articulation that signers regard as important.
+Non-manual Markers:
+Non-manual markers are the only types of articulation that made sense to categorize
+in a tagging system and include any sort of movement other than that of the fingers, hands,
+and forearms that accompany the sign but do not modify it. Categories for non-manual
+markers include torso (waist, chest, and shoulders), head, and facial expression/facial
+movements. Because facial expressions can be added to slightly modify or exaggerate a sign,
+a facial expression is only counted as a non-manual marker when it occurs in the abstract
+form of the sign. Facial movement includes any movement of the facial features that does
+not convey an emotion or reaction and therefore might not be strictly considered an
+expression. For example, the sign for “糖” (candy) involves forming a round lump in the
+cheek with the tongue, whereas the sign for “吹风机” (hairdryer) includes a rounding of the
+lips in a blowing motion.
+
+6
+
+Iconic Devices:
+The categories for iconic devices were decided upon based on both my previous CSL
+instruction in Harbin3 and some of the categories established by Marjorie K.M. Chan and
+Wang Xu in “Modality Effects Revisited: Iconicity in Chinese Sign Language.” I have
+sorted the iconic devices found in CSL into nine categories: direct presentation, number
+representation, shape representation, movement representation, size representation, part-forwhole representation, metonymic/metaphorical representation, sound representation, and
+Chinese character representation. It is possible for a sign to contain multiple iconic devices
+or to contain none at all. For instance, the sign for “coffee” (咖啡 kāfēi) involves sound
+representation because the handshape formed by the dominant hand is the same as the
+handshape for “k” in the CSL alphabet. It also involves both shape representation and
+movement representation because the non-dominant hand forms the shape of a cup while the
+outstretched middle finger made by the K of the dominant hand is moved in a stirring motion
+inside this “cup.” Conversely, the sign for Shanghai (both hands in fists with their pinkies
+hooked around each other so that one hand is above the other) is completely arbitrary and
+therefore has no iconic devices.
+Direct Presentation:
+Direct presentation involves pointing at an object in order to name the object. The
+signs for “eye” (眼睛) and “nose” (鼻子) are both examples of this and involve using an
+outstretched pointer finger to point at the eye or nose respectively. Similarly, an index finger
+pointed at the signer’s chest represents “I/me” (我) while an index finger pointed at the
+person to whom the signer is talking represents the singular form of “you” (你). If the
+3
+
+Most of the categories we discussed in class overlap with those mentioned in 聋人文化概论. See works
+cited for further bibliographic information.
+
+7
+
+referent is physically present, the signs for “he/him” (他), “she/her” (她), “it” (它), “this”
+(这), “that” (那), “here” (这儿/这里), and “there” (那儿/那里), also involve an index finger
+pointing at the intended person, place, or thing. However, if these referents are being
+discussed in the abstract, HE/HIM and SHE/HER are shown by an extended pointer finger
+pointing into the air next to the signer on the dominant side. Likewise, THIS and HERE
+involve the index finger pointing at the ground in front of the signer while THAT and
+THERE are shown by using the index finger to point at the ground next to the signer on the
+dominant side. The direction of these signs may also be altered if a conversation involves
+multiple abstract referents in the same category. For instance, if the signer is recounting an
+interaction between two people who are not present, one person might be identified by
+pointing to the dominant side while the other person will be referred to by pointing to the
+non-dominant side.
+Number Representation:
+Signs containing number representation use the sign for a number to shown the
+quantity of referents. The sign for “year” (年) is made by forming a fist with the nondominant hand with the knuckles facing to the front; the outstretched pointer finger of the
+dominant hand is then run down the knuckles. The specific number of years, or a specific
+age (岁), can be shown by forming the sign for that number with the dominant hand and
+brushing it down the knuckles of the non-dominant hand. Signs for quantities of hundreds
+(百), thousands (千), ten thousands (万), and hundred millions (亿) can also be signed this
+way by using the handshape of the desired quantity to make the motion of the sign. For
+example, THREE HUNDRED (三百) can be signed by making the handshape for THREE
+(三) and moving it in the movement pattern of the sign for “one hundred” (an arc from the
+
+8
+
+non-dominant side to the dominant side). SEVEN THOUSAND (七千) can be signed by
+forming the handshape for SEVEN (七) and using it to write the character “千”(thousand)
+in the air.
+Shape Representation:
+In signs containing shape representation, the physical shape of the referent is
+mimicked by the shape of the sign. This is usually shown by the placement of the fingers,
+hands, and forearms such as in the signs for “money” (钱) and “umbrella” (伞). To sign
+MONEY the thumb and pointer finger of the dominant hand are pinched together to form a
+circle that imitates the shape of a coin. The sign for “umbrella” (index finger of the dominant
+hand extended and pointing upward and the non-dominant hand outstretched horizontally
+with the center of its palm resting on the finger tip of the dominant hand) depicts the shape of
+its referent by using the extended index finger to represent the umbrella handle and the
+outstretched non-dominant hand to show cover provided by the umbrella top.
+Movement Representation:
+Movement representation occurs when the movement of the referent is depicted by
+the movement of the fingers, hands, forearms, or body. In the sign for “airplane” (飞机) the
+thumb, index finger, and pinky of the dominant hand are extended to imitate the shape of a
+plane; the signer then moves this handshape up and away from the body to show the action of
+a plane taking off. Similarly, SNOW (雪/下雪) is signed in a way that mimics falling snow
+by having both hands drift from in front of the body at head level down to waist level while
+the fingers are outstretched and wiggling. In addition to objects, signs with movement
+representation can also imitate the movement of activities, such as the sign for “dance” (跳舞
+/舞蹈) in which both hands are curved slightly with the back on each hand resting on the
+
+9
+
+waist on its own respective side. While maintaining this position the signer alternates
+moving each shoulder forward and back to create the impression of someone dancing. It
+should also be noted that while signs involving movement representation have set paths of
+movement while referred to in the abstract, the movement of many such signs can change
+according to the movement of a specific referent. For instance, a plane that is landing is
+shown by using the same handshape as in the standard sign for “airplane,” but the movement
+of the sign would start from high up glide downward to end at the height of the abdomen.
+Size Representation:
+Signs containing size representation are those in which the size of the sign
+corresponds to the size of the referent. While signs such as LONG (长) and SHORT (短)
+have standard sizes when referring to length in general, the distances shown by these signs
+can change to reflect the length or comparative length of the objects being described. Other
+signs such as CARD/TICKET (卡/票) change in size, but not in handshape (both hands with
+thumb and forefinger outstretched and curved slightly with the fingertips of the thumbs
+facing each other and the fingertips of the forefingers facing each other to form the shape of a
+card or ticket), depending on the size of the item to which they refer. For instance, a train
+ticket is sized differently than an airline ticket, so the size of the sign for “ticket” changes to
+match the size of the corresponding ticket.
+Part-for-whole Representation:
+In part-for-whole representation the entirety of the referent is indicated by the sign
+imitating a single characteristic of said referent. For example, the sign for “car” (汽车) is
+shown by using two hands to mimic the motion of turning a steering wheel back and forth as
+would be done when driving a car. The sign for “cat” (猫) is shown by holding the middle
+
+10
+
+finger, ring finger, and pinky of the dominant hand outstretched horizontally and held apart;
+the fingertips of these three fingers are then brushed from the side of the mouth to just
+outside the cheek in a way that traces the shape of a cat’s whiskers. Both of these signs
+contain part-for-whole representation because they use one well-recognized feature, a
+steering wheel and whiskers respectively, to signify the referent as a whole.
+Metonymic/Metaphorical Representation:
+Metonymic/metaphorical representation occurs when signs express abstract or
+complicated concepts by means of association. The sign for “black” (黑 hēi) contains
+metonymic/metaphorical representation because it involves forming an “h” and moving it
+down the hair at the side of the temple as an allusion to the fact that black is a common hair
+color in China. Similarly, THANK YOU (谢谢) is shown by extending a thumb upwards
+while the other four fingers are curled into a fist; the thumb is then bent downwards a few
+times to represent a person bowing in thanks. Metonymic/metaphorical representation can
+overlap slightly with part-for-whole representation such as in the sign for “female” (女). In
+this sign, the thumb and forefinger of the dominant hand pinch the earlobe on the dominant
+side to signify an earring. Because earrings are commonly associated with females, this sign
+demonstrates metonymical/metaphorical representation; it also shows part-for-whole
+representation because the entirety of the gender is being shown by a single characteristic,
+wearing earrings. However, signs such as CAR (汽车) and CAT (猫) contain only part-forwhole representation and not metonymical/metaphorical representation because they depict a
+concrete aspect of the objects that they represent instead of something linked to the object by
+association. Very few signs are completely arbitrary, and many signs that do not fit neatly
+into other categories involving iconic devices can fall under the category of
+
+11
+
+metonymic/metaphorical representation. One example of this is the sign for “buy” (买),
+which is made by holding both hands outstretched with the palms facing up and the fingertips
+pointing toward the opposite sides of the body. The dominant hand starts in front of the nondominant hand and is then moved inward, slapping the palm of the non-dominant hand as it
+goes. Although this alludes to the movement of items transferring hands and being obtained
+by the buyer, it does not directly imitate the act of buying an item but rather represents the
+concept as a whole. Therefore, the sign for “buy” does not contain movement representation,
+but it does contain metonymic/metaphorical representation. Furthermore, signs can be
+classified as containing metonymic/metaphorical representation because they allude to
+another sign, such as the sign for “商” which is used in relation to commerce. In CSL the
+sign for “sell” (卖) is the opposite of the sign for “buy” in that the dominant hand moves
+from the inside outward, and the sign for “商” alludes to both the signs for “buy” and “sell”
+by keeping the same handshape and palm orientation but having both hands rotate around
+each other to show goods being bought and sold.
+Sound Representation:
+In signs with sound representation, at least part of the sign is related to the
+pronunciation of the Mandarin word it represents and usually involves the CSL signing
+alphabet which corresponds to the Pinyin romanization system. For example, the sign for the
+possessive particle “的” (de) is represented by the handshape for “d” in the CSL alphabet.
+Similarly, the signs for “残” (cán) and “疾” (jí) in “残疾人” (disabled person) are made by
+signing C and J respectively. In some cases, two words that have a similar pronunciation
+might be represented by the same sign. This is seen in the sign for “亲戚” (relatives) when
+“戚” (qi) is formed by making the sign for “seven” (qī). The “气” (qì) in the sign for “天气”
+
+12
+
+(weather) also utilizes the handshape for SEVEN but forms this handshape just below the
+nose.
+Chinese Character Representation:
+Chinese character representation occurs when the shape of the sign imitates the shape
+of the character that it represents. For example, the sign for “人” (person) uses two
+outstretched pointer fingers to create the shape of “人,” while the sign for “工” (work) uses
+the pointer and middle finger of the non-dominant hand to make the two horizontal lines of
+“工” with the pointer finger of the dominant hand resting against them to make the vertical
+line. The sign for “件” involves holding the thumb and pointer finger of one hand in the
+shape of the character’s radical (亻) while using the pointer finger of the other hand to write
+the second part of the character (牛) beside it.
+
+Combined Verb and Object:
+In signs that display a combined verb and object, a verb-object phrase is shown by
+using one sign in which the verb and corresponding object are not separated. For example,
+the CSL for “play (the) flute” (吹笛子) is a single sign in which the signer brings both hands
+to the side of the face while wiggling the fingers and blowing out to mimic playing a flute.
+Instead of first making the sign for “吹” (play; literally: blow) and then the sign for “笛子”
+(flute), both the verb and the object are represented in the one sign which is quicker and more
+convenient. In many signs containing a combined verb and object, the sign for the verbobject phrase is the same as the sign for the corresponding object; the separate sign for the
+verb can be considered dropped because it is already represented in the sign for the object
+and therefore the verb-object phrase.
+
+13
+
+Special Features of the CSL Lexicon:
+One characteristic of the Chinese lexicon is the prevalence of compound words,
+particularly those formed by free-standing morphemes. As in Chinese, many CSL
+morphemes are not bound nor are they changed by their context, and as such, Chinese Sign
+Language also contains a large amount of compound words. Many of these words directly
+correspond to compound words in Mandarin; the sign for “天气” (weather) is formed by the
+sign for “天” (sky) followed by the sign for “气” (air). However, multiple compound signs
+in CSL are unrelated to their Chinese translation. While the Chinese word for “wife” (妻子)
+is formed by two characters denoting a wife and a person respectively, the CSL sign for
+“wife” is formed by first making the sign for “marriage” (结婚) followed by the sign for
+“female” (女性).
+Although it is a separate language, Chinese Sign Language also shows aspects of
+Chinese in its vocabulary in signs that contain sound representation and character
+representation. This, in turn, helps to differentiate CSL from signed languages that are not
+influenced by either Mandarin or Chinese characters. Nonetheless, just as British and
+American Sign Language are not the same language, environments permeated with Chinese
+language do not produce identical signed languages. Such is the case with Chinese and
+Taiwanese Sign Language which, despite sharing a common written and spoken language,
+developed independently in two separate locations. Further differences can also be attributed
+to aspects of history and culture unique or more prevalent in either China or Taiwan; for
+instance Taiwanese Sign Language is more closely connected to Japanese Sign Language due
+
+14
+
+to Taiwan’s past with Japan. Comparisons4 of the lexicons of CSL and TSL also reveal that
+while CSL uses character representation, fingerspelling, and letter initiation in its signing,
+TSL contains only character representation. This can be attributed to the fact that the Pinyin
+system of romanization has been heavily promoted in China and is now widely used, making
+fingerspelling and letter initiation a more natural choice for signers of CSL. Conversely,
+popular phonetic and character input systems used in Taiwan, such as Bopomofo, do not
+make use of a romanized alphabet.
+Cultural and historical influences are responsible for creating other unique vocabulary
+in the CSL lexicon, predominantly in regards to signs containing iconic devices. In
+American Sign Language, the sign GIRL is made by using an outstretched thumb to trace
+along the jaw from the ear to the chin; this mimics the ties of a bonnet historically worn by
+American females such as the pilgrims and pioneers. While ASL signs relating to females
+tend to occur around the lower half of the face for this reason, the CSL sign for “女” (female)
+alludes to the wearing of earrings because in Chinese culture, an earring is more associated
+with females that a bonnet would be. Similarly, the sign for “dance” (跳舞, 舞蹈) in Chinese
+Sign Language mimics the hand position and movement more common in traditional Chinese
+dance than in western styles of dance. Conversely, CSL signs borrowed from other sign
+languages can lose any iconic devices that might have been significant in the original sign
+language. Names for countries tend to be the same across sign languages, and so in both
+American and Chinese Sign Language THE UNITED STATES OF AMERICA (美国) is
+signed by interweaving the outstretched fingers of both hands and turning them in a circle in
+
+4
+
+Wang Xu’s thesis, “A Comparison of Chinese and Taiwan Sign Languages: Towards a New Model for Sign
+Language Comparison,” builds upon two other studies and uses a modified version of the Swadesh 100–word
+list for comparison. See works cited for full bibliographic information.
+
+15
+
+front of the torso. To an American signer, this symbolizes the idea of many people of
+different backgrounds coming together to create the United States, but for most Chinese
+signers, this sign is completely arbitrary because it has lost its deeper meaning by changing
+cultural context. Of course, just as in spoken languages, it can be hard to tell whether signs
+vary between signed languages out of arbitrariness or because of some other cause. For
+instance, since the CSL and ASL signs for “moon” (月) are only similar in that they portray
+the crescent shape of the moon, can an argument be made that provides a linguistic, historical,
+or cultural reason for why these two signs focus on the same aspect of the same referent and
+yet are formed so differently?
+
+17
+
+Chapter 2:
+Chinese Sign Language Online Database: Sentences
+
+Purpose and Structure:
+A database for Chinese Sign Language sentences is important because most resources
+on CSL do not teach natural sentence structure. Because Chinese Sign Language is a
+different language than Mandarin, Literary CSL (文法手语) is used to sign books and other
+written documents whereas Natural CSL (自然手语) is used for daily conversation and
+communication. Therefore, the grammar of Literary CSL corresponds to Mandarin grammar
+while the grammar of Natural CSL is not tied to a written form of language. Although
+Natural CSL is most commonly used among signers, many CSL teaching materials are still
+based around Literary CSL. In order to create a resource that exhibits both natural grammar
+and vocabulary, I hope to add a separate database for sentences depending on future interest
+and demand. Like the dictionary database, this database will also allow users to upload
+entries; however, for content control and ease of translation, these sentences will be
+predetermined. I have identified grammatical features of Natural CSL that I would like to
+obtain more data about, and have come up with a series of sentences that will display these
+grammatical features while also being useful to those interested in learning CSL.
+The current outline for this database involves a series of sentences that users can
+respond to by uploading videos of how they would sign these sentences. As with the
+dictionary database, users will need to provide information on their dominant hand and the
+places that have influenced their signing. In the future, I would also like to have sample
+
+18
+
+stories and dialogues that users can respond to in order to provide a more in depth resource
+for studying CSL grammar.
+
+Exaggeration and Modification:
+The carrying out of many signs is flexible in that the speed, size, direction, and
+location of the sign might be augmented to mimic a specific referent or to show relation to
+other referents. For instance, an airplane coming in for a bumpy landing would use the same
+handshape as the sign for “airplane” (飞机), however the movement pattern of the sign
+would differ from the basic sign for “airplane” in that it would mirror the movement of the
+landing plane. Similarly, the distance between hands when signing the size of a referent that
+is bigger than a previously mentioned referent would increase, thereby turning the signed
+adjective into a comparison. In this way, the big fish that I caught and the bigger fish that my
+sister caught would still both be described with the sign for “big” (大), but, like the fish, the
+sign referring to the fish that my sister caught would be bigger. Facial expression is another
+common way to signify exaggeration among adjectives; the intensity of the adjective can be
+indicated by the intensity of the facial expression. Therefore, the larger the smile and the
+more excited the general facial expression of the signer when signing HAPPY (高兴/快乐),
+the greater the level of happiness being conveyed. Verbs can also be modified to correspond
+to a specific situation; whereas the verb for “see/look” (看) is made by outstretching the
+pointer and middle finger and pointing them forwards at eye level, a signer might start with
+the fingertips pointing forward and move them, along with his or her gaze, in a different
+direction to show the act of looking in said direction.
+
+19
+
+Physical Relationship among Signs:
+The location of signs can also be modified to show physical relationship within a
+sentence, story, or conversation5. One common example occurs when there are multiple
+persons who are not present being referred to in the third-person singular. Because all forms
+of the third-person singular are signed by using the index finger to point away from the side
+of the body, different locations will be assigned to the different referents and maintained
+throughout the train of thought. Similarly, the location of objects such as beds, chairs, people,
+etc. can be shown by forming the sign for the referent and placing in within the signing space
+in a way that corresponds to its actual location. In this way, signers can convey ideas about
+how these objects or multiples of these objects occur and relate to each other in the physical
+world. It should be noted that although the physical relationship between signs makes up a
+significant part of sign language grammar, there are still prepositions in Chinese Sign
+Language which are commonly used. Although this kind of sign location modification can
+be studied with sentences, longer data samples such as stories and dialogues would be more
+beneficial for studying such a complex and extended grammatical feature.
+Physical Representation and Sign Change:
+There is also a phenomenon is American Sign Language in which select signs have
+separate signs for when their location and movement is representing the location and
+movement of something in the physical world. For example, the sign for “car” is normally
+made by mirroring the driving of a car using the steering wheel, but when the movements
+and physical location of a car or similar sort of vehicle are being referred to, the car is
+
+5
+
+Leonard Talmy’s chapter, “The Representation of Spatial Structure in Spoken and Signed Language,” in
+Perspectives on Classifier Constructions in Sign Language delves further into the topic of how signs physically
+exist and interact with one another in space. Full bibliographic information can be found in the works cited
+section.
+
+20
+
+represented by a single hand with the thumb, pointer finger, and middle finger extended.
+Likewise, WALK/WALKING is made using both hands with fingers together and
+outstretched in front of the chest that mimic the action of steps being taken. However, when
+the preposition “to” is added to the walking, the sign changes to become one-handed with
+pointer and middle finger extended downwards and moved like the legs of a person walking.
+In both these instances, the signs are two-handed signs occurring in a set location that are
+changed in order to be able to convey the physical movement and relationships of their
+referents. Although I do not know if this phenomenon exists in Chinese Sign Language, the
+fact that the sign for “car” is the same in CSL leaves me hopeful that similar sign changes
+might occur.
+
+Dropping Words:
+In order to sign more quickly, CSL signers often drop measure words and other words
+that have a grammatical function but no meaning. That is to say, if a word is not crucial to
+the meaning of the sentence, the grammar of CSL with allow it to be dropped without having
+an impact on the correctness of the sentence. Therefore, it is grammatically acceptable to
+sign noun phrases without measure words, such as “那水” (THAT WATER), in CSL more
+often than it is in Mandarin. However, if there are different types of containers of water and
+there might be some sort of confusion about which container of water was being referred to,
+a signer might add in a measure word to clarify whether they were talking about “那瓶水”
+(THAT BOTTLE WATER) or “那杯水” (THAT CUP WATER). Although classifiers are
+the most obvious example of words that occur in Mandarin but are omitted in CSL, there are
+other occasions of different words being dropped in Chinese Sign Language. For instance,
+
+21
+
+while CSL does have a sign for the possessive particle “的,” it is omitted more frequently in
+Chinese Sign Language than it is in Mandarin. Furthermore, CSL signers will often drop the
+verb “看” (see/watch/look) in the sentence “我看电影” (I watch a movie; literally: “I watch
+movie”) and instead sign “我电影” (I MOVIE) because under most circumstances seeing is
+what one does to a movie; it would be illogical to jump a movie or cook a movie. Therefore,
+“看” is seen as the default verb for a movie, and if the signer is performing another action
+such as directing or editing, this will be specified by adding in the sign for the corresponding
+verb. This phenomenon leads me to believe that it is common in CSL to drop words that add
+meaning to a sentence but are unnecessary or obvious in a given context, a theory that could
+perhaps gain more credit with a wider sampling of data.
+
+Topicalization:
+Topic-comment structure is a common feature of both American Sign Language and
+Mandarin, and occurs when a sentence or clause is started with the topic followed by a
+comment about the topic. In this way, the Chinese sentence “我喜欢这本书” (I like this
+book) can also be formed as “这本书，我喜欢” (As for this book, I like it; literally: “This
+book, I like”). Similarly, the ASL sentence I LIKE THIS BOOK can be signed as THIS
+BOOK, I LIKE without the extra words that would be necessary to make it grammatically
+correct in English. Like in Chinese and ASL, the topic or object is also frequently moved to
+the front of sentences and phrases in CSL, and this phenomenon could point to an overall
+topic-comment pattern of sentence structure for Chinese Sign Language.
+
+22
+
+Dislocation within Sentences:
+Supporting the idea that CSL is a topic-prominent language, word dislocation within
+sentences is frequent in Chinese Sign Language and occurs among a variety of parts of
+speech. For example, a sentence such as “我去书店” (I’m going to the bookstore; literally:
+“I go bookstore”) becomes “书店我去” (BOOKSTORE, I GO) when signed in CSL. Such
+reversal can also occur within phrases; a noun phrase involving a noun and adjective such as
+“新洗衣机” (new washing machine) becomes “洗衣机新” (WASHING MACHINE, NEW),
+and the verb phrase “没有吃饭” (haven’t eaten) is signed as “吃饭没有” (EATEN,
+HAVEN’T). Word reversal within phrases is particularly interesting in comparison to
+Chinese clauses and phrase structure.
+Ending Sentences with Subject:
+It is common in an ASL sentence to end with the subject, something that occurs in a
+variety of instances and serves multiple purposes. In a yes/no question, the subject often may
+either be repeated at the end of the sentence, or dropped at the beginning and moved to the
+end so that a question such as, “Do you like broccoli?” becomes (YOU) LIKE BROCOLLI,
+YOU? This helps to differentiate the question from a statement and also gives the signer a
+place to raise up their eyebrows, a facial movement that is grammatically necessary for the
+forming of a yes/no question in ASL. The subject might also be repeated at the end of an
+ASL sentence as a means of emphasizing the subject or as a way to more clearly mark the
+ending of the sentence or what the signer intends to convey. In watching various videos of
+different CSL signers6, I noticed that there were multiple instances of the subject being
+6
+
+One video that demonstrates Chinese Sign Language while discussing terminology issues face by the Chinese
+Deaf community is Hu Xiaoshu’s “Deaf, Not Dumb: Chinese Sign Language=聋哑与聋人的区别?” Another
+video found on Hu Xiaoshu’s blog, “手语访谈记录影片：聋人的心声” involves multiple signers talking about
+
+23
+
+moved to or repeated at the end of the sentence. Although I am not yet clear on what causes
+this phenomenon in Chinese Sign Language, I do not think that ending a sentence with the
+subject is a grammatical feature of yes/no questions. This is because CSL has a sign for the
+Mandarin word “吗” which is put at the end of a statement to transform it into a yes/no
+question. Despite this, I believe that a sufficient amount of data could provide evidence of
+trends that could either be in some ways similar to those in American Sign Language or
+could be further evidence of an overarching theme of topic-prominence in CSL.
+
+Questions:
+Questions and their corresponding answers and statements are a large focus of the
+sample phrases created for signers to upload responses to because not only are they
+conversationally useful for learners of CSL, but they are also a good way for researchers to
+compare their structures and notice trends. Just as in spoken languages, questions in signed
+languages have their own grammatical markings and indicators. For instance, in order to
+form a grammatically correct yes/no question in American Sign Language, the eyebrows are
+raised with the eyes widening and the head and torso tilt slightly forwards. In many cases,
+the subject is also repeated at the end of the sentence or moved to the end of the sentence
+completely. However, in forming a grammatically correct wh-question (a question involving
+the words who, what, when, where, why, or how) the signer should lower the eyebrows and
+narrow the eyes. It is also common to put the question word at the end of the sentence and
+perform the aforementioned non-manual marker while signing this word. Therefore, a
+question such as, “Who eats pudding?” becomes EAT PUDDING, WHO? in ASL with the
+issues faced by the deaf and hard of hearing in China as well as their own experiences. Both videos can be
+found as part of the other resources on my website, and further bibliographic information is included in the
+works cited section.
+
+24
+
+narrowing of the eyebrows and eyes occurring simultaneously with WHO. In Mandarin,
+there is no question word movement; a question word appears at the same place in the
+question sentence as its corresponding answer in the responding sentence. Therefore,
+although wh-question words can occur in at multiple places in a Chinese sentence and often
+are found at the end, there are instances in which a wh-question that would occur at a
+different position in the corresponding Chinese sentence is signed at the end of the CSL
+sentence. The Chinese question “为什么迟到” (Why did (you7) arrive late?; literally: “Why
+late arrive?”) becomes “迟到为什么” (LATE ARRIVE, WHY?) in CSL. However, I am not
+sure if examples such as this are due to a general trend in topicalization in CSL or are
+indicators of a separate grammatical word order that applies to questions, and would need a
+greater pool of data to draw any conclusions.
+
+Sample Sentences:
+The following set of sample sentences revolves around the practical topic of food and,
+depending on participation, will ideally be joined by similar sets of sentences concerning
+other common topics. This set includes declarative sentences (C, F, G, and H) as well as
+yes/no questions (B and E) and wh-questions (A, D, and I). In addition to this, sentences F
+and G contain complex clauses (“the tea that I gave him” and “food made by my father”),
+while sentences D, E, F, G, and I involve some sense of time. By doing this, I hope to collect
+data that is demonstrative of a wider variety of grammatical structures that can be examined
+and used with other nouns, verbs, and adjectives to create meaningful conversation.
+Although I have created sentences with adjectives such as “especially” and “very” that I hope
+7
+
+In this case, the subject of the sentence, “you,” is omitted in both Chinese and CSL because it is already
+implied in the context.
+
+25
+
+will prompt some sort of exaggeration, more complex forms of modification and relationship
+among signs would need a longer dialogue or thought process to be accurately displayed.
+
+A. 你吃什么？(What do you eat? or What are you eating?)
+B. 你喜欢吃水果吗？(Do you like to eat fruit?)
+C. 她特别喜欢吃冰淇凌。(She especially likes to eat ice cream.)
+D. 谁吃了这个蛋糕？(Who ate this cake?)
+E. 我的妹妹喝了那杯水吗？(Did my younger sister drink that cup of water?)
+F. 我的朋友已经喝了我给他的茶。(My friend already drank the tea that I gave him.)
+G. 他从来没吃过我爸爸做的菜。(He has never eaten food made by my father.)
+H. 这家饭馆儿的饺子非常难吃！(This restaurant’s dumplings taste very bad!)
+I. 我们明天去哪儿吃晚饭？(Where are we going to eat dinner tomorrow?)
+
+27
+
+Chapter 3:
+Chinese Sign Language Online Database: Website Design
+
+Website Features:
+Currently, the database is made up of three major parts; the CSL fingerspelling
+alphabet, CSL numbers, and an interactive dictionary. Both the alphabet and numbers
+sections contain images of the signs accompanied by a written description in English and in
+Chinese. In the case of numbers that can be signed in multiple ways, notes are made in the
+description for possible variations of hand position while separate entries are included for
+alternate handshapes. Bilingual directions for the formation of numbers not shown on the
+website are also included. The alphabet and numbers are finite sections that only exist on the
+host website and cannot be added to or changed by anyone but myself. In contrast, the
+interactive dictionary exists in a separate database that is shown on the host website by the
+insertion of HTML. The website also includes a homepage, links to relevant resources, and
+a contact form. Furthermore, a separately formatted version of the website will appear when
+it is accessed using a mobile phone or similar device which will make interacting with the
+site easier when using this kind of platform.
+
+Dictionary and Database Structure:
+The components of the dictionary are located on a separate site and displayed on the
+host website through HTML boxes that call upon their original URLs. The dictionary page
+of the host site contains two of these boxes, one which connects to an explanation of sign
+attributes and one that displays the dictionary database. Two individual pages make up the
+
+28
+
+section that provides explanations and examples for the different components of the signs,
+such as non-manual markers and iconic devices. One of these pages,
+DictionaryExplanationChinese.html (Appendix I), provides this information in Chinese. The
+other page, DictionaryExplanationEnglish.html (Appendix II), shows the same material in
+English. Both pages have links at the top that allow users to toggle back and forth between
+the two pages and therefore the two languages.
+The database itself is composed of three tables: CSL_signs, CSL_words, and
+CSL_word_sign. Users are able to interact with these three tables through a series of PHP
+documents (Figure 1) that exist on a separate site and are displayed on the host website
+through the other HTML box. Every sign entry that is created is stored in CSL_signs and
+assigned a key with which to identify it. Because there can be numerous Chinese translations
+associated with a single sign, the translations are stored separately in CSL_words and also
+assigned their own keys. CSL_word_sign exists in order to link a sign entry with its
+corresponding translations.
+Upon entering the dictionary page on the host site, users first see
+DictionaryEntryList.php (Appendix III) which shows a list of dictionary entries starting with
+the most recently added as indicated by their keys in CSL_word_sign. Each list item
+includes the Chinese translations requested from CSL_words, the related sign description
+requested from CSL_signs, and a link button that connects to the ShownSign.php (Appendix
+IV) that corresponds to the entry.
+
+29
+
+Figure 1
+
+The ShowSign.php page queries all three databases and displays the appropriate sign
+entry and translation entries associated with the specific key as requested from
+CSL_word_sign. A sign entry can be edited by using the 编辑 (Edit Sign) button; this brings
+the user to EditSign.php (Appendix V) which is a form consisting of text input boxes for
+information such as username, places of signing, dominant hand, and sign description. The
+form also contains checkboxes for non-manual markers, iconic devices, and combined verband-object. Both the text boxes and checkboxes request the sign’s key from CSL_signs and
+display the information corresponding to that key in the input boxes to either be kept or
+changed. Once changes are made in EditSign.php, the submit button puts this information
+into CSL_signs through UpdateSign.php (Appendix VI) and reroutes back to ShowSign.php.
+
+30
+
+Videos demonstrating how signs are formed are only shown in ShowSign.php
+because they are currently not a part of the database that users can modify. One of the
+reasons for this arrangement is that working with video files in HTML is difficult and not
+ideal. Furthermore, giving users the ability to upload video files to the database would also
+allow the introduction of viruses and other unwanted uploads. For now, videos are uploaded
+via an FTP client to a separate folder in my files on the site that hosts the database pages that
+I have coded. These videos are named by the key of the sign to which they correspond, and
+are displayed by part of the code in ShowSign.php that calls for the video with the same key
+as the sign being requested from the database.
+Users can add translations by clicking on the 添加翻译 (Add Translation) button
+which sends them to WordEntry.php (Appendix VII). This is a form with a text box in which
+users can enter a Chinese translation to submit into the database through AddWord.php
+(Appendix VIII). Upon submitting a translation, the user is routed back to ShowSign.php
+which now contains the newly added translation.
+In order to delete a translation, users can click on the 编辑翻译 (Edit Translations)
+button which takes them to EditWordList.php (Appendix IX), a page that queries CSL_words
+and displays the translations associated with the key along with a delete button beside each
+one. Upon clicking a delete button, the translation is deleted through DeleteWord.php
+(Appendix X), and the user is redirected to a version of EditWordList.php that no longer
+contains the deleted translation. Users can return to ShowSign.php by utilizing a link button
+underneath the list of translations.
+If a user wishes to add an entry to the dictionary, there is a link at the top of
+DictionaryEntryList.php that leads to DictionaryEntryForm.php (Appendix XI).
+
+31
+
+DictionaryEntryForm.php is comprised of a form almost identical to that of EditSign.php;
+however, the form for adding an entry does not request any previously stored information
+from the database. Once all the required fields are filled out, users can click the submit
+button to enter the dictionary entry into CSL_signs through AddSign.php (Appendix XII) and
+will be directed to a version of ShowSign.php that queries the sign key from CSL_signs to
+display the sign that has just been added.
+It should be noted that while users can currently add and edit signs and their
+associated translations without regulation, the only way to delete a sign entry is through an
+account with the database server. Until privacy and user settings are implemented, this acts
+as a safeguard to ensure that an accidental click or less kindly intentions do not permanently
+remove entries from the database.
+The dictionary database also utilizes a source code at the bottom of
+DictionaryEntryList.php and ShowSign.php that links to the Chinese dictionary at
+MandarinSpot.com and results in English definitions appearing when Chinese characters are
+scrolled over. This feature is applied to all characters on the page in which the source code
+exists which can make navigating these pages a bit cumbersome and crowded for readers of
+Chinese. Until the source code can be applied to specific regions of text, it is being used as
+sparingly as possible to provide a less complicated interaction for Chinese readers.
+DictionaryEntryForm.php, EditSign.php, EditWordList.php, and WordEntry.php do not
+include this source code because the likelihood of a user who is knowledgeable about
+Chinese Sign Language and does not read Chinese but does read English is slim.
+
+33
+
+Closing Reflection
+In the future, I hope to improve and expand the website depending on resources, user
+involvement, and demand. My first goals will be to implement a search feature that will
+most likely consist of a search box that pulls up identical words found in the entries and
+possibly a system that searches through the tags associated with the entries. Another priority
+is to create a way for users to upload and display any sort of video file. I would also like to
+establish a username and password system which will not only help to deter internet trolls but
+will also allow users to edit or delete their own entries at any time. If possible, I would like
+to create an arrangement which enables users to view all of their uploaded entries in one
+place and bookmark other entries for future reference. Once I have a solid number of
+examples, or once users can upload various types of video files, creating a separate database
+for sentences and stories is also a major priority in order to better study CSL grammar and
+vocabulary usage.
+Upon embarking on this project, my motive was to use existing information to create
+a new resource for a subject on which exists a relatively small amount of data. I was quickly
+immersed in a succession of information supply and demand; in order to establish the
+foundations for a quality resource, I needed better reference materials, and in order to have
+better reference materials, there needed to be more quality resources. Although my work on
+this complex subject is far from complete, I am hopeful that these efforts might help to break
+out of the cycle of information deficiency surrounding Chinese Sign Language and
+encourage others to do the same.
+
+35
+
+Works Cited
+"Annotation API." MandarinSpot. 2014. Web. <http://mandarinspot.com/api>.
+Chan, Marjorie K.M., and Wang Xu. "Modality Effects Revisited: Iconicity in Chinese Sign
+Language." Proceedings of the 20th North American Conference on Chinese
+Linguistics (NACCL-20) Volume 1 (2008): 343-60. Web.
+<http://people.cohums.ohio-state.edu/chan9/articles/chan_xu_2008.pdf>.
+Hu, Xiaoshu. Deaf, Not Dumb: Chinese Sign Language="聋哑"与"聋人"的区别? 11 Oct.
+2007. Web. <https://www.youtube.com/watch?v=rKorJHNGMnQ>.
+Hu, Xiaoshu. "手语访谈记录影片：聋人的心声." Web log post. 小胡视点 AliceSignPoint.
+12 July 2010. Web. <http://blog.sina.com.cn/s/blog_4ca83d980100msh9.html>.
+Mihalicek, Vedrana, and Christin Wilson. Language Files: Materials for an Introduction to
+Language and Linguistics. 11th ed. Columbus: Ohio State University Press, 2011.
+Print.
+Talmy, Leonard. "The Representation of Spatial Structure in Spoken and Signed Language."
+Perspectives on Classifier Constructions in Sign Language. By Karen Emmorey.
+Mahwah, NJ: Lawrence Erlbaum Associates, 2003. 169-95. University at Buffalo,
+The State University of New York. Web.
+<http://www.linguistics.buffalo.edu/people/faculty/talmy/talmyweb/Recent/sign.pdf>.
+Tsay, Jane, James H.-Y. Tai, Hsin-Hsien Lee, Yijun Chen, and Qiong-Yi Yu. Taiwan Sign
+Language Online Dictionary. Institute of Linguistics, National Chung Cheng
+University, Taiwan, 2009. Web. <http://tsl.ccu.edu.tw/web/browser.htm>.
+Xu, Wang. "A Comparison of Chinese and Taiwan Sign Languages: Towards a New Model
+for Sign Language Comparison." Thesis. The Ohio State University, 2006. Web.
+<http://people.cohums.ohio-state.edu/chan9/ling/theses/xu-wang_2006_ma.pdf>.
+张宁生, ed. 聋人文化概论. 郑州: 郑州大学出版社, 2010. Print.
+中国残疾人联合会教育就业部, and 中国聋人协会. 中国手语日常会话：Chinese Sign
+Language Daily Conversation. 9th ed. 北京: 华夏出版社, 2011. Print.
+
+37
+
+Appendix I: DictionaryExplanationChinese.html
+http://asclab.org/semweb/Fall2011/sw6617/sproj/DictionaryExplanationChinese.html
+
+<!DOCTYPE html SYSTEM "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>Dictionary Explanation Chinese</title></head>
+<style type="text/css">
+<!-.ToggleButton { margin: 10px; color: #4A4A4A; font-size: 20px;
+font-weight: bold; text-decoration: none; }
+.ButtonPosition { text-align: right; }
+.CategoryHead { border:3px solid; border-color: #D6D6D6; marginleft: 10px; padding: 10px; background-color: #FFFFFF; color: #4A4A4A; fontsize: 25px; font-weight: bold; text-align:center;}
+.CategorySubHead { margin-left: 10px; color: #4A4A4A; font-size:
+20px; font-weight: bold; text-align:left; }
+.Clarification { margin-left: 10px; color: #4A4A4A; font-size:
+15px; font-weight: normal; text-align:left; }
+.SubClarification { margin-left: 25px; margin-bottom: 5px; color:
+#4A4A4A; font-size: 15px; font-weight: normal; text-align:left; }
+-->
+</style>
+<body>
+<div class="CategoryHead" id="NonmanualMarkers">
+<div class="ButtonPosition"><a
+href="http://asclab.org/semweb/Fall2011/sw6617/sproj/DictionaryExplanationEn
+glish.html" class="ToggleButton">ENGLISH</a></div>
+<br/>
+<table>
+<tr><td>&#22312;&#20160;&#20040;&#22478;&#24066;&#20351;&#29992;&#25163;&#35
+821;</td></tr>
+<tr><td><div
+class="Clarification">&#38750;&#25163;&#21183;&#21160;&#20316;&#25351;&#1998
+1;&#26159;&#29992;&#25163;&#34920;&#29616;&#30340;&#21160;&#20316;&#65292;&#
+20294;&#26159;&#36825;&#31181;&#21160;&#20316;&#19981;&#20250;&#22840;&#2282
+3;&#25110;&#32773;&#25913;&#21464;&#25163;&#21183;&#30340;&#24847;&#24605;&#
+12290;</div></td></tr>
+</table>
+<br/>
+<table>
+<tr><td>&#20027;&#35201;&#25163;</td></tr>
+<tr><td><div
+class="Clarification">&#38750;&#25163;&#21183;&#21160;&#20316;&#25351;&#1998
+1;&#26159;&#29992;&#25163;&#34920;&#29616;&#30340;&#21160;&#20316;&#65292;&#
+20294;&#26159;&#36825;&#31181;&#21160;&#20316;&#19981;&#20250;&#22840;&#2282
+3;&#25110;&#32773;&#25913;&#21464;&#25163;&#21183;&#30340;&#24847;&#24605;&#
+12290;</div></td></tr>
+</table>
+
+38
+<br/>
+<table>
+<tr><td>&#38750;&#25163;&#21183;&#21160;&#20316;</td></tr>
+<tr><td><div
+class="Clarification">&#38750;&#25163;&#21183;&#21160;&#20316;&#25351;&#1998
+1;&#26159;&#29992;&#25163;&#34920;&#29616;&#30340;&#21160;&#20316;&#65292;&#
+20294;&#26159;&#36825;&#31181;&#21160;&#20316;&#19981;&#20250;&#22840;&#2282
+3;&#25110;&#32773;&#25913;&#21464;&#25163;&#21183;&#30340;&#24847;&#24605;&#
+12290;</div></td></tr>
+</table>
+<br/>
+<table>
+<tr><td>&#20855;&#35937;&#34920;&#31034;</td></tr>
+<tr><td><div
+class="CategorySubHead">&#25351;&#20107;&#24335;</div></td></tr>
+<tr><td><div
+class="SubClarification">&#30452;&#25509;&#25351;&#28857;&#25152;&#35201;&#3
+4920;&#36798;&#30340;&#20154;&#65292;&#29289;&#65292;&#21644;&#22320;&#26041
+;&#12290;&#20363;&#22914;&#65306;&#8220;&#20320;&#8221;&#12289;&#8220;&#2510
+5;&#8221;&#12289;&#8220;&#20182;&#8221;&#12289;&#8220;&#22905;&#8221;&#12289
+;&#8220;&#36825;&#8221;&#12289;&#8220;&#37027;&#8221;&#12289;&#8220;&#40763;
+&#23376;&#8221;&#12289;&#8220;&#30524;&#30555;&#8221;&#12290;</div></td></tr>
+<tr><td><div
+class="CategorySubHead">&#25968;&#23383;&#26631;&#31034;</div></td></tr>
+<tr><td><div
+class="SubClarification">&#25163;&#25351;&#34920;&#31034;&#25968;&#37327;&#1
+2290;&#20363;&#22914;&#65306;&#8220;#&#24180;&#8221;&#12289;&#8220;#&#22825;
+&#8221;&#12289;&#8220;#&#23681;&#8221;&#12290;</div></td></tr>
+<tr><td><div
+class="CategorySubHead">&#35937;&#24418;&#24335;</div></td></tr>
+<tr><td><div
+class="SubClarification">&#29992;&#25163;&#30340;&#21160;&#20316;&#27169;&#2
+0223;&#20107;&#29289;&#30340;&#24418;&#29366;&#65292;&#21160;&#24577;&#65292
+;&#21644;&#29305;&#24449;&#26469;&#35937;&#24449;&#26576;&#31181;&#24847;&#2
+4605;&#25110;&#32773;&#27010;&#24565;&#12290;&#20363;&#22914;&#65306;
+&#8220;&#39134;&#26426;&#8221;&#12289;&#8220;&#38632;&#20254;&#8221;&#12290;
+</div></td></tr>
+<tr><td><div
+class="CategorySubHead">&#31227;&#21160;&#26631;&#31034;</div></td></tr>
+<tr><td><div
+class="SubClarification">&#25163;&#21183;&#31227;&#21160;&#34920;&#31034;&#2
+9289;&#20307;&#31227;&#21160;&#12290;&#20363;&#22914;&#65306;&#8220;&#28779;
+&#36710;&#8221;&#12289;&#8220;&#22320;&#38081;&#8221;&#12289;&#8220;&#39134;
+&#26426;&#8221;&#12289;&#8220;&#39118;&#8221;&#12289;&#8220;&#38632;&#8221;<
+/div></td></tr>
+<tr><td><div
+class="CategorySubHead">&#23610;&#23544;&#26631;&#31034;</div></td></tr>
+<tr><td><div
+class="SubClarification">&#25163;&#21183;&#30340;&#22823;&#23567;&#34920;&#3
+1034;&#29289;&#20307;&#30340;&#23610;&#23544;&#12290;&#20363;&#22914;&#65306
+;&#8220;&#38271;&#8221;&#12289;&#8220;&#30701;&#8221;&#12290;&#8220;&#31080;
+&#8221;&#21644;&#8220;&#21345;&#29255;&#8221;&#30340;&#25163;&#21183;&#25171
+;&#20986;&#26469;&#30340;&#22823;&#23567;&#34920;&#31034;&#29289;&#20307;&#3
+0456;&#23545;&#22823;&#23567;&#12290;</div></td></tr>
+<tr><td><div
+
+39
+class="CategorySubHead">&#20197;&#23616;&#37096;&#26631;&#31034;&#20840;&#37
+096;</div></td></tr>
+<tr><td><div
+class="SubClarification">&#29992;&#23616;&#37096;&#26469;&#34920;&#31034;&#2
+0840;&#37096;&#29289;&#20307;&#12290;&#20363;&#22914;&#65306;&#25163;&#21183
+;&#25171;&#26041;&#21521;&#30424;&#34920;&#31034;&#8220;&#27773;&#36710;&#82
+21;&#12290;&#8220;&#29483;&#8221;&#30340;&#25171;&#27861;&#29992;&#26681;&#2
+5163;&#25351;&#21010;&#36807;&#22068;&#36793;&#34920;&#31034;&#29483;&#30340
+;&#32993;&#39035;&#12290;</div></td></tr>
+<tr><td><div
+class="CategorySubHead">&#20250;&#24847;&#24335;</div></td></tr>
+<tr><td><div
+class="SubClarification">&#29992;&#25163;&#30340;&#21160;&#20316;&#20197;&#2
+1450;&#37197;&#21512;&#36523;&#20307;&#20854;&#20182;&#37096;&#31435;&#30340
+;&#21160;&#20316;&#65292;&#20063;&#29992;&#38754;&#37096;&#34920;&#24773;&#2
+6469;&#34920;&#31034;&#26576;&#31181;&#24847;&#24605;&#12290;&#36825;&#26679
+;&#30340;&#21160;&#20316;&#21644;&#34920;&#24773;&#35937;&#24449;&#20107;&#2
+9289;&#30340;&#21547;&#20041;&#65292;&#29366;&#24577;&#65292;&#21644;&#21457
+;&#23637;&#21464;&#21270;&#31561;&#12290;&#20363;&#22914;&#65306;&#8220;&#35
+874;&#35874;&#8221;&#30340;&#25171;&#27861;&#30475;&#36215;&#26469;&#20687;&
+#19968;&#20010;&#23458;&#27668;&#30340;&#20154;&#65292;&#19968;&#25163;&#202
+80;&#25287;&#25351;&#24367;&#21160;&#20004;&#19979;&#65292;&#35937;&#24449;&
+#19968;&#20010;&#20154;&#38816;&#36524;&#12290;&#8220;&#40657;&#8221;&#30340
+;&#25163;&#21183;&#26159;&#25171;&#25163;&#25351;&#23383;&#27597;&#8220;h&#8
+221;&#30340;&#25351;&#24335;&#65292;&#24182;&#22312;&#22836;&#21457;&#19978;
+&#25720;&#19968;&#19979;&#12290;</div></td></tr>
+<tr><td><div
+class="CategorySubHead">&#34920;&#38899;&#24335;</div></td></tr>
+<tr><td><div
+class="SubClarification">&#29992;&#27721;&#23383;&#35835;&#38899;&#25163;&#2
+1183;&#21160;&#20316;&#26469;&#35937;&#24449;&#35835;&#38899;&#30456;&#21516
+;&#30340;&#35789;&#12290;&#26377;&#30340;&#26102;&#20505;&#20960;&#20010;&#1
+9981;&#21516;&#30340;&#23383;&#21482;&#26377;&#19968;&#20010;&#25163;&#35821
+;&#30340;&#25171;&#27861;&#22240;&#20026;&#23427;&#20204;&#30340;&#21457;&#3
+8899;&#21548;&#36215;&#26469;&#19968;&#26679;&#12290;&#36824;&#26377;&#35789
+;&#30340;&#38899;&#21548;&#36215;&#26469;&#20687;&#25340;&#38899;&#23383;&#2
+7597;&#19968;&#26679;&#65292;&#25152;&#20197;&#26377;&#30340;&#26102;&#20505;
+&#36825;&#26679;&#30340;&#35789;&#30340;&#25171;&#27861;&#23601;&#26159;&#36
+319;&#25163;&#25351;&#23383;&#27597;&#30340;&#25171;&#27861;&#19968;&#26679;
+&#12290;&#20363;&#22914;:
+&#20146;&#25114;&#30340;&#25114;&#29992;&#30340;&#38899;&#23601;&#20511;&#82
+20;&#19971;&#8221;&#30340;&#25163;&#21183;&#21160;&#20316;&#34920;&#31034;&#
+12290;&#8220;&#30340;&#8221;&#30340;&#25171;&#27861;&#36319;&#25163;&#25351;
+&#23383;&#27597;&#30340;&#8220;d&#8221;&#30340;&#25171;&#27861;&#19968;&#266
+79;&#65292;&#32780;&#27531;&#30142;&#20154;&#30340;&#30142;&#30340;&#25171;&
+#27861;&#36319;&#25163;&#25351;&#23383;&#27597;&#30340;&#8220;j&#8221;&#1996
+8;&#26679;&#12290;</div></td></tr>
+<tr><td><div
+class="CategorySubHead">&#20223;&#23383;&#24418;</div></td></tr>
+<tr><td><div class="SubClarification">&#30475;
+&#36215;&#26469;&#20687;&#27721;&#23383;&#19968;&#26679;&#30340;&#25163;&#21
+183;&#12290;&#36825;&#26679;&#30340;&#25163;&#21183;&#21160;&#20316;&#29992;
+&#21452;&#25163;&#25720;&#25311;&#27721;&#23383;&#23383;&#24418;&#25110;&#32
+773;&#20070;&#31354;&#12290;&#20363;&#22914;&#65306;&#8220;&#20154;&#8221;&#
+30340;&#25171;&#27861;&#26159;&#29992;&#21452;&#25163;&#30340;&#39135;&#2535
+
+40
+1;&#25645;&#25104;&#8220;&#20154;&#8221;&#23383;&#24418;&#65292;&#32780;&#82
+20;&#24037;&#8221;&#30340;&#25171;&#27861;&#26159;&#24038;&#25163;&#27178;&#
+20280;&#39135;&#25351;&#21644;&#20013;
+&#25351;&#65292;&#21491;&#25163;&#20280;&#20986;&#39135;&#25351;&#65292;&#28
+982;&#21518;&#22312;&#24038;&#25163;&#20004;&#25351;&#25645;&#25104;&#8220;&
+#24037;&#8221;&#23383;&#24418;&#12290;&#8220;&#20214;&#8221;&#20063;&#26159;
+&#20223;&#23383;&#24418;&#65292;&#23427;&#30340;&#25171;&#27861;&#26159;&#29
+992;&#24038;&#25163;&#30340;&#25287;&#25351;&#21644;&#39135;&#25351;&#25104;
+&#21333;&#31435;&#20154;&#24418;&#65292;&#21516;&#26102;&#29992;&#21491;&#25
+163;&#30340;&#39135;&#25351;&#22312;&#24038;&#25163;&#30340;&#26049;&#36793;
+&#20070;&#31354;&#8220;&#29275;&#8221;
+&#23383;&#65292;&#20223;&#8220;&#20214;&#8221;&#23383;&#24418;&#12290;</div>
+</td></tr>
+</table>
+<br/>
+<table>
+<tr><td>&#21160;&#23486;&#19981;&#20998;</td></tr>
+<tr><td><div
+class="Clarification">&#21517;&#35789;&#19982;&#30456;&#24212;&#30340;&#2116
+0;&#35789;&#30340;&#32452;&#25104;&#30340;&#21160;&#23486;&#35789;&#32452;&#
+29992;&#21516;&#19968;&#20010;&#25163;&#21183;&#34920;&#31034;&#12290;&#2036
+3;&#22914;&#65306;&#8220;&#24377;&#38050;&#29748;&#8221;
+&#12289;&#8220;&#21561;&#31515;&#23376;&#8221;&#12289;&#8220;&#25171;&#31726
+;&#29699;&#8221;&#12289;&#8220;&#36386;&#36275;&#29699;&#8221;&#12289;&#8220
+;&#21809;&#27468;&#8221;&#12290;</div></td></tr>
+</table>
+</div>
+</body>
+</html>
+
+41
+
+Appendix II: DictionaryExplanationEnglish.html
+http://asclab.org/semweb/Fall2011/sw6617/sproj/DictionaryExplanationEnglish.html
+
+<!DOCTYPE html SYSTEM "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>Dictionary Explanation English</title></head>
+<style type="text/css">
+<!-.ToggleButton { margin: 10px; color: #4A4A4A; font-size: 25px;
+font-weight: bold; text-decoration: none; }
+.ButtonPosition { text-align: right; }
+.CategoryHead { border:3px solid; border-color: #D6D6D6; marginleft: 10px; padding: 10px; background-color: #FFFFFF; color: #4A4A4A; fontsize: 25px; font-weight: bold; text-align:center;}
+.CategorySubHead { margin-left: 10px; color: #4A4A4A; font-size:
+20px; font-weight: bold; text-align:left; }
+.Clarification { margin-left: 10px; color: #4A4A4A; font-size:
+15px; font-weight: normal; text-align:left; }
+.SubClarification { margin-left: 25px; margin-bottom: 5px; color:
+#4A4A4A; font-size: 15px; font-weight: normal; text-align:left; }
+-->
+</style>
+<body>
+<div class="CategoryHead" id="NonmanualMarkers">
+<div class="ButtonPosition"><a
+href="http://asclab.org/semweb/Fall2011/sw6617/sproj/DictionaryExplanationCh
+inese.html" class="ToggleButton">&#20013;&#25991;</a></div>
+<br/>
+<table>
+<tr><td>Place of Sign Language Use</td></tr>
+<tr><td><div class="Clarification">Users are asked to list
+anywhere that they have lived or studied that might have an impact on their
+signing starting with the places that have had the most influence. Because
+signing can have regional variety such as vocabulary and accent, it is
+important to know the background of a user uploading a sign in order to
+track how CSL differs according to location.</div></td></tr>
+</table>
+<br/>
+<table>
+<tr><td>Dominant Hand</td></tr>
+<tr><td><div class="Clarification">Just as people can be
+right-handed or left-handed when writing and performing other actions, there
+are also right-handed and left-handed signers. Right-handed signers are
+more common, and so the vast majority of sign language reference materials
+show examples with the right hand as dominant. Signers whose left hand is
+dominant will form signs that are opposite and appear to be a reflection of
+the standard examples in reference materials. Whereas signing with the left
+hand as dominant is acceptable, it is considered unnatural for signers to
+switch their dominant hand. An exception to this occurs with one-handed
+signs, which are normally signed with the dominant hand, when a
+signer&#8217;s dominant hand is otherwise occupied.</div></td></tr>
+
+42
+</table>
+<br/>
+<table>
+<tr><td>Non-manual Markers</td></tr>
+<tr><td><div class="Clarification">Non-manual markers refer
+to any sort of movement other than that of the fingers, hands, and forearms
+that accompany the sign but do not modify it.</div></td></tr>
+</table>
+<br/>
+<table>
+<tr><td>Iconic Devices</td></tr>
+<tr><td><div class="CategorySubHead">Direct
+Presentation</div></td></tr>
+<tr><td><div class="SubClarification">Pointing to an object
+in order to name the object. Examples: &#8220;you,&#8221;
+&#8220;I/me,&#8221; &#8220;he/him,&#8221; &#8220;she/her,&#8221;
+&#8220;this,&#8221; &#8220;that,&#8221; &#8220;nose,&#8221;
+&#8220;eye&#8221;</div></td></tr>
+<tr><td><div class="CategorySubHead">Number
+Representation</div></td></tr>
+<tr><td><div class="SubClarification">Number of referents
+directly indicated by number of fingers. Examples: &#8220;# years,&#8221;
+&#8220;# days,&#8221; &#8220;# years old&#8221;</div></td></tr>
+<tr><td><div class="CategorySubHead">Shape
+Representation</div></td></tr>
+<tr><td><div class="SubClarification">Shape of referent
+depicted by hand and forearm shape. Examples: &#8220;airplane,&#8221;
+&#8220;umbrella&#8221;</div></td></tr>
+<tr><td><div class="CategorySubHead">Movement
+Representation</div></td></tr>
+<tr><td><div class="SubClarification">Movement of referent
+depicted by movement of fingers, hand, forearm, and/or body. Examples:
+&#8220;train,&#8221; &#8220;subway,&#8221; &#8220;airplane,&#8221;
+&#8220;wind,&#8221; &#8220;rain&#8221;</div></td></tr>
+<tr><td><div class="CategorySubHead">Size
+Representation</div></td></tr>
+<tr><td><div class="SubClarification">Size of referent
+represented by size of sign. Examples: &#8220;long,&#8221;
+&#8220;short.&#8221; The sign for &#8220;ticket/card&#8221; changes in size
+depending on the size of the object to which it refers</div></td></tr>
+<tr><td><div class="CategorySubHead">Part-for-whole
+Representation</div></td></tr>
+<tr><td><div class="SubClarification">Referent is
+represented as a whole by a characteristic part. Examples: The sign for
+&#8220;car&#8221; is represented by mimicking the action of driving a car
+using its steering wheel. The sign for &#8220;cat&#8221; is shown by using
+three fingers to mimic the shape of the cat’s whiskers</div></td></tr>
+<tr><td><div class="CategorySubHead">Metonymic/Metaphorical
+Representation</div></td></tr>
+<tr><td><div class="SubClarification">Abstract concepts are
+expressed by means of association. Examples: The sign for &#8220;thank
+you&#8221; using a thumb bending up and down to mimic a person bowing in
+thanks. The sign for &#8220;black&#8221; (h&#275;i) is represented by
+forming an &#8220;h&#8221; and moving it down the hair at the side of the
+temple because black is a common hair color in China</div></td></tr>
+
+43
+<tr><td><div class="CategorySubHead">Sound
+Representation</div></td></tr>
+<tr><td><div class="SubClarification">At least part of the
+sign is related to the pronunciation for the word it represents and usually
+involves the alphabet that corresponds to pinyin. In some cases, two words
+that have a similar pronunciation may be represented by the same sign.
+Examples: The hand shape for the sign for &#8220;&#25114;&#8221; (qi) in
+&#8220;&#20146;&#25114;&#8221; is the same as the hand shape for
+&#8220;seven&#8221; (q&#299;). &#8220;&#30340;&#8221; (de) is represented
+by the hand shape for &#8220;d&#8221; in the CSL alphabet</div></td></tr>
+<tr><td><div class="CategorySubHead">Chinese Character
+Representation</div></td></tr>
+<tr><td><div class="SubClarification">The shape of the sign
+imitates the shape of the character that it represents. Examples: The sign
+for &#8220;&#20154;&#8221; (person) uses two outstretched pointer fingers
+and the sign for &#8220;&#24037;&#8221; (work) uses the pointer and middle
+finger of the non-dominant hand with the pointer finger of the other hand to
+create the shapes of these characters. The sign for &#8220;&#20214;&#8221;
+involves holding the thumb and pointer finger of one hand in the shape of
+the character’s radical while using the pointer finger of the other hand to
+write the second part of the character (&#29275;) beside it</div></td></tr>
+</table>
+<br/>
+<table>
+<tr><td>Combined Verb and Object</td></tr>
+<tr><td><div class="Clarification">One sign in which the
+verb and corresponding object are not separated. Examples: &#8220;play
+piano,&#8221; &#8220;play (the) flute,&#8221; &#8220;play basketball,&#8221;
+&#8220;play football,&#8221; &#8220;sing (a) song&#8221; (Note that in these
+examples the verb &#8220;play&#8221; is represented by four different verbs
+in Chinese)</div></td></tr>
+</table>
+</div>
+</body>
+</html>
+
+45
+
+Appendix III: DictionaryEntryList.php
+http://asclab.org/semweb/Fall2011/sw6617/sproj/DictionaryEntryList.php
+
+<!DOCTYPE html SYSTEM "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>Dictionary Entry List</title></head>
+<style type="text/css">
+<!-.ListBox { border:3px solid; border-color: #D6D6D6; margin-left:
+10px; padding: 10px; background-color: #FFFFFF; color: #4A4A4A; font-size:
+25px; font-weight: bold; }
+.AddBox { background: #D6D6D6; padding: 5px; color: #4A4A4A;
+font-size: 20px; font-weight: bold; text-decoration: none; }
+.Descriptions { margin-left: 10px; color: #4A4A4A; font-size:
+15px; font-weight: normal; text-align:left; }
+.EntryLink { background: #D6D6D6; padding: 5px; color: #4A4A4A;
+font-size: 15px; font-weight: bold; text-decoration: none; }
+-->
+</style>
+<body>
+<div class="ListBox">
+<?php
+echo "<a
+href=\"http://asclab.org/semweb/Fall2011/sw6617/sproj/DictionaryEntryForm.ph
+p\" class=\"AddBox\">&#26032;&#22686;&#25163;&#21183; Add a Sign</a>\n";
+$db=mysqli_connect('localhost','mcgrail_CSL','zh0nggu0sh0uU','mcgrail_CSL');
+if ($db) {
+$query = "SELECT * FROM `CSL_signs`;";
+$response = mysqli_query($db,$query);
+if ($response) {
+$SignNum = mysqli_num_rows ($response);
+echo "<table><p>\n";
+for ($i = 0; $i < $SignNum; $i++) {
+$record = mysqli_fetch_assoc ($response);
+$Description = $record['Description'];
+$key = $record['key'];
+$query2 = "SELECT `CSL_words`.`word` FROM
+`CSL_words`, `CSL_word_sign` WHERE `CSL_word_sign`.`sign` = '$key' AND
+`CSL_word_sign`.`word` = `CSL_words`.`key`;";
+$response2 = mysqli_query($db,$query2);
+if ($response2) {
+echo "<tr><td>\n";
+$WordNum = mysqli_num_rows ($response2);
+for ($j = 0; $j < $WordNum; $j++) {
+$record2 = mysqli_fetch_assoc
+($response2);
+$Word = $record2['word'];
+echo "$Word";
+if ($j < $WordNum - 1) {
+echo ", ";
+
+46
+}
+}
+echo "</td></tr>\n";
+} else {
+echo "Bad word query.";
+}
+echo "<tr><td><div
+class=\"Descriptions\">$Description</div>\n";
+echo "<tr><td><a
+href=\"http://asclab.org/semweb/Fall2011/sw6617/sproj/ShowSign.php?key=$key\
+" class=\"EntryLink\">&#20869;&#23481; View Sign</a></td></tr>";
+echo "<tr><td><br/></td></tr>";
+}
+echo "</p></table>\n";
+echo "<script
+src=\"http://static.mandarinspot.com/static/mandarinspot.min.js\"
+charset=\"UTF-8\"></script><script>mandarinspot.annotate();</script>\n";
+} else {
+echo "Bad query.";
+}
+} else {
+echo "No database connection.";
+}
+?>
+</div>
+</body>
+</html>
+
+47
+
+Appendix IV: ShowSign.php
+http://asclab.org/semweb/Fall2011/sw6617/sproj/ShownSign.php
+
+<?php
+$key=$_REQUEST['key'];
+$db=mysqli_connect("localhost","mcgrail_CSL","zh0nggu0sh0uU","mcgrail_CSL");
+if ($db) {
+$query="SELECT * FROM `CSL_signs` WHERE `key` = '$key';";
+if ($query) {
+$records=mysqli_query($db,$query);
+$record=mysqli_fetch_assoc($records);
+$Username=$record['Username'];
+$PlaceOfSigning=$record['PlaceOfSigning'];
+$DominantHand=$record['DominantHand'];
+$Description=$record['Description'];
+$Torso=$record['Torso'];
+$Head=$record['Head'];
+$Face=$record['Face'];
+$DirectPresentation=$record['DirectPresentation'];
+$NumberRepresentation=$record['NumberRepresentation'];
+$ShapeRepresentation=$record['ShapeRepresentation'];
+$MovementRepresentation=$record['MovementRepresentation'];
+$SizeRepresentation=$record['SizeRepresentation'];
+$PartForWholeRepresentation=$record['PartForWholeRepresentation'];
+$MetaphoricalRepresentation
+=$record['MetaphoricalRepresentation'];
+$SoundRepresentation=$record['SoundRepresentation'];
+$ChineseCharacterRepresentation=$record['ChineseCharacterRepresentation'];
+$CombinedVerbAndObject=$record['CombinedVerbAndObject'];
+echo "<head><title>Show Sign</title></head>\n";
+echo "<style type=\"text/css\">
+<!-.Heading {margin: 10px; padding: 10px; color:
+black; font-size: 17px; font-weight: bold; text-align:left; }
+.BackLink { border:3px solid; border-color:
+#FFFFFF; background: #D6D6D6; margin: 10px; padding: 7px; color: #4A4A4A;
+font-size: 20px; font-weight: bold; text-decoration: none; }
+.ChineseWords { border:3px solid; border-color:
+#D6D6D6; margin: 10px; padding-top: 20px; background-color: #FFFFFF; color:
+#4A4A4A; font-size: 30px; font-weight: bold; text-align:center; }
+.ButtonLink { background: #D6D6D6; padding: 5px;
+color: #4A4A4A; font-size: 17px; font-weight: bold; text-decoration: none; }
+.Description { border:3px solid; border-color:
+#D6D6D6; margin: 10px; padding: 10px; background-color: #FFFFFF; color:
+#4A4A4A; font-size: 20px; text-align:center; }
+.Information { border:3px solid; border-color:
+#D6D6D6; margin: 10px; padding: 10px; background-color: #FFFFFF; color:
+#4A4A4A; }
+
+48
+.InformationHead {font-size: 23px; textalign:center; }
+.InformationList {font-size: 15px; }
+.TableList {font-weight: bold; color: #4A4A4A; }
+.TableInformation {font-weight: normal; color:
+#4A4A4A; }
+.VideoFile { margin: 10px; }
+.Button { text-align: center;}
+-->
+</style>\n";
+echo "<body>\n";
+echo "<p><a
+href=\"http://asclab.org/semweb/Fall2011/sw6617/sproj/DictionaryEntryList.ph
+p\" class=\"BackLink\">&#22238;&#35789;&#20856;&#30446;&#24405; Back to
+Dictionary Entry List</a></p>\n";
+echo "<div class=\"ChineseWords\">\n";
+$query2 = "SELECT `CSL_words`.`word`, `CSL_words`.`key` FROM
+`CSL_words`,`CSL_word_sign` WHERE `CSL_words`.`key` = `CSL_word_sign`.`word`
+AND `CSL_word_sign`.`sign` = '$key';";
+$response2 = mysqli_query ($db,$query2);
+if ($response2) {
+$WordNum = mysqli_num_rows ($response2);
+for ($i = 0; $i < $WordNum; $i++) {
+$record2 = mysqli_fetch_assoc ($response2);
+$ChineseWord = $record2['word'];
+$WordKey = $record2['key'];
+echo "$ChineseWord";
+if ($i < $WordNum -1) {
+echo ",\n";
+} else {
+echo "\n";
+}
+}
+echo "<br/><a href=\"WordEntry.php?key=$key\"
+class=\"ButtonLink\">&#28155;&#21152;&#32763;&#35793;</a>&nbsp;";
+if ($WordNum > 0) {
+echo "<a href=\"EditWordList.php?key=$key\"
+class=\"ButtonLink\">&#32534;&#36753;&#32763;&#35793;</a><br/>&nbsp;\n";
+} else {
+echo
+"<p>&#35831;&#36755;&#20837;&#25163;&#21183;&#30340;&#20013;&#25991;&#32763;
+&#35793;&#12290;</p>";
+}
+} else {
+echo "Bad word query.";
+}
+echo "</div>\n";
+echo "<div class=\"VideoFile\" >
+<video width=\"500\" height=\"400\" controls>
+<source src=\"Videos/$key.mp4\"
+type=\"video/mp4\"/>
+</video>
+</div>\n";
+if ($Description) {
+echo " <div class=\"Description\">$Description</div>\n";
+
+49
+}
+if ($Torso OR $Head OR $Face) {
+echo "<div class=\"Information\"
+id=\"NonmanualMarkers\">\n";
+echo "<div class=\"InformationHead\"
+id=\"NonmanualMarkers\">&#38750;&#25163;&#21183;&#21160;&#20316; Non-manual
+Markers</div>\n";
+echo "<div class=\InformationList\">\n";
+if ($Torso) {
+echo
+"<p>&#19978;&#21322;&#36523;&#65288;&#33136;&#37096;&#65292;&#33016;&#37096;
+&#65292;&#32937;&#33152;&#65289; Torso (waist, chest, and/or shoulders)</p>";
+}
+if ($Head) {
+echo "<p>&#22836; Head</p>";
+}
+if ($Face) {
+echo
+"<p>&#34920;&#24773;&#25110;&#33080;&#37096;&#21160;&#20316; Facial
+Expression and/or Facial Movement</p>";
+}
+echo "</div>\n";
+echo "</div>\n";
+}
+echo "<div class=\"Information\" id=\"IconicDevices\"> \n";
+echo "<div class=\"InformationHead\" id=\"Iconic
+Devices\">&#20855;&#35937;&#34920;&#31034; Iconic Devices</div>\n";
+echo "<div class=\InformationList\">\n";
+if ($DirectPresentation) {
+echo "<p>&#25351;&#20107;&#24335; Direct
+Presentation</p>";
+}
+if ($NumberRepresentation) {
+echo "<p>&#25968;&#23383;&#26631;&#31034; Number
+Representation</p>";
+}
+if ($ShapeRepresentation) {
+echo "<p>&#35937;&#24418;&#24335; Shape
+Representation</p>";
+}
+if ($MovementRepresentation) {
+echo "<p>&#31227;&#21160;&#26631;&#31034; Movement
+Representation</p>";
+}
+if ($SizeRepresentation) {
+echo "<p>&#23610;&#23544;&#26631;&#31034; Size
+Representation</p>";
+}
+if ($PartForWholeRepresentation) {
+echo
+"<p>&#20197;&#23616;&#37096;&#26631;&#31034;&#20840;&#37096; Part-for-Whole
+Representation</p>";
+}
+if ($MetaphoricalRepresentation) {
+echo "<p>&#20250;&#24847;&#24335; Metaphorical
+
+50
+Representation</p>";
+}
+if ($SoundRepresentation) {
+echo "<p>&#34920;&#38899;&#24335; Sound
+Representation</p>";
+}
+if ($ChineseCharacterRepresentation) {
+echo "<p>&#20223;&#23383;&#24418; Character
+Representation</p>";
+}
+if ($CombinedVerbAndObject) {
+echo "<p>&#21160;&#23486;&#19981;&#20998; Combined
+Verb and Object</p>";
+}
+echo "</div>\n";
+echo "</div>\n";
+echo "<div class=\"Information\" id=\"SignerInformation\"> \n";
+echo "<div class=\"InformationHead\"
+id=\"UserInformation\">&#36164;&#26009;&#26469;&#28304; Signer
+Information</div>\n";
+echo "<div class=\"InformationList\">\n";
+echo "<p><table>\n";
+echo "<tr><td><div
+class=\"TableList\">&#24080;&#21495;</div></td></tr>\n";
+echo "<tr><td><div
+class=\"TableList\">Username:</div></td></tr>\n";
+echo "<tr><td><div
+class=\"TableInformation\">$Username</div></td></tr>\n";
+echo "</table></p>\n";
+echo "<p><table>\n";
+echo "<tr><td><div
+class=\"TableList\">&#22312;&#20160;&#20040;&#22478;&#24066;&#20351;&#29992;
+&#25163;&#35821;</div></td></tr>\n";
+echo "<tr><td><div class=\"TableList\">Place(s) of
+Sign Language Use:</div></td></tr>\n";
+echo "<tr><td><div
+class=\"TableInformation\">$PlaceOfSigning</div></td></tr>\n";
+echo "</table></p>\n";
+echo "<p><table>\n";
+echo "<tr><td><div
+class=\"TableList\">&#20027;&#35201;&#25163;</div></td></tr>\n";
+echo "<tr><td><div class=\"TableList\">Dominant
+Hand:</div></td></tr>\n";
+echo "<tr><td><div
+class=\"TableInformation\">$DominantHand</div></td></tr>\n";
+echo "</table></p>\n";
+echo "</div>\n";
+echo "</div>\n";
+echo "<form action=\"EditSign.php\" method=\"get\">\n";
+echo "<input type=\"hidden\" name=\"key\"
+value=\"$key\"/>\n";
+echo "<div class=\"Button\"><input type=\"submit\"
+name=\"Edit\" value=\"&#32534;&#36753; Edit Sign\"></input></div>\n";
+echo "</form>\n";
+echo "<script
+
+51
+src=\"http://static.mandarinspot.com/static/mandarinspot.min.js\"
+charset=\"UTF-8\"></script><script>mandarinspot.annotate();</script>\n";
+} else {
+echo "Bad query.";
+}
+mysqli_close($db);
+} else {
+echo "No database connection.";
+}
+?>
+
+53
+
+Appendix V: EditSign.php
+http://asclab.org/semweb/Fall2011/sw6617/sproj/EditSign.php
+
+<?php
+$key=$_REQUEST['key'];
+$db=mysqli_connect("localhost","mcgrail_CSL","zh0nggu0sh0uU","mcgrail_CSL");
+if ($db) {
+$query="SELECT * FROM `CSL_signs` WHERE `key` = '$key';";
+$response=mysqli_query($db,$query);
+if ($response) {
+$record=mysqli_fetch_assoc($response);
+$Username = $record['Username'];
+$PlaceOfSigning = $record['PlaceOfSigning'];
+$DominantHand = $record['DominantHand'];
+$Description = $record['Description'];
+$Torso = $record['Torso'];
+$Head = $record['Head'];
+$Face = $record['Face'];
+$DirectPresentation = $record['DirectPresentation'];
+$NumberRepresentation = $record['NumberRepresentation'];
+$ShapeRepresentation = $record['ShapeRepresentation'];
+$MovementRepresentation = $record['MovementRepresentation'];
+$SizeRepresentation = $record['SizeRepresentation'];
+$PartForWholeRepresentation =
+$record['PartForWholeRepresentation'];
+$MetaphoricalRepresentation =
+$record['MetaphoricalRepresentation'];
+$SoundRepresentation = $record['SoundRepresentation'];
+$ChineseCharacterRepresentation =
+$record['ChineseCharacterRepresentation'];
+$CombinedVerbAndObject = $record['CombinedVerbAndObject'];
+if ($Torso) {
+$TorsoChecked = "checked";
+} else {
+$TorsoChecked = "";
+}
+if ($Head) {
+$HeadChecked = "checked";
+} else {
+$HeadChecked = "";
+}
+if ($Face) {
+$FaceChecked = "checked";
+} else {
+$FaceChecked = "";
+}
+if ($DirectPresentation) {
+$DirectPresentationChecked = "checked";
+} else {
+$DirectPresentationChecked = "";
+
+54
+}
+if ($NumberRepresentation) {
+$NumberRepresentationChecked = "checked";
+} else {
+$NumberRepresentationChecked = "";
+}
+if ($ShapeRepresentation) {
+$ShapeRepresentationChecked = "checked";
+} else {
+$ShapeRepresentationChecked = "";
+}
+if ($MovementRepresentation) {
+$MovementRepresentationChecked = "checked";
+} else {
+$MovementRepresentationChecked = "";
+}
+if ($SizeRepresentation) {
+$SizeRepresentationChecked = "checked";
+} else {
+$SizeRepresentationChecked = "";
+}
+if ($PartForWholeRepresentation) {
+$PartForWholeRepresentationChecked = "checked";
+} else {
+$PartForWholeRepresentationChecked = "";
+}
+if ($MetaphoricalRepresentation) {
+$MetaphoricalRepresentationChecked = "checked";
+} else {
+$MetaphoricalRepresentationChecked = "";
+}
+if ($SoundRepresentation) {
+$SoundRepresentationChecked = "checked";
+} else {
+$SoundRepresentationChecked = "";
+}
+if ($ChineseCharacterRepresentation) {
+$ChineseCharacterRepresentationChecked = "checked";
+} else {
+$ChineseCharacterRepresentationChecked = "";
+}
+if ($CombinedVerbAndObject) {
+$CombinedVerbAndObjectChecked = "checked";
+} else {
+$CombinedVerbAndObjectChecked = "";
+}
+echo "<head><title>Edit Sign</title></head>
+<style type=\"text/css\">
+<!-.ChineseWords { border:3px solid; border-color:
+#D6D6D6; margin: 10px; padding: 10px; background-color: #FFFFFF; color:
+#4A4A4A; font-size: 25px; font-weight: bold; text-align:center; }
+.TableList { margin: 10px; font-weight: bold; color:
+#4A4A4A; text-align:left; }
+.CategoryHead { border:3px solid; border-color:
+
+55
+#D6D6D6; margin: 10px; padding: 10px; background-color: #FFFFFF; color:
+#4A4A4A; font-size: 25px; text-align:center;}
+.InputBox { margin: 10px; }
+.Clarification { margin: 10px; color: #4A4A4A; fontsize: 12px; font-weight: normal; text-align:center; }
+.ButtonLabel { color: #4A4A4A; font-size: 15px;
+font-weight: normal; text-align: left; }
+.Submit { text-align: center;}
+-->
+</style>
+<body>
+<form action=\"UpdateSign.php\" method=\"get\">
+<input type=\"hidden\" name=\"key\"
+value=\"$key\"/>\n";
+echo "<div class=\"ChineseWords\">\n";
+$query2 = "SELECT `CSL_words`.`word`,
+`CSL_words`.`key` FROM `CSL_words`,`CSL_word_sign` WHERE `CSL_words`.`key` =
+`CSL_word_sign`.`word` AND `CSL_word_sign`.`sign` = '$key';";
+$response2 = mysqli_query ($db,$query2);
+if ($response2) {
+$WordNum = mysqli_num_rows ($response2);
+if ($WordNum == 0) {
+echo "Please add words.";
+}
+for ($i = 0; $i < $WordNum; $i++) {
+$record2 = mysqli_fetch_assoc
+($response2);
+$ChineseWord = $record2['word'];
+$WordKey = $record2['key'];
+echo "$ChineseWord";
+if ($i < $WordNum -1) {
+echo ",\n";
+} else {
+echo "\n";
+}
+}
+} else {
+echo "Bad word query.";
+}
+echo "</div>\n";
+echo "<div class=\"CategoryHead\"
+id=\"SignerInformation\">&#36164;&#26009;&#26469;&#28304;
+<table>
+<tr><td><div
+class=\"TableList\">&#24080;&#21495;</div></td><td><div
+class=\"InputBox\"><input type=\"text\" name=\"Username\"
+value=\"$Username\" required
+title=\"&#35831;&#22635;&#20889;&#24080;&#25143;\"></input></div></td></tr>
+<tr><td><div
+class=\"TableList\">&#22312;&#20160;&#20040;&#22478;&#24066;</br>&#20351;&#2
+9992;&#25163;&#35821;</div></td><td><div class=\"InputBox\"><input
+type=\"text\" name=\"PlaceOfSigning\" value=\"$PlaceOfSigning\" required
+title=\"&#35831;&#22635;&#20889;&#22312;&#20160;&#20040;&#22478;&#24066;&#20
+351;&#29992;&#25163;&#35821;\"></input></div></td></tr>
+<tr><td><div
+
+56
+class=\"TableList\">&#20027;&#35201;&#25163;</div></td><td><div
+class=\"InputBox\"><input type=\"text\" name=\"DominantHand\"
+value=\"$DominantHand\" required
+title=\"&#35831;&#22635;&#20889;&#20027;&#35201;&#25163;\"></input></div></t
+d></tr>
+</table>
+</div>
+<div class=\"CategoryHead\"
+id=\"Description\">&#25551;&#36848;</div>
+<div class=\"InputBox\"><TEXTAREA
+name=\"Description\" required>$Description</TEXTAREA></div>
+<div class=\"CategoryHead\"
+id=\"NonmanualMarkers\">&#38750;&#25163;&#21183;&#21160;&#20316;<br/>
+<div
+class=\"Clarification\">&#35831;&#36873;&#25152;&#26377;&#31526;&#21512;&#30
+340;&#36873;&#39033;</div>
+<table>
+<tr><th><div
+class=\"ButtonLabel\"><input type=\"checkbox\" name=\"Torso\"
+value=\"$Torso\"
+$TorsoChecked></input>&#19978;&#21322;&#36523;&#65288;&#33136;&#37096;&#6529
+2;&#33016;&#37096;&#65292;&#32937;&#33152;&#65289;</div></th></tr>
+<tr><th><div
+class=\"ButtonLabel\"><input type=\"checkbox\" name=\"Head\" value=\"$Head\"
+$HeadChecked></input>&#22836;</div></th></tr>
+<tr><th><div
+class=\"ButtonLabel\"><input type=\"checkbox\" name=\"Face\" value=\"$Face\"
+$FaceChecked></input>&#34920;&#24773;&#25110;&#33080;&#37096;&#21160;&#20316
+;</div></th></tr>
+</table>
+</div>
+<div class=\"CategoryHead\"
+id=\"IconicDevices\">&#20855;&#35937;&#34920;&#31034;<br/>
+<div
+class=\"Clarification\">&#35831;&#36873;&#25152;&#26377;&#31526;&#21512;&#30
+340;&#36873;&#39033;</div>
+<table>
+<tr><th><div
+class=\"ButtonLabel\"><input type=\"checkbox\" name=\"DirectPresentation\"
+value=\"$DirectPresenation\"
+$DirectPresentationChecked></input>&#25351;&#20107;&#24335;</div></th></tr>
+<tr><th><div
+class=\"ButtonLabel\"><input type=\"checkbox\" name=\"NumberRepresentation\"
+value=\"$NumberRepresentation\"
+$NumberRepresentationChecked></input>&#25968;&#23383;&#26631;&#31034;</div><
+/th></tr>
+<tr><th><div
+class=\"ButtonLabel\"><input type=\"checkbox\" name=\"ShapeRepresentation\"
+value=\"$ShapeRepresentation\"
+$ShapeRepresentationChecked></input>&#35937;&#24418;&#24335;</div></th></tr>
+<tr><th><div
+class=\"ButtonLabel\"><input type=\"checkbox\"
+name=\"MovementRepresentation\" value=\"$MovementRepresentation\"
+$MovementRepresentationChecked></input>&#31227;&#21160;&#26631;&#31034;</div
+></th></tr>
+
+57
+<tr><th><div
+class=\"ButtonLabel\"><input type=\"checkbox\" name=\"SizeRepresentation\"
+value=\"$SizeRepresentation\"
+$SizeRepresentationChecked></input>&#23610;&#23544;&#26631;&#31034;</div></t
+h></tr>
+<tr><th><div
+class=\"ButtonLabel\"><input type=\"checkbox\"
+name=\"PartForWholeRepresentation\" value=\"$PartForWholeRepresentation\"
+$PartForWholeRepresentationChecked></input>&#20197;&#23616;&#37096;&#26631;&
+#31034;&#20840;&#37096;</div></th></tr>
+<tr><th><div
+class=\"ButtonLabel\"><input type=\"checkbox\"
+name=\"MetaphoricalRepresentation\" value=\"$MetaphoricalRepresentation\"
+$MetaphoricalRepresentationChecked></input>&#20250;&#24847;&#24335;</div></t
+h></tr>
+<tr><th><div
+class=\"ButtonLabel\"><input type=\"checkbox\" name=\"SoundRepresentation\"
+value=\"$SoundRepresentation\"
+$SoundRepresentationChecked></input>&#34920;&#38899;&#24335;</div></th></tr>
+<tr><th><div
+class=\"ButtonLabel\"><input type=\"checkbox\"
+name=\"ChineseCharacterRepresentation\"
+value=\"$ChineseCharacterRepresentation\"
+$ChineseCharacterRepresentationChecked></input>&#20223;&#23383;&#24418;</div
+></th></tr>
+<tr><th><div
+class=\"ButtonLabel\"><input type=\"checkbox\"
+name=\"CombinedVerbAndObject\" value=\"$CombinedVerbAndObject\"
+$CombinedVerbAndObjectChecked></input>&#21160;&#23486;&#19981;&#20998;</div>
+</th></tr>
+</table>
+</div>
+<p><div class=\"Submit\"><input
+type=\"submit\" name=\"Submit\" value=\"&#36882;&#20132;\"></input></div></p>
+</form>
+</body>\n";
+} else {
+echo "Bad query.";
+}
+} else {
+echo "No database connection.";
+}
+?>
+
+59
+
+Appendix VI: UpdateSign.php
+http://asclab.org/semweb/Fall2011/sw6617/sproj/UpdateSign.php
+
+<?php
+$key = $_REQUEST['key'];
+$Username = $_REQUEST['Username'];
+$PlaceOfSigning = $_REQUEST['PlaceOfSigning'];
+$DominantHand = $_REQUEST['DominantHand'];
+$Description = $_REQUEST['Description'];
+$Torso = array_key_exists('Torso',$_REQUEST)?1:0;
+$Head = array_key_exists('Head',$_REQUEST)?1:0;
+$Face = array_key_exists('Face',$_REQUEST)?1:0;
+$DirectPresentation =
+array_key_exists('DirectPresentation',$_REQUEST)?1:0;
+$NumberRepresentation =
+array_key_exists('NumberRepresentation',$_REQUEST)?1:0;
+$ShapeRepresentation =
+array_key_exists('ShapeRepresentation',$_REQUEST)?1:0;
+$MovementRepresentation =
+array_key_exists('MovementRepresentation',$_REQUEST)?1:0;
+$SizeRepresentation =
+array_key_exists('SizeRepresentation',$_REQUEST)?1:0;
+$PartForWholeRepresentation =
+array_key_exists('PartForWholeRepresentation',$_REQUEST)?1:0;
+$MetaphoricalRepresentation =
+array_key_exists('MetaphoricalRepresentation',$_REQUEST)?1:0;
+$SoundRepresentation =
+array_key_exists('SoundRepresentation',$_REQUEST)?1:0;
+$ChineseCharacterRepresentation =
+array_key_exists('ChineseCharacterRepresentation',$_REQUEST)?1:0;
+$CombinedVerbAndObject =
+array_key_exists('CombinedVerbAndObject',$_REQUEST)?1:0;
+$db=mysqli_connect('localhost','mcgrail_CSL','zh0nggu0sh0uU','mcgrail_CSL');
+if ($db){
+$query="UPDATE CSL_signs SET `Username`='$Username',
+`PlaceOfSigning`='$PlaceOfSigning',
+`DominantHand`='$DominantHand',
+`Description`='$Description',
+`Torso`='$Torso',
+`Head`='$Head',
+`Face`='$Face',
+`DirectPresentation`='$DirectPresentation',
+`NumberRepresentation`='$NumberRepresentation',
+`ShapeRepresentation`='$ShapeRepresentation',
+`MovementRepresentation`='$MovementRepresentation',
+
+60
+`SizeRepresentation`='$SizeRepresentation',
+`PartForWholeRepresentation`='$PartForWholeRepresentation',
+`MetaphoricalRepresentation`='$MetaphoricalRepresentation',
+`SoundRepresentation`='$SoundRepresentation',
+`ChineseCharacterRepresentation`='$ChineseCharacterRepresentation',
+`CombinedVerbAndObject`='$CombinedVerbAndObject'
+WHERE `key`='$key'";
+$response = mysqli_query($db,$query);
+if ($response) {
+header ("Location:
+http://asclab.org/semweb/Fall2011/sw6617/sproj/ShowSign.php?key=$key");
+} else {
+echo "Bad query.";
+}
+} else {
+echo "NO CONNECTION!";
+}
+mysqli_close($db);
+?>
+
+61
+
+Appendix VII: WordEntry.php
+http://asclab.org/semweb/Fall2011/sw6617/sproj/WordEntry.php
+
+<?php
+echo "<head><title>Word Entry</title></head>\n";
+echo "<style type=\"text/css\">
+<!-.CategoryHead { border:3px solid; border-color: #D6D6D6;
+margin: 10px; padding: 10px; background-color: #FFFFFF; color: #4A4A4A;
+font-size: 25px; text-align:center;}
+.InputBox { margin: 10px; }
+.Submit { text-align: center;}
+-->
+</style>\n";
+echo "<body>\n";
+echo "<form action=\"AddWord.php\" method=\"get\">\n";
+echo "<input type=\"hidden\" name=\"key\" value=\"$key\"/>\n";
+echo "<div class=\"CategoryHead\"
+id=\"ChineseWord\">&#20013;&#25991;&#32763;&#35793;</div>\n";
+echo "<div class=\"InputBox\"><input type=\"text\"
+name=\"ChineseWord\"
+placeholder=\"&#25163;&#21183;&#30340;&#27721;&#35821;&#32763;&#35793;\"
+title=\"&#35831;&#21153;&#24517;&#22635;&#20889;&#20197;&#19979;&#39033;&#30
+446;\"></input></div>\n";
+echo "<p><div class=\"Submit\"><input type=\"submit\"
+name=\"Submit\" value=\"&#36882;&#20132;\"></input></div></p>\n";
+echo "</form>\n";
+echo "</body>\n";
+?>
+
+63
+
+Appendix VIII: AddWord.php
+http://asclab.org/semweb/Fall2011/sw6617/sproj/AddWord.php
+
+<?php
+$SignKey = $_REQUEST['key'];
+$ChineseWord = $_REQUEST['ChineseWord'];
+$db=mysqli_connect('localhost','mcgrail_CSL','zh0nggu0sh0uU','mcgrail_CSL');
+if ($db){
+$query="INSERT INTO CSL_words (`key`,`word`)
+VALUES(NULL,'$ChineseWord');";
+$response = mysqli_query($db,$query);
+if ($response) {
+$query1="SELECT MAX(`key`) AS `key` FROM `CSL_words`;";
+$response1 = mysqli_query ($db, $query1);
+if ($response1) {
+$record = mysqli_fetch_assoc ($response1);
+$key = $record['key'];
+$query2 = "INSERT INTO `CSL_word_sign` (`sign`,
+`word`)
+VALUES ('$SignKey','$key');";
+$response2 = mysqli_query ($db,$query2);
+if ($response2) {
+header ("Location:
+http://asclab.org/semweb/Fall2011/sw6617/sproj/ShowSign.php?key=$SignKey");
+} else {
+echo "$query2";
+}
+} else {
+echo "Record not found!!!";
+}
+} else {
+echo "Record not added!!!";
+}
+} else {
+echo "NO CONNECTION!";
+}
+mysqli_close($db);
+?>
+
+65
+
+Appendix IX: EditWordList.php
+http://asclab.org/semweb/Fall2011/sw6617/sproj/EditWordList.php
+
+<?php
+$db=mysqli_connect('localhost','mcgrail_CSL','zh0nggu0sh0uU','mcgrail_CSL');
+if ($db){
+echo "<head><title>Edit Word List</title></head>
+<style type=\"text/css\">
+<!-.ChineseWords { border:3px solid; border-color: #D6D6D6;
+background-color: #FFFFFF; }
+.TableWords { margin-left: 10px; margin-right: 10px; margintop: 5px; margin-bottom: 5px; color: #4A4A4A; font-size: 30px; font-weight:
+bold; text-align:center; }
+.ButtonLink { background: #D6D6D6; padding: 5px; color:
+#4A4A4A; font-size: 15px; font-weight: bold; text-decoration: none; }
+.BackLink { border:2px solid; border-color: #4A4A4A;
+background: #D6D6D6; margin: 10px; padding: 7px; color: #4A4A4A; font-size:
+20px; font-weight: bold; text-decoration: none; }
+-->
+</style>\n";
+echo "<body>
+<form action=\"UpdateSign.php\" method=\"get\">
+<input type=\"hidden\" name=\"key\" value=\"$key\"/>\n";
+echo "<div class=\"ChineseWords\">\n";
+$query2 = "SELECT `CSL_words`.`word`, `CSL_words`.`key`
+FROM `CSL_words`,`CSL_word_sign` WHERE `CSL_words`.`key` =
+`CSL_word_sign`.`word` AND `CSL_word_sign`.`sign` = '$key';";
+$response2 = mysqli_query ($db,$query2);
+if ($response2) {
+$WordNum = mysqli_num_rows ($response2);
+for ($i = 0; $i < $WordNum; $i++) {
+$record2 = mysqli_fetch_assoc ($response2);
+$ChineseWord = $record2['word'];
+$WordKey = $record2['key'];
+echo "<table>
+<tr><td><div
+class=\"TableWords\">$ChineseWord</div></td>
+<td><a
+href=\"DeleteWord.php?key=$key&WordKey=$WordKey\"
+class=\"ButtonLink\">&#21066;&#38500;</a></td>
+</tr>
+</table>\n";
+}
+echo "<p><a
+href=\"ShowSign.php?key=$key&WordKey=$WordKey\"
+class=\"BackLink\">&#22238;&#35789;&#20856;&#26465;&#30446;</a></p>\n";
+} else {
+echo "Bad word query.";
+}
+
+66
+echo "</div>\n";
+echo "</body>\n";
+} else {
+echo "No database connection.";
+}
+?>
+
+67
+
+Appendix X: DeleteWord.php
+http://asclab.org/semweb/Fall2011/sw6617/sproj/DeleteWord.php
+
+<?php
+$key = $_REQUEST['key'];
+$WordKey = $_REQUEST['WordKey'];
+$db=mysqli_connect('localhost','mcgrail_CSL','zh0nggu0sh0uU','mcgrail_CSL');
+if ($db){
+$query1 = "DELETE FROM `CSL_words` WHERE `key` = '$WordKey';";
+$response1 = mysqli_query($db,$query1);
+if ($response1) {
+$query2 = "DELETE FROM `CSL_word_sign` WHERE `sign` = '$key' AND
+`word` = '$WordKey';";
+$response2 = mysqli_query($db,$query2);
+if ($response2) {
+header ("Location:
+http://asclab.org/semweb/Fall2011/sw6617/sproj/EditWordList.php?key=$key");
+} else {
+echo "Cannot separate word from sign.";
+}
+} else {
+echo "Cannot delete word.";
+}
+} else {
+echo "No batabase connection.";
+}
+?>
+
+69
+
+Appendix XI: DictionaryEntryForm.php
+http://asclab.org/semweb/Fall2011/sw6617/sproj/DictionaryEntryForm.php
+
+<?php
+echo "<head><title>Dictionary Entry Form</title></head>
+<style type=\"text/css\">
+<!-.TableList { margin: 10px; font-weight: bold; color: #4A4A4A;
+text-align:left; }
+.CategoryHead { border:3px solid; border-color: #D6D6D6;
+margin: 10px; padding: 10px; background-color: #FFFFFF; color: #4A4A4A;
+font-size: 25px; text-align:center;}
+.InputBox { margin: 10px; }
+.Clarification { margin: 10px; color: #4A4A4A; font-size:
+12px; font-weight: normal; text-align:center; }
+.ButtonLabel { color: #4A4A4A; font-size: 15px; font-weight:
+normal; text-align: left; }
+.Submit { text-align: center;}
+-->
+</style>
+<body>
+<form action=\"AddSign.php\" method=\"get\">
+<div class=\"CategoryHead\"
+id=\"SignerInformation\">&#36164;&#26009;&#26469;&#28304;
+<table>
+<tr><td><div
+class=\"TableList\">&#24080;&#21495;</div></td><td><div
+class=\"InputBox\"><input type=\"text\" name=\"Username\"
+placeholder=\"&#35831;&#22635;&#20889;&#24080;&#21495;\"></input></div></td>
+</tr>
+<tr><td><div
+class=\"TableList\">&#22312;&#20160;&#20040;&#22478;&#24066;</br>&#20351;&#2
+9992;&#25163;&#35821;</div></td><td><div class=\"InputBox\"><input
+type=\"text\" name=\"PlaceOfSigning\"
+placeholder=\"&#35831;&#22635;&#20889;&#25152;&#26377;&#30340;&#31526;&#2151
+2;&#39033;&#30446;\" required
+title=\"&#35831;&#22635;&#20889;&#22312;&#20160;&#20040;&#22478;&#24066;&#20
+351;&#29992;&#25163;&#35821;\"></input></div></td></tr>
+<tr><td><div
+class=\"TableList\">&#20027;&#35201;&#25163;</div></td><td><div
+class=\"InputBox\"><input type=\"text\" name=\"DominantHand\"
+placeholder=\"&#21491;&#25163;&#25110;&#32773;&#24038;&#25163;\" required
+title=\"&#35831;&#22635;&#20889;&#20027;&#35201;&#25163;\"></input></div></t
+d></tr>
+</table></div>
+<div class=\"CategoryHead\"
+id=\"Description\">&#25551;&#36848;</div>
+<div class=\"InputBox\"><TEXTAREA name=\"Description\"
+placeholder=\"&#20171;&#32461;&#19968;&#19979;&#25163;&#21183;&#30340;&#2517
+1;&#27861;\"required></TEXTAREA></div>
+<div class=\"CategoryHead\"
+
+70
+id=\"NonmanualMarkers\">&#38750;&#25163;&#21183;&#21160;&#20316;<br/>
+<div
+class=\"Clarification\">&#35831;&#36873;&#25152;&#26377;&#31526;&#21512;&#30
+340;&#36873;&#39033;</div>
+<table>
+<tr>
+<th><div class=\"ButtonLabel\"><input
+type=\"checkbox\" name=\"Torso\"
+value=\"1\"></input>&#19978;&#21322;&#36523;&#65288;&#33136;&#37096;&#65292;
+&#33016;&#37096;&#65292;&#32937;&#33152;&#65289;</div></th>
+</tr>
+<tr>
+<th><div class=\"ButtonLabel\"><input
+type=\"checkbox\" name=\"Head\" value=\"2\"></input>&#22836;</div></th>
+</tr>
+<tr>
+<th><div class=\"ButtonLabel\"><input
+type=\"checkbox\" name=\"Face\"
+value=\"3\"></input>&#34920;&#24773;&#25110;&#33080;&#37096;&#21160;&#20316;
+</div></th>
+</tr>
+</table></div>
+<div class=\"CategoryHead\"
+id=\"IconicDevices\">&#20855;&#35937;&#34920;&#31034;<br/>
+<div
+class=\"Clarification\">&#35831;&#36873;&#25152;&#26377;&#31526;&#21512;&#30
+340;&#36873;&#39033;</div>
+<table>
+<tr>
+<th><div class=\"ButtonLabel\"><input
+type=\"checkbox\" name=\"DirectPresentation\"
+value=\"1\"></input>&#25351;&#20107;&#24335;</div></th>
+</tr>
+<tr>
+<th><div class=\"ButtonLabel\"><input
+type=\"checkbox\" name=\"NumberRepresentation\"
+value=\"2\"></input>&#25968;&#23383;&#26631;&#31034;</div></th>
+</tr>
+<tr>
+<th><div class=\"ButtonLabel\"><input
+type=\"checkbox\" name=\"ShapeRepresentation\"
+value=\"3\"></input>&#35937;&#24418;&#24335;</div></th>
+</tr>
+<tr>
+<th><div class=\"ButtonLabel\"><input
+type=\"checkbox\" name=\"MovementRepresentation\"
+value=\"4\"></input>&#31227;&#21160;&#26631;&#31034;</div></th>
+</tr>
+<tr>
+<th><div class=\"ButtonLabel\"><input
+type=\"checkbox\" name=\"SizeRepresentation\"
+value=\"5\"></input>&#23610;&#23544;&#26631;&#31034;</div></th>
+</tr>
+<tr>
+<th><div class=\"ButtonLabel\"><input
+
+71
+type=\"checkbox\" name=\"PartForWholeRepresentation\"
+value=\"6\"></input>&#20197;&#23616;&#37096;&#26631;&#31034;&#20840;&#37096;
+</div></th>
+</tr>
+<tr>
+<th><div class=\"ButtonLabel\"><input
+type=\"checkbox\" name=\"MetaphoricalRepresentation\"
+value=\"7\"></input>&#20250;&#24847;&#24335;</div></th>
+</tr>
+<tr>
+<th><div class=\"ButtonLabel\"><input
+type=\"checkbox\" name=\"SoundRepresentation\"
+value=\"8\"></input>&#34920;&#38899;&#24335;</div></th>
+</tr>
+<tr>
+<th><div class=\"ButtonLabel\"><input
+type=\"checkbox\" name=\"ChineseCharacterRepresentation\"
+value=\"9\"></input>&#20223;&#23383;&#24418;</div></th>
+</tr>
+<tr>
+<th><div class=\"ButtonLabel\"><input
+type=\"checkbox\" name=\"CombinedVerbAndObject\"
+value=\"10\"></input>&#21160;&#23486;&#19981;&#20998;</div></th>
+</tr>
+</table></div>
+<p><div class=\"Submit\"><input type=\"submit\"
+name=\"Submit\" value=\"&#36882;&#20132;\"></input></div></p>
+</form>
+</body>\n";
+?>
+
+73
+
+Appendix XII: AddSign.php
+http://asclab.org/semweb/Fall2011/sw6617/sproj/AddSign.php
+
+<?php
+$Username = $_REQUEST['Username'];
+$PlaceOfSigning = $_REQUEST['PlaceOfSigning'];
+$DominantHand = $_REQUEST['DominantHand'];
+$Description = $_REQUEST['Description'];
+$Torso = array_key_exists('Torso',$_REQUEST)?1:0;
+$Head = array_key_exists('Head',$_REQUEST)?1:0;
+$Face = array_key_exists('Face',$_REQUEST)?1:0;
+$DirectPresentation =
+array_key_exists('DirectPresentation',$_REQUEST)?1:0;
+$NumberRepresentation =
+array_key_exists('NumberRepresentation',$_REQUEST)?1:0;
+$ShapeRepresentation =
+array_key_exists('ShapeRepresentation',$_REQUEST)?1:0;
+$MovementRepresentation =
+array_key_exists('MovementRepresentation',$_REQUEST)?1:0;
+$SizeRepresentation =
+array_key_exists('SizeRepresentation',$_REQUEST)?1:0;
+$PartForWholeRepresentation =
+array_key_exists('PartForWholeRepresentation',$_REQUEST)?1:0;
+$MetaphoricalRepresentation =
+array_key_exists('MetaphoricalRepresentation',$_REQUEST)?1:0;
+$SoundRepresentation =
+array_key_exists('SoundRepresentation',$_REQUEST)?1:0;
+$ChineseCharacterRepresentation =
+array_key_exists('ChineseCharacterRepresentation',$_REQUEST)?1:0;
+$CombinedVerbAndObject =
+array_key_exists('CombinedVerbAndObject',$_REQUEST)?1:0;
+$db=mysqli_connect('localhost','mcgrail_CSL','zh0nggu0sh0uU','mcgrail_CSL');
+if ($db){
+$query="INSERT INTO CSL_signs
+(`key`,`Username`,`PlaceOfSigning`,`DominantHand`,`Description`,`Torso`,`Hea
+d`,`Face`,`DirectPresentation`,`NumberRepresentation`,`ShapeRepresentation`,
+`MovementRepresentation`,`SizeRepresentation`,`PartForWholeRepresentation`,`
+MetaphoricalRepresentation`,`SoundRepresentation`,`ChineseCharacterRepresent
+ation`,`CombinedVerbAndObject`)
+VALUES(NULL,'$Username','$PlaceOfSigning','$DominantHand','$Description','$T
+orso','$Head','$Face','$DirectPresentation','$NumberRepresentation','$ShapeR
+epresentation','$MovementRepresentation','$SizeRepresentation','$PartForWhol
+eRepresentation','$MetaphoricalRepresentation','$SoundRepresentation','$Chin
+eseCharacterRepresentation','$CombinedVerbAndObject');";
+$response = mysqli_query($db,$query);
+if ($response) {
+$query1="SELECT MAX(`key`) AS `key` FROM `CSL_signs`;";
+$response1 = mysqli_query ($db, $query1);
+if ($response1) {
+
+74
+$record = mysqli_fetch_assoc ($response1);
+$key = $record['key'];
+header ("Location:
+http://asclab.org/semweb/Fall2011/sw6617/sproj/ShowSign.php?key=$key");
+} else {
+echo "Record not found!!!";
+}
+} else {
+echo "Record not added!!!";
+}
+} else {
+echo "NO CONNECTION!";
+}
+mysqli_close($db);
+?>
+
+

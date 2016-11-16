@@ -1,0 +1,582 @@
+Bard College
+
+Bard Digital Commons
+Senior Projects Spring 2013
+
+Bard Undergraduate Senior Projects
+
+2013
+
+The Origins of Fear: An Exploration of the Social
+and Biological Foundations of Phobias
+Rachel Isabella Finkelstein
+Bard College
+
+Recommended Citation
+Finkelstein, Rachel Isabella, "The Origins of Fear: An Exploration of the Social and Biological Foundations of Phobias" (2013). Senior
+Projects Spring 2013. Paper 407.
+http://digitalcommons.bard.edu/senproj_s2013/407
+
+This Access restricted to On-Campus only is brought to you for free and
+open access by the Bard Undergraduate Senior Projects at Bard Digital
+Commons. It has been accepted for inclusion in Senior Projects Spring
+2013 by an authorized administrator of Bard Digital Commons. For more
+information, please contact digitalcommons@bard.edu.
+
+The Origins of Fear: An Exploration of the Social and Biological Foundations of Phobias
+Rachel Finkelstein
+This work hopes to explore the perceptions of fears and phobias common in today’s
+world. The expectation is that each person will see the work through a separate lens – one viewer
+may see a piece as horrific and vile, while another finds the same object as utterly mundane.
+The poster works on the exterior wall of the room serves two main purposes: to further
+set up the space as an environment, and to act as works themselves, priming the viewer to
+question what generates anxiety in themselves and others. It is important that this work feels like
+an environment, and not merely sculptures in a room. To further elicit the sense of a cohesive
+space, these posters sought to mimic vintage circus advertisements, showcasing elegant athletic
+acts and freaks of nature alike. Several forms are repeated on cheap paper and the text is placed
+with paint instead of print, resembling how such advertisements would appear in an urban space
+and provoking a sense of vandalism. The pieces themselves utilize microphotography images,
+often of uncomfortable origins, to evoke a sense of the unknown. They compromise several
+pieces, ranging from the more unusual sights, such as a woman with four breasts, to the more
+common scenes of an ethnic minority or two ladies kissing. Both on opposite sides of the
+spectrum of abnormality, yet to many they are both treated with the same level of disgust.
+Once inside, the space plays on a plethora of fears and phobias drawn from research,
+first-hand accounts, and societal norms. Ideas such as fear of the dark, spiders, enclosed spaces,
+self-doubt, unsanitary conditions, being observed, heights, fetishism, areas of low socioeconomic
+status, the unknown, and imagined monsters are all throughout. Still, the work takes on an air of
+playfulness and parody, in a manner to simultaneously highlight and undermine the harsher
+underlying themes. Using softer materials such as fabric and toys, and employing an excess of
+
+colors and childish patterns throughout, any sensation of anxiety at the subjects is muted by the
+frivolity. No matter how any one individual views each fear, they are all brought to the same
+level of humor to emphasize that, to some, the themes can be viewed with implications dissimilar
+to your own.
+Which comes to the main question of the show: where do fears originate? Do we fear
+some things by an innate biological predisposition, by environmental cues and adverse events, or
+by societal expectations? As an example, a man with significant facial scarring could indicate the
+presence of disease, something we might innately avoid for safety, or it could be the aftereffects
+of a burn, something we might shy away from due to societal pressures. Even the simple nature
+of the colors black and white have opposite associations across cultures, and so both are used
+with frequency throughout the room – the only shades really present on the wall.
+Pushing this further, how do ordinary fears – a necessary component in human
+development and survival – become disordered phobias? Given our diverse backgrounds, one
+individual’s predispositions could compromise a perception that directly opposes that of another.
+Which frightens you more: a spider formed entirely out of toys, the demented mocking laughter
+from an abandoned old phone, or the discomfort of viewing a vibrant masturbating mannequin?
+Few of these answers are particularly straightforward, but I ask the participant to question how
+and why they react to each piece in this work the way they do.
+
+Running head: AUGMENTED REALITY IN TREATMENT OF SPECIFIC PHOBIA
+
+The Implications for Augmented Reality in Preventative Treatment of Specific Phobia
+Rachel Finkelstein
+Bard College
+
+1
+
+AUGMENTED REALITY IN TREATMENT OF SPECIFIC PHOBIA
+
+2
+
+Abstract
+Fear is one of the primary motivators, and a necessary phenomenon in human development.
+However, when these fears become inhibitory of normal functions and develop into specific
+phobia, the adverse results can lead to a plethora of psychological and behavioral problems.
+Preventing the development of anxiety and phobias at an early stage could avert more
+debilitating disorders and behaviors at a later stage. Effective treatments of specific phobias have
+already been developed, but as of yet there is insufficient information on the implementation of
+preventative measures and the effects this has on demographic factors. Here, a study of potential
+preventative treatment using an augmented reality system is proposed. The hope is that the
+coping mechanisms taught to children at a young age will be generalized to alternate fear and
+anxiety inducing stimuli.
+
+AUGMENTED REALITY IN TREATMENT OF SPECIFIC PHOBIA
+
+3
+
+The Implications for Augmented Reality in Preventative Treatment of Specific Phobia
+
+Overview
+Specific phobia is the anxiety disorder wherein the normal human reaction of fear
+develops into a debilitating disorder. Defined as a “marked and persistent fear that is cued by
+circumscribed or clearly discernible objects or situations,” (Armfield, 2006, p. 746) specific
+phobia is characterized by a reaction to a fear-centered object or situation that is disproportionate
+to the “intensity of the perceived threat.” (Meltzer et al., 2008, p. 781) How these phobias
+develop in one individual instead of another, especially when experiences are often similar, is
+still a relatively difficult topic of investigation. Influences such as culture, gender,
+socioeconomic status, and attention span all appear to factor into the onset of phobia, but the
+disorder itself “has received little empirical investigation.” (Armfield, 2006, p. 746)
+
+The onset of phobia during child development
+Links have been found between childhood fears, working memory, and attention control
+in children, all of which are “soft signs” for children at-risk of developing anxiety disorders
+(Kushnir & Sadeh, 2010). These reduced scores on Neurobehavioral Functioning has been
+repeatedly associated with psychopathology, as well as lower school achievement and behavioral
+problems, although causality has not been established. Significant connections between
+childhood anxiety and later “anxiety, depression, and substance abuse in adulthood” (p. 787)
+have also been seen, and it has been suggested that identifying and managing specific phobias in
+children would help mitigate this effect (Meltzer et al., 2008).
+
+AUGMENTED REALITY IN TREATMENT OF SPECIFIC PHOBIA
+
+4
+
+Cultural Differences
+Hofmann et al. (2010) reviewed literature on social anxiety and social anxiety disorder
+and found several differences between culture, gender, environment, and socioeconomic status.
+Though social anxiety and social phobia is markedly different from specific phobia, there are
+similarities in the development and presentation of symptoms. It is important to keep these
+disparities in mind however, and several known differences will be indicated. As Hofmann et al.
+(2010) indicates, there is a significant pattern in “race-ethnic differences in rate for psychiatric
+disorders (suggesting) the presence of protective factor that originate in childhood and have
+generalized effects on internalizing disorders.” (p. 1118) This phenomenon has largely been
+attributed to the differences between independence and interdependence of cultural origin.
+Collectivist cultures, high in interdependence, are characterized by the focus on “harmony within
+the group…and individual gain is considered to be less important than improvement of the
+broader social group.” (Hofmann et al., 2010, p. 1121) Individualistic cultures, high on
+independence, instead emphasize “individual achievements and success.” (Hofmann et al., 2010,
+p. 1121) Collectivism is frequently associated with many Eastern cultures, and Individualism is
+often linked to Western cultures.
+
+Cultural factors in treatment. Treatment presents a more complicated set of results on
+varied levels of response related to factors of culture, gender, and socioeconomic status. In
+willingness to seek treatment, it was found that “at moderate levels (of social anxiety), firstgeneration Chinese participants were significantly less willing to seek treatment compared to
+their European-heritage counterparts,” (p. 1121) though this was not seen in low-level and high-
+
+AUGMENTED REALITY IN TREATMENT OF SPECIFIC PHOBIA
+
+5
+
+level social anxiety. Though some research shows that Asian and Hispanic subjects had a slightly
+lower response to some treatments, and that Hispanic subjects showed a higher response rate to
+placebos, results on the topic “do not provide any convincing evidence that race/ethnicity
+predicts response or nonresponse to any psychological of pharmacological treatments” (Hofman
+et al., 2010). In terms of specific fears, the stimuli reacted to tends to remain a constant between
+countries, but frequency and intensity of these reactions may vary across cultures (Meltzer et al.,
+2008).
+
+Cross-cultural prevalence. Prevalence of diagnosed anxiety disorders (as well as
+depression, obsessive-compulsive disorder, and dependent personality disorder) positively
+correlates with collectivism scores and showed a negative correlation with individualism scores.
+The opposite correlation was found where, “individualism was positively correlated with scales
+for paranoid, schizoid, narcissistic, borderline, and antisocial personality disorders” (p. 1122) and
+negatively correlated with collectivism. It has been suggested that this can be seen in regards to
+external versus internal “motivations” for developing social anxiety, where external pressures are
+more common in collectivist cultures whereas self-blame and similar internally based forces
+have a greater influence in individualist cultures (Meltzer et al., 2008).
+
+Gender and culture. In regards to the social constructs of gender, it was suggested that it
+is not only which gender, but also the level of psychological androgyny that influences social
+anxiety. It has been shown that frequently, femininity is associated with “shyness and social
+subordination,” whereas masculinity is associated with “social dominance and aggression.” (p.
+1123) Beyond the implications of being tied to one gender identity or the other, there is also the
+
+AUGMENTED REALITY IN TREATMENT OF SPECIFIC PHOBIA
+
+6
+
+option of being androgynous (where the individual endorses both genders) or undifferentiated
+(where the individual endorses neither gender). In regards to social anxiety, those who are “more
+adaptable and flexible in their behavior…perform well across a wide range of tasks.” (p. 1123)
+Individuals who more closely identify with one gender or the other are more “motivated to
+restrict their behavior in accordance with cultural definitions of gender appropriateness” (p.
+1123) and do not perform as well in tasks that challenge their gender identity. In relation to
+specific phobias, there are fears which may be “socially generated and indicate a conforming to
+gender roles, e.g. for girls to be scared of spiders.” (p.1123) This was given credence by Meltzer
+et al. (2008), showing that girls were more likely than boys to have fears of animals, blood,
+injections or injury, elements in the natural environment, and specific types of people. Hofmann
+et al. (2010) cited similar results in reference to social anxiety disorder where women reported
+fear on a more intense level, though men an women reported similar fears in social situations.
+Keeping these results in mind, it will be necessary to eliminate the confounding variable of
+androgynous or unaffiliated gender identity in this study, though these factors may play an
+interesting role in later research.
+
+Potential predictors
+Predictors of phobias and recovery are somewhat difficult to ascertain, especially with
+the majority of the research as retrospective. Beard et al. (2010) conducted a prospective,
+longitudinal study on predictors of social phobia recovery, finding that the “absence of
+psychological and medical comorbidities, as well as better psychosocial functioning” (p. 843)
+was one of the most significant predictors of recovery. There was no significant influence of
+demographic variables on recovery, but this topic was not considered in depth by the researchers
+
+AUGMENTED REALITY IN TREATMENT OF SPECIFIC PHOBIA
+
+7
+
+and there was a disproportionately large presence of Caucasians and females in the sample. Cited
+studies prior to the Beard et al. (2010) report have also indicated that characteristics such as fulltime employment and less daily stress are indicators of recovery.
+
+Philosophical theories on fear
+One underlying question that should be mentioned is the simple “why do we experience
+fear?” In discussing pain, Dennett (1978) posits, “the bare phenomenon of pain could occur on
+the evolutionary scene before there were organisms that reacted appropriately to stimuli that
+were harbingers of injury.” (p. 17) Fear and pain, though distinctly different, are significantly
+intertwined. In many cases, fear is elicited in anticipation and avoidance of pain; Dennett
+indirectly suggests here that fear developed as a method of avoiding injury, following the onset
+of pain as a sensation. Indeed, many common fears and phobias are centered around the potential
+for physical harm. In reference to evolutionary history, it is not so far of a leap to infer that fear
+was this method for avoiding personal injury prior to the sensation of pain, which itself indicates
+the existence of some level of physical trauma.
+The reaction to pain is immediate and intense, and frequently associated with an
+immediate withdrawal response, such as removing one’s hand from a hot stove. It is not a
+sensation that needs to be pondered, “for one does not distinguish the sensations that hurt or feel
+painful by applying some criterion; one simply distinguishes them.” (p. 18) Though pain is
+distinctly based more directly in our neural network, fear has the tendency to provoke a similar
+immediate response. When one sees an object or enters a situation that evokes a fear response in
+them, they do not frequently take the time to contemplate their emotional state. Because fear is,
+“considered a normal response…provided that the fear is proportionate to the intensity of the
+
+AUGMENTED REALITY IN TREATMENT OF SPECIFIC PHOBIA
+
+8
+
+perceived threat,” (Meltzer et al., 2008, p. 781) the question is where this expected response,
+necessary in human survival, becomes a phenomenon that interferes so significantly with daily
+functioning that it must be labeled as a disorder.
+
+Armfield’s Cognitive Model
+Previous theories. In developing a new model on the development of fear and its
+transition to phobias, Armfield (2006) discusses the significant previous models of fear
+acquisition and how they fall short of adequately explaining all factors. Classical conditioning,
+modeled partially after Pavlovian conditioning, dictates that fears arise when relatively neutral
+stimuli are paired with fear inducing input, therefore linking the adverse response and
+associations to the initial stimuli. This helps explain how phobias are developed following
+traumatic experiences, but it fails to account for several factors, including irrationality, resistance
+to extinction, and recent developments in neurobiology. The preparedness model attempts to
+account for many of these discrepancies, citing genetic and biological sources of innate fears.
+Phobias develop as a result of “prepared learning,” citing that many phobias, “commonly involve
+objects or situations that have been a threat or danger to the human species throughout its
+evolutionary history.” (p. 748)
+A contemporary subset of this theory includes Öhman’s multiple-level evolutionary
+perspective, which integrates the influence of the “availability of coping resources” in an attempt
+to account for the more irrational responses present in phobic individuals. The factor of cultural
+preparedness is also integrated into preparedness theory, citing that “certain cultural factors and
+developmental events prepare individuals to respond more to some stimuli than to others.” (p.
+749) Research has shown some questioning results, however, as one cited study found that
+
+AUGMENTED REALITY IN TREATMENT OF SPECIFIC PHOBIA
+
+9
+
+“supposed survival-relevance was not related to fearfulness.” (p. 749) Integrating more cognitive
+theories into these existing premises includes Bandura’s self-efficacy theory, positing that an
+individual’s perceived ability to “perform specific, effective courses of action, as well as their
+expectations about the likely outcomes of such actions, are major determinants of action.” (p.
+752) Though research has shown some support to this idea, the connections have not
+successfully determined causality and still cannot fully account for factors such as uneven
+distribution of feared stimuli.
+
+Armfield’s Vulnerability Schema. Before fully delving into the theory, it is vital to
+understand the four underlying variables (vulnerability schema) that Armfield asserts are
+necessary in understanding the etiology of fear. Danger, disgust, unpredictability, and
+uncontrollability all play into fear-inducing stimuli, whereas many of the previous theories
+primarily account only for danger. Danger is a relatively straightforward concept here although
+fears are frequently over-predicted, such as with snakes. Nonetheless, it is a significant factor in
+the development of phobias, as one study found that 39% of participants indicated that their
+specific phobia centered around the potential for physical harm. Disgust is thought to originate in
+relation to food aversion, but has since expanded in the course of “human cultural evolution.”
+Although many animals fall into the variable of danger, many others deemed harmless (such as
+mice) also become the object of fear. Several animals cross over both schema, such as spiders,
+which are deemed both dangerous and revulsion. Frequently, animals become the objects of
+disgust over associations of those animals with various forms of unsanitary conditions. These
+two factors of fear and disgust together account for both disease-avoidance and predator-defense
+mechanisms.
+
+AUGMENTED REALITY IN TREATMENT OF SPECIFIC PHOBIA
+
+10
+
+The third of Armfield’s vulnerability schema is unpredictability, suggesting a “lack of
+knowledge concerning some aspect of a stimulus, such as its identity, movement, or location.”
+(p. 755) Armfield cites research linking this variable to both the “development and maintenance
+of anxiety and fear,” (p. 755) and in regards to animal-centered anxiety highlights the impact of
+the animal’s movement. In one study, participants showed significantly increased levels of fear
+towards their fear-targeted animal if they believed that its movements were unpredictable than
+the participants who believed the actions of the animal to be foreseeable. The intensity of anxiety
+in regards to perceived unpredictability also presents different levels between individuals with
+and without animal-directed phobias, as shown in another study demonstrating that individuals
+with high levels of self-reported fear of snakes or spiders regarded them as “significantly less
+predictable than did control subjects.” (p. 756) It was also found that self-reported fear and
+perception of unpredictability went down significantly following the observation of a modeling
+video. Armfield suggests that these findings, though correlational and not causal, could indicate
+that an “increased knowledge of the fear-eliciting animal’s movement served to decrease
+perceived unpredictability which then contributed to a reduction in subjective fear.” (Armfield,
+2006, p. 756)
+Finally, uncontrollability appears to influence fears, again tying in with the previous
+factors. Although “several studies have found that perceived controllability decreases the adverse
+nature of a stressor,” (p. 757) the causal role between control and fear has produced inconsistent
+results. Nonetheless, the variable still has seen significant correlational results in studies. The
+belief that one has influence over the outcome of a situation has significant impact on their
+perception of an object or situation, and has been shown to provoke anxiety. Regarding animal
+phobias, the dimensions factored into this perception includes “(1) the inability to exert influence
+
+AUGMENTED REALITY IN TREATMENT OF SPECIFIC PHOBIA
+
+11
+
+over the movement, approach, or behavior of an animal; (2) lack of control by the person over
+their response to an encounter with an animal; (3) the inability to control when an encounter with
+an animal will occur; and (4) the inability to avoid or terminate an encounter with an animal.” (p.
+757)
+
+Cognitive Vulnerability Model. The perception of these four variables, either as
+independent beliefs or in combination, all contribute to the development and survival of phobias.
+The term “vulnerability” has already been used in reference to anxiety disorders, and Armfield
+uses it to compose his cognitive vulnerability model. This is compromised of a stimulus
+“automatically and unconsciously” triggering one or more of the four vulnerability schema listed
+above. This cognitive schema is “based on learning experiences associated with a particular
+stimulus” (p. 760) and is “moderated” by an individual’s personality traits. This is immediately
+followed by two parallel processes: a “rapid automatic affective reaction” which may elicit the
+display of fear response, and a slower cognitive appraisal which “incorporates various other
+evaluations and appraisals.” (p. 760) These reactions are all subject to changes based on
+personalized differences in various individual characteristics such as attention span.
+
+Technology in Treatment
+Both augmented reality (AR) and virtual reality (VR) technologies have already shown to
+be effective in treating phobias of insects and small animals. Whereas VR immerses the user in
+an entirely generated scenario, AR is an application to “enhance the user’s perception of an
+experience in the real world, wherein 3D virtual objects appear to coexist with real elements in
+the actual world,” (p. 705) allowing for real-time interaction within the natural environment
+
+AUGMENTED REALITY IN TREATMENT OF SPECIFIC PHOBIA
+
+12
+
+(Bretón-López et al., 2010). It was was demonstrated that following one trial with the AR
+technology to reduce the phobic reactions to cockroaches, individuals “felt a strong sense of
+presence and thought they were confronting real cockroaches.” (p. 708)
+Similarly, robotic social companions such as the Sony robotic dog AIBO have been used
+in the field of robot-assisted therapy (RAA), primarily for autism spectrum disorders, behavioral
+problems, dementia, and emotional wellbeing. In a non-therapeutic setting, both children and
+adults attributed the AIBO dog as having attributes of real animals such as “having mental states,
+being a social other, and having moral standing,” (p. 546) despite recognition that it was a
+technological artifact (Melson et al., 2009). The AIBO unit does have a rather sophisticated
+system to interact with its environment and emulate the actions of a live dog. Beyond employing
+movements that mimic those of a real dog and the ability to detect “distance, acceleration,
+vibration, sound, and pressure,” (p. 546) each AIBO unit is also capable of learning behaviors
+from its interaction with different people. Despite the obviously artificial metallic form, AIBO
+units have shown to increase the social activities of elderly patients with dementia more than a
+stuffed animal, and have been attributed with “intentionality” in previous studies. However, use
+of such robotic units in treating specific phobias is limited, and as such has not been validated as
+a method of treatment.
+For the purposes of this study, augmented reality will be used in place of virtual reality or
+a robotic unit similar to AIBO for reasons of validity and to more accurately resemble actual
+interactions with fear-inducing animals, as will be discussed later.
+
+Enhancing artificial intelligence. Full artificial intelligence (AI) is still far from being
+realized, but directions towards this achievement are gradually coming into light. Evolutionary
+
+AUGMENTED REALITY IN TREATMENT OF SPECIFIC PHOBIA
+
+13
+
+computation, the method by which the concepts of biological evolution are applied to the
+development of computational algorithms, has shown significant growth in the fields of science
+and engineering and shows potential for fully realizing AI (Fogel, 2000). Very much related to
+this is Brooks’ (1991) approach to “incrementally building complete intelligent Creatures,” (p.
+139) through the gradual introduction of capabilities to these “Creatures.” In developing these
+Creatures, Brook describes an engineering methodology which elucidates four basic
+requirements: the ability to “cope appropriately” in a timely manner to changes in the
+environment, to be “robust” in its environment (change gradually along with the changes in its
+world), maintain multiple goals and alter the primary intent according to changes in the
+environment, and have some “purpose in being.” These ideals directly relate with those of
+evolutionary computation, wherein the algorithms must be capable of adapting to changing
+situations in a timely manner, but through a more direct process of learning by evaluating all
+possible solutions and selecting the most desirable outcome. Fogel (2000) details how such a
+method of engineering, in removing as much reliance on “human expertise” as possible, will
+likely lead to “truly intelligent machines.” (p. 32)
+The expansion of artificial intelligence has significant implications in the field of
+treatment, where social technologies are being used with increasing frequency. In regards to
+treatment of specific phobia, the use of augmented reality in combination with artificial
+intelligence could make treatment and prevention of the disorder easier. More accuracy in
+representation of feared stimuli has noteworthy potential to improve generalization and
+applicability, and advances in technology could make the implementation of such therapy
+economical and easily accessible.
+
+AUGMENTED REALITY IN TREATMENT OF SPECIFIC PHOBIA
+
+14
+
+Experiment
+I propose a long-term study of the potential use of augmented reality as preventative
+treatment for specific phobia, composed of one session with AR therapy and several follow-up
+procedures. The purpose of the experiment will be dual: evaluate the overall effect of AR as
+preventative treatment on the development of specific phobias and related factors anxiety, and
+observe the varied effects this may have across variables including gender, culture, ethnicity, and
+socioeconomic status. Because of the applicability to Armfield’s cognitive vulnerability model
+(in reference to the variables of danger, disgust, unpredictability, and uncontrollability) and the
+prevalence of spider-directed fears in both children and adults, spiders will be the animal used in
+the AR treatment.
+To clarify, this is in no way an attempt to prevent or eliminate fear – an entirely normal
+event in the range of human emotion – but rather reduce the likelihood of developing phobias or
+other related anxiety disorders. The hope is that some of the coping mechanisms shown to the
+children in relation to their fear of spiders will be generalized to other anxiety-provoking factors.
+
+Methodology
+Participants. Initial questionnaires will then be sent to the parents of all children aged
+11-12 in the participating school districts. This age range will be used due to findings by Kushnir
+& Sadeh (2010), which found that older children (in this age range) reported more fears than
+younger ones. Because parent-reported accounts of childhood fears can frequently show bias
+(Meltzer et al., 2008), child-directed questionnaires will also be included. Details such as
+academic achievement and perceived levels of anxiety will be assessed, and demographic
+information such as religion, ethnicity, socioeconomic status, gender, and cultural background
+
+AUGMENTED REALITY IN TREATMENT OF SPECIFIC PHOBIA
+
+15
+
+will be gathered. The child-directed questionnaires will be pilot tested prior to use, and will test
+for levels of spider-directed fear, as well as general anxiety and other specific fears.
+From these responses, participants will be selected if they show warning signs of anxiety
+disorders such as low academic achievement, somatic complaints, and attention control.
+Additional prerequisites include a lack of any diagnosed psychological disorder and significant
+health issues; as indicated earlier, these could be considered confounding variables. Children
+must also disclose a fear of spiders at a “reasonable” level, but they will be assessed for spiderspecific phobia according to the DSM-IV-TR prior to the experimental procedure and excluded
+from the study if they meet the criteria for the disorder. Parents will be given informed consent,
+but both parent and child will be told that the study is on the perception of artificial intelligence
+to avoid bias. Information on mental healthcare will be available at all points to both the parents
+and the children. An incentive for participation will be determined and offered to the subjects
+and parents. Children and at least one of the parents must be fluent in English.
+
+Tools. Augmented Reality (AR) has already been used in the treatment of specific
+phobia, as detailed above. Because such technology has already been validated through relatively
+extensive use in the field, a new format does not need to be entirely composed. However, due to
+the nature of the proposed interaction certain qualities in the AR spider will need to be accounted
+for. An evolutionary algorithm will be employed to more realistically mimic the actions of a real
+spider in reacting to the participant and respond in ways more similar to that of an animal with
+intentionality and mental capacity. In following the concept of, “it’s more scared of you than you
+are of it,” the program will be allowed to “learn” prior to use in this experiment. It will
+additionally have the capability of learning within each session and will adapt its behaviors
+
+AUGMENTED REALITY IN TREATMENT OF SPECIFIC PHOBIA
+
+16
+
+accordingly, but will be reset at the beginning of each trial to exclude any differences in
+interaction.
+An interview-administered assessment will be used to evaluate levels of anxiety,
+performance in school, the child’s perception of the vulnerability schema of danger, disgust,
+unpredictability, and uncontrollability (Armfield. 2006) in relation to the spider. The DSM-IVTR will also be used at each point to test for specific phobia of spiders. If a significant number of
+symptoms for any other anxiety disorder present themselves at any point, the participant will also
+be evaluated for that disorder.
+
+Procedure. Administrators of the interview and the AR treatment will be blind to the
+purpose of the study, also informed that the research is on AI. Because of the possibility that the
+interaction with the AR program itself could have an impact on the development of anxiety
+disorders, a randomly assigned control group will use the AR system to interact with a nonfeared animal in a manner similar to that of the experiment group. Children will be informed that
+they can take a reprieve or opt-out at any point in the exercise, which will be compromised of
+one 45-minute session with the AR and several interview-administered questions.
+Upon immersion in the AR program, the participant will be informed that the spider they
+see is not real, and this will be demonstrated by having the administrator move their hand
+through the spider. As a method of gradual introduction, the AR spiders will be programed to act
+with three different “motivations” in interacting with the participant: neutral, avoidant, and
+defensive. Initially, the AR spider will be programmed to perform in a neutral state. This would
+still involve some movement from the spider, but at a significantly lower scale. The AR spider
+would in no way acknowledge or interact with the participants. After 15 minutes of various
+
+AUGMENTED REALITY IN TREATMENT OF SPECIFIC PHOBIA
+
+17
+
+gradual introduction and familiarity tasks, the child will then be told to move their hands towards
+the spider, and the second motivational act will be imparted on the AR program. In
+“recognizing” the participant’s presence, the AR spider will then enter into an avoidant state,
+attempting to hide and distance itself from the child. The participant will then be asked to
+perform a slightly different set of tasks of gradual introduction and familiarity, with significantly
+more interaction with the spider. Following another 15 minutes in this stage, the AR spider will
+enter the final stage of a defensive state, characterized by more aggressive movements and the
+“motivation” of protecting its environment. The child will be asked to interact with the spider in
+this state for 15 minutes, after which the spider will return back to the neutral state.
+The interview-administered questionnaires will be performed prior to the treatment,
+directly following the treatment, one month after the treatment, shortly after the participant turns
+18 years old, and shortly after the participant turns 25 years old. The questionnaires will be
+altered for the latter two ages to accommodate age differences. Following the final evaluation,
+participants will be debriefed. When all information is gathered, multiple statistical analyses will
+be run using Factorial ANOVA.
+
+Projected Results
+With such a long-term study, reduction of sample size due to health reasons, loss of
+interest, and various other factors is expected. This will be noted, and demographic information
+will be accounted for. Due to research by Hofmann et al (2010) and Meltzer et al. (2008) on
+cultural differences in fear and phobia acquisition, it is projected that there will be a small but
+significant dampening effect on the effectiveness of treatment seen in individuals from more
+interdependent cultures. Because of gendered expectations for girls to be more afraid of spiders
+
+AUGMENTED REALITY IN TREATMENT OF SPECIFIC PHOBIA
+
+18
+
+(Hofmann et al., 2010; Armfield, 2006; Meltzer et al., 2008), the influence on prevalence and
+intensity of spider fear in female participants will be reduced in comparison to the male
+participants, but the influence on the prevalence of spider-directed specific phobias will be
+comparable across gender.
+In addition, children that primarily exhibited the vulnerability schema of danger or
+unpredictability will show a greater reduction in spider-directed fear and anxiety towards spiders
+that those who primarily indicated that disgust or uncontrollability were their reasons for the fear
+regarding spiders. Similarly, prevalence rates of spider-directed phobia will be lower in the
+former group. On a smaller but still significant level, this may have a related effect on all animalcentered fears beyond that of spiders. For all other variables such as ethnicity (accounting for
+cultural influences) and socioeconomic status, it is predicted the impact of the preventative
+treatment will be relatively universal across groups.
+
+Discussion
+This is not to prevent or eliminate fears, but rather to reduce the likelihood of developing
+phobias and mitigate the consequences of fear-driven anxiety. The hope here is that the coping
+mechanisms developed through this experiment would assist the children in reducing their fear
+and anxiety in response to various stimuli. Results from this study could also have implications
+on the causal relationships between fear and anxiety in children, and disorders and behavioral
+problems that develop later in life. Especially in relation to the links shown between childhood
+anxiety and adult depression and substance abuse (Meltzer et al., 2008), finding preventative
+measures for the more debilitating fears in youth could have a plethora of benefits in practical
+application.
+
+AUGMENTED REALITY IN TREATMENT OF SPECIFIC PHOBIA
+
+19
+
+Though the use of such expensive technology in a more applicable use may be difficult to
+implement, the same principles used here can be generalized to other functions. Several
+“learning” video games are already being used for children of various ages, and it would not be
+hard to compose or integrate a similar fear-reduction functionality related to this proposed study.
+Even without the use of technology, if it is found that some degree of early intervention and
+preventative measures do have an influence, then a corresponding development of coping
+mechanisms could be integrated into developmental learning. It has been found that children
+with specific phobias “are significantly less likely to present to all public sector services, apart
+from teachers” (Meltzer et al., 2008, p. 787), so giving teachers the tools to alleviate fearcentered anxiety in children could have a noteworthy effect on the reduction of related disorders.
+However, if significant differences are seen between variables such as culture and gender are
+found, then more research may be required to discern what different types of preventative
+treatment would be more effective across these factors.
+In best helping children reduce fear and anxiety, experts from fields including
+psychology, computer science, anthropology, education, and neurobiology must come together to
+effectively treat and prevent anxiety disorders. Fears develop through multiple realms of human
+development, so to best prevent the more detrimental consequences they must be approached
+from a holistic and comprehensive standpoint.
+
+AUGMENTED REALITY IN TREATMENT OF SPECIFIC PHOBIA
+
+20
+
+References
+Armfield, J. M. (2006). Cognitive vulnerability: A model of the etiology of fear. Clinical
+Psychology Review, 26, 746-768.
+Beard, C., Moitra, E., Weisberg, R. B., Keller, M. B. (2010). Characteristics and predictors of
+social phobia course in a longitudinal study of primary-care patients. Depression and
+Anxiety, 27, 839-845.
+Bretón-López, J., Quero, S., Botella, C., García-Palacios, A., Baños, R. M., Alcañiz, M. (2010).
+An augmented reality system validation for the treatment of cockroach phobia.
+Cyberpsychology, Behavior, and Social Networking, 13(6), 705-709.
+Brooks, R. A. (1991). Intelligence without representation. Artificial Intelligence, 47, 139-159.
+Dennett D. C. (1978). Personal and Sub-personal Levels of Explanation. In Brainstorms:
+Philosophical Essays on Mind and Psychology (17-21). Montgomery, VT: Bradford
+Books; 1978.
+Fogel, D. B. (2000). What is evolutionary computation? IEEE Spectrum, 26-32.
+Hofmann, S. G., Asnaani, A., Hinton, D. E. (2010). Cultural aspects in social amxiety and social
+anxiety disorder. Depression and Anxiety, 27, 1117-1127.
+Kushnir, J., Sadeh, A. (2009). Childhood fears, neurobehavioral functioning and behavior
+problems in school-age children. Child Psychiatry Hum Dev, 41, 88-97.
+Melson, G. F., Kahn, P. r., Beck, A., & Friedman, B. (2009). Robotic pets in human lives:
+Implications for the human—animal bond and for human relationships with personified
+technologies. Journal Of Social Issues, 65(3), 545-567.
+Meltzer, H., Vostanis, P., Dogra, N., Doos, L., Ford, T., Goodman, R. (2008). Children’s specific
+fears. Child: care, health and development, 35(6), 781-789.
+
+

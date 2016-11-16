@@ -1,0 +1,1592 @@
+Bard College
+
+Bard Digital Commons
+Senior Projects Fall 2015
+
+Bard Undergraduate Senior Projects
+
+2015
+
+Not to Bring Peace, But a Mirror: A Consideration
+of Conceptual Poetry
+Matthew William Francis Constantino
+Bard College
+
+Recommended Citation
+Constantino, Matthew William Francis, "Not to Bring Peace, But a Mirror: A Consideration of Conceptual Poetry" (2015). Senior
+Projects Fall 2015. Paper 1.
+http://digitalcommons.bard.edu/senproj_f2015/1
+
+This On-Campus only is brought to you for free and open access by the
+Bard Undergraduate Senior Projects at Bard Digital Commons. It has been
+accepted for inclusion in Senior Projects Fall 2015 by an authorized
+administrator of Bard Digital Commons. For more information, please
+contact digitalcommons@bard.edu.
+
+Not to Bring Peace, But a Mirror: 
+A Consideration of Conceptual Poetry
+
+Senior Project Submitted to
+The Division of Languages and Literature
+of Bard College
+
+by
+Matt Constantino
+
+Annandale-on-Hudson, New York
+December 2015 
+
+Acknowledgements
+This project was, like most work I submitted to the college, a difficult and often painful
+endeavor— for me as much as for the people around me. It is because of this that I am
+at pains to call myself proud of the work. I am hopeful, though, that someone besides
+me might find a use for it. 
+ 
+I am left mostly with an overwhelming gratitude towards those people who are around
+me and have been around me over the past six years. Nothing in this time has shaped
+my views more profoundly than the belief that every person deserves the support and
+love that I received and that kept me alive. I hope to spend the rest of my life as a vector
+through which this generosity will pass to others and towards better ends. 
+ 
+I offer my acknowledgement and thanks to the following people. 
+ 
+To Ann Lauterbach and Marisa Libbon, who kindly, charitably, and gracefully made the
+best of it. 
+ 
+To Lora Seery and David Shein, who advocated on my behalf, often to me, with
+uncommon warmth and compassion. 
+To Franco Baldasso, Marc Brudzinski, Joan Retallack, Eric Trudel, and Michael Vizsolyi,
+whose classrooms and offices were respites.
+ 
+To Kyle Baasch, Joan Baldwin, Nancy Bauer, Liv Bruce, Ashley Chaney, Catherine
+DeGennaro, Loisa Fenichell, Willie Gurner, Nat Jaffe, Irina Kalinka, Nicole Lang, Amy
+List, Rosie Lopeman, Julia Lunsford, Carey Mann, Jackson McKinnon, H.S. Naji, Danny
+Peacock, Adam Scholl, and Steven Tran-Creque— some of whom I have lost touch
+with, all of whom made me believe I was in the right place at the right time— and with
+special thanks to Anneliese Cooper and Justin Goodman, who also helped to draft and
+edit this project.  
+ 
+To Emil and Elisabeth, who grinned and bore it. 
+ 
+To my mother and father, who forgave everything. 
+ 
+And to Karen Sullivan, to whom this project is dedicated, who made me want to be a
+better person and scholar to the last.
+
+Table of Contents
+
+Introduction………………………………………………………………………………….…..1
+Towards a Purer Conceptualism………………………………………………………………9
+Towards a Better Conceptualism…………………………………………………………….29
+Conclusions………………………………………………………………………………….…46
+Works Cited………………………………………………………………………………….…48
+
+1
+Introduction
+Perennial suffering has as much right to expression as a tortured man has to scream;
+hence it may have been wrong to say that after Auschwitz you could no longer write
+poems. But it is not wrong to raise the less cultural question whether after Auschwitz
+you can go on living— especially whether one who escaped by accident, one who by
+rights should have been killed, may go on living. His mere survival calls for the
+coldness, the basic principle of bourgeois subjectivity, without which there could have
+been no Auschwitz; this is the drastic guilt of him who was spared. By way of atonement
+he will be plagued by dreams such as that he is no longer living at all.
+— Theodor Adorno1
+*
+
+*
+
+*
+
+On March 13th of 2015, Kenneth Goldsmith performed a poem titled The Body of
+Michael Brown at Interrupt 3, a conference hosted by Brown University that advertised
+itself as “highlight[ing] text and/or/as image, art and/or/as language, with a particular
+investment in digitally mediated language art.”2 The text of Goldsmith’s poem draws
+entirely (and all but unaltered) from the Saint Louis County autopsy report prepared in
+the days following Michael’s shooting by Darren Wilson, a police officer in the Ferguson,
+Missouri department.3 Writing just over a year after the murder, I can already feel myself
+reaching to remember learning of the first reports that an unarmed black teenager from
+a majority-black town had been shot six times by a white police officer from a majoritywhite department; to remember the names of those witnesses who swore Michael had
+
+1
+
+Adorno, Theodor W. "Cultural Criticism and Society." Negative Dialectics. Trans. E. B. Ashton. London:
+Routledge and Kegan Paul, 1973. 362-363. Print.
+2
+
+“About Interrupt 3.” Interrupt 3. Brown University. Web. 14 September 2015.
+
+3
+
+St. Louis Dispatch Daily. “PDF: Autopsy Report for Michael Brown.” 21 October 2014. Web. 7
+September 2015.
+ 
+These documents were eventually given an official release, along with several others, in December of
+2014, after a jury refused to indict Wilson. But the county autopsy was leaked in October to the St. Louis
+Dispatch-Daily, and remains available on their website: http://www.stltoday.com/online/pdf-autopsy-reportfor-michael-brown/pdf_ce018d0c-5998-11e4-b700-001a4bcf6878.html.
+
+2
+died with his hands up in surrender; to remember the majority-white grand jury who
+refused to indict Wilson on any charges; to remember the soldiers of the National Guard
+who were sent to command posts even before the refusal to indict was announced in
+order to contain the riots and burning that followed for months.4 Perhaps it will soon
+prove difficult to remember even these general details because of how common this
+particular narrative of police violence is now— and very well may remain— and how
+many names (and bodies, and reports) were available to Goldsmith for the performance
+of what he says he knew would be “a provocative gesture.”5 For now, though, it is
+difficult to articulate the weight of Michael Brown’s death, and the emergency of
+racialized state violence to which he gave another face. And yet we must try: for those
+of us who live in white bodies, the question of how we “go on living,” as Adorno would
+put it, is in large part a question of how we relate (and relate to) the narratives of crisis
+belonging to people of color.
+I won’t take the bait and compare this crisis to some sort of analogous one in
+poetry. But I doubt it will surprise anyone, and least of all Goldsmith, that The Body of
+Michael Brown was received with confusion and anger, circling in large part around the
+transformation at hand, by which the report of a young black man’s murder, the anodyne
+report of a killing— word and deed commissioned by the state— became the
+performance of a celebrated white poet for the entertainment of a mostly white audience
+at an Ivy League university language arts conference. That transformation begins with
+the imposition of a poetic choice upon a legal obligation. Thus did the autopsy of
+
+4
+
+Bosman, Julie, and Monica Davey. "Protests Flare After Ferguson Police Officer Is Not Indicted." The
+New York Times 24 November 2014. Web.
+5
+
+Wilkinson, Alec. “Something Borrowed." The New Yorker 5 October 2015. Web.
+
+3
+Michael Brown— a document whose creation depends on the mandate of the state, its
+object and author serving as victim and factotum in the ongoing maintenance of that
+state— become the object of a poetic “procedure” by which its “matter” and “materiality”
+as language are to be exposed in the hands and voice of Goldsmith.6 The “provocative”
+effect of all this is as Goldsmith says: that of “a mirror to the mechanics of our culture.”7
+We are speaking, then, of a culture in which the state will condone the killing of an
+unarmed man and a poet will elect to regard the program of the man’s killing as a mirror
+that he might hold up to our culture— for which the poet expects, if not praise and
+attention, his speaker’s fee.8 To an audience already witness to the unending television
+hours and webspace dedicated to the facts (and plenty else) of Michael Brown’s story,
+what else was there left to be revealed but those mechanics— the tortured man’s
+scream rented out to he who was spared? Perhaps what Goldsmith forgot is that even
+he who holds up a mirror has a reflection; he too lives by the mechanics of whatever
+culture reflects as his backdrop. Those mechanics, by which Goldsmith arrived at
+Interrupt 3 as a headline performer in the first place, are what order the cynical parallel
+procedures at work— black body worked over as state enemy, black autopsy worked
+over as white art— each presenting its radical imbalance in autonomy. In the absence of
+any editing moves beyond the slightest of emendations, Goldsmith's “procedure”
+6
+
+Goldsmith, Kenneth. “Flarf is Dionysus. Conceptual Writing is Apollo.” Poetry July/August 2009. Web.
+
+7
+
+Sandhu, Sukhdev. “Kenneth Goldsmith interview: ‘I wanted to take Walter Benjamin off the pedestal and
+on to the coffee table.’” The Guardian 21 November 2015. Web. 9 October 2015.
+8
+
+In response to the uproar that greeted news of his performance, Goldsmith claimed on Facebook he
+would donate his speaker’s fee to Michael Brown’s family. What a charmer. 
+ 
+For his post: Goldsmith, Kenneth. “I am requesting that Brown University not make public the recording of
+my performance of ‘The Body of Michael Brown.’ There’s been too much pain for many people around
+this and I do not wish to cause any more. My speaker's fee from the Interrupt 3 event will be donated to
+the family of Michael Brown.” 16 March 2015. Web. 16 March 2015.
+
+4
+intercedes only insofar as it provides a human messenger— the materiality of a body
+and voice in performance standing in for the state. The resemblance is unflattering.
+Perhaps this parallel could have been underplayed in the hands of another poet.
+But to simply call Goldsmith a “rich poet,” as Josef Kaplan memorably puts it in Kill List,
+does not suggest the expanse of the space between the performer and The Body.9 For
+better or for worse, Goldsmith has “received more attention lately than any other living
+poet,” to hear Cathy Park Hong tell it. And in case we might mistake her comment for
+one dismissing the man and his work as a passing fad, she cements: “Academia has
+canonized him.” Conceptual poetry, The New Yorker tells us, may have been born of
+Goldsmith and two other men talking in a bar in Buffalo— but it was Goldsmith who
+became “as famous as an experimental poet usually gets” off the stuff.10 And indeed,
+for a poet who sees his experiment as “fusing the avant-garde impulses of the last
+century with the technologies of the present,” Goldsmith nurses that habit of formal
+employment with elite institutions (Princeton, UPenn), whose most radical avances of
+this century have been in the new feudalism, investing their endowments with the same
+private lenders who issue debts to students— debts that have become necessary for
+many to take on in the face of historic tuition increases at those same institutions.11 12
+9
+
+Kaplan, Josef. Kill List. Baltimore: Cars Are Real, 2013. 22. Print.
+
+10
+
+Alec Wilkinson. “Something Borrowed."
+
+11
+
+Kenneth Goldsmith. “Flarf is Dionysus. Conceptual Writing is Apollo.”
+
+12
+
+I feel it’s worth noting that not all institutions are equally elite: while Harvard and its ilk quietly take their
+double dip, we are living too in a time when many public universities are being dismantled, defunded, and
+subjected to the demands of a political economy all too facile to the shifting responsibility wherein
+education, that public investment in ourselves, becomes education, that private venture to be paid in
+debts or inheritance. 
+ 
+If you’re interested, a good starting place for researching the double-dip endowment investment scheme
+can be found here: Grim, Ryan and Shahien Nasiripoour. “Sallie Mae Profit Boosts College Endowments
+And Pension Funds As Students Pay More.” The Huffington Post 9 May 2013. Web. 14 October 2015.
+
+5
+You can see where this is going by now: we are discussing a poet who gave a reading
+in 2011 at the White House of a president who possesses a literal kill list, the execution
+of which is entrusted to unmanned aerials— speaking of Goldsmith’s “technologies of
+the present—” and the intended victims of which are almost all men of color.13 14 So
+when Calvin Bedient writes that Goldsmith and his fellow Conceptualists “openly make
+a bid to take over the place and honors of the [elite] institution” and their writing “ignores
+the capitalist establishment as such,” we need not take his word for it.15 Goldsmith’s
+literary celebrity commands an influence that sits easily with (where it does not derive
+directly from) those centers of power and social control by which the state can take a life
+by debts, imprisonment, or killing— all fates awaiting people of color with the greatest
+frequencies. Standing above the body of Michael Brown (or in front of Brown’s projected
+photograph) in his dandy’s uniform, Goldsmith conjures a practically diagrammatic
+effect. Insofar as he intercedes beyond repetition of the documentation of Brown’s body
+— that last step in the process by which the state takes a life— the poet cuts an
+imposing, profligate figure afront all else. His dashing affect evokes neither the sobriety
+of the mourner, nor the vim of the advocate, nor the dexterity of the coroner: rather, he
+seeks to provoke you with his mimetic gesture into “embrac[ing] your guilty pleasure.”
+
+13
+
+I have deliberately avoided the president’s name here out of a desire to avoid invoking the myth of
+personality that attends to that office. Here, it is only his faceless power— as commander in chief, as
+executor of a kill list— that concerns me. 
+ 
+For a video of Kenneth Goldsmith’s White House performance: Poetryfilmfestival's channel. “Kenneth
+Goldsmith reads poetry at White House Poetry Night.” Online video clip.YouTube. Youtube, 12 May 2011
+Web. 12 May 2011.
+14
+
+Becker, Jo, and Scott Shane. “Secret ‘Kill List’ Proves a Test of Obama’s Principles and Will.” The New
+York Times 29 May 2012. Web. 29 May 2012.
+15
+
+Bedient, Calvin. “Against Conceptualism.” Boston Review 24 July 2013. Web.
+
+6
+By which he means indulging his: “your identity is not your own,” he instructs.16 By way
+of his Conceptualist play, it is his. 
+It’s this, er, impishness— and, yes, the signature look— that makes Goldsmith’s
+claims of writing only through a thoroughly dissociated self a hard swallow. “Identity, for
+one, is up for grabs,” he writes, which is perhaps a point one has to go out of his way to
+make if he is a famous writer known for his extravagant physical comportment (pay no
+attention to that man behind the mirror).17 But it is not a point one needs to make about
+the marginalized identity of a dead eighteen-year-old whose identity was never anything
+but “up for grabs.” Lest we forget: Michael Brown's presence was one that made a sixfoot-four armed police officer feel “a child” to his “Hulk Hogan,” his identity a contingent
+one in a “town… characterized by deep-seated racism,” where “local authorities
+targeted black residents, arresting them disproportionately and fining them excessively,”
+as goes the Department of Justice report.18 19 If Goldsmith is a poet whose work
+ventures the identities of those whose lives have already been ventured in the gravest
+of senses, then I fear our impending arrival at the conclusion that all this was an
+exercise in that “coldness” and “bourgeois subjectivity” of Adorno’s— a flourished
+underlining of Kenneth Goldsmith’s “mere survival,” as well as whatever other privileges
+he enjoys— a hideous subject-object mistake, an exercise of his racial privilege where
+16
+
+Kenneth Goldsmith. “Flarf is Dionysus. Conceptual Writing is Apollo.”  
+
+ 
+And so we’re clear I’m not taking this quote out of context: “Flarf is Larry Rivers. Conceptual Writing is
+Andy Warhol. No matter. They’re two sides of the same coin. Choose your poison and embrace your
+guilty pleasure.”
+17
+
+ibid
+
+18
+
+Harris, Andrew, and Edvard Pettersson. “Ferguson Officer Darren Wilson Told Grand Jury He Feared
+for His Life.” Bloomberg 25 November 2014. Web.
+19
+
+Halpern, Jake. “The Cop.” The New Yorker 10 August 2015. Web.
+
+7
+perhaps he had meant to expose yours— the mirror pointed the wrong way.
+You see how quickly one can reach such an awful interpretation (nor did we
+rush). So what I want to do in this paper is to take the temperature of this new,
+Conceptual poetry. If this is a poetry that sets out to “us[e] its own subjectivity to
+construct a linguistic machine that words may be poured into” and “cares little for the
+outcome,” as Goldsmith has written, then it is still left to question why this political
+ideology of bourgeois subjectivity, idolatry of the technological— the order of the
+machine— and elitism (racial and otherwise) commands Goldsmith’s procedures.20
+How did we arrive at such a machine? And can such a machine only reinscribe the force
+and law of its creators, however “uncreative?”21 In this paper, we’ll work to answer these
+questions by looking at the work and world of Goldsmith and his Conceptualist
+contemporaries. We’ll look to some criticism and interviews as a means of working out
+their stated motives, and we’ll look to some of their poems as a means of testing those
+motives in process. Finally, we’ll look to creators whose work outside of the
+Conceptualist scheme nonetheless elaborates where it joins in and illuminates where it
+departs. My governing interests in all this are the supposedly objective procedures of
+the uncreative creator, the equalizing cultural mirror of their work, and the prized literary
+celebrity to which they cling that belies the whole trick. They are as apparent in The
+Body of Michael Brown as they are in this quote from Vanessa Place:
+Conceptualist poetry decapitates the poet. That said, we are not fools. As
+Andrea Fraser has pointed out, there is no longer an institutional critique, simply
+institutional relations. Kenneth Goldsmith has famously read at the White House;
+
+20
+21
+
+Kenneth Goldsmith. “Flarf is Dionysus. Conceptual Writing is Apollo.”
+
+“Uncreativity as a Creative Practice.” Electronic Poetry Center. University of Buffalo. 10 November
+2000. Web. 16 October 2015.
+
+8
+I reasonably expect to be offered a tenured position within ten years… Still, I
+would maintain that it is possible to maintain a rigorous position of disinterest—
+that is to say, a stupid lack of bias. If only, as noted, because the material is so
+dumb. Thus the work retains some potential for political efficacy. Or, more
+properly put, retains nothing at all, but invites something.22
+It would seem, then, that we are speaking of poets who are content to lose their heads
+so long as they retain their crowns— poets who would ask that you excuse their lack of
+apparent political efficacy with respect to the advocacy of those who risk more than their
+authorial necks as part of some critical central abdication of traditional conventions of
+authorship on their part. The disparity piques: where Michael Brown gave  
+ 
+his mortal life, “All we poets stand to lose is a rarified sense of ourselves,” says Place.
+Indeed— that is all. To be blunt: these are enemies of mastery, but not power. Theirs is
+an art that perhaps, its creators muse, might “invite something—” a politically efficacious
+action, even— but more probably tenure. Call it bourgeoise oblige or grave robbing or
+an infinite offense playbook based off a single hermeneutic pump fake. We’ll have time
+for all that here. But don’t mistake the poets for “fools.” Though their “lack of bias” be
+“stupid,” they know how to throw the rock, hide their hand, and pass the buck without
+the writing of a single word.
+
+22
+
+Place, Vanessa. “‘Notes on Conceptualisms’: A dialogue between Vanessa Place and Tania
+Ørum.”Jacket 2 22 February 2012 — 22 June 2012. Web. 13 August 2015.
+
+9
+Towards a Purer Conceptualism
+These days of disinheritance, we feast
+On human heads. True, birds rebuild
+Old nests and there is blue in the woods.
+The church bells clap one night in the week.
+But that’s all done. It is what used to be…
+… This bitter meat
+Sustains us… Who, then, are they, seated here? 
+Is the table a mirror in which they sit and look? 
+Are they men eating reflections of themselves?
+— Wallace Stevens23
+What is the robbing of a bank compared to the founding of a bank?
+— Bertolt Brecht24
+*
+
+*
+
+*
+
+I’d like to start by tucking into Notes on Conceptualisms, a 2009 book by
+Vanessa Place and Rob Fitterman that offers itself in its foreword as “a collection of
+notes, aphorisms, quotes and inquiries on conceptual writing.”25 From the outset, then,
+this little hornbook and its aggregate quality do not insist upon a sense of totality; its
+“collect[ed]” parts may very well be worth as much as their sum. For our purposes, all
+the better: my interests here are in a few aspects of Place/ Fitterman’s project that don’t
+constitute an exhaustive review of Conceptual poetry so much as they offer an
+introduction to the poetic and political attitudes of its creators. But for a critical entry to
+thinking about Conceptualism, we could do worse in terms of authoritative clout:
+
+23
+
+Stevens, Wallace. “Cuisine Bourgeoisie.” The Collected Poems of Wallace Stevens. New York: Vintage
+Books, 1990. 227. Print.
+24
+
+Brecht, Bertolt. The Threepenny Opera. Trans. Desmond Vesey. New York: Grove Press, 1960. 92.
+Print.
+25
+
+Fitterman, Robert, and Vanessa Place. Notes on Conceptualisms. Brooklyn: Ugly Duckling Presse,
+2009. 1. Web.
+
+10
+besides Place and Fitterman, Notes references Goldsmith’s writing a few places, and
+includes an appendix of Conceptualist poetry that includes the works of all three, as well
+as well-known collaborators Christian Bök, Tan Lin— the two other men in that bar in
+Buffalo— Caroline Bergvall, Jen Bervin, and a host of others.26 We’ll get to the poetry
+itself in good time, but asking what the poets make of their work— in its “concept” and
+“practice,” as the two are designated— seems as fair a place to start our inquiry as I can
+figure. Still, my interest in Conceptualist poetry began in doubt about its ends— are
+these poets bank robbers or bank founders? Or could they be both?— and suffice it to
+say I found what I suspected. As I’ll work to show here, Notes’ inclusive, democratic
+approach and its putative concern for an “affirmatively anti-institutional” “concept”
+becoming, “in practice,” “a new institutionalism” is betrayed by its consideration of the
+“pure” and the “impure” Conceptualism.27 Place/ Fitterman’s clear preoccupation with
+this pure/ impure distinction and its centrality to Conceptual poetry results in their
+boldest and most prescriptive claims— the wolf hiding in the shearling coat of their antiinstitutional power-sharing vocabulary and their disassociated “I.” On the apparent selfacquittal of the latter is the former snuck in, with motives that only make an explicit
+appearance later. No need to be credulous: as we have seen, there is good reason to
+question the “potential for political efficacy” of this art and the “rigorous position of
+disinterest” on the part of its creators where power is concerned.
+Kudos nevertheless to Place and Fitterman: their charming democratic tone is
+rather smartly wrought, starting with the foreword in which Notes on Conceptualism is
+
+26
+27
+
+Place/ Fitterman, p 75-78.
+
+The designation of concept and practice, as well as some discussion of the pure and impure
+Conceptualisms can be found on page 53 among many, many places.
+
+11
+framed as “far from a definitive text and much closer to a primer, a purposefully
+incomplete starting place, where readers, we hope, can enter so as to participate in the
+shaping of these ideas: to add, subtract, multiply.”28 This credo offers a sense of
+participatory “incomplete[ness]” and multiplicity, those plural “Conceptualisms” of the
+title allowing for the proposal and cropping up of diverse and coincident interpretations.
+The architecture of the book’s main text is structured accordingly: Notes’ arguments
+come shaped as numbered points divvied up into lettered subsections, the order of
+which is marked by silent subtractions. So while 4a. neatly follows 4., what comes next
+is 5a.— there is no 5. Later, 6. is followed by 6b1.— there is no 6a.29 The irregular
+deleting rhythm continues throughout, and would seem to constitute the “constraint”
+method from Conceptual poetry’s kitty of moves; as laid out in the foreword, these are
+“allegory, appropriation, piracy, flarf, identity theft, sampling, [and] constraint.”30 These
+absences (or redactions), along with the long blanks between the numbered points,
+leave literal and imagined space for the reader to accept the invitation to “participate—”
+a critical looseness at the joints. This is Notes’ persuasive democratic bent at its best:
+insofar as it calls its reader to “add, subtract, multiply,” and otherwise intervene upon the
+Conceptualist practice, the reader is first invited to understand the authors’ take on it. So
+by the time Place/ Fitterman broach the more prescriptive terms of their Notes, they
+seem at first only to be indulging you with an offer, which you could return in the space
+provided for you.
+But for all of Notes’ generosity of tone and form at the fore, the participatory
+28
+
+Place/ Fitterman, p 1.
+
+29
+
+ibid, p 25-36.
+
+30
+
+ibid, p 12.
+
+12
+humor is hard to keep up— some Notes remain plainly more difficult to freely interpret,
+much less subtract from, than others. We can look deep into 3b. where, set off by
+double space on each side, Place/ Fitterman offer that “Failure is the goal of conceptual
+writing.”31 Place/ Fitterman seem here to build on the earlier note 1a. in which they write
+that Conceptualism, as a form of allegory, “builds to an Idea. Images coagulate around
+the idea—” a point offered to distinguish Conceptualism from symbolism, which “derives
+from an idea.” The concept of failure is introduced at that point as the better part of
+valor: “Note the premise of failure, of unutterability, of exhaustion before one’s begun.”32
+Fair enough— if the Conceptualist poem seeks to “assume all context” whereby it will
+create “a narrative mediation between figure and meaning,” the observation of the
+incredible work of the work— the impossible rain barrel required— seems earned and
+responsible.33 In 3b., we proceed well beyond that observation. It goes without saying
+that stating a modal goal is the very opposite of clearing “a purposefully incomplete
+starting place.” By introducing this abstract negative, while not yet constituting a
+wholesale methodology unto itself, Place/ Fitterman clearly set their sights upon Notes’
+more prescriptive Conceptualist paradigm as the reader learns that failure is not simply
+the “premise” of the Conceptual poem— that incomplete starting place— but the goal
+too. Place/ Fitterman’s Conceptualism would thus seem to draw an equal sign between
+their procedures’ beginnings and ends, hinting at the idea of the “readymade” poem to
+come, which looks the same before and after its poetic interpretation with the exception,
+perhaps, of something “unutterabl[e].” For now, though, let’s content ourselves with a
+31
+
+Place/ Fitterman, p 24.
+
+32
+
+ibid, p 16.
+
+33
+
+ibid, p 25.
+
+13
+smaller point: that whatever one might build in or subtract from Notes— whatever
+“narrative mediation” the poem locates “between figure and meaning” in the
+Conceptualist poem— there is a failure to which the poem must add up.34 The poem
+must mediate, the mediation must fail, and the room for subtraction from (or more aptly
+here, addition to) Notes’ Conceptualisms shrinks.
+Perhaps the abstract negative is a wide enough space that the reader doesn’t yet
+feel some encroachment— after all, perhaps mediation fails, but something else can
+come of those coagulated images. But the order to fail returns in force at the tail-end of
+5a.:
+Note: these are strategies of failure.
+Note: failure in this sense acts as an assassination of mastery.
+Note: failure in this sense serves to irrupt the work, violating it from within.
+Note: this invites the reader to redress failure, hallucinate repair.35
+And so it is here that Place/ Fitterman plot their poetic and political paradigm in rather
+more unsparingly prescriptive terms. The gentle suggestiveness of all these “note[s]” is
+here broken. Rather than charitably reminding the reader of the authors’ ideas, the
+repeating note— note— note— is a rhythmic dictation, a euphemized instruction:
+commit this to memory. The reader will note that the Conceptualist failure is manifold,
+yes— but highly specific. The Conceptualist poem should fail the expectations of the
+“readership or thinkership.”36 This failure should constitute a refusal— indeed, a cold
+blood assassination— of the reader/ thinker’s expectations of mastery, as well as their
+34
+
+Place/ Fitterman, p 16.
+
+35
+
+ibid, p 27. I’ve retained the spacing.
+
+36
+
+ibid, p 27, emphasis theirs.
+
+14
+expectations of the appropriated work— expectations of the original work both poetic
+(as in that “narrative mediation between figure and meaning,” disturbed or disturbingly
+reframed) and political (as in its identity, now thieved). These two failures orient the
+Conceptualist poem towards a final intervention upon the reader/ thinker’s expectations
+themselves. Thus emerges a formal failure with stakes so particular as to launch a
+program of readership or thinkership from which Place/ Fitterman provide little room for
+deviation— a procedure not only for writing the Conceptual, but reading and thinking it
+too. Place/ Fitterman hand down this Conceptualist premise, goal, and hermeneutic: the
+reader/thinker is called to an awareness of their expectations, studies the procedures of
+those expectations’ failure by “irrupt[ion]” and “violati[on],” and, through received
+imaginings as irrepressible and accidental as “hallucinat[ions],” finds herself back at,
+well, another “purposefully incomplete starting place—” a repaired or regenerated state
+after the master, the masterpiece, and mastery itself. “Note the desire to begin again,”
+Place/ Fitterman ask of the reader.37 But how does one note this projected desire
+without simply adopting it? When Place/ Fitterman wrote that Notes is a place “where
+readers, we hope, can enter,” how did they hope we could enter their own desires
+without sublimating our own? And lest we begin to wonder whether all this procedure is
+perhaps more innocently descriptive than it is puzzlingly prescriptive, ask yourself if you,
+the reader/ thinker, followed this program in considering The Body of Michael Brown.
+Did you note a desire to begin again? Did you hallucinate a poetic or political repair? 
+Obviously enough, I did not— the only assassination I “hallucinated” was Michael
+Brown’s, which hardly seems to “irrupt” the work of an autopsy. And so excluded from
+
+37
+
+Place/ Fitterman, p 22.
+
+15
+Place/ Fitterman’s procedures of readership/ thinkership, I too found their introduction of
+another distinction, that of the “open” and “closed” Conceptualism, to similarly fail the
+anti-institutional, anti-foundational habit they want claim to. Notes’ hermeneutic
+paradigm, insofar as it seeks a very specific irruption and shift in the expectations of the
+reader/ thinker, seems to me decidedly closed, and the fact that Place/ Fitterman feel a
+need to clarify that some Conceptualist poetry allows for “multiple meanings” already
+implies that some does not. But if the work “retains nothing,” as Place has put it, and
+seeks to invite the reader/ thinker’s “hallucination—” a description that brings to mind
+the involuntary, the received, the subconscious— I am at pains to square that with any
+sort of closed system of meaning. Nonetheless the reader finds in 7a2. that:
+Open conceptual writing is typically open horizontally: there are multiple
+readings, but not multiple meanings or levels of reading. In this sense, it may be
+somewhat closed.
+Closed conceptual writing typically attempts to limit its possible readings through
+some overt articulation or inscription. Closed conceptual writing is open vertically:
+fewer possible readings, but multiple meanings or levels of reading. In this sense,
+it is somewhat open.38
+The idea here is that the Conceptualist poem either “renders the object” of the original
+work open or closed, so long as we accept that what is open is somewhat closed and
+what is closed is somewhat open. Got that? This, despite the fact that if we accept
+Place/ Fitterman’s prescriptive readership/ thinkership, we have already imposed “limits”
+of interpretation; those “multiple meanings or levels of reading” are to be gathered or
+hallucinated through the authors’ own “overt articulation or inscription” of a critical
+reading/ thinking procedure. If we are seeking Place/ Fitterman’s specific failures in the
+
+38
+
+Place/ Fitterman, p 38.
+
+16
+work and in ourselves, then, there goes the “open,” and along with it the disinheritance
+of mastery.
+I admit that I am also baffled by the difference between “horizontal” and “vertical”
+readings— without further elaboration or explanation, Place/ Fitterman’s “meanings or
+levels of reading” are difficult to locate. They must constitute some hermeneutic
+possibility beyond that which is offered in “multiple readings—” this much is clear from
+the syntax— but given the specificity of the procedures of readership/ thinkership
+proposed so far, the suddenly vague phrasing of these metaphorical “levels” (if they are
+metaphorical) thwart my ideas about reading more than they liberate. I find myself at the
+whim of Place/ Fitterman: are they referring to the various expectations a Conceptualist
+poem can interrupt? The various social worlds in which the poem can be read? Neither
+the irony nor the headache of this struggle is lost on me. Here, Place/ Fitterman seek to
+distinguish between two Conceptualisms that allow two modes of meaning— and yet
+the authors’ phrasing is so oblique that I find myself straining towards any mode of
+meaning that they might, well, mean. No help elsewhere in Notes, where “horizontal”
+and “vertical” appear only in literal reference to visual art— horizontal as in a horizon—
+except for one instance in which Place/ Fitterman call the reader to:
+Too, consider the materiality, horizontal and vertical, of the words themselves.
+The double-aught or emptied eyesockets stuck in the middle of “gloom” and
+“doom,” the heave in Heaven and god’s huff in Hell. The clutch of objects you
+work with— those cones and squares and cylinders which may be letters that
+compose words or pictures that refer to words—are evidence of your creation
+and its reception. 39
+It’s all very sexy, this huffing and heaving and old time religion, but horizontal and
+
+39
+
+Place/ Fitterman, p 68.
+
+17
+vertical are nonetheless terms of decidedly visual stakes here; it is hard to reconcile the
+sensual peaks and valleys they describe with the rather more discursive import offered
+by the idea of horizontally or vertically open readings. As an aside, this passage did little
+to persuade me of Place/ Fitterman’s governing interest in the materiality of words,
+either— that other, anti-institutional devaluation in which words are objects, about which
+the reader should “Note that Conceptualism maintains only the concept of ‘is’ (e.g.
+materiality or other invocation) is permanent.”40 Schools of thought die, but the
+sensuous heave and huff of their letters seem to live on here: vive matérialité. I am
+decidedly unconvinced of this proposed permanence of materiality— the one concept
+that permanently “is—” given that we are discussing the construction of a Conceptualist
+linguistic machine that can gather, delete, and replace words of an original text to create
+a new text. Strategies such as flarf and constraint do not destroy materiality— they still
+need ink— but they do alter its textures and structures. Do these alterations not present
+a threat to a text’s material permanence? I’m reminded of the old philosophic
+conundrum: if Argo is repaired during the course of Jason’s quest for the Golden
+Fleece, and if it is repaired board by board so that all the boards are replaced by the
+end of the voyage, then what is Argo? The “clutch of objects you work with” is
+rearranged— materiality violated, evidence of creation or reception tainted— while only
+your perception of materiality remains permanent.
+To return to the “open” and “closed” Conceptualisms, Place/ Fitterman come
+closest to explaining their difference by simply laying the two against another distinction
+worth our attention— that of the “pure” and “impure” Conceptualism:
+
+40
+
+Place/ Fitterman, p 38.
+
+18
+Note: when the word is the wound (the site of failure), there are two extreme
+forms of mimetic redress: isolate and seal the word/wound (pure conceptualism),
+or open and widen the word/wound (impure conceptualism and the baroque).41
+ 
+While this would seem to refer back to the open and closed Conceptualisms as
+describing two different modes of meaning, Place/ Fitterman’s introduction of the image
+of the wound “rendered” further open or closed sets the motif alight. It fits easily with the
+vocabulary already established: the “site of failure” here would seem to refer to the
+found or seized text— “the word—” which Place/ Fitterman seek to violate from within,
+exposing that broken mediation between figure and meaning, all the while interrupting
+the master. To seal that broken mediation by appropriation is to close the wound— the
+application of some sort of transparent bandage through which the wound is still visible
+but undeniably dressed. To open the wound by baroque play is to exploit its broken
+figure/ meaning mediation even further— to twist the scalpel to make one’s point. I still
+can’t tell you what a horizontal or a vertical reading is— it seems to me that the open
+and closed distinction refers more to the Conceptual poet’s procedures than to the
+number or modes of reading available to the reader/ thinker, the latter of which Place/
+Fitterman seem all too eager to curtail and predetermine— but drawing from the pure/
+impure distinction, Place/ Fitterman find a clear, if modified use for the open/ closed
+one.
+Place/ Fitterman’s clearest politic finds shape from this pure/ impure distinction
+as well. To that end, let’s dwell for a moment on those “site” texts, already wounded
+when found. The Conceptualist failure will play their remedy, yes, and that “site of
+failure,” then, is the site of operation, metaphorically and literally. Thus the wound exists
+
+41
+
+Place/ Fitterman, p 57.
+
+19
+before it is becomes the site of the poetic procedure, recalling that “premise of failure.”
+And yet it is in the consideration of the pure and the impure Conceptualism that Place/
+Fitterman articulate the nature of this woundedness in a political sense, doubling up on
+the poetic aspect of its broken figure/ meaning mediation. Here we find Place/ Fitterman
+at their sharpest: 
+In a culture where objects are already devalued by their commodification, an
+allegorical relationship to the art object (or text) further highlights the process of
+devaluation.
+One might argue that devaluation is now a traditional/canonical aim of
+contemporary art. Thus there is now great value in devaluation.
+Culture is a paradoxical commodity. So completely is it subject to the law of
+exchange that it is no longer exchanged; it is so blindly consumed in use that it
+can no longer be used.
+Conceptual writing proposes two end-point responses to this paradox by way of
+radical mimesis: pure conceptualism and the baroque. Pure conceptualism
+negates the need for reading in the traditional textual sense—one does not need
+to “read” the work as much as think about the idea of the work. In this sense,
+pure conceptualism’s readymade properties capitulate to and mirror the easy
+consumption/ generation of text and the devaluation of reading in the larger
+culture. Impure conceptualism, manifest in the extreme by the baroque,
+exaggerates reading in the traditional textual sense. In this sense, its excessive
+textual properties refuse, and are defeated by, the easy consumption/generation
+of text.42
+It’s a fat quotation, I know, but I relish Place/ Fitterman’s clarity, and this passage makes
+clear these two modes of Conceptualist redress as separate “end-points,” wherein “the
+baroque is one end of the Conceptual spectrum, and pure appropriation the other.”43
+Before we discuss why Place/ Fitterman place these two procedures on their respective
+ends of an axis, I must draw attention to force of the vocabulary. It turns out that, if
+
+42
+
+Place/ Fitterman, p 26-27.
+
+43
+
+ibid, p 18.
+
+20
+Place and Fitterman are poets for whom riddles like “What is the principle of the
+unprincipled?” and its follow-up, “Are we left then with only principals?” reside in a
+decidedly rhetorical and unanswerable register, they are still poets for whom no less a
+measure than “pur[ity]” will do for the description of their poetic method.44 They don’t
+malign the impure Conceptualism (in short, any Conceptualist poetry that involves
+exercise on the part of its creator beyond excision and repetition of a seized text— so
+for example, writing), no— but to call those strategies impure makes clear which
+practices come closest to the authors’ governing preoccupations and their pure
+interpretation, and which practices only rhyme with those preoccupations on their way
+towards different ends. This identification of two “end[s] of the Conceptual spectrum”
+employs the pure/ impure distinction at the service of Place/ Fitterman’s previous note
+that there are “end-points to any spectrum and infinite points between them.45 How one
+defines the end-points and the points in between instructs how one defines Conceptual
+writing.”46 This defining Conceptualist distinction, then, is an imbalanced spectrum; it
+proceeds in points that move outwards on an axis— from a center towards its
+dissipation— from the essential to, eventually, the unrecognizable and the disowned.
+Place/ Fitterman might muddy your understanding of the horizontal and the vertical on
+their way here, but when they find time to define their two Conceptualisms in terms of
+each one’s allegiance to the putatively central political and poetic concerns at stake,
+Notes’ rhetoric finds its divining rod and ground to push into.
+So what is divined? The “pure” Conceptualist poem is that which “seals the
+44
+
+Place/ Fitterman, p 53.
+
+45
+
+ibid, p 18.
+
+46
+
+ibid, p 23.
+
+21
+wound” of commodification and devaluation by devaluing the seized or “readymade” text
+a second time— a fate sealed as much as a wound. This is the mode in which The
+Body of Michael Brown was created, a poem that draws unreadability— that “negate[d]
+need for reading in the traditional textual sense—” from the materiality of its opaque
+bureaucratic language, and seeks instead to focus upon the social context— those
+mechanics of culture— in which language occurs: a “mirror” to “the easy consumption/
+generation of text.” The reversals at play are many: where one finds the mark of the
+master in the “traditional text,” one instead finds facelessness in the pure Conceptualist
+poem. Where one finds success in the “traditional text” is indeed the same place where
+the pure Conceptualist poem finds its site of failure— a wound requiring attention.
+But here’s the rub: these reversals reveal the wound that most concerns Place/
+Fitterman is not the disjunction between, say, the state and the citizen— the
+anesthetized coroner’s jargon inscribed upon a hot body gone cold in the street— but
+that between master and masterpiece. This is the figure/ meaning relation Place/
+Fitterman seek to rawly expose, and we can be sure of this because the pure
+Conceptualism is that which seeks first and foremost “to capitulate to and mirror the
+easy consumption/ generation of text and the devaluation of reading in the larger culture
+—” to “decapitalize literature,” and to “decapitate the poet” as Place has put it
+elsewhere.47 At its purest, then, the Conceptualist poem does away with writing
+altogether— in the name of disinheriting the master, the imposition of any “overt
+articulation or inscription” on the part of the poet is done away with, and so too is the
+necessity of reading negated. Thus Place/ Fitterman’s insistence on a thinkership— one
+
+47
+
+Vanessa Place. “‘Notes on Conceptualisms’: A dialogue between Vanessa Place and Tania Ørum.”
+
+22
+need only understand that Place/ Fitterman seek to dismember any “rarified sense of
+[them]selves” as poets to embark on their hermeneutic procedure. If the original text
+survives the procedure at all, it is only because of its materiality— the fact that it takes
+up space that can then be appropriated for Place/ Fitterman’s execution of any prized
+notion of the creator and the creation— the former naive if not delusional, the latter
+doomed to cultural commodification and devaluation anyway. Rather than seeking to
+defend poetry against this commodification and devaluation, then, the pure
+Conceptualism accepts defeat, and responds to that which it objects by repurposing the
+traditionally unpoetic as a “readymade” mirror, held up as if to say: I know what I am, but
+what are you?
+This is why Notes employs a vocabulary and syntax that leaves room for the
+reader: it would be unbecoming of poets who claim that there is nothing “rarified” about
+poets— indeed, that they should be “decapitated—” to admit they have programmed a
+hermeneutic procedure at least as prescriptive as what you might hear from those
+sworn protectors of “the snowflake self of the lyric” that Place scorns.48 Place/ Fitterman
+claim they want only to hold up the mirror, leaving the responsibility of what you might
+see there to you— and yet they, like Goldsmith, seem to have forgotten their reflections
+and the mechanics of culture that govern not just readers and thinkers but poets, too.
+This mild hypocrisy could be overlooked if Place/ Fitterman’s assassination of
+mastery and their response to cultural commodification and devaluation came by way of
+an assassination of masters— those writers who capitalize and capitalize on literature in
+the most conventional, commodified, and canonical of senses. What of the work of the
+
+48
+
+Vanessa Place. “‘Notes on Conceptualisms’: A dialogue between Vanessa Place and Tania Ørum.”
+
+23
+very guardians of master and masterpiece? That these figures do not feature in any
+Conceptual poetry I can find is certainly not for want of options. Hothead one-trick
+misogynist Bukowski and the ugly fetishizing mythology of his alcoholic glory still sell; at
+the time of this writing, a quick glance at Amazon turns up six unique titles of his in the
+hundred top-selling books of American poetry— more than any other poet.49 Or what of
+those self-appointed appointers? Take Harold Bloom, a sexual predator whose
+Shakespearean exceptionalism and Freudian revisionism— his being a “literary history
+and cultural tradition as a titanic struggle between forbidding patriarchs and their virile, if
+tormented, masculine progeny,” as Asha Varadharajan puts it— won him a job for life as
+one of Yale’s no-more-than-forty Sterling Professors, a position that takes its name from
+a corporate lawyer who made his representing the likes of Jay Gould, Henry Ford, and
+Standard Oil.50 What about their authority, their self-aggrandizing, their commercialism
+and colonialism, their racist, sexist, and classist campaigns in which letters and poetry
+are made to serve such ugly gods and masters? Why do these writers and their work
+evade the glare of the Conceptualist mirror? Does the work not exhibit the symptoms of
+the wound— the figure/ meaning relationship not just broken but gone corrupt— the
+devaluation of letters for the sake of valorizing the myth of their masters?
+That these questions go unanswered would seem to arise from the view that
+Place attributes to Andrea Fraser: “there is no longer an institutional critique, simply
+
+49
+
+“Best Sellers in American Poetry.” Amazon. 12 November 2015. Web. 12 November 2015.
+
+50
+
+I can’t imagine I need to offer evidence of Harold Bloom’s many laurels and infamies, but I quite like the
+article by Asha Varadharajan, whose citation I’ll give here:
+Varadharajan, Asha. "The Unsettling Legacy Of Harold Bloom's ‘Anxiety Of Influence.’" Modern Language
+Quarterly 69.4 (2008): 461-480. Academic Search Premier. Web. 1 Dec. 2015.
+
+24
+institutional relations.”51 This neutrality (if not indifference) towards those institutions and
+officiants entrusted with guarding the canon and its ideologies of the powerful is indeed
+part of the pure Conceptualism, whose strategy is purely “to capitulate and mirror.”
+Perhaps this is how we should interpret the provenance of the name, borrowed from
+those visual artists whose “militant intention was to defy the galleries and collectors, the
+capitalists of art,” as Calvin Bedient puts it.52 Notes on Conceptualisms offers us a
+manual of going through their motions, sure— there’s a rhyme between Goldsmith
+reading traffic reports at the White House and Duchamp attempting to install a urinal at
+The Grand Central Palace in New York wherein the devalued, readymade art is a
+shared medium. But for the Conceptual poets, who have no choice but to acknowledge
+that “devaluation is now a traditional /canonical aim of contemporary art,” only the
+concept of a radical devaluation— and not its anti-institutional politic— remains. These
+poets are instead Wallace Stevens’ men eating reflections of themselves, chasing only
+their own tails with a mirror, for whom power and the church bell’s clap one night in the
+week are but institutional relations to which we should acclimate. Pay no attention to
+that man behind the mirror, for he is not the master.
+So uninterested in the distracting politics of oppression and unwilling too to give
+up on decapitalization via devaluation as their signature move, these Conceptualist
+poets could have always stuck to traffic reports and transcribing ordinary time editions
+of the New York Times as Goldsmith once did.And yet not even this sort of uncreative
+practice has proved enough for Conceptualism’s adultes terribles: as Goldsmith has put
+
+51
+
+Vanessa Place. “‘Notes on Conceptualisms’: A dialogue between Vanessa Place and Tania Ørum.”
+
+52
+
+Calvin Bedient. “Against Conceptualism.”
+
+25
+it, “I actually stopped being a boring writer almost a decade ago when I got bored of
+being boring… I stopped being boring and wanted to find hotter and more emotional
+texts.”53 Thus Vanessa Place’s Miss Scarlet, in which she transcribes the minstrel’s
+patois of Gone with the Wind’s most pitiful creation, a dizzy and ignorant slave called
+Prissy. And thus too The Body of Michael Brown: these texts are “hot” and “emotional”
+insofar as they constitute representations of black narratives and black bodies in which
+each is destroyed to serve a white supremacist state — its revisionist pastoral fantasies
+and its regime of violence, respectively. But the Conceptualist intervention holds these
+texts hostage, emotional and political implications and all, only to prove that its own
+poetic master is dead. Put another way, the Conceptualist poem renounces its own
+master, but steps around the toes of yours.
+That those other masters are more cruel is simply that which ensures the
+Conceptualist poem’s vitality, borrowed from crises of racialized violence or whatever
+else might be “hotter and more emotional” than crises of poetry. “Identity is up for
+grabs,” the poet might offer in defense. But that decentered Conceptualist self would
+then seem to emerge as some sublime elite white self, for whom the ethnic self plays
+the unmediated body. “I have stolen Margaret Mitchell’s ‘niggers’ and claim them as my
+own,” writes Place, to “set them in a block of text, a slave block—to remind white folks
+of their goings-on and ongoings.”54 The ambiguity as to the role of the quotation marks
+around the slur weighs heavy here— is Place claiming the material word, the emotional
+and political narratives to which they belong, or black bodies themselves? The power to
+
+53
+
+Moss, Jeremiah. “Goldsmith’s Capital.” Jeremiah’s Vanishing New York. Blogspot. Blogspot 10
+November 2015. Web. 10 November 2015.
+54
+
+Place, Vanessa. “Artist’s Statement.” Drunken Boat. Drunken Boat. Web. 10 November 2015.
+
+26
+collapse the three— to reinscribe the uninterrupted history of oppression to which they
+belong by mirroring— is the pure Conceptualism at its ugliest and, well, purest. To that
+end, the poem establishes the Conceptualist poet as hero of individualism and
+technology— she who constructs the linguistic mirror machine that assassinates
+mastery, that assumes all context— a cogito levitating freely above the racial mob,
+whose hot and emotional toil either amuses or bores her— and who calls death a living.
+There is another disheartening possibility— that the amorality of these poets who
+“have nothing to lose but a rarified sense of [them]selves” is some sort of deliberate
+challenge— a race to the bottom. Place has said she seeks to create “radically evil”
+poetry; perhaps, then, the decapitation of the master is to be achieved by a selfdestruction of reputation.55 On a body of work that pops racial terror memorabilia in the
+postmodern microwave, Vanessa Place seeks tenure, while Kenneth Goldsmith is
+publishing an unreadable 1000-page gilded coffee table book called Capital that retails
+for $49.95 and The New Yorker tells us it “gives you the feel of what it is like to be living
+in New York now.”56 (I bet.) To call the Conceptualist poet out on this would be passé, or
+else miss the interruption of your expectation of critique— a hypocrisy rephrased in
+Notes’ paradigm as simply part of its procedure of reading and thinking. The
+Conceptualist practice is that which finds its wound of commodification and devaluation
+before sealing, preserving, and sending it off to reside within those institutions of capital
+and power the artists of its namesake despised. It is in the name of renouncing anything
+“rarified” or admirable about themselves or their work that the Conceptualist poets join
+
+55
+
+Calvin Bedient. “Against Conceptualism.”
+
+56
+
+Alec Wilkinson. “Something Borrowed.”
+
+27
+the industrial complex, and defy you to be so dull as to argue that they’re wielding their
+power hideously— their disassociated identity as disinherited responsibility. 
+As we have seen, the hermeneutic procedures set out in Notes sit all too easily
+with these ends— ends which extend narratives of racial crisis more than they tarnish
+them, which have the airs of a post- or anti-institutional politic and vocabulary while
+disavowing the political and poetic tool required and available for political efficacy. That
+the poetic strategies and stakes Place/ Fitterman plot for themselves and other
+Conceptual poets did not have to lead to such a disturbing ideology seems a point worth
+making. But that they did puts Place’s supposed “rigorous position of disinterest” to the
+test— her “stupid lack of bias,” that is. As the cliché goes, power blinds, and perhaps
+the privileges of living in a white body or even the quiet fame belonging to experimental
+poets like Goldsmith and Place— “respectively the court jester and law-giver, the brand
+manager and ideologue, of Conceptual Poetry,” as Ken Chen has put it— have
+convinced them that their own Conceptualisms check out, and that the material upon
+which it seeks to act really does await them dumb and failed.57 This critical reversal of
+Adorno— by which the tortured man’s scream is imagined as silent, unmediated, a
+premise of failure that must be interrupted and acted upon— betrays a decided bias,
+and a rigorous position of disinterest only with respect to the power of others, or lack
+thereof. We are indeed “left then with only principals,” whose procedures and
+preoccupations present perhaps the most serious flaw in Notes on Conceptualisms’
+argument: insofar as these poems relate to the narratives of crisis belonging to people
+
+57
+
+Chen, Ken. “Authenticity Obsession, or Conceptualism as Minstrel Show.” Asian American Writer’s
+Workshop. 11 June 2015. Web. 1 November 2015.
+
+28
+of color, they do not fail my expectations at all.
+
+Note: Perhaps Josef Kaplan had it right. Some names belong on a list.
+
+ 
+
+ 
+
+29
+Towards a Better Conceptualism
+…
+Was, da ein solcher, Ewiger, war, mißtraun wir
+immer dem Irdischen noch? Statt am vorläufigen ernst
+die Gefühle zu lernen für welche
+Neigung, künftig im Raum?
+*
+…
+Why, after such a life, Eternal, do we go on
+mistrusting the earthly? Instead of from provisional things
+ardently learning the feeling for who knows
+what inclination, awaiting us in space?
+— Rainer Maria Rilke58
+*
+
+*
+
+*
+
+All right— take a breath. I will, at least; it doesn’t give me great joy to provoke
+such righteous vigor in myself. But this project began in righteous doubt of Goldsmith
+and Place’s poetry, and a desire to work out that doubt through a consideration of their
+own words and theories. To that end, I feel satisfied— but I have never forgotten that
+their Conceptualism is not the only one, and that many poets employing similar linguistic
+strategies and perhaps even similar poetics do not wink so menacingly at others’
+narratives of crisis. Notes on Conceptualisms may propose a more institutional and
+prescriptive paradigm of writing, reading, and thinking than Place/ Fitterman want to
+admit, but it also allows for more than the ugly ideologies that made it famous— for one,
+we have barely considered the practice of impure Conceptualism yet. So that is what
+this chapter is for— a reconciliation after the scourge. Here we will consider those other
+
+58
+
+Rilke, Rainer Maria. “To Höldernin.” Uncollected Poems. Trans. Edward Snow. Ed. Edward Snow. New
+York: Farrar, Straus and Giroux, 1997. 107. Print.
+
+30
+Conceptualisms, as well as some work by poets who do not consider themselves
+Conceptual poets, but whose work can guide our reading of Conceptual poetry insofar
+as their moves and motives coincide with and diverge from those set out by Place/
+Fitterman and the other Conceptualist poets referenced in Notes on Conceptualisms. I
+am still unconvinced of certain aspects of Notes’ hermeneutic, and I’ll be sure to note
+those instances in which my own reading and thinking diverges from Place/ Fitterman’s
+paradigm, but I am not setting out to (further) disavow Notes. Instead, I here seek only
+to accept Place/ Fitterman’s invitation to add, subtract, and multiply the possibilities of
+Conceptual poetry— to play in the blank space offered to me, the reader/ thinker.
+I’d like to start with Jen Bervin’s Nets, a cycle of poems in which Shakespeare’s
+sonnets are “stripped… to make the space of the poems open, porous, possible — a
+divergent elsewhere. When we write poems, the history of poetry is with us, preinscribed in the white of the page.”59 This is achieved by the reprinting the selection of
+“stripped” words marked in dark type. They look like this:60
+
+59
+
+http://jacketmagazine.com/25/metr-berv.html
+
+60
+
+Conjunctions
+
+31
+In the printed book, the poems appear only in the format of the image on the left, the
+original text still visible, if faintly. But I quite like how these poems are published on
+Conjunctions’ web presence, where toggling your cursor over the original sonnet “strips”
+it, leaving you with the image on the right. That there is no explanation offered for the
+words dropping away from you is even better— insofar as the poetic procedure
+interrupts the reader/ thinker’s expectation of the sonnet, it surprises her with the
+agency to ravel and unravel the poem, the first time by accident.
+Obviously enough, some of the procedural vocabulary from Notes is helpful in
+discussing Nets, and the work is specifically addressed in the book. Place/ Fitterman
+write:
+Bervin subtracts the master from his masterpiece, author from authority…
+Note: Bervin’s gesture is more like Rauschenberg’s erasure of de Kooning’s
+painting in leaving the presence of the absence, than it is like Duchamp’s
+proposed Rembrandt-as-ironing board.
+Note to what degree the authorial framing of text as art removes aesthetic control
+from the reader.61
+There are a couple of points here with which I’ll take issue. The first is the note that
+Bervin’s procedure subtracts the master from the masterpiece, her selective strokes the
+sort of emendations that constitute that impure Conceptualism. I disagree— if anything,
+the procedure seems to me to provide another reading of the canonical sonnet that only
+refreshes the work and its creator. Or as Paul Auster puts it: “Jen Bervin has reimagined
+Shakespeare as our true contemporary.” Following Auster, I’m of the mind that insofar
+as Bervin locates a new poem within Shakespeare’s original, her work reframes the text
+
+61
+
+Place/ Fitterman, p 31.
+
+32
+as a contemporary one in the direction of recovering and reinscribing its author’s legacy
+and relevance. Thus does the poem retain Shakespeare’s structure, the words stripped
+away providing invisible (or simply faded) scaffolding to those that remain, “the
+presence of [some] absence” of text or master offering not so much a hermeneutic
+subtraction as it does an alternate reading, in light of which the original text is
+elaborated upon. The sonnet becomes a net, truncated but allowing, as a net does, for
+the reader/ thinker to catch and collect beyond their grasp.
+This is all the more apparent if one compares Bervin’s text with the entire original
+from which Bervin’s newly divided “parts” indeed strike a new and “speechless” song,
+“each in each by mutual ordering.” The original text’s image of “sire and child and happy
+mother” joining in unison makes literal the poetic heritage both local (as in this one
+poem) and historical (as in the Shakespearean sonnet tradition); insofar as “her little
+poems sing,” as Auster puts it, they sing along: a “true concord of well-tuned sounds.” In
+fact, the text of the original can even be read as a direct rebuke to Place/ Fitterman’s
+reading:
+If the true concord of well-tuned sounds,
+By unions married, do offend thine ear,
+They do but sweetly chide thee, who confounds
+In singleness the parts that thou shouldst bear.
+Mark how one string, sweet husband to another,
+Strikes each in each by mutual ordering…
+Indeed, Place/ Fitterman seem “chide[d]” and chafed by the master/ masterpiece
+relation. The sonnet would direct them instead to appreciate the “mutual ordering—”
+that of the original and the subtracted, appreciable together and apart, each giving new
+shape to the other. Bervin’s own comment gets at this too: in writing that “When we
+write poems, the history of poetry is with us, pre-inscribed in the white of the page;
+
+33
+when we read or write poems, we do it with or against this palimpsest.” Nets is thus no
+rejoinder to but rather an acknowledgement of our inescapable complicity with a history
+of masters. And if its poems sing, they sing a song that while “seeming one” is actually
+“being many.” The layers of that palimpsest are both literal and metaphorical: to strip
+away the sonnet is to reveal the netting beneath, the preinscription that is the premise of
+reading and writing poetry. Rather than proposing to tear open or seal the opening her
+found texts have made in the world as Place/ Fitterman do, Bervin seeks to “to make
+the space of the poems open, porous, possible, a divergent elsewhere—” to inspect the
+infinite tiny openings a text makes in our reading and thinking lives, and to invite the
+reader to make something of those.62
+Which brings us to that other point of Place/ Fitterman’s: that “the authorial
+framing of text as art removes aesthetic control from the reader.” The note is at least
+somewhat undone by the Conjunctions edition of Nets, in which the reader’s cursor
+controls the aesthetic of the poem, toggling back and forth between the original text and
+the stripped text with the swipe of her cursor— peeling back and laying down the layers
+as she pleases. But even in the printed edition, I’m not sure I see how the point applies
+to Nets (if it’s meant to). Bervin’s procedure of interrupting expectation seems to work by
+empowering the reader to imagine infinite songs unraveled out of Bervin’s
+Shakespeare; thus each poem contains porous layers, and besides the ones revealed
+by Bervin, the rest that potentially await the reader are fully within the “aesthetic control”
+of the reader. Where Bervin succeeds in interrupting the reader/ thinker’s expectation of
+
+62
+
+Metres, Philip. “Philip Metres reviews Nets, by Jen Bervin’” Jacket 2 February 2004. Web. 9
+September 30 2015.
+
+34
+mastery is where she interpolates the reader himself in the place of the master, or
+alongside the master— a reversal of Goldsmith standing in for the state or Place for the
+slaveowner, wherein the Conceptualist poet steps behind the mask of the poetic and
+political master, and for whom the reader simply serves as a gawking audience. To that
+end, I do see how Nets intersects with Notes’ Conceptualist paradigm, shifting the
+perceived roles by which poet and reader imagine one another. The difference, then,
+would seem to lie in the irony that without the explicit anti-authorial ambition Place/
+Fitterman espouse, Bervin seems to come closer to the realization of that ambition.
+Thus the parallel between Nets and Rauschenberg’s erasure of de Kooning is the
+wrong parallel to draw: Bervin has not so much left “the presence of the absence” as
+recovered the presence of other presences— other layers, histories, and preinscriptions
+with which to go forward— a recovery in which the reader will serve as her own docent
+and master.
+I am reminded of Paul Legault’s “translations” of Emily Dickinson in his The Emily
+Dickinson Reader— author and work decidedly outside of the Conceptualist scheme—
+where poems like this one: 
+I have a Bird in spring
+Which for myself doth sing—
+The spring decoys.
+And as the summer nears—
+And as the Rose appears,
+Robin is gone.
+Yet do I not repine
+Knowing that Bird of mine
+Though flown—
+Learneth beyond the sea
+Melody new for me
+And will return.
+
+35
+Fast in safer hand
+Held in a truer Land
+Are mine—
+And though they now depart,
+Tell I my doubting heart
+They're thine.
+In a serener Bright,
+In a more golden light
+I see
+Each little doubt and fear,
+Each little discord here
+Removed.
+Then will I not repine,
+Knowing that Bird of mine
+Though flown
+Shall in distant tree
+Bright melody for me
+Return.63
+are translated as such:
+I am in love with my brother’s girlfriend. I am as fond of her as I am of my
+younger sister, though I do not want to have sex with my younger sister. My
+brother’s girlfriend’s name is Sue, and I want to have sex with her.64
+Sue returns frequently in Legault’s translations, as in Dickinson’s 1039: 
+ 
+My heart upon a little plate
+Her Palate to delight
+A Berry or a Bun, would be
+Might it an Apricot!65
+ 
+which Legault translates as: “I love you so much I want you to eat my organs. Forks and
+knives are in the top drawer, Sue.”66 None of which is not to misrepresent the book as
+63
+
+The quotations of Emily Dickinson I’ll use will follow the versions and paginations of the following
+edition: Dickinson, Emily. “5.” The Complete Poems of Emily Dickinson. Boston: Little, Brown, 1960. 7.
+Print.
+64
+
+Similary: Legault’s translations follow: Legault, Paul. The Emily Dickinson Reader: An English-toEnglish Translation of Emily Dickinson's Complete Poems. San Francisco: McSweeney's, 2012. 4. Print.
+65
+
+Dickinson, p 472.
+
+66
+
+Legault, p 136.
+
+36
+solely concerned with making jokes about Emily Dickinson and her sister-in-law. But it is
+indeed the humor in these “translations” that concerns us insofar as it offers more than
+a parody of Dickinson by way of a simple high/ low contrast, ribald where Dickinson is
+chaste. Not to be humorless, but that these translations make me laugh is really just the
+beginning of my reaction and interpretation: why do they invite laughter? Or more
+precisely: what expectations of mine do they undermine by absurdity? As noted already:
+expectations of the poet and her poetry and that particular tonal pairing of the unveiled
+— as in her heart offered on that plate— and the veiled— as in her habit of consigning
+herself to a central blank space in the poems to which others, often birds, may return—
+are hilariously tipped to towards the former. Thus do Legault’s translations provide the
+premise of intimacy with the poet, whose motives for making poetry are collapsed into
+her pension for pithily peeking around the birds and flowers to make clear her strong
+affiliation with her “I.” And thus too is Dickinson’s own
+…The Maple wears a gayer scarf—
+The field a scarlet gown
+Lest I should be old fashioned
+I’ll put a trinket on.67
+not really so far in content or tone from Legault’s translation: “If today is opposite day,
+I’m happy.”68 But there’s more at stake here than merely playing dress up in the the
+Belle of Amherst’s veil— though this in and of itself goes a ways towards picking apart
+the hermetic sanctity of her mastery— as our expectations of translation and poetic
+interpretation are pressed upon (or tickled) too.
+Perhaps it is Legault himself who explains the effect best. In this interview, he
+67
+
+Dickinson, p 11.
+
+68
+
+Legault, p 43.
+
+37
+describes the undergraduate literature class where the project began:
+… everyone in the class was digging through her biography and trying to figure
+out what each poem meant in terms of like, Oh, well her cousin had just died,
+and she wrote this poem immediately afterward, and this poem is obviously, you
+know, about the death of her cousin. So they would translate the poem as: I’m
+sad that my dead cousin is dead.
+Which I found frustrating initially. I was really kind of annoyed because I was part
+of this cult of Emily Dickinson who prized her works as these steel-tight boxes
+that were meant to be beheld and not changed… which is insane. I still love that
+version of Emily Dickinson, but I also started to fall in love with my classmates’
+versions, because I thought it was funny. One poem would be like, “I really
+wanna have sex with Susan Gilbert Dickinson, my sister-in-law,” because she
+had just written this love letter the day before she wrote the poem. So people
+were doing this, and I would take down what they said in the margins, and then I
+started to think it was funny. At first I was making fun of them but then I just kept
+doing it. The joke became serious.69
+The experience of unwillingly sitting in on recitations of this particular brand of reading,
+in which every poem is treated as a crossword puzzle whose answers lie in its creator’s
+biography, is too familiar to anyone who attended high school. But that Legault
+manages to interpolate the room noise of these overdetermined readings— indeed, a
+sort of preinscription that is always with us when we read and write poetry— into his
+translations is what complicates The Emily Dickinson Reader’s joke. The poems are
+less irreverent graffiti than they are, well, something like Goldsmith’s or Place/
+Fitterman’s mirror. To that end, Legault’s work at violating the original text to disrupt the
+reader’s assumptions surrounding and pertaining to that text and its master is what The
+Emily Dickinson Reader has in common with Nets and the paradigm set out in Notes on
+Conceptualisms; while we read these translations, we are confronted with our
+expectations of the mythology of Dickinson, her unmistakable tone, and the fact that her
+
+69
+
+Aprea, Jonathan. “Death is What’s Happening.” BOMB 11 November 2012. Web. 10 September 2015
+
+38
+work— those 1,789 poems in all— is often published in one volume one could forgivably
+mistake for the poet herself. But what really springs poet and poem from that “steel-tight
+box” here is the reclaiming of these bad readings— Legault’s strategy of holding a
+mirror up to the reader not only to ask what is behind the reader (the mechanics of
+culture, the history of poetry) but to ask too about the work of interpretation itself. Thus
+do these translations deliberately break the promise of their name: rather than providing
+faithful reflections of their origins, Legault’s provide a hilariously overcrowded mirror. Or
+perhaps the work is more like the rebuilt Argo: The Emily Dickinson Reader dismantles
+our assumptions about the poet, the work of her poems, and the reader’s own scholarly
+work of interpretation (and self-conscious awareness of that) so that we might become
+aware of each part. That it manages to put them back together is its genius. That it
+deliberately gets builds it back wrong— opting against elegance, subtlety, or critical
+analysis, of which there is already plenty in the world of Dickinson commentary— is its
+joke. As Legault puts it in his translator’s note: “Emily Dickinson used to exist. Now
+she’s doing it again.” Some repairs and inclusions have become necessary.
+What The Emily Dickinson Reader works towards explicitly that Nets does
+implicitly is the acknowledgement of the unavoidable space the reader and our ideas
+about ourselves (at the very least as readers) take up when we read poetry. In The
+Emily Dickinson Reader, this is served out by the invocation of the bad reading; in Nets,
+the attention to the history of poetry that is always with us in which the reader is an
+archaeologist, sifting through layers. Perhaps this is what presents the starkest contrast
+to the work of Place and Goldsmith, wherein the reader is either rebuked— coldly
+“remind[ed]” of the fact of oppression, as if we forgot, and as if it was not currently being
+
+39
+borne out on some of our backs— or even tortured, our hot emotions (and the texts
+colored by them) played upon to saturate the hues of the Conceptualist mirror. In either
+of the latter two examples, the reader/ thinker’s role seems rather less clearly imagined.
+This helps to explain why Notes on Conceptualisms' symbolic space left to the reader is
+an empty offer, its democratic rhetoric belying a programmatic instruction as to how to
+read Conceptual poetry. Standing afront Duchamp’s urinal, Place and Goldsmith would
+rather you watch them piss in it than get out of the way so you might consider what work
+you are up to. Or less rudely: where Nets and The Emily Dickinson Reader involve the
+reader in their violated texts so that she might step back and observe herself, Place/
+Fitterman’s paradigm imagines her so vaguely that whether she is reading or thinking—
+interchangeably constituting a readership or thinkership— is a distinction not so much
+explained as dismissed. What matters most to Notes’ procedure is simply that the
+reader/ thinker has a front row view of Place claiming the black body as her own,
+dominating the reader/ thinker while decrying the dominance of the masters that came
+before— the hermeneutic possibilities of the poetry curtailed by the aggressive
+showmanship and combative politicking of its creator.
+That Nets is employed in Notes’ arguments— if in a manner I think poorly suits
+both— makes clear that there is room in even Place/ Fitterman’s Conceptualisms for
+poetry whose preoccupations are primarily with literature itself, as opposed to those
+hotter texts and the politics of oppression from which they draw heat. The work of The
+Emily Dickinson Reader too takes place decidedly within poetry’s more hallowed halls.
+Insofar as both come closer to the assassination of poetic mastery— or at least radically
+democratized reframing of mastery— Place/ Fitterman seek, I’ve made my case. But I’d
+
+40
+like to explore here a work outside the Conceptualist scheme whose textual disruptions
+lead to failures of political expectations beyond an explicitly literary scope. It is with
+admitted pleasure that I’ll start in on Joan Retallack’s A I D /I/ S A P P E A R A N C E:
+A I D /I/ S A P P E A R A N C E
+for Stefan Fitterman
+for Stefan Fitterman
+1. in contrast with the demand of continuity in the customary description
+2. of nature the indivisibility of the quantum of action requires an essential
+3. element of discontinuity especially apparent through the discussion of the
+4. nature of light she said it’s so odd to be dying and laughed still it’s early
+5. late the beauty of nature as the moon waxes turns to terror when it wanes
+6. or during eclipse or when changing seasons change making certain things
+7. disappear and there is no place to stand on and strangely we’re glad
+AIDS
+for tefn Fttermn
+1. n contrt wth the emn of contnuty n the cutomry ecrpton
+2. of nture the nvblty of the quntum of cton requre n eentl
+3. element of contnuty epeclly pprent through the cuon of the
+4. nture of lght he t o o t be yng n lughe tll t erly
+5. lte the beuty of nture the moon wxe turn to terror when t wne
+6. or urng eclpe or when chngng eon chnge mkng certn thng
+7. pper n there no plce to tn on n trngely we’re gl
+BHJCERT
+fo fn Fmn
+1. n on w mn of onnuy n uomy pon
+2. of nu nvly of qunum of on qu n nl
+3. lmn of onnuy plly ppn oug uon of
+4. nu of lg o o yng n lug ll ly
+5. l uy of nu moon wx un o o wn wn
+6. o ung lp o wn ngng on ng mkng n ng
+7. pp n no pl o n on n ngly w gl
+FGKQU
+o n mn
+1. no n w m no on ny no my pon
+2. o n nvly o nm o on n nl
+3. lm no onny plly pp no on o
+4. no l o o yn nl ll ly
+5. l y o n moon wx no own wn
+6. o n l pow n n no n n mn n n
+
+41
+7. pp n no pl o no n n nly w l
+LPV
+o n mn
+1. no n w m no on ny no my on
+2. o n ny o nm o on n n
+3. m no onny y no on o
+4. no o o y n n y
+5. y o n moon wx no own wn
+6. o now n n no n n mn n n
+7. n no o no n n n y w
+MOW
+n
+1. n n n n n y n y n
+2. n n y n n n n
+3. n n n y y n n
+4. n y n n y
+5. y n n x n n n
+6. n n n n n n n n n
+7. n n n n n n y
+NX
+1. y y
+2. y
+3. y y
+4. y y
+5. y
+6.
+7. y
+Y
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+Procedural note: The disappearance moves through the letters of the alphabet
+(and the source text) in this way: Beginning with letters A I D S, it spreads to
+adjoining letters B H J C E R T, to F G K Q U, to L P V, to M O W, to N X, to Y.
+Part of the source text is from “The Atomic Theory and the Fundamental
+
+42
+Principles Underlying the Description of Nature” in The Philosophical Writings of
+Niels Bohr, Volume 1, Atomic Theory and the Description of Nature. (Ox Bow
+Press, Woodbridge, CT, 1987).70
+In terms of constructing a linguistic machine, I can imagine few more affecting
+examples. Retallack’s deletions answer to so automatized a procedure that even the
+poem’s dedication, by which the poet intercedes personally to offer the work, is not
+spared destruction. The formatted citation of the disappearing quotation is similarly
+arresting, offering a sense that the text has been officiated by means of a protocol that
+answers to a professional standard of reference. In terms of the linguistic machine
+Goldsmith speaks of by comparison, I find myself less convinced: for all the
+prescriptions of Notes, I am less sure of the motif’s accommodation of Place/
+Fitterman’s or Goldsmith’s paradigm, whose procedures are decidedly more flexible and
+unpredictable— which is to say, what a machine’s aren’t.
+That may be a moot point— if Place/ Fitterman seek to build a machine that fails
+your expectations, it may fail too to resemble a machine at all, and that is, after all,
+precisely the sort of Lacanian riddle Notes is built on. But even putting aside claims to
+the form of the machine, that which Retallack’s serves is a politic far more dynamic
+than, say, Place using hers to remind you of chattel slavery. To this end, we should start
+by acknowledging that Retallack’s poem constructs its viral procedure by rendering the
+ravaging of disease as a textual one— perfectly, if I may say so. But before it selfdestructs— or more precisely, uses its procedure to destroy its found text— the poem
+acts on more than its most obvious analogy of loss. By erasing the text of itself— indeed
+
+70
+
+Retallack, Joan. “A I D /I/ S A P P E A R A N C E.” PROCEDURAL ELEGIES/ WESTERN CIV CONT’D.
+New York: Roof Books, 2010. 24-25. Print.
+
+43
+“in contrast with the demand of continuity in the customary description—” the poem
+ventures itself as vulnerable to such a disappearance that, as the title suggests, AIDS is
+only one. The poem wields itself against itself, and thus does the poem no sooner claim
+its found text than does it eclipse that text by the governing procedure, instantly
+rendering the found text as unreadable fragments bearing only their inky materiality in
+common with their origins. “There is no place to stand on,” even if the reader fights to
+pronounce “nvblty” (from “indivisibility”) and, indeed, “strangely, we’re glad:” even as the
+poem evokes the tragic, the impersonal, and the unrelenting, its program of deletions is
+engrossing. There are some disappearances, the poem implies, from which not even
+those things without bodies— like poems— are immune. Behind her ceaseless
+machine, the poet, too, disappears.
+So the explicitly political thread I find bound up in A I D /I/ S A P P E A R A N C E,
+is simply another of these disappearances— that by which those victims of AIDS were
+erased by their state— the political death suffered by AIDS victims before the bodily
+one. To ascribe this to the history of only, say, the the failure of the American president
+to publicly acknowledge the existence of the disease before it had taken thousands of
+lives, or even more generally to those attitudes of homophobia to which that failure is
+often attributed, would be irresponsible. AIDS still ravages the developing world in as
+unencumbered a manner as it did in the United States then despite the development of
+treatments. And on these shores, AIDS has accordingly accommodated the local politic:
+for those whose financial and political precarity does not forbid their seeking treatment,
+the disease is a manageable condition not at odds with considerable health. For those
+whose does, the narrative remains decidedly one of crisis. Insofar as AIDS is a
+
+44
+disappearance in the poem, this political one is too encompassed— and the deleting
+space offered up by the poem not only one of mourning as part of the ancient
+observance of loss— by which “the beauty of nature as the moon waxes turns to terror
+when it wanes—” but one of the citizen’s reclaiming, by which the loss can be
+understood as a complaint, if a doomed one, in defiance of the political death.
+It is in this political aspect that A I D /I/ S A P P E A R A N C E’s positioning of the
+reader seems clearest to me. In the face of its various disappearances— textual, bodily,
+political, and authorial— the reader serves not as Bervin’s archaeologist, or Legault’s
+student, or Goldsmith’s audience. Instead, the reader serves here as a witness— the
+last role of refuge available to those who face their destruction or oppression. That the
+reader registers her “terror” and pieces through its various implications, is the program
+of her reading. Where Place and Goldsmith hold up the Conceptual mirror, expecting
+the reader/ thinker to draw their own conclusions (so long as those conclusions adhere
+to certain premises) or simply remind the reader/ thinker of the fact of political
+oppression— in either case relying heavily on the reader/ thinker to figure out for herself
+what politically efficacious action should follow— Retallack makes room for a political
+role for her reader literal and not symbolic in its scope. The poem’s destruction makes
+us a witness, watching as its line thin themselves out towards total disappearance. And
+yet the sense that the work might reinscribe the law of the tragedy it describes is not
+nearly so present as in, say, The Body of Michael Brown: no less emotional (or, if you
+insist, “hot”) than Brown’s autopsy, the text ventures itself and its own destruction— its
+own identity up for grabs— by its deleting procedure. If we are to be disappeared, the
+poem is going down with us. If we survive, it will be with a clear notion of our political
+
+45
+responsibility as witnesses and perhaps even the role poetry can serve as to fulfilling
+that responsibility.
+
+46
+Conclusions
+This project is as imperfect as it is simply incomplete. I’m not sure more time
+would have helped, though it is a bad habit of mine to say yes, always yes to that
+question. A more thorough project would have involved some discussion of the
+connections between the Conceptual poets and the visual arts movement from which
+they draw their name. As implied here, the matter disinterests me insofar as the
+connection seems like a stretch on the part of the former; I do not think basic artistic
+strategies or procedural moves define a meaningful alliance, which would seem to
+emphasize similarities of means to the detriment of considering their ends. Likewise, a
+consideration of the Language poets whose path from the avant-garde into the
+academy preceded the Conceptual poets’ acceptance of this route might have been
+interesting— though again, but for a shared enmity of the lyric and its dominance of the
+canon, I’m not sure I see as many compelling parallels as I do a shared means (and
+venue) towards different ends. Perhaps my favorite Language text, Lyn Hejinian’s My
+Life, intervenes upon the medium of the autobiography to create an account of oneself
+far more suggestive and encompassing than the elided narratives I associate with that
+medium. And yet I have seen little in Conceptual poetry that equips itself with the
+linguistic tools to perform either so nuanced or so specific an intervention. Finally, and
+probably most maddeningly, I am sore over the second chapter, which I enjoyed writing,
+and which should have gone on for longer if only because I enjoyed it— reason enough,
+I say! That there is enough in its readings to bear out what I struggled to find in Notes
+on Conceptualisms is possible given a generous reader. That I should have gone further
+is undeniable.
+
+47
+Nonetheless, this project represents as clear and reasoned an argument as to
+my trouble with Conceptual poetry as I’ve ever been pushed to make. Having spent long
+hours reading interviews with Vanessa Place and Kenneth Goldsmith, and even longer
+ones on Notes on Conceptualisms, I feel sure that the holes in their poetics are indeed
+as wide as I imagined, and their ideas about who reads or thinks about their poetry as
+unencouraging. If I duck up from the texts here at the end, it’s to say that I doubt very
+much their poetry is for anyone outside their particular corner of the academy (which,
+okay— another similarity to the Language poets). It is not for me, who is unlikely to
+return to any corner of the academy after this. But I at least as encouraged by what I
+found in Jen Bervin, as well as other Conceptual poets whose consideration would have
+been included had this paper been what it could have been— included in this are Stacy
+Doris, Juliana Spahr, and poor Rob Fitterman, who is unfairly yoked to Vanessa Place
+for the entirety of this project. But even in just Bervin’s Nets and the parallels I saw
+between her work and that of Paul Legault and Joan Retallack, I was made me hopeful
+that other Conceptualisms (and Conceptualists) were not only possible, but already
+realized— simply less publicized than those more troubling manifestations. I’ll take that
+last refuge of the unfinished, then: that this project, if nothing else, is a place from which
+I’ll move on to other, better Conceptualisms— ones whose strategies are not employed
+to shuck its authors of their responsibilities, but to invite something from and make
+space for their reader/ thinker— in good faith.
+
+48
+Works Cited
+“About Interrupt 3.” Interrupt 3. Brown University. Web. 14 September 2015.
+Adorno, Theodor W. "Cultural Criticism and Society." Negative Dialectics. Trans. E. B.
+Ashton. London: Routledge and Kegan Paul, 1973. 362-363. Print.
+Aprea, Jonathan. “Death is What’s Happening.” BOMB 11 November 2012. Web. 10
+September 2015.
+Becker, Jo, and Scott Shane. “Secret ‘Kill List’ Proves a Test of Obama’s Principles and
+Will.” The New York Times 29 May 2012. Web. 29 May 2012.
+Bedient, Calvin . “Against Conceptualism.” Boston Review 24 July 2013. Web.
+“Best Sellers in American Poetry.” Amazon. 12 November 2015. Web. 12 November
+2015.
+Bosman, Julie, and Monica Davey. "Protests Flare After Ferguson Police Officer Is Not
+Indicted." The New York Times 24 November 2014. Web. 11 August 2015.
+Brecht, Bertolt. The Threepenny Opera. Trans. Desmond Vesey. New York: Grove
+Press, 1960. 92. Print.
+Chen, Ken. “Authenticity Obsession, or Conceptualism as Minstrel Show.” Asian
+American Writer’s Workshop. 11 June 2015. Web. 1 November 2015.
+Dickinson, Emily. “5.” The Complete Poems of Emily Dickinson. Boston: Little, Brown,
+1960. 7. Print.
+Fitterman, Robert, and Vanessa Place. Notes on Conceptualisms. Brooklyn: Ugly
+Duckling Presse, 2009. 1. Web. 11 August 2015.
+Goldsmith, Kenneth. “Flarf is Dionysus. Conceptual Writing is Apollo.” Poetry July/
+August 2009. Web. 10 July 2015.
+Halpern, Jake. “The Cop.” The New Yorker 10 August 2015. Web.
+Harris, Andrew, and Edvard Pettersson. “Ferguson Officer Darren Wilson Told Grand
+Jury He Feared for His Life.” Bloomberg 25 November 2014. Web. 13 September
+2015.
+Kaplan, Josef. Kill List. Baltimore: Cars Are Real, 2013. 22. Print.
+“Kenneth Goldsmith reads poetry at White House Poetry Night.” Online video
+clip.YouTube. Youtube, 12 May 2011 Web. 12 May 2011.
+
+49
+
+Legault, Paul. The Emily Dickinson Reader: An English-to-English Translation of Emily
+Dickinson's Complete Poems. San Francisco: McSweeney's, 2012. 4. Print.
+Metres, Philip. “Philip Metres reviews Nets, by Jen Bervin’” Jacket 2 February 2004.
+Web. 9 September 30 2015.
+Moss, Jeremiah. “Goldsmith’s Capital.” Jeremiah’s Vanishing New York. Blogspot.
+Blogspot 10 November 2015. Web. 10 November 2015.
+Place, Vanessa. “Artist’s Statement.” Drunken Boat. Drunken Boat. Web. 10 November
+2015.
+Place, Vanessa. “‘Notes on Conceptualisms’: A dialogue between Vanessa Place and
+Tania Ørum.”Jacket 2 22 February 2012 — 22 June 2012. Web. 13 August 2015.
+Retallack, Joan. “A I D /I/ S A P P E A R A N C E.” PROCEDURAL ELEGIES/
+WESTERN CIV CONT’D. New York: Roof Books, 2010. 24-25. Print.
+Rilke, Rainer Maria. “To Höldernin.” Uncollected Poems. Trans. Edward Snow. Ed.
+Edward Snow. New York: Farrar, Straus and Giroux, 1997. 107. Print.
+St. Louis Dispatch Daily. “PDF: Autopsy Report for Michael Brown.” 21 October 2014.
+Web. 7 September 2015.
+Sandhu, Sukhdev. “Kenneth Goldsmith interview: ‘I wanted to take Walter Benjamin off
+the pedestal and on to the coffee table.’” The Guardian 21 November 2015. Web.
+9 October 2015.
+Stevens, Wallace. “Cuisine Bourgeoisie.” The Collected Poems of Wallace Stevens.
+New York: Vintage Books, 1990. 227. Print.
+“Uncreativity as a Creative Practice.” Electronic Poetry Center. University of Buffalo. 10
+November 2000. Web. 16 October 2015.
+Varadharajan, Asha. "The Unsettling Legacy Of Harold Bloom's ‘Anxiety Of Influence.’"
+Modern Language Quarterly 69.4 (2008): 461-480. Academic Search Premier.
+Web. 1 December 2015.
+Wilkinson, Alec. “Something Borrowed." The New Yorker 5 October 2015. Web. 5
+October 2015.
+
+

@@ -1,0 +1,2982 @@
+Bard College
+
+Bard Digital Commons
+Senior Projects Spring 2013
+
+Bard Undergraduate Senior Projects
+
+2013
+
+"(A) boot stamping on a human face--forever:"
+Gender, Sex, and Human Rights in Science Fiction
+Rosemary Karin Limburg
+Bard College
+
+Recommended Citation
+Limburg, Rosemary Karin, ""(A) boot stamping on a human face--forever:" Gender, Sex, and Human Rights in Science Fiction"
+(2013). Senior Projects Spring 2013. Paper 227.
+http://digitalcommons.bard.edu/senproj_s2013/227
+
+This Access restricted to On-Campus only is brought to you for free and
+open access by the Bard Undergraduate Senior Projects at Bard Digital
+Commons. It has been accepted for inclusion in Senior Projects Spring
+2013 by an authorized administrator of Bard Digital Commons. For more
+information, please contact digitalcommons@bard.edu.
+
+“[A] boot stamping on a human face—forever:”
+Gender, Sex, and Human Rights in Science Fiction Literature
+
+Senior Project submitted to
+The Division of Social Studies
+of Bard College
+
+by Rosemary Limburg
+Annandale-on-Hudson, New York
+May 2013
+
+I dedicate this to Mr. Saylor, my tenth grade English teacher, who taught me about
+symbolism and how to appreciate analyzing a novel.
+
+I would like to acknowledge all the hard work that my advisers, Professors Stevens and
+Keenan, put into this project. They always had great advice and suggestions. I would
+also like to thank Olivia Madden for listening to my crazy ideas all year and helping me
+sort the good from the bad. My parents have also been immensely supportive and I
+love them dearly for giving me the opportunity to study at a place like Bard College. I
+should also remember the Inquiring Minds Bookstore in Saugerties where I wrote most
+of this project. Also, thanks to my sea foam green tea thermos. Thank you for being
+with me the whole way. Thank you all so much for all your patience and care.
+
+Table of Contents
+
+Intro ………………………………………………………………………………………………1
+Chapter One
+Vying Humanities ……………………………………………………………………………..11
+Chapter Two
+Perverted Societies …………………………………………………………………………...37
+Chapter Three
+Consuming Reality …………………………………………………………………………...65
+Conclusion….. …………………………………………………………………………………86
+Bibliography ….. ………………………………………………………………………………91
+
+1
+
+Introduction
+Setting the Stage
+Thought-Experiments
+
+“The purpose of a thought experiment, as the term was used by
+Schrodinger and other physicists, is not to predict the future—indeed
+Schrodinger’s most famous thought-experiment goes to show that the
+‘future,’ on the quantum level, cannot be predicted—but to describe reality,
+the present world. . . . Science fiction is not predictive; it is descriptive.”
+(Introduction to Le Guin’s Left Hand xii)
+
+Science fiction literature (SF) is not concerned with speculating about the future.
+Rather, it is interested in depicting the present.
+
+Ursula Le Guin suggests that SF
+
+achieves this by representing the everyday, by “inventing persons, places, and events
+which never did and never will occur” (Intro Left Hand xiii).
+In this paper I examine three SF novels: George Orwell’s 1984, Le Guin’s The
+Left Hand of Darkness, and Philip K. Dick’s The Simulacra. Orwell, Le Guin, and Dick all
+place these narratives in a time after the novel’s publishing, the future. If these stories
+were merely musings on the future, they would be of no interest to me. I am interested
+in what these stories say about the now. How these authors define humanity and the
+rights important to maintaining their concept of humanity is the issue.
+I use 1984, Left Hand, and The Simulacra to explore issues of government
+control.
+
+The ways in which these governments control the populations they are
+
+responsible for has its roots in the time when the novels were written. All these authors
+are inspired by something they see in the world. They catch on an issue and write
+about it, either to mediate on, or warn about, a situation.
+
+2
+
+Why a Novel?
+SF writers are attracted to novels because this medium allows them creative
+freedom in representing the present.
+
+Le Guin believes that by “inventing persons,
+
+places, and events which never did and never will occur” authors can draw on the real
+world to express a fictive one (Intro Left Hand xiii). I think that these three authors turn
+to SF novels because it allows them to communicate concerns about the present in a
+comfortable fashion.
+A reader can meditate on the dangers of totalitarianism in 1984, the repression of
+sexual self in Left Hand, and the implications of media use by governments in The
+Simulacra safely. A reader can learn about his or her current reality without admitting
+that the novels are telling the “true.” Le Guin suggests that “writers, at least in their
+braver moments, do desire the truth” but that the writers are “liars” and “insane” (Intro
+Left Hand xiii). She suggests this because of the propinquity between the fictive and
+real in the novels. A novelist builds a world in his or her novel by drawing on the real to
+breathe life into the imaginary. This helps the reader contextualize the unfamiliar by
+connecting it with the familiar. The real world is less terrifying if it is wrapped up in
+characters, their invented motives, and the dangers of a written world. Essentially, I
+think Orwell, Le Guin, and Dick chose the format of a novel for the expression of their
+concerns because it allows them to address the real world by constructing fantastical
+ideals upon it.
+SF in particular is useful for this goal, because the stories of this genre generally
+occur in the future. The reader is separated from the discomfort of reality by time as
+well as imagination.
+
+Perhaps it is soothing to think that the world has not yet
+
+3
+
+deteriorated into the anti-utopia presented in a novel. Due to the structure of the novel
+the audience assumes that somehow everything will work itself out in the end.
+These three authors play on this layout.
+
+Orwell does this by creating a
+
+understandable protagonist, Winston. Winston is relatable because he desires to return
+to the reader’s present and holds more in common with the reader than the Party. Yet,
+Winston fails. He is converted. Hope is dashed and the Party triumphs (297). Le Guin
+allows Genly to overcome his discomfort with androgyny but the reader is left with the
+feeling that Genly can never return home. At the end of the novel, when he is reunited
+with other permanently gendered and sexed beings, he sees them as animals and must
+retreat (296).
+
+Dick ends the novel with the disillusionment of the public, a battle
+
+between the military and the police, and a foreboding sense that the human race, as the
+reader conceives it, is falling1 (230).
+
+Recurring Sources
+There are a couple of theorists that are important to my analysis in more than
+one chapter such as Isaiah Berlin and Michel Foucault.
+Isaiah Berlin’s concept of liberty2 is helpful. Berlin suggests that freedom exists
+in two senses: “negative” and “positive” (Berlin 194). These do not refer to bad or good,
+simply different definitions of liberty. Negative freedom refers to a “liberty from” (199),
+whereas the positive sense ascribes a “freedom to” (203). The “liberty from” formula
+1
+
+Though it does not figure into my analysis, I am interested by Dick’s “chuppers.” The chuppers are a
+“raidiation-spawned race” which are relegated to unpleasant areas where no one else wants to live (104106). It is a widely held theory in the novel that chuppers are “throwbacks” to “Neanderthals” (107). Dick
+ends the novel at a chupper meeting where the “human” characters says, “I think . . . we’re going to have
+to become accustomed to them [the chuppers]” (230). Dick suggests that humanity itself is changing, and
+that though “we’ve been the dominant species . . . It’s over.” (227).
+2
+Or freedom, as Berlin uses them interchangeably (194).
+
+4
+
+becomes “coercion” because Berlin sees it as “warding off interference” by control
+(199). It becomes the duty of the government to control men in such a way that they
+cannot interfere with one another. The logic behind “freedom to” leads to a justification
+of control by those who know better than an individual who does not know their “‘true’
+self.” The “true self” is identified with “higher nature” or the “ideal” self. In this sense, it
+is for the good of mankind that some are oppressed3 “in the name of some goal” (204),
+such as the Party’s desire for power.
+The Party understands power in a negative4 way because It believes It knows
+best, and this domination by forced uniformity becomes a means to an end. Berlin’s
+positive freedom also appears in my third chapter because the USEA indulges the
+wants of its public, controlling the populace by giving them what they want.
+Foucault’s concept of “perpetual spirals of power and pleasure” comes up in my
+first and third chapters as well. In The History of Sexuality: An Introduction Foucault
+says, “The sodomite had been a temporary aberration; the homosexual was now a
+species” (43).
+
+The naming and study of sexual “aberrations” created a form of power
+
+through ordering. I would argue that this power fits into Berlin’s negative type because
+the assumption behind this cataloging is that the observed do not know how to properly
+exercise their freedom.
+
+Therefore, the observer must free the observed from the
+
+burden of liberty. If the observer succeed the observed would not be freaks. Foucault
+suggest that this type of power adds a dimension of “pleasure” because closer
+observation and conversation were necessary to properly catalog all the species. This
+greater contact allowed a “sensualization of power and a gain of pleasure” (43-44). This
+
+3
+4
+
+Berlin uses “oppressed” when human beings are stopping other human beings from something (Berlin 195).
+Are you sure its “positive” and not “negative”? Or can a power use both?
+
+5
+
+became an “impetus” for the “very exercise of power,” for the desire for pleasure could
+lure individuals into exercising power.
+
+He also claims that the questioned felt a
+
+pleasure: “fixed by a gaze, isolated and animated by the attention they received.” The
+pleasure felt by the questioner and the questioned begets a cycle Foucault refers to as
+“perpetual spirals of power and pleasure” (Foucault’s emphasis 45).
+This appears in my analyses of 1984 and The Simulacra. I use the suggestion
+that the Object of power experiences pleasure from their objectification to complicate
+the power relationships I describe.
+Focault’s Panoptican is important in chapters one and two. The Panoticon was
+originally conceived of by Jeremy Bentham as a prison. Later, Faucault played with the
+theory of power behind the concept in his Discipline and Punishment. The Panopticon
+is a building design which calls for a tall, dark-windowed tower in the middle of walls
+honeycombed with cells (200). The principle behind the design is that the person in the
+tower can see all the prisoners but the prisoners cannot see each other or the watcher.
+The observer is not really relevant, for the prisoners know that they may always be
+watched and therefore “[assume] responsibility for the constraints of power . . . he [the
+prisoner] inscribes in himself the power relation in which he simultaneously plays both
+roles; he becomes the principle of his own subject” (202-203). Meaning, the prisoner
+will act as if he is always being watched, he will become the model of good behavior.
+The Party uses a similar principle through the numerous telescreens (3),
+surveillance devices based on televisions. This is just one more way to force uniformity;
+the public becomes in effect a self-policing force. The Orgoreyn government in Left
+
+6
+
+Hand utilizes a group called the Sarf to monitor and restrict public knowledge, mostly
+through radio broadcasts (142-143).
+
+Chapter One: Vying Humanities
+Orwell, witnessed several wars and was concerned by “the danger that lies in the
+structure imposed on Socialist and Liberal capitalist communities by the necessity to
+prepare for total war with the USSR . . .” (Deutscher in Khouri 145). Enlivened by fear
+of the future implications of Stalinist Russia and the repression involved in its control,
+Orwell wrote 1984 as a warning.
+
+He uses these fears to build a world where
+
+totalitarianism is fetishized (Khouri 144).
+
+Orwell works with the general concept of
+
+dominating governments, utilizing the cultural memory and assumed knowledge of the
+reader. He works directly addresses what the reader knows.
+Winston, the protagonist of 1984, lives in a totalitarian society controlled by the
+Party in Oceania, what used to be London. The Party controls every aspect of life by
+use of the telescreen and taught mind policing. Through the telescreen, every citizen of
+the Party is monitored potentially every moment. Winston’s job at the Ministry of Truth
+involves falsifying newspapers to align with the Party. The past becomes malleable, the
+Party must always be right and the past is rewritten to reflect Its glory.
+Winston struggles with the Party’s domination. He wishes to recover the “private
+loyalties” and “mere impulses” (165) stomped out by Big Brother, the Party’s figure
+head. I argue that the Party redirects these loyalties and impulses for Its own use. The
+sentimental love Winston remembers for his mother must be rerouted to Big Brother
+and the sexual desire he feels for Julia should be directed to the Two Minute Hate (11)
+
+7
+
+and Hate Week (56). Ultimately, 1984 is a struggle between two definitions of liberty
+and the forms of humanity derived from them. The Party supports a negative freedom,
+wanting to clear Its charges from the weight of free thought and action. Whereas,
+Winston desires to be different, to freely experience life opposed to Part rule; this is
+liberty in a positive sense.
+
+Chapter 2: Perverted Societies
+Observing the sex and gender inequality in her society, Le Guin sought to
+“eliminate gender; to find out what was left” (Gender Redux 10) in Left Hand. Le Guin
+wanted to examine what was human without the static of gender. To this end, she
+created Gethen and populated it with androgynous beings who have the potential to
+become sexed and gendered male or female a few days a month. Then she sent our
+narrator Genly Ai, an Envoy from the Ekumen, to Gethen. Genly is sexed and gendered
+male, he comes from a society similar to the reader’s in which gender roles are
+supposed to align with sex. During his time on Gethen, Genly is interred at a Voluntary
+Camp in Orgota. People who are “mental or social defects” are sent to the camps to die
+of cold (170). At the camps Genly witnesses kemmer represent drugs, which remove
+the ability of Gethenians to become gendered, sexed, and experience sexuality. In this
+way, chemical castration and loss of potential potency are used to control.
+Here, Le Guin draws on similar material as Orwell, fear of totalitarian
+government. Yet, she focuses on the internment camp aspect, such as the Russian
+gulag. She is also drawing on the tension between genders. By drawing on these
+cultural memories and concerns and allowing them to influence the construction of a
+
+8
+
+complex society, Le Guin connects the reader to the text.
+defamiliarizing the subject matter for the reader.
+
+Le Guin works by
+
+She tweezes out the issues and
+
+knowledge of the reader until the reader is able to view the main question from a
+distance.
+In this chapter, I examine Le Guin’s attempt to write an androgynous race in
+English, which has inherently sexed and gendered undertones. She chooses masculine
+pronouns for all of the Gethenians. I suggest that this genders the characters male for
+the readers undermining her experiment.
+Also, even though she attempts to “eliminate gender” (Gender Redux 10), Le
+Guin reinstalls the male and female genders with kemmer5, rather than creating a third
+gender or a new form of reproduction that would not require two person intercourse.
+Her decision to return to a two sex and gender system undercuts, for me, the
+importance of the male/female relationship. I suggest that if Le Guin reinstitutes the
+dual sex arrangement then the gendering of either male or female must be important to
+Le Guin. Or how Le Guin believes we culturally define human beings.
+
+Chapter 3: Consuming Reality
+Dick attempts to address the pervasive nature of the media and how it can be
+used for government control. In The Simulacra, Dick writes a world filled with simulacra,
+simulations or imitations of life. In this world, Germany became the fifty-third member of
+the United States of Europe and America (USEA) in 1994 (21). The President is called
+the der Alte and, unbeknownst to the public, he is a simulacrum (32). A new der Alte is
+
+5
+
+The period of two to five days in which a Gethenian takes on a male or female sex and the gender that
+accompanies it.
+
+9
+
+elected every four years, not only to lead the country, but to be Nicole’s husband (16).
+Nicole is a dynamic woman whose image saturates public state controlled media.
+For me, more than these other novels, Dick works with pieces of the familiar
+which he then distorts and follows to their logical conclusion. The lengths to which Dick
+draws his conclusions feels almost farcical.
+I examine the image of Nicole in the context of Laura Mulvey’s theory on the
+“male gaze.” Mulvey considers cinema and postulates a private voyeuristic viewing
+which privileges the male and give him power over the image of the female.
+I suggest that Nicole’s image is used to control the male population because, as
+one of the characters asserts, Nicole is a woman “on whom an entire nation, almost an
+entire planet, dwelt obsessively” (18). I analyze two male character’s specifically, Ian
+Duncan and Richard Kargosian. Both of these characters are sexually attracted to the
+image of Nicole and are invested in the image, and the reality they construct around her
+image. Ian says that Nicole is “more real than anything else . . . [e]ven than myself, my
+own life” (122). A psychoanalyst explains that Kongrosian “has a delusion that’s so
+overpowering. He experiences Nicole Thibodeaux as real. Whereas actually she’s the
+most synthetic object in our milieu” (99-100). The reality these characters construct
+around Nicole’s image becomes more concrete to them than the actual reality that they
+physically inhabit. In this fashion the image of Nicole becomes a control mechanism for
+the USEA government.
+Ultimately, I decide that the government of the USEA is moving towards the Party
+in 1984. However, at the point during which Dick’s novel takes place, the image of
+Nicole is used for reasons more political than dehumanizing. The Party’s system works
+
+10
+
+because there is no alternative available.
+
+Any attempt to resist is sought out and
+
+squashed. In America circa 2040, people are not observed in the same way, dissent is
+possible.
+
+Human Rights in My Project
+I am interested in these novels as a representation of the present. How these
+authors depict the present is important because it allows the reader a comfortable
+space in which to consider current issues. I focus on how governments use sex and
+gender to control people and what these techniques convey about humanity, or the
+conditions on which one is human.
+I also look ways in which “human rights” are violated in these texts. Berlin’s
+concept of the “dominant self” (204), as something that all relate to is important to my
+understanding of human rights. What makes us human has to do with what we cannot
+give up, what we all hold in common, what we are afraid of losing because it is integral
+to our understand of ourselves and the human race. However, the concept of human
+rights is still developing.
+
+As these authors write about human rights or what they
+
+consider important to being human they contribute to the growing discourse of human
+rights.
+My close readings and analysis suggest that the potential to choose is important
+to human rights.
+
+All three authors present situations in which the characters are
+
+restricted in their decisions by governments.
+
+The consensus appears to be that
+
+governments have the potential to violate the private sphere and an individual’s right to
+choose or act within that space.
+
+11
+
+Vying Humanities
+
+Setting the Stage
+Before diving into my analysis, I would like to introduce some theorists and their
+ideas. By doing so, I hope to set up some of the concepts I am working with in this
+analysis. The rest of this chapter consists of interweaving my close reading of Orwell’s
+1984 and these theorists. I am largely interested in how the Party utilizes power over,
+and derived from, pleasure.
+
+I argue that the Party controls the acts of sex and
+
+sentimental or familial love by transferring these emotions and acts out of the private
+arena and into the public, where Hate takes the place of sex and Big Brother is loved by
+all.
+Kathryn Grossman suggests that: “The real corruption of the utopian impulse
+resides . . . in its exclusion of the concept of difference” (53). Everyone must be the
+same, for all desires separate from those of the Party hinder It’s power. It is to this end
+that what Winston identifies as human, impulses and instincts, are crushed. Anything
+outside of Party regulation threatens the uniformity It fosters with doublethink. Oceania
+is working on a Newspeak6 dictionary which seeks to whittle down the language until
+there is “exactly one word” to express everything (Orwell’s emphasis 52). Conformity
+will be assured because no one will be able to conceive of anything other than this one
+word.
+With the Party seeking to build a world with freedom from independent thought,
+all the aspects of Winston’s humanity will be lost. Bernard Crick suggests that the
+tragedy of 1984 is the loss of “mutual trust” (151). I understand this to be synonymous
+6
+
+A language built by combining words and ideas. It is the language of the Party (Orwell 52).
+
+12
+
+with what I mean by “mere impulses” or acts having “value” in themselves (165). Crick’s
+mutual trust is an aspect of instinctive human interaction, which is extinguished by Big
+Brother. Crick suggests that Winston’s affair with Julia is an affair of mutual trust rather
+than love because they do not betray one another until the very end (151). I agree with
+Crick on this point: it is only when their trust, which I refer to as their “truth,” is broken
+that Julia and Winston give in to the Party. However, I do think that the term “love”
+describes Winston’s emotions for Julia because mutual trust is part of my understanding
+of love. Also, mutual trust and love are both connected because they are threatened by
+the Party. The Party’s accomplishment is the desecration of the trust Winston and Julia
+had in each other and themselves.
+The destruction of mutual trust, instincts, and love are the mechanisms of Party’s
+control. Daphne Patai suggests that 1984 should be read as an elaborate game in
+which the Party (with O’Brien as Its face) is the principle mover and Winston is a pawn.
+Furthermore, she posits that Winston is shaped by the Party to be a suitable opponent
+because power means nothing without resistance. Patai suggests that the pleasure of
+exercising control is lost with resistance (Patai 858).
+
+Perhaps this pleasure is part of
+
+the reason the Party operates as it does, through constant observation in a
+Panopticonic way. The Panopticon was originally conceived of by Bentham as a prison.
+I think that the threat of constant observation helped erode mutual trust. The
+individual came to believe that they may always be observed, so the survival of the
+individual took precedence over connections with others, thereby preventing the growth
+of what Winston considers part of humanity.
+
+13
+
+Two Humanities
+
+"'You are rotting away,' he [O'Brien] said; 'you are falling to pieces. What are
+you? A bag of filth. Now turn around and look in that mirror again. Do you see
+that thing facing you? That is the last man. If you are human, that is humanity.
+Now put your clothes on again.'" (272)
+
+“Humanity” for the Party and “humanity” for Winston are two very different things.
+Winston is the "last man,” the sole representative of humanity: tortured by the Party until
+he is disgusting with dirt, bruised, and thin with hunger, until he no longer physically
+resembles the man earlier introduced (271). The Party values humanity insofar as
+humanity serves the Party’s purposes, defining humanity by its mental controls. The
+Party believes that humanity is animalistic and cannot survive without these reins. Big
+Brother's humanity exists only within the bounds of the Party for the Party.
+Using Berlin’s terms, the Party believes in the negative sense of liberty while
+Winston prefers the positive. The Party attempts to free men from concern by fostering
+an unquestioned control over them, down to policing the thoughts they can think by
+manipulating language. Opposite this, Winston desires liberty to experience, to feel,
+and to remember whatever the Party fears.
+O’Brien seems to question Winston’s humanity by saying, “If you are human”
+(272).
+
+He is suggesting that the dirt and Winston’s divergent desires negate his
+
+humanity in the Party’s ideal. This attaches the two kinds of liberty to the two forms of
+humanity practiced under them. Winston believes in a humanity based on instinct and
+the Party wants an obedient uniform population. 1984 is a struggle between two types
+of liberty and the humanity that flourishes under each.
+
+14
+
+If Winston is the last human being then humanity is disgusting, dirty, and
+diseased. O'Brien forces him to undress and "see [him]self as [he is]" (270). The
+descriptive language is foul: "ingrained dirt,” "filthy yellowish rags,” "grime,” "skin
+peeling,” "rotting,” and "emaciation" (271-272). Winston does not recognize the man in
+the mirror. Winston does not believe the last man to be himself. The "horror" (271)
+Winston feels suggests he still believes that humanity should be clean, healthy, and
+strong, unlike his reflected figure.
+This same horror, the belief that the Party simply cannot succeed because it
+should not, forces Winston to admit his faith in the "spirit of Man" (270). "Man" is
+capitalized, suggesting a broader meaning of humanity rather than an individual man.
+Berlin refers to this idea when he says the “real self” is “something larger than the
+individual” (204). The “real self” here simply refers to the part of the self attuned to a
+“higher nature” (204), something all people hold in common.
+attention to the word, turning it into a title.
+
+Capitalization draws
+
+Winston attempts to mark the word’s
+
+importance with an emphasis that Orwell implies, rather than forces on the reader with
+an in depth explanation. This "spirit" becomes a more universal idea that is accessible
+to the reader. This is in contrast of the spirit of Man to Winston's tortured body. The
+Party uses Winston's damaged body to make Its opinion of his ideas clear.
+Before forcing Winston in front of the mirror, O'Brien makes a speech about the
+Party's eternal nature and ability to regulate and create as It pleases (266-268).
+Winston's outraged response is that the Party will not succeed. He says, "Life will
+defeat you" (269). “Life” is capitalized here because it starts a sentence, but it carries a
+similar insinuation as “Man.” This suggests that "life" for Winston is key in opposition to
+
+15
+
+the Party. It is part of “life” and “human nature,” part of freedom, to rebel against what
+the Party stands for, a crippling of free will and self-determination. Winston does not
+use "life" to simply mean the “act of living.” He instead refers broadly to the acts that
+occur during life which give life value. Winston believes that "private loyalties" (164)
+and "love" are important motivations for living. Although not capitalized, private loyalties
+and love carry an import similar to that of the spirit of Man in that all of these extend
+beyond Winston to a wider human race. These tenets have slipped outside of Party
+control because they are innately common to all. These will stop the Party.
+The Party's humans do not want free will or the ability to experience life separate
+from the Party experience.
+
+Having succumbed to Party dogma, can these people
+
+actually experience freedom? If the Party is successful, then no, they cannot. Those
+infatuated with Big Brother want freedom from free will. Berlin asks, “What is freedom
+to those who cannot make use of it?” (196). This is the Party’s humanity, unable to
+appreciate freedom, in opposition to Winston’s individual and self-defining concept of
+what it is to be human. O'Brien reminds Winston of the Party’s control over Oceania's
+population, which is exerted by taught mental control techniques such as doublethink
+and crimestop (35). Winston believes that some portion of humanity will awaken to the
+Party's deeds and rise up, overthrowing It. He posits that it is human nature to do so.
+This fits with another of Berlin’s statements that “there ought to exist a certain minimum
+area of personal freedom which must on no account be violated” (196). Winston is
+arguing that this desire for “personal freedom” still exists and people will act to reclaim
+it.
+
+16
+
+O'Brien counters with the fact that the Party "create[s] human nature,” by use of
+doublethink, and in that creation "Humanity is the Party" (269). Since the Party controls
+humanity, humanity exists only within the Party to serve Its functions. Winston is a
+flawed product in the Party because he refused the Party’s domination, which leads to
+Its attempts to remake him in Its image. However, Winston has his own “human nature”
+and it demands rebellion against Party domination. He desires to fight oppression and
+create himself. Therefore, he is not the human product the Party desires. O'Brien goes
+further to suggest that humanity requires this control because humans are "helpless . . .
+animals" (269). Forcing Winston admit his dirtiness, his weakness, O’Brien strips him
+down to his basest primal nature. O’Brien is the perfect product of the Party. He
+represents Its humanity. O’Brien tries to make Winston admit that Winston is a helpless
+animal and that he needs the Party. Winston must become like O’Brien a creation of
+the Party.
+Winston's insistence on the "spirit of Man" implies independence from Party
+control, detached from the Party's image of humanity. However, Winston collapses and
+sobs after accepting the skeletal reflection as himself (273), suggesting that Winston is
+broken by the horror of his appearance and the reality of Party control. Winston’s
+collapse means victory for the Party. The aberration has recognized the futility of his
+resistance. He is almost ready to be remade.
+The Party's torture has destroyed Winston physically and tries to do the same to
+him mentally. Winston suggests that the mind, “the few cubic centimeters inside your
+skull” (27), is the last private place. The Party is obsessed with making its population
+believe it is always observed (5). In the Party’s world everything becomes public. In
+
+17
+
+torturing Winston, O'Brien brings the intolerably dirty insanity of Winston's mind out into
+physical view so it cannot be ignored by Winston. The private space of Winston's mind
+becomes public and he can see his “disease,” as conceived of by the Party. If this is so,
+then to a degree the "spirit of Man" may be broken. Yet Winston is not yet totally
+shattered, because he has not yet betrayed his lover, Julia (273). If the Party can
+change him, can make him betray Julia, It will have proved Its power and dominance.
+Winston’s humanity is inferior, an animal reaction that can be eviscerated.
+
+This
+
+overpowering of Winston’s concept of human nature fits with O’Brien’s expressed
+sentiment that, “If you want to picture the future, imagine a boot stamping on a human
+face – forever” (267). The Party’s domination is the “boot” and Winston’s spirit of Man is
+the “human face.”
+
+The crushing will be eternal. There will be no recovery once the
+
+Party has won.
+However, Winston is less interested in his physical decline than his unbetrayed
+love for Julia. The Party squashes the ability to form "private loyalties,” feel "impulses"
+(164), and experience love emotionally and physically. This suggests that the spirit of
+Man for Winston is more emotional than physical.
+
+However, the Party rejects the
+
+human ability to feel anything other than what It deems appropriate and therefore
+denies Winston’s version of humanity. Therefore, Winston’s humanity is the fallacy of
+an insane man (296). The Party must destroy Winston’s “real self” and replace it with
+Its own vision of self which is dedicated to the Party. He must be educated.
+
+Sentimental and Sexual Love
+"The terrible thing that the Party had done was to persuade you that mere
+impulses, mere feelings, were of no account, while at the same time robbing
+you of all power over the material world. When once you were in the grip of the
+
+18
+
+Party, what you felt or did not feel, what you did or refrained from doing, made
+literally no difference. Whatever happened to you vanished, and neither you
+nor your actions were ever heard of again. You were lifted clean out of the
+stream of history. And yet to the people of only two generations ago, this would
+not have seemed all-important, because they were not attempting to alter
+history. They were governed by private loyalties which they did not question.
+What mattered were individual relationships, and the completely helpless
+gesture, an embrace, a tear, a word spoken to a dying man, could have value in
+itself. The proles, it suddenly occurred to him, had remained in this condition.
+They were not loyal to a party or a country or an idea, they were loyal to one
+another. For the first time in his life he did not despise the proles … The proles
+had stayed human." (Orwell 164-165)
+
+In the face of the Party, in the face of coming time, a single, individual act can mean
+nothing. An individual act cannot affect history. However, whether that individual's
+actions carry major impact is not the point. The point is in why people love or share
+chocolate (163), in the moments people act on "mere impulse,” in casual emotions, in
+“mutual trust,” in sentimental moments when an individual acts instinctively and
+something of what Winston considers humanity shines through.
+
+In the past (the
+
+reader’s present) acting on these instincts was considered normal. However, the Party
+seeks to repress these impulses by making them appear useless; by doing so, They
+curtail an individual's ability to live parts of the human experience as Winston views it,
+which is to live according to human nature and the spirit of Man.
+Winston misses the ability to feel compelled by simple emotions, as opposed to
+Party interests.
+
+Such behaviors that would be natural to the peoples of "two
+
+generations ago" are unsafe now.
+
+Performing actions that cannot be explicitly
+
+explained away for the good of the Party is dangerous. He thinks of meaningless acts
+as that "have value in [themselves]" (165) as a thing of the past. Winston uses the word
+"mere" twice in reference to "impulses" and "feelings.”
+
+Impulses imply an underlying
+
+19
+
+unconscious desire to act, an urge.
+
+A feeling may drive an impulse. It is taken for
+
+granted that people feel for, even those under Party control feel, they hate and fear (11).
+These are emotions the Party stokes with the Two Minute Hate (11) and Hate Week
+(56). "Mere" is not used to delineate that something is in fact small or insignificant, but
+to convey a personal meaning. However, despite personal importance, impulses and
+emotions matter little to the Party. Perhaps Winston uses "mere" in acknowledgement
+of that unimportance to the Party while admitting that impulses and emotions are truly
+potent to the individual.
+
+Nowhere does Winston describe hate as mere. Hate is a
+
+strong emotion, both privately and to the Party's scheme. The Party perverts the human
+capacity for emotion and replaces the sentimental reactions with hate, serving the
+Party’s purpose. This is part of the Party’s method for creating “humanity.” Eventually
+all casual emotion will be eviscerated. No one will feel freely, rebellious human nature
+will be extinct, and Grossman’s fear of uniformity will come to pass.
+Sentimental or sexual love is unorthodox and useless to the Party.
+
+Hate,
+
+however is very useful. Julia thinks that the Party disallows sex because “‘When you
+make love you’re using up energy; and afterwards you feel happy and don’t give a
+damn for anything’” (133). Julia goes so far as to suggest that depriving people of sex
+makes them “hysterical” and that hysteria is translated “into war fever and leadership
+worship” (133). The energy not used for sex is used for hate. “Making love,” sex, is
+replaced by active hating, such as in the Two Minutes Hate or Hate Week. Hate takes
+the place of love.
+The animal "impulse" of sexuality is separate from the "feeling" of love, but
+neither is supported by the Party.
+
+Winston's epiphany about the prole's humanity
+
+occurs while he is in the secret room with Julia above the antique shop (160).
+
+20
+
+Grossman connects the secret room to Winston’s mother because both recall the past,
+or what Grossman refers to as the “Golden Country,” paradise (57). His affair with a
+fellow Party member is reminiscent of a time when marriage was less about producing
+followers of Big Brother (67) and more about the "private loyalties" (164) between family
+members, which Winston identifies with his mother.
+The private loyalty and love that Winston feels for his mother is the sexless,
+familial love a son feels for his mother. Unaware in his youth of the importance of loving
+for its own sake, he acted as a selfish, hungry child. He stole food from the meager
+plates of his dying sister and mother, threw tantrums (162), and took advantage of his
+mother's love. During Winston’s childhood, the Party was not yet all-powerful. The
+instinctive loyalties and mutual trust tied to family life were not yet eradicated. In a vivid
+memory, presented as a dream, Winston stole chocolate from his sister and ran. His
+mother cradled his sister. "Something in the gesture told him that his sister was dying.
+He turned and fled down the stairs, with the chocolate growing sticky in his hands.”
+Feeling shame, he returned to an empty apartment. He never saw his mother or sister
+again (163). In remembering this episode Winston uncovers the sentimental love that
+he felt for his mother and regrets that he did not appreciate her "nobility" or "purity"
+(164) while she was with him. The focus on the melting of the desired material, points
+out that the physical might not last. This connects the stolen chocolate to the intensely
+physical description of Winston’s tortured disfigurement. However, the recovery of this
+event suggests that the imprint of maternal, instinctual love endures.
+
+If true, this
+
+undermines the conviction that the Party controls all aspects of humanity. Winston’s
+memories have escaped being expunged and he still feels freely outside of Party goals.
+
+21
+
+The sentimental love of Winston's mother is transformed in his physical "desire"
+(126) for Julia. Winston's love is a connection between Winston's mother and Julia.
+This connection is similar to the relation between the word "love" and the phrase
+"making love.”
+
+Our protagonist experiences a mental love for his mother, but the
+
+affection he expresses for Julia is physical. Love is the link between them although the
+expression of the emotion differs.
+
+An evolving understanding of love accommodates
+
+the addition to sex in Winston's relationship with Julia. Winston uses his physical and
+emotional love for Julia to undermine the Party. With two female targets, love takes on
+a femininity that must be discarded when it is transferred to Big Brother.
+Goldstein could not relocate his love to Big Brother. Symbolically, Goldstein
+perpetrates the truest betrayal to the Party: he refuses to love Big Brother.
+
+An
+
+explanation for the moniker of “Big Brother” is not given, but it suggests a protective
+familial member. "Big" alludes to strong and "Brother" is obviously a farther usurpation
+of family bonds. Grossman suggests that “Behind Big Brother evidently lurks a very
+large father,” pointing to the paternalistic nature of Oceania. However, Grossman also
+suggests that O’Brien acts maternally towards Winston and that “his warmth and
+protectiveness merely reflect the peculiar maternal power of Oceania/Big Brother”
+(Grossman’s emphasis 54). If Big Brother can be perceived as maternal, then the
+transfer of Winston’s familial love for his mother ought to be to Big Brother.
+While torturing Winston, O'Brien says that Party scientists are working to "abolish
+the orgasm,” eliminating sexual pleasure and love.
+
+Under Its domination the only
+
+affection and bliss will come from loving Big Brother (Orwell 267). As O’Brien attempts
+to shepherd him back to "sanity,” he must remove the sexual aspect from Winston's
+
+22
+
+love by forcing him to betray Julia. This disconnected love can then be used for the
+Party’s good.
+
+The last line of the novel is "He loved Big Brother" (297).
+
+O'Brien
+
+succeeded. Love, Winston's rebellion against the Party, is twisted to serve that Party
+the familial love of Winston's mother is redirected towards "Big Brother.” The Party
+indeed creates humanity (269) because It harnesses humanity’s instinct to love,
+Winston's "spirit of Man" (170).
+As part of this taming, the Party prefers sex to occur in a setting which It
+determines, one approved by a board and promoted for Its interests. Since a prole
+cannot become a Party member, the only way to perpetuate the Party is by members
+having families.
+
+Therefore, these mutual and private alliances, such as between
+
+Winston's mother and her children or what Winston and Julia share, are threatening
+because they step outside of Party approved families. If one is dominated by private
+loyalties it is difficult to be completely "orthodox" (135). Such loyalties question Party
+dogma and Its practices, such as doublethink and believing absolutely that Big Brother
+is always correct in every time and place.
+The Party also attempts to allocate sexual energy to aid Big Brother. The words
+“orgasm” and “climax” are used to describe the rising frenzy during the Two Minutes
+Hate (15) and hate for Eurasia and Eastasia (180). Orwell describes part of Hate Week
+as “the great orgasm was quivering to its climax and the general hatred of Eurasia had
+boiled up into . . . delirium” (180). The language here is specifically sexual, suggesting
+that loathing provides an outlet for sexual energy but in a way the Party controls. Orwell
+uses “orgasm” and “climax” to suggest not only sexual energy but sexual pleasure, a
+physical sensation. The Party turns the ordinarily private act of intercourse into a public
+activity, blurring public and private boundaries. If there is a safe and orthodox way to
+
+23
+
+experience sexual pleasure then amorous relations like Winston and Julia’s are
+discouraged.
+
+Love’s Relation to Private and Public
+"Private" refers to a personal, individual act; something beyond Party control,
+such as Winston’s conceptions of love, both sexual and sentimental.
+
+In traditional
+
+thinking, public is linked to private, as opposite spheres. There are private and public
+interests, the private being the individual and the public being the Party. An individual is
+able to own objects and spaces and to have personal concerns. Berlin claims that “a
+frontier must be drawn between the area of private life and that of public authority”
+(196). The Party eliminates the private and forces all activities that the reader might
+think of as private into the public sphere.
+Two pages into the novel the telescreen appears, with its purpose to constantly
+observe Inner and Outer Party members (3). Under perpetual watch, everything visible
+or audible is public, and there is little or no private space. This is achieved by using the
+telescreen as a Panopticon, which taps into the power of observation and the pleasure
+that Foucault notes in its operation. Winston thinks, "Nothing [is] your own except the
+few cubic centimeters inside your skull" (27). So constructed, the private does not exist
+in a physical form. No longer spatial, it is a mere idea as it can only exist in one's mind.
+In this way, only emotions, concieved of in the mind, may be private.
+But if the Party controls the mind with taught mental techniques like doublethink
+and crimestop then is that space even private? Only in such cases where a member is
+unorthodox and no longer adheres to Party doctrine is privacy possible.
+
+Winston
+
+occupyies this ambiguous space, Winston’s understanding of the “spirit of Man,”
+
+24
+
+divergent from the Party’s understanding of man, allows him privacy and demands he
+fight to remain individual within the Party. Even if everyone in Oceania is not under
+constant observation, that possibility exists and they must act as such.
+
+Winston
+
+mentions the need to minutely control facial contortions and wear proper expressions
+(5). The actual or imagined monitoring restricts behavior and forces people to act as if
+there is no private sphere, only the public. The threat of constant observation forces the
+population to enact Party ideals. Even if people are originally play-acting, eventually the
+play will become reality. After a lifetime of pretending, no one will be able to distinguish
+the lie from the truth.
+
+Love and Betrayal
+If the Party can infiltrate a member’s mind, like when It tortures Winston or
+teaches doublethink, then They can destroy the anomaly. They can break Winston and
+his ideas, obliterating his reasons for rebellion. Indeed, Winston and Julia agree that the
+Party cannot make them "betray" each other. It cannot force them to stop loving (166)
+or abandon their mutual trust. Betrayal is an exchange, a turning over or abandonment
+of an idea.
+
+To betray something or someone implies that it was important to an
+
+individual before the something or someone was discarded. Julia explains, "They can
+make you say anything -anything-but they can't make you believe it. They can't get
+inside you" (166). They cannot invade the sole private space left to the Party members
+of Oceania.
+To betray is to revile fundamental beliefs that once defined a relationship or an
+individual. This would be a betrayal of Winston’s hopes for humanity as well as his
+
+25
+
+personal relations. During the Two Minute Hate, an image of Goldstein appears and
+blasphemes against Big Brother. He claims that the Party, and Its revolution, "betrayed"
+its original ideals for power (12). It is unclear if Golstein actually uses this word or if
+Winston uses it in summary for the rebel leader's speech (11). Interestingly, this is the
+first use of the words "betrayed,” "betray,” or "betrayal" in the novel. Therefore, Winston
+may be considering this first instance when he uses betrayal in conversation with Julia
+(166). Betrayal then is tied to fundamental ideas of an action, such as the revolution of
+the Party or Winston's love for Julia.
+In the Ministry of Love, everyone is made to confess, to betray, to give up their
+secrets and admit things that never happened (19). The Party can make a person say
+anything, but that does not make it true. The Party generally squashes unorthodox
+thinking by teaching its members to utilize doublethink, but if someone refuses to
+believe a lie then they cannot betray the truth.
+Having emotions and refusing to denounce them is a true rebellion, or so
+Winston feels. The love that Winston and Julia proclaim is their truth, something they
+cannot betray, a "private loyalty.” This becomes key to Winston’s understanding of the
+concept of their humanity as something “beyond” them. In that privacy is something
+they personally understand as independent of the Party. Therefore the Party has no
+power over it. In theory, even if an agent of the Ministry of Love made them say they
+hated each other, they would still love one another. The word is separate from the act.
+This love is a "mere feeling" (165) and keeping the trust between Julia and Winston
+makes them more human. It proves that they, like the proles, can still have "impulses"
+
+26
+
+and hold onto "individual relationships" (165) instead of giving into the Party. The spirit
+of Man, and the sentiment it represents, live as long as their truth is unbroken.
+However, Julia and Winston do betray each other. O'Brien announces that Julia
+"betrayed" Winston (259). She has fallen to the Party’s desire to “create human nature”
+(269) and is remade.
+
+O'Brien uses "betrayed,” echoing Winston and Julia's
+
+conversation in their secret room. The reader is made aware that O'Brien likely listened
+into their dialog and knows the importance, and nuances, of the term "betrayed" for
+Winston. O'Brien is conveying to Winston that he is alone, betrayed. There is no one to
+whom he can turn. What does it mean to love someone who has betrayed you? The
+Ministry of Love has changed Julia, gotten "inside" (166) her. She is no longer the
+woman Winston loves, yet he still loves her. Therefore, Winston’s humanity is not yet
+defeated and neither is the spirit of Man. He is still able to fight the Party’s attempts to
+“cure” him (253).
+Foucault might suggest that the Party needs Winston’s resistance to feel the
+pleasure of Its power.
+
+Patai goes further and claims that Big Brother created Winston
+
+for this purpose. If this is true, then Winston is still a product of the Party, just in a
+separate function. This would undermine Winston’s rebellion, making it a part of the
+system Winston seeks to defy.
+
+However, this does not make his struggle wholly
+
+meaningless, Orwell is still conveying something important about humanity and the
+terror of totalitarian governments.
+Winston holds onto the truth of his humanity, his ability to love, till the last
+possible moment.
+
+However, that moment does come: when he is confronted by
+
+ravenous rats, he buckles and cries out, "Do it to Julia . . . I don't care what you do to
+
+27
+
+her. Tear her face off, strip her to the bones . . . " (286). Here is his violent betrayal of
+his found humanity and his movement towards the Party’s ideal.
+
+"Tear" implies a
+
+physical damage. There must be a physical reciprocator of his mental betrayal in a
+threat to Julia's face; much as Winston's tortured and starved body parallels his inward
+sickness. The physical proof of Winston’s weakness proved the Party's power and
+dominance over past "nobility,” the ideal Winston fought for.
+The oppression of the impulse to love is a calamity that forces the lovers to refute
+their own humanity—the same humanity that Winston claimed would stop the Party.
+Julia may have said that "They can make you say anything" but that does not mean
+They change you (166).
+
+When Julia and Winston meet after their releases, they
+
+confess their respective betrayals and admit that in the moment committing them, the
+words were true (292). In begging for the horror to be transferred to the other person,
+their love and trust died. They "don't feel the same towards the other person [Julia
+towards Winston and Winston towards Julia] any longer" (292). It is a triumph of the
+Party over Winston’s “spirit of Man” (170). This is the Party's tactic.
+In the Ministry of Love O'Brien tells Winston that only those who are truly "cured,”
+who truly believe in the Party, are allowed to die (255). "Cured" suggests an illness, a
+need to be fixed, and the required attentions of others to do so. Using this word allows
+O'Brien to work himself into Winston's mind as a savior and suggest that all O'Brien
+does is for Winston's good.
+What if O'Brien is lying about Julia betraying Winston? At that moment in time,
+Winston could not have known whether that was true or not, yet he believed it.
+
+This
+
+suggests either that he expected her betrayal or that he trusts O'Brien. Patai suggests
+
+28
+
+that Winston is O’Brien’s “accomplice” because Winston tries to be a worthy opponent.
+Furthermore, she postulates that Winston is a willing player in “the game” and knows
+what the outcome will be (862-863). If this is the case, then Winston has always known
+that Julia would betray him. When betrayal is expected, he trusts O’Brien, a Party
+member who is torturing him, more than his lover. This could link back to Grossman’s
+assertion of “maternal” and “protective” qualities. Throughout the novel, well before
+they actually communicate, Winston says that O'Brien is a man one can "talk to" (11),
+implying trust. This belief allows the Party to put Winston in a containable, personally
+solitary situation in order to reconstruct him for Its aims. Perhaps he never trusted Julia
+in the same way—this leaves the question of their “truth,” his love for Julia, open to
+debate.
+
+Perhaps Winston is unable to not believe O'Brien because of these
+
+conceptions. If Winston trusts O’Brien, his torturer and handler, as O’Brien turns out to
+be (238), more than Julia, then Winston’s humanity proves frailer than the Party’s
+humanity. This suggests that the population does need to be under Party control. The
+population will react to freedom and the feeling of freedom like frightened animals.
+
+Unthinking Family and Sacrifice
+The humanity of Winston's mother is bound up in her ability to hold true to "mere
+emotions" and "private loyalties" (165).
+
+Until roughly half way through the novel,
+
+Winston thinks he killed his mother (160) because he forced his mother to make a
+choice, a "sacrifice" (30). Until he realizes that impulses are part of being human, he
+cannot understand that it was her decision, an exercise of her free will and humanity to
+protect him as she starved (162). Even before this epiphany, his mother's "sacrifice . . .
+
+29
+
+to a conception of loyalty that was private, unalterable" (30) is key to Winston's guiltridden memories of her death. He dreams of her and his child sister as sinking into
+darkness, dying for his sake (29). His mother did not make a calculated decision to
+starve so he might eat; she simply did it because he was her son whom she loved.
+Unthinking sacrifice is also connected to Winston's conception of love and
+humanity. If experiencing humanity involves impulses and emotions, it also involves
+unconscious sacrifice. When Winston and Julia7 say they will not betray each other
+(166), they are promising to sacrifice themselves for an idea, declaring that they cannot
+be changed and that their love is unalterable. The two promise the sacrifice of their
+lives, minds, and selves before betrayal of their love and humanity. Preserving these
+grander aspects of human nature, which will refuse command by the Party, are more
+important than their individual lives.
+However, when those moments calling for sacrifice come, those moments of
+fear, of "despair" (285), neither is equal to upholding their promises of love. O'Brien
+makes it clear that the Party builds Its understanding of power and control on failed
+regimes of the past (253). The Party has read how empires have fallen to private
+devotions. Therefore, all private adoration must become public.
+
+Sanity and Self Certainty
+
+7
+
+I do not think that “love” means for Julia what it means for Winston. The Party could not destroy the
+cells of which its original society was built, but It could stop people from marrying for love or engaging in
+intercourse for pleasure. As such acts distract from the substitute sentimental love of Big Brother. These
+vestiges of family purpose are the only reason Julia is able to love. She is ten or fifteen years younger
+than Winston therefore the family structure and its experience of sentimental love may have changed
+since his day.
+
+30
+
+O'Brien does not want Winston to die a "martyr" for his cause (254). Before
+Winston can die he must be "sane,” must come to believe the party and all that it stands
+for (255); including the “mere”ness of impulses which betrays Winston’s concept of
+humanity. Having mental control and acting in a manner accepted as a societal norm is
+consider as sanity or acting in a sane manner. O'Brien seeks to make Winston “sane.”
+This is defined by forced conformity, the “curing” of the mental disorder of unorthodoxy.
+Winston knows he is unorthodox, and himself describes it as "luna[cy]" (80). Writing in
+his diary, Winston "wondered, as he had many times wondered before, whether he was
+himself a lunatic. Perhaps a lunatic was simply a minority of one. . . . being a lunatic
+did not greatly trouble him; the horror was that he might also be wrong" (80). An insane
+view may be equally valid but because it is not widely held it is seen as wrong or
+unacceptable; the private may be valid, but it is wrong because it lacks public
+consensus. To O'Brien, sanity is conformity. He wants Winston to integrate back into
+the Party by using Their mental controls. Winston's insanity is caused by his recognition
+of inconsistencies in his work, his memory, and Party records. If Winston can stop
+seeing these disparities, he will no longer question the Party and be "cured.”
+By repressing his memories and mental impulses, Winston can, and in the end
+is, orthodox and “sane” by Party standards. By the end of the novel he loves Big Brother
+(297). Most of Winston’s memories are of his mother and childhood. Towards the end
+of the novel he remembers a happy afternoon playing with his mother. His immediate
+reaction is to “push the picture out of his mind” as a “false memory,” meaning that false
+memories were not a problem as long as he recognized them as bogus (296).
+
+31
+
+Orwell likely uses the term “sane” because his audience will consider the Party
+and Its ideals insane. Perhaps by equating sanity to orthodoxy Orwell meant to make
+Winston’s world all the more ridiculous and frightening, which is how Orwell’s readers
+would consider the Party’s infringements on the private, Winston’s torture, and the world
+he inhabits. Since it is commonly accepted by Orwell’s audience that people have
+rights to privacy, love, personal loyalties, and self, they would be shocked by the Party.
+Winston considers "impulse" and its personal urges as part of being human.
+These are things that are no longer possible, as they are crushed out by the Party.
+When Winston uses the word "friend" to describe someone he corrects himself: "'friend'
+was not exactly the right word. You did not have friends nowadays, you had comrades .
+. . " (48). "Nowadays" implies that friendship, like love and private loyalty, is relegated
+to the past, the past which the reader inhabits as the present.
+
+Having friends is
+
+something that people in our current reality and world find normal. One could see
+friendship as an exercise in mutual trust. Not having a single friend is odd. In Winston’s
+world the word "friend" has not simply been traded in for "comrade": the meanings are
+different.
+
+Borrowed from the Russian Communist revolution, "comrade" implies an
+
+active rejection of human relationships, favoring an imagined equality over private
+alliances. No one has a friend. Everyone has comrades. This supports the public love
+of Big Brother over private relationships.
+Party members, both Inner and Outer, refer to one another as comrade, but the
+proles are simply proles, short for proletariat, the working man. Generally, proles are
+thought of as animals or little better, "natural inferiors who must be kept in subjection"
+by the Party and Its members (71).
+
+The Party’s world is constructed by levels of
+
+32
+
+perceived oppression and presumed freedom. The Inner Party has the most freedoms
+and controls the Outer Party and proles; the Outer Party is perceived to have greater
+independence than the proles because the Inner Party has the ability to determine
+humanity. The proles are animals because the Inner Party says so, and the Outer Party
+are humans for this same reason.
+Finally broken by the Party, Winston has given up this drive. Winston can now
+be reconstructed for Party use, the public good. He has been "cured.” He is "sane.” In
+his sanity he reverts to a drone, the epitome of true orthodoxy. Big Brother is always
+right.
+
+Proles and Passion
+When Winston realizes that the proles have in fact kept their humanity (165), his
+certainty that "if there is hope it lies in the proles" (69) is reified. It is the ability to love,
+to have families and truly experience them for their own sake rather than the Party's,
+that grants this humanity. Winston sees personal desire and striving for it as human.
+Losing that drive removes humanity. Recognizing the proles’ drive, he sees himself as
+less human than peoples he recently thought of as beast-like. These pieces of inner
+humanity, though found in the proles, are attributed to Winston’s mother (Hester 256)
+because of his memories of her.
+Crick suggests that humanity is ascribed to the proles because “Orwell did not
+believe that poverty and class oppression . . . had dehumanised people completely.
+Rather these forces had created a genuine fellowship and fraternity in the common
+people . . .” (152). This supports Winston’s realizations concerning the proles.
+
+33
+
+Only proles are allowed to be prostitutes (65).
+
+Since proles are largely
+
+considered inferior and animal, having sex with a prole for pleasure is a demeaning and
+demeaned act. Passion has no place in a society that allows only one sexual outlet in
+the form of its most defiled member. The various love affairs that Julia claims (125)
+undermine the class structures by bringing the animal act of sex for pleasure into the
+equation. If there exists one affair like Julia and Winston's then there may be others.
+This form of rebellion may be wide spread, but no one would know due to the Party’s
+rhetoric and domination, which implies a crack in Party control. However, if Julia and
+Winston love each other, is their sexual relationship a rebellion against the class
+structure, against the beast-nature of the proles, or simply against Party rules? Does
+one really have more power than the other?
+If their fight is against the Party's imposed class system, then they are attempting
+to alter the future, as opposed to "alter[ing] history,” from its set course under Big
+Brother. The book8 points out that, "there have always been three kinds of people in the
+world, the High, the Middle, and the Low" (184). The success of 1984's ruling groups is
+due to the fact that They admit that the High is going to stay in that position and do
+everything They can to do so (216). Splitting societies into high, middle, and lower
+class is not unusual. However different societies may create unique cultural barriers
+between each. Ignorance about the proles is what divides them from Party members.
+Since prostitutes only exist in this lowest class, Party members must sink to this level for
+sexual pleasure. This points to sexual love as unnecessary, dirty, and animal while
+making the Party appear the only option for maintaining humanity. This is part of the
+way in which the Party removes sexual love from the equation and replaces it with hate.
+8
+
+A pamphlet supposedly written by Goldstein until O’Brien suggests that it was written by the Party (260).
+
+34
+
+If two Party members of equal standing can engage in pleasurable intercourse rather
+than resorting to prole prostitutes, then the need to demean oneself for coitus is
+eliminated. This does not change the Party on a large scale as Winston might want, but
+it does undermine Party considerations of physical passion.
+This also does not really change the perceived nature of the proles, except to
+admit the fact that animalistic aspects such as sex are common to all persons that are
+unrepressed by, or escape from, Party dogma. The proles are not animals but are just
+as human as any of Orwell’s readers. This implies hope for Winton’s humanity because
+the proles are proof that freedom still exists. Winston may argue that proles are more
+human because proles are able to act on impulse freely. The sex drive is an "animal
+impulse" only because it can be engaged in without thought, as two bodies reacting.
+However, if Winston sees these impulses as a key to humanity, then perhaps the proles
+are more human than the other classes because Winston seeks to regain his humanity
+through the act of sex.
+If the Party forbids sex between Its members, then Julia and Winston are
+certainly and simply breaking Its rules.
+
+Breaking them in this manner implies the
+
+importance of the Party's purpose in attempting to end amorous sexual relations and the
+relationship between sex and Winston’s humanity. The writing in Winston's diary with
+which the novel opens is also an act of rebellion (7).
+
+The Party casts passionate
+
+relations as a lower class phenomenon even as Winston elevates it to a staple of
+humanity.
+If enough people can relearn and remember these desires, then humanity can be
+salvaged and the Party’s oppression overthrown. However, this theory is not proven
+within the novel.
+
+Winston is ultimately broken and, since he is the protagonist, the
+
+35
+
+reader is not allowed to see a triumph over the Party. Before having sex with Julia for
+the first time, Winston thinks, "Not merely love of one person, but the animal instinct, the
+simple undifferentiated desire: that was the force that would tear the Party to pieces"
+(126). “Desire” suggests a physical reaction to emotion, bridging sentimental love and
+love making. The impulse to consummate, to form a private relationship is what will
+destroy the Party. Desire must thus be removed for the good of Big Brother.
+The existence of doublethink leaves open the possibility that all Party members
+could have, at some point, had these same realizations and forgotten them as a
+defense mechanism and in deference to Party dogma. Winston is constantly worrying
+about the past and its existence (7). His job at the Ministry of Truth is to modify past
+documents to align with current Party activity. He creates a reality wherein the Party is
+eternally right (40).
+In a society that is constantly updating its history, the past, the reality of "two
+generations ago" (165) exists only in memory. The Party teaches various techniques to
+Its members in order to protect them from inconsistencies.
+
+Even if Winston is
+
+convinced that human traits have been lost with the rise of the Part, no one within the
+Party will readily remember them. This lack of memory secures Big Brother’s authority.
+No one will know to even question Him. By failing to practice doublethink Winston has
+betrayed Big Brother. O'Brien aims to force Winston into seeing his utter aloneness.
+He is betrayed by Julia, who may not have understood the truth of love as Winston did.
+However, there is no one in the practicing Party who will ever understand for more than
+a second what Winston thinks he has learned.
+If the Party finds love and passion to be against Its interests then doublethink can
+be used to reinforce the idea that no other family structure ever existed. There was
+
+36
+
+never a time in history where people married for other than Party interests. Only the
+proles do so, and the proles are animals. If Winston was "sane" (253) then he would
+not even have considered love for anyone but Big Brother.
+
+Conclusion
+Even though Winston breaks, the implications of his ideals and actions are still
+valid. His understanding of relations, and the emotions that impel them, are anything
+but "mere" (165).
+
+To Winston, these "impulses" (165) are part of what makes an
+
+individual human.
+
+The Party seeks to suppress these urges to better control the mind
+
+of an individual and harness their energy (133) for Oceania. They refuse Winston’s
+ability to love outside of Party interests. By doing so, the government limits Winston's
+ability to experience humanity (though ways like love for his mother and Julia) as he
+wishes to, thus restricting his growth, identity, and ultimately his life.
+
+Winston’s
+
+sentimental love and physical desire are rebuked by the Party. He is not allowed to
+successfully maintain his love. The only way Winston is allowed to love, to be human,
+is under Party doctrine: namely, to love Big Brother (297).
+
+37
+
+Perverted Societies
+
+Setting the Stage
+In the previous chapter I introduce sex as a control mechanism. Using Ursula Le
+Guin, I explore gender through its function in Le Guin’s The Left Hand of Darkness. My
+conclusion is that ultimately, this novel displays an inability to escape gender because
+of gender dynamics inherent in English, even though Le Guin sets this out as her
+mission (Gender Redux 14). This suggests the subtle and inescapable nature of the
+control that gender exercises on the reader’s life, similarly to how the Party insinuates
+Its domination.
+Aware of the separation and discrimination between genders and sexes, Le Guin
+wrote Left Hand as a “thought-experiment” (Gender Redux 9). Le Guin suggests that:
+One can send an imaginary, but conventional, indeed rather a stuffy, young man
+from Earth into an imaginary culture which is totally free of sex roles because
+there is no, absolutely no, physiological sex distinction. I eliminated gender; to
+find out what was left. Whatever was left would be, presumably, simply human.
+It would define the area that is shared by men and women alike. (10)
+Le Guin created an androgynous society by removing overt gender to determine if there
+are really any differences, other than conditioned ones, between men and women (910). Judging by her process, in which she creates a race which spends most of its time
+androgynous, she refers to gender first as a physical aspect.
+
+Remember that,
+
+traditionally, gender derives from the physical sex of an individual. In eliminating the
+
+38
+
+corporeal sex, she wanted to find the common ground, the equality, alluded to be the
+concept of androgyny.
+Pamela Annas suggests that female science fiction writers use “androgyny as a
+metaphor,” attempting to overcome “contradictions” such as gender or sex inequality.
+Annas sees the shift from “sexual polarization to androgyny” in feminist literature to be
+evidence of a desire to move from “dualism to a dialectical synthesis” (146).
+
+The
+
+“dialectical synthesis” refers to settling an argument by conversation. A “synthesis” is a
+combining of separate entities to create something new, such as combining the male
+and female in the androgynous. Androgyny becomes a mechanism by which feminist
+writers can engage in the conversation about the divide between male and female then
+play with the solution of mixing the two. Humanity is considered a duality because it is
+commonly divided into the dual sexes, and gender as it ideally aligns with sex, of male
+and female. Le Guin’s use of androgynous implies the “potential” (Left Hand 94) of
+Gethen’s to be both male and female.
+Until Genly’s appearance on Gethen, the concept of gender was irrelevant to
+Gethen society. People were sexed for a few days out of the month. During this time,
+Gethenian’s “perform” gender. The rest of the month there is no typically performed
+gender. Candace Zimmerman and Don West explore the concept of “doing” or
+performing, gender. They point out in Doing Gender that gendered behavior is
+performed constantly and the expectations concerning the performance in a given
+circumstance are normally determined by one’s sex categorization. People should be
+able to look at someone and put them in one of two categories, male or female (129131). However, there was no gender to perform on Gethen, androgyny was the rule.
+
+39
+
+And perverts, those in permanent kemmer were the sexual exception. Zimmerman and
+West assert that gender performance is supposed to align with sex. However, there is
+no socially acceptable way for perverts on Gethen to perform a gender because gender
+is an alien concept. This would create a sense of cognitive estrangement for the reader
+who may find it difficult to wrap his or her head around the fact that there is no “his or
+her” on Gethen.
+Le Guin also raises the question of duality. Here I find Simone de Beauvoir’s
+conception of the Other helpful. She states that “Otherness is a fundamental category
+of human thought” (676). People construct themselves in relation to others (677). The
+Other can be “strangers” to a small, tight-knit village. Or Other could speak to the way
+in which “Jews are ‘different’ for the anti-Semite, Negros are ‘inferior’ for American
+racists, . . . proletariats are the ‘lower class’ for the privileged” (676). These are some of
+Beauvoir’s examples of the Other: anything strange, “different,” anything not “myself.”
+Essentially, this relationship sets up a hierarchical power structure in which Myself is
+privileged over the Other.
+Beauvoir then applies this concept of the Other, to women. She begins her
+argument in language, saying that the “man represents both the positive and the
+neutral” and man “designates human beings in general”; “whereas woman represents
+only the negative” within the English language (675). From here, Beauvoir claims the
+man establishes himself as the Subject, the One, which acts on his Other, his object,
+the woman (676). Annas suggests that Le Guin uses androgyny to explore various
+dimension of the “I-Other duality” (150).
+
+40
+
+This also distances Genly from Gethen culture.
+
+Maria Lugones’ concept of
+
+“world traveling” addresses Genly’s need to overcome his prejudices. Lugones writes
+about the need of women from different classes and races to unite and attempt
+understanding of each other, to love one another by visiting each other’s “worlds”.
+Lugones uses the term “world” to describe a society or part of a society (153). It is a
+space constructed and inhabited by a woman, touching on the various aspects of her
+life.
+
+Lugones suggests that a Caucasian woman inhabits a different world than a
+
+Hispanic or lesbian woman; she may travel between different “worlds” or cultures on a
+daily basis (153-154). If women can accept other women by experiencing their worlds,
+and in this way grow to love, understand, and accept them, then women can be unified,
+crossing race and class barriers.
+
+Androgyny: Alliance of the One and the Other
+
+“Light is the left hand of darkness
+and darkness the right hand of light.
+Two are one, life and death, lying
+Together like lovers in kemmer,
+like hands joined together,
+like the end and the way.”
+(Tormer’s Lay recited by Estraven 233)
+
+Ursula Le Guin’s populates Left Hand Of Darkness with a mostly “human” race;
+meaning they are similar to what the reader regards as human, themselves; the caveat
+being that two to five days out of the month these androgynous beings take on either a
+male or a female sex. “Androgynous” is the word Le Guin uses to describe the sexual
+
+41
+
+state of Gethenians in her introduction to Left Hand (xv). “Androgyn” is a combination of
+"andro," meaning man, and "gyn,” meaning woman. "Feminists believe that the concept
+of androgyny offers us a means of transcending the duality of gender differences
+imposed by culture" (Krishnaraj WS11).
+
+This would fit with Genly’s assertion that
+
+Gethenians are “as obsessed with wholeness as we [a sexed population like the
+reader’s] are with dualism” (233). Le Guin fashions a race which is a combination of
+male and female attributes and has the potential to take on either sex, she attempts to
+create these “whole” beings in a critique of the division between male and female which
+is present in the reader’s society.
+The poem recited by Estraven, the Gethen narrator who comes to be friends with
+Genly, plays to this unity: “Light is the left hand of darkness/ and darkness the right
+hand of light” (233). This suggests that darkness and light, normally posed a duality are
+actually a unity.
+
+Whereas dark and light might be two different sides of a coin,
+
+Gethenians focus on the fact that it is the same coin, not the difference in the sides.
+The Gethenian interest in unity is a reflection of Le Guin’s concern about division.
+However, Estraven suggests that Gethenians are still dualists because “there is myself
+and the other” (Le Guin’s emphasis 233). Le Guin likely uses Estraven’s “myself and
+the other” to refer to ideas such as Beavoir. Of course Estraven would not immediately
+connect the Other to an opposing sex because until Genly arrived, there were no
+constantly sexed or gendered beings. The Other was a political term, referring to an
+opposing people, like Orgota.
+Genly replies, “I and Thou. . . . Yes, it does, after all go even wider than sex”
+(233).
+
+However, by saying this, Genly brings sex back into the equation, implying
+
+42
+
+Beauvoir’s use of the woman as the Other and man as the One. He emphasizes that
+sex is a hierarchy.
+This structure, based on dividing male and female, is hierarchical.
+
+In a
+
+patriarchal society this power dynamic generally favors the man over the woman. As
+woman tries to reinvent the hierarchy, perhaps attempting to earn as much or more
+income than her husband or demand that he participates equally in domestic activities,
+she struggles against cultural norms. Androgyny might be presented as a way for male
+and female to balance and accept the better traits of both, a “completing” or unifying
+(Krishnaraj WS11).
+
+Explaining Kemmer: Performing Gender on Gethen
+Entering kemmer, individuals undergo a hormonal transformation in response to
+someone else’s transformation as they enter kemmer at the same time. “When the
+individual finds a partner in kemmer, hormonal secretion is further stimulated . . . until
+one partner becomes male or female . . . genitals engorge or shrink accordingly . . . and
+the partner, triggered by the change, takes on the other sexual role” (90). A person can
+be male one cycle and female the next. “No physiological habit is established, and the
+mother of several children may be the father of several more” (91).
+
+There is no need
+
+for a gendered role, only a sexual one. An Investigator stresses that, “. . . you cannot
+think of a Gethenian as ‘it.’ They are not neuters they are potentials, or integrals” (94).
+The “potential” to be both a man and a woman and neither is difficult for the people of a
+society so based on gender, as the reader’s, is immense. This allows Le Guin to
+address certain questions about gender in the reader’s society and stretch the
+
+43
+
+possibilities. Le Guin removes gender from the game, and creates a space for the
+concept of androgyny to take on a physical form
+
+A Space for Sex: Creating Cognitive Dissonance
+Further, by the observations of one of the Ekumen’s Investigators, “The structure
+of their societies, the management of their industry . . . the size of their settlements, the
+subjects of their stories, everything is shaped to fit the somer-kemmer cycle,”9 so the
+majority of society is based around the potential phase. Yet, “[e]veryone has his holiday
+once a month . . .” no one works during kemmer (93). When the period of gendering
+and sexual drive occurs, society provides “plenty of room: but a room, as it were, apart”
+(93). Though space is granted, open sexuality is not the norm and is accepted only
+during the short period of kemmer. Further, it suggests that sex is dirty, and that while
+giving into this natural desire is acceptable, the rest of society should be separated and
+sterilized; which is why anyone who is constantly sexed is “disgusting” (36), a “pervert”
+(36).
+The reaction that Gethenians have to gendered and sexed peoples is what
+sections of the reader’s society might feel towards anyone divergent from the
+heterosexual norm: bisexual, gay, lesbian, or transgender. Genly notes that perverts,
+those in permanent kemmer on Gethen, are “tolerated with some disdain, as
+homosexuals are in many bisexual societies” (63). Through Genly, Le Guin draws this
+comparison herself.
+
+Lewis Call refers to Darko Suvin’s concept of “cognitive
+
+estrangement” and rightly claims that “The function of such passages is to confront the
+
+9
+
+There are different stages in kemmer, the one refered to as somer-kemmer is the period of the month
+when one is sexually inactive.
+
+44
+
+reader with a system of values and standards that is radically Other” (94). Considering
+this similarity between the reader’s and the Gethenian society, to be afraid of gendered
+or sexual oddities, Le Guin forces a dissonance between Gethen and the reader’s
+societies. This creates an uncanny feeling in the text because the reader recognizes
+the societal response to sexual and gender “freaks.” The reader is distanced from the
+society within the text and forced closer to the narrator of Genly, who is experiencing
+Gethenian society as the oddity.
+Le Guin chooses words like “disgusting” and “pervert” to alienate the reader from
+the Gethenians. This reminds the reader that he or she is the Other to Gethenians,
+placing the reader in the object role. Yet she provides a “normal person” in the similar
+sexual state as a likely reader for the audience to further experience this distancing.
+The reader is constantly reminded that all of the dialogue takes place in Gethen, not
+English so the narrative is a translation. For example, when speaking about a woman
+from Chime10, the narrator “had to use the word that Gethhenians would apply only to a
+person in the culminant phase of kemmer, the alternative being their word for a female
+animal” (36). Therefore it is up to Le Guin to provide the narrator with a sufficient
+vocabulary.
+For example the word “pervert” in most “real” societies, that is societies outside
+Left Hand that the reader might inhabit, “pervert” is not a term looked on kindly. It
+implies an inappropriate sexual promiscuity which likely infringes on others. The pervert
+might be overly interested in sexuality or not have his or her sexuality under control.
+The use of this word fits well with the Gethen understanding of Genly or the reader who
+is stuck in “permanent” kemmer
+10
+
+(36).
+
+One of several alien worlds Le Guin creates.
+
+The reader must assume that this word
+
+45
+
+encompasses, as much as possible, the connotations of the substituted Gethen word.
+So not only is the audience removed because of disgust by the texts’ inhabitants, but
+also because the reader must rely on the knowledge of the narrator to provide a close
+translation.
+
+The Power of Language: Inescapable Gendering
+If Le Guin’s translation is imperfect it is because of the language she is forced to
+use.
+
+As Beauvoir points out our language constructs “man” as the “positive” and
+
+“neutral” “Subject” whereas “woman” is the “negative” and “Other” (675-676).
+
+As
+
+narrator Genly catches himself “having said he and his” (Left Hand 5). Coming from a
+sexed and gendered society, Genly cannot think of these active beings as passive
+Objects. Or perhaps he must see the androgynous Gethenians as masculine to treat
+them as equal Subjects, to deal with them as people. However, he does ascribe certain
+feminine characteristics to physical attributes like his “landlady.” “He [the landlady] was
+so feminine in looks and manner that I once asked him how many children he had” (48).
+Accustomed to societies with two sexes and genders, Genly finds himself reading
+certain expectations of male or female into Gethenian characters. Even as Genly asks
+his landlady, “how many children he had” Genly uses “he” to describe a being Genly
+considers feminine rather than “she.” Genly then seeks to find a reason for this
+perceived femininity.
+
+The only truly feminine acts a Gethen might engage in are
+
+pregnancy and birth. During pregnancy the body adjusts and remains female until the
+baby is born and the temporary female lactates for six to eight months (91). It seems
+obvious to Genly that such an “innately” feminine figure should be a mother.
+
+The
+
+46
+
+landlady’s answer is that “He had never born any. He had, however, sired four” (48).
+Genly was wrong, the landlady had never born a baby, never experienced a prolonged
+female state. Any feminine attributes were only in Genly’s mind.
+Notice that Genly uses the feminine “landlady” rather than the masculine
+“landlord.” This is an example of how Genly’s desire to see gender affects his use of
+language. Just as Genly cannot help but see the feminine in his landlady, Le Guin
+could not escape the sexing of English. In her short piece “Is Gender Necessary?
+Redux” which was published in Dancing at the Edge of the World, Le Guin admits that
+“the Gethenians seem like men, instead of menwomen” (14). She believes part of this
+masculinizing of her androgynous characters occurred because she “refus[ed] to
+mangle English by inventing a pronoun for ‘he/she’.” However, she wishes that she had
+used “they/them/their” more frequently as an attempt to avoid “he/his” (15). This is
+present in her redux of this article because in a couple places she asks that the reader
+replace “he” with “they” (12).
+
+Also, she believes that Estraven seems masculine
+
+because of he plays “almost exclusively in roles that we are culturally conditioned to
+perceive as ‘male’—a prime minster . . ., a political schemer, a fugitive, a prison
+breaker, a sledge hauler.”
+
+Le Guin admits that these roles suggest Estraven’s
+
+masculinity to the reader, rather than allowing the reader to see Estraven as a mother or
+in some role that the reader would consider feminizing (15). Though in a screenplay
+and later readings of Left Hand she uses a/un/a’s for Gethenians not pregnant or in
+kemmer (15). This is similar to Piercy’s use of “person/per” in Woman on the Edge of
+Time (Annas 154). Authors must modify conversional English to create an androgynous
+society. This points to the restrictive nature of the sexes as it is rooted in English. How
+
+47
+
+can people readily think as androgynies if there is no way to do so in the linguistic route
+of sexed and gendered language?
+Call suggests that Le Guin had “no clear alternatives” other than masculine
+pronouns for Gethenians because of the language she wrote in. Further that “if the
+audience perceives the activities of Prime Minister Estraven as ‘male,’ that says more
+about the audience than it does about Estraven” (95). If a prime minster, schemer, or
+sledge hauler are masculine roles, this says more about the reader’s conception of
+masculinity and its performance than about Le Guin’s writing. Similarly to Le Guin’s
+inability to escape the masculine and feminine dynamics in language, the reader is
+unable to read Left Hand without seeing gender in androgynous beings. Even if Le
+Guin succeeds in representing an androgynous society, the reader cannot fully wrap his
+or her mind around the fact that their gendered selves have no place in the narrative
+except as aliens.
+Le Guin provides layers of distance between the reader and the text by way of
+using mostly genderless characters and reminding the reader that the story takes place
+in an alien language, on an alien planet. For what purpose? Le Guin attempts to
+emulate the holes society creates between genders and the societal realties of male
+and female. Along with the gulfs between social expectations and the desires of the
+individual, there is a displacement of anyone that does not fit into the defined categories
+of man and woman. Zimmerman and West stress that, normatively, gender should align
+with one’s sex and that “gender activities emerge from and bolster claims to
+membership in a sex category [male or female]” (127). Anne Fausto-Sterling asserts
+that the two-sex system is so deeply engrained in Western culture that she had to
+
+48
+
+“invent conventions- s/he and his/her- to denote someone who is clearly neither male
+nor female” (24). Even as Le Guin toys with androgyny and equality of genders and
+sexes, she still returns to the male and female. She is faced with a structure which
+resists her tool.
+
+Presenting her thought experiment as a novel, her experiment is
+
+primarily linguistic and she must cope with a language inherently divided into two
+genders. She does not create a new sexuality on Gethen to address this shortcoming of
+English. Kemmer produces male and female sexes, not some third ambiguous form.
+This may, once again be a simple restriction of language: how can someone describe a
+third sex that does not exist in language that denies the possibility?
+
+Thought Experiments: Looking for an Answer
+Le Guin plays with sexual inequalities of the reader’s world within the text. One
+of the Investigators posits that because everyone might be mother or father to a child,
+no one is as “‘tied down’ here as women, elsewhere, are likely to be – psychologically or
+physically. Burden and privilege are shared equally . . . Therefore nobody here is quite
+so free as a free male anywhere else” (93). Here Le Guin implies that the “shar[ing]” of
+the “burden” assists equality. This is a common tenet of modern feminism: that if the
+man in a heterosexual relationship assists the female in her traditional “duties” then
+gender equality can be reached.
+Pat Mainari wrote a piece which considers arguments that she has with her
+husband over sharing tasks normally applied to women, such as housework.
+
+She
+
+suggests that the man believes these chores to be inferior, that he has “historical,
+psychological, anthropological, and biological justification for keeping you [the woman,
+
+49
+
+the wife] down” (2). Mainari implies that the sigma of household work as woman’s work
+is based on the fact that men simply do not want to do it, the task is considered inferior.
+Therefore the woman performing that task is inferior. This piece was published in 1969,
+the same year as Left Hand. It makes sense that similar concerns would be present
+though addressed in different ways. Mainari’s attempts to share housework are similar
+to the “balancing” that Le Guin alludes to (“Is Gender Necessary?” 11). Both ask for an
+equality between male and female by a removal of gender stereotypes and sex
+distinction.
+
+Equality and Humanity in Gender
+There is a scene where Genly is trying to explain the differences between a man
+and a woman, and Estraven asks, “Equality is not the general rule, then? Are they
+mentally inferior?”(234). This suggests that Estraven feels that equality is based on
+comparable intelligence, or sentience. Perhaps this is why Genly is so confusing to
+Gethenians: he is obviously competent and there is physical proof that he is an alien
+(13) therefore he is not insane. Yet, King Agraven tells Genly, “you’re not human” (33).
+He is not “human” in the sense of Gethen biology. He is alien in that respect. So,
+Genly is human by his intelligence yet “not human” by his biology. This leaves him in a
+vacillating space.
+
+The Gethenian governments grant him rights because of his
+
+emissary status. The perverts, Gethenians in permanent kemmer, are “tolerated with
+some disdain” and called “halfdeads” (Le Guins emphasis 63).
+
+In response to
+
+Estraven’s question, Genly says no but that “women are more alien to me than you are.
+With you I share one sex, anyhow.” This implies the depth of the gender divide within
+
+50
+
+the Ekumen.
+
+How can an organization, like the Ekumen claim to bring societies
+
+together as “mankind” (16) when the worlds within it are still so deeply divided?
+Annas suggests that Genly cannot “judge them [Gethenians] as human beings
+without first defining them as men or women”; whereas Gethen’s inhabitants consider
+him “without sex based preconceptions. They judge him solely as a human being”
+(151). This implies that, to Genly, gender must align with sex for an individual to be
+human. Within this concept are undertones of heteronormativity. If sex coordinates
+gender, then female and male are attracted, always. Same-sex couples are unlikely
+because they do not fit the two-gender model.
+
+Gender and sex definition become
+
+integral to sexuality11. This is an interesting inversion of Mary Wollstonecraft’s
+suggestion that men see “females rather as women than human creatures” (40).
+Gender and sex come first before personhood, which men and women hold in common.
+The ability of men to see “females” (presented here as the biological state) as women
+(the gendering brought on by societal pressure) rather than “human creatures” plays
+into the understanding the women as objects. They are not even human. Womanhood
+is separated from humanity.
+If humanity and gender can be independent then Genly’s inability to see Gethens
+as human without gender is even more intriguing. If Gethen’s are ungendered, then
+Genly is free to attach gender as he pleases to them, until he does so they are not
+human.
+
+Whereas Wollstonecraft’s woman is inhuman because of her gender, her
+
+sexuality takes priority over her common humanity. Genly is scared of the possibility
+that Gethens cannot be fit into a man or woman category. Genly’s heterosexual life has
+not prepared him for dealing with beings living in the harmony of androgyny. Perhaps
+11
+
+Here I refer to the act of having sex rather than the possession of a physical sex.
+
+51
+
+this fear is why Genly uses the male pronouns “he” and “his” and is so eager to ascribe
+Gethen’s the subject, active gender of man.
+Is this gendering necessary to the Gethenian understanding of humanity? No,
+because the only Gethen narrator sees humanity as a matter of intelligence. However,
+gender seems to be crucial to Le Guin because she does not create a third gender, or a
+sexless, genderless form of reproduction. She ungenders Gethens for most of the
+month only to gender and sex them later. As the need for sexuality is tied to humanity,
+so is gender linked to performance in the sex act. Does Le Guin return Gethen’s to
+heterosexually gendered couples as a statement of gender’s import to human nature, or
+because it did not occur to her to totally rewrite human sexuality?
+After Estraven rescue’s Genly from the Voluntary Farm, they spend weeks on the
+ice.
+
+Estraven enters kemmer and, responding to Genly’s constant masculine sex,
+
+becomes a woman. Genly is then finally confronts his fear of the androgynous being,
+that is neither man nor woman and cannot be easily fit into a sex category.
+And I then saw . . . what I had always been afraid to see, and pretended not to
+see in him: that he was a woman as well as a man. . . . what I was left with was,
+at last, acceptance of him as he was. Until then I had rejected him, refused him
+his own reality. . . . I had not wanted to give my trust, my friendship to a man
+who was woman, a woman who was a man. (Left Hand 248-249)
+Genly finally learns to accept that Estraven is both a man and a woman, learns that this
+is also human. It was this inability to accept that kept Genly from fully trusting Estarven,
+even as Estraven was the “only one who had entirely accepted me as a human being”
+(248). Perhaps Estraven can recognize Genly as human because he has experienced
+
+52
+
+both sexes. Until Genly can accept this possibility, the ability of a person to be both
+man and woman, he overlays Gethenians with gender. After this point, the exercise of
+gendering becomes unnecessary. He can allow androgyny to be “real” because he can
+no longer deny it, is no longer scared of it. Thus Genly overcomes his fear of the Other.
+In the end, Genly is offset by the “troupe of great, strange animals, of two
+different species; great apes with intelligent eyes” which join him as fellow Envoy’s of
+the Ekumen (296).
+
+Sexed people are now alien to him.
+
+After accepting Gethen
+
+androgyny, living within it for so long, his own kind are shocking. He sees the women
+and men as “animals” rather than people.
+
+Perhaps he sees them arrival as the
+
+Gethen’s saw him. Maybe he has now successfully preformed what Lugones refers to
+as “‘world’ traveling” (152).
+This is exactly what Le Guin forces Genly to do.
+
+He must literally travel to
+
+another world and learn to accept the “world” of its inhabitants. He overcomes his fear
+and becomes “playful”12 in the androgynous world. If he can overcome the need to
+permanently sort gender and sex in only one of two categories then perhaps so can the
+reader. However, a temporary gendering and sexing is necessary for the survival of a
+race: to reproduce, Gethens couple with their opposite sex. Therefore, gender and sex
+cannot be refused utterly, without them humanity would become extinct. For the reader,
+this implies that women can be recognized as human beings beyond their gender. The
+human component then becomes of primary importance to gender.
+
+Not a Utopia
+Struggle for Dominance
+12
+
+Lugones uses this term to describe a person’s ability to interact and move through a “world” (152-153).
+
+53
+
+Despite the utopian undertones some feminist writers give androgyny, Le Guin
+does not present the androgynous society as a utopia. There are still power issues
+which might lead to war. Le Guin sets the novel at a time when Orgota is “on the verge
+of achieving the world’s first war” (Gender Redux 11). One of the issues Le Guin
+targets is that “Men have reserved the structures of social power for themselves” (12).
+When Le Guin poses the question “Is the book a Utopia?” she replies “no” because she
+does not have a practical solution to the issues of the gender inequality she
+investigates. She simply suggests that an androgynous, a united, an equal society
+would search for “balance and integration” rather than “struggle for dominance” as we
+do today (16).
+Therefore, she allows Orgota to tip this balance. Her androgynous society is not
+infallible. Orgota becomes nationalizes everything, all belongs to the state (Left Hand
+115).
+
+This could be an extension of unity, with no divisions between individuals.
+
+However, Genly observes, “All start equal. But obviously they don’t go on so” (115). A
+desire for power and domination is slinking into Gethen. Equality is no longer the rule to
+the degree that the government can repress kemmer. The potential for sex, gender,
+and sexuality is removed. This is an exertion of repression by a government over its
+people.
+Orgota then begins to act as a bureaucratic authoritarian government rather than
+the freer Hearth-driven monarchy of Karhide. Le Guin laments that she “took the easy
+way in using such familiar governmental structures as a feudal monarchy and a
+modern-style bureaucracy,” because she doubts that a true Gethen government rising
+out of the hearth system would resemble these (Gender Redux 14). However, the fact
+
+54
+
+is that she did use these systems and the reader can relate the actions of Orgota to
+modern systems.
+
+I claim that Orgota is an authoritarian structure because it has
+
+developed the Sarf, part of the Permanent Bureau of Internal Administration, to censor
+the radio and therefore control the public and its knowledge (Left Hand 142-143).
+This plays into the power dynamic created by Foucault’s Panopticon. Yet there
+is a suggestion of communism because the state employs all citizens (118). These are
+both features of governments in recent history. For me, this is reminicenst of the
+Russian Stalinist regime because of its repression and censorship and nationalistic
+tendencies, which Orwell also touches on.
+This movement of Orgota from the looser government of Karhide to an orderly
+bureaucracy comes with a loss of liberty. The radios are censored and people sent
+away to Voluntary camps for various reasons. They might be “mental or social defects”
+(170), have gotten into trouble with an overseer (171), or be deemed a political danger
+like Genly.
+Genly observes that:
+Prisoners who had been there for several years were psychologically and I
+believe to some extent physically adapted to this chemical castration. They were
+as sexless as steers. They were without shame and without desire, like the
+angels. But it is not human to be without shame and without desire. . . . This was
+the first case I had seen of the social purpose running counter to the sexual
+drive. Being a suppression, but something more ominous, perhaps, in the long
+run: passivity. (Left Hand 177)
+
+55
+
+The government of Orgoreyn administers kemmer represents to its prisoners at the
+Voluntary Farm in the Pulefen Commensality. Genly presents a rational explanation for
+the suppression: a single Gethen in kemmer without a partner would become disruptive
+(177). However, the willingness to repress the sexuality of a population points to the
+disregard that those in power hold towards a populace they are supposed to be
+governing.
+
+The narrator here, Genly Ai, senses “something more ominous” in this
+
+behavior.
+One could see this castration as parallel to the manner of Le Guin’s experiment.
+Le Guin writes a largely genderless and sexless people. The Orgoreyn government
+chemically removes sex and gender.
+
+The difference being that Le Guin allows a
+
+potential for gender, sex, and sexuality, whereas Orgota severs the possibility of
+kemmer. It is this removal of potential which is disquieting; since the ability to copulate,
+to act on gender and sex ties to humanity. Therefore, the effacement of this ability
+dehumanizes the drugged.
+
+Shame, Desire, and Humanity
+Genly suggests that part of being human is the “shame and . . . desire” that has
+been taken from the Pulefen workers. If the drug, which represses kemmer, gendering
+and sexuality, also takes this necessary “desire” and “shame,” then this drugging is not
+only an abuse but a refusal of the worker’s right to human experience. Michael Warner
+suggests that sex is inherently linked to shame and that normative, heterosexual
+behavior is enforced by shaming (1). Through this, sex and sexuality become tied to
+shame. Though there are no genders or sexes on Gethen, Warner’s basic premise,
+
+56
+
+that sex and shame are linked is important here. Genly comes from a heterosexual
+society and would be aware of sexual shaming that comes in reinforcing norms.
+
+He
+
+observes that “it is not human to be without shame and without desire” (177). In Genly’s
+mind the concept of shame is so deeply attached to sex that one cannot be human
+without this shame and desire. This reinforces Annas’ idea that Genly cannot consider
+the Gethens human without first ascribing a sexuality (Annas 151). The shameless
+state of the drugged Gethens seems inhuman because they lack shame and sexual
+desire, which leads to gendering. Therefore, shame and desire are linked to sexuality
+and humanity. To oppress kemmer is to refute the humanity of the individual. Le Guin
+asserts in a revision: “When Gethenians have to make love, they do make love, and
+everybody expects it and approves of it” (Gender Redux13). There is no shame present
+in Gethen kemmer norms. However, Genly cannot help but attach it.
+Kemmer is a “festivity of passion” (Left Hand 93); when Gethen’s experience the
+sexual drive it “dominates him absolutely” (Gender Redux 12). Le Guin suggests that
+sexual desire is nonexistent during most of the month for Gethens, but during that short
+festival sexual desire should not be repressed. It is the only time when Gethens can
+become man or woman, can conceive or spawn life.
+
+By creating the concept of
+
+kemmer, Le Guin pins down sexual freedom to a moment, a moment which can be
+controlled more readily than the reader’s lifetime of sexual impulses.
+The Orgoreyn government’s willingness to forcibly repress kemmer is unsettling
+because it suggests that a government would take away part of its people’s humanity: in
+this case, their sexual freedom.
+
+This could be a response to Mill’s assertion that
+
+government is inherently male, patriarchal, because men have historically run these
+
+57
+
+governments. Mills also calls on the patriarchy’s ability to subjugate and control as an
+example of its masculine qualities. If this is the case, then Orgota is becoming more
+masculine as it seeks greater control over its population. This points to Le Guin’s
+reasons for writing Orgota at this moment readying for war: to assert the delicate
+balance struck in androgyny or unity.
+Le Guin may also be suggesting that gender is not the only issue. If Orgota can
+seek dominance even without gender and sex polarities, then it is an inherently human
+desire to subjugate.
+
+Perhaps this returns to Foucault’s “perpetual spirals of and
+
+pleasure” (45) in that the desire to control gives pleasure, and Foucault suggests that
+humans will always seek out pleasure.
+
+Loss of Potential
+Further terrifying is Genly’s suspicion that continued drugging leads to “passivity”
+(177). This passivity links to the loss of potential because both dismiss actions, either
+rebellious or sexual. An implication of this connection to drugging and docility is that
+sexuality provides a ground for vitality, self awareness, and a desire to keep that self
+liberated. Wollstonecraft asserts that women have been so long subjugated that they
+are now “weak” and “helpless” (42-43). This fits with Zimmerman and West’s argument
+that gender comes from constantly performing a role (127), if a woman performs that
+passive role in society for long enough she will believe herself to be helpless. Genly’s
+concern with passivity suggests that these prisoners, now de-sexed and dehumanized,
+are also being feminized in their weakness. The inability to be gendered and sexdefined creates a kind of “impotence.”
+
+In both sexual and action based senses.
+
+58
+
+Trapped in the back of a truck on the way to the Farm he observes that “These were
+Orgota, people trained from birth in a discipline of cooperation, obedience, submission
+to a group purpose ordered from above. The qualities of independence and decision
+were weakened in them” (Left Hand 173).
+This is very similar to the idea that genders can be learned and, in the cases of
+children, must be learned.
+
+West and Zimmerman, with Sandra Bem, suggest that
+
+“children learn that the recognition and use of sex categorization in interaction are not
+optional but mandatory” (141). The children must engage in “self-regulating” gender
+and sex roles if they hope to escape being a “baby” (141-142). This concept of learned
+and self-controlled action is akin to how “people [are] trained from birth” to obey the
+Orgoreyn government. By allowing Genly to see this passivity, and lack of potential sex
+and gender, as feminine, Le Guin follows the tradition of Wollstonecraft, Mill, and most
+feminist writers by suggesting that women must be active not passive.
+Interestingly, Genly describes the “chemical[ly] castrat[ed]” workers as “sexless
+as steers” (177). Steers are desexed, or fixed, male cattle. The narrator’s use of this
+comparison suggests that once a being is rendered without hope of sexuality, gender,
+or sex, they are somehow animal13-like, which is interesting given Genly’s description of
+his crew as “great apes with intelligent eyes” (my emphasis 296). Yet, animals do have
+genders, even on Gethen (36). Therefore, there must be some quality that makes the
+steer even, baser, more animal. The reader should remember that steer are not born
+naturally, they are made. They are fixed in their new natures by an act of another. This
+comes back to Beauvoir’s suggestion that women are defined by men as the Other
+
+13
+
+Similarity to 1984and the way the Party treats the proles as animals and the implications of this
+treatment.
+
+59
+
+(677). The castrated are defined in their roles by the concepts of others, of Ones, being
+forced on them, the objects.
+Being neutered, the prisoners are no longer androgynous. The androgynous
+state was a natural unity of the sexes; the neuter is a forced removal of the possibility of
+sexuality. This removes the “potential” or “integral” (94) part from the Gethenian. They
+no longer have the sexual freedom of kemmer.
+
+They are deprived of part of the
+
+“shame” and “desire” key to their humanity. The prisoners only reach this state through
+government power, implying that Orgota can remove their sexuality and render them
+animal like. This animal like state is not natural.
+By fixing the prisoners, the Orgoreyn government forces them into an animal
+state and makes them labor till they die (189). With the ability to experience kemmer
+removed, the workers are animals and without any rights that might be guaranteed
+under the Orgoreyn government.
+
+This understanding links humanity, again, with
+
+sexuality, or perhaps the liberty to act on that sexuality. Since the prisoners must labor
+till death, the potential for future activity is also repudiated, further demonstrating the
+emasculation of the captives.
+Perhaps this tells us more about Genly’s perspective then it does Orgota’s.
+Genly also says that, “Some Gethenians . . . are like animals, with deep bright eyes that
+do not change expression when you speak” (15).
+
+Genly treats the Gethenians as
+
+intelligent beings different from himself; yet, he cannot shake an animal quality he
+occasionally sees in Gethenians. With the understanding of this connection for Genly,
+perhaps he cannot, on some level, see Gethenians as anything but animals. If this is
+so, then the observations concerning the desexing of Gethenians and the removal of
+
+60
+
+their rights and humanity by it, is tied more closely to Genly than to the Orgoreyn
+government. Annas says that Genly needs to sort Gethens into sexes before they
+become human to him; perhaps in knowing their potential for sexuality is removed, he
+can only see them as animals.
+
+The Conditioned Versus The Natural
+When Genly tries to explain the differences between a man and woman to
+Estraven, he is stumped. “I suppose the most important thing, the heaviest single factor
+in one’s life, is whether one’s born male or female. In most societies it determines one’s
+expectations, vocabulary . . . It’s extremely difficult to separate the innate differences
+from the learned ones” (234). Genly is aware that some differences are imposed by
+society and others by nature, yet he cannot distinguish which is which. He also admits
+to the importance of being born one of two sexes. Zimmerman and West suggest that
+some behaviors are so engrained in societal expectations that they appear natural, as
+“essential natures” (142). Perhaps this is why Genly cannot distinguish between the
+conditioned and the natural, because the conditioned has been enforced for so long that
+it appears natural. Mill also says “that unnatural generally means only uncustomary,
+and that everything which is usual appears natural. The subjection of women of women
+to men being a universal custom, any departure from it is quite naturally appears
+unnatural” (200). Genly’s assertion that “It’s extremely difficult to separate the innate
+differences from the learned ones” (234) is an expression of learned behaviors
+appearing natural.
+
+61
+
+If behaviors are performed as natural, then the male comes to believe that his
+gender naturally follows his sex; that he has no other choice. Genly clearly recognizes
+himself as male and as different from the androgynous population. “I suffered as a
+human male among human beings who were, five-sixths of the time, hermaphroditic
+neuters” (48). Genly is constantly aware of his male status because he is surrounded
+by genderless beings; even if he overlays Gethens with gender, he knows this is only in
+his mind. Further, though Genly is not strictly wrong in calling Gethens “hermaphroditic
+neuters” the term is different from Le Guin’s use of “androgyny”; though hermaphrodites
+have both male and female organs (Fausto-Sterling) like Gethens (90), “neuter” implies
+an act of de-sexing.
+
+Whereas the Gethens are not neutered, they are simply
+
+androgynous, always in balance between male and female until the moment when one
+set of organs demands they play the role of man or woman in coitus.
+Though the Gethen understanding of self is probably less tied to sex or gender
+and more the Hearth and Domain (2,3), the want to keep that self is likely present. It
+may be this want that creates the patriotism brought up several times in the novel. The
+gendered self is lacking, therefore the self in connection to family14 and country is
+exaggerated. Le Guin does not fully define hearth and Domain in the context of Gethen
+society; yet again, she is able to draw on the reader’s understanding of “hearth” and its
+connection to “home” to suggest that the hearth is a form of family living system. Then
+the Domain encompasses the hearth and Domains make up a country.
+
+Patriotism and Fear of the Other
+
+14
+
+To Hearth and Domain.
+
+62
+
+Attempting to discuss patriotism with Genly, Estraven says: “No, I don’t mean
+love, when I say patriotism. I mean fear. The fear of the other. And its expressions are
+political, not poetical: hate rivalry, aggression. It grows in us that fear” (18). The reader
+learns that Estraven believes patriotism is based on fear not love. It is “fear of the
+other” that drives unification.
+
+This once more returns to Beauvoir’s concept of
+
+One/Other, Subject/Object (676-677). If there is no gender, there can be no inferior sex
+or a subordinate gender to perform. Therefore, Le Guin had to provide Karhide with an
+“Other” to fear.
+Perhaps she feels that the Self versus Other paradigm is inescapable and
+therefore she had to give Karhide and Orgeyn political Others in each other. Beauvior
+cites forms of Other besides gender, such as political or racial. By using the political in
+place of the gendered Other, Le Guin suggests that One/Other is part of the human
+condition. Throughout this novel, the countries of Orgota and Karhide are in constant
+competition. Further, it is fear of the Other that drives this competition. The Other is not
+Myself, therefore I should fear It. “‘No, I don’t mean love, when I say patriotism. I mean
+fear. The fear of the other’” (18). Fear drives patriotism, forces the need of the One to
+divide and define from the Other. This fear eventually leads to war, a domination of the
+Other.
+Once Estraven loses his position as prime minster, Tibe, a power hungry
+politician, takes his place. Genly observes that:
+[h]e [Tibe] was after something surer, the sure, quick, and lasting way to make
+people into a nation: war.
+
+His ideas concerning it could not have been too
+
+precise, but they were quite sound. The only other means of mobilizing people
+
+63
+
+rapidly and entirely is with a new religion; none was handy; he would make do
+with war. (102)15
+This “mobilizing” is similar to the unification of patriotism. Both require large groups of
+people to share an ideology or concern, and, in this case, both are driven by fear. Tibe
+calls for war, war against Orgota. Even in fear, there is unity. There must by a unifying
+of purpose for war, garnered by fear or love (18).
+
+Conclusion
+In “Gender Redux”, Le Guin asks, “is gender necessary?” I believe that the
+answer is “yes.”
+
+Le Guin creates an androgynous world, attempting a thought
+
+experiment in which gender is removed to determine what is left.
+
+However, with
+
+kemmer, she returns Gethen’s to temporary sex and gender performance.
+
+This
+
+suggests that gender and sex are important to Le Guin’s definition of humanity, or at
+least the perpetuation of the human race.
+To carry her thought experiment further, it would have been more effective to
+create either a third gender or another form of reproduction. Also, Le Guin writes in
+English, which naturally divides into two genders and sexes. The language restricts Le
+Guin with pronouns and undertones of power attached to masculine words. English’s
+structure and Le Guin’s decision not to form a third gender or new means of generation
+allows gender, sex, and sexuality (as the reader knows it) back into the equation. This
+return suggests that this performance does indeed matter. Even if Le Guin is unable to
+escape gender and sex completely, only because of language and the heterosexual
+
+15
+
+This strike a chord with 1984 because the constant fear that the inhabitants of Oceana live in and the
+way that they hate any nationality not their own.
+
+64
+
+concepts buried within it, this failure might imply that gender and sex are important
+because of their imbedding in language and culture. However, I think that the language
+is not completely at fault. Yes, English disallows Le Guin the luxury of a neutered case,
+but she could still have made an altered sex or method of reproduction. This points to
+the import of the two gender/sex dynamic to the normative human
+
+65
+
+Consuming Reality
+
+Setting the Stage
+In the previous chapter, I explore the subtle control gender exerts because Le
+Guin’s language undermines her stated goal of creating a world without gender. With
+this understanding of gender’s power, I turn to Philip K. Dick’s The Simulacra to probe
+how the government Dick creates uses gender as a control mechanism. Dick works to
+extend what feminist theorists refer to as the “male gaze” from an unconscious
+“pleasure in looking” (Mulvey 835) into a conscious toll on oppression.
+In her article “Visual Pleasure and Narrative Cinema,” Laura Mulvey follows
+Frued and suggests that there is an “erotic basis for pleasure in looking at another
+person as an Object” (835). Further, Mulvey uses the term “male gaze,” suggesting a
+masculine aesthetic and audience. This aesthetic follows a visual pattern similar to the
+active male and passive female established in the earlier chapter by Beauvoir.
+Beauvoir suggests that in English “he” is the positive, the neutral, the Subject and that
+“she” is the negative, the Object (675). As the Subject “he” is active and the Object
+“she” is passive. Using this device, Mulvey claims “pleasure in looking has been split
+between active/male and passive/female.” The male gaze is the Subject viewing the
+Object.
+
+Mulvey also implies a pleasure derived in the male viewer from seeing a
+
+woman as a sexual Object. Mulvey suggests that in cinema, a woman’s body becomes
+a spectacle. She is defined by her “to-be-looked-at-ness” (Mulvey’s emphasis 837).
+The understanding of woman as “something” to be looked at further Objectifies her. It
+removes all agency.
+
+66
+
+Mulvey’s argument looks specifically at the cinema, constructs a darkened
+theater which caters to “voyeuristic phantasy.”
+
+Voyeurism refers to the gaining
+
+satisfaction or sexual excitement from the viewing of an image.
+
+The audience is
+
+separated from one another by the dark, so each experiences the movie privately. They
+are watching for his (or her) personal pleasure.
+
+Mulvey claims that the cinema is
+
+designed to “give the spectator the illusion of looking in on a private world.”
+
+She
+
+emphasizes the viewer’s alienation from other audience members and from the Object
+of his desire, the woman he cannot obtain on the screen (835-836). This privacy is
+important because it removes all contact between the watcher and the world he
+physically inhabits.
+
+The world he mentally occupies takes precedence over the
+
+physical, the actual. Voyeurism then fetishizes the Object. Fetishistic looking identifies
+a body with that of a viewer and finds sexual pleasure in it (849-840). It is the addition
+of the symbolic that turns the image into a fetish. From woman to a fetish, the audience
+“builds up the beauty of the Object, transforming it into something satisfying in itself”
+(840).
+I think that Michael Taussig uncovers a danger of fethisization. While writing
+about violence and healing in South America, Taussig considers photographic nudes
+taken of native women by colonizers.
+
+Taussig suggests that the photographers
+
+desperately try to quantify their findings as “science” rather than “pseudo-” or
+“protoscience” they turn the photographed bodies into Objects. Clinical descriptions
+distance the body from the observer to such a degree that the body lost its humanity.
+He refers to this as the “colonizing eye” and sees “the same display of the body as
+artifact to be scrutinized for the mystery of its meaning—i.e., its meaning to us” (113).
+
+67
+
+This stripping of humanity from the image is similar to what happens to Mulvey’s women
+as they are looked at; they become nothing other than a pleasurable image, an Object.
+Taussig considers this a form of cannibalism, because of the way the eye
+devours and consumes the image of another human being (113). When a human body
+is cannibalized, it is only a body and no longer human. In this vein, the “scrutinized”
+naked images lose their humanity by the distance the viewer allows between
+themselves and the subject of the photo. Then the picture is only of a body not a
+person.
+When the personhood of the pictured is lost, a space is opened for voyeurism. In
+her book A Different Kind of War Story, Carolyn Nordstrom claims that discussing
+violent images, stories, or situations is difficult because too much emotion or detail can
+make it a “pornography of violence” (18). She speaks to the fear of readers believing
+she takes pleasure in the violence she observes and is concerned by the enjoyment
+that others may find in it. The phrase “pornography of violence” suggests a sexual
+gratification from violence, known as voyeurism.
+After establishing the male gaze and its consequences, I discuss the simulacra,
+for which the book is named.
+
+According to Jean Baudrillard, and his article on
+
+simulacra in science fiction, there are three kinds of simulacra.
+
+One is “based on
+
+image, imitation” of the natural. Another is “based on energy and force” with the goal of
+the “liberation of indeterminate energy.” The third is the “simulation simulacra” which is
+interesting in creating a “hyperreality, total control” (309). Most of Baudrillard’s
+discussion is on whether SF imitates reality or if reality imitates SF and is not directly
+related to this paper. However, his three kinds of simulacra may be of use. I will use
+
+68
+
+his concept, yet I think that Dick mixes the first and third kinds of Baudrillard’s
+simulacrum.
+
+Actual Versus Constructed Reality
+In this paper, I use reality to refer to two different phenomenons. Actual reality
+refers to the physical world that a person or character inhabits. Whereas constructed
+reality refers to the world a character creates for his or herself. For example, the image
+of Nicole that Ian has built for himself is part of his constructed reality.
+
+Nicole is the
+
+first lady and her husband, the present is elected every four years (16). She appears
+frequently on TV and Ian has been watching Nicole his entire life.
+
+Based on the
+
+presented image, Ian has constructed an ideal of Nicole. In his actual reality, he has no
+contact with Nicole, and knows little about her.
+
+Ian’s obsession with Nicole is a
+
+manifestation of his desire to fully realize his constructed reality.
+
+In the end, the
+
+constructed may trump the actual because a person may feel more at home in a world
+of their own making, in which they have power. This plays into Mulvey’s concept of the
+male gaze because the gaze creates a private world in which the constructed reality
+holds sway.
+
+The Image
+She [Nicole] glanced up . . . Now she smiled in greeting. “Good afternoon,”
+she said. “Did you two have lunch? . . .” . . . “We ate, Mrs. Thibodeaux,” Al
+said. . . . We ate Mrs. Thibodeaux, Ian Duncan thought crazily. Isn’t it
+actually the other way around? Doesn’t she, sitting here in her blue-cotton
+pants and shirt, doesn’t she devour us? (The Simulacra 166)
+Nicole asks if the two men would like lunch. Al replies that they already had lunch.
+Hysterical with fear, Ian removes the comma and changes Al’s meaning. Suddenly,
+
+69
+
+there is a suggestion of cannibalism, of devouring, of the consumption of a human being
+by a human being.
+
+The Pleasure of Looking
+Ian has been watching Nicole Thibodeaux on TV all his life. He decided that he
+wanted to meet her in person. However, when confronted by the real Nicole, not the
+image, he is terrified that the woman he obsessed over will not be what, or who, he
+thought.
+
+All Ian wants “is the image” of Nicole (164).
+
+An image is more easily
+
+consumed than a real woman with power because it is a picture rather than a physical
+being. Thinking of Mulvey, the reader should remember that as a man, Ian’s gaze
+operates on a classically masculine aesthetic. As the viewer, Ian can exert the power of
+his imagination and expectation on Nicole. In the above excerpt, Ian realizes that he
+does not have the power he presumed because Nicole becomes an actuality which
+does not match his fantasy. This is a cry of concern because the power structure
+established by the active male viewer and the passive female Object is disrupted. Ian is
+losing his grip on the Nicole he saw. He must now grapple with the way in which she
+sees him. Ian’s fear forces him to confront the possibility that she is, in fact, “devouring”
+him.
+
+Visual Cannibalism
+The objectification of women and removal of their humanity, such as Taussig
+describes, is a violence. I apply this concept to Nicole because she is regarded as an
+image. As she is constantly devoured by the male gaze, she is objectified and is less a
+
+70
+
+person than a concept. Voyeurism can allow a viewer to own or obsess over an image,
+rather than confront the actuality of the person in the picture.
+However, Nicole’s image is being used as a control mechanism. Does the fact
+that the violence done to her is a means to an end negate the removal of her humanity
+as a wrong? Here we should remember Foucault’s “perpetual spirals of power and
+pleasure” and that both the subject and object of power feel pleasure for its exercise.
+This complicates the issue of Nicole’s objectification because she is no longer a
+helpless victim but rather a party to her dehumanizing. She is used in this way to
+control the public, something that all the governments in these novels do. This is simply
+a different system which relies upon the desires of the public itself. The public is also
+violated because of this method: the government effectively uses the population’s
+desires and in this way undermines them.
+
+In Dick’s world, the government’s
+
+manipulation of the public’s needs and the male gaze drives many into a neurotic state.
+This is a violence done to the public because their sanity is toyed with by a government
+that should be protecting them.
+
+Obsession
+Sitting alone in his apartment, Ian watches as “On the screen bloomed now
+lovely, tranquil features, the pale skin and dark, intelligent eyes, the wise yet pert face of
+the woman who had come to monopolize their attention, on whom an entire nation,
+almost an entire planet, dwelt obsessively” (Dick 18). Focusing on Nicole’s physical
+features as she appears on his TV screen, Ian presents her visual appeal as part of the
+obsession, pointing to the importance of Mulvey’s concept of the “to-be-looked-at-ness”
+
+71
+
+and the pleasure of looking. He becomes obsessed with her physical features rather
+than the actual woman. Later in the scene he thinks “Nicole . . . you’ve got me trapped”
+(18), Ian cannot take his eyes off the screen and begins to fantasize about actually
+meeting her. Ian wants to shatter the privacy of his darkened theater which would draw
+him closer to the actual reality of Nicole and lead to hysteria. It is the desire to have
+contact with Nicole, to break the isolation of his gaze, which propels Ian’s plot line
+through the rest of the novel and drags Al, a close friend of the Nicole obsessed Ian,
+into the action.
+It is not only Ian obsessed with Nicole. The last remaining psychoanalyst, Dr.
+Egon Superb, observes that fixation with Nicole amounts to a “national neurosis16”
+(100).
+
+During an event, a Skypilot, the spiritual adviser of a residential building, prays
+
+that “lastly, if it be thy [God’s?17] will, that Nicole Thibodeaux be free of sinus headaches
+which have caused her not to appear on TV lately, and that those headaches not have
+anything to do with that time two years ago. . .” when she hit her head and was in the
+hospital “which we all recall” (13). Nicole’s wellbeing is invoked in a religious meeting;
+this implies that she is of vital importance to the people of the building. Further, that she
+is imbedded in the public consciousness to a degree that her sinus headaches: “disrupt
+our [the population’s] law abiding, orderly lives” (13). Later in the novel, Ian blames the
+anxiety present in his building on Nicole’s sinus headaches (54).
+
+This suggests a
+
+connectedness between the wellbeing of the public and the object of its obsession, its
+fetish.
+
+16
+
+When I use the term “neurosis” I do so in a Freudian sense. Freud understood neurosis as the
+“frustration of basic instincts” (Landry 2).
+17
+I use a question mark here because God is not explicitly mentioned in the text but given the context of
+the meeting, the prayer, and the religious leader I assume some version of God plays in.
+
+72
+
+Masculine Society and Neurosis
+Mulvey looks at the gaze as a masculine/feminine phenomenon. This concept of
+masculine power can be transferred from Ian to the public.
+
+Not only because the
+
+audience is the consumer, and therefore the active absorbing the passive, but because
+Ian thinks of the public as an overwhelmingly masculine entity. Before Nicole’s image
+appears on the screen, he tries to puzzle out how the United States of Europe and
+America became a matriarchy:
+[W]hen did our society become matriarchal . . . Each year der Alte18 [the
+President] became more obscure, the First Lady became better known,
+more liked, by the public. It was the public which brought it about. Was it
+a need for mother, wife, mistress, or perhaps all three? Anyhow they got
+what they wanted; they got Nicole and she is certainly all three and more
+besides. (16-17)
+This implies that the public, as a whole, is masculine because they needed a “mother,
+wife, [or] mistress.” This sets up the public as a masculine entity, which fits cleanly with
+the male gaze.
+
+The desire for a “wife” or “mistress” is a masculine want, in the
+
+heterosexual society that Dick uses for this novel.
+
+This is what Nicole comes to
+
+symbolize, she is the need for a woman, a feminine to the public’s masculine. Dick’s
+interest in this power relation may be why we never see any women watching TV, we
+only see men partaking in Nicole’s visual.
+
+18
+
+In German, der Alte means “the old man.” This points to trappings of a patriarchal government to the
+point where the “elected” leadership office is defined by gender.
+
+73
+
+Taussig notes that naked images of men are not used as nudes of women are.
+When pictured, men are always clothed (114).
+
+This speaks to the power dynamic
+
+between the photographer, the subject, and the viewer. The photographer has a place
+of power, what Susan Sontag refers to as the “imperial rights of the camera—to gaze at
+. . .” (2), and therefore presumed male. Therefore, it would be inappropriate for a male
+photographer to sexualize a male subject. The observer also has power over the image
+by virtue of the gaze; because of this the potential viewer is gendered male. With this in
+mind, the subject can be nothing other than a passive female: Nicole.
+However, the public does not necessarily need to be all sexed males to take the
+place of power in this relationship. If the public views Nicole, then they are the active
+Subject and she the Object. The sexedness of the gaze becomes unimportant and only
+the power dynamic, which implies the masculine/feminine relationship, is necessary.
+This passage may tell the reader more about Ian than about the public. It is only
+through his reading of events and history text (16) that the reader receives this
+explanation. This suggests that Ian is a sexually frustrated individual, he longs for his
+mother, cannot have her; desires a mistress or a wife but can obtain neither. Therefore,
+he turns to the image, the fetish, of Nicole to satisfy himself.
+However, Dick suggests to the reader that this desire for Nicole is larger than Ian
+because Superb diagnosis it as a “national neurosis . . . [t]he psychological fault of our
+times” (100). This suggests that the desire for a sexualized mother, mistress, and wife
+are pandemic. Dick also provides characters other than Ian who are obsessed with
+Nicole. This also casts the population as largely motherless, to the point where the
+government must provide a substitute. Sigmund Freud’s Oedipus Complex suggests
+
+74
+
+that boys hold a repressed desire to have intercourse with their mothers and kill their
+fathers (Sigmund Freud’s Psychological Development Theory 1). I am interested in the
+first part of this theory because it simply explains the character’s sexual obsession with
+Nicole. This could be why “mother” fits so readily with the sexual “wife” and “mistress.”
+Richard Kongrosian, the psycho-kinetic19 pianist who often preforms Nicole, has
+issues similar to Ian’s. Kongrosian suffers from various physiological issues, the latest
+set are brought on by commercials for deodorant.
+horrible that human contact is dangerous (62).
+
+He believes that he smells so
+Later in the novel, Kongrosian’s
+
+atrocious odor leads him to believe he is invisible (127). The commercial has this effect
+because Kongrosian believes himself to be “an anankastic, a person for whom reality
+had shrunk to the dimension of compulsion; everything he did was forced on him” (62).
+The commercial becomes part of Kongrosian’s constructed reality and he must react,
+taking to heart the suggestion that his stench keeps people at bay. The pervasive
+images of Nicole have also become a part of this reality. To the point where Dr. Superb
+can claim, “That man . . . has a delusion that’s overpowering. He experiences Nicole
+Thibodeaux as real” (100). If the image is the reality for Kongrosian, than actually
+meeting the flesh and blood Nicole would do nothing to shake the impression of the
+picture. Whereas Ian is terrified that his constructed and the actual realities will not
+meld, Kongrosian is unconcerned because the image and illusion he has built override
+the actual reality.
+Kongrosian struggles with the sexual desire for Nicole more than Ian does.
+Kongrosian says, “sometimes I think the actual basis of my psychological problem is
+
+19
+
+The same nuclear event that created the chuppers also lead to some psychic and telekinetic abilities.
+In Kongrosian’s case he can play the piano with his mind.
+
+75
+
+that I’m unconsciously in love with Nicole. . . . The incest or taboo barrier . . . has been
+called out by the direction my libido has taken, because of course Nicole is a mother
+figure. (99). Here, he does not say: “Nicole is my mother,” but he recognizes her as a
+“mother figure.” This recognition is so strong that he rationalizes his psychological
+problems as a kind of punishment for incestuous thoughts. He clearly sees Nicole in a
+sexual light, perhaps as a mistress since he has a wife (1).
+
+However, he cannot
+
+separate the sexualized Nicole from her maternal aspects. The need for mother and
+mistress are compounded and disturbing to Kongrosian.
+The system of government in Dick’s The Simulacra is founded on control and
+deception. However, this control is not achieved by mere force. It is achieved by
+making the public think they are getting what they want. If the public want a “mother,
+wife, mistress,” then that is what they shall have. The government achieves this in the
+form of Nicole. She is the perfect woman, created by the media for the consumption of
+the masses. Further, she is what the public wants. This is an example of Berlin’s
+positive freedom because the government encourages the population rather than
+restricting it.
+
+The government is also encroaching on the private space that Berlin
+
+believes is important to development. This impinging interferes with the population’s
+ability to develop without being contorted by government founded neurosis.
+
+Flipping the Gaze
+The only way that the public can have contact with Nicole is by succeeding in
+talent shows. Ian settles on the classical jug act that he and Al used to perform, in
+which they play classical music like Beethoven on jugs, as a means to meet Nicole (19).
+
+76
+
+He sees this as a way to prove he is not a “failure.” Ian says that he does not “know if I
+can go on living like this,” feeling “trapped” (52). He thinks that only playing for Nicole
+can help him. It is the fruition of this endeavor which forces Ian into the spot where he
+wonders who is “devouring” whom (166).
+
+The only way he can meet Nicole is to
+
+provide her with entertainment, to become the Object of her gaze. This is a flipping of
+the passive/female and active/male structure. In this way, he is feminized and Nicole’s
+power is exaggerated. This is part of the reason Nicole is unnerving; she is a woman
+with power, not a passive Object. Meeting the actual Nicole forces Ian to reconsider is
+thoughts about her. The reality he constructed concerning Nicole may not be the actual
+reality.
+Ian is denied the pleasure he hoped the meeting would bring. Nicole is still
+separated from him by a clear barrier for her protection. I find this situation interesting
+in conjunction with Mulvey’s cinema because of the partition screen.
+
+On TV, Ian
+
+creates Nicole for himself based on the image and his assumptions. He can do this
+because of his separation from Nicole and sees her as a face beneath the glass of his
+screen. Now he is on one side of a clear screen with Nicole on the other. The sound is
+funneled into his side by speakers (166), much as it was on his TV. Now that they are
+on opposite sides of the same screen, Nicole views Ian as much as he sees her.
+Before she had been the passive Object now she is the active Subject. In a sense
+reaching through the screen to canalize Ian as he has her, he no longer has the private
+pleasure of looking. Now he is “looked at.” This links back to Mulvey’s interest in
+privacy and voyeurism.
+
+77
+
+This complicates the simple relationship of audience to Object because the
+Object is now equally Subject. The dichotomy of passive and active is shattered, yet
+Ian is still refused access to Nicole.
+Before the meeting, Ian becomes aware of the dangers that meeting Nicole could
+entail. For example, when Ian is confronted with the idea that Nicole is actually ninety
+rather than the twenty-something she appears to be on TV he exclaims, “What’s unreal
+and what’s real? To me she’s more real than anything else; then you, even. Even
+myself, my own life” (122).
+
+She has become his reality and it is only by her
+
+acknowledgement that he too can have a place in his constructed reality. Ian cannot
+believe that Nicole is not the twenty-something he believes because “The facts, Ian
+realized, mean nothing when you can see with your own eyes she’s as young-looking
+as ever. And we see that every day” (120). The visual reality, the fetish, is more
+important to him than the actual reality.
+The truth becomes terrifying.
+
+Ian has a nightmare in which “A hideous old
+
+woman with greenish, wrinkled claws scrabbled at him,” he knows that this old woman
+is Nicole. He’s not sure he could “live through” seeing her now that his faith is shaken in
+the illusion of his perfect Nicole. He asks: “Can’t we go back to just seeing her on the
+TV screen? That’s good enough for me, now. I want that, the image. Okay?” (164);
+Ian admits that all he wants is the image of Nicole. The image provides safety. As long
+as he is not confronted with the real woman, she can remain the possessable Object.
+She can be in her twenties and not an old woman. Nicole can be his “mother, wife,
+mistress, or all three” (17). In the end, Ian does not want the truth. Ian is scared of the
+
+78
+
+actual real. He wants the image, the illusion, the constructed real, the possible lie he
+has believed all his life.
+
+“Weak-fibered men”
+Desire for the “woman who had come to monopolize their [the population’s]
+attention, on whom the entire nation, almost the entire planet, dwelt obsessively” (18)
+becomes a controlling mechanism for the government. By giving the public what they
+think they want, the government can use the matriarch, Nicole, to their advantage. Men
+become obsessed with her. They are emasculated by a system run by a woman they
+desire; the men then blame themselves for their desire and their “weak[ness]” (100).
+Chic, a character who makes simulacra and ends up visiting Dr. Superb20, says, “It’s
+because of weak-fibered men like me that Nicole can rule . . . I’m the reason why we’ve
+got a matriarchal society . . . ” (100). He blames himself and “weak-fibered men” like
+him for allowing Nicole dominance, a traditionally masculine role. “I’m like a six-year old
+kid,” (100) he laments, emphasizing that he is not only weak, but also a child, unable to
+do anything without his mother, Nicole. Suggesting that only in childhood is control by a
+woman acceptable, in adulthood it is simply emasculating. Chic essentially says that all
+the men under Nicole’s sway are infantile and emasculated. Superb tries to sooth Chic
+by saying that most men in their society have this issue (100).
+How can a man escape the crushing of The Simulacra’s matriarchal system?
+Two possibilities avail themselves: one is joining the Sons of Job which is a antigovernment group run by Bertold Goltz (100); the second is emigrating to Mars (50).
+
+20
+
+Chic visits Dr. Superb after his brother’s wife, Julie, leaves Vince (Chic’s brother) rather arbitrarily for
+Chic (28).
+
+79
+
+Both free him from Nicole’s gaze.
+
+Ian connects Mars with “getting away from the
+
+Party—and from her [Nicole]” (19). The concept of becoming a “real man” is found in
+both these options. Chic suggests that by joining the Sons of Job he “could be a real
+man” (100).
+
+A papoola, a simulacrum based on extinct Martians and used to sell
+
+spaceships, suggest to a passing family that “You [could be] your own boss, there, free
+to work your farm land, believe your own beliefs, become yourself” (50). Mars becomes
+a place to exercise agency, a space to “become yourself,” away from subtle government
+domination. The papoola then addresses the husband directly asking if “you have the
+courage to break free. Can you do it? Are you a real man?” (51). This ties masculinity
+to the ability to “become yourself,” the ability to exercise individual identity and power.
+This is an attempt to recover the active/masculine dynamic, which has been underlined
+and undermined by the government’s manipulation.
+
+Emasculation
+Twice in the novel the concept of “emasculation” by a system is suggested. The
+first is in connection with a member of a large powerful company, a “cartel.”
+
+The
+
+narrator suggests that, “spiritual—moral—emasculation was a present-day prerequisite
+for participation in the Ge class, in the ruling circles” (33). This suggests that one must
+forsake their identity to be a successful cog in the “ruling circles.” This ties masculinity
+to identity, the self. The masculine self is threatened by Nicole’s ability to control them
+and the power they know she exerts over them.
+The second time concerns Hermann Goering, a member of the Nazi party
+brought to present day for consultation on the best way to control the Third Reich and
+
+80
+
+Hitler (159). Nicole thinks that Goering is “Emasculated by the power-arrangement of
+the Third Reich; unable to do anything on his own, as a unique individual . . .” (160).
+This reinforces the idea that emasculation is sexual only in the loss of potency as an
+active agent. If the active is male, then rejecting independent enterprise makes one
+submissive, feminized. These men are enfeebled because they give up their rights as
+individuals to fit into the system.
+Emasculation then connects masculinity to identity and individuality. However
+these are not exclusive to men, women have them too. If “emasculate” does not refer
+specifically to a loss of masculinity, but a loss of agency, then anyone could undergo
+emasculation, including the female population under Nicole.
+However, the women do not seem impotent.
+
+There are examples of strong
+
+women who terrify the men of this novel. Molly, the daughter of Nat’s boss, is described
+as “exceptionally harsh and aggressive, almost masculine woman,” lacking “her father’s
+personal, emotional touch” (39). Described as a “masculine woman,” Molly’s feminity is
+questioned.
+
+Indeed her father possesses more of the “emotional touch,” generally
+
+associated with the female (Mill 202). Julie’s “terribly tough” personality scares Chic
+(30). Like Nat, Chic is uneasy with a woman’s lack of emotion. The narrator says that
+Julie’s dismissal of her ex-husband “chilled Chic because it was a cold, cruel, utterly
+dismissive sigh. . . . with . . . little spilled emotion” (30). Both these men are concerned
+by the lack of emotion, of the feminine in Molly and Julie. These women seem less
+concerned with acting in accordance with the system, with the gender expectations,
+than the men do. Molly and Julie do not waste time on emotions they do not feel, even
+though it would comfort the men in the novel. They do not seem emasculated but
+
+81
+
+liberated. Perhaps a matriarchy has allowed women to claim more power or at least
+assures women their right to identity. However, it is not done away with sexism; if it
+had, the men would not have these moments of unease.
+However, Dick’s use of “emasculate” has sexual undertones. He is once more
+playing on the association of men with power. When they are removed from that power
+they are femininzed. This returns to the disquieting nature of Nicole. She is presented
+as the ultimate feminine, the Object of masculine obsession. Yet she is more masculine
+because she appears to be running the system, the one in power.
+
+Power of Knowing
+What if climbing up the class structure is an attempt to regain power, masculinity,
+and identity through knowledge? Perhaps some of this power is claimed through rising
+in class structure.
+
+In The Simulacra, those in-the-know enjoy being on top of the
+
+hierarchy.
+Dick creates a world where social classes are blatantly divided by access to
+information, to “the secret, the Geheimnis.” The Ges, the Geheimnistrager, posses the
+secret while the Bes, the Befehltrager, are “mere carry-outers of instructions” (33). The
+Ges are above the Bes in this social structure because they are privileged to more
+information, more government secrets. They know that the President is a simulacrum,
+built to be whatever the public wants. This creates an illusion of public choice; the public
+thinks they are making a decision with their vote, but they are actually being
+manipulated by the government.
+
+82
+
+In this way, information is power.
+
+If power is linked to the active and the
+
+individual, then it may help reclaim masculinity, or at least authority in the power
+structure. The reader only sees men climb in the power structure when they learn that
+the der Alte is a simulacrum or that Nicole is not “Nicole” (110, 190). The reader never
+sees a woman climb the power structure. Perhaps the ascent is a masculine need and
+women are simply content to exercise their power on a personal level.
+
+Simulacrum
+There are two main kinds of simulacra in Dick’s novel The Simulacra: the first are
+the kind obvious to the reader, like Al’s papoola (53) or the robotic president Kalbfleisch
+(32). These fit into Baudrillard’s first order of simulacra as they are “imitations” of living
+beings. The papoola is a model of an extinct Martian life form (53) and the president is
+based on human anatomy. However, they also foster a hyperreality because they blend
+together the false and the real. As the hyperreality blurs the false and real, the real is
+exaggerated. They are not actual living creatures yet people who see and do not know
+they are simulacrum perceived that way. Since the secret is that the president is a
+simulation (32-33), the unknowing public treats president Kalbfleisch as the man they
+voted into office. Throughout the novel people see the papoola and say ask if it is alive
+(53, 165, 167), this suggests that the simulation of the papoola is convincingly life like.
+The second kind of simulacra Dick creates is Nicole.
+
+The papoola and
+
+Kalbfleisch are synthetic robotic life forms, imitations of living beings, unlike them
+“Nicole” is actually an actress playing the part of Nicole Thibodeaux. The actress’s
+name is Kate Rupert (170). However, even after the reader is made aware of this, Dick
+
+83
+
+still refers to her as “Nicole.” The role she plays overrides her identity as Kate Rupert.
+The construction of Nicole is more real than the actuality of Kate. Nicole becomes the
+physical reality. Theorist Max Deutscher suggests that actors are simulacra because:
+“The people who are actors, play at being people . . .” (518) just as the papoola and
+Kalbfleisch play at being alive, or how Kate Rupert plays at being Nicole Thibodeaux.
+This supports the conception of Nicole are a simulacra.
+Nicole fits into Baudrillard’s first form of simulacra because even though “Nicole”
+was originally a real woman, she has become a role played by other women “who look
+enough like the original Nicole” (170). She is a character based on the conceptions
+held about the original Nicole. She also fits the second form because she assists the
+hyperreality of The Simulacra. She appears on TV, an image in order to placate the
+public while executing a government role. Nicole is a role, taken as an actual reality by
+the public. She is part of their reality, the actual and the constructed. In the end, her
+falsity emphasizes the harsh reality of government power.
+The simulacra Dick uses are made for the purpose of confusing reality for the
+reason of control. The scene in which the reader learns that Kalbfleisch is a simulacrum
+occurs after a character watches him give a speech on TV. Then Dick cuts to the studio
+where the speech was filmed with a character saying, “‘Shut it off” (32). Then the
+“Kalbfleisch simulacrum stopped. Its arms stuck out, rigid in their final gesture, the
+withered face vacuous. The simulacrum said nothing and automatically the TV cameras
+also shut off, one by one; there was no longer anything for them to transmit . . .” (32).
+This suggests that the president simulacrum exists only to control the public and further
+
+84
+
+the agenda of the council (170). When the cameras shut off, so does he. His arms do
+not even relax, the remain “stuck out,” trapped in place like a wax-work.
+Kalbfleisch is not real, he is part of a reality that the state has constructed. The
+simulacrum inhabits an actual physical space but there is no actual person named
+Kalbfleisch. He does not have to be a real person. It is easier to control him if he is
+merely a simulation. Why then, is Nicole played by an actress? Perhaps it is because
+of the discomfort that Dick seeks to create. A simulacrum Nicole would not be as
+dynamic, as powerful and threatening, as a real woman. If Nicole is to unnerve and
+control the male public by obsession, then she must be the image of a real woman, not
+only the imitation of one. Even though “Nicole” is the imitation of the original Nicole, she
+is still a living woman. The council’s ability to control Nicole is secondary to Dick’s
+desire to provide the public with a proper Object for its gaze.
+Whereas Ian is obsessed with the constructed reality of Nicole, Superb claims
+that she is “the most synthetic object in our milieu” (100). Here, Nicole is not even a
+woman, she is an Object. She is synthetic, a construction. The public interacts with
+Nicole on a visual level only; this returns us to the gaze. She is an Object created for
+the male gaze of the public. Yet, it is ultimately the government with all the apparent
+power. They control Nicole, and with her help, the public.
+
+Conclusion
+However, at my most cynical I think that this is simply politics and not a violation
+of human rights. The government is working to keep a population under control, but it
+does not force them to consume the image.
+
+They can look away, as proved by
+
+85
+
+Superb’s disillusionment. I believe the situation in The Simulacra concerns civil rather
+than human rights. Civil rights are those granted under law which governments are
+meant to maintain, such as the right to privacy. In 1984, the Party creates a Newspeak,
+which is based around the worship of Big Brother. The professions of the Outer Party
+center around maintaining Party dogma. Also, the Party can always be watching, in
+The Simulacra they only control what the population watches.
+The difference between the Party and the government of the USEA is that the
+Party fosters a way of life, offering no alternative. Party members have no choice; there
+is a removal of potential difference. In the USEA there is a choice.
+
+The violation of
+
+human rights occurs not when an image becomes pervasive but when the government
+forces a way of life, when there is no option but to participate.
+I think that the government in The Simulacra is heading in this direction, at least
+before the war between the army and police. If this is the case, this novel can be seen
+not only as a dramatization of the world of the reader, but also a warning. That media
+can be used by the government in a totalitarian vein to control the reality of its citizens.
+In effect, Dick populates The Simulacra with simulacra, to the point where reality is
+based on the falsities of construction. This confuses the actual and the constructed.
+The reader might wonder if the distinction between realities matters when the
+government can impede on the individual to the degree in Dick’s world.
+
+86
+
+Conclusion
+
+What These Novel’s Share
+All three novels focus on individual potential and the suppression of it by
+government.
+Orwell’s Winston is denied the ability to have impulses and mutual trust. 1984
+examines how sex and love can be used as control mechanisms because the Party
+directs sexual desire towards Hate and familial love towards its icon Big Brother. The
+totalitarian government in Orwell’s novel seeks to eradicate the possibility of an
+“unorthodox” citizen.
+LeGuin’s Voluntary Camp prisoners in Left Hand cannot engage in the gendering
+and sexing that allows them to be human. Ultimately, even though Le Guin attempts to
+“eliminate gender” (Gender Redux 10), she returns to the two gender system with her
+concept of kemmer, suggesting that gender is important to a definition of humanity.
+When the Orgoreyn government uses kemmer repressing drugs, the government
+refuses its prisoners the potential of gender, sex, and sexuality.
+Dick’s characters in The Simulacra are losing the capability to look away from
+and see through the constructed reality of the state media. The government makes
+overt use of gender for control. The USEA government offers the public the female
+image it desires to the point of obsession and uses this obsession and eventual
+neurosis to control the population. However, the USEA has not yet reached the level of
+control that the Party has in 1984, because its citizens still have the choice of looking
+away from the media.
+
+87
+
+Human Rights in SF
+The governments in 1984 and Left Hand’s Orgoreyn encroach on human rights
+by suppressing individual potential for love, sex and even gender. In The Simulacra,
+the USEA exploits gender and sexual desire for control.
+SF seems suited to human rights discourse because it allows authors to tackle
+questions of the present in the guise of the future or another world. By building on the
+real world to forge a fictive one, writers can address current questions in a safe
+theoretical space. Also, they can draw out these questions to a conclusion which might
+seem unthinkable in the reader’s world.
+There is a long standing tradition of using SF to investigate questions of human
+rights. The book that is widely accepted as the first SF novel, The World As It Shall Be
+by Emile Souvestre, was published in 1846. Souvestre sends a young couple from the
+early 1800s to the year the year 3,000 so they can witness the glories that the future
+must bring (7). However, upon arriving in the future the couple are disturbed to find a
+world ruled completely by monetary gain, where no one marries for love (76), where
+children are separated from their mothers at birth (57), where minor criminals are
+imprisoned in a Panopticon (94) but major offenders live luxuriously (98), and where an
+old man is parted from his loyal dog because it offers no monetary advantage to anyone
+(90). The young couple are horrified by what they see as the total degradation of
+human society.
+
+88
+
+In 1906, David M. Parry wrote The Scarlet Empire in which his protagonist, John
+Walker, an American socialist, attempts to commit suicide because of his growing
+despair over capitalist society (4). Failing to drown himself, Walker ends up in the
+fabled under water city of Atlantis which appears to be a functioning socialist society (89). In Atlantis the quest for equality has been taken to such length that the inhabitants
+may speak only 1,000 words a day (unless given special permission) (10) and anyone
+who cannot survive on the meager rations is left to die because no one should have
+more food than another (68).
+
+In Atlantis the government decides who shall marry
+
+whom, following the practice that the ugly combine with the beautiful to eventually
+create a uniform aesthetic (322). There are numerous inspectors who monitor citizens
+to make sure they adhere various laws aimed at equability and uniformity such as the
+correct length of step (ten inches) (319). The starving are not given more than the
+prescribed amount of food. Those who fall in love and refuse to marry those assigned
+them are deemed insane, imprisoned, and killed.
+
+Essentially, Parry suggests that
+
+socialist ideal of equality is actually a threat to individual rights, lives, and identities.
+
+What is the Next Step?
+In SF
+If I were to continue my study of human rights in SF, I would turn my focus to
+technologies and how they become a locus for domination.
+
+Using novels such as
+
+William Gibson’s Neuromancer and M.T. Anderson’s Feed, I would explore how
+technology, once it becomes a part of the body, can be used for control.
+
+89
+
+I see this as an extension of the government control that I explore in the previous
+chapters.
+
+Both Dick and Orwell suggest that communication and surveillance
+
+technology is integral to the government’s ability to control its population.
+
+Feed
+
+explores the implications of becoming dependent on communication technology
+controlled by others.
+
+The feed is integrated into people’s brains and streams
+
+advertisements and the sensation of physical pleasure directly into the brain. Some of
+the characters become addicted to this pleasure. If someone is addicted to technology,
+he or she is subject to control by those who control the technology. In Neuromancer,
+the technology itself becomes intelligent which suggests a myriad of scenarios in which
+the technology created by man comes to coercively control him.
+
+In Magical Realism
+I would also look at human rights and human rights violations in magical realism.
+The genre of magical realism represents reality as fantastic or magical, a device that
+allows exploration of exaggerated events and extreme concepts.
+Many magical realist texts confront human rights violations. For example the
+banana massacre in Gabriel Garcia Marquez’s One Hundred Years of Solitude is based
+on the 1928 strike against the United Fruit Company in Columbia. There were three or
+five casualties in the actual massacre, but Marquez magnified the trauma of the event
+by making the death toll closer to 3,000 (Posado-Carbo 395-396).
+
+In Solitude the
+
+reader witnesses the 200 car-long train heading towards the sea to dump the bodies
+like so many “rejected bananas” through the eyes of a lone survivor (312). When the
+survivor tries to communicate with others about the massacre, no one believes him or
+
+90
+
+remembers the dead (313-314). Marquez calls attention to the treatment of the banana
+workers and the hardship they suffered by exaggerating the losses and comparing the
+corpses to bananas. When no one believes the survivor, Marquez is alluding to the
+history of the “disappeared,” a term used to describe those who vanished under various
+South American dictatorships. Both of these are allusions to real world events that
+violated human rights.
+
+What is the Point?
+In this project, I have looked at human rights in SF novels. The three novels I
+chose to focus on brought forward the importance of sex and gender as objects of
+control or mechanisms for control by governments. The loss of individual control over
+sex and the deprivation of gender stand for a wider array of rights violations that are
+less physically intimate, but no less human. SF can be taken seriously as commentary
+on human rights and what it means to be human. Understanding SF as part of human
+rights discourse allows the reader to visit the possible outcomes of human rights
+violations in a digestible manner. By doing this, the reader learns about the world as it
+is the present and its future prospects.
+
+91
+
+Bibliography
+Anderson, M. T. Feed. Cambridge, MA: Candlewick, 2002. Print.
+Annas, Pamela J. "New Worlds, New Words: Androgyny in Feminist Science
+Fiction." Science Fiction Studies 5.2 (1978): 143-56. JSTOR. Web. 27 Feb. 2013.
+<http://www.jstor.org/stable/4239176>.
+Baudrillard, Jean, and Arthur B. Evans. "Simulacra and Science Fiction." Science
+Fiction Studies 18.3 (1991): 309-13. JSTOR. Web. 13 Mar. 2013.
+<http://www.jstor.org/stable/4240082>.
+Beauvoir, Simone De. "The Second Sex." (1949): 673-705. Print.
+Berlin, Isaiah. "Two Concepts of Liberty." Oxford University Press (1969): n. pag. Web.
+Call, Lewis. "Postmodern Anarchism in the Novels of Ursula K. Le
+Guin." SubStance 36.113 (2007): 87-105. JSTOR. Web. 23 Feb. 2013.
+<http://www.jstor.org/stable/25195127>.
+Crick, Bernard. "Nineteen Eighty-Four." Cambridge University Press (2007): 146-59.
+Web.
+Deutscher, Max. "Simulacra, Enactment and Feeling." Philosophy 63.246 (1988): 51528. JSTOR. Web. 13 Mar. 2013. <http://www.jstor.org/stable/3750634>.
+Dick, Philip K. The Simulacra. New York: Mariner, 1964. Print.
+Fausto-Sterling, Anne. "The Five Sexes: Why Male and Female Are Not Enough." The
+Sciences (1993): 24-28. Print.
+Foucault, Michel. The History of Sexuality: An Introduction. Vol. 1. New York: Vintage,
+1978. Print.
+Foucault, Michel. "Panopticon." Panopticon. N.p., n.d. Web. 4 Mar. 2013.
+Gibson, William, and Jack Womack. Neuromancer. New York: Ace, 2004. Print.
+Grossman, Kathryn M. ""Through a Glass Darkly": Utopian Imagery in Nineteen EightyFour." Penn State University Press 1 (1987): 52-60. JSTOR. Web. 7 Apr. 2013.
+<http://www.jstor.org/stable/20718885>.
+Hester, Erwin, and Daphne Patai. "Women in 1984." Modern Language
+Association 98.2 (1983): 256-58. JSTOR. Web. 14 Oct. 2012.
+
+92
+
+<http://www.jstor.org/stable/462051>.
+Krishnaraj, Maithreyi. "Androgyny: An Alternative to Gender Polarity?" Economic and
+Political Weekly 31.16/17 (1996): WS9-S14. JSTOR. Web. 23 Feb. 2013.
+<http://www.jstor.org/stable/4404054>.
+Laundry, Peter. "Sigmund Freud (1856-1939)." Sigmund Freud (18561939). Biographical Sketches,
+n.d. Web. 24 Apr. 2013.
+<http://www.blupete.com/Literature/Biographies/Philosophy/Freud.htm>.
+Le Guin, Ursula. Dancing at the Edge of the World: Is Gender Necessary? Redux. New
+York: Grove, 1989. Print.
+Le Guin, Ursula. The Left Hand of Darkness. New York: Ace, 1969. Print.
+Lugones, Maria. "Playfulness, "World"-Travelling, and Loving Perception." Feminist
+Social Thought: A Reader. New York: Routledge, 1997. 148-59. Print.
+Mainari, Pat. "The Politics of Housework." (n.d.): 1-2. Web. 18 Mar. 2012.
+<http://www3.niu.edu/~td0raf1/history261/nov1902.htm>.
+Marquez, Gabriel G. One Hundred Years of Solitude. New York: Harper and Row, 1970.
+Print.
+Mill, John S. "Th Subjection of Women." The Feminist Papers: From Adam to De
+Beauvoir (1869): 196-238. Print.
+Mulvey, Laura. "Visual Pleasure and Narrative Cinema." Film Theory and Criticism:
+Introductory Readings (1973): 833-44. Web.
+Nordstrom, Carolyn. A Different Kind of War Story. Philadelphia: University of
+Pennsylvania, 1997. Print.
+Parry, David M. The Scarlet Empire. New York: Grosset and Dunlap, 1906. Print
+Patai, Daphne. "Gamesmanship and Androcentrism in Orwell's 1984." Modern
+Language Association 97.5 (1982): 856-70. Modern Language Association
+International Bibliography on InfoTrac. Web.
+<http://www.jstor.org/stable/462176>.
+Posada-Carbo, Eduardo. "Fiction as History: The Bananeras and Gabriel Garcia
+Marquez's One Hundred Years of Solitude." Journal of Latin American Studies
+30.2 (1998): 395-414. JSTOR. Web. 26 Apr. 2013.
+<http://www.jstor.org/stable/158531>.
+"Sigmund Freud's Psychosexual Development Theory." Sigmund Freud's Psychosexual
+
+93
+
+Development Theory. N.p., n.d. Web. 15 Apr. 2013.
+<http://www.datehookup.com/content-sigmund-freuds-psychosexualdevelopment-theory.htm>.
+Sontag, Susan. "A Photograph Is Not an Opinion. Or Is It?" Where the Stress Falls:
+Essays (2001): n. pag. Web. 29 Mar. 2013.
+Souvestre, Emile. The World As It Shall Be. Middletown: Wesleyan UP, 1846. Print.
+Taussig, Michael T. Shamanism, Colonialism, and the Wild Man: A Study in Terror and
+Healing. Chicago: University of Chicago, 1991. Print.
+Warner, Michael. The Trouble with Normal: Sex, Politics, and the Ethics of Queer Life.
+Cambridge, MA: Harvard UP, 2000. Print.
+West, Candace, and Don H. Zimmerman. "Doing Gender." Gender and Society 1.2
+(1987): 125-51. JSTOR. Web. <http://www.jstor.org>.
+Wollstonecraft, Mary. "The Vindication of the Rights of Women." (1792): 40-85. Print.
+
+

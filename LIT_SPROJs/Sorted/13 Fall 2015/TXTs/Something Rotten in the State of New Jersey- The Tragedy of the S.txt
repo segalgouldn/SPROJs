@@ -1,0 +1,1607 @@
+Bard College
+
+Bard Digital Commons
+Senior Projects Fall 2015
+
+Bard Undergraduate Senior Projects
+
+2015
+
+Something Rotten in the State of New Jersey: The
+Tragedy of the Sopranos
+Georgia Grace Frances Graham
+Bard College
+
+Recommended Citation
+Graham, Georgia Grace Frances, "Something Rotten in the State of New Jersey: The Tragedy of the Sopranos" (2015). Senior Projects
+Fall 2015. Paper 30.
+http://digitalcommons.bard.edu/senproj_f2015/30
+
+This Open Access is brought to you for free and open access by the Bard
+Undergraduate Senior Projects at Bard Digital Commons. It has been
+accepted for inclusion in Senior Projects Fall 2015 by an authorized
+administrator of Bard Digital Commons. For more information, please
+contact digitalcommons@bard.edu.
+
+Something Rotten in the State of New Jersey:
+The Tragedy of The Sopranos
+
+Senior Project Submitted to
+The Division of Literature and Language
+of Bard College
+
+by
+Georgia Graham
+
+Annandale-on-Hudson, New York
+November 2015
+
+I would like to express my deepest appreciation to my advisor, Thomas
+Bartscherer, for his guidance and enduring patience. In addition, a thank you to Deirdre
+d’Albertis and Stephen Graham, two professors who have demonstrated compassion
+towards me as a student during my time at Bard College. I will always owe a great deal
+of gratitude to David Shein and my parents for their steadfast support. Lastly, I have to
+acknowledge Ben La Farge; his early encouragement and faith continues to drive me
+forward.
+
+Table of Contents
+Introduction ....................................................................................................... 1
+Chapter One
+Summary of Other Criticism ..................................................................................... 4
+Chapter Two
+Theoretical Framework ......................................................................................... 13
+Chapter Three
+"She's Dead to Me": Catharsis and Pathos ................................................................. 18
+Chapter Four
+"This Attitude of Yours": Tony and His Eirons ........................................................... 27
+Chapter Five
+Rouding out the Cast: Frye's Tragic Typology ............................................................ 37
+Chapter Six
+Janus-Faced in Jersey: Tony's Tragic Internal Collision .............................................. 47
+Finale
+Inevitable Isolation ...............................................................................................60
+Works Cited ...................................................................................................... 62
+
+1
+Introduction
+
+The static clears. We are in a car, heading out of a tunnel. We see Manhattan in the
+rearview, the American dream across the river. We drive past totems of industry and
+decay: meat markets, factories, gas stations, a cemetery. Images of a world eroding from
+within. We are in the backseat; as our confident, cigar-smoking driver weaves through a
+subdivision streets we see the houses get larger, newer. He reaches his destination: his
+castle, a McMansion on a hill. We see our hero’s face for the first time as he exits the car:
+his expression is unreadable. The title appears: the Sopranos, a gun taking the place of
+the “r” - you remember what Chekhov said about a gun in the first act, right?
+Many have lauded The Sopranos as the greatest television series.1 In explaining the
+weight and importance of the series, writers often compare it with great works of
+literature. Time Out New York’s Andrew Johnston wrote, “Chase and his fellow writers…
+produced the legendary Great American Novel, and its 86 episodes long”, while others
+have likened its episodes to the periodic installments of a Dickens novel (Yacowar 13;
+Schulman 35). I seek to take this equivocation and elevate the series further: the
+Sopranos is a tragedy on par and in line with the works of Sophocles and Shakespeare,
+Ibsen and O’Neal. The series makes use of the basic plot elements, archetypes and
+conflicts that we can recognize in great tragic works from Antigone to Hamlet.
+
+1
+
+A sampling: the Writers Guild of America put it at the top of its list of 101 Best Written TV Shows, The
+
+Guardian named it the best television drama of all time, TV Guide ranked it the best television series of all
+time.
+
+2
+The significance of the Sopranos can be seen not just the awards it garnered over
+its eight year run,2 but also in the sheer volume of writing its garnered, from online fan
+forums to academic papers. In the next chapter I give a brief overview of what critics
+have focused on, mostly the series’ twin themes of psychoanalysis and existentialism. I
+argue for a different perspective on the series, one influenced by tragic theory.
+In chapter two I give a brief outline of tragedy as understood by three major
+theorists: Aristotle, Frye and Hegel. The theories set forth by these three set the basis for
+tragedy as this paper accepts it. W.H. Auden and Arthur Miller both wrote short essays
+on the modern tragic hero, which are also briefly touched upon as supplementary,
+supporting theories.
+Aristotle’s definition from his Poetics, that tragedy is a mimesis (or imitation) of
+action that results in catharsis, the purgation of pity and fear, serves as the basis for
+tragic theory in the centuries that followed. His theory is clear-cut and specific but did
+not anticipate for the scope of different kinds of tragedy that were written after his time.
+Northrop Frye took Aristotle’s basic ideas and expanded upon them, discussing five
+tragic modes and six phases in Anatomy of Criticism. Frye’s theory recognizes the
+variety of works that can still be traditionally included in the tragic genre. The third
+main theorist I look at is Hegel, drawing from his lectures compiled in his Aesthetics.
+Hegel’s approach to tragedy is a departure from Aristotle and Frye’s in that focuses
+more on structure than on effect. He takes Aristotle and Frye’s tragic hero and looks at
+the structural shift that must occur to cause the tragic arch. I believe these three critics
+
+2
+
+Including two Peabody Awards, 21 Primetime Emmy Awards and 5 Golden Globe Awards
+
+3
+supply a clear, interconnecting framework that is both reasonable and concrete enough
+to show how the Sopranos works as a tragedy.
+In my remaining chapters I delve into how the Sopranos works within this
+framework. In chapter three I argue that the Sopranos at times fits into Aristotle’s
+definitions and rules of a tragedy, which Frye specified as a high mimetic tragedy, but
+overall the series can best be understood as what Frye called a low-mimetic tragedy,
+where the result is not catharsis but pathos. The tragic hero and the concept of hubris,
+hamartia or pride as understood by Aristotle and Frye, and elaborated on by W. H.
+Auden, is illustrated in chapter four. Frye’s archetypes of low mimetic tragedy and their
+purpose in the Sopranos are illustrated in chapter five. In chapter six I show how
+Hegel’s internal tragic collision is the central tension of the Sopranos, resulting in
+Tony’s inevitable isolation, a concept also touched on by Miller. In my final chapter, I
+seek to form a sort of synthesis for all these ideas, to show how they work together to
+create the same result, of Tony’s inevitable isolation, a concept agreed upon by Aristotle,
+Frye, Hegel, Auden and Miller. This isolation acts as the final effect on the audience,
+that which lingers long after the finale cuts to black.
+
+4
+
+Summary of Other Critics
+
+The Sopranos has grabbed the attention of many academics since it first aired.
+Most critical papers on the series look at it through the lens of psychoanalysis or
+nihilism. Many of these readings have merit, but the primary focus on these two aspects
+is ultimately superficial. Both psychoanalysis and nihilism are themes integral to the
+show but they are not core components. They are key elements that give depth to the
+narrative and colour to the characters, but they are not what truly define it; they are not
+why the series caught and kept the imagination and attention of the American audience.
+It is easy to take a show that makes full use of dream sequences and therapy
+sessions with a classical Freudian as narrative tools and turn it into a psychoanalytical
+treatise. The focus on therapy makes sense, as therapy acts as a framing device that
+initiates the series and continues to project it forward. A great many critics have taken
+this aspect of the show and run with it.3 These critical essays almost always focus on the
+first few seasons, when a sort of pop-psychology was a dominant motif and when Tony’s
+mother acted as his main nemesis. Critic Alex Schulman describes Tony’s mother, Livia,
+as a “minefield in vulgar Freudianism” whose very name suggests “the febrile incest
+politics of the Julio-Claudians” (Schulman 35). The flashbacks we witness as Tony
+describes his childhood to Dr Melfi are laden with Freudian subtext; the distance we
+travel to trace the roots of his pain from point a to b is often short and straight. Tony has
+
+3
+
+See for instance, Maurice Yacowar, The Sopranos on the Couch: Analyzing Television's Greatest Series
+
+(New York 2002); David Lavery (ed.), This Thing of Ours: Investigating The Sopranos (New York 2002),
+and Reading the Sopranos: Hit TV from HBO (New York 2006); Richard Greene and Peter Vernezze
+(eds.), The Sopranos and Philosophy: I Kill Therefore I Am (Chicago 2004)
+
+5
+panic attacks around meat: his mother derived a sensual, even sexual, pleasure out of
+the weekly meat deliveries from the butcher that were a signal of her husband’s power;
+Tony once witnessed his father cutting off the pinky finger of Mr. Satriale, the owner of
+the pork store (“Fortunate Son” 2,3). He daydreams about a beautiful Italian woman
+breastfeeding a baby named Antonio; Melfi explains it’s an idealized maternal figure his
+subconscious produced in reaction to his real mother’s cruel behavior (“Isabella” 1,12).
+Nancy Marchand, the actress who played Livia, died before season three could be
+filmed, and so the series’ focus on the central mother-son relationship more or less came
+to a close. The show’s movement away from the Oedipal complex was wise; one can only
+spend so long analyzing the Bad Mother before the well runs dry for both therapist and
+patient (and the audience). Livia’s spirit hangs like a ghost over the series, but it moves
+away from such straightforward or obvious symbolism. Dr. Melfi, who acts as a reader
+for the audience, gets great professional pleasure from helping Tony reach an
+understanding of what these dreams and experiences mean. The audience feels that
+same pleasure as we pick up on the symbols and subtext in the dreams. Certain symbols
+and metaphors have obvious psychoanalytic meaning and merit, and are at this point
+well known in pop culture. For instance, animals are used as a linking device throughout
+the show; Tony communes with, feels connected to, and is even represented by them.
+The ducks are the first example of this (“Pilot” 1,1). In Melfi’s dream after her rape she is
+protected by a Rottweiler, easily symbolizing her patient who she could easily sic on her
+rapist (“Employee of the Month” 3,4). When Tony temporarily moves out of his family
+home a hulking black bear pays Carmela and A.J. a few visits (“Two Tonys” 5,1). For
+Carmela, this bear both is Tony and the threat of what waits for her without his
+protection. Some of these symbols go beyond just winking at the audience: in a fever
+
+6
+dream, a fish with associate-turned-informant Big Pussy’s voice tells Tony, “you know
+I’m working with the government, right Ton?”, even making a reference to “sleeping
+with the fishes” (“Funhouse” 2,13).
+While Melfi herself is a fully embodied character and while Chase and his writers
+certainly embed psychoanalytic symbolism throughout the series, what critics focusing
+on the psychoanalytic significance of the series mostly ignore is that therapy itself is not
+taken seriously by the series and “encounters with philosophy and other signifiers of
+intellectual high culture on The Sopranos inevitably come with something of a comedic
+twist” (Schulman 27). We see Melfi’s own unbearably smug shrink, Dr. Eliot Kupferberg,
+taunting her in their sessions under the guise of wanting to liberate her professional
+conscience, dismissing her and insisting that she sees Tony the way a teenage girl with a
+crush sees a bad boy. But Tony fascinates him, and Melfi’s other intellectual friends, on
+a tabloid, lascivious level; they act like rubberneckers at a car crash. Melfi’s friends and
+colleagues are portrayed as close-minded snobs who confidently diagnose Tony as a
+sociopath from the comfort of their living rooms (“The Blue Comet” 6B, 8). Even the
+therapist that Melfi herself suggests to Tony for his daughter Meadow is played for
+laughs: she acts as a caricature of a hip, young therapist, asking Meadow to call her by
+her first time, assuring Meadow that its her “right” to go to Europe (“No Show” 4,2). Dr.
+Krakower, the only therapist other than Melfi presented in even the slightest positive
+light, also happens to be a “mentor” of hers. He makes one appearance but it’s a
+powerful one- he is both unimpressed by and disinterested in the details surrounding
+Tony Soprano and the lifestyle being married to him affords, refusing to take Carmela’s
+“blood money” or see her again (“Second Opinion” 3,7). The series makes it clear to us
+that when he was referred to Dr. Melfi, Tony got very, very lucky.
+
+7
+At what point are we as readers and critics taking the psychoanalytic literature
+and theory that at this point has so permeated our culture, and projecting it onto a
+work? The genius of the Sopranos’ finale was the careful ambiguity of it; it acted as a
+Rorschach test, allowing each viewer to project his own meaning onto each moment.
+This paper does not seek to discredit psychoanalysis or its influence on or presence in
+The Sopranos. The psychoanalytic framework has merit when it comes to understanding
+the thick layers of symbolism that is laden in every object, animal and artwork in the
+series, but when it comes to character dynamics and motives, it can often ring false or
+just deeply subjective.
+Marisa Carroll’s paper “‘When It Comes to Daughters, All Bets Are Off’: The
+Seductive Father-Daughter Relationship of Tony and Meadow Soprano”, analyzes Tony
+and Meadow through psychoanalyst Jessica Benjamin’s “reevaluation of the pre-Oedipal
+stage put fort by Freud, [that] little girls identify with their fathers just as little boys do.”
+(81). It is true that Meadow and Tony are paired throughout the series and she seeks his
+approval more than her mothers. But the paper goes farther, suggesting “Meadow is
+trapped in a seductive father-daughter relationship with Tony that circumscribes the
+avenues available to her” (82). The evidence that Carroll presents is supposed to prove
+that their relationship is “coded as a romance” but often can be easily interpreted
+otherwise (84).
+As evidence of a seductive father-daughter relationship, the paper points to a
+scene (“Marco Polo” 5,8) when Tony invites a “bikini-clad Meadow” to sit on his lap and
+asks if she remembers the name he used to call her when she was a little girl (85).
+Carroll also points to another scene (“Bust-Out” 2, 10) when “using another classic move
+in the repertoire of the seductive father, Tony repeatedly calls Meadow “Baby,” a pet
+
+8
+name often reserved for lovers” (85). Isolating these two examples and bringing them
+together makes a convincing argument for an incestuous subtext. But the paper ignores
+the obvious parallel between these scenes and one with Tony’s other child, A.J. Tony
+finds his son, A.J., struggling in the pool after a suicide attempt. Tony dives in and pulls
+A.J. up and out onto the pool’s edge. Tony pulls his son onto his lap and comforts him:
+“come on baby. You’re alright, baby. You’re alright, baby” (“The Second Coming” 6, 19).
+Tony is obviously not calling AJ by “a pet name usually reserved for lovers”; he instead
+is invoking a loving pet name for his children, used to show the deep love between a
+father and his child even as his child begins to pull away and enter adulthood, just as
+Meadow did.
+Tony tells Melfi, when he thinks back on his type, he is drawn to a specific kind of
+woman “dark complexion, smart, smells a bit of money” (“Kaisha” 6, 12). Women he had
+flings with such as Gloria Trillo and Julianna Skiff fit this description, as does Melfi, his
+mother, and Meadow. But Meadow’s dark Italian looks are used not specifically as a
+way to connect her to the women Tony sexually desires, but to connect her to her
+heritage. She is Tony’s firstborn, and with her smarts the pressure is on her to make
+something of the Soprano name. We see that as much as she wishes to differentiate
+herself from the people around her, she is always drawn back into both the Sopranos
+family and the interconnected mob Family. She is ultimately loyal to them and as much
+as she might mock them, she does not betray them. When a friend likewise born into the
+mob criticizes Meadow’s father in front of someone outside of the Family, Meadow
+closes ranks: “this is way beyond. Our dads are in the garbage business... the fact that
+you would even say this in front of an outsider is amazing to me. Jesus Christ, some
+loyalty?” (“Army of One” 3, 13)
+
+9
+Critics focusing on the later seasons tend to take the focus on psychoanalysis and
+shift it into one on nihilism. In his paper “The Sopranos: An American Existentialism?”,
+Alex Schulman writes that Melfi is a “stand-in for the project of the show itself, which
+seeks to make its audience come to terms with the bleak, the sad, the ignoble via its
+compromising position of being entertained by, and even identifying with, the gangsters
+in question.” (24). Therapy is “as Freud actually saw it... a tool for coming to terms with
+the fundamental inadequacies of self-conscious life in modern civilization” (24).
+As the series progressed, and Tony’s tenure as boss wore on, everything got
+darker. It was like watching a president age on the job, week by week: he becomes more
+hardened and cynical, less hopeful. As Tony’s family grows up the problems plaguing
+them do too, with A.J. dealing with depression, Uncle Junior becoming increasingly
+senile, cousin Christopher spiraling further into addiction. Tony must live with the
+knowledge that the Feds are looking him to make any slip up at any second. As the men
+at the top of the other crime families age out, the turn of power inevitability happens,
+leading to destabilization and new dynamics. Just as the series uses therapy as a
+jumping point for characterization and narrative, existentialism is also used to create
+conflict and contradiction between characters. The Soprano family has a nihilistic streak
+going back generations. Tony’s sister Janice often parrots her late mother, saying as we
+age we all become “just another toothpick” (“Another Toothpick” 3,5). In that same
+episode, Uncle Junior under house arrest sees the spate of friends’ funerals as
+opportunities for good food and company, enjoying himself a little too much at each
+wake. Livia, of course, sets it all off by telling her grandson from her hospital bed, “it’s
+all a big nothing… don’t expect happiness... you die in your own arms...” (“D-Girl” 2,7)
+But it’s A.J. who dwells most explicitly on existentialist and nihilist theory. When he
+
+10
+first flirts with existentialism, its presented as an entertaining moment telling of family
+dynamics. When, after a car accident, A.J. repeats “Nitch’s” claim that “God is dead”,
+and that it “just shows the absurdity of life”, Meadow, making a quick visit during her
+first semester as Columbia, offers support with Madame de Staël’s observation that the
+only real human choice is between boredom and suffering. Their religious mother,
+Carmela, is appalled, while Tony, caught off guard, acts the disciplinarian and orders
+A.J. to do his homework. “Math? But that’s the most boring!” A.J. protests. Tony’s
+threat is clear: “Well the other choice is suffering!”
+When Melfi later gives Tony the short-version of existentialism, Tony
+reconsiders: “perhaps the kid’s onto something” (“D-Girl” 2,7). At his most self-pitying
+and morose, Tony wonders about the meaningless of life but, critically, Tony is not a
+nihilist. Tony has hope. He goes to therapy with the hope it will help him, change him.
+He visits his mother, then his uncle, hoping each time that they will finally give him the
+love and respect that they never have. He sends his erratic, troubled nephew,
+Christopher, to rehab in the hope that he will live up to the potential Tony believes he
+has. Deep down, Tony believes in the value that institutions of the state hold, such as the
+schools he sends his children to. Above all, he hopes that his children, Meadow and AJ,
+can lead good, happy, normal lives.
+In his paper, “The Sopranos, Film Noir, and Nihilism”, Kevin L. Stoehr posits that
+the show is “rooted in a nihilistic vision that reflects a general moral decline in
+contemporary American culture”, with nihilism defined as “the conviction that nothing
+matters, not even oneself” (143). But we cannot confuse what is a conflict for a
+character with what is the message of the show, just as we cannot conflate the narrator
+with the author. Often critics who focus on the existential or nihilistic themes connect
+
+11
+Tony with the “morally ambiguous” anti-heroes of film noir. The film noir antihero is
+“morally ambiguous” and Tony is such “because he still clings to certain conventional
+values, despite his frequent failure to live up to them and despite his tendency to reject
+them when dilemmas arise” (Stoehr 144). He is saturated in the nihilistic “condition of
+alienation, a sense of not-belonging or incompleteness that is often occasioned by the
+collapse of a stable value system” (144). As I will show in the next chapter, the isolation
+of the hero and collision of values are also core elements of tragedy.
+One critic, Roger Rosenblatt, makes the jump from anti-hero to great tragic hero.
+In Sept of 1999, during the hiatus between seasons 1 and 2, journalist Roger Rosenblatt
+produced a video essay for PBS NewsHour, calling the series TV’s “first situation
+tragedy”. He describes Tony as a tragic hero on par with one of Shakespeare’s, a man
+who is “canny, clever, expert at his trade, physically fearless, emotionally shaky,
+haunted, sentimental, ruthless, and desperate to know what’s bothering him.” Tony
+grew to power and manhood without exercising introspection, much like Macbeth, and
+now the introspection he needs to feel whole might prevent him from acting as the de
+facto boss of the DiMeo crime family is supposed to. When Dr Melfi suggests behavioral
+therapy might help Tony manage his “anger triggers”, he pauses to consider, if those
+stop working, “then how do you get people to do what you want?” (“Employee of the
+Month” 3, 4.) As the son of deceased boss “Johnny Boy” Soprano and the nephew of
+Corrado “Junior” Soprano, Tony was born into the Family, getting out is not an option.
+As Rosenblatt puts it, “there is no Witness Protection Program for Macbeth”.
+While readings of the series by the majority of critics don’t recognize the series’
+real kinship with the great tragic tradition, Rosenblatt is on the right track. What
+connects the Sopranos to the tragic tradition can best be understood by looking at how
+
+12
+the series communicates with the frameworks and concepts put forth by theorists such
+as Aristotle, Northrop Frye and Hegel.
+
+13
+
+Theoretical Framework
+
+The theories set forth by Aristotle in Poetics are some of the most influential and
+lasting ideas on tragedy. Aristotle’s definition of tragedy reads in part that it is an
+“imitation of an action, complete and of a certain magnitude... which through pity and
+fear achieves a catharsis of these emotions” (1449b). He believed that tragedy can occur
+only when characters occupy a particular moral space, that tragedy should show not
+“worthy men passing from good fortune to bad” nor “the passing of a thoroughly bad
+man from good fortune to bad fortune”; this might “satisfy our feelings, but it arouses
+neither pity nor fear” (1453a). The tragic hero must be “the mean between these”, a man
+“of high station and good fortune” who is not “pre-eminently virtuous and just, and yet
+it is through no badness or villainy of his own that he falls into the fortune”, that it is a
+result of a tragic flaw, hamartia” (1452b). The three core plot elements of tragedy are
+anagnorisis (recognition), peripeteia (reversal) and catharsis. Anagnorisis is a sudden
+change in character’s fortune, while peripeteia is when a character comes into a
+particular piece of knowledge that brings on a radical alteration in his understanding of
+the situation. Catharsis is the purgation of the aforementioned emotions of pity and fear
+(1452a).
+Both Frye and Aristotle place family at the centre of tragedy. According to
+Aristotle, pity and fear are heightened when “calamities happen among friends, when ...
+brother kills brother, or son father or mother son, or son mother - either kills or intends
+to kill...”(1453). In Theory of Modes, Frye posits, “tragedy is much concerned with
+breaking up the family and opposing it to the rest of society” (218).
+
+14
+Frye built on Aristotle’s ideas and archetypes but defined five different tragic
+modes, ranging from mythic to ironic. High mimetic tragedy is principally what
+Aristotle had in mind when he set out his theory, in which the hero is “superior in
+degree to other men, but not to his natural environment. He has authority, passions and
+powers of expression far greater than ours, but what he does is subject both to social
+criticism and to the order of nature.” (Frye 33) For catharsis, the words pity and fear
+become “favorable and adverse moral judgment, which are relevant to tragedy but not
+central to it” (34). Frye uses Shakespeare as an example, he plants “moral lightning-rods
+on both sides of his heroes to deflect the pity and fear”, (33) for example, “we pity
+Desdemona and fear Iago, but the central tragic figure is Othello, and our feelings about
+him are mixed”, while Hamlet is flanked by Claudius and Ophelia (210). Importantly,
+Frye posits that tragedy does not depend on the “moral status” of the hero, that if
+tragedy is “causally related” to something he is done, the tragedy is “in the inevitability
+of the consequences of the act, not in its moral significance as an act” (37). Thus, Frye
+explains Aristotle’s hamartia as not necessarily being wrongdoing or moral weakness: it
+may “simply be a matter of being a strong character in an exposed position... usually the
+place of leadership, in which a character is exceptional and isolated at the same time”
+(38).
+Low mimetic tragedy’s hero is “superior neither to other men, nor to his
+environment, the hero is one of us: we respond to a sense of his common humanity, and
+demand from the poet the same canons of probability that we find in our own
+experience” (34). In low mimetic tragedy, pity and fear are “neither purges nor absorbed
+as pleasures” but are “communicated externally, as sensations”, and catharsis is
+replaced with pathos (39). Pathos shows its hero as “isolated by a weakness which
+
+15
+appeals to our sympathy because it is on our own level of experience” (38). The root idea
+of pathos is the exclusion of an individual on our own level from a social group to which
+he is trying to belong. Sophisticated pathos is the study of the isolated mind, “the story
+of how someone recognizably like ourselves is broken by a conflict between the inner
+and outer world, between imaginative reality and the sort of reality which is established
+by social consensus” (39). In his essay “Tragedy and the Common Man”, Arthur Miller
+further elaborates on the tragedy of a hero’s isolation, writing that the underlying
+struggles “from Orestes to Hamlet, Medea to Macbeth” is that “of the individual
+attempting to gain his “rightful” place in society”.
+Frye builds on Aristotle’s tragic theory by also focusing on recurring myths
+and archetypes in the narrative. Frye’s typology is useful in understanding the function
+and effect of the archetypes on each other and the overall plot. The hero of low-mimetic
+tragedy is named after the Greek word alazon, which translates to imposter. The tragic
+hero is an imposter in the sense that he is “self-deceived or made dizzy by hubris” (217).
+The source of nemesis is the eiron. The term iron indicates a technique of appearing to
+be less than one is. Tragic irony is the “study of tragic isolation as such. Its hero does not
+necessarily have any tragic hamartia... he is only somebody who gets isolated from
+society” (41). The center of tragedy is in “the hero’s isolation, not in the villain’s betrayal,
+even when the villain is, as he often is, a part of the hero himself” (208).
+The alazon and the eiron are the two main low mimetic character archetypes, but
+Frye outlines additional archetypes who as secondary or supplementary characters. One
+such archetype is the suppliant, often a woman or child, who presents “a picture of
+unmitigated helplessness and destitution” (217). The scapegoat or pharmakos is a
+victim who is neither fully innocent nor fully guilty: “he is innocent in the sense that
+
+16
+what happens to him is far greater than anything he has done provokes... he guilty in the
+sense that he is a member of a guilty society” (41). The soothsayer or prophet “foresees
+the inevitable end, or more if it than the hero does”. The plain dealer may be the
+“faithful friend of the hero”, like Hamlet’s Horatio, “but is often an outspoken critic of
+the tragic action” (218). The plain dealer refuses or at least resists the tragic movement
+towards catastrophe. This role can be combined with soothsayer, such as Cassandra or
+Teiresias. When this occurs, they can be called chorus characters because the chorus
+“however faithful, usually represents the society from which the hero is gradually
+isolated. Hence what it expresses is a social norm against which the hero’s hubris may
+be measured” (218).
+While Aristotle and Frye focus mostly on the effect of and reception of tragedy,
+Hegel focuses on the core structure. Hegel, in his Lectures on Aesthetics, argues that
+tragedy is the conflict between two substantive positions, equally justified but both
+wrong in that each fails to recognize the validity of the other. Hegel uses the example of
+Antigone and Creon. Not only does the tragic hero refuse to acknowledge the validity of
+the other position, but this “other position – or at least the sphere it represents – is also
+an aspect within the hero even as she denies “ (Hegel 1217). Antigone is not only a family
+member, but also a member of the state. Creon is not only a ruler, but also a father and a
+husband. This tragic collision can occur within an individual’s consciousness. In the
+instance of an internal collision, the hero “must sacrifice her naïve belief in a just world
+– by violating one good in order to preserve another” (Hegel 1218). The “self-division
+and intestinal warfare” is the act of tragic collision, “not so much the war of good with
+evil as the war of good with good” (Bradley 379).
+
+17
+Hegel turns Aristotle’s pity into sympathy not just with a sufferer but also with a
+hero who, despite her fall, is in a sense justified. The tragic conflict appeals to us because
+it is a conflict of the spirit, which we can relate to. A conflict “between powers that rule
+the world of man’s will and action- his ‘ethical substance’. As in Aristotle and Frye’s
+theories, the family and society are of upmost importance. “The family and the state, the
+bond of parent and child, of brother and sister, of husband and wife, of citizen and rule,
+or citizen and citizen, with the obligations and feelings appropriate to these bonds; and
+again the powers of personal love and honour…. are the forces exhibited in tragic action”
+(Bradley 369). In Mark Roche’s evaluation of Hegel he explained that there are two
+types of tragedies of collision: the tragedy of opposition (external collision) and the
+tragedy of awareness. In the first, the hero only sees her own perspective and “fails to
+recognize as the audience does that her position is as invalid as it is valid” (Roche 75),
+while in the second, the hero sees both sides of the conflict but “even as she adheres to
+the good, she must likewise violate it (45).
+
+18
+Chapter Three
+“She’s Dead to Me”: Catharsis and Pathos
+
+Of course, The Sopranos’ violent backdrop of the mafia makes fear a constant
+element of the series, but Aristotle’s tragedy must also invoke pity. Tony Soprano
+occupies the space of Aristotle’s tragic hero: a man neither wholly good nor wholly evil.
+He is a complex man of contradictory characteristics. The first episode of the series
+introduces him to us as a man capable of gentleness (wading into his pool to get closer
+to a family of ducks) and of rage (gleefully running a man down in his car and beating
+him into submission). He is a man who loves his family and feels deep anxiety about
+losing them, yet members of his family (Uncle Junior, mother Livia, nephew
+Christopher) are introduced as antagonists or troublemakers. In one interaction with his
+nephew Christopher he shows concern for Chris, and then turns to rage at his threat of
+writing a screenplay, before returning to warmth again, straightening Christopher’s
+clothing. He is in turns cuddly and violent (“Pilot” 1,1). He is a man trying to live rightly
+by a code, but his methods, means and results are often destructive. For instance, he
+cares deeply for his civilian childhood friend, Artie Bucco, frequenting Artie’s
+restaurant, Vesuvio, with his family. When he learns that his Uncle Junior plans to carry
+out a hit at Vesuvio, Tony knows that the business will never survive it. His solution?
+Have an associate burn the place down. He assumes the insurance money will come
+through and Artie will simply build another restaurant. But the insurance company
+drags its feet, conducting an arson investigation, Artie’s family barely stays afloat and
+the total destruction of the business he loved and fostered for years sends Artie into a
+deep depression.
+
+19
+Aristotle’s concept of fate is internalized in Tony’s fears that his children are fated
+to inherit his flaws. When Tony’s son, A.J., begins having panic attacks just as Tony
+does, Tony worries that A.J.’s inherited “the putrid, rotten fuckin’ Soprano genes”. In
+therapy Tony traces these flaw back “through the ages” remembering a story of his
+great-great-great-great grandfather driving a mule cart off a mountain road – “probably
+a panic attack” (“Army of On” 3, 13). When A.J. later becomes suicidal, Tony again
+agonizes: “it’s in his blood… this miserable fucking existence… my rotten, fuckin’ putrid
+genes have infected my kid’s soul” (“Walk like a Man” 6, 17). We pity A.J., and Tony too,
+for what they were born into, what it seems they could not avoid. The series creates
+sympathy for Tony even as we fear what he is capable of; we often feel he is using the
+tools he can to do the best he can, he just happens to be a blunt instrument.
+Aristotle believed even the threat of violence between family members resulted in
+tragedy, and the Sopranos is a series, at its core, about a family’s ability, even its desire,
+to destroy one another. The acts or threats of violence between Tony and his family are
+more deeply felt than the countless murders of associates or strangers that Tony and his
+crew commit. The members of his family and the members of the Family are
+intertwined: he refers to crew member Christopher affectionately as his nephew; his
+blood ties to the boy are given different providences throughout the series but we do
+Christopher is actually his wife’s first cousin once removed. Tony names Christopher as
+his successor, calling him “his blood”, and he grooms him as a sort of surrogate son.
+Christopher is shown from the start to be impulsive, selfish, erratic and fame-hungry,
+but Tony makes excuse after excuse for him. When Tony sends Christopher to rehab for
+heroin and alcohol addictions after Christopher makes an intoxicated attempt on Tony’s
+life, he makes it clear the only reason Christopher is alive is “you’re my nephew and I
+
+20
+love you” (“The Strong Silent Type” 4, 1). It takes until late in the sixth and final season
+for Tony to finally accept Christopher was just “baggage”. When the two get into a car
+accident, with a drunk and high Christopher behind the wheel, Tony notices a tree
+branch impaling the car seat where Christopher’s baby daughter could have been sitting.
+Christopher has made countless business mistakes, some deadly. But Tony is only able
+to kill Christopher in the end because of the implied threat of violence towards
+Christopher’s daughter. Even then, the act of murder is almost passive, the injuries
+Christopher inflicted on himself in the crash do most of the work: Tony plugs
+Christopher’s nose and lets him suffocate him on his own blood while Tony’s eyes linger
+on the “choking hazard” label on the destroyed car seat (“Kennedy and Heidi” 6b, 6).
+Tony grew up with some of his associates in the Family, and as such they have a
+brotherly, familial bond. This bond between him and his associate Sal “Big Pussy”
+Bonpensiero is what blinds him to the reality that Big Pussy is informing for the FBI. Big
+Pussy’s storyline as reluctant informant, feeding as little information as he can until
+Tony begins to pull away from him as a friend, is the act of ultimate betrayal within this
+world. When he is forced to wear a wire to Tony’s son’s confirmation, Big Pussy
+purposefully spends much of the party upstairs with A.J., telling A.J. how proud his
+father is of him. Big Pussy is both A.J.’s godfather and confirmation sponsor. We see
+him later sobbing in the bathroom, faced with the betrayal he has committed. We pity
+Big Pussy, seeing the pain he is in as he betrays Tony, his “brother”, and we fear for him,
+knowing his downfall is imminent (“D-Girl” 2,7). Big Pussy’s death at the hands of Tony
+and his other close associates, Paulie and Silvio, is devastating, for the audience and for
+the characters involved. Paulie tells Big Pussy, “you were like a brother to me”, Tony
+agreeing “to all of us”, before they open fire (“Funhouse” 2, 13). The impact of this
+
+21
+betrayal and this killing is deeply felt by Tony. Big Pussy appears as a ghost throughout
+the series; even briefly seen by Tony and us in the mirror at Tony’s mother’s funeral. The
+impact of the death of his “brother” is in stark contrast to the killing of another “snitch”.
+In the season one episode “College”, Tony goes on a road trip to tour New England
+colleges with his daughter, Meadow. On the drive from Bates to Colby College, Tony
+and Meadow have a near-fully honest conversation about him being “in the Mafia”.
+During a stop at a gas station Tony spots Fabian “Febby” Petrulio, a former member of
+his Family turned informant, relocated under Witness Protection and renamed Fred
+Peters.
+When Tony stumbles upon Febby, it’s only the first of many plotlines that present
+how Tony’s alternatives to his lifestyle are really no alternatives at all. Tony is
+determined to hunt the man down to kill him, in the process acting as detective and
+discovering an example of who he could be if he made different choices. Febby has been
+anglicized under his new name Fred Peters, but we find out that he was kicked out of
+Witness Protection because he began dealing drugs, missing the thrill and the easy cash.
+Tony confirms Fred is Febby when he sees a bust of Ronald Reagan in Fred’s office that
+looks like the busts Febby made in prison. Febby is never able to truly shed his past.
+What Tony doesn’t know is that his hunt of Febby is mirrored to us in Febby’s hunt of
+him; he also noticed Tony and was tracking him down to kill him first. But Febby’s time
+away has made him soft; he is unable to kill Tony when he sees Tony helping his
+inebriated daughter to her room at their motel. Tony on the other hand has no qualms
+with killing Febby, he had no close ties to him, he sees him only in terms of the code he
+broke. Tony seems to feel pleasure, or at least satisfaction, when he strangles Febby with
+a length of wire. The man is never talked about or brought up again.
+
+22
+Tony’s main source of nemesis throughout much of the first half of the series is
+the combined force of his mother Livia and his Uncle Corrado “Junior” Soprano. The
+presence of these two characters as active sources of nemesis wanes as the series
+progresses, with Livia dying and Junior falling into senility, but they haunt the entire
+series as specters; the actions and behaviors of later antagonists echo that of these two.
+When of Tony’s goomahs becomes a source of nemesis, jeopardizing his marriage, she
+seems possessed by the self-pitying, manipulative voice of his deceased mother. In a
+blow-out fight she tells Tony, “you got a fuckin’ dream life compared to mine. Nobody
+cares if I’m alive or dead”. Tony gets an odd look over his face, as if he’s seen a ghost.
+He backs away. “I’ve known you my whole fuckin’ life…. My mother was just like you….
+Bottomless black hole” (“Amour Fou” 3, 12).
+Tony’s sister, Janice, also acts as an echo of Livia in her manipulative, powerhungry ways. Junior’s paranoia and 0ld school stubbornness can be seen echoed in
+antagonist Richie Aprille, an older mobster released from prison after twenty years who,
+like Junior, resents being bossed around by a younger man. Just as Livia and Junior are
+often paired together, Junior seeming to harbour a crush on his deceased brother’s wife,
+a crush she passively encourages and uses to manipulate him, Janice gets involved with
+Richie and attempts to manipulate him into a position of greater power.
+Aristotle’s theory best fits what Northrop Frye called high mimetic tragedy, but
+Tony Soprano is a low mimetic hero; he is fallible to the natural environment (as shown
+by his panic attacks), but also to other people (as shown by the coma he falls into after
+being shot by Junior). On an episodic level, the Sopranos often fits the high mimetic
+narrative frame, but the overarching result of the series is of pathos, not catharsis. Tony
+has most of his moments of anagnorisis in therapy, when he comes into a particular
+
+23
+piece of knowledge about himself or others, which results in a radical altering of his
+understanding of the situation. The first instance of this occurs in the pilot when he
+comes to realize his anxiety over the family of ducks leaving his backyard is the
+misplaced anxiety over losing his own family. When Tony emerges from his coma he
+seems to have gained some sort of understanding and tries to correct his tragic path.
+After killing Christopher, Tony does peyote in the desert and yells into a canyon “I get
+it!” (“Kennedy and Heidi” 6B, 6). While these moments can seem to cause a peripeteia,
+or reversal in his behaviors or actions, this is often short-lived and he returns to the
+tragic path he was on.
+The storyline between Tony and Livia is one that follows Aristotle’s plot pattern
+and does result in a catharsis of sorts. When FBI Agent Harris plays for Tony tapes of
+his mother speaking to Junior at Green Grove retirement centre, Tony suddenly
+recognizes what his subconscious has been trying to tell him. At this moment of
+anagnorisis, as he realizes the extent of his mother’s hatred, that he can’t fool himself
+any longer into believing his mother is harmless, that a lifetime of trying to please her
+was for naught. His change of heart, his peripeteia, is enormous: he rushes over to the
+home, intent on smothering her with a pillow. This act echoes a threat he once heard his
+mother tell his father; in a memory he tried to excuse or forget, a young Tony overheard
+his mother tell his father that she would rather smother her children with a pillow than
+move to Nevada. But Tony does not actually kill her: she suffers a convenient stroke. As
+she is wheeled away by orderlies she seems to get the last laugh- he takes her grimace
+under the oxygen mask to be a smile. And while he insists (until her actual death) that
+his mother “is dead to me” there is no real closure, no real release.
+
+24
+The Big Pussy storyline has a similar moment of anagnorisis and peripeteia.
+Tony’s anagnorisis comes to him in a dream; his unconscious reveals Big Pussy is an
+informant. But as with the betrayal of his mother, Tony refuses to believe until he has
+irrefutable proof. When Tony finds mic sets and recording devices in hidden
+compartments in Big Pussy’s bedroom and bathroom, he can no longer deny the truth.
+Unlike the Livia storyline, the Big Pussy storyline does result in a real catharsis, through
+the death of Big Pussy. Tony undergoes the tragic fall that Aristotle outlined through
+both these storylines: Tony’s greatest fear is realized and he loses part of his family,
+through his feud with his mother and uncle, and through Big Pussy’s betrayal.
+Many storylines do not take this shape. Instead, they appear, linger, and
+disappear without real conclusions. Hits are placed and reversed, assassinations
+attempted or given up upon, characters rising and falling in importance throughout the
+series. Tony conspires with New York Lupertazzi family underboss Johnny Sack to off
+the increasingly unreasonable boss Big Carmine, but backs out at the last minute,
+choosing to instead accept a better deal with Big Carmine and continue with things as
+they are. In season one, as Junior and Tony both vie to replace ailing boss Jackie Aprille,
+a tragic, deadly ending seems inevitable. When the news of Jackie’s death hit the
+airwaves, Tony is at the butcher shop with his colleagues. Christopher bursts in and
+begins complaining about Junior, how something’s gotta be done, busting out a Scarface
+routine complete with imaginary machine gun. When Tony storms off, Big Pussy and
+Silvio both seem to predict the inevitable war: “Adios, Junior”, says Silvio. “Here we go.
+War of ‘99”, says Big Pussy. Tony goes to the deli where Junior hangs out with his
+friends. The last time they spoke there, Junior warned Tony, “next time, come heavy”.
+From his car Tony checks his pistol. But Tony announces to Junior, and to us, “I came
+
+25
+heavy, but I don’t wanna use it”. He tells Junior “it’s about time a Soprano” was the
+boss- Junior. He concedes to Junior but as they embrace he whispers in Junior’s ear his
+asking price: “You know I can’t be perceived to lose face. So, Bloomfield and the paving
+union” (Meadowlands, 1, 4). Tony manages to leverage the situation, coming out with no
+blood on his hands, with more business, and with the ability to control operations while
+deflecting FBI attention as boss. This plot is satisfying in its unexpected but ingenious
+change of course, but there is no release, either for the characters or for the audience.
+As a low mimetic tragedy, the Sopranos is a tragedy of pathos. Tony starts off as a
+hero of simple pathos, unable to express, only able to feel and act, but as he learns in
+therapy the language to describe and becoming more understanding of his and other’s
+behavior, he becomes a figure of complex pathos. Frye warned that “highly articulate
+pathos is apt to become a facetious appeal to self-pity, or tear-jerking” (39), and indeed
+when Tony adopts therapy-speak to excuse or explain why he does bad things or is
+damaged, he comes off this way (“Blue Comet” 6B, 8).
+The root idea of simple pathos is the isolation of an individual from a social world
+he is trying to belong. As time goes on Tony becomes more and more isolated from both
+his family and their world of wealthy suburbia, and from the people in the mob who he
+regards as a second family. He essentially loses his uncle and mother by the end of
+season two as family members, he becomes gradually more distant from his children as
+they grow into adults, he and his wife become so strained that he at one point moves out
+of the family home (“Whitecaps” 4, 13). As his wife Carmella points out, once Tony
+reaches the height of his power, he doesn’t have any friends, just “flunkies” who laugh at
+his jokes because they fear him (“All Happy Families” 5, 4). In a scene soon after, we see
+the men from Tony’s new perspective: as he notices their frenzied laughter at one of his
+
+26
+jokes they become distorted, time seems to slow as Tony disassociates, mentally pulling
+back and isolating himself further. The men he considered like brothers have become
+yes-men working under him, laughing at every joke no matter how bad. He is no longer
+a member of their society but above and separate. One of the few members of the
+Family that Tony can turn to is Silvio Dante, his consigliere, but there is still a wall
+between them in terms of understanding. Tony confessed to Silvio, “all due respect,
+you’ve got not fucking idea what its like to be number one. Every decision you make
+affects every facet of every other fucking thing. It’s too much to deal with all most. And
+in the end you’re completely alone with it all” (“All Due Respect” 5, 13). In this outburst
+Tony has accidentally revealed his true self. The pathos, the self-deception, the isolation,
+the despair and rage of a great tragic hero are all there. The weight of these statements
+is obviously felt by both Tony and Silvio; they hang there for a few moments while Silvio
+just looks at Tony. Silvio does not have the language to know how to respond to such
+layers of emotion, is unable to reach out and truly connect with Tony. His response, “I’m
+sorry you feel that way” is empty, unable to fill the gulf. Tony as tragic hero is truly
+alone.
+
+27
+
+Chapter Four
+“This Attitude of Yours”: Tony and his Eirons
+
+As tragic hero, Tony, the alazon is “self-deceived or made dizzy by hubris” (Frye
+209). Hubris here is Aristotle’s hamartia, the hero’s fatal flaw. W.H. Auden, in his short
+essay “the Christian Tragic Hero”, theorized that the hubris of the Greek tragic hero is
+transformed into the Christian sin of Pride in the Christian tragic hero (258). Indeed,
+hubris is often translated as meaning “foolish pride”. Tony’s biggest flaw, the Achilles’
+heel that clouds his judgment, is his pride. This is evident not just to the audience but
+even to the people he surrounds himself with.
+In one instance, Tony’s cousin, Tony Blundetto, had created a mess for Tony by
+taking on a job as a hitman and killed a made man, enraging the Lupterazzi family. He
+has broken the codes of the mafia and the punishment befitting that crime is death.
+Tony knows and reluctantly accepts this, but when he asks to be the one to carry out the
+job, new boss Johnny Sack refuses. Johnny “Sack” Sacrimini, underboss to the New
+York Lupertazzi crime family, refuses. When Johnny worked as underboss, he and Tony
+often met and defused potential conflicts; Tony viewed him as a reasonable man. When
+Tony asks Johnny, he does so “as a friend”, so when Johnny says “I choose not to” grant
+him this favour, Tony is caught off-guard. Johnny then tells him that Phil Leotardo, a
+man noted for his sadism, will carry out the killing: “I’m not gonna lie to you Tony- I
+don’t have to”. Tony understands the subtext- now that Johnny is boss he doesn’t “have
+to” do a lot of things, that perhaps he felt he did before, like be Tony’s friend or lie to
+placate him. We see all these questions seem to flash through Tony’s head. When
+
+28
+Johnny drove off from their last meeting, the camera lingered on the license plate of his
+freshly washed car: New Jersey. We are reminded that Johnny moved his family to
+Jersey earlier in the series, without thinking to inform Tony that he had moved onto his
+turf. It seemed innocuous at the time - a bigger house, a better school district, but now it
+seems another instance of Johnny not respecting him. Or he’s thinking of when former
+Big Carmine publically scolded him, “John said he went to a cookout at your house… a
+don doesn’t wear shorts” (“All Debts Public and Private” 4,1). This meeting, in the dark
+on the docks, is like many before when Johnny was underboss and Tony was boss.
+Johnny lets Tony know they won’t meet like this again now that he’s a boss- “its
+undignified”. All this is too much for Tony’s pride to take: “You know what, John? I’ll
+give you undignified. Go fuck yourself. You and Phil and whoever. Its my fuckin cousin.”
+Tony smiles and shrugs before driving off, pissing off a newly powerful man and
+escalating the conflict between the two families (“Long Term Parking” 5,12).
+Tony hides his reversal his behind loyalty, not pride, telling his associates they
+“must deal with this as a family”. But they don’t buy it. Silvio, Tony’s consigliere,
+represents the rest of the Family when he gently confronts Tony about his real reasons
+for his inaction, challenging, “all due respect, you were ready to hand him your cousin a
+week ago, so its not about standing with the guys or imposing some rules, not really… its
+about you don’t wanna eat shit from John. You don’t wanna bow down. You told him to
+go fuck himself, which, to be honest, wasn’t exactly appropriate, considering”. Tony
+goes to Silvio often for advice but his personal pride blinds him from acknowledging the
+merit of Silvio’s words, countering, “what the fuck do you know what’s going on in my
+head?” Silvio continues: “I’ve known you since you were a kid, Tone. Frankly, you’ve got
+a problem with authority. This attitude of yours, it’s a lot of what’s made you an effective
+
+29
+leader. But we’ve all got flaws, even you. Seven deadly sins, and yours is pride” Silvio’s
+mistake is reminding Tony of when he was a kid, when he was vulnerable and powerless
+and when Silvio automatically had authority of age over him. Tony instinctively bristles,
+even seems to regress, reacting like a teenager being scolded. He is made dizzy by his
+pride, inhabiting these traits Silvio pointed out even as he angrily denies them. Tony
+continues to assert his authority and expertise with sarcasm and threats: “this is the
+course I’ve chosen. And those of you who are not with me on it, well that makes me sad,
+and it will be dealt with in time”. Tony puts his feet up on his table and returns to his
+cigar, smug and secure as king. Silvio’s attempt at getting through to Tony, to
+puncturing his hamartia, has failed. Tony has asserted his dominance and made it clear
+he is not open to moving away from the path towards tragedy. As Silvio leaves the room
+with his head bowed he demurs, “you need me for anything else?” Tony defiantly lets
+out a puff of cigar smoke as a reply (All Due Respect, 5, 13).
+Tony’s pride is invoked most often when his past failures are brought up,
+especially in reference to his time as a teen athlete. When Junior recalls Tony’s gamelosing fielding error in Little League this embarrassment causes Tony to begin teasing
+Junior about his rumoured penchant for cunnilingus. He knows this will make the
+paranoid old school Junior go nuclear, but Tony can’t seem to help himself (“Boca” 1,9).
+Tony’s daughter, Meadow, is his greatest source of pride, and when she is threatened, he
+reacts impulsively. When he finds out that “Coco”, one of Phil Leotardo’s men, came
+over to Meadow and made several lewd comments to her while she was on a date, he
+viciously pistol-whips Coco several times, then curb stomps him, knocking out his teeth.
+This beating reopens a deep rift between Tony’s the DiMeo family and Phil’s the
+Lupertazzis and leads to the death of two of Tony’s best men, Silvio and Bobby
+
+30
+Baccalieri (“The Second Coming” 6b, 7). Tony’s pride causes him to act as his own eiron
+in much of the later half of the series. Tony’s role as his own source of nemesis is due in
+part to the fact that his previous eirons have all died or been murdered- he has nobody
+left but himself to sabotage himself.
+As previously stated, Tony’s uncle Junior and his mother Livia are his main
+eirons, for the first half of the series. Frye writes that the eiron is “the man who
+deprecates himself, as opposed to the alazon”, who wishes to appear as larger than he is
+(40). As Frye writes, “the term iron indicates a technique of appearing to be less than
+one is, which in literature becomes most commonly a technique of saying as little and
+meaning as much as possible, or in a more general way, a pattern of words that turns
+away from direct statement or its own obvious meaning” (40). Livia is a perfect example
+of this sort of eiron. In flashbacks we see she was always controlling and filled with hate;
+Tony says by the end of his father’s life, Livia had worn him down “to a little nub”
+(“Pilot” 1,1). But when Tony puts her in the Green Grove retirement facility against her
+vehement wishes, she transforms into a focused source of nemesis, intent on punishing
+and sabotaging him professionally and professionally. Unlike the male eirons of the
+series, she works passively and often uses other people as a sort of conduit for her acts.
+Through subtle reveals cloaked as complaints from a frail old woman, she is able to
+control Junior and manipulate him into putting a hit on her own son. The language she
+uses in her conversations with Junior and others is roundabout and vague enough that
+her true intentions are hidden and deniable.
+Junior seems to be the eiron, carrying out plans that interfere with Tony, but he
+in many ways acts simply as Livia’s puppet. When left to his own thoughts, he can
+become nostalgic and loving. After Livia tells him Tony is seeing a shrink, Junior falls
+
+31
+back into reminiscing, “remember those trips to the shore? Me and Tony used to ride
+the waves? I taught him how to body surf.” But Livia refuses to let up on her “son, the
+mental patient…. he needs a psychiatrist for what? To talk about his sex life?!” She pulls
+in Junior’s paranoia of people talking about him. This instance also serves as a moment
+as dramatic irony, as when the conflict between Tony and junior reach a fever pitch he
+says to Melfi “psychiatry and cunnilingus brought us to this” (“Boca” 1,9).
+When he is upset with Christopher and Christopher’s friend Brendan Falone over
+some misconduct, and with Tony for allowing it, Junior comes to Livia for the okay to
+kill Christopher. The meanings of her statements to him are always hidden. Her reply is
+“well, Tony always loved Christopher like a son. And so do I, Junior. He put up my
+storm windows for me one year.” That’s a no, Junior, you cannot kill him. Junior
+immediately changes tack. His reliance on her is clear as he asks: “ So, what do I do? I
+just let him and this Falone kid piss on me in public? And how far do I go before I light a
+friggin’ match under that hot headed son of yours?”
+Livia concedes, “maybe Christopher could use a little talking to, you know. The
+other one? Falone?” She sits down on the edge of her bed, looks up at Junior and shrugs,
+“I don’t know him”. Christopher does get “a little talking to” in a mock execution at the
+docks intended to scare him straight, while Falone is murdered. Junior smirks and
+nods: “you got a lotta sense for an old gal.” The camera cuts back to show them from the
+doorway: Livia sitting on her bed, Junior standing in front of her bent down to look and
+listen to her. She is in control, a don receiving a visitor. “No. I’m a babbling idiot. That’s
+why my son put me in this nursing home” (“Denial, Anger, Acceptance” 1, 3).
+Livia often pretends that she doesn’t hear what Junior asks, or that she doesn’t
+understand the extent of what her “babbling” does, so as to appear “less than” and fly
+
+32
+under the radar as the true eiron. To get Junior to do what she wants she slowly reveals
+information that she knows will appeal to Junior’s paranoia, driving the conversation to
+the destination she wants: Junior wanting Tony dead. She drops crumbs of information
+to get Junior more and more worked up, but does so in a way where he thinks he comes
+to these realizations on his own. “I suppose he would have found it harder to have his
+meetings at my house than in this nursing home,” she sighs, referring to Tony’s
+clandestine meetings with other capos.
+“What are you talking about, meetings?” Junior asks. Livia continues on, not
+looking at or acknowledging Junior. “Don’t think I’ll ever see any of that money either.”
+She moves forward, pretending not to know the significance of mentioning the
+meetings. Junior insists, “what meetings?” She tells him the names of two men who
+work for Junior and “that snake from Manhattan”. Not only is Tony meeting with
+members of their own Family, but also he met with a man from one of the New York
+families. Junior realizes “Johnny Sack? Johnny Sack was here?” Livia continues “with
+his mohair suits! And his shoe lifts!” Junior jumps on this crumb- “suits? Pleurisy?
+More than once he was here? Why don’t I know about this?” Here, Livia is most clear in
+her manipulation: “well, maybe it was you they were talking about, who knows?” She
+still cloaks this accusation in uncertainty, with “maybe”, and “who knows?” but it is
+there. She withdraws, as is her habit, pretending to show disapproval for the entire
+situation, “Now, I just don’t like being put in the middle of things. I shoulda known
+something was strange when suddenly Larry Boyd’s mother’s moved in here and Jimmy
+Altieri’s mother.” While seeming to distance herself from the topic, she continues to
+reveal more to Junior, and he asks “three of my capos have their mothers in this place?!”
+Livia puts on her self-pitying, poor-helpless-mother act, these women are here just like
+
+33
+her “instead of living in their homes with their sons like human beings”, a dig at Tony.
+The extent of the situation has been revealed to Junior and he has reached the level of
+rage and acquired the thirst for justice and revenge that she wanted. “This must be some
+kind of fucking end move! What do they think, I’m stupid? We’ll see!” Now that Livia
+has manipulated Junior into what she wanted, she distances herself, falling back into
+her act of easily-upset, sensitive woman who cannot handle “that kind of talk”, telling
+him “just stop it, it upsets me.” She pauses, and asserts her dominance, “or I won’t tell
+you anything more.” Junior is so used to Livia’s coded orders that he is unable to fully
+form his clear rebuttal, he sputters and trips over his words: “if this is true, Livia- You
+know what I – I mean – I’m the boss for Christ’s sake! If I don’t act – blood or no-I have
+to.” Livia pulls out her tissue and begins to wail “Oh god, what- what did I say now?! I
+suppose I just shoulda kept my mouth shut. Like a mute. And then everybody would’ve
+been happy.” (“Nobody Knows Anything” 1, 11) She’s not wrong. Whenever she opens
+her mouth she ramps up the movement towards tragedy.
+When Livia finds out that Tony has been seeing a therapist, she imagines him
+complaining about her, When Tony tries to talk to her about how she could have been a
+better wife, she taunts, “If it bothers you, maybe you better talk to a psychiatrist”. Livia
+never reveals to anyone the depth of what she truly knows; she is able to slide under the
+surface and wreak havoc without people realizing she’s the source. But Tony, with the
+help of Melfi, has begun to see his mother’s manipulations. He tells her, “you know,
+everyone thought dad was the ruthless one but I gotta hand it to you. If you’da been
+born after those feminists? You’da been the real gangsta.” Livia’s reply is her usual
+refrain, “I don’t know what you’re talking about”, but the way she delivers it makes it
+clear she does: she leans in closely, arms akimbo and sneers, hissing it through her
+
+34
+teeth. She is momentarily revealed for what she is, a figure of complete rage and hate.
+She’s been exposed. This is the last straw and she finally gives Junior the go ahead to kill
+Tony. When she gives Junior the order, she uses her same coded language. “My cousin,
+Cakey, after he had his lobotomy looked exactly like my son. Empty. A shell. Better
+Cakey had died than go on living like that, that’s what his own mother used to say” (“I
+Dream of Jeannie Cusamano 1, 13).
+When the assassination attempt fails, Junior and Livia pay the recovering Tony a
+visit in his home. After being served by her granddaughter, Meadow, Livia asks, “who is
+that? That girl? Who is she? Is that Conchetta?” Junior looks worried: perhaps he has
+been taking orders from a woman falling into senility? But the moment seems more
+likely a way for Livia to cover up her involvement, create plausible deniability like real
+life Genovese mob boss Vincent Gigante who evaded the FBI by wandering the streets in
+a bathrobe. Livia feigns confusion over the people she speaks to as a way to excuse the
+secrets she reveals, like a “babbling idiot”. When Artie goes to visit her, she first
+confuses her son with her husband then says, “you’re such a good boy, Artie…. After
+what my son did to you, how can I look you in the face? …. You don’t blame him for
+starting the fire? I guess we have to be grateful that nobody was incinerated to death” (“I
+Dream of Jeannie Cusamano” 1, 13), spitefully destroying Artie and Tony’s friendship in
+such a way that she can never be definitively blamed.
+A storyline was planned where Livia would be called to testify against her son in
+court, giving evidence on stolen airline tickets she received from him, furthering her
+position as eiron, but the actress who played her, Nancy Marchand, died in 2000 before
+it could be filmed. The women in Tony’s life who act as eirons often take after Livia in
+looks and personality and would probably all merit the same diagnoses from Melfi.
+
+35
+Tony’s sister Janice breezes into town and immediately latches onto recently released
+from prison made man, Richie Aprille. She attempts to manipulate him into seizing
+more power (thereby giving her more power and diminishing Tony’s) the way Livia did
+with Junior. Again it looks like Richie is the source of nemesis when he wants to “move
+against” Tony, but it is really Janice behind the scenes who has been exacerbating the
+situation, telling Richie he’s being treated unfairly, even during sex repeating “you’re the
+boss… it should be you”. Richie tries to shut down this kind of talk, but the seeds have
+been planted. “I was in the heat of passion, I’m doin’ it like you like,” she explains in an
+echo of Livia’s denials. “I gotta be loyal, without that we crumble,” he tells her. “Tell that
+to Paul Castellano” Janice replies, referencing the real-life head of the Gambino crime
+family who John Gotti killed and succeeded. Janice has begun to groom Richie as
+replacement for Tony, making her the real boss. “All I’m saying is my brother needs
+help… my Uncle Junior still has friends, and Junior thinks the world of you.” But when
+Richie begins to talk about the disrespect Tony shows him “I could slice an ear of his
+head”, and Janice is about to distance herself from the threat, Livia comically interrupts,
+heading down the stairs in her automated wheelchair ramp, reminding us that Janice is
+a mere imitation of her mother. Junior, now that he is out from under Livia’s spell, is
+able to recognize the mirror of Janice and Richie. “You have to wonder where Janice is
+in all this. My little niece,” he warns to Tony (“The Knight in White Satin Armor” 2,12).
+But after an incident in which Richie punches her in the mouth for defending his son’s
+potential homosexuality, Janice realizes that she is unable to be fully in control with
+Richie. She abandons her plan and shoots and kills Richie, calling Tony to dispose of the
+body. We see this best as an action combining an impulsivity Janice is known for, and
+with instinctive strategic insight. When she calls Tony to get his possibly tapped phone
+
+36
+she says “I can’t sing… I can’t sing now. Think a minute, OK?” This alludes to the most
+basic pun of the series title and their last name. “Singing” is the argot for ratting to the
+cops or Feds, its also the highest range, the most female. It’s the Soprano women who,
+when they “sing”, control the narrative and push the tragic plot forward. Janice leaves
+town after Richie’s murder, her role as source of nemesis in this plot has come to its
+conclusion. She returns after Livia’s death, and acts as eiron in other plots but they are
+demoted to subplots, such as when she forces Tony into action against the Russians by
+starting a dispute with Livia’s cleaning woman, Svetlana. Tony must, as a matter of
+pride, retaliate to the Russians after they attack Janice, otherwise the problems within
+the family will become widely known and he will appear weak. Janice engages in two
+more relationships with capos in Tony’s crew, Ralph Cifaretto and then Bobby
+Baccalieri. She does, especially with Bobby, try to curry favour with Tony on their behalf,
+but, after her scheme with Richie showed she couldn’t control people to the extent her
+mother could, she doesn’t act as such a source of nemesis.
+
+37
+
+Chapter Five
+Rounding Out the Cast: Frye’s Tragic Typology
+
+Ralphie Cifaretto is an eiron whose conflict with Tony is intensified through
+secondary characters. One character who acts as pharmakos is Jackie Aprille Jr, the son
+of the late boss, and Meadow’s boyfriend. Tony wants to keep him out of the business,
+tells Christopher not to allow him in, but Ralphie gives him a “piece” (a gun) without
+much questioning. Jackie wants desperately to belong to the Family, he is a member of
+“a guilty society”; he tries to emulate Tony by reenacting when Tony robbed a card game
+as a teenager. The man who held the game wanted Tony dead, but we find out Junior
+intervened for his young nephew, and now Tony is at the top. But Jackie miscalculateshe does not have the goodwill of an Uncle Junior the way Tony did. And because he was
+acting under Ralphie, it is Ralphie who must make out the hit to kill him, which Tony
+agrees to. Jackie Jr’s death is the inevitable conclusion, but Tony knows that without
+Ralphie’s help, Jackie would not have gotten there.
+Jackie Jr’s tragic death contributes to Tony’s ill-will towards Ralphie, but not
+nearly as much as the death of a suppliant character. Tony had previously passed
+Ralphie over for captain because of his volatility and troubling actions, but he recognizes
+a part of himself in this nemesis telling him “you got some bad tendencies, Ralphie, and
+I sympathize because I got ‘em too” (“Employee of the Month” 3,4). But any sympathy
+for Ralphie vanishes once the series introduces us to Tracee, a teenage stripper at the
+Bada Bing, with braces and a young son, who obviously looks to Tony for approval. She
+seeks him out as a father figure, going to him for praise or attention. To thank him for
+
+38
+some impersonal advice to take her sick son to a doctor, she makes the personal gesture
+of baking him a cake. Tony dismisses her and rejects her friendship; he is
+uncomfortable with the collapse in roles that he gives women- the strippers are
+employees that he keeps separate from the women he has any sort of familial or
+romantic relationship with. This line that Tony has is made known to us in the episode
+title “University”, an echo of the season one episode “College” which centred on Tony
+and his relationship with his teenage daughter. “University” also shows Meadow
+growing closer to her boyfriend, Noah, losing her virginity to him. The two teenage girls
+are further paralleled, while Meadow pulls away from her father, showing disgust at his
+racist reaction to her boyfriend, Tracee proudly shows off her new braces to Tony. That
+her thank you gift to him is something she baked further makes him uncomfortable, as
+the wives and girlfriends of the series are constantly shown cooking and baking for their
+husbands and families. Not only is Tracee a stripper, she is also Ralphie’s goomah, and
+as his woman she should have no relationship at all with Tony. But Tracee confides in
+Tony anyways, that she is pregnant with Ralphie’s child.
+Tracee’s image as a figure of total helplessness and destitution is solidified when
+we find Silvio driving over to Ralphie’s house after she hasn’t shown up to work for a few
+days. Ralphie and Tracee are on the couch, intoxicated. Silvio, usually shown as a
+impassive stone of a man, thoughtful and considerate of all options before weighing in,
+drags Tracee out, and slaps her and pushes her into the car. We can see Ralphie
+laughing from the window as he sees Silvio strike Tracee; she is utterly helpless and
+without anyone defending her. When she dares assert herself even a little, in an
+argument with Ralphie outside of the Bada Bing, he violently beats her in a painfully
+prolonged scene, bashing her head against a metal guardrail. Ralphie returns to the
+
+39
+club, saying Tracee “fell down”. Tony, enraged, assaults Ralphie, but the two are broken
+a part as Ralphie indignantly protests “I’m a made guy!”. Tony hides his true reasons for
+hitting Ralphie behind Ralphie having “disrespected the Bing”. Because of the suppliant
+figure of Tracee, Tony violates one of the rules of his society, setting off a chain of
+further slights between the two that escalates until reaching its inevitable lethal
+conclusion.
+The escalation in conflict is all cloaked in social slights and snubs. In their next
+interaction, Ralphie refuses to acknowledge Tony at a casino, which is customary and we
+see everyone else do. When he finally acknowledges Tony, he refuses his offer to have a
+drink. Tony disinvites Ralphie to Thanksgiving, through an excuse from Carmella.
+Ralphie expresses dissatisfaction to other made men, and considering putting a hit on
+Tony. He seeks counsel with Johnny Sack. Johnny Sack acts as plain dealer, advises
+Ralphie to give Tony a believable apology, and tells Tony to accept the apology and give
+Ralphie something in return (a rise in rank to Capo) as away to bring the conflict to a
+close. But again, Tony’s pride gets in the way of him resisting the path towards tragedy
+and he does not acknowledge Ralphie’s apology. Johnny tries to curb the tragic plot
+again, when Ralphie returns to him, by reassuring Ralphie that Tony is jut “posturing”
+and its “part of the game”. Tony does, reluctantly, bump Ralphie up to Capo only after a
+Capo dies and there are no other candidates; not promoting Ralphie would be too large
+a slight for anyone else to ignore and would reflect poorly upon him as boss. But still, he
+refuses Ralphie’s offer of a drink. The conflict has not come to a close, but rather has
+gone underground. Tony lets his rage and anguish over the death of Tracee fester, and
+we just have to wait until it pops up again, this time, in the form of a suppliant figure of
+the race horse Pie-oh-my in the season four episode “Pie-Oh-My”.
+
+40
+The connection between the suppliant characters of Tracee and the horse is
+evident most obviously in Silvio’s remark that Tracee is a “thoroughbred” as he and
+Tony watched her dance. Tony even contemplated “putting Ralphie out to pasture”, but
+does not because of his good earnings. Ralphie owns racehorse Pie-oh-My, just as we
+saw he had ownership of Tracee. But like when he passively lets Silvio take control of
+Tracee, he lets someone else take care of what needs to be done so that Pie-oh-My can
+continue to earn money. In one of the many moments we see Tony as animal lover, he
+takes a special interest in Pie-oh-My. When the horse becomes sick, the vet refuses to
+treat her unless the bills are paid, and Ralphie, knowing Tony’s weak spot for the horse,
+gives the vet Tony’s number. Unlike with Tracee, this time Tony comes to the totally
+helpless creature’s aid, paying the bills, comforting the horse in its stall. The horse later
+dies in a stable fire, resulting in a conveniently timed insurance pay out for Ralphie,
+who’s hospitalized son’s medical bills had begun piling up. Tony takes his anger at
+Ralphie’s hand in Tracee’s death, and his guilt over not avenging it, and transfers it over
+to Pie-Oh-My’s death. Ralphie denies his hand in the fire but doesn’t show enough grief
+for Tony’s satisfaction. He doesn’t need proof or a confession: Tony knows Ralphie
+killed Tracee and that is enough to stoke his reignited rage. In the final showdown
+between the two men, as Tony gains the upper hand he yells “you killed her! She was a
+beautiful innocent creature!”; referencing the horse, but also Tracee. He kills Ralphie by
+bashing Ralphie’s head into the floor, echoing Ralphie’s method of killing Tracee.
+The eirons, the mob men who cause trouble for Tony, are the ones who use
+violence impulsively or in outsize proportion. Ralph is on example of this, for instance
+when he beats up a man within an inch of his life for being late on a payment, but there
+is also Mustang Sally’s savage beating of an Aprille with a golf club for speaking to his
+
+41
+girlfriend, Paulie’s believed killing of a Russian mobster for a personal slight, Richie
+repeatedly running over an old associate with his car as soon as he gets out of prison.
+Tony has not previously killed impulsively, until the deaths of Tracee and Pie-oh-My.
+But this killing threatens the solidarity of the mob; the killing of a mob captain runs
+directly counter to the rules that were made to protect mobsters from personal
+vendettas.
+Frye notes a different type of suppliant, that it can be a character “in the
+structurally tragic position of having lost a place of greatness”, using Oedipus in the
+Colonus play as one example (217). Uncle Junior becomes this kind of suppliant. Once
+out from under true eiron Livia’s spell, Junior’s role turns into a sort of reluctant ally,
+even warning him of Richie’s hit. Junior’s downfall was always his own pride, his
+paranoia, and his selfishness. The suppliant is a pathetic character, where “pity and
+terror are brought to the highest possible pitch of intensity” (217). As previously noted,
+pathos’ basis is in the exclusion of an individual from a group, attacking “the deepest
+fear in ourselves that we possess”(218). Junior becomes a figure to be pitied and feared
+as he becomes more and more isolated from everyone around him. As a boss, Junior
+“ate alone”, and his lack of generosity, his miserly and selfish ways, mean that as he falls
+into senility he gets few visitors or friends from the old days. Even as he became boss, he
+was pathetic, unknowingly just a figurehead, who’s own pride stopped him from saving
+himself when he was arrested (by refusing to admit to the Feds that Tony was the real
+boss). Under house arrest, he gets few visitors and Tony has to assign someone, Bobby,
+to act as babysitter. His loneliness and isolation becomes so great that the only way he is
+able to be a part of the larger society he once was is by getting special ordinances from a
+judge to go to funerals (“In Camelot” 5, 7). Once one of Tony’s biggest threats, Junior
+
+42
+becomes a darkly comic character, reveling in the spreads and company at these
+funerals. As he is physically isolated from others, he mentally becomes more and more
+helpless, confused and senile. When a rare visitor turns on his TV, setting the channel to
+an episode of the comedy “Curb Your Enthusiasm”, Junior becomes confused. “Why am
+I on TV?” he says as we see Larry David. “Is that my trial?” (“Where’s Johnny” 3,5)
+Tony notes to Melfi that he doesn’t want to end up like Junior- Junior acts as a
+sort of pathetic warning of what can happen, of how Tony could end up if he continues
+on his tragic path towards total isolation from both family and Family. By season six,
+Junior’s dementia has become serious and he became increasingly paranoid that his
+long-dead enemy “Little Pussy” Malanga was after him. One night, when Junior hears
+Tony’s voice from downstairs saying dinner is almost ready, he descends and, believing
+Tony is Malanga, shoots Tony in the stomach. His deterioration is evident as he
+becomes frightened and runs back upstairs, hiding away in his bedroom closet. The
+“awful consequences of rejecting the suppliant for all concerned” is seen when, in a
+moment of total senility, Junior shoots Tony, pushing him to the brink of death and
+landing him in a coma (Frye 218). This shows the pathetic fall of Junior; he once plotted
+and planned a hit on Tony, now he shoots him in a moment of utter confusion. He is
+unable to communicate with others and is untethered to reality. When A.J. goes to
+avenge his father’s shooting but bringing a knife to the mental facility where Junior is
+housed, Junior’s pathetic character is continued as he confuses A.J. with Tony himself,
+delighted to have a visitor for the first time. In his new home of a therapeutic centre,
+Junior attempts to behave like a Mafia chieftain, bribes to the orderlies, threatening
+rivals, organizing card games. This results in him being put on medications that we see
+makes him into a zombie. In the final scene of one episode, we see Junior sitting
+
+43
+passively, beaten up by another patient, his signature glasses broken, silently sitting and
+petting a cat in his lap- a pathetic version of the famous image of Don Corleone in the
+Godfather (“Remember When” 6b, 3). The final significance of Junior as pathetic figure,
+as suppliant, is shown in the series finale when Tony goes to visit him. Junior is
+shrunken in his wheel chair, his thick glasses seeming to swallow his face, his mouth
+sunken without his false teeth. He recognizes Tony not as a former rival but as someone
+he used to play catch with. Tony tries to connect: “you and my dad used to run North
+Jersey”. Junior has no memory, his accomplishments are in the end worth nothing, he is
+left with nothing, he can only say, “ well… that’s nice” (“Made in America” 6b, 9).
+Plain dealers can be seen through out the Sopranos acting as outspoken critics,
+refusing or at least resisting the tragic movement towards catastrophe. In issues within
+the mob, mediators are often brought in or outside opinions sought for advice. Johnny
+Sack, New York underboss, or Hesh, a Jewish associate from the old days, often act as a
+plain dealer in these situations, but Silvio Dante, as consigliore, is the most prominent
+example. Tony’s friend Artie Bucco may seem to act as Plain Dealer, being the faithful
+friend, but it is really Artie’s wife Charmaine who takes on the role. From her first
+appearance, she resents Tony and the other gangsters’ patronage at their restaurant,
+Vesuvio. She warns Artie and tries to get him to tell them to eat elsewhere, but he, out of
+loyalty to his old friend Tony and a certain jealousy and fascination for this underworld
+he never joined, does not heed her warnings and the movement towards catastrophe
+(the arson) continues.
+Throughout the series, Charmaine does not compromise her conscience or
+values, at one point forcing Artie to give Tony back the “free” cruise tickets, wanting to
+not be indebted to Tony and insisting “someone donated his kneecaps for those tickets”,
+
+44
+right after which we see Mahaffey, a man Tony assaulted over a debt, hobble into view in
+a knee-high cast and on crutches (“Pilot” 1,1). She talks Artie into trying to dissuade
+Tony from killing a soccer coach, Hauser, molesting a girl on their daughters’ team.
+When Artie says he wishes he had “the balls” to punish Hauser himself Charmaine says,
+“Arthur, you do have balls. That’s why you’re not like him”. (“Boca” 1, 9). When Artie
+pushes Charmaine away he turns into a sort of pharmakos character, pathetically
+develops a crush on hostess (and Christopher’s fiancée) Adriana, even getting an
+earring. Without Charmaine acting as Plain Dealer, Artie succumbs to Tony’s charms
+and has a tragic fall. When Tony tries to tempt him in season one with dealings, Artie
+gently brushes it off “I cant’ do the math, Tone, I’m an artist” (“Boca”). But by season
+four, when Artie stops heeding Charmaine’s advice, and finally gets into business with
+Tony, he loses his money, his pride and tries to commit suicide (“Everybody Hurts” 4,
+6).
+Artie is paralleled with Davey Scatino, who seems to be Tony’s only other
+childhood civilian friend. At his high school College Night, Tony and Artie meet with
+Davey Scatino, and his son Eric. Tony first denies Dave’s request to get into an Executive
+high-stakes poker game that Tony took over from Junior, but then relents. At Richie’s
+game, Dave runs up a debt of $7,000. Richie demands it be paid before Dave plays
+again, but Dave gets in to the Executive game and incurs $45,000 more in debt. He goes
+to Artie for a loan of $20,000 for “breathing space”, but Artie turns him down. In “Bust
+Out” a few episodes later, Tony uses Dave’s sporting goods store as affront to order
+goods that will not be paid for. We see Dave playing Russian roulette on his pool table at
+home. Tony finds Dave sleeping in a tent at the store. Tony admits he let Dave finally
+into the game because “I knew you had this business. Its my nature”. The inevitable end
+
+45
+is Dave’s bankruptcy. Tony’s actions reflect those of his father, Johnny Boy Soprano,
+and his uncle Junior back in the day. The longtime Soprano hangout and de facto
+headquarters, Satriale’s Meat Market, was acquired in a similar situation: Mr. Satriale
+was a gambling addict like Davey. Tony remembers clandestinely watching his father cut
+off Satriale’s finger in the meat freezer as punishment for a late payment. Satriale
+eventually committed suicide and left the store to the Sopranos to pay off his debts; last
+we hear of Davey he had been committed to a psychiatric facility. Like Artie, Davey acts
+as pharmakos; what starts as a little bit of money ends up being the destruction of his
+life and his family’s wellbeing.
+The soothsayer, who sees more of the inevitable end than the hero does, can be
+combined with the role of plain dealer. Charmaine seems to represent this, as she warns
+Artie, “don’t pretend like you don’t know what Tony Soprano is capable of” (“Boca”), but
+Dr Melfi is the most consistent, prominent example. She cannot literally see the future
+but, out of every character in the series, she has the most insight into human behavior
+and the patterns they create. She is the conduit for Tony’s insights, she is able to predict
+or warn about people, such as his mother, far before he truly knows it to be true. The
+previously looked at instance of Tony avoiding true tragic catastrophe in a war with
+Junior was influenced by Melfi. In “Meadowlands”, Tony expresses to Melfi his
+exasperation with his mother and uncle. She recommends he read a particular book that
+offers “strategies for coping with elder family”, suggesting, “would it hurt you to let your
+mother think that she’s still in charge? You have children. You know what they’re like.
+You know that sometimes it’s important to let them have the illusion of being in control”
+(1,4). We then see Tony at the Bada Bing, hunched over at the bar reading Eldercare:
+Coping with Late-Life Crisis. It is then that the TV announces Jackie Aprille’s death and
+
+46
+Tony heads over to the luncheonette Junior frequents. Later, Melfi asks whether Tony
+still has doubts about therapy. “No. Give it another chance. Get a lotta good ideas here.
+You know, to cope”. When he adopts Melfi’s insights and professional, rational manner,
+Tony becomes equipped with interpersonal skills that allow him to postpone tragic
+outcomes. Frye says the suppliant figure is often a woman threatened with rape or
+death; in the season three episode “Employee of the Month” the main plot arc portrays
+Melfi’s rape in a parking garage. But while Melfi is helpless in the moment, and when a
+clerical error gets the legal case against her rapist thrown out, she does not become
+helpless character; in resisting the urge to tell Tony and have him engage in the revenge
+fantasy that she so easily could, she reclaims power and retains her power as someone
+who resists the movement towards tragic catastrophe (3,4).
+
+47
+
+Chapter Six
+Janus-Faced in New Jersey: Tony’s Tragic Internal Collision
+
+Melfi acts as a chorus character, and “represents the society from which the hero
+is gradually isolated” (Frye 218). She represents the Italian-American upper-middleclass world that Tony on some level always wants to be a part of. The Sopranos
+exemplifies Hegel’s argument that tragedy is the conflict between two substantive
+positions, both equally justified but both equally wrong in that they fail to recognize the
+validity of the other. These two conflicting positions, the parallel worlds of American
+mainstream society, as exemplified by Tony’s suburban family, and of the underworld of
+the Italian-American mob, as exemplified by Tony’s Family. The obligations and duties
+of the mob serve as a distorted mirror to that of the straight world; it has its own code of
+ethics, rules, obligations and duties.
+The central tragic collision occurs within Tony: his dilemma is trying to sustain
+the dichotomy of being Janus-faced in New Jersey, of living up to his life as a father and
+husband, and as a mafia don. As boss, he does not respect or adhere to the laws and
+systems of American society, but as a father and husband he relies on them to help his
+family realize the lives he wants for them. He sends his nephew Christopher to rehab in
+the hope that it will help correct the tragic path he is on. He sends his son to Catholic
+school, then a Montessori-like school, in the hope that it will help give A.J. the support
+and drive Tony so wants him to have. He pays for his daughter Meadow to go to
+Columbia University so that she can realize her dream of becoming a doctor or lawyer.
+He above all, wants his two children to be emancipated from a life in the mob. The
+
+48
+tension within Tony is that, even has he inhabits and thrives in the world of the mob and
+rejects the state, he must have faith in the state because the success of his family
+depends on it. He takes the power, money and perks he gains in the mob and uses it to
+help his children afford good educations, to help them get good jobs. He wants them to
+lead normal happy lives with normal happy families. The tension between the two
+worlds, between his wishes for his children in contrast to what he himself does is shown
+when he nervously asks Meadow what she thinks about his job. Her reply shows how the
+dark qualities of his job are paralleled in the world of the state: “sometimes I wish you
+were like other dads… Like Mr. Scangarelo, for example… an advertising executive for
+big tobacco” (“College” 1,4).
+The Sopranos exemplifies the “conflict of the spirit” between the bonds that hold
+people together, “the obligations and feelings appropriate to these bonds”, and “the
+powers of personal love and honour” (Bradley 369). “College” shows Tony juggling both
+aspects of his life, appearing as supportive father to Meadow while also trying to
+“whack” an old mob associate. After he kills the man, he patiently waits at Bowdoin
+College while Meadow has her interview. His “self-division and intestinal warfare” is
+presented to us as his gaze lingers on the Nathaniel Hawthorne quotation etched onto
+an archway that illustrates his central quandary: “no man can wear one face to himself
+and another to the multitude without finally getting bewildered as to which may be
+true”.
+Tony is a tragic hero in Hamlet’s vein: “what engrosses our attention is the whole
+personality… in his conflict, not with an opposing spiritual power, but with
+circumstances and, still more, with difficulties in his own nature” (Bradley 374). The
+Family is supposed to come first, there is no retirement or running from it. Tony’s
+
+49
+struggle often comes when he must act on this rule. Tony and his cousin Tony Blundetto
+grew up together, did the same jobs, but one day Blundetto got caught and went to
+prison for twenty years while Tony eventually rises to boss. The reason? Tony had a
+panic attack and wasn’t there that day. Blundetto could have been Tony, and Tony is
+acutely aware of that. Blundetto’s family is an uneasy alternative to Tony’s: a wife he met
+in an online forum, two children the product of sperm smuggled out of prison. Instead
+of working as the boss of the family, Blundetto, noted to have an IQ of 165, spent his
+years in prison studying for his massage therapy license. Tony wants Blundetto to
+succeed but his very presence troubles him; Tony feels enormous guilt over the
+circumstances that led to Blundetto’s prison sentence but he also sees how he could so
+easily be in Blundetto’s shoes. When Blundetto falls back in with mob work and takes a
+hit job, he becomes the one element that could cause all-out war between New Jersey
+and New York if Tony doesn’t allow his death. Tony is torn and sad about this, but he
+knows it must be done. Melfi tells Tony to “own his feelings”, in doing so he realizes he
+has to assassinate his cousin, Blundetto, in order to maintain the loyalty and structure of
+the mob he rules. And in a sense, Blundetto’s death comes as a relief for Tony; he has
+lived up to the words he says as Christopher’s making ceremony, that “this family comes
+before everything else… everything. Before your wife or your children and your mother
+and your father” (“Fortunate Son” 5, 13).
+The Sopranos doesn’t depict the world of the state as Good and the world of the
+mob as Bad, rather it is closer to Hegel’s “war of good with good”(Bradley 369). Neither
+are necessarily “good”, but the Sopranos takes great pains to show us the number of
+people who hide behind positions of authority or abuse their power within the world of
+the state, such as New Jersey State Assemblyman Zellman who is on the take, and
+
+50
+Carmela’s priest Father Phil, who she astutely observes feeds on “spiritually thirsty
+women” (“I Dream of Jeannie Cusamano” 1, 13). When threats seem to infect not just
+the structure of the state (like Zellman) but also the family structure, Tony faces a
+struggle between his two halves: father and boss.
+This is best illustrated in season one episode “Boca”, when Tony feels Meadow
+has been threatened, but the threat comes from a member of the straight world, where
+he has less authority, not the mob, where he has all authority. This episode is the only
+real time that Meadow’s soccer team is a focus. The context of children’s soccer is
+important because among a certain set, the upper-middle class suburban “white bread”
+families, soccer acts as both a rite of passage children and a uniting factor for the
+families. In a later episode, when Janice has tried to assimilate herself as a soccer mom,
+she sees another mother encouraging her daughter to be violent. The verbal altercation
+that ensues seems par for the course for the soccer moms, but Janice ups the stakes
+when she makes the fight physical, stepping over the line that the social mores of the
+situation stands for. She becomes a news story, a joke. Tony is furious because her
+actions reflect onto him, proves that his family as separate, baser, than the suburban
+society they wish to belong to (“Cold Cuts” 5, 10).
+Back in “Boca”, at the soccer game, we see Tony and Carmela cheering on Meadow, Artie
+and Charmaine focused on their daughter, even Silvio is glowering in the stands behind
+Tony, watching his own daughter. They are surrounded by non-mob parents doing the
+exact same. When Meadow as goalie stops a goal, her entire family swells with joy and
+the entire crowd cheers; she again signifies Tony’s tie to the straight world. Here, the
+mob men are not the authorities. When Silvio storms the field to protest a call, (”you
+blow that whistle one more time, I’m gonna stick it up your fuckin’ ass!”), the ref
+
+51
+matches his tone and pitch ordering him “get off the field or your team is gonna forfeit
+the game!” Silvio slinks off the field. When he yells out a bribe to his daughter (“a
+hundred bucks for a goal!”) the bribery seems like that of many parents.
+When the men find out that their beloved Coach Hauser had molested Aly, one of
+Meadow’s teammates, they are enraged at the act on behalf of their daughters, but also
+because they feel he had shown no respect for them. The coach’s act is inadmissible in
+both world, but he didn’t just act as a threat to their daughters’ safety and purity, he also
+thumbed his nose at the mobsters. When Silvio exclaims, “my daughter should know
+this shit? My daughter should have to think about that filth? That self-righteous prick
+put his dick in my little girl’s soccer teammate!” he is also thinking of the multiple times
+he allowed the coach to have authority over him. When the mobster found out the coach
+was leaving for University at Rhode Island, they tried several tactics to convince him to
+stay. Silvio approached Hauser on the coach’s turf, coming to a soccer practice, to try to
+reason with him. Hauser shrugs, the school “made me an offer I couldn’t refuse”. Silvio
+mutters, “yeah well you haven’t heard ours yet.” When Meadow mouths off to the coach,
+Silvio intervenes “Hey Mead, if I told your father-“ but the coach interrupts Silvio, “this
+is my field, Silvio”, and puts his arm up to physically block Silvio from the girls.
+Christopher tries his hand at the coach too, kidnapping his dog and then returning him
+just to give the coach a taste of what they are capable of. When Paulie drops off a giant
+TV at the coach’s house as a bribe, the coach says “you tell your friends I know all about
+them”. Paulie echoes Silvio’s threat “if you did, you’d do what they want”. The coach
+asserts his power again, “let me tell you something Guido…. I have friends in law
+enforcement and they would call this extortion”. Paulie leaves the TV on the driveway
+but as he walks away Hauser shots out “You tell those assholes, Don Hauser will not be
+
+52
+intimidated! …. I go where I want when I want to!” Hauser acts a paradigm of virtue,
+unwavering in his morals. The coach’s name, Don Hauser, even seems to signal his
+authority and power. He presented himself as above and separate from these mob guys,
+even when they invited him to their turf, the Bada Bing for drinks, rejecting a free
+blowjob. At the Bada Bing he established himself as a father just like them, “how many
+chances does a man get to coach his own daughter?” That a fellow father could do this to
+one of his daughter’s friends causes anxiety in Tony and his friends. When Artie says,
+“he deserves to die… Betraying children!”, the wounding of the men’s pride is left
+unsaid.
+Tony’s upset at the situation is tied up in his hopes for Meadow. He tells Melfi,
+“principle says girls in sports do better, they don’t do drugs, they don’t get knocked up,
+but now this shit!.... If my daughter ever tried to kill herself….” All of a sudden, the
+future Tony hopes for his daughter has been placed into jeopardy. Tony has no
+confidence that the justice or vengeance necessary would be meted out by the law, which
+is slow and impersonal and out of their control. Tony’s inner conflict is shown at his
+almost knee-jerk disrespect for the law that comes from his life as a mob member and
+his wish to do what’s right by the society of the law. In therapy he challenges Melfi,
+“what would you do? You’d call the cops, who would get some judge, who would give
+him psychiatric counseling, so maybe he could talk about his unhappy childhood and we
+could have sympathy for the fuck because he’s the real victim here., right?” Tony fears
+the excuses and explanations he has found in therapy for his vile behavior will be used
+to explain away the coach. Tony is terrified of being a bad father, and he fears the
+parallels between him and Coach Hauser. In this same episode Tony makes a point of
+going over to a young man in a restaurant and demanding he take off his ballcap,
+
+53
+enforcing an old-school code of propriety and pushing his role as a figure of authority
+within his community.
+The plain dealers Melfi and Charmaine, both representing the society that he
+wants to belong in, are who sway him. When Artie returns to Tony and pleads with him
+not to kill the coach (“its wrong!”) we know the words are really Charmaine’s. He gives a
+similar response as he did to Melfi, telling Artie if they let the law take care of it, “he’ll
+get out in two fucking years and move to Saskatchewan and you know what he’ll do?
+He’ll teach girls soccer. And he’ll start all over again”. When Melfi challenges Tony, “why
+do you think you, Anthony Soprano, always has to set things right?”, it is within her
+office, her territory. He seems to understand her point; within the world of Coach
+Hauser is responsibility is not that of justice implementer, but that of a father conceding
+to the laws of that world. When he is in Melfi’s office is more in the world of Tony the
+civilian and father, but back at his office, where Artie confronts him, he is in the world of
+Tony the boss. Tony is instinctively enraged at being challenged on his territory: “who
+the fuck do you think you are coming in here and telling me what to do?” and kicks Artie
+out. But both Charmaine’s and Melfi’s words have obviously affected Tony as in the next
+scene we see Tony, visibly troubled, constantly looking at the phone, wondering which
+call to make.
+We get our answer when the TV announces that police arrested the coach on a
+tip. Tony, inebriated, watches from his desk, even raises his glass in a sarcastic toast to
+the news. But this is no victory for Tony, no moment of catharsis for the viewers. The
+fate of the coach is taken out of Tony’s hands, and he is left feeling everything but
+purging none of these emotions, isolated by his choice. Neither call could have satisfied
+him, neither choice could have been the right one because of his internal collision. Tony
+
+54
+mixes his Prozac with alcohol to numb the intense feeling of pathos, bursting into his
+home at the end of the night. When we see him, we see him from above, where Meadow
+stands at the second floor balcony, an unknown spectator. Tony crashes into a table and
+tries to dance with Carmela. He stumbles over to the living room, and Meadow moves to
+the other side of the balcony, continuing to watch. Tony flops onto a coach but the force
+causes him to slide to the floor, the lowest level in the scene. Tony hands his bottle of
+Prozac to his wife. In his inebriated state he is able to let slip the thoughts coursing
+through his head: “I didn’t hurt nobody. Tell the shrink the town’s giving her a raise.”
+Tony’s struggle to protect Meadow while also coming to grips with his life as mob
+boss comes up again when he gifts her with an SUV. The SUV belonged to Davey
+Scatino’s son, Eric, but was taken by Tony to make up for one of Davey’s late payments.
+Tony knows that Eric and Meadow are friends planning to sing a duet together at the
+high school Cabaret night, that Meadow knows Eric’s car. Tony doesn’t even try to hide
+distinguishing features like fuzzy dice when he presents Meadow with the gift. Tony’s act
+ends up ruining Meadow and Eric’s friendship. When Meadow gets upset with Tony he
+yells at her, “everything this family has come from the work I do”. He later admits to
+Melfi he knew what he was doing, that he was trying to show Meadow what kind of bad
+deeds he has to do everyday so that she can be good. Through is own actions he isolates
+himself from his daughter, but he seems to also be warning her of what he is capable of;
+he fears she must distance herself in order to succeed.
+In trying to inhabit both worlds, ultimately, the tragedy of Tony Soprano is that
+he can inhabit neither. Coach Hauser calling Paulie a “guido” and his references to the
+godfather are echoed in the actions of other members of suburban society who reject or
+mock Tony in the next episode, “A Hit is a Hit”. Tony and Carmela want their children to
+
+55
+succeed within the WASP-y suburban community they have raised them. Their nextdoor neighbours, the Cusamanos, and the Cusamanos’ friends represent this world.
+Tony makes great pains to show his appreciation to Dr Cusamano for a simple doctor
+recommendation (Melfi) by presenting him with an expensive, illegal box of cigars,
+telling him “you’re a good neighbour, Bruce”. Cusamano is visibly uncomfortable and
+distances himself by restaging his relationship not as a neighbour but as a doctor, “I
+make referrals all the time, Tony….” But for Cusamano, as for the rest of his clique,
+Tony’s novelty as powerful thug is fascinating to him, and he slips into the mob argot as
+he accepts the gift, “I bet these motherfuckers were hard to come by, ah?” Tony plays the
+part: “yeah… they fell of a truck”, he winks. When Cusamano invites Tony to play golf at
+the club, instead of the public course Tony frequents, Tony’s glee at being included is
+obvious. Carmela later tells Tony they’ve been invited to a barbeque across the street.
+Tony usually isolates himself from their neighbours, he doesn’t want to be embarrassed,
+out of his comfort zone. He identifies them as “mayonnaise” or “whitebread” to insulate
+himself, make it seem like he doesn’t want to be one of them. But his glee at being
+included is evident when he brags to Carmela, “Cusamano even asked me to play a lil
+golf with him at his club”.
+Tony’s secret desires to be more like the Cusamanos and their friends is evident
+when he tells Christopher after a huge score, “we gotta make this work for us, out in the
+open, legit. Buy a nice IPO, keep it spinnin’, live off the juice!” But when Tony goes to
+the barbeque, the men hush their stock market talk around him. On the golf course, they
+prod him about mob life, asking Tony if he ever went to Al Capone’s course, if he had
+bleed his finger for the oath, how accurate the Godfather really was. Tony slowly realizes
+his role. He plays along good-naturedly until he realizes even his buddy Cusamano is
+
+56
+against him. One man asks if Tony ever saw the photo of Carmine Galante, a mobster
+assassinated in Little Italy, “with the cigar hanging out of his mouth?” Cusamano can’t
+help but chime in: “it’s a fuckin’ beautiful hit, huh?” Tony’s face falls. Cusamano corrects
+himself, “Sorry Tony, you probably knew the guy, huh?” Tony comes to the full
+realization of his role in the group and he fully inhabits it, puts on a show. He invents a
+story about John Gotti outbidding him at an auction of an ice cream truck, then driving
+home in it, ringing the bell the whole way. As he does this, he refers to Cusamano as “the
+Cooze”, a condescending nickname because of its connotations, While he mimes ringing
+the bell he stares at Cusamano and the motion seems to transform into a vulgar gesture.
+Tony later asserts his power over Cusamano by asking him to hold onto a mysterious
+package “for a while”. We know it is filled with sand, but the Cusamanos regard it with
+fear, as they do Tony: “what is it? Heroin? A weapon? Could be anything!”
+We see that these people are even crueler about Tony when he isn’t there. Melfi’s
+ties to the suburban Italian-American society that Tony wants to belong to are made
+clear in this episode, as we see her at a dinner party at Tony’s next door neighbours, One
+woman asks the Cusamanos, “how’s your neighbour, the one with no neck?” Another
+jokes that Cusamano accepting the cigar shows “eroding neighbourhood values”, while
+another asks what the thug next door does to “property values”. Cusamano shrugs,
+“being a ganster- what’s that mean anyway?’ And his friend concedes, “yeah that’s true
+some of the shit I see in the boardroom, I don’t know if I’d make a distinction.”
+Cusamano seems to be defending Tony: “sometimes I think the only thing separating
+American business from the mob’s… is fucking whacking somebody.” But it is clear they
+see huge distinctions between American business (theirs) and the mob’s (Tony’s); he is
+trying on the swagger and the argot but at the end of the night they return to their real
+
+57
+world. They gossip about Tony’s home and Carmela’s tastes, (“we were over there for
+that fundraiser. I didn’t see any guns anywhere”). Melfi sits mostly silent as her friends
+mock her patient and reminisce about scenes from famous mob movies and imbibe in
+the cigars, but her separation from them is clear.
+Because she is a part of the world Tony wishes to belong to, and is a moral
+upstanding example from this world, Tony is able to go to her to reveal his conflicting
+emotions. Tony’s feeling of otherness, of not fully belonging is shown when tries to put
+down the Cusamanos, talking about how boring “the average white man”, the
+assimilated Italian-American, is. “Our friend Cusamano, now he’s Italian but he’s
+medigan… my old man would have called him Wonderbread WOP. You know, he eats
+his Sunday gravy out of a jar”. As he often does, Tony cloaks his insecurity, his jealousy
+in jokes. But as soothsayer, Melfi can see through this. “You seem to want to branch
+out.” Tony reveals that what’s stopping him is “the guys… what they’d think if I started
+hanging out with the medigan”. Tony reveals his central dilemma – he wants to hang
+out with the “whitebread” Italian-Americans, wants to be a part of them, but he also
+wants to remain a part of his Italian Old World mob society. He is torn between the twoand wanting both, he can never fully be apart of either. The men he wanted to be friends
+with made him feel like “a fuckin’ dancing bear”. He relates himself to a boy with a cleft
+lip that knew as a child, named Jimmy Smash. Jimmy would sing for Tony and his
+friends’ amusement because at least he was included. But once Tony’s clique got tired of
+Jimmy, they stopped calling. Jimmy ended up in prison for holding up a bank- his
+speech impairment gave him away. Like Jimmy Smash, even as Tony tried to belong,
+tried to engage in the jokes, that outside of his control, that which he was born with,
+meant he truly would never be accepted.
+
+58
+The agony this split causes in Tony is shown in the piercing, guttural yells heard
+by Melfi at the Cusamanos, coming from the Soprano house. It is revealed to us that the
+yells come from Tony, straining under weights in his basement exercise room. The
+screams show the strain and pain of Tony trying to improve his condition, trapped
+between two worlds with prohibitive social barriers. It is a moment of pure pathos, a
+moment that exemplifies what Arthur Miller called “the underlying struggle of the
+individual attempting to gain his “rightful position in his society”.
+As the series progresses, Tony increasingly seems to give up on himself and grow
+frustrated with what he sees as a lack of personal growth. But he never gives up on his
+children; his desire to shield and protect them remains atavistic, unwavering. Tony’s
+greatest hope is that the next generation of Sopranos will go straight; this is his
+dilemma. Hegel thought the only way to conclude the tragic action and bring unity back
+was through the death of the tragic hero. But the Sopranos does not give us that because
+it refuses to give us catharsis, we are left with pathos and isolation. The real tragedy for
+Tony as the series draws to a close is that it seems his children will never fully escape
+from life intertwined with the mob. He worries A.J. is a hopeless case, having inherited
+his depression and “putrid genes”. He seems unable to succeed in the straight world
+without the connections and perks of being Tony’s kid; he can’t even hold onto his job at
+Blockbuster. A restless A.J. expresses desire to enlist in the army; Tony earlier had
+explained his actions in the mob by calling himself and his associates “soldiers”. Tony is
+only able to prevent A.J. becoming a soldier like himself by placating him, buying him a
+position in a film company. Meanwhile, Meadow, who was Tony’s greatest hope for the
+future of the Soprano family going legit, ends up dating a son of one of Tony’s associates
+and going into law, probably “white collar crime”, inspired to defend people just like her
+
+59
+father. Tony reveals his sadness to Melfi over Meadow’s choice of mob law instead of
+medicine, “its just that Dr Soprano… it sounds nice” (Blue Comet, 6B, 8).
+
+60
+
+Finale
+Inevitable Isolation
+
+The final scene of the series finale, “Made in America”, shows Tony, sitting alone
+in a diner, waiting for his family to come join him. After the bloodshed in the previous
+few episodes, the audience (and Tony) is on high alert for potential threats. Each time
+we hear the diner door open with a ring of a bell, the tension increases, our fear grows.
+Everyone looks suspicious. Slowly but surely we see his family members join him, all
+arriving from separate locations, from their separate lives. Before any real action occurs
+the feed stops- the screen cuts to black. This non-conclusion of a conclusion upset many
+fans looking for closure,4 for catharsis (catharsis). But as previously illustrated, the
+Sopranos as low mimetic tragedy results in pathos; as we watch Tony alone in the diner,
+vulnerable, we feel pity for him and we fear what may happen. We are not permitted the
+purgation of these emotions, rather they must be felt, sensed, experienced, luxuriated in.
+It is within this atmosphere that pathos’ connection to isolation can be truly understood:
+there is nothing more frightening to us than a man isolated from the society to which he
+wants to belong- no person worthy of greater pity. By the series finale, Tony has become
+that man- his tragic arc does not reach a satisfying conclusion but rather remains
+unresolved. We know Tony will die. It could be in five minutes from a shot to the back of
+the head. It could be in prison forty years from now. He could have no idea that a cancer
+
+4
+
+Chicago Tribune critic Maureen Ryan’s review of the episode exemplifies the
+
+immediate response of many viewers: “Chase got me totally wound up, then ripped me
+away from that world.”
+
+61
+is eating away at him right now. What’s important is that we don’t get to experience itwe do not get the cathartic release that Hegel believed could only result in the hero’s
+death. Without Tony’s death, his world cannot achieve unity; the tragic collision will
+persist. . Even the title, “Made in America” winks at this tragic collision with its double
+meaning: at a quintessentially American diner, the nuclear family meets for a meal. But
+Tony is also “made” in America – he is both a part of and separate from mainstream
+American society.
+As Silvio told Tony, it is his greatness that also is his flaw. Tony is unable to truly
+belong to his Family because of the alienating effect of power but also because he truly
+seems to feel and understand things at a greater capacity than they do. He, slowly but
+surely, makes his greatest fear come true: that his family will leave him. He ends the
+series with all his friends dead or near-death, his uncle a shell of his former self, his
+children distanced from him. Silvio, his confidant, is in a coma, not expected to recover.
+Carmela and Tony’s marriage is strained, businesslike. Meadow, the Soprano family’s
+Great White Hope, has tied herself to the son of a made man like Tony, will
+professionally work for made men like Tony. The final death knell for Tony is that Melfi
+has finally stopped their therapy sessions, for good. Without Melfi acting as a grounding
+force that slows the movement towards tragedy, Tony is truly alone. By giving up on
+Tony, Melfi, representing the world of mainstream society he longs for, has sentenced
+him to a life outside of this society. Pathos truly is suffering. Tony must suffer alone.
+
+62
+
+Works Cited
+
+Aristotle. Aristotle in 23 Volumes. Trans. W.H. Fyfe. Vol. 23. Cambridge: Harvard UP,
+1932. Perseus Digital Library. Web. 27 Nov. 2015.
+Auden, W. H. "The Christian Tragic Hero." 1939-1948. By W. H. Auden. Ed. Edward
+Mendelson. Princeton: Princeton UP, 2002. 258-61. Print. Vol. 2 of The Complete
+Works of W. H. Auden: Prose. 5 vols. Rpt. of "The Christian Tragic Hero:
+Contrasting Captain Ahab's Doom and Its Classic Greek Prototype." The New
+York Times Book Review 16 Dec. 1945: n. pag.
+Bradley, A. C. "Hegel's Theory of Tragedy." Oxford Lectures on Poetry. London:
+Macmillan, 1909. N. pag. Rpt. in Hegel's Theory on Tragedy. Ed. Anne Paolucci
+and Henry Paolucci. New York: Doubleday, 1965. 367-88. Print.
+Brownfield, Paul. "101 Best Written TV Series." Writer's Guild of America, West. WGA,
+2013. Web. 29 Nov. 2015.
+Carroll, Melissa. "When It Comes to Daughters, All Bets Are Off: The Seductive FatherDaughter Relationship of Tony and Meadow Soprano." The Essential Sopranos
+Reader. Ed. David Lavery, Douglas L. Howard, and Paul Levinson. Lexington:
+University Press of Kentucky, 2011. 81-90. JSTOR. Web. 27 Nov. 2015.
+Fretts, Bruce, and Matt Roush. "TV Guide Magazine's 60 Best Series of All Time." TV
+Guide. CBS Interactive, 23 Dec. 2013. Web. 29 Nov. 2015.
+Frye, Northrop. Anatomy of Criticism. Princeton: Princeton UP, 1957. Print.
+Hegel, G. W. F. Hegel's Aesthetics: Lectures on Fine Art. Trans. T. M. Knox. Oxford:
+Oxford: Clarendon, 1975. Print.
+
+63
+Johnston, Andrew. "The Sopranos: Season Six, Part II." Time Out New York 25 Oct.
+2007: n. pag. Time Out. Web. 29 Nov. 2015.
+Lusher, Tim. "The Guardian's Top 50 Television Dramas of All Time." The Guardian
+[London] 12 Jan. 2010: n. pag. The Guardian. Web. 29 Nov. 2015.
+Miller, Arthur. "Tragedy and the Common Man." The New York Times 27 Feb. 1949: n.
+pag. The New York Times. Web. 29 Nov. 2015.
+Roche, Mark William. Tragedy and Comedy: A Systematic Study and a Critique of
+Hegel. Albany: State Uof New York P, 1998. Print.
+Rorke, Robert. "The 35 Best TV Shows on TV- Ever." New York Post. NYP Holdings, 27
+Apr. 2008. Web. 29 Nov. 2015.
+Ryan, Maureen. "Are You Kidding Me? That Was the Ending of the Sopranos?" The
+Chicago Tribune. Chicago Tribune, 10 June 2007. Web. 30 Nov. 2015.
+Schulman, Alex. "The Sopranos: An American Existentialism?" The Cambridge
+Quarterly 39 (2010): 23-38. Project MUSE. Web. 27 Nov. 2015.
+The Sopranos. Dir. David Chase. Perf. James Gandolfini, Lorraine Bracco, and Edie
+Falco. HBO. 1998. Hbogo.com. Web. 27 Nov. 2015.
+"The Sopranos." By Roger Rosenblatt. NewsHour. PBS. 17 Sept. 1999. Transcript. PBS.
+Web. 27 Nov. 2015.
+Stoehr, Kevin L. "The Sopranos, Film Noir and Nihilism." The Philosophy of TV Noir.
+Ed. Steven M. Sanders and Aeon J. Skoble. Lexington: University Press of
+Kentucky, 2008. 143-58. JSTOR. Web. 27 Nov. 2015.
+Yacowar, Maurice. The Sopranos on the Couch: Analyzing Television's Greatest Series.
+New York: Continuum, 2002. Print.
+
+

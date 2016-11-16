@@ -1,0 +1,2976 @@
+An information theoretic approach to determining sparsity in clustering
+classified documents
+
+A senior project submitted to the Division of Mathematics and Computer Science,
+Bard College
+by Maksim Tsikhanovich
+Submitted on April 27, 2011
+
+1
+
+Contents
+1 Motivation & Introduction
+
+3
+
+2 Document Clustering
+2.1 Document Representation . . . . . . . . . . . . . . . . . . .
+2.2 Basic document clustering: k-means . . . . . . . . . . . . .
+2.3 Non-negative Matrix Factorization as a clustering technique
+2.4 Rank-one Residual Iterations as a solution for Sparse NMF
+2.5 The RRI Algorithm . . . . . . . . . . . . . . . . . . . . . .
+2.5.1 Refinement . . . . . . . . . . . . . . . . . . . . . . .
+2.5.2 Initialization . . . . . . . . . . . . . . . . . . . . . .
+3 The
+3.1
+3.2
+3.3
+
+Cluster Evaluation Problem
+Normalized Mutual Information . . . . . .
+Computing NMI in Document Clustering
+NMI as a Clustering Evaluation Measure .
+3.3.1 NMI and Sparsity . . . . . . . . .
+3.3.2 NMI and Number of Clusters . . .
+
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+
+6
+. 6
+. 7
+. 8
+. 9
+. 9
+. 10
+. 12
+
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+
+14
+14
+16
+16
+17
+19
+
+4 Using NMI to Select Optimal Sparsity and Number of Clusters
+23
+4.1 Dependence of NMI on λ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 23
+4.2 Determining Sparsity and Number of Clusters . . . . . . . . . . . . . . . . . . . . . . 23
+5 Experiments with NMI’s Effect on Clustering
+5.1 TDT Dataset . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+5.2 Newegg Dataset . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+5.3 Conclusion and Directions for Further Work . . . . . . . . . . . . . . . . . . . . . . .
+
+26
+26
+27
+33
+
+A Derivative of NMI with respect to λ
+
+35
+
+B Matlab code for λ, k finding algorithm and for RRI
+
+37
+
+References
+
+44
+
+2
+
+1
+
+Motivation & Introduction
+
+A fundamental requirement for being able to understand natural language seems to be the ability
+to differentiate between words, terms, and phrases. Since the the problem of differentiating essents
+has remained open since at least Aristotle, it seems that differentiating the words that are use
+to refer to essents is a philosophically open problem. Thus when the problem of differentiating
+between natural language documents is represented using standard mathematics, one of the difficult
+problems becomes defining a function that measures similarity between words, terms, phrases, and
+finally documents.
+In particular, in document clustering there are two problems: creating cluster centers that are
+representative of the document set, and determining how similar documents are to those centers.
+Thus a clustering algorithm must find good cluster center candidates, and assign documents to
+clusters whose center is similar to the documents according to a similarity measure. The problem
+of defining the similarity measure depends on how documents are represented, yet the restriction
+to some representation does not seem to make the problem of selecting a similarity measure easier.
+Research papers on clustering algorithms (Lee and Seung 2001), (Blei et al. 2003), (Ng, Jordan,
+and Weiss 2001) typically have the following structure:
+1. present or assume a document representation and corresponding similarity measure between
+documents,
+2. provide a objective function that should be optimized in order to achieve a good clustering,
+3. present an algorithm that is guaranteed to converge to a local minimum/maximum of the
+objective function,
+4. provide a measure of the quality of the algorithm.
+Since clustering is a hard problem, each one of the above parts is also difficult. However while parts
+1-3 are clearly tightly interdependent, part 4 is slightly less dependent on the others. Yet being
+able to measure the quality of a clustering algorithm would is very important for doing 1-3, and it
+is why I am interested in this part of the research.
+In the literature there are at least three types of quality measures:
+
+3
+
+1. Internal measures that depend only on the clusters as the algorithm has produced and sees (for
+examples of typical measures see (Zhao, Karypis, and Fayyad 2005)); typically algorithms are
+designed to optimize some internal measure, so using internal measures to compare algorithms
+that optimizes different internal measures seems to not make sense. Similarly rather than
+comparing algorithms that use the same internal measure as their objective function against
+one another, it is usually better to combine those algorithms to create a hybrid stronger than
+any of the individual algorithms. (Ding, Li, and Peng 2006)
+2. External measures that compare the clusters output by the algorithm to the hand annotated
+classes in which documents lie. A popular measure is purity, which is the average percentage
+of documents from only one class in each cluster. An other well known measure is normalized mutual information, which assess when one is given the cluster from which a document
+originates, how much information do they gain about the class it was from.
+3. Relative measures rely on measuring differences between at least two clustering solutions.
+Rand uses his c similarity measure (Rand 1971) to evaluate how well clustering algorithms
+detect natural clusters, or respond to perturbations in data points. Alternatively Rosell et. al.
+(Rosell, Kann, and Litton 2004) take advantage of having two versions of human classifications
+of the same data set. They evaluate the difference between the two human classifications,
+and say that a clustering algorithm’s output is valid if it is within that distance from one of
+the human algorithms.
+The problem that I am exploring is when given a collection of documents, wherein the documents are split among classes, how can we summarize what the documents of each class tell us
+about the class. Document clustering solves this problem, because the cluster centroids should be
+representative of the documents within their clusters. Thus the goal is to create good clusters, and
+therefore the problem is to determine what a good cluster is.
+The data set I am working is 11675 product reviews about twelve types of products from the
+online electronics store Newegg. Each product review is annotated with the type of product that
+it is about, the review rating (whether other shoppers found that product review helpful), and its
+date. In order to improve the quality of the data, each of the 11675 product reviews used had at
+least a +3 rating, meaning that at least three people found it helpful. Since reviews are annotated
+4
+
+with the type of product type, and since I’m interested in summarizing the content for each of the
+product types, which in this case are the classes, the appropriate type of evaluation measures are
+external measures. Figure 1 displays the classes in the Newegg data set, and what proportion of it
+they make up.
+
+Wireless Routers
+Network Interface Cards
+Modems
+Mice
+
+Cables
+
+LCD Monitors
+
+Computer Cases
+
+Keyboards
+
+Video Cards
+
+Internal Hard Drives
+
+Desktop Memory
+
+Intel Motherboards
+
+Figure 1: The 12 class Newegg product review data set, shown are the product types that the
+reviews are about.
+The rest of the thesis is structured as follows, in Section 2 the clustering problem is defined and
+sparse non-negative matrix factorization is introduced as a solution. In Section 3 the evaluation
+problem is described, and normalized mutual information is introduced as a good solution. In
+Section 4 a technique is presented on how normalized mutual information is used to determine
+clustering sparsity, as well as number of clusters. Finally in Section 5 results from working with
+the Newegg reviews is presented.
+
+5
+
+2
+
+Document Clustering
+
+Document clustering is a open problem, and the solution that can be used largely depends on how
+documents are represented.
+
+2.1
+
+Document Representation
+
+Usually documents are assumed to be complex statements made up of some form of atoms. The
+simplest atoms could possibly be letters, though intuitively the letters used in a document are not
+good for distinguishing it from other documents. A more complex atom is the n-gram, sets of n
+consecutive letters, which seem to good representatives of documents as in (Damashek 1995). The
+next and perhaps most intuitive atoms to consider are words. Since written language is heavily
+emphasized in the English tradition, most words carry a lot of meaning that is difficult to further
+atomize. Words are the atoms that will be used in this paper. A level above words can be structures
+that take advantage of sentence grammar in order to extract more meaning, such as subject verb
+object triples as in (Church and Hanks 1990). Once the atoms are determined they must be put
+together in order to reconstruct the document. The approach used in this paper is called bag of
+words, because in the representation of the document by words, it is assumed the document has no
+structure, and all we care about is the amount of times each word has been used in the document.
+The opposite to this would be the conceptual structures for example as defined by John Sowa,
+where the goal is to preserve the relationships between all words in the document.
+In particular I use a stemmed term frequency-inverse document frequency (TFIDF) representation. Stemming reduces words to their linguistic stem, so for example the words give, gave, giving
+would all be reduced to the stem give. The effect of this is to reduce the dictionary size, or the
+total number of words by ignoring the differences among similar words. Furthermore since the documents I’m working with are unmoderated reviews from Newegg, there is a lot of noise, so words
+that occur less than five times in the document collection are ignored, because they are likely typos
+or otherwise unintelligible. Term frequency is intuitive, the number of the times each word occurs
+per document is counted; inverse document frequency is a way of weighting words: for example
+knowing that a document has the word ‘the,’ is less informative than knowing that it has the word
+‘coaxial’ simply because ‘the’ is a common word, and is not good for distinguishing documents.
+
+6
+
+Before continuing it is necessary to establish some notation. The set of words used for TFIDF
+is called the dictionary; suppose the dictionary has d words. Then the TFIDF representation
+of a document will be a vector in Rd+ , the set of vectors in Rd with non-negative components:
+{(v1 , v2 , ..., vd ) ∈ Rd : vj ≥ 0}. Now suppose the collection contains n documents, and let TF(x, v)
+denote the number of times word v occurs in document x. Then the TFIDF value for each word v
+of a document x will be
+n
+.
+TF(x
+i , v)
+i=1
+
+TF(x, v) log Pn
+
+The term in the denominator simply counts how many times the term occurs in the collection.
+Thus the collection of n documents can be thought of as a non-negative matrix X ∈ Rn×d . Given
+this representation of the collection, suppose it can be factorized such that X = W H for W ∈ Rn×k
+and H ∈ Rk×d . Then thinking of W as the matrix which represents how documents are distributed
+over the k clusters, and H as the matrix where cluster centers are defined is how non-negative
+matrix factorization can solve the same clustering problem that soft k-means does.
+
+2.2
+
+Basic document clustering: k-means
+
+The clustering algorithm that is easiest to understand is called k − means, creates and refines k
+cluster centers and assigns documents to cluster centers so as to optimize some objective function.
+Simple choices for the objective function are distance of each document to the cluster centroid, or
+cosine similarity of documents to clusters or their centroids. The basic algorithm is as follows:
+1. Initialize k cluster centers. This can be done by selecting k documents to serve as centers, or
+simply vectors randomly selected from Rd .
+2. Greedily assign each document to a cluster center such that its assignment optimizes the
+objective function. If parts of a document can be assigned to more than one cluster, then the
+algorithm is called soft or sometimes fuzzy k-means.
+3. Update the k cluster centers to be the centroids of their clusters.
+4. Repeat steps 2,3 until only a certain fraction of documents are reassigned.
+The three main components of k-means and most clustering algorithms are the cluster center
+initialization, the refinement of the cluster centers, and the choice as well as optimization of the
+7
+
+objective function. To see different approaches to each of the above areas a good place to start is
+(Zhao, Karypis, and Fayyad 2005).
+
+2.3
+
+Non-negative Matrix Factorization as a clustering technique
+
+The idea that when a document collection is represented in a matrix, that factorizing that matrix
+can be used for evaluating similarity between documents and thus clustering them is not new,
+and is at least as old as Latent Semantic Analysis (LSA) (Deerwester et al. 1990). LSA computes
+the singular value decomposition of X as X ≈ U ΣV T such that U T U = V T V = I and Σ is a
+diagonal matrix that contains the singular values of X. LSA then proceeds to compute the rank
+k approximation of X, Xk by setting all but k of the largest singular values in Σ to 0. LSA
+was then refined with probabilistic LSA (Hofmann 1999) (or LSI, I for indexing when used in
+a information retrieval context), who noted that the fundamental problem with LSA was that
+it did not have a probabilistic foundation, and the factorization U ΣV T could not necessarily be
+used to reconstruct the original collection, since Xk could contain negative values. Probabilistic
+LSA operates under the assumption that documents were created by probabilistically choosing
+topics, and then again probabilistically choosing words from each topic to form documents. The
+parameters for the probability distributions are estimated using Expectation Maximization (EM)
+techniques, i.e. the goal is to find parameters for the topic and word distributions that maximize
+the expectation that the given data set was generated by the probability distribution with those
+parameters, for more detail on EM a good reference is (Bishop 2007).
+Probabilistic LSA sounds similar to non-negative matrix factorization (NMF) in the sense that
+the W matrix in NMF defines a probability distribution of documents over topics if we enforce
+the constraint that the one norm of each row of W is equal to 1, where the one norm of a vector
+P
+w is defined as ||w||1 =
+i wi . Similar constraints can be enforced on H such that its rows
+define the probability distribution of choosing words given a topic. In fact it can be shown that
+if NMF is designed to optimize a particular information theoretic objective function, then it is
+equivalent to pLSA (Ding, Li, and Peng 2006). In this paper I do not use this objective function
+though, rather I use the Frobenius error, where the Frobenius norm of a matrix X is defined as
+qP P
+2
+||X||F =
+i
+j Xi,j .
+
+8
+
+2.4
+
+Rank-one Residual Iterations as a solution for Sparse NMF
+
+In this paper the clustering algorithm used is NMF with sparsity constrains computed through the
+relatively new method of rank one residual iterations (RRI) as introduced by Ngoc-Diep Ho (Ho
+2008). The key idea behind RRI is that when the reconstruction error ||X − W H||2F is minimized
+the reconstruction error contributed by each of W ’s columns is also minimized. The reverse is not
+necessarily true, nevertheless the assumption behind RRI is that minimizing the error contributed
+by each column of W will likely minimize the full reconstruction error.
+The RRI algorithm used here is the one proposed by Ho for minimizing the reconstruction error
+with weighted sparsity
+||X − W H||2F + λ||W ||1 .
+
+(1)
+
+Equation 1 is called the objective function. A sparse matrix X is one whose zero norm ||X||0 ,
+defined as the number of non-zero entries in X, is small compared to the size of X. Notice that
+Equation 1 does not use the zero norm because despite being called a norm, the zero norm does not
+satisfy the axioms of being a norm, and it is difficult to work with; thus below RRI is refined such
+that minimizing the one norm version of Equation 1 W will also minimize the zero norm version.
+The intuition for enforcing sparsity is that it prevents overfitting, and hence NMF should create
+a better model of the process that created the collection we have at hand. This is similar to the
+idea in polynomial curve fitting, that when a high degree polynomial is fitted to data that was
+generated by a polynomial of lower degree the coefficients of the high degree polynomial will grow
+in norm, and thus enforcing a penalty on the norm of the coefficients reduces overfitting (Bishop
+2007). Also enforcing sparsity helps the summary of documents in terms of topics be easier to
+interpret, consider Figure 2.
+
+2.5
+
+The RRI Algorithm
+
+The RRI Algorithm is composed of an initialization step and refinement steps. To make the
+initialization more understandable, I present the refinement steps first.
+
+9
+
+0.4
+
+1
+
+0.3
+0.2
+
+0.5
+
+0.1
+0
+
+0
+
+5
+
+10
+
+15
+
+20
+
+25
+
+0
+
+30
+
+0
+
+5
+
+10
+
+15
+
+20
+
+25
+
+30
+
+Figure 2: Suppose the above are representations of two vectors of 30 components. The one on the
+left is dense because it is made up of small parts of multiple components, while the one on the right
+is sparse because most of its components are zero while some have large magnitude (differences in
+magnitude due to assuming the vector represents a probability distribution). If the two vectors
+represent how a document is made up of topics, then the left one is harder to understand because
+it says that document is made up of small parts of lots of topics, while the right one says the
+document is largely composed of a few topics.
+2.5.1
+
+Refinement
+
+At each iteration the column of W being optimized, wt is updated
+
+wt ←
+
+where Rt = X −
+
+T
+i6=t wi hi
+
+P
+
+[Rt ht − λ1n×1 ]+
+||ht ||22
+
+(2)
+
+is the residual that wt ought to explain, ht is the corresponding tth
+
+column of H, and [v]+ is the projection of v onto the positive orthant. As a result in Equations 1
+and 2 λ serves a parameter which zeros out increasingly larger entries of wt as its value increases.
+P
+Note that setting λ = maxi j Xij will force all entries of W to be set to 0. After optimizing each
+column of W , each column of H is optimized by a update rule similar to Equation 2 and then the
+process is repeated again until some convergence criterion is met.
+As mentioned earlier, Ho’s base algorithm is somewhat incomplete due to the use of the one
+norm as opposed to the zero norm in Equation 1. The objective function we are interested in
+minimizing is
+||X − W H||2F + λ||W ||0
+
+(3)
+
+while Ho’s algorithm attempts to minimize the function in Equation 1. The main problem this
+poses is scaling, namely W H = αW α1 H. Due to this problem RRI may decrease ||W ||1 without
+actually decreasing ||W ||0 . To eliminate this possibility the rows of H are constrained to have
+||h||1 = z, where z is a chosen parameters. This is done by solving for the optimal ht using Ho’s
+algorithm and then projecting onto the ||h||1 = z simplex using the method of (Duchi, Singer, and
+10
+
+Chandra 2008). Varying z lets one trade off between reconstruction error and sparsity of H as seen
+in Figure 3.
+
+projected
+onto (0,z)
+
+(0,z)
+(z,0)
+Figure 3: In 2 dimensions we are projecting points from the xy plane onto the 2-d simplex. A point
+in the blue region will be projected onto (0, z) or (0, z) and thus be sparsified. As z is made larger
+the amount of points that get projected onto the facet as opposed to the vertices increase and thus
+reconstruction error improves at the cost of sparsity.
+However for the purposes of this paper varying z is not a good way to trade off between
+reconstruction error and sparsity in H or W . First, since we wish each row of H to define a
+probability distribution of topics over words, then clearly z = 1 is the appropriate choice, and the
+one that is actually used for this paper. Second it is clear that by first finding the ht that minimizes
+the objective of Equation 1 and then projecting it onto the ||ht ||1 = z no longer optimizes that
+objective. To see this consider the following example: suppose
+
+f (x, y) = 1000x2 + y 2 ,
+
+which is a function from the same family of quadratic functions as our objective function, and
+z = 1. It is minimized at (x, y) = (0, 0), so this point will be projected onto (0.5, 0.5); clearly
+(x, y) = (0, 1) is a better solution; we will examine an example in our context after we develop
+the optimal solution. In practice using this approximation is not this bad because the objective
+function for ht is much more balanced across its independent variables (i.e. they have similar
+coefficient magnitudes as opposed to 1000 compared to 1), however we propose using Lagrange
+multipliers for correctly minimizing the objective for ht under the constraint that ||ht ||1 = z.
+11
+
+For this purposelet 
+us define (as Ho does in (Ho 2008)) x = RtT wt
+, and then for some permuh1 
+x1 
+tation Π, if Πx =   where x1 ≥ 0 and x2 < 0 then Πh =  . Then we can define the
+h2
+x2
+objective function for ht
+fht (ht ) = ||Rt ||2F − 2hT1 x1 + ||wt ||22 ht1 h1
+
+(4)
+
+Λ(ht , γ) = fht (h1 ) + γ(||h1 ||1 − z)
+
+(5)
+
+The Lagrangian is
+
+Note that we are constraining ||h1 ||1 = z because we will set h2 = 0 (to see why refer to Ho’s
+
+
+∂Λ ∂Λ
+thesis). Now we can take ∇Λ = ∂h
+,
+. Setting ∇Λ = 0 gives rise to the linear system
+1 ∂γ
+
+
+α 0 ... 0 1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+0 α ... 0 1 
+  h12
+
+..
+..  
+..
+..
+.
+.
+. 
+ .
+
+
+0 0 . . . α 1   h1|h1 |
+
+1 1 ... 1 0
+γ
+
+
+
+h11
+
+
+
+
+
+2x11
+
+ 
+ 
+  2x12
+ 
+ 
+..
+=
+.
+ 
+ 
+ 
+  2x1|x1 |
+ 
+z
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(6)
+
+where α = ||wt ||22 and h1i and x1i are the ith components of h1 and x1 respectively. This system can
+be solved quickly using linear programming methods. The problem is that this solution is generally
+not going to be non-negative. The non-negative solution requires using Lagrange multipliers with
+inequality constraints, which then require ‘activation coefficients’, the problem is then solved for
+all possible combinations of activation coefficients. In essence there are 2dim h solutions here that
+need to be considered unless there is a clever technique to determine which coefficients should be
+active, i.e. whether it is possible to determine based on an x which values of the optimal h would
+be set to zero. We are not sure whether this is possible, and therefore we use the simplex projection
+approximation to this problem with hopes that the worst case does not occur often.
+2.5.2
+
+Initialization
+
+Here the problem is how to initialize the matrices W and H. RRI is very sensitive to the initialization of W and H. This is for three main reasons. First, if they are initialized in a region of
+Rn×k × Rk×d where the objective function is very flat without actually being at a minimum, the
+12
+
+algorithm may terminate too soon. Second, the NMF problem is non-convex, as can be seen by the
+fact that if (W, H) is a global minimum of the objective function, then so is (QW, Q−1 H), where
+Q is any invertible matrix that does not change the 1-norms of the rows of H (e.g. a permutation
+matrix). Therefore, we expect the solution found to be sensitive to the starting conditions. Third,
+there is no reason to think that all local minima are global minima, and even if the first problem
+does not occur, the algorithm will find only local minima.
+We resolve this problem by randomly selecting 4 initializations, running RRI on each, and
+choosing the run with the lowest objective value. We have no good reason for doing 4 initializations
+rather than 5, and one possible avenue of further research might be to see how many initializations
+one must do to have a given probability that the best run is within some distance of the actual
+minimum (or of the minimum over all possible runs).
+Random initialization of the matrices is performed in 5 steps.
+1. Assign each entry of H to be zero (with probability 1 − p) or non-zero (with probability p) .
+2. Choose the value of each non-zero entry of H from the uniform distribution on [0, 1].
+3. Choose the value of each entry of W from the uniform distribution [0, 1].
+4. Find the real number α which minimizes ||X − αW H||F , and scale W and H by W =
+√
+H = αH.
+
+√
+
+αW ,
+
+5. Perform simplex projection on the rows of H.
+RRI is guaranteed to converge, in the sense of having less than a certain percentage change in
+objective value of the solution over iterations, where one iteration is an optimization of all columns
+of W and all rows of H. However RRI it is not guaranteed to converge to a global minimum since
+the problem is non-convex. In practice, it may fail to get close even to a local minimum. A matlab
+implementation of the above RRI algorithm is provided in Appendix B.
+
+13
+
+3
+
+The Cluster Evaluation Problem
+
+Like document clustering, the evaluation of clusters is an open problem. For this paper I am
+restricting evaluation methods to external evaluations. Consider an external evaluation function,
+in general this function is given a prior collection of probability distributions of documents over
+classes and a computed collection distribution (the clustering). It must then compare how similar
+these collections of distributions are. In this paper both the prior and computed distributions are
+discrete, so the family of evaluation functions are functions of the form f : Rnq+nk → R where
+n is the number of documents in our collection, and q, k are the number of classes and clusters,
+respectively. For any n, q, k this is a large family of functions, and no one function stands as the
+correct choice a priori. Fortunately if we accept the axioms of information theory, then we can take
+advantage of the many results in the field that are useful for comparing probability distributions.
+
+3.1
+
+Normalized Mutual Information
+
+The foundations for modern information theory were laid out by Claude Shannon in his 1948 paper
+“A Mathematical Theory on Communication.” (Shannon 1948) Shannon was interested in how
+much information is received when someone observes a random variable X takes on value x0 with
+probability P (X = x0 ) (I will use P (x0 ) to stand for this for sake of clarity); let this quantity be
+denoted I(x0 ). Shannon started with two axioms for what the information function I(x0 ) should
+satisfy:
+1. I(x0 ) should only depend on P (x0 ), and as P (x0 ) → 0 then I(x0 ) → ∞ monotonically,
+2. I should be additive, i.e. for two independent events x, y it holds that I(x + y) = I(x) + I(y).
+In his paper Shannon proves that the only function that satisfies these axioms is
+
+I(x0 ) = − logb (P (x0 ))
+
+(7)
+
+for some b. The entropy of a random variable X, denoted H(X) is defined as the expected information X, for a discrete random variable with s possible states this is
+
+H(X) = −
+
+s
+X
+
+P (si ) logb (P (si )).
+
+i=1
+
+14
+
+(8)
+
+Since we are interested in comparing probability distributions, we are interested in the entropy of a
+joint random variable, denoted as H(X, Y ), but first we consider the conditional entropy of random
+event Y given X as
+H(Y |X) = −
+
+X
+
+P (xi , yj ) logb (P (yj |xi ))
+
+(9)
+
+i,j
+
+Then using product and sum rules for probabilities it follows that
+
+H(X, Y ) = H(X) + H(Y |X).
+
+(10)
+
+This quantity can be seen to mean that the amount of information need to encode the states that
+X, Y take is equal to the amount need to encode X plus the amount needed to encode each state
+of Y when the state of X is known.
+The mutual information of two random variables X, Y as defined in (Bishop 2007) is
+MI(X, Y )
+
+= H(X) − H(X|Y ) = H(X) − H(Y ) − H(X, Y )
+
+(11)
+
+= H(Y ) − H(Y |X) = H(Y ) − H(X) − H(X, Y ).
+Intuitively the mutual information of two variables X, Y measures the number of units of information (typically bits are used) that one knows about the value of Y when he or she knows about the
+value of X. For reasons that will become clear later, the mutual information is normalized when
+measuring clustering quality as in (Manning, Raghavan, and Schtze 2008) such that
+
+NMI(X, Y ) =
+
+2M I(X, Y )
+.
+H(X) + H(Y )
+
+Note that if X, Y are independent then H(Y |X) = H(Y ) and
+
+NMI(X, Y ) =
+
+2(H(X) − H(X|Y ))
+= 0,
+H(X) + H(Y )
+
+NMI(X, X) =
+
+2(H(X) − H(X|X))
+= 1.
+H(X) + H(X)
+
+while H(X|X) = 0 and
+
+15
+
+(12)
+
+3.2
+
+Computing NMI in Document Clustering
+
+In document clustering we are interested in comparing how well the distribution of documents over
+classes compares to the distribution over clusters. Let C be a random variable that takes on the
+identity of each class with probability equal to the percentage of documents that are in that class;
+similarly let K be a random variable that takes on the identity of each cluster with probability
+equal to the number of documents in that cluster. While C is obtained from the prior annotations
+of the documents in the collection, the distributions in K correspond to the columns of the matrix
+W as defined in Section 2.1.
+To define NMI, we first define H(C) and where q represents the number of classes as
+
+H(C) =
+
+q
+X
+−ni
+i=1
+
+logb
+
+n
+
+ni
+n
+
+(13)
+
+and where ni is the number of documents in the ith class or cluster. Then for C, K if there are k
+clusters
+H(C|K) = −
+
+q X
+k
+X
+nr
+i
+
+i=1 r=1
+
+logb
+
+n
+
+nri
+nr
+
+(14)
+
+Where nri refers to the number of documents in the ith class and rth cluster, and nr refers to the
+number of documents in the rth cluster. By substituting Equations 13 and 14 into Equation 12, a
+formula for NMI is achieved. In (Manning, Raghavan, and Schtze 2008) NMI is defined as
+
+NMI(C, K) = Pq
+
+i=1
+
+3.3
+
+2
+
+Pk
+
+−ni
+n
+
+r=1
+
+logb
+
+nir
+i=1 n
+
+Pq
+−ni
+n
+
++
+
+nir
+nr ni
+Pk −nr
+−nr
+r=1 n logb n
+
+logb
+
+.
+
+(15)
+
+NMI as a Clustering Evaluation Measure
+
+Since the NMI measure comes from a very large family of evaluation measures, a important question
+to ask is why is this measure used. This section describes how NMI is useful when evaluating
+clustering that is used for document summarization. In particular the NMI measure poses three
+desirable qualities:
+1. NMI is founded on information theory, thus the NMI measure of a clustering solution has
+meaning,
+2. NMI is responsive to changes in the sparsity parameter λ,
+16
+
+3. NMI is responsive to changes in the number of clusters k.
+While the first point becomes significant when the summary created by the clustering algorithm is
+used for extrapolating characteristics of the document collection, the focus of this paper is on the
+second and third points.
+
+3.3.1
+
+NMI and Sparsity
+
+First we discuss the second point, that NMI is responsive to changes in the sparsity parameter λ.
+Recall that RRI NMF works by updating all k columns first of the matrix W using the update
+rule stated in Equation 2, and then it uses a similar update for the k columns of H T . This process
+is supposed to minimize the objective function (Equation 1) which is composed of the Frobenius
+reconstruction error and weighted sparsity of the W matrix. After this process is completed the
+NMI of the solution W and the original classes can be measured; in this section we show that NMI
+as affected by changes in λ.
+We begin with an example. Suppose we are using RRI NMF to factor a matrix X ∈ R5×d as
+X = W0 H, and suppose the following is the W0 we receive for a particular λ0 :
+
+
+0.43626
+
+
+ 0.34673
+
+
+W0 = 
+ 0.037394
+
+
+ 0.22373
+
+0.15669
+
+0.05223
+
+0.084398 0.075976 0.35113
+
+0.10661
+
+0.37154
+
+0.16145
+
+0.16104
+
+0.28186
+
+0.26966
+
+0.23454
+
+0.11889
+
+0.19405
+
+0.23908
+
+0.1983
+
+0.23775
+
+
+
+
+
+0.01367
+
+
+0.25005
+
+
+
+0.22878
+
+0.16818
+
+ 
+1
+ 
+ 
+3
+ 
+ 
+
+Classes = 
+3
+ 
+ 
+2
+ 
+2
+
+(16)
+
+This is a generally good solution, because looking at the mode (the boxed values) of each document’s
+distribution we can see that modes are grouped together by class. However it is a largely confusing
+solution, because for some documents the modes are not much higher than the other values, and
+as a result NMI(W0 , Classes) = 0.0623, a relatively low value. Now suppose we set λ1 = λ0 + ∆λ,
+for ∆λ = 0.05. Recall the update function in RRI NMF (Equation 2) is
+
+wt ←
+
+[Rt ht − λ1n×1 ]+
+||ht ||22
+
+17
+
+where wt and ht are the tth columns of W and H T , respectively. In our case we have
+
+wt ←
+
+[Rt ht − (λ0 + ∆λ)1n×1 ]+
+,
+||ht ||22
+
+and in this example this means that all values of W0 are decreased by ∆λ, and if any value becomes
+negative, it is set to 0. Then the rows of W0 are normalized to have one norms equal to 1, and we
+call this new solution W1 . In our example
+
+
+0.43626
+
+
+
+ 0.35154
+
+
+W1 = 
+0
+
+
+
+ 0.22373
+
+0.15669
+
+0.05223
+
+0.084398 0.075976 0.35113
+
+0.10809
+
+0.37669
+
+0.16369
+
+0.1673
+
+0.29281
+
+0.28013
+
+0.23454
+
+0.11889
+
+0.19405
+
+0.23908
+
+0.1983
+
+0.23775
+
+
+
+
+
+0 
+
+
+0.25976
+
+
+
+0.22878
+
+0.16818
+
+(17)
+
+The key thing to notice is that the modes of the rows that had values which were zeroed increased in
+magnitude, while other rows remained completely unchanged. As a result, this solution is slightly
+more correct, and in fact we have NMI(W1 , classes) = 0.0649.
+As a second example, we examine how λ affects NMI for clustering on a well behaved dataset.
+For this we use a subset of the TDT2 dataset, which is a collection of news articles on approximately
+100 different topics. The subset used is the one that contains the 30 largest topics by number of
+documents on that topic. Figure 4 summarizes the result.
+0.6
+Sample Mean
+95% Confidence Interval
+
+0.5
+
+NMI
+
+0.4
+0.3
+0.2
+0.1
+0
+ï0.1
+
+0
+
+5
+
+10
+
+15
+
+20
+
+25
+
+h (sparsity)
+
+Figure 4: TDT2. For this clustering we use k = 30, because we know apriori that there are
+30 classes, so 30 clusters should be reasonable. For each value of λ displayed 15 clusterings were
+computed, displayed are the mean NMI values of those clusterings as well as one standard deviation.
+Notice how the highest NMI values are achieved on the λ ∈ [3, 7] interval.
+
+18
+
+Finally for the dataset of Newegg reviews, NMI exhibits a similar trend as λ varies, but the trend
+is much more messy because the product reviews are written in many different writing styles, and
+unique grammars. This trend can be seen in Figure 5. Notice that the range of the λ parameter
+is much larger for this dataset than for the TDT2 dataset. This imposes the constraint on our
+solution that it shouldn’t be sensitive to scale, i.e. a solution which increments lambda by a fixed
+value until some optimal value is achieved would not be acceptable.
+0.3
+Sample Mean
+95% Confidence Interval
+
+0.25
+
+NMI
+
+0.2
+0.15
+0.1
+0.05
+0
+ï0.05
+
+0
+
+20
+
+40
+
+60
+
+80
+
+100
+
+120
+
+140
+
+Figure 5: Newegg twelve classes. For this clustering we use k = 13, because there are 12 classes, but
+as will be explained in Section 3.3.2, 13 may be better. For each value of λ displayed 15 clusterings
+were computed, displayed are the mean NMI values of those clusterings as well as one standard
+deviation. Notice how the highest NMI values are achieved on the λ ∈ [180, 280] interval.
+
+3.3.2
+
+NMI and Number of Clusters
+
+Intuitively, the number of clusters that will maximize NMI should be the number of classes from
+which documents occur, however often NMI isn’t maximized for this exact number, thus we still
+want to select the optimal number of clusters using NMI. This is not because the number of classes
+is unknown, since then we are not able to evaluate NMI as we defined it.
+To intuitively understand why a number of clusters different from the number of classes may
+yield a higher NMI score than equal numbers, we examine the Newegg dataset. There seem to
+be many reviews that inherently difficult to classify as being about a particular product, so they
+will be difficult to group with reviews that are easy to classify. The following three reviews are
+examples of the difficult to classify ones:
+• Works great. No problems. None.
+
+19
+
+• Good value. Fast. Runs at advertised speeds with no problems or errors. Cant think of one
+thing.
+• Got the item quick, has been working great since I installed it. No problems Nothing.
+While the following reviews are relatively easy to classify and would thus be put into clusters with
+similar reviews:
+• Large Capacity, Low noise, reasonably Fast none so far, 3 months in heavy use for desktop.
+(Internal Hard Drives)
+• This memory was packaged in something that seemed bulletproof, lets you know its not going
+break during shipping. Looks nice, deep blue color [...] (Memory)
+• This allows for perfect transition from DVI out to HDMI in. The cord is very long and
+durable. (Cables)
+The reason that it may be better to have a number of clusters that differs from the number of
+classes is that some of the clusters can be used to collect the reviews that are hard to classify. To
+illustrate this, suppose we had the above six reviews and a clustering solution that put each of the
+easy to classify reviews in separate clusters while the ones that were difficult to classify were evenly
+split among the existing three clusters, this would look something like
+ 
+1
+
+
+ 
+
+
+1
+0.33333 0.33333 0.33333
+ 
+
+
+ 
+
+
+ 
+
+
+0.33333 0.33333 0.33333
+2
+ Classes =   .
+W0 = 
+ 
+
+
+ 0
+
+2
+1
+0
+ 
+
+
+ 
+
+
+3
+0.33333 0.33333 0.33333
+ 
+
+
+ 
+
+
+3
+0
+0
+1
+
+
+
+
+1
+
+0
+
+0
+
+(18)
+
+In this case we have NMI(W0 , Classes) = 0.2103. Now suppose we added an extra cluster, and now
+all documents that were spread evenly among the initial three clusters are split evenly among all
+
+20
+
+four clusters, as in:
+
+
+
+
+0
+0
+0 
+ 1
+
+
+0.25 0.25 0.25 0.25
+
+
+
+
+
+
+0.25 0.25 0.25 0.25
+,
+W1 = 
+
+
+ 0
+
+1
+0
+0
+
+
+
+
+0.25 0.25 0.25 0.25
+
+
+
+
+0
+0
+1
+0
+
+(19)
+
+in this case NMI(W1 , Classes) = 0.2171, a small improvement over the previous result. In general
+as k increases RRI-NMF has the property that documents that are similar will remain in clusters
+together while documents that were different but formerly in the same cluster will be split up, as
+a result most clusters will become more pure, and thus have a better NMI. In the above example
+if the difficult documents were somehow recognized as being similar, and placed in one cluster, the
+increase in NMI would have been dramatic.
+The normalization in NMI is there to penalizing having too many clusters. Since as k → n,
+each document will have its own cluster, so a simpler cluster purity measure would be maximized
+by setting k = n. Due to the way that NMI is defined, dividing by half the sum of the entropy
+of the classes and the clusters will enforce NMI’s range to be the interval [0, 1]. Figure 6 displays
+NMI’s response to changes in k.
+
+21
+
+0.25
+mean
+1 std dev
+
+NMI
+
+0.2
+
+0.15
+
+0.1
+
+0.05
+
+0
+
+10
+
+20
+
+30
+
+40
+
+50
+k (num topics)
+
+60
+
+70
+
+80
+
+90
+
+100
+
+0.7
+mean
+1 std dev
+
+0.6
+0.5
+
+NMI
+
+0.4
+0.3
+0.2
+0.1
+0
+
+0
+
+10
+
+20
+
+30
+
+40
+
+50
+k (num topics)
+
+60
+
+70
+
+80
+
+90
+
+100
+
+Figure 6: The Newegg, and TDT datasets, respectively. Notice that as k increases, so does NMI
+initially, however after a certain value NMI begins to decrease. Our goal is to find this critical
+value.
+
+22
+
+4
+
+Using NMI to Select Optimal Sparsity and Number of Clusters
+
+Since NMI measures how well a clustering solution represents the classes that documents originally
+were from, we wish to select sparsity and number of clusters that will optimize the NMI measure,
+and thus provide the best clustering solution. The rest of this section is divided into two subsections.
+In the first subsection we show than NMI has a cubic dependence on λ. In the second subsection
+we take advantage of this dependence to develop a fast and accurate method for determining the
+λ that maximizes the NMI for a particular distribution.
+
+4.1
+
+Dependence of NMI on λ
+
+It is possible to try and compute the partial derivative of NMI with respect to λ. However this
+process is not very illuminating, and is difficult; for more see the Appendix. In this section we use
+the more expedient approach of fitting polynomials to data in order to see that NMI has a cubic
+dependence on λ.
+In order to fit a polynomial we need to determine what the interval should be, and how we
+should sample the interval. From Equation 2 we know that λmax = maxn ||X(:, n)|| and λmin = 0.
+To first see the shape of how NMI responds to change in λ we sample points equidistant from
+one another along the interval. We have already seen what the result looks like in Figure 5, and
+this shape leads to the guess that the depends of NMI upon λ can be represented well by a cubic
+function. The cubic fit to the Newegg data, as well as the TDT2 data is displayed in Figure 7.
+
+4.2
+
+Determining Sparsity and Number of Clusters
+
+Once the cubic approximation of the NMI-λ function is available, the extreme value theorem can
+be applied to infer that the optimal NMI occurs either at λ = 0 or at one of the critical points of
+the cubic. A original constraint was that the solution’s complexity should not be a function of the
+sizes of the input collections, and hence of λ. In order to achieve this the number of distinct λ at
+which the NMI is sampled needs to be low, and the particular λ need to be chosen well. A well
+known result in numerical analysis says that to optimally sample n + 1 points that will fit to a nth
+
+23
+
+0.15
+
+NMI
+
+0.1
+
+0.05
+
+Sample Mean
+95% Confidence Interval
+
+0
+
+ï0.05
+
+Cubic Fit R2=0.951
+95% Confidence Bound
+0
+
+20
+
+40
+
+60
+
+80
+
+100
+
+120
+
+140
+
+0.8
+0.7
+
+NMI
+
+0.6
+0.5
+Sample Mean
+95% Confidence Interval
+
+0.4
+0.3
+
+Cubic Fit R2=0.974
+95% Confidence Bound
+
+0.2
+0.1
+
+0
+
+1
+
+2
+
+3
+
+4
+
+5
+h (sparsity)
+
+6
+
+7
+
+8
+
+9
+
+10
+
+Figure 7: The Newegg, and TDT datasets, respectively. Notice that most of the observations about
+the NMI value at each λ fall into the 95% confidence bound to the cubic function, and that the
+cubic functions have good R2 values.
+
+24
+
+degree polynomial we should have
+
+λi =
+
+
+
+
+λmax
+2i + 1
+1 + cos
+π
+, i = 0, . . . , n.
+2
+2n + 2
+
+(20)
+
+In order to determine the number of clusters, we follow the simple principle that given a number
+of classes that documents in the collection originate from, this number is close to the number of
+clusters that will maximize NMI. Thus a algorithm to find the optimal k and λ is the following:
+1. Let k be in {k0 − m, k0 − m + 1, . . . , k0 , . . . , k0 + m}.
+2. For each k compute the optimal λ for that k, let this be λk .
+3. For each k and λk calculate the NMI n times, and suppose the 95% confidence interval around
+the maximal NMI achieved for (k, λk ) has width 2k .
+4. For k where the maximum NMI of k and λk is highest among all (k, λk ) pairs keep taking
+samples of it until the overlap between this solutions confidence intervals and the next best
+solution’s confidence interval is less than some threshold. If the k changes for which the
+maximum NMI is highest, repeat this step for that k.
+5. Finally select (k, λk ) such that the 95% confidence interval around its maximal value overlaps
+less than a threshold parameter with the second best (k, λk ) candidate.
+In theory we expect this algorithm to converge because the true standard deviation of the NMI
+for different k and λk should be the same, so as more samples are taken then changes in k will
+eventually be the same. In practice a limit is placed on the number of times step 4 is iterated,
+and a result that should be close to the true result is used. Refer to Appendix B for a matlab
+implementation of this function.
+
+25
+
+5
+
+Experiments with NMI’s Effect on Clustering
+
+In this section we examine what clustering solutions with different NMI values look like. In order
+to do this we will look at clustering solutions for both the Newegg dataset, and the TDT2 dataset.
+For the TDT2 dataset we examine a solution with the highest NMI achieved by our algorithm, and
+a solution whose NMI we know can be better. For the latter two the only difference in the solutions
+will be in the λ and k parameters.
+
+5.1
+
+TDT Dataset
+
+In Figure 8 we start by looking at the solution space that the λ, k optimizing algorithm sees for the
+TDT dataset. We compare the clustering results of a solution with NMI=0.39, and a solution with
+
+0.7
+0.6
+High Quality
+Solution:
+k=31, h=5.4,
+NMI=0.66
+
+0.5
+
+NMI
+
+0.4
+0.3
+0.2
+
+Low Quality
+Solution:
+k=27, h=0,
+NMI=0.39
+
+0.1
+0
+30
+20
+h, sparsity weight
+10
+0
+
+0
+
+5
+
+25
+20
+15
+k, number of clusters
+
+10
+
+30
+
+35
+
+Figure 8: Note that even though λ ≈ 20 was explored for all values of k ∈ {27, 28, . . . , 34}, the
+NMI at those solutions was equal to zero. The rest of the NMI=0 area is simply unexplored.
+NMI=0.62. The clusterings are presented in Figure 9.Note that these representations are screenshots of a flash application, the full applications are accessible at http://turing.bard.edu/~mt166/SP/.
+The most interesting thing about these two representations is that they look very similar, the main
+
+26
+
+difference being how individual clusters evolve over time, i.e. the heights of the bands that represent clusters vary at different rates. This is largely an effect of how this representation responds
+to changes in λ. The shown representation presents the most significant words and documents for
+each cluster, while changes in λ affect words and documents with low significance, and increases
+in lambda tend to simply make the significant words and documents more significant. A simple
+measure of the quality of a clustering is called Purity, which measures to what extent each cluster
+is composed of only documents from one class, and for a clustering Ω and class distribution C it is
+defined as
+purity(Ω, C) =
+
+q
+1 X
+1 X
+max nir
+max |ωk ∩ cj |. =
+r
+j
+N
+N
+
+(21)
+
+i=1
+
+k
+
+For the solution with NMI=0.62 the purity is 0.62, while the purity of the NMI=0.39 solution is
+0.42. We expect there to be a correlation between NMI and Purity because both have the nir factor.
+However as will become apparent when examining the Newegg dataset, the max function that is
+part of purity complicates this relationship slightly.
+
+5.2
+
+Newegg Dataset
+
+Once again to begin, we consider a picture of the solution space that the λ, k optimizing algorithm
+sees in Figure 10. Figure 11 displays what the clustering solutions look like for the low quality, high
+quality on the Newegg dataset. The first thing that stands out is that neither the NMI=0.08, nor
+the NMI=0.23 solutions seem to be good. Both solutions use words such as ‘1080p’ or ‘drive’ to
+define multiple topics, whereas to a human expert it is clear that if the clustering should reflect the
+original class structure, which has individual classes for monitors and hard drives, then these words
+should be used to define unique clusters. In a good solution clusters would be uniquely defined in
+terms of keywords, and it should be clear what the cluster to class relationship is.
+What is peculiar about these clustering solutions is that the solution with lower NMI has higher
+purity. In particular the NMI=0.08 solution has purity=0.38 while the NMI=0.23 solution has a
+purity=0.33. Generally this is possible because even though both purity and NMI contain factors of
+nir , the NMI is dependent on other factors as well, so that even when a solution’s purity is lowered,
+some of the other factors of NMI may be increased by a larger amount.
+
+27
+
+Figure 9: TDT2 dataset clustering solution with NMI=0.39, λ = 0, k = 27. The bands of different
+color represent clusters, and the height of each band at a particular date represents how many
+documents from that date were determined as belonging to that particular cluster. The words that
+appear in the bands are the keywords that describe clusters, and the magnitude of the words varies
+with how important they were for describing documents from that cluster at a certain time.
+
+28
+
+Figure 9: TDT2 dataset clustering solution with NMI=0.62, λ = 5.4, k = 31.
+
+29
+
+Figure 10: Note that for different values of k, slightly different values of λ are explored, and that
+change in λ has a large effect on change in NMI than does change in k. The second effect is simply
+due to the fact that the complete range of λ values is displayed, while only a small range of k values
+is displayed, and this is because k values for away from the number of classes do not yield solutions
+with high NMI.
+
+30
+
+Figure 11: Newegg 12 reviews dataset with NMI=0.08, λ = 0, k = 9.
+
+31
+
+Figure 11: Newegg 12 reviews dataset with NMI=0.23, λ = 87, k = 15.
+
+32
+
+5.3
+
+Conclusion and Directions for Further Work
+
+The most important result of this work is that NMI is a good measure of quality of a clustering
+solution. The Newegg clusterings that had low NMI compared to the TDT2 clusterings intuitively
+appear to be worse clusterings. To further emphasize this point, we consider a clustering of Newegg
+data where the W matrix was constructed by simply setting each document to the class it belongs
+in, and then using RRI to find the appropriate H matrix; such a clustering has NMI=1 and is
+presented in Figure 12. This solution has a much higher NMI value than the solutions presented
+
+Figure 12: Newegg 12 reviews dataset with NMI=1, λ =?, k = 12.
+in Figure 11, and is intuitively much better: each cluster has a clear set of defining words, and it
+is clear how each cluster corresponds to each of the original product categories.
+From this result two important questions remain as directions for future work. First, both the
+Newegg and TDT2 datasets were approximately the same size, i.e. approximately ten thousand
+documents and a dictionary less than ten thousand words large, however it was possible to achieve
+much higher NMI solutions for the TDT2 dataset than it is for the Newegg dataset. Furthermore
+
+33
+
+selecting optimal (λ, k) had a larger effect on the TDT2 clusterings than it did on the Newegg
+clusterings. These facts point that perhaps there is another important parameter, or more likely
+a set of parameters, that determine how RRI works, and as a result affect the NMI of different
+clustering solutions. Further work can be done in a similar fashion as this project was done to
+determine how NMI is affected by for example smoothness of the W, H matrices, or more generally
+on what kinds of results a particular non-negative matrix factorization technique is able to achieve.
+
+34
+
+A
+
+Derivative of NMI with respect to λ
+
+Here we consider the difficulties of determining a formal dependence of NMI on λ. To do this we
+rephrase Equation 15 in terms the output of our clustering algorithm. Let W (m, n) denote the nth
+element in the mth row of a clustering solution matrix W ∈ Rn×k . Let W (:, n) denote the nth
+column, and W (m, :) denote the mth row of W . Let Ii be an indicator vector such that Ii (m) = 1
+if the mth document is classified as belonging to the ith class and 0 otherwise. Then Equation 15
+can be rewritten as
+||W (:,r)T Ii ||1
+||W (:,r)T Ii ||1
+logb ||W
+i=1
+n
+(:,r)||1 ||Ii ||1
+Pq −||Ii ||1
+Pk −||W(:,r)||1
+−||Ii ||1
+1
+logb n + r=1
+logb −||W(:,r)||
+i=1
+n
+n
+n
+
+2
+
+NMI(W, I) =
+
+Pk
+
+r=1
+
+Pq
+
+.
+
+(22)
+
+Formally we have
+∂NMI
+∂NMI ∂W
+∂NMI ∂I
+=
++
+,
+∂λ
+∂W ∂λ
+∂I ∂λ
+but since
+
+∂I
+∂λ
+
+(23)
+
+= 0, the second term disappears. To bring the expression closer to RRI NMI, we note
+
+that
+k
+
+X ∂NMI
+∂W
+∂||W (:, r)||1
+∂NMI ∂W
+=
+∂W ∂λ
+∂W ∂||W (:, r)||1
+∂λ
+
+(24)
+
+r=1
+
+From Equation 22 it is apparent that the first two factors of the derivative will not contain λ, and
+since we are interested in the dependence of λ we simply let these terms be some functions so that
+k
+X
+∂NMI
+r=1
+
+k
+
+∂W
+∂||W (:, r)||1 X
+∂||W (:, r)||1
+=
+f1 (W )f2 (||W (:, r)||1 )
+∂W ∂||W (:, r)||1
+∂λ
+∂λ
+
+(25)
+
+r=1
+
+From Equation 2 for a particular r = t
+
+||W (:, r)||1 =
+
+n
+X
+Rt (i, :)H(:, r) − λ
+i=1
+
+where Rt = X −
+
+Pk
+
+T
+i6=t W (:, i)H(:, i)
+
+(26)
+
+||H(:, r)||22
+
+is defined as in Section 2.5.1. It is difficult to take the partial
+
+derivative because
+||H(:, r)||1 =
+
+n
+X
+Rt (i, :)T W (:, r) − λ
+
+||W (:, r)||22
+
+i=1
+
+35
+
+,
+
+(27)
+
+so that the relationship of W and λ seems obscured. Rather than attempting to continue, a
+statistical approach is more expedient for capturing the relationship between N M I and λ.
+
+36
+
+B
+
+1
+2
+3
+
+Matlab code for λ, k finding algorithm and for RRI
+
+function [ nmis, lambdas, epsilons, Ps] = optLambdaKInterpol( X,classes,k init )
+%optLambdaKInterpol Uses polynomial sampling to find optimal lambda and k
+%
+See section 4.2
+
+4
+5
+
+poly deg
+
+=3; %the polynomial degree we use for interpolation, 3 for cubic
+
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+
+k range
+if k init
+kmin
+kmax
+else
+kmin
+kmax
+end
+minlambda
+maxlambda
+
+≥
+
+=4; %the m of step 1. of Section 4.2
+2+k range
+=k init−k range+1;
+=k init+k range;
+=2;
+=k init+k range;
+=0;
+=max(sum(X));
+
+17
+18
+19
+20
+21
+22
+
+23
+24
+
+K
+=kmin:kmax;
+nmis
+= cell(kmax,1); %we store the results of nmis for
+epsilons
+= cell(kmax,1); %the confidence interval width
+lambdas
+= cell(kmax,1);
+alpha
+=0.05;
+%the confidence of the intervals we use to compare ...
+different lambda k will be 1−alpha
+confidence overlap = 0.50;
+conf
+= @(x) ...
+tinv(1−alpha/2,max(size(x,1),size(x,2))−1)* sdev to max(x)/sqrt(max(size(x,1),size(x,2)));
+
+25
+26
+27
+28
+29
+30
+
+numRuns
+b
+a
+cheb
+L
+
+=2;
+=maxlambda;
+=minlambda;
+= @(i) (b+a)/2 +(b−a)*cos((2*i+1)*pi/(2*poly deg+2))/2;
+= cheb(0:poly deg);
+
+31
+32
+33
+34
+35
+
+36
+37
+38
+39
+
+40
+41
+42
+43
+44
+45
+46
+
+47
+48
+49
+
+for k=K
+%sample the chebyshev lambdas numRun number of times for each k
+nmi=zeros(size(L,2),numRuns);
+for run=1:10 %gather 10 points for the polynomial fitting for each of the ...
+chebyshev lambdas
+for l=L
+[Winit,Hinit]=spinitialize nmf(X,k,l);
+[W,¬,¬,¬,¬]=rri(X, Winit, Hinit, l, 1);
+W = (spdiags (sum (abs(W),2), 0, size(X,1), size(X,1)) \ W); %column ...
+normalize W
+nmi(find(L==l),run)=NMI(W,classes);
+end
+end
+[Ps{k},S]=polyfit(L,max(nmi'),3); %fit a polynomial to the samples
+der = polyder(Ps{k});
+crit=roots(der);
+lambda candidates=sort([0;crit(find(crit>0))])'; %0 and the positive critical ...
+points of the polynomial
+nmis{k}=zeros(numRuns,size(lambda candidates,2));
+for run=1:numRuns
+for l=lambda candidates
+
+37
+
+[Winit,Hinit]=spinitialize nmf(X,k,l);
+[W,¬,¬,¬,¬]=rri(X, Winit, Hinit, l, 1);
+W = (spdiags (sum (abs(W),2), 0, size(X,1), size(X,1)) \ W); %column ...
+normalize W
+nmis{k}(run,find(lambda candidates==l))=NMI(W,classes);
+
+50
+51
+52
+
+53
+
+end
+end
+lambdas{k}=lambda candidates;
+epsilons{k}=conf(nmis{k});
+
+54
+55
+56
+57
+58
+
+end
+
+59
+60
+61
+62
+63
+64
+65
+66
+67
+68
+69
+70
+71
+72
+73
+74
+
+terminate = 0;
+while ¬terminate
+maxs=cellfun(@max,nmis','UniformOutput',false);
+min epsilon k=−1;
+max mean k=−1;
+max mean=0;
+min epsilon=1;
+for k=K
+epsilons{k}=conf(nmis{k});
+max this k = max(maxs{k});
+if max this k > max mean
+max mean k=k;
+max mean=max this k;
+end
+end
+
+75
+76
+77
+
+78
+79
+80
+81
+82
+83
+84
+85
+86
+87
+
+88
+
+89
+90
+91
+92
+93
+94
+95
+
+absolute overlap=0;
+conf min=max mean−epsilons{max mean k}(find(maxs{max mean k}==max mean)); %the ...
+min & max confidence bounds for the best solution
+conf max=max mean+epsilons{max mean k}(find(maxs{max mean k}==max mean));
+for k=K
+for m=maxs{k}
+overlap m=0;
+if m 6= max mean
+if m < conf min
+overlap m = max(0,m+epsilons{k}(find(maxs{k}==m))−conf min);
+end
+if m > conf min
+overlap m = min(m−conf min,epsilons{k}(find(maxs{k}==m)))+ ... ...
+%bottom part
+min(conf max−m,epsilons{k}(find(maxs{k}==m))); ...
+%top part
+end
+end
+if overlap m > absolute overlap
+absolute overlap=overlap m;
+end
+end
+end
+
+96
+97
+98
+99
+100
+
+101
+102
+
+% if the highest mean has also the smallest confidence interval, we are
+% done
+ratio=absolute overlap/(conf max−conf min);
+fprintf(1,'max mean=%f k=%d absolute overlap=%f 2e=%f ...
+ratio=%f\n',max mean,max mean k,absolute overlap,(conf max−conf min),ratio);
+if ratio ≤ confidence overlap;
+terminate=1;
+
+38
+
+fprintf(1,'terminating with k=%d lambda=%f numruns ...
+done=%d\n',max mean k,lambdas{k}(find(max(nmis{k})==max mean)),numRuns);
+else
+fprintf(1,'doing another run\n');
+numRuns=numRuns+1;
+parfor k=kmin:kmax
+for l=lambdas{k}
+[Winit,Hinit]=spinitialize nmf(X,k,l);
+[W,¬,¬,¬,¬]=rri(X, Winit, Hinit, l, 1);
+W = (spdiags (sum (abs(W),2), 0, size(X,1), size(X,1)) \ W); ...
+%column normalize W
+nmis{k}(numRuns,find(lambdas{k}==l))=NMI(W,classes);
+%fprintf(1,'\t[%d][l=%f] nmi=%f]\n',run,l,nmi res);
+end
+epsilons{k}=conf(nmis{k});
+end
+
+103
+
+104
+105
+106
+107
+108
+109
+110
+111
+
+112
+113
+114
+115
+116
+117
+
+end
+
+118
+119
+120
+
+end
+end
+
+39
+
+1
+
+2
+
+3
+4
+
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+
+18
+19
+20
+
+function [W,H,fro,wOneNorm,obj] = rri(V, W, H, ...
+lambda,z,tol,timelimit,maxiter,epsilon, fixWH, constraints )
+%% [W,H,fro,wOneNorm,obj] = rri(V, W, H, lambda,tol,timelimit,maxiter,epsilon, ...
+fixWH, constraints,z )
+% Rank−one residue iterations for NMFs to solve
+%
+argmin {W ≥0, H ≥0} 0.5 * | | V − W H | | ˆ 2 + epsilon * ( | | W | | ˆ 2 + | | H | | ˆ 2 )
++ ...
+lambda * | | W | | 0/N
+%
+% V: n x d data matrix (documents−words for example)
+% W : n x k initial document−topic matrix
+% H : k x d initial topic−word matrix
+% tol : convergence tolerance
+% timelimit : return a solution within these many seconds
+% maxiter : maximum number of iterations
+% epsilon : regularization parameter
+%
+% fixWH=[1 0] fixes W and only learns H
+% fixWH=[0 1] fixes H and only learns W
+%
+% Defaults are ...
+tol=0.001,timelimit=50,maxiter=100,epsilon=1e−12,fix[WH]=[0,0],lambda=0,constraints='simplex'.
+%
+% Author: Vikas Sindhwani (vsindhw@us.ibm.com)
+% 2010
+
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+
+warnMe=0;
+if nargin<11
+constraints='simplex';
+if nargin<10
+fixWH=[0 0];
+if nargin<9
+epsilon=1e−12;
+if nargin<8
+maxiter=100;
+if nargin<7
+timelimit=50;
+if nargin<6
+tol=0.001;
+if nargin<5
+z=1;
+if nargin<4
+lambda=0;
+end
+end
+end
+end
+end
+end
+end
+end
+
+47
+48
+49
+50
+51
+
+if ¬strcmp(constraints,'simplex') && ¬strcmp(constraints,'nnl2')
+disp('No constraint on H selected − expect problems')
+end
+
+52
+53
+54
+
+[N,D]=size(V);
+K=size(H,1);
+
+55
+
+40
+
+56
+
+lambdaOverN=lambda/N;
+
+57
+58
+59
+
+obj=Inf;
+start=cputime;
+
+60
+61
+
+normV = norm(V,'fro')ˆ2;
+
+62
+63
+
+∆=0;
+
+64
+65
+66
+
+iter=0;
+terminate = 0;
+
+67
+68
+69
+
+% work with H' for efficiency
+H = H';
+
+70
+71
+
+while ¬terminate
+
+72
+73
+74
+75
+76
+
+if iter>maxiter
+terminate=1;
+continue;
+end
+
+77
+78
+79
+
+if fixWH(1)==0
+
+80
+81
+82
+83
+84
+85
+
+obj2 =0.0;
+obj3a=0.0;
+obj3b=0.0;
+obj4 = 0.0;
+obj5 = 0.0;
+
+86
+87
+88
+
+for r = 1:K
+
+89
+90
+91
+92
+
+% what we are optimizing in this round
+%h = H(r,:)';
+h = H(:,r);
+
+93
+94
+95
+
+%Hh = H*h;
+Hh = H'*h;
+
+96
+97
+
+Hh(r)=0;
+
+98
+99
+
+Vh = V*h;
+
+100
+101
+102
+
+Rh = max(Vh − W*Hh − lambdaOverN,∆);
+
+103
+104
+
+norm h2 = h'*h;
+
+105
+106
+107
+108
+109
+110
+
+if norm h2>0
+w = Rh/norm h2;
+else
+w = zeros(length(Rh),1);
+end
+
+111
+112
+
+W(:,r) = w;
+
+113
+114
+
+41
+
+115
+
+wW = w'*W;
+
+116
+117
+
+obj2 = obj2 + w'*Vh;
+%obj3a = obj3a + w'*W(:,1:r−1)*Hh(1:r−1);
+obj3a = obj3a + wW(1:r−1)*Hh(1:r−1);
+obj3b = obj3b + (h'*h)*(w'*w);
+obj4 = obj4 + (h'*h) + (w'*w);
+sumw = sum(w);
+obj5 = obj5 + sumw;
+
+118
+119
+120
+121
+122
+123
+124
+
+end
+
+125
+126
+127
+
+end
+
+128
+129
+130
+
+% update in order to alter lambda in the next step
+%nonnegavg = obj5/sum(sum(W==0));
+
+131
+132
+
+%%%%%%%%%%%%%%%%% CONVERGENCE CHECK %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+133
+134
+
+prev obj=obj;
+
+135
+136
+
+%obj original = normV − 2*trace(H*V'*W) + trace((H*H')*(W'*W)) + ...
+epsilon*(norm(W,'fro')ˆ2 + norm(H,'fro')ˆ2);
+
+137
+138
+
+if (fixWH(1)==1) && iter==0
+
+139
+
+obj = normV − 2*trace(H'*V'*W) + trace((H'*H)*(W'*W)) + ...
+epsilon*(norm(W,'fro')ˆ2 + norm(H,'fro')ˆ2) + lambdaOverN*sum(sum(W));
+
+140
+
+141
+142
+
+else
+
+143
+
+obj = normV − 2*obj2 + (2*obj3a +obj3b) + epsilon*obj4 + lambdaOverN*obj5; ...
+% last term uses definition of trace + symmetry
+
+144
+
+145
+146
+
+end
+
+147
+148
+149
+150
+
+iter=iter + 1;
+elapsed=cputime−start;
+if prev obj<obj && warnMe
+
+151
+
+fprintf('obj function increased − Something is wring.\n Information on ...
+this run stored in Problem.mat\n');
+probX = V;
+probWinit=W;
+probHinit=H';
+probLam=lambda;
+save('Problem', 'probX','probWinit','probHinit','probLam');
+
+152
+
+153
+154
+155
+156
+157
+158
+
+end
+
+159
+160
+161
+162
+
+if abs(prev obj−obj)<prev obj*tol | | (elapsed>timelimit)
+terminate=1;
+end
+
+163
+164
+165
+
+%%%%%%%%%%%%%%%%%%%%%%%%%% CONVERGENCE CHECK END %%%%%%%%%%%%%%%%%%%%%%%%%% ...
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+166
+167
+
+if fixWH(2)==0
+
+168
+
+42
+
+obj2=0.0;
+obj3a=0.0;
+obj3b=0.0;
+obj4 = 0.0;
+obj5 = 0.0;
+for r=1:K
+
+169
+170
+171
+172
+173
+174
+175
+
+% update equations for h
+w = W(:,r);
+Ww = W'*w;
+Ww(r)=0;
+Vw = V'*w;
+
+176
+177
+178
+179
+180
+181
+
+norm w2 = w'*w;
+
+182
+183
+
+if norm w2>0
+q = (Vw − H*Ww)/(w'*w);
+else
+q = zeros(length(Vw),1);
+end
+
+184
+185
+186
+187
+188
+189
+190
+
+switch constraints
+case 'nnl2'
+q plus = max(q,∆);
+h = q plus/max(sqrt(q plus'* q plus),1);
+case 'simplex'
+h = simplex projection(q,z);
+otherwise
+h=q;
+end
+
+191
+192
+193
+194
+195
+196
+197
+198
+199
+200
+201
+202
+
+H(:,r) = h;
+
+203
+204
+
+Hh = H'*h;
+
+205
+206
+
+obj2 = obj2 + h'*Vw;
+%obj3a = obj3a + h'*H(1:r−1,:)'*Ww(1:r−1); % using the fact that ...
+(H*H') is symmetric.
+obj3a = obj3a + Hh(1:r−1)'*Ww(1:r−1);
+obj3b = obj3b + (h'*h)*(w'*w);
+obj4 = obj4 + (h'*h) + (w'*w);
+obj5 = obj5 + sum(w);
+
+207
+208
+
+209
+210
+211
+212
+
+end
+
+213
+214
+
+end
+fro = normV − 2*obj2 + (2*obj3a +obj3b);
+
+215
+216
+217
+
+end
+
+218
+219
+220
+
+H = H';
+wOneNorm = sum(sum(W));
+
+43
+
+References
+[1]
+
+Christopher M. Bishop. Pattern Recognition and Machine Learning (Information Science
+and Statistics). 1st ed. 2006. Corr. 2nd printing. Springer, Oct. 2007. isbn: 0387310738. url:
+http://www.amazon.com/exec/obidos/redirect?tag=citeulike07- 20\&path=ASIN/
+0387310738.
+
+[2]
+
+David M. Blei et al. “Latent dirichlet allocation”. In: Journal of Machine Learning Research
+3 (2003), p. 2003.
+
+[3]
+
+Kenneth Ward Church and Patrick Hanks. “Word association norms, mutual information,
+and lexicography”. In: Comput. Linguist. 16 (1 1990), pp. 22–29. issn: 0891-2017. url: http:
+//portal.acm.org/citation.cfm?id=89086.89095.
+
+[4]
+
+Marc Damashek. “Gauging Similarity with n-Grams: Language-Independent Categorization
+of Text”. In: Science 267.5199 (1995), pp. 843–848. doi: 10.1126/science.267.5199.843.
+eprint: http : / / www . sciencemag . org / content / 267 / 5199 / 843 . full . pdf. url: http :
+//www.sciencemag.org/content/267/5199/843.abstract.
+
+[5]
+
+Scott Deerwester et al. “Indexing by latent semantic analysis”. In: JOURNAL OF THE
+AMERICAN SOCIETY FOR INFORMATION SCIENCE 41.6 (1990), pp. 391–407.
+
+[6]
+
+Chris Ding, Tao Li, and Wei Peng. “NMF and PLSI: equivalence and a hybrid algorithm”.
+In: Proceedings of the 29th annual international ACM SIGIR conference on Research and
+development in information retrieval. SIGIR ’06. Seattle, Washington, USA: ACM, 2006,
+pp. 641–642. isbn: 1-59593-369-7. doi: http://doi.acm.org/10.1145/1148170.1148295.
+url: http://doi.acm.org/10.1145/1148170.1148295.
+
+[7]
+
+John Duchi, Yoram Singer, and Tushar Chandra. Efficient Projections onto the 1-Ball for
+Learning in High Dimensions. 2008.
+
+[8]
+
+Ngoc-Diep Ho. “Nonnegative Matrix Factorizations Algorithms and Applications”. PhD thesis. Boston, MA, USA: Académie universitaire Louvain, 2008.
+
+[9]
+
+Thomas Hofmann. “Probabilistic Latent Semantic Indexing”. In: SIGIR. 1999, pp. 50–57.
+
+[10]
+
+Daniel D. Lee and H. Sebastian Seung. “Algorithms for Non-negative Matrix Factorization”.
+In: In NIPS. MIT Press, 2001, pp. 556–562.
+
+[11]
+
+Christopher D. Manning, Prabhakar Raghavan, and Hinrich Schtze. Introduction to Information Retrieval. New York, NY, USA: Cambridge University Press, 2008. isbn: 0521865719,
+9780521865715.
+
+[12]
+
+Andrew Y. Ng, Michael I. Jordan, and Yair Weiss. “On Spectral Clustering: Analysis and
+an algorithm”. In: ADVANCES IN NEURAL INFORMATION PROCESSING SYSTEMS.
+MIT Press, 2001, pp. 849–856.
+
+[13]
+
+William M. Rand. “Objective Criteria for the Evaluation of Clustering Methods”. English. In:
+Journal of the American Statistical Association 66.336 (1971), pp. 846–850. issn: 01621459.
+url: http://www.jstor.org/stable/2284239.
+
+[14]
+
+M. Rosell, V. Kann, and J. E. Litton. “Comparing comparisons: Document clustering evaluation using two manual classifications”. In: International Conference on Natural Language
+Processing, Allied Publishers Private Limited, pp. Citeseer. 2004, pp. 207–216.
+
+[15]
+
+C. E. Shannon. “A Mathematical Theory of Communication”. In: Bell Sys. Tech. J. 27 (1948),
+pp. 379–423, 623–656.
+
+44
+
+[16]
+
+Ying Zhao, George Karypis, and Usama Fayyad. “Hierarchical Clustering Algorithms for
+Document Datasets”. In: Data Mining and Knowledge Discovery 10 (2 2005). 10.1007/s10618005-0361-3, pp. 141–168. issn: 1384-5810. url: http://dx.doi.org/10.1007/s10618-0050361-3.
+
+45
+
+

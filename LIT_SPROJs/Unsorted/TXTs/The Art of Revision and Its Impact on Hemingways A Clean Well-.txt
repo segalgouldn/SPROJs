@@ -1,0 +1,2571 @@
+Bard College
+
+Bard Digital Commons
+Senior Projects Spring 2016
+
+Bard Undergraduate Senior Projects
+
+2016
+
+The Art of Revision and Its Impact on
+Hemingway's "A Clean, Well-Lighted Place"
+Evan Nicole Brown
+Bard College
+
+Recommended Citation
+Brown, Evan Nicole, "The Art of Revision and Its Impact on Hemingway's "A Clean, Well-Lighted Place"" (2016). Senior Projects Spring
+2016. Paper 102.
+http://digitalcommons.bard.edu/senproj_s2016/102
+
+This On-Campus only is brought to you for free and open access by the
+Bard Undergraduate Senior Projects at Bard Digital Commons. It has been
+accepted for inclusion in Senior Projects Spring 2016 by an authorized
+administrator of Bard Digital Commons. For more information, please
+contact digitalcommons@bard.edu.
+
+The Art of Revision and Its Impact on Hemingway’s “A Clean, Well-Lighted Place”
+
+Senior Project Submitted to
+The Division of Languages and Literature
+of Bard College
+
+by
+Evan Nicole Brown
+
+Annandale-on-Hudson, New York
+May 2016
+
+to my grandfathers
+
+Troy Brown, Jr. and George W. Haley
+
+TABLE OF CONTENTS
+
+I.
+
+Introduction………………………………………………………………………….….page 1
+
+II. Chapter One: Contrast…………………………………………………………………page 12
+
+III. Chapter Two: The Presence of Omission………………………………………………page 39
+
+IV. Chapter Three: A Something Called Nothing………………………………………….page 65
+
+V. Conclusion…………………………………………………………..…………………page 80
+
+MANUSCRIPT KEY
+
+STRIKETHROUGH: indicates a section that has been deleted from the text.
+
+(PARENTHESES): indicate a section that has been inserted into the text.
+
+*UNINTELLIGIBLE DELETION*: indicates a deletion that has been darkened out too
+heavily to read.
+
+1
+
+INTRODUCTION
+
+In the English language, the prefix re- is used to indicate the verb it precedes happening
+again. In the case of Ernest Hemingway, re- more fittingly means again and again--and perhaps
+again once more. Born in 1899 in Oak Park, Illinois, Hemingway got his start as a journalist for
+the Kansas City Star. Through this training, Hemingway’s appreciation for revision was born.
+The author recounted in a 1958 interview: “ ‘On the Star, you were forced to write a simple
+declarative sentence.’ ”1 The Star’s stylesheet also instructed that the journalists “avoid the use of
+adjectives”2 and to “eliminate every superfluous word.” 3 To achieve either of these things a
+relationship with revision is useful, since the process encourages the use of editorial tools like
+omission and deletion. The child of two Latin roots, to revise is to “look at again,” the
+aforementioned re- meaning “again” and visere being the intensive infinitive form of the verb
+vido, videre, visi, visus which means, unsurprisingly, “to look at.”4 From vido we also get video,
+vision, visibility, visionary, and more. Fitting then that Hemingway, notorious for his rewrites
+and revisions, should write a short story concerned with the seen and the unseen—or, more
+broadly, the simultaneous presence and absence of things.
+“A Clean, Well-Lighted Place” was first published in the March 1933 issue of Scribner’s
+Magazine and was later published in Ernest Hemingway’s collection of short stories entitled  
+Scott Donaldson, ed., The Cambridge Companion to Ernest Hemingway (Cambridge: Cambridge UP,
+1996), 19.
+1
+
+2
+
+Donaldson, The Cambridge Companion to Ernest Hemingway, 19.
+
+3
+
+Donaldson, The Cambridge Companion to Ernest Hemingway, 19.
+
+“Online Etymology Dictionary: revise,” last modified 2016, http://www.etymonline.com/index.php?
+term=revise&allowed_in_frame=0
+4
+
+2
+Winner Take Nothing in October of the same year. Maxwell Perkins, Hemingway’s longtime
+editor, wrote when corresponding with the author about the publication of the collection: “I
+really think that one of the best of all the stories is ‘A Clean, Well-Lighted Place.’ ”5 I chose to
+focus on this story in part because I was intrigued by the fact that it was published on two
+different occasions, only eight months apart. Further, I was interested in the difference between a
+magazine audience and a book one, and was surprised to learn that none of the revisions made to
+the story happened in light of this switch in publication platform. Instead, they all happened
+within the story’s original manuscript, Hemingway’s first and only draft of “A Clean, WellLighted Place,” which appears to have been written in a single sitting.
+In an effort to better understand the multi-phase writing and editing processes a text
+undergoes pre-publication, I visited the Ernest Hemingway Collection archive held in the John F.
+Kennedy Presidential Library in Boston, Massachusetts. Here, I was able to sift through boxes of
+correspondence, personal papers, and handwritten manuscripts. The emphasis the archivists
+placed on the structure and arrangement of each box mirrored the importance of form and syntax
+in fiction, since they both value their content and the presentation of it equally. This parallelism
+made my appreciation for the literary tradition even greater. As I looked through the manuscript
+of “A Clean, Well-Lighted Place,” I realized I was doing more than reading…I was seeing. I
+became intrigued by the relationship between the visual currency of words and their meaning—
+the unseen power. Language began to operate on both the aesthetic and semantic level for me;
+Hemingway’s handiwork and my own becoming a joint narrative with each note I took, his
+thematic concerns becoming vehicles through which to express my own. Time was  
+Matthew J. Bruccoli, ed., The Only Thing That Counts: The Ernest Hemingway/Maxwell Perkins
+Correspondence 1925-1947 (Columbia: University of South Carolina Press, 1996), 195.
+5
+
+3
+compressed, too; I transcribed his graphite script into neat font on my laptop, and between us a
+story—this story—started being written, making the space between the years 1933 and 2015 feel
+not so vast.
+The manuscript for “A Clean, Well-Lighted Place” became a conversation not only
+between writer and reader, but revealed the one that takes place between writing and revision
+too. In both cases, the latter looks upon the former, and uses that eye contact to both gain and
+establish greater understanding. Upon returning each box to its proper place in the archive, I was
+struck by the fact that “A Clean, Well-Lighted Place” had, in a sense, become unwritten as I
+analyzed it in reverse. I was peeling back layers of craftsmanship by reading from publication to
+inception, and was effectively looking backward in time; all in an attempt to discover how an
+idea or a feeling—what I believe to be the essence of storytelling—becomes literature, and how
+that literature gets reworked to become the idealized version of itself. Revision as an essential
+step in a text’s maturation grew to have a dual meaning for me. Most immediately, it is an
+exercise in precision. But upon reflection, it is a testament to the flexibility of the written word.
+With each reader a text becomes revised, as different perspectives inevitably understand the
+words on a page in varied ways. So even when a story is printed and bound, perhaps it is never
+truly complete. Through my study of a text in-progress (during a period of growth), literature
+came alive. It struck me that by turning a story’s pages we animate it, and when we read it from
+our individual perspective, it is reborn. Thus, if we are to accept this personification of literature,
+it can never die.
+As I read the manuscript version of “A Clean, Well-Lighted Place,” Hemingway’s
+revisions served as indications of how many passes-through the story received from his editorial
+
+4
+eye. Judging from the thickness and preciseness of his pencil lead, multiple revision phases
+began to take shape. When a revision made to the text seemed to have happened almost
+immediately after being written, the author’s handwriting was sharp and narrow. When his pencil
+strokes became more feathered and a lighter shade of grey, indicating that his writing utensil had
+become dull, the revisions appeared to be afterthoughts—revisits to the text after Hemingway
+had written beyond where the edits finally came. At some point during the process Hemingway
+seemed to have resharpened his pencil though, because some additions to the text are written in
+his neater, more narrow print even though they come toward the end of the story, which suggests
+that a next round of edits occurred. This visual analysis of Hemingway’s manual artistry inspired
+me to explore the relationship between fine art and literature.
+Though the manuscript does begin with one false start, once Hemingway started writing
+it for the second time he did not seem to stop, as his handwriting got bigger and more impatient
+as the story progressed. This made “A Clean, Well-Lighted Place” a compelling story to study, as
+both his writing and revision process seemed to coexist in one sitting. There is merit to editing a
+piece of writing after having a degree of distance from it, but because of my interest in the
+author’s double consciousness (a term I have borrowed from W.E.B. DuBois, and humbly
+reappropriated) I felt that studying this immediate switch to revision after writing was ideal.
+What I mean by “author’s double consciousness” is that there is a necessary toggling an author
+has to do between being writer and editor, which presents an internal conflict because the author
+is constantly tasked with viewing his or her own text through the eyes of the reader. As  
+
+5
+John Bryant argues in his book The Fluid Text: A Theory of Revision and Editing for Book and
+Screen: “two people sit at the writing desk: the writer writing and the writer reading. Writers are
+their own first readers.” 6 Ernest Hemingway as author also becomes his own audience; the
+process of revision demands that the writer go beyond the mere consideration of the reader and
+begin to operate as one.“A second reader emerges as a writer begins to revise. There is above all
+the writer as self-editor, who plays with language to get words to convey thoughts, memories,
+and images more effectively; and there is the censoring self-editor, reflecting an internalized
+sense of decorum, politics, marketplace, and larger audience concerns. There is the proof-reading
+self-editor, who usually in some finalizing stage not only corrects but suddenly remembers more
+and adds more.”7 A study of literature post-publication relegates these three editorial roles to the
+obscurity of a story’s draft phases alone, but through studying a manuscript the writing and
+revision processes responsible for producing literature are illuminated.
+My secondary interest in “A Clean, Well-Lighted Place” came from its subject matter and
+the larger themes that govern it. The irony of the story’s title is that what happens within it is
+hauntingly dark. But darkness has always been deeply complex to me…the way we fear it but
+feel comfortable enough to lie down and dream under its cover, the way it obscures nearly
+everything but the stars. I’m fascinated with the way it can neutralize a space and the way it
+invites imagination by existing as nothingness. It was my interest in the relationship between
+light and dark, as both coded moral language and as a visual tool that drew me into the story.
+Additionally, my attraction to juxtapositions is sustained in this story as well. The dialogue in “A  
+
+6John
+
+Bryant, The Fluid Text: A Theory of Revision and Editing for Book and Screen (Ann Arbor:
+University of Michigan Press, 2002), 99.
+7
+
+Bryant, The Fluid Text: A Theory of Revision and Editing for Book and Screen, 99.
+
+6
+Clean, Well-Lighted Place” is largely a discussion of how people within the cafe are without.
+Without love, without hope, without anywhere else to spend a night. Hemingway choreographs a
+dance between the presences and absences in a life, and his interest in this is reflected in his
+writing style. Sparse, detail-deficient sentences litter his work, but it is the very volume of these
+types of sentences that make them present. Revision encourages the mental switch between
+inclusion and omission, which is why Ernest Hemingway’s editing process seemed fitting to
+study. In essence, this project is inspired by my curiosity in the before and the after, or the inprogress and the complete. In his book The Fluid Text: A Theory of Revision and Editing for
+Book and Screen, John Bryant claims that “we revise words to make them more closely
+approximate our thoughts, which in turn evolve as we write.”8 With this in mind, studying
+Hemingway’s revision process through his original handwritten manuscript for “A Clean, WellLighted Place” is the closest we can get to understanding his intentions and the thought process
+that birthed them.
+My first chapter explores contrast as both a thematic concept and as a visual one. “A
+Clean, Well-Lighted Place” is set in a Spanish café with an old, deaf man as its only remaining
+customer late one night, having recently survived a suicide attempt. The old man finds solace in
+the clean, well-lit café where he sits and drinks throughout the night, a temporary escape from
+the darkness that both envelops him on the streets outside and occupies his mind. Light, and the
+relief it offers from darkness, benefits the old man. Since darkness obscures things and
+effectively removes one’s sight, light, its opposite, illuminates, offering both visual and mental
+clarity. In addition, light has operated as a suggestion of goodness in texts beginning with the
+John Bryant, The Fluid Text: A Theory of Revision and Editing for Book and Screen (Ann Arbor:
+University of Michigan Press, 2002), 1.
+8
+
+7
+bible, so the light of the café promises spiritual levity for the old man as well. Light and darkness
+become more apparent when placed in opposition to each other, thus making their consistent
+contrast in the story dynamic; the accessibility of light and the mystery of darkness work
+alongside each other to ultimately suggest that emotional darkness can only be tempered by light,
+or greater spiritual warmth. This suggestion of feeling that contrast achieves in the story is an
+example of T.S. Eliot’s theory that “the only way of expressing emotion in the form of art is by
+finding an ‘objective correlative.’ ”9 Contrast becomes the story’s object correlative because its
+moral and visual associations serve as the main vehicles for Hemingway to present the emotion
+of “A Clean, Well-Lighted Place” through. In terms of the visual impact of the story, contrast
+takes the form of inclusions and deletions in the manuscript. The aspects of the text Hemingway
+deletes become obscured by the darkness of his graphite strikethroughs and the parts he includes
+are illuminated because our ability to see them is not compromised. The revision process reveals
+Hemingway’s balance between including only what is essential and omitting the rest. As
+observed by Paul Smith in his article “Hemingway’s Early Manuscripts: The Theory and Practice
+of Omission:” “[Hemingway] always wrote slowly and revised carefully, cutting, eliding,
+substituting, and experimenting with syntax to see what a sentence could most economically
+carry, and then throwing out all that could be spared.”10 Hemingway’s experimentation with
+syntax can be understood as a manual representation of his thematic concern with the
+relationship between light and darkness, or presence and absence. Both the inclusion and
+deletion of images in his story and words in the manuscript work similarly to  
+
+9
+
+T. S. Eliot, The Sacred Wood: Essays on Poetry and Criticism (London: Methuen, 1960), 100.
+
+Paul Smith, “Hemingway’s Early Manuscripts: The Theory and Practice of Omission,”Journal of Modern
+Literature 10.2 (1983) 280.
+10
+
+8
+create a narrative. In this chapter, I will use Michelangelo da Merisi Caravaggio’s painting The
+Calling of Saint Matthew to explore the visual term chiaroscuro in order to see how contrast
+manifests thematically in an art piece, which “A Clean, Well-Lighted Place” is a verbal version
+of.
+In my second chapter, I will unpack further the codependency between presence and
+absence through looking at the idea of omission and how it works in the manuscript. Beneath the
+umbrella of omission live deletions and their subsequent replacements; while omission is a
+general exclusion of details, some of which may have never even made it onto the page,
+deletions are a study in a word’s value diminishing from draft one to draft two. The words that
+replace these deletions oftentimes suggest improvement, whether that be in the form of making a
+character’s temperament more clear or a theme more consistent throughout. In “A Clean, WellLighted Place,” the two waiters at the café, who ostensibly serve as Hemingway’s narrators,
+reveal most of the old man’s plight through their dialogue. Though the protagonist rarely speaks,
+we learn a great deal about him thanks to the conversation the two waiters have. However, while
+we are provided with what is being said, Hemingway leaves the dialogue unmarked, omitting a
+voice and perspective to assign each comment to. Hemingway’s artfulness with omission is
+partially inspired by one of the painter Paul Cézanne’s stylistic techniques. Cézanne’s paintings
+oftentimes included blank spaces of the canvas, dotted like ellipses throughout the environment
+of his medium: paint. This interruption in the continuity of his painting Large Bathers can be
+understood as how withholding details from a text creates absence, or greater blank space, on the
+page. Ironically, the addition of blank spaces omission creates actually inserts the suggestion of
+something more into the text. So, though presences in the manuscript allow for deletions to
+
+9
+happen at all, omissions provide more presence—the presence of emptiness—on the page. This
+notion of palpable nothingness becomes a central theme in “A Clean, Well-Lighted Place,” most
+notably through Ernest Hemingway’s use of nada.
+Hemingway offers another take on omission by substituting words in the Lord’s Prayer
+with the word nada, Spanish for “nothing.” Ironically, the very inclusion of a word meaning
+nothing means something, and it is this interplay between the absence of certain words and
+images and the presence of others that works to create full narratives of the characters’ lives,
+using only a few late-night hours in a café as the entry point. In his article entitled “The Search
+for the Absolute in Hemingway’s ‘A Clean, Well-Lighted Place’ and ‘The Snows of
+Kilimanjaro,’” Sam Bluefarb asserts that Hemingway’s omissions reflect the emptiness his
+characters feel within, which explains why the older waiter litters the Pater Nostra with
+nothingness and why the old man sits in the café late at night, doing nothing but drinking. Both
+of these decisions reveal an interest in finding an antidote who’s presence can remedy the
+absence of faith these two men now have. Though replacing “Lord” with nada seems to distance
+the older waiter from faith, it is the very inclusion of nothingness in it that makes the prayer
+more personal and thus more faithful. And though the old man is deaf, depressed, and drinking,
+he still chooses to sit in the café as a way to introduce himself to the light again. Their shared
+emotional vacancy is minimized through the older waiter’s attempt to revise the Lord’s Prayer
+with nada and the old man’s arrival at a clean, well-lighted place. Both decisions serve as
+reminders that light can drive out darkness, and than nothing can replace faith. In my third and
+final chapter, I will explore how through Hemingway’s use of nada an omission can be placed
+into the text and not strictly be a form of erasure. Also, because revision happens in the story (the
+
+10
+older waiter’s altered prayer content) and to the story (as evidenced by Hemingway’s
+handwritten original manuscript), the nada section becomes a bridge between the writing and
+revision processes. Revision’s dual role as a thematic feature of “A Clean, Well-Lighted Place”
+and its impact on the story’s eventual published form makes the study of how literature is crafted
+and what it becomes next unified.
+Edgar Allen Poe, 19th century American short-story writer, poet, and critic, outlines his
+writing process in his 1846 essay, “The Philosophy of Composition.” Through his “genetic
+analysis”11 of how his narrative poem “The Raven” came to be, he offers both personal anecdotes
+and definitive guidelines on how a good writer should compose a piece of literature. Early on,
+Poe laments:
+“Most writers…prefer having it understood that they compose by a species of fine frenzy
+- an ecstatic intuition - and would positively shudder at letting the public take a peep
+behind the scenes, at the elaborate and vacillating crudities of thought - at the true
+purposes seized only at the last moment - at the innumerable glimpses of idea that arrives
+not at the maturity of full view - at the fully-matured fancies discarded in despair as
+unmanageable - at the cautious selections and rejections - at the painful erasures and
+interpolations…”12
+For a student to study a manuscript is precisely what Poe seems to fear. The unmasking of
+composition that a draft punctuated with revisions provides undoes the notion that literature is of
+analytic value only upon publication; instead, a manuscript advocates for the study of the process
+and the product. Admittedly, there is a level of voyeurism that occurs when viewing a text before
+completion. The author’s “ecstatic intuition” is undercut and his imperfections are exposed by
+the edits made suggesting his own doubt, indecision, and lack of clarity with regard to the story. I
+Dirk Van Hulle, Textual Awareness: A Genetic Study of Late Manuscripts by Joyce, Proust, and Mann
+(Ann Arbor: University of Michigan Press, 2004), 8.
+11
+
+Edgar Allan Poe, “The Philosophy of Composition,” Graham’s Magazine, April 1846, accessed January
+2016, http://www.lem.seed.pr.gov.br/arquivos/File/livrosliteraturaingles/filosofiadacomposicao.pdf, 1-2.
+12
+
+11
+wonder if Hemingway would be as perturbed as Poe is, if he would “positively shudder” at the
+notion of his writing and revision processes being so unpacked. My guess is that his own interest
+in craft would prevail, and he would deem the analysis of his manuscript more of an education
+than a trespassing. After all, in 1959 Hemingway wrote “The Art of the Short Story,” lecture-like
+in tone, as a preface to a student’s edition of his short stories. An analysis of the revision process
+does allow us insight into the author’s “crudities of thought,” the late-onset inclusions, the
+frustrated deletions made for the benefit of the whole. But because of the many iterations a text
+undergoes we are able to see how much revisions impact and improve the final product. Through
+the analysis of the writing and thus the revision process, we are able to better understand and
+articulate the final text because the manuscript shows us firsthand the way ideas morph,
+intentions crystallize, and words get added, omitted, and rearranged.
+Over the course of the next three chapters, I will investigate the “relationship between
+literary and textual criticism, and the mediating role of genetic criticism.”13 Genetic criticism
+looks at the origin of a text, usually through a story’s manuscript, in order to discuss both the text
+itself and its role as a part of the larger literary canon. Genetic critics “regard a work of literature
+as a process rather than a product. The end result remains inextricably bound up with its textual
+memory, that is, the numerous textual transformations that preceded its publication.”14 I will
+explore the “textual memory” of “A Clean, Well-Lighted Place” by using its original manuscript
+to discuss the writing and revision processes that allow for it to be more than a product, and
+instead be a continued conversation and instructor on the art of writing. 
+
+Dirk Van Hulle, Textual Awareness: A Genetic Study of Late Manuscripts by Joyce, Proust, and Mann
+(Ann Arbor: University of Michigan Press, 2004), 1.
+13
+
+14
+
+Van Hulle, Textual Awareness: A Genetic Study of Late Manuscripts by Joyce, Proust, and Mann, 2.
+
+12
+
+CHAPTER ONE: CONTRAST
+
+Chiaroscuro, a term more commonly used in the analysis of fine art, refers to the
+treatment of light and shade in drawing and painting. This contrast gives a piece dimension,
+which, in turn, encourages greater interest. Because of its semantic richness, the Italian
+chiaroscuro and its French equivalent clair-obscur, have uses beyond the “interplay of light and
+shade in painting,”1 which allow the unified terms to be applied to the art of writing too. In 18th
+century France, thanks in part to Encyclopédie, ou dictionnaire raisonné des sciences, des arts et
+des métiers (Encyclopedia, or a Systematic Dictionary of the Sciences, Arts, and Crafts) edited
+by French philosopher and critic Denis Diderot, art is used as a vehicle to illuminate
+Enlightenment thought. Contributor Étienne Bonnet de Condillac, a French philosopher and
+theorist on sensation, is credited with reappropriating the painterly idea clair-obscur for the
+purposes of writing and textual analysis. In fact, “it is precisely in Condillac’s time (that is, in the
+second half of the eighteenth century) that the term migrates from the arts towards belleslettres,”2 and begins to be defined as “a system of light and shade in language.”3 His
+understanding of clair-obscur as a tool to add contrast to language aids our “ ‘understanding of
+lighting’ ” in Ernest Hemingway’s “A Clean, Well-Lighted Place.” 4 In the manuscript, contrast is
+Manon Plante, "The Art of Chiaroscuro Writing: Condillac and the Question of Word Order,” Journal for
+Eighteenth Century Studies 37.4 (2014): 474, accessed April 10, 2016. doi: 10.1111/1754-0208.12201
+1
+
+2
+
+Plante, "The Art of Chiaroscuro Writing: Condillac and the Question of Word Order,” 474.
+
+3
+
+Plante, “The Art of Chiaroscuro Writing: Condillac and the Question of Word Order,” 476.
+
+Mark Darlow, “ ‘L'intelligence Des Lumières’: On Clair-Obscur as a Case Study for Early Modern
+Metaphor,” Journal for Eighteenth Century Studies 37.4 (2014): 459, accessed April 10, 2016. doi:
+10.1111/1754-0208.12200
+4
+
+13
+not solely added to the verbal landscape of the story through the use of light and dark images and
+themes. Contrast also happens to the manuscript because Hemingway’s crossed-out deletions
+darken the page and the words he leaves included are well-lit because the reader can see them,
+making a study of Hemingway’s revision process a way to understand contrast as well.
+
+CHIAROSCURO / CLAIR-OBSCUR
+In his 1775 treatise “The Art of Writing,” Condillac argues that to discuss the role of
+“sentence construction is akin to the wish to make pictoral chiaroscuro an element of
+intelligibility of painting.”5 This treatise defines “good style as one with clarity and character—
+combining a sparse, direct style with the appropriate voice or emotional tone.”6 Hemingway is
+famous for his word economy which is done, in part, to communicate a clearer emotional
+message to his reader. It is this very characteristic of his style that gives his stories the character
+of which Condillac speaks. The theorist goes on to assert that “the painter has three means:
+drawing, colours, and chiaroscuro. The writer has three also: accuracy of constructions
+corresponds to drawing, figurative expressions correspond to colours, and arrangement of the
+words corresponds to chiaroscuro.”7 Naturally Condillac, who claimed “every writer should be a
+painter,”8 finds compelling links between the craftsmanship of painters and writers. Both
+paintings and literature require visual cues to communicate, and visual analysis to understand.
+This understanding of contrast across both painting and writing through clair-obscur reveals
+Manon Plante, "The Art of Chiaroscuro Writing: Condillac and the Question of Word Order,” Journal for
+Eighteenth Century Studies 37.4 (2014): 473, accessed April 10, 2016. doi: 10.1111/1754-0208.12201
+5
+
+Theresa Enos, Encyclopedia of Rhetoric and Composition: Communication from Ancient Times to the
+Information Age (New York: Routledge, 2010), 136.
+6
+
+Manon Plante, "The Art of Chiaroscuro Writing: Condillac and the Question of Word Order,” Journal for
+Eighteenth Century Studies 37.4 (2014): 473, accessed April 10, 2016. doi: 10.1111/1754-0208.12201
+7
+
+8
+
+Plante, "The Art of Chiaroscuro Writing: Condillac and the Question of Word Order,” 474.
+
+14
+Condillac’s ability to find art in the treatment of space, which in a manuscript can take the form
+of the interplay between what is included and deleted, the visible and the less-so.
+Manon Plante, in his article “The Art of Chiaroscuro Writing: Condillac and the Question
+of Word Order,” argues that “painting has an advantage over literature in that it is an art of
+simultaneity: the meaning and emotion that it creates are intimately linked to one another and
+touch the viewer immediately indirectly. According to the philosophy, language was at its origin
+not very different from painting. For primitive man, ideas, facial movements, gestures and
+sensations were expressed conjointly and rapidly in what Condillac terms ‘the language of
+action.’ ”9 In painting, the contrast light and dark creates is more accessible than their contrast is
+in writing because of paint’s greater readability, since “the eye has a tendency to read the
+contrasting lights and darks as pattern.”10 While there is immediate contrast on the topical level
+of a text, as an eye can see the ink against the paper and grow accustomed the pattern that
+creates, the contrast within the language is more difficult to perceive, ironically because the very
+pattern aesthetic contrast creates works only at the line level. The pattern we see is a line of
+darkness (text) followed by an area of blank space (the paper), which does not allow for the eye
+to readily see the nuances within the sentences. It is this more immediate pattern that disallows
+the reader to immediately see the more latent one—the meaning behind it all. The “language of
+action,” theorized by Condillac, advocates for the ability action (or the movement contrast
+creates) in writing has to produce “a highly complex tableau, because it shows the object and at
+the same time the judgment of the percipient and the sensations that he experiences. There is no
+Manon Plante, "The Art of Chiaroscuro Writing: Condillac and the Question of Word Order,” Journal for
+Eighteenth Century Studies 37.4 (2014): 474, accessed April 10, 2016. doi: 10.1111/1754-0208.12201
+9
+
+Lois Fichner-Rathus, Foundations of Art and Design: An Enhanced Media Edition (Belmont, CA:
+Wadsworth, 2011), 74.
+10
+
+15
+succession in his ideas.”11 Language as a tableau is a suggestion of text as a picture, or something
+to be seen but not necessarily read—in a spoken language, that is. A tableau, like hieroglyphics
+for instance, works as visual communication as opposed to linguistic. To imagine a text as having
+the ability to be wholly read in one viewing so there is “no succession in his ideas,” is an attempt
+at making the verbal visual, which illustrates the organic connection between writing and
+painting. Obviously, humans can only read language so quickly, as it takes a certain amount of
+time for the brain to understand what it has seen. The immediate understanding achieved through
+language functions on the aesthetic level, so through Hemingway’s use of painterly techniques,
+the reader is able to grasp the emotion instantly from the way the dark marks of text and white
+spaces of paper work together to create a visual.
+Clair-obscur is employed through “pictoral metaphor, suggesting that the author guides
+the reader’s eye towards particular elements of the literary ‘tableau,’ while leaving others in the
+shade; but there is also the notion of ‘linguistic’ clair-obscur, which implies that feelings are
+more important than neutral description, and that silence says more than eloquence.”12
+Hemingway uses contrast in “A Clean, Well-Lighted Place” to highlight and obscure certain
+elements, but also uses it to strengthen his stylistic choice to omit the bulk of his stories. Contrast
+gets enough feeling across to render “neutral description” obsolete and uses the absence of detail
+to communicate more than including it would.
+
+Manon Plante, "The Art of Chiaroscuro Writing: Condillac and the Question of Word Order,” Journal for
+Eighteenth Century Studies 37.4 (2014): 474, accessed April 10, 2016. doi: 10.1111/1754-0208.12201
+11
+
+12
+
+Plante, “The Art of Chiaroscuro Writing: Condillac and the Question of Word Order,” 483.
+
+16
+Condillac’s understanding of chiaroscuro dovetails wonderfully with the process of
+revision. From the Latin adjectives clarus, meaning clear, and obscuro, meaning covered, 13
+chiaroscuro represents a simultaneous covering and uncovering of words. Hemingway employs
+this technique not only in his consistent creation of contrasting light and dark images, but also
+through his writing style itself. The inclusion and removal of various elements during the editing
+process serves to at once illuminate what is left in the story and darken what is left for the reader
+to discover on his or her own. Hemingway’s use of chiaroscuro also operates as a revision of the
+reader’s sight (the ability and inability to see the words) for this reason. “According to Condillac,
+words are combined in such a way as either to mutually illuminate or to obscure, to brighten or
+dull neighbouring terms…”14 The combination of words is a vehicle for contrast, as sentences
+(particularly in the manuscript stage) are contrasts in and of themselves because of the sharing of
+space between absences (deletions) and presences (the remaining text). This mutual illumination
+and obscuring of words thanks to the words adjacent is how contrast on the line level becomes
+visual dynamism in the piece as a whole.
+
+CARAVAGGIO
+The way Michelangelo Merisi da Caravaggio, infamous 17th century Italian painter,
+employs light and darkness in his paintings is an example of how contrast can both create
+concrete visual dynamism on a surface and serve as a representation of larger, abstract themes.
+Much like Caravaggio’s painterly strokes, Ernest Hemingway’s handwriting births the content of
+his story. If we are to understand handwriting as part of an author’s artistry, the transition a story
+“Online Etymology Dictionary: chiaroscuro,” last modified 2016, http://www.etymonline.com/index.php?
+allowed_in_frame=0&search=chiaroscuro
+13
+
+Manon Plante, "The Art of Chiaroscuro Writing: Condillac and the Question of Word Order,” Journal for
+Eighteenth Century Studies 37.4 (2014): 476, accessed April 10, 2016. doi: 10.1111/1754-0208.12201
+14
+
+17
+undergoes from manuscript to production arguably dilutes the art form; after all, transforming
+handwriting to print is a revision of the text’s original artistry. In light of this, looking at
+Hemingway’s original handwritten manuscript as opposed to the published final draft brings
+greater visibility to his intention and writing process. Through this revision of how “A Clean,
+Well-Lighted Place” is read, the text is able to be analyzed as a piece of art history, not unlike a
+classical painting of Caravaggio’s.
+
+The Calling of Saint Matthew by Michelangelo Merisi da Caravaggio, 1600.15
+
+Michelangelo Merisi Da Caravaggio, The Calling of Saint Matthew, 1599-1600, oil on canvas, 340 cm. x
+322 cm., Contarelli Chapel of San Luigi dei Francesi, Rome. In The Complete Paintings of Caravaggio.
+New York: Abrams, 1967.
+15
+
+18
+In this masterpiece depicting the moment Jesus Christ inspires Matthew to follow him, as
+Matthew sits with fellow tax collectors “at a gamblers’ table in the shadowed courtyard of a
+Roman palace,” 16 Caravaggio employs chiaroscuro—a technique he is widely credited for
+popularizing through his use of the broader style of painting known as tenebrism. In her book
+entitled Foundations of Art and Design: An Enhanced Media Edition, Lois Fichner-Rathus
+defines tenebrism as “a more dramatic use of value pattern than chiaroscuro. Tenebrism goes
+quickly from highlighting to deep shadow. Like chiaroscuro, it is typically used by artists to
+create sense of a three-dimensional object, but tenebrism eliminates the subtle gradations of tone
+found in chiaroscuro.” 17 This distinction becomes relevant when discussing the drama of the
+piece. While chiaroscuro does create visual dynamism, the more stark contrast found in
+tenebrism creates a spotlight effect which, in turn, elevates the drama even further. “The
+tenebrism technique was developed during the seventeenth century by artists who were
+introducing theatricality into their works through the use of a spotlighting technique. Tenebrism
+heightened the sense of mystery and drama in a way that was analogous to stage lighting.”18 The
+spotlight effect is often seen as an intense, focused beam of light shining directly on the most
+important element of the painting in an attempt to accentuate it. Stemming from its roots in
+theatre, the spotlight has long been associated with focus; usually, when a performer is reciting a
+monologue (which is a moment in a play used to reveal the character’s innermost thoughts,
+which prove too important to be interrupted by conversation) they are under a spotlight on stage.
+Michelangelo Merisi Da Caravaggio and Michael Kitson, The Complete Paintings of Caravaggio (New
+York: Abrams, 1967), 7.
+16
+
+Lois Fichner-Rathus, Foundations of Art and Design: An Enhanced Media Edition (Belmont, CA:
+Wadsworth, 2011), 74.
+17
+
+18
+
+Fichner-Rathus, Foundations of Art and Design: An Enhanced Media Edition, 74.
+
+19
+This hallmark of theatrical lighting design achieves drama through the illumination of one
+central character and the darkening of less important characters. As Fichner-Rathus notes: “with
+tenebrism, the subject is sharply lit by a light source with clear directionality.”19 This “clear
+directionality” speaks to the intention behind an artist’s choice to illuminate certain elements of
+their piece. As Plante observes: “painterly chiaroscuro denotes the impressions that objects have
+made on the painter because the choice of lighting which privileges certain objects to the
+detriment of others will only move or touch the viewer if it adequately translates the emotions
+felt by the artist before the object itself.” 20 With this in mind, Hemingway’s illumination of
+certain elements in “A Clean, Well-Lighted Place” represents what is of greatest importance to
+him. Thus, without including excessive description, Hemingway is able to communicate to the
+reader what is most relevant to understanding the story, which is a reflection of what he feels
+most deeply. Condillac’s clair-obscur “goes beyond the ‘content’ of the idea and is more
+concerned with moving the reader and illustrating the passions of the speaker.” 21 Contrast is not
+only a vehicle for Hemingway to express his oftentimes omitted or obscured emotion, but also to
+invite the reader to feel the same ones.
+As evidenced in Caravaggio’s painting, tenebrism (from the Latin tenebrosus, meaning
+dark, or gloomy)22 immediately establishes Matthew as the central character of the scene. “In
+Caravaggio’s paintings the light, often entering from one side, isolates parts of the forms in livid
+Lois Fichner-Rathus, Foundations of Art and Design: An Enhanced Media Edition (Belmont, CA:
+Wadsworth, 2011), 74.
+19
+
+Manon Plante, "The Art of Chiaroscuro Writing: Condillac and the Question of Word Order,” Journal for
+Eighteenth Century Studies 37.4 (2014): 476, accessed April 10, 2016. doi: 10.1111/1754-0208.12201
+20
+
+21
+
+Plante, “The Art of Chiaroscuro Writing: Condillac and the Question of Word Order,” 476.
+
+“Online Etymology Dictionary: tenebrism,” last modified 2016, http://www.etymonline.com/index.php?
+allowed_in_frame=0&search=tenebrism
+22
+
+20
+brilliance…Other parts are lost in the shadow that fills the background, although these parts are
+not quite united with it, as on close inspection their edges can just be seen.” 23 The diagonal line
+of sunlight shining in directly above Jesus follows the line of his arm pointing to Matthew,
+ostensibly choosing him as a follower. The line of light then continues to shine directly onto
+Matthew, which leads the viewer’s eye to the arm he is using to point to himself, seemingly as a
+way to confirm that he has indeed been chosen. Also, in classic Caravaggio style, the rest of the
+shady characters are obscured by shadow, able to be seen but not with as great detail as Jesus or
+Matthew can be. These shadows can be seen as both “space-denying”24 or “space-creating,”25 but
+ultimately “the way [they bite] into the illuminated forms helps to clarify the composition.” 26 The
+darkness of the room suggests a shared wickedness between all of the men, which both obscures
+them and their deeds from the sight of the viewer; this leaves more space on the canvas, while
+still remaining a suggestion of what the viewer knows, through contrast, is missing. This
+contrast, made evident by the spotlight, marks the calling of Matthew as something good, a relief
+from the darkness that surrounds.
+Since Caravaggio was commissioned to create this painting for the Contarelli Chapel in
+the church of San Luigi dei Francesi located in Rome, Italy, it is apparent that his treatment of
+light is associated with God and, by the transitive property, heaven. Starting from Christianity’s
+first creation narrative in the book of Genesis, darkness has been put in opposition to light;
+darkness being an indication of that which is untouched by God’s hand, and light being equated
+Michelangelo Merisi Da Caravaggio and Michael Kitson, The Complete Paintings of Caravaggio (New
+York: Abrams, 1967), 8.
+23
+
+24
+
+Caravaggio and Kitson, The Complete Paintings of Caravaggio, 8.
+
+25
+
+Caravaggio and Kitson, The Complete Paintings of Caravaggio, 8.
+
+26
+
+Caravaggio and Kitson, The Complete Paintings of Caravaggio, 8.
+
+21
+with his approval. “And God said, ‘Let there be light:’ and there was light. And God saw the
+light, that it was good: and God divided the light from the darkness.” 27 With Catholics as his
+audience, light becomes a synonym for moral goodness and, through God’s grace, the promise of
+another day with the rising of the sun. Conversely, darkness becomes a synonym for sin: the men
+in greater darkness are hunched over their coins greedily, which illustrates them as performing
+one of the seven deadly sins. Caravaggio’s use of light and darkness in the painting is further
+strengthened when considering the scripture it is depicting: “And as Jesus passed forth from
+thence, he saw a man, named Matthew, sitting at the receipt of custom: and he saith unto him,
+‘Follow me.’ And he arose, and followed him.”28 Matthew’s journey as a corrupt tax collector to
+one of Jesus’ twelve apostles shows his transition out of darkness and into the light—his
+character is tenebrous in its contrast. But ultimately, light “changes the tax collector Levi,
+addicted to money and luxury, into Saint Matthew the Evangelist.”29 Since Jesus’ choice to name
+Matthew one of his disciples is hugely significant, and Matthew’s acceptance even more so, the
+subject matter benefits from the heightened drama tenebrism provides. “Compositionally, this
+opposition of dark and light, of brightly variegated color against the large expanse of brown wall,
+has a powerfully dramatic effect.”30
+
+27
+
+Genesis 1:3-4, King James Version.
+
+28
+
+Matthew 9:9, King James Version.
+
+Michelangelo Merisi Da Caravaggio and Michael Kitson, The Complete Paintings of Caravaggio (New
+York: Abrams, 1967), 18.
+29
+
+30
+
+Caravaggio and Kiston, The Complete Paintings of Caravaggio, 18.
+
+22
+
+LIGHT AND DARKNESS
+In “A Clean, Well-Lighted Place,” light and dark are not only defined by their opposite,
+but they are strengthened by them too. The short story begins: “It was late and every one had left
+the café except an old man who sat in the shadow the leaves of the tree made against the electric
+light. In the daytime the street was dusty, but at night the dew settled the dust…”31 Hemingway
+uses the contrast between light and dark starting from the first sentence of the piece as a way to
+draw the reader in through visual opposition, which illuminates how influenced he is by painting.
+Though he does not describe the night sky overtly, Hemingway’s inclusion of the word “late”
+gives the reader enough information in terms of time of day to know that it is dark. Further,
+Hemingway places the old man, who we later learn has just attempted suicide, in the shadow of a
+tree’s leaves. Through framing his “darkest” character by a shadow, which is a dark form itself
+that can only exist thanks to light’s casting of it, Hemingway reveals some of the old man’s
+character before the reader is even onto the second sentence of the story, much like light reveals
+what is obscured by darkness. Additionally, the preposition “against” demands that light and dark
+be seen in stark opposition to each other and Hemingway’s choice to describe the light as
+“electric” does this even further. A shadow is lifeless, intangible, and flat. And while light can
+arguably be all of those things as well, the word “electric” gives the light an energy that
+Hemingway does not assign to the shadow, which puts light and dark at odds even more.
+Joseph F. Gabriel, writer of “The Logic of Confusion in: Hemingway’s ‘A Clean, WellLighted Place,’ ” asserts that the “dominant visual image in the story [is] the radical contrast
+between the minute spot of light represented by the cafe and the infinite surrounding darkness
+Ernest Hemingway, “A Clean, Well-Lighted Place,” Scribner’s Magazine, March 1933, accessed
+November 2015, https://www.unz.org/Pub/Scribners-1933mar-00149, 149.
+31
+
+23
+outside.”32 The story’s environment exclusively revolves around the cafe’s electric light
+swallowed by the lack of light in the night sky just beyond its walls. This works to create optical
+excitement for the reader because even though the story is printed on a flat, two-dimensional
+page, the movement created by the embedded chiaroscuro gives the setting volume. Hemingway
+also adds texture to the environment of the page through the suggestion of temperature; the light
+of the cafe adds an element of warmth to its atmosphere. This association is two-fold: the old
+man seeks refuge in a place that is more comfortable than the alternative (at night it is likely
+more cold outdoors than indoors) and warm colors are used in art to indicate the piece’s light
+source. The light of the cafe effectively defrosts the old man’s despair, thus making his extended
+stay there all the more reasonable, beyond its cleanliness and healthy dose of light.
+Much like the café’s light serves as a way to clear the old man’s head, which we learn
+from the story’s start in media res has recently been clouded with thoughts of suicide, the
+elements of the story that take place in the light are more clear and visible than the events of the
+dark outdoors. Just after Hemingway introduces the reader to the old man in the café, he offers:
+“the two waiters inside the cafe knew that the old man was a little drunk, and while he was a
+good client they knew that if he became too drunk he would leave without paying, so they kept
+watch on him.”33 Here, light eradicates confusion. In the cafe, the two waiters are able to keep
+watch on the old man drinking because it is well-lit and thus their ability to see is unchallenged.
+However, the presumption that the old man might become drunk enough to leave without paying
+situates the nighttime outside world (read: darkness) as a place where people can escape to, able
+Joseph F. Gabriel, “The Logic of Confusion in: Hemingway’s ‘A Clean, Well-Lighted Place,” College
+English 22.8 (1961) 541.
+32
+
+Ernest Hemingway, “A Clean, Well-Lighted Place,” Scribner’s Magazine, March 1933, accessed
+November 2015, https://www.unz.org/Pub/Scribners-1933mar-00149, 149.
+33
+
+24
+to get away with questionable morality. It would be harder for the two waiters to catch the old
+man had he slipped outdoors because he would have been harder to see. This small pivot from
+the darkness outside which obscures mischief to the well-lit interior of the cafe which encourages
+understanding, supports the notion that the old man was inclined to sit in the café in order to be
+relieved of the confusion beyond its walls.
+In yet another attempt to paint darkness as a place for danger, Hemingway illustrates a
+scene outside of the café in the street, which is set in opposition to the events that happen in the
+light of the café. “A girl and a soldier went by in the street. The street light shone on the brass
+number on his collar. The girl wore no head covering and hurried beside him.”34 Hemingway
+notifies the reader that the girl and the soldier are walking under the cover of darkness by
+specifying that they are “in the street.” Based on Hemingway’s treatment of darkness in the
+moment just prior, the reader can infer that there is something negative about the two shadowy
+characters walking together at night. Then, in contrast, Hemingway yet again uses light as a tool
+to provide clarity. Because the street light shines on the soldier’s “brass number,” which, because
+of its placement on his collar, reveals that he is a member of the military, the reader is provided
+with information about the character that we otherwise would not have seen were it not for
+light’s illumination. Now, the significance of a soldier walking with a girl at night begins to take
+shape. Likely a prostitute or streetwalker (particularly given Hemingway’s history of writing
+tragically heroic men and tragically invisible women), the girl and the soldier’s inappropriate
+dalliance is exposed by the street light. The importance of the girl’s lack of head covering is twofold: it presents her as unladylike (for her time), but also further confirms darkness as a covering
+Ernest Hemingway, “A Clean, Well-Lighted Place,” Scribner’s Magazine, March 1933, accessed
+November 2015, https://www.unz.org/Pub/Scribners-1933mar-00149, 149.
+34
+
+25
+of sin. Darkness, though a presence, renders things invisible; the girl does not need a head
+covering to disguise her because the night sky does that for her.
+Hemingway writes:
+The light [street light] shone on the
+brass number on his collar.35
+Had the scene taken place during the daytime, when light is omnipresent and natural, the brass
+number would not have had as much focus because everything would be illuminated. But since
+“street” is inserted as a modifier of the light, this revision suggests that Hemingway made a
+conscious choice to situate the light outside in darkness, upon second thought. Because the street
+light is a form of artificial luminescence, it mirrors Hemingway’s writing style: constructed,
+man-made. In this sense, light and darkness become metaphors for craft. Just like the forms of
+light he writes into “A Clean, Well-Lighted Place,” Hemingway’s writing is more utilitarian than
+it is natural. His word choice, omissions, and edits serve a purpose, and do not simply exist
+naturally the way sunlight does. Alternatively, darkness becomes an absence in both the visual
+information of the story and of Hemingway’s mind. When reading the story, we cannot see what
+takes place under darkness without light to brighten it; similarly, we cannot see what Hemingway
+once thought to include, but did not. Yet through tracing his revisions, absences in the final
+product become present in the manuscript. The author’s adjustment of “light” to “street light”
+shows a conscious decision to bring greater visual interest to the piece by way of contrasts.
+Granted, “light” is enough to understand what the sentence means, but Hemingway’s revision to
+
+Ernest Hemingway, “A Clean, Well-Lighted Place,” titled pencil manuscript w/ one false start. pp. 1-12.
+MS 337, Box MS39, series 1.2, Hemingway Collection. John F. Kennedy Library, Boston, Massachusetts,
+page 2.
+35
+
+26
+“street light” makes known, yet again, that it is nighttime and that the light is in opposition to the
+dark sky. A street light necessitates that it be dark outside because otherwise it would have no
+purpose, so Hemingway’s minute rewrite ultimately achieves the type of visual interest that
+chiaroscuro endeavors to create.
+The visual dependency between light and darkness becomes further complicated when it
+points to a suggestion of emotion. Inherently, there is tension in contrast—its prefix stemming
+from the Latin word contra meaning against. Hemingway repeatedly situates light and darkness
+against each other in an effort to illuminate the emotional tension of the story. Throughout “A
+Clean, Well-Lighted Place,” the author points to “the old man sitting in the shadow”36 as a way
+to subtly imply his emotional darkness. By situating him in a shadow, Hemingway suggests that
+the old man is devoid of light. Further, Hemingway literally does not allow the old man to be
+freed from the grip darkness has on him because he never writes his character to be fully in the
+café. The two waiters “looked at the terrace where the tables were all empty except where the old
+man sat in the shadow of the leaves of the tree that moved slightly in the wind.”37 While the café
+certainly emanates enough light to provide the old man with visibility and warmth (otherwise his
+quest to sit in a well-lighted place would be fruitless), it is telling that the old man never truly
+crosses over into the light, making his despair seem all the more permanent.
+This sense of a permanent state of despair is aided by the recurring image of the old man
+drinking. Taking solace in drinking alcohol soon after an attempted suicide seems dangerous
+enough, but Hemingway’s choice to have the old man drinking brandy, a dark liquor, makes the
+
+Ernest Hemingway, “A Clean, Well-Lighted Place,” Scribner’s Magazine, March 1933, accessed
+November 2015, https://www.unz.org/Pub/Scribners-1933mar-00149, 149.
+36
+
+37
+
+Hemingway, “A Clean, Well-Lighted Place,” 149.
+
+27
+old man’s life seem even darker. “The waiter took the brandy bottle and another saucer from the
+counter inside the cafe and marched out to the old man’s table.”38 Naturally, since alcohol is
+ingested, it sits inside of the old man. And Hemingway shows that the old man is in fact sitting
+outside since the younger waiter marches “out to the old man’s table.” At once, the old man is
+himself sitting inside of darkness as darkness is sitting inside of him. Additionally, “the waiter
+poured on into the glass so that the brandy slopped over and ran down the stem into the top
+saucer of the pile.” 39 Through the inclusion of a small detail, Hemingway suggests to the reader
+that darkness is not only associated with despair, but with excess too. Having the waiter pour the
+alcohol to the point it overflows is an indication that darkness is uncontrollable, unable to be
+tamed by man.
+When taking Ernest Hemingway’s own life into consideration, it can be argued that his
+treatment of darkness as it pertains to the old man is a reflection of how he viewed himself.
+Much like the old man continues to ask for “a little more” 40 brandy, Hemingway’s heavy
+drinking might have also been a coping mechanism for his despair, which lead to his eventual
+suicide on July 2, 1961. In a 1935 letter to Ivan Kashkin, a critic and translator, Hemingway
+expresses his love for drinking: “I have drunk since I was fifteen and few things have given me
+more pleasure. When you work hard all day with your head and know you must work again the
+next day what else can change your ideas and make them run on a different plane like whisky?
+When you are cold and wet what else can warm you? Before an attack who can say anything that
+
+Ernest Hemingway, “A Clean, Well-Lighted Place,” Scribner’s Magazine, March 1933, accessed
+November 2015, https://www.unz.org/Pub/Scribners-1933mar-00149, 149.
+38
+
+39
+
+Hemingway, “A Clean, Well-Lighted Place,” 149.
+
+40
+
+Hemingway, “A Clean, Well-Lighted Place,” 149.
+
+28
+gives you the momentary well-being that rum does?…Modern life, too, is often a mechanical
+oppression and liquor is the only mechanical relief.”41 If Hemingway’s stories were his clean,
+well-lighted place, which (coupled with alcohol) served as relief from his despair, it seems that
+he too could never fully escape the darkness. His penchant for rewriting necessitates a repeated
+darkening of his pages: crossing out words with dark graphite, erasing pencil marks only to leave
+behind grey clouds of deletions, and the recovering of these tenebrous spaces with replacement
+words. These revisions, though seemingly insignificant, ultimately darken the cleanliness of his
+textual café.
+
+CONTRAST AS OBJECTIVE CORRELATIVE
+Revisions made to a story create an illuminated manuscript. However not in the classical
+sense with gold-leaf illustrations, but in a modern sense where greater information for the reader
+is gained not only through the presentation of visual cues but through the absence of them too.
+T.S. Eliot’s 1919 essay “Hamlet and His Problems,” a study of and exercise in literary criticism,
+outlines his theory of the objective correlative, which is present in “A Clean, Well-Lighted
+Place” as the tensions that arise from light and the lack thereof. The objective correlative, as
+Eliot defines it, is “a set of objects, a situation, a chain of events which shall be the formula of
+that particular emotion; such that when the external facts, which must terminate in sensory
+experience, are given, the emotion is immediately evoked.”42 Hemingway’s revisions,
+particularly ones surrounding elements that serve the objective correlative, become critical in
+order to grasp the overall emotion of the story. Further, Eliot’s theory of the objective correlative
+Carlos Baker, Ernest Hemingway Selected Letters 1917-1961 (New York: Simon and Schuster, 2003),
+420.
+41
+
+42
+
+T. S. Eliot, The Sacred Wood: Essays on Poetry and Criticism (London: Methuen, 1960), 100.
+
+29
+is that “there is a verbal formula for any given state of emotion that when found and used will
+evoke that state and no other.”43 Though contrast in “A Clean, Well-Lighted Place” serves many
+purposes, one reading of contrast in the story is as the object correlative, as it is the formula for
+the flux of the characters’ emotions. Additionally, much like light illuminates objects and
+consequently makes them easier to see, “it is the ‘objective correlative’ in experience that makes
+the intellectual and emotional value of the poem intelligible.”44 The intelligibility of the
+“intellectual and emotional value” of “A Clean, Well-Lighted Place” is aided by the way
+Hemingway incorporates contrast into both content and form.
+When discussing what he sees as critical misreadings of William Shakespeare’s classic
+tragedy Hamlet, Eliot deems Hamlet an “artistic failure” 45 in part because he finds that
+Shakespeare “has left in it superfluous and inconsistent scenes which even hasty revision should
+have noticed.”46 This argument made by Eliot affirms that a writer’s revisions are essential to
+understanding the author's true intention with regard to the emotion of the text, as revisions tend
+to be improvements. If a story is left unrevised, the central emotion of it is compromised by
+unnecessary words and images which distract from the author’s overarching message. Eliot, by
+way of literary theorist J. M. Robertson, concludes that “the essential emotion of the play is the
+feeling of a son towards a guilty mother,”47 adding that “Hamlet, like the sonnets, is full of some
+stuff that the writer could not drag to light, contemplate, or manipulate into art. And when we
+“New Reference Works in Literary Theory,” last modified September 3, 1995, http://www.echonyc.com/
+~goldfarb/encyc.htm
+43
+
+Michael Groden and Martin Kreiswirth, ed., The Johns Hopkins Guide to Literary Theory and Criticism
+(Baltimore: Johns Hopkins UP, 1994), 692.
+44
+
+45
+
+T. S. Eliot, The Sacred Wood: Essays on Poetry and Criticism (London: Methuen, 1960), 98.
+
+46
+
+Eliot, The Sacred Wood: Essays on Poetry and Criticism, 98.
+
+47
+
+Eliot, The Sacred Wood: Essays on Poetry and Criticism, 99.
+
+30
+search for this feeling, we find it, as in the sonnets, very difficult to localize.”48 Literature, to
+Eliot, is most successful when it can be reduced to an overall feeling subtle enough to require the
+reader to search for it yet present enough, in small ways, to be found. Hamlet’s failure comes
+from having an “essential emotion” so subtle it almost does not exist, and Eliot’s reason for it not
+existing is that Shakespeare himself could not express the story’s gist well enough to include it.
+Since the playwright could not drag the objective correlative in Hamlet “to light,” it is instead
+relegated to obscurity, never to be fully found by the reader, or perhaps even the author himself.
+In contrast, Hemingway’s “A Clean, Well-Lighted Place” is successful by Eliot’s standards, as it
+uses the relationship between light and dark to speak to the greater emotion of the story: the
+struggle between fulfillment and the emptiness of despair. Though Hemingway’s writing does
+speak to this objective correlative, localizing it is made easier by studying his revisions to the
+manuscript. Through analyzing the author’s consciousness during the writing process, we can see
+what efforts he made to sustain the objective correlative throughout, and where those efforts took
+the form of deletions, replacements, or insertions to the text. Eliot concludes the objective
+correlative in Hamlet is not found “in the action, not in any quotations that we might select, so
+much as in an unmistakable tone.”49 Granted, Hemingway’s revisions do affect the action and
+dialogue of the story, but more broadly his artistic choices affect the tone of “A Clean, WellLighted Place.”
+In his article detailing the overlap between musical and literary language, Mark Darlow
+notes that there was a “rich heritage of art-critical writing in early modern Europe that borrowed
+
+48
+
+T. S. Eliot, The Sacred Wood: Essays on Poetry and Criticism (London: Methuen, 1960), 100.
+
+49
+
+Eliot, The Sacred Wood: Essays on Poetry and Criticism, 100.
+
+31
+musical concepts such as harmony.” 50 Much like harmony can be reappropriated for the purposes
+of describing literary techniques, as evidenced by Christian Biet’s definition of clair-obscur as
+“designating ‘harmony based on contrast,’ ”51 so too can musical tone be adjusted to illustrate the
+sound of a story. Even Hemingway observes that his “stories are written so tight and so hard that
+the alteration of a word can throw an entire story out of key.”52 Additionally, when discussing
+how artists oftentimes “create the illusion of three dimensions in two-dimensional mediums,” 53
+Lois Fichner-Rathus notes that “in the realm of value, they frequently rely on a value pattern
+termed chiaroscuro, or the gradual shifting from light to dark through a successive gradation of
+tones.”54 While value has to do with the aesthetic treatment of light and dark as it is “the
+lightness or darkness of a color,”55 the chiaroscuric contrast in “A Clean, Well-Lighted Place”
+also speaks to what Hemingway values as more or less important to understanding the message
+of the story. Thus, value becomes a comment on both the treatment of color and the treatment of
+theme. Additionally, this “gradual shifting” of tones causes the text to take greater shape, lifting
+it off the two-dimensional page and into the realm of three-dimensions, or reality.
+To further drive his point regarding Hamlet’s deficiencies home, Eliot observes: “If you
+examine any of Shakespeare’s more successful tragedies, you will find this exact equivalence;
+
+50
+
+Mark Darlow, “ ‘L'intelligence Des Lumières’: On Clair-Obscur as a Case Study for Early Modern
+Metaphor,” Journal for Eighteenth Century Studies 37.4 (2014): 461, accessed April 10, 2016. doi:
+10.1111/1754-0208.12200
+Darlow, “ ‘L'intelligence Des Lumières’: On Clair-Obscur as a Case Study for Early Modern Metaphor,”
+462.
+51
+
+52
+
+Robert Paul Lamb, Art Matters (Baton Rouge: Louisiana State UP, 2010), 16.
+
+Lois Fichner-Rathus, Foundations of Art and Design: An Enhanced Media Edition (Belmont, CA:
+Wadsworth, 2011), 73.
+53
+
+54
+
+Fichner-Rathus, Foundations of Art and Design: An Enhanced Media Edition, 73.
+
+55
+
+Fichner-Rathus, Foundations of Art and Design: An Enhanced Media Edition, 88.
+
+32
+you will find that the state of mind of Lady Macbeth walking in her sleep has been
+communicated to you by a skillful accumulation of imagined sensory impressions; the words of
+Macbeth on hearing of his wife’s death strike us as if, given the sequence of events, these words
+were automatically released by the last event in the series.”56 The reader is only privy to Lady
+Macbeth’s eventual madness because of the “sensory impressions” Shakespeare leaves as literary
+breadcrumbs throughout the play. We, as the audience, learn to associate certain images with the
+story’s underlying theme, so much so that one cannot exist fully without the other, making every
+subsequent word or deed seem automatic and predetermined. “The artistic ‘inevitability’ lies in
+this complete adequacy of the external to the emotion.” 57 A reader can only make the jump from
+what is present in a text to what is suggested through the power of an objective correlative; it is
+the expression of something abstract, like an emotion, in concrete form. In “A Clean, WellLighted Place” this translates to despair as being expressed through darkness, both thematically
+and visually. Conversely, contentment is light.
+Light in “A Clean, Well-Lighted Place” serves as “a form of emotional relief”58 which
+allows Hemingway to depart from his own despair along with his characters. At the close of his
+essay “Hamlet and His Problems,” Eliot concludes that “Shakespeare tackled a problem which
+proved too much for him.”59 In the case of Hemingway, depression is not necessarily a topic he
+shies away from—after all, “it was a nothing he knew too well.”60 Instead, he illuminates the
+56
+
+T. S. Eliot, The Sacred Wood: Essays on Poetry and Criticism (London: Methuen, 1960), 100-101.
+
+57
+
+Eliot, The Sacred Wood: Essays on Poetry and Criticism, 101.
+
+58
+
+Eliot, The Sacred Wood: Essays on Poetry and Criticism, 102.
+
+59
+
+Eliot, The Sacred Wood: Essays on Poetry and Criticism, 102.
+
+Ernest Hemingway, “A Clean, Well-Lighted Place,” Scribner’s Magazine, March 1933, accessed
+November 2015, https://www.unz.org/Pub/Scribners-1933mar-00149, 150.
+60
+
+33
+reality of despair just enough so that he is not burdened with having to express it outright, but is
+present enough to be the contrast levity needs. In “A Clean, Well-Lighted Place,” the binary of
+light and darkness becomes the formula for the emptiness of a full life, the simultaneous
+presence and absence of everything. Hemingway’s choice to use light as an indicator of that
+which is good and vital and his use of darkness as a way to represent the depressing, solitary
+aspects of the protagonist’s life becomes further apparent when analyzing his revision process.
+The original manuscript for “A Clean, Well-Lighted Place” begins with a false start: “In
+Zargosa the”61 and is replaced by: “It was late and everyone had left the cafe except an old man
+who sat in the shadow the leaves of the tree made against the electric light.”62 Here, it is clear
+that Hemingway initially decided to begin his story by placing the reader geographically in a
+Spanish city, but instead revised his opening to situate the reader temporally instead. This move
+not only indicates a focus on a universal message rather than a culturally specific one, but also
+shows Hemingway’s first employment of the objective correlative. In a mere three words, the
+author causes the reader to not only make the cognitive jump from lateness to night (as the two
+are intrinsically linked), but also from night to darkness. The time of day introduces darkness
+into the story without darkness ever being named. This subtle invocation of darkness becomes an
+example of “the emotion [being] immediately evoked.” 63 Without realizing, the reader is
+suddenly transported not to a place, but to a feeling. This is the virtue of the objective correlative:
+
+Ernest Hemingway, “A Clean, Well-Lighted Place,” titled pencil manuscript w/ one false start. pp. 1-12.
+MS 337, Box MS39, series 1.2, Hemingway Collection. John F. Kennedy Library, Boston, Massachusetts,
+page 1.
+61
+
+Ernest Hemingway, “A Clean, Well-Lighted Place.” MS 337, Box MS39, series 1.2, Hemingway
+Collection, page 1.
+62
+
+63
+
+T. S. Eliot, The Sacred Wood: Essays on Poetry and Criticism (London: Methuen, 1960), 100.
+
+34
+it sets the tone of the story without Hemingway having to include the adjectives and excessive
+words his style disagreed with.
+Following the situating of the reader in darkness and, by the transitive property, dejection,
+Hemingway places the old man “in the shadow the leaves of the tree made against the electric
+light.” Much like the objective correlative is a suggestion of emotion, a shadow is a suggestion of
+darkness, both literally and figuratively. A shadow is most immediately “a dark shape produced
+by a body coming between rays of light and a surface,”64 but more deeply, it is an “evacuated
+shape,”65 according to Elizabeth Abel in her 2003 essay entitled “Shadows.” The evacuation of a
+shape is essentially an absence, both of tangibility and “individuating features.”66 By introducing
+the old man in the shadow of leaves, Hemingway renders him an anonymous tabula rasa, poised
+to have darkness and the discomfort it invites mapped onto him by the reader. As Abel notes: a
+shadow is “a persistent and uncanny presence that threatens to haunt the interior from within.”67
+The old man’s anonymity comes from the darkness of the leaves obscuring his person, and his
+presence is only made visible due to the contrast of the shadow against the electric light. It is this
+dependency between light and dark that creates the emotion of the objective correlative. And
+shadows serve as Hemingway’s first vehicle to deliver the story’s prevailing theme through.
+Notably, Hemingway’s opening sentence was present in the original false start and did not
+undergo any edits when rewritten at the beginning of his second attempt. The preservation of this
+
+“Oxford English Dictionary: shadow,” last modified 2016, http://www.oed.com/view/Entry/177212?
+rskey=SSW3uO&result=1&isAdvanced=false#eid
+64
+
+65
+
+Elizabeth Abel, “Shadows,” Representations 84.1 (2003) 189.
+
+66
+
+Abel, “Shadows,” 185.
+
+67
+
+Abel, “Shadows,” 190.
+
+35
+image, the shadow casting itself on the old man, shows Hemingway’s commitment to presenting
+the opening emotion via his objective correlative, the interplay between light and dark.
+In the original opening of “A Clean, Well-Lighted Place,” Hemingway deletes a sentence
+and promptly replaces it with a phrase that gets at the objective correlative more directly. In the
+original manuscript, it reads: “It was dusty in the street and the night wind blew the dust but at
+night you did not notice it. but at night the dew came and the dust did not blow with the night
+wind.”68 Once this original opening to the story is crossed out completely, Hemingway’s second
+draft replaces the aforementioned line with: “In the daytime the street was dusty but at night the
+dew settled the dust…”69 In the first, completely deleted line, Hemingway’s decision to mention
+night twice prepares the reader for the presence of darkness in the story. Also, he acknowledges
+the darkness of night by originally including that the dust is not visible then. Here, half of the
+objective correlative is set up. Next, Hemingway introduces a subtle suggestion of light in order
+to establish the true objective correlative: contrast. Substituting the deleted clause for one
+beginning with “but at night the dew came” activates the relationship between light and dark in
+the mind of the reader, since dew is formed at night on cool surfaces when atmospheric vapor
+condenses. Though dew is created under the cover of night, it is with the morning sun that it
+becomes visible. This anticipation of light creates contrast, albeit subtly. In the story’s second
+start, these two critical revisions crystallize. Hemingway revises the sentence to begin with “in
+the daytime,” now establishing light as a central motif in the story. Additionally, by inserting that
+
+Ernest Hemingway, “A Clean, Well-Lighted Place,” titled pencil manuscript w/ one false start. pp. 1-12.
+MS 337, Box MS39, series 1.2, Hemingway Collection. John F. Kennedy Library, Boston, Massachusetts,
+page 1.
+68
+
+Ernest Hemingway, “A Clean, Well-Lighted Place.” MS 337, Box MS39, series 1.2, Hemingway
+Collection, page 1.
+69
+
+36
+“at night the dew settled the dust,” Hemingway introduces the contrast of light and dark by
+showing how the two accomplish movement—a settling—when working hand in hand.
+Later on in the story, when the older waiter’s despair begins to become increasingly more
+obvious, Hemingway makes yet another deletion and subsequent replacement that aids the aim of
+the objective correlative. The manuscript reads: “Give us this day (nada) our daily nada…”70
+Daytime’s association with light comes from the sun’s presence and conversely, nighttime’s
+association with darkness stems from the lack of sunlight and the moon’s more subtle glow
+instead. By crossing out the word “day” as it stands in the Lord’s Prayer and replacing it with
+nada, Hemingway shows his interest in situating the older waiter in darkness, where days
+become nothing and light becomes absent. In the final lines of the short story, where Hemingway
+describes the state we leave the older waiter in, writes: “He would lie in the bed and finally,
+toward (with) morning (daylight) he would go to sleep.”71 The change in preposition from
+toward to with is significant because of its indication of the direction the character is going in. If
+the older waiter was going toward morning when falling asleep, as Hemingway initially
+intended, that shows an upward trend toward light and thus, relief from his despair. Also,
+“toward morning” suggests that it is still dark outside and the sun has not yet fully risen, giving
+the old waiter something to look forward to when he awakens. However, Hemingway’s change
+to “with daylight” creates a more somber ending: the man falls asleep as light is already aligned
+with him (“with” suggesting a lateral direction as opposed to a vertical one). If the old waiter
+
+Ernest Hemingway, “A Clean, Well-Lighted Place,” titled pencil manuscript w/ one false start. pp. 1-12.
+MS 337, Box MS39, series 1.2, Hemingway Collection. John F. Kennedy Library, Boston, Massachusetts,
+page 10.
+70
+
+Ernest Hemingway, “A Clean, Well-Lighted Place.” MS 337, Box MS39, series 1.2, Hemingway
+Collection, page 12.
+71
+
+37
+falls asleep even with the light of day being certain and visible, it shows that his despair truly
+does envelop him, so much so that he cannot bear facing the light.
+As for the final and arguably most telling revision, Hemingway’s title for the short story
+was changed. The story’s original title, which was written below the false start, was not crossed
+out like all of his other deletions, but was actually erased. All that remain are grey smudge marks
+and the original title’s final word (and the only legible one) underneath them: “Nothing.” 72 This
+further confirms Hemingway’s intent to make nothingness a thematic driving force of the story.
+“A Clean, well lighted place”73 is written over this, but the erasure, particularly in contrast with
+the rest of his deletions which are darkened yet not fully obscured, is thematically poignant.
+Visually, it appears that the text as a clean, well-lighted place is merely a superficial coverage
+over the darkness below. Much like the café is a temporary solution to the older men’s despair,
+erasing the original title does not eliminate it, but instead gives it greater presence, as it is
+obvious it is something that once existed. Ironically, writing a new title over the eraser marks
+creates further messiness and darkness on the page, which is the exact opposite of what the title
+promotes. Hemingway’s use of contrast, as both a thematic and aesthetic element in the story,
+becomes sharpened once revisions are juxtaposed against the published final product.
+When considering the relationship between revision and contrast, Bernard Lamy, a
+French oratorian, summarizes their symbiosis well: “The arrangement of words deserves special
+attention…We have to put each word at the place where it spreads the most light. It is a kind of
+
+Warren Bennett, “The Manuscript and the Dialogue of ‘A Clean, Well-Lighted Place,’ ” American
+Literature 50.4 (1979), 616.
+72
+
+Ernest Hemingway, “A Clean, Well-Lighted Place,” titled pencil manuscript w/ one false start. pp. 1-12.
+MS 337, Box MS39, series 1.2, Hemingway Collection. John F. Kennedy Library, Boston, Massachusetts,
+page 1.
+73
+
+38
+inversion to separate two words which must enlighten each other.” 74 The revision process’ chief
+goal is to change how the words on a page are seen, which necessarily engages with their
+arrangement. The intentionality that goes into revisions (otherwise why would they exist, if the
+author did not intend to make the text different?) is reminiscent of both the breadth and focus of
+light. On one hand, light spreads wide—leaking into crevices, filling the spaces in between
+words. But on the other, it accentuates what it hits directly. Since the words included in a text are
+illuminated by their very presence and those that are not included are essentially darkened by
+their absence, light and darkness are in conversation with omission, a cornerstone of
+Hemingway’s revision process. The paradox of Hemingway’s oft-used stylistic tool is that
+omission becomes addition; by adding marks (like strikethroughs for the purpose of deletion) to
+his manuscript, Hemingway subtracts content.
+
+Manon Plante, "The Art of Chiaroscuro Writing: Condillac and the Question of Word Order,” Journal for
+Eighteenth Century Studies 37.4 (2014): 480, accessed April 10, 2016. doi: 10.1111/1754-0208.12201
+74
+
+39
+
+CHAPTER TWO: THE PRESENCE OF OMISSION
+
+Ernest Hemingway is recorded as saying that “A Clean, Well-Lighted Place” is the story
+“from which he ‘left out everything. That is about as far as you can go, so I stood on that one and
+haven’t drawn to that since.’ ”1 Omission, at its most reduced, is an absence; but these absences
+present themselves in a multitude of ways. While most of Hemingway’s omissions are by
+definition exclusions from the text, exclusions can also manifest as deletions. And further, as
+deletions with subsequent replacements. Though a replacement is a presence, it necessarily
+occupies the space an absence did previous. As Paul Smith admits in his article “Hemingway’s
+Early Manuscripts: The Theory and Practice of Omission:” “my interest here is in how the idea
+of implication, which is what it amounts to, attained the status of a theory.”2 The theory he is
+referring to is Ernest Hemingway’s “Iceberg Theory,” or theory of omission. Hemingway
+explains his theory by asserting “that you could omit anything if you knew that you omitted and
+the omitted part would strengthen the story and make people feel something more than they
+understood.”3 Omission for Hemingway is more than just a stylistic choice; it is a mode of
+thinking as well. As defined, performing an omission requires a certain level of awareness on the
+part of the author, from recognizing an omission (or the opportunity for one) to understanding its
+effect on the story as a whole. He continues: “If a writer of prose knows enough about what he is
+
+Paul Smith, “Hemingway’s Early Manuscripts: The Theory and Practice of Omission,” Journal of Modern
+Literature 10.2 (1983), 277.
+1
+
+2
+
+Smith, “Hemingway’s Early Manuscripts: The Theory and Practice of Omission,” 270.
+
+3
+
+Smith, “Hemingway’s Early Manuscripts: The Theory and Practice of Omission,” 271.
+
+40
+writing about he may omit things that he knows and the reader, if the writer is writing truly
+enough, will have a feeling of those things as strongly as though the writer had stated them. The
+dignity of movement of an iceberg is due to only one-eight of it being above water.”4
+Hemingway’s omissions are born out of a confidence in his content, the knowledge that he
+“knows enough about what he is writing.” For the reader however, his omissions invite potential
+insecurity because omission puts the responsibility of gathering the other seven-eighths of the
+story on his audience. This is arguably a disadvantage as we do not have the luxury of knowing
+“enough” about what Hemingway is writing. However, the theory of omission is ultimately an
+indication of Hemingway’s interest in testing his dexterity with craftsmanship, for if he cannot
+communicate effectively using omissions, then his artistic endeavor becomes a failure because
+the reader will not be able to “have a feeling” of what his story means.
+On Ernest Hemingway’s theory, Paul Smith writes: “In most instances the theory has
+been construed to describe a single and distinct creative act. The manuscripts of the early stories,
+however, suggest that elements of the original conception of a story were ordinarily omitted or
+deleted at two stages in a complex process of writing.”5 These two stages can be seen most
+obviously when Hemingway begins to make the shift from referring to the two characters as
+“boys” to “waiters,” and in the way his revisions leave their mark on the page: earlier revisions
+appear to be more neat and precise, whereas his later ones reflect a duller pencil through the way
+the graphite spreads and smudges. Smith also acknowledges that “there are clear and crucial
+differences between omitting…deleting…replacing. I suspect that the decision to omit occurred
+
+Paul Smith, “Hemingway’s Early Manuscripts: The Theory and Practice of Omission,” Journal of Modern
+Literature 10.2 (1983), 272-273.
+4
+
+5
+
+Smith, “Hemingway’s Early Manuscripts: The Theory and Practice of Omission,” 271.
+
+41
+before or during what Hemingway thought of as ‘inventing’ his story, whereas the decision to
+delete or replace was the consequence of what he invented.”6 Though Smith’s offering is
+hypothetical, there is still much to be said about the omissions, deletions, and replacements
+beyond their role as clues into which phase of the story’s creation Hemingway was working on.
+These edits also reveal the type of aesthetic image Hemingway wanted to create: deletions leave
+greater white space on the page, while inclusions omit this visual pause. Deletions that are
+subsequently replaced by a different choice show that Hemingway’s mind is oscillating between
+what the reader must and never needs to know.
+The writer’s notorious use of omission is a revisionist offshoot of 19th century French
+painter Paul Cézanne’s deliberate choice to “leave small areas of canvas blank.”7 Similar to
+leaving paint out of the canvas, Hemingway’s omission and deletion of words causes the reader
+to rely merely on the vividness of what he includes on the page, which piques the reader’s
+curiosity about what is missing. The ambiguous speakers of dialogue in “A Clean, Well-Lighted
+Place” are an example of Hemingway’s tactic because the reader longs for a character to assign
+dialogue to and, as a byproduct of his or her longing, the reader attempts to supply what should
+be included through context clues which establishes an investment in the story. This investment
+is further supported because blank spaces encourage the reader to arrive at his or her own
+interpretation of the piece, which necessitates greater attention paid as an effort to fill in the
+blanks.
+
+Paul Smith, “Hemingway’s Early Manuscripts: The Theory and Practice of Omission,” Journal of Modern
+Literature 10.2 (1983), 277.
+6
+
+Theodore L. Gaillard, “Hemingway’s Debt to Cézanne: New Perspectives,” Twentieth Century Literature
+45.1 (1999), 67.
+7
+
+42
+
+CÉZANNE
+The artist Paul Cézanne is famous not only for his layered, repetitive brushstrokes, but
+also for his treatment of perspective and form. A self-proclaimed student of Cézanne’s, Ernest
+Hemingway once confessed: “I was learning something from the painting of Cézanne that made
+writing simple true sentences far from enough to make the stories have the dimensions I was
+trying to put in them.”8 Further, in Ernest Hemingway: A Life Story, Carlos Baker’s biography of
+the writer, Baker claims that Hemingway said in 1949 “it was from Paul Cézanne that he had
+learned how to construct his own verbal landscapes.”9 Unsurprisingly, then, Hemingway’s
+techniques to build greater visual interest and emotional impact in “A Clean, Well-Lighted
+Place” are derivatives of Cézanne’s painterly choices and of fine art, more broadly.
+
+Large Bathers by Paul Cézanne, 190610
+Theodore L. Gaillard, “Hemingway’s Debt to Cézanne: New Perspectives,” Twentieth Century Literature
+45.1 (1999), 65.
+8
+
+9
+
+Carlos Baker. Ernest Hemingway: A Life Story (New York: Scribner’s, 1969), 479.
+
+Paul Cézanne, Large Bathers, 1899-1906, oil on canvas, 817/8 in. x 98 in., Philadelphia Museum of Art,
+Philadelphia. In Cézanne: The Late Work. New York: The Museum of Modern Art, 1977.
+10
+
+43
+Large Bathers is one of Paul Cézanne’s most celebrated paintings, partially for his
+treatment of the nude form, but also for the way he allows the canvas to peek through and
+become a part of the scene. This uneven distribution of paint, which we can understand as visual
+information, creates white spaces in the piece. These white spaces serve a similar purpose to the
+deletions Hemingway performs during the revision process for “A Clean, Well-Lighted Place.”
+Granted, some of the information Hemingway omits will remain unknown, as it is impossible to
+know the things he was thinking about that did not even make it onto the page, but the exclusions
+from the manuscript we can see are available for analysis.
+Theodore Reff, in his essay “Painting and Theory in the Final Decade,” argues that “the
+failure to cover the surface completely has a different effect than in the unfinished paintings:
+since the color washes are from the beginning related to the white rectangular sheet, the
+untouched areas do not appear as gaps.”11 If done well, omissions should not leave the audience
+with a sense of confusion, but instead with a sense of greater interest. “The untouched areas [of
+Cézanne’s canvas] do not appear as gaps” work much like ellipses do, which are a visual
+acknowledgment of an omission in a text. Both gaps and punctuations of omission leave the
+suggestion of something more without robbing a reader of essential information. This sense of
+including just enough echoes throughout Cézanne’s paintings and Hemingway’s
+writing.“Cézanne is able to leave large parts of the white canvas preparation intact and yet if we
+view the canvas from the proper distance the effect of plastic continuity is complete.”12 Only
+upon closer inspection is Large Bathers punctuated with white spaces, and only through reading
+
+Theodore Reff, “Painting and Theory in the Final Decade,” in Cézanne: The Late Work, ed. William
+Rubin (New York: The Museum of Modern Art, 1977), 36.
+11
+
+12
+
+Reff, “Painting and Theory in the Final Decade,” 36.
+
+44
+the original manuscript of “A Clean, Well-Lighted Place” can his deletions be seen. In this way,
+omissions shift from being exclusions to inclusions; they become inclusions of greater white
+space in the text and greater knowledge of what, and how much, is missing. Both Hemingway
+and Cézanne omit the material of their art form: words and paint. Through removing dark, black
+words from the page, Hemingway leaves room for more white spaces, which creates a cleaner,
+well-lighted place from which to read his words. Much like the old man and the old waiter
+appreciate clean, well-lit bars to sit in at night to escape the darkness that is caused by their
+crippling sadness, so too is the reader freed from the pressure and mental overload that comes
+with reading excessive black text, which quite literally insists upon greater darkness on the page.
+Also, ironically, Hemingway’s repetitive use of nada inherently adds more darkness to the page,
+but the word, by definition, is nothing.
+In Large Bathers, movement is “created in the trees by leaving areas of the white canvas
+showing around the leaves and in between the spaces where the foliage would normally be.” 13
+The trees achieve greater dynamism once juxtaposed against the flatness of the blank canvas—
+which helps to give them the three-dimensionality they would have had they not been painted on
+a two-dimensional surface. This symbiotic relationship between presences and absences is
+similarly effective in “A Clean, Well-Lighted Place,” as the details about the story’s environment
+Hemingway leaves in for the final draft seem to gain more importance once seen next to what he
+has omitted. Naturally, this value system of importance is only possible because of the focus on
+what is presented, which absences—in the form of omissions or blank canvas—provide. The
+exclusions of these mediums (words and paint) help to bring greater definition and attention to
+Theodore Reff, “Painting and Theory in the Final Decade,” in Cézanne: The Late Work, ed. William
+Rubin (New York: The Museum of Modern Art, 1977), 36.
+13
+
+45
+the characters presented in the art pieces. Because of the power of contrast, the viewer can
+appreciate the outlines of Cézanne’s nude forms more when they are next to small white spaces.
+Their presence is defined by neighboring absences.
+Similarly, in an effort to declutter his sentences, Hemingway omits words from the text
+which give the words that remain included more weight. This weight includes both importance in
+the story and visual weight, for each word on a page adds density to it and thus more for the eye
+to work through. Additionally, omission’s second role as a moment of rest, whether that be in the
+form of visual rest on a canvas or a pause in the text to reflect, relieves the audience from the
+burden of inclusion. Further, omissions in the story allow for auditory rest as well; the less words
+we are presented with the less we have to hear and therefore silence is created. As Lori A. Brown
+notes in her book Feminist Practices: Interdisciplinary Approaches to Women in Architecture,
+“an absence reveals a background presence: paint exposes canvas; sound, background noise; or
+text, paper.”14 White space in Hemingway’s text (as in, the paper that the story is printed upon)
+becomes critical to consider particularly with respect to what I’ve discussed in chapter one. Not
+only does it add enticing contrast to the visual aesthetics of the story, but it also magnifies what
+is present in the story in terms of content and theme.
+
+UNMARKED DIALOGUE
+Absence is a central theme in “A Clean, Well-Lighted Place,” primarily evidenced
+through the protagonist’s emotional vacancy (his depression) and the absence of sound (his
+deafness). But the presence of absence extends beyond its role as a thematic element; in “A
+Clean, Well-Lighted Place,” Ernest Hemingway leaves the dialogue between the two waiters
+Lori A. Brown, Feminist Practices: Interdisciplinary Approaches to Women in Architecture (United
+Kingdom: Ashgate, 2011), 217.
+14
+
+46
+unmarked, making it a visual element in the text as well. In conversation, each speaker responds
+to the other in quick succession without their descriptor (either young waiter or older waiter)
+following their portion of dialogue. This ambiguity creates confusion in the mind of the reader,
+which mirrors the confusion both the old patron and older waiter suffer from. Joseph F. Gabriel,
+in his article “The Logic of Confusion in: Hemingway’s ‘A Clean, Well-Lighted Place,’ ” argues
+that “the inconsistency in the dialogue is deliberate, an integral part of the pattern of meaning
+actualized in the story.”15 Hemingway creates distinct characters with seemingly nothing in
+common but their occupation, yet through omission he bleeds one into the other, creating
+ambiguity. This illustrates how omission can paradoxically be an inclusion of something else.
+Hemingway’s use of omission undercuts his story’s title, for the dialogue is neither clean
+or well-lit. In his article “The Logic of Confusion in: Hemingway’s ‘A Clean, Well-Lighted
+Place,’ ” Joseph F. Gabriel asserts: “the structure of the dialogue symbolically represents the
+theme of chaos.”16 The chaos of the dialogue comes from each speaker’s immediate response to
+the other, without any attribution to buffer each line of speech. Additionally, the breadth of topics
+covered suggests a type of frenzy—a frenzy suggestive of both a cluttered mind and the
+disconnectedness of the two speakers’ worlds. “ ‘He hung himself with a rope.’ ‘Who cut him
+down?’ ‘His niece.’ ‘Why did they do it?’ ‘Fear for his soul.’ ‘How much money has he got?’
+‘He’s got plenty.’ ‘He must be eighty years old.’ ”17 In terms of content, the dialogue is
+schizophrenic. It moves over and under and in between various topics, without any assignment of
+Joseph F. Gabriel, “The Logic of Confusion in: Hemingway’s ‘A Clean, Well-Lighted Place,” College
+English 22.8 (1961), 540.
+15
+
+16
+
+Joseph F. Gabriel, “The Logic of Confusion in: Hemingway’s ‘A Clean, Well-Lighted Place,” 545.
+
+Ernest Hemingway, “A Clean, Well-Lighted Place,” Scribner’s Magazine, March 1933, accessed
+November 2015, https://www.unz.org/Pub/Scribners-1933mar-00149, 149.
+17
+
+47
+speaker for the reader to rest on. Omission, here, becomes chaotic. This chaos is also used to
+simulate the confused experiences of the characters in the story for the reader. Hemingway blinds
+us by preventing us from seeing each speaker when they are speaking, and deafens us by
+effectively removing their voices, since we cannot hear which waiter is saying what. At once, we
+are both confused by a chaotic emptiness and rendered senseless. We are thrust into the very
+darkness Hemingway’s characters are running from.
+The ambiguity created by omitting speakers is also brought into focus because of their
+differing world views; Hemingway makes their conversation just vague and universal enough
+that the reader can rightfully attribute the opinions presented to either waiter. This creates a
+moral dilemma in the mind of the reader. Who’s side are we on? Who do we trust? Though this
+decision does not affect the text itself, it necessarily affects the experience of reading the piece.
+Gabriel asserts that “there are…at least two concepts of nada in the story, the nada which each
+waiter sees.”18 As an extension of the story’s central theme (absence), the concept of nothingness
+becomes an essential way of determining which waiter is speaking and when. “ ‘Last week he
+tried to commit suicide,’ one waiter said. ‘Why?’ ‘He was in despair.’ ‘What about?’ ‘Nothing.’
+‘How do you know it was nothing?’ ”19 Had Hemingway endeavored to make the flow of the
+waiters’ conversation trackable, he would have specified which waiter was speaking when the
+conversation begins. Instead, he simply notes that “one” of the waiters said the old man tried to
+commit suicide last week. Because of their shared occupation, and thus job title, it becomes
+nearly impossible to decide which waiter has spoken. That is, until the clues into their
+Joseph F. Gabriel, “The Logic of Confusion in: Hemingway’s ‘A Clean, Well-Lighted Place,” College
+English 22.8 (1961), 542.
+18
+
+Ernest Hemingway, “A Clean, Well-Lighted Place,” Scribner’s Magazine, March 1933, accessed
+November 2015, https://www.unz.org/Pub/Scribners-1933mar-00149, 149.
+19
+
+48
+personalities that Hemingway provides are considered. The younger waiter’s callousness, as
+evidenced in moments like when he tells the old, deaf patron of the cafe “you should have killed
+yourself last week,” 20 gives the reader a suggestion of what he might say, in terms of content and
+tonality. But, even still, that does not provide absolute certainty.
+This duality between the waiters and their respective definitions of nada “is part of an
+experiment in multiple meaning”21 on Hemingway’s part, and “in making use of the range of
+semantic possibilities inherent in the words nada and nothing, [he] has…constructed a perfect
+ambiguity.”22 This ambiguity, created by the absence of cleanliness and clarity in the text, invites
+the reader to better understand why the old man might value the presence of the aforementioned
+attributes in a place to sit and drink at night. Leaving the speakers ambiguous also creates the
+type of helplessness that Hemingway is thematically concerned with in “A Clean Well-Lighted
+Place.” By omitting the identities of the speakers when they have dialogue, Hemingway is
+ultimately commenting on the fact that since nothing (nada) matters, whichever waiter is
+speaking should not either. Further, omission works as a unifying agent: as different as the
+younger and older characters in the story are described to be, all three will at some point
+encounter the darkness and nothingness one faces as one climbs in age. The old, deaf man
+happens to have experienced it first because he is oldest, and though the young waiter has yet to
+experience this, as evidenced by his callousness surrounding the old man’s need for refuge in the
+
+Ernest Hemingway, “A Clean, Well-Lighted Place,” Scribner’s Magazine, March 1933, accessed
+November 2015, https://www.unz.org/Pub/Scribners-1933mar-00149, 149.
+20
+
+Joseph F. Gabriel, “The Logic of Confusion in: Hemingway’s ‘A Clean, Well-Lighted Place,” College
+English 22.8 (1961), 543.
+21
+
+22
+
+Joseph F. Gabriel, “The Logic of Confusion in: Hemingway’s ‘A Clean, Well-Lighted Place,” 543.
+
+49
+clean, well-lit café, Hemingway predicts that he too will one day be like the old man, by
+removing his name (read: his individualism) after his dialogue.
+
+DELETIONS
+Nothingness is created by deletions in the text, which become more apparent when
+studying the original manuscript and observing what Hemingway eliminated. These absences
+serve the same purpose as omissions do in the final text, but during the revision process they
+suggest a different type of intention. Omissions, in Hemingway’s case, suggest an intentional
+artistry—it suits his style both thematically and aesthetically to leave certain elements of his
+story out. Deletions, on the other hand, reveal his human fallibility. Here, we see the artist
+perhaps even more truly at work, succumbing to his self-doubt, ever-changing mind, and the
+miniature mistakes that all help to define the writing process.
+As mentioned in the first chapter, Hemingway’s first deletion comes in the form of a false
+start. Hemingway’s deletions, in large part, are the most tangible examples of Hemingway
+emulating Cézanne’s penchant for leaving white spaces in his art. Following the author’s
+description of the two waiters in the cafe, he avoids qualifying it with his deletion of “where,”23
+which would indicate further elaboration on the environment, thus taking up more space on the
+page. He does this again later, on page three, when he writes: “The waiter took the brandy bottle
+and another saucer from the counter inside the café and walked out to where the old man’s
+table.”24 Here, Hemingway deletes yet another “where” for what appears to be the same reason.
+
+Ernest Hemingway, “A Clean, Well-Lighted Place,” titled pencil manuscript w/ one false start. pp. 1-12.
+MS 337, Box MS39, series 1.2, Hemingway Collection. John F. Kennedy Library, Boston, Massachusetts,
+page 1.
+23
+
+Ernest Hemingway, “A Clean, Well-Lighted Place.” MS 337, Box MS39, series 1.2, Hemingway
+Collection, page 3.
+24
+
+50
+On page three of the manuscript, which is where the ambiguous dialogue begins, there is
+a chain of four consecutive deletions that are all unintelligible. That is, where as most of
+Hemingway’s deletions are gently crossed out so that they are still readable, these four deletions
+from the text are darkened out so heavily that they are rendered absent. They appear in the
+manuscript as follows:
+“ ‘You should have killed yourself last week,’
+he said to the deaf man *deletion*. The old man
+motioned with his finger, ‘a little more,’ he said. The
+waiter poured (on into) the glass so that the brandy slopped over
+and ran down the stem into the top saucer
+of the pile. ‘Thank you,’ the old man said. The waiter took
+the bottle back inside the café. He sat down at the
+table with (his colleague) *deletion* again.
+‘He’s drunk now,’ he said.
+‘He’s *deletion* (drunk) every night.’
+‘What did he want to kill himself for?’
+‘*deletion* How should I know?’ ”25
+The first deletion comes after the younger waiter tells the deaf man he should have killed himself
+the week prior, seemingly in an attempt to allow the severity of the sentence to pack the most
+punch and end without excessive explanation. The second deletion comes on the heels of an
+
+Ernest Hemingway, “A Clean, Well-Lighted Place,” titled pencil manuscript w/ one false start. pp. 1-12.
+MS 337, Box MS39, series 1.2, Hemingway Collection. John F. Kennedy Library, Boston, Massachusetts,
+page 3.
+25
+
+51
+inclusion of “his colleague,” which seems to be a revision for the sake of diversity in the text.
+Hemingway likely wrote “the other waiter” or something similar first, only to realize the
+redundancy later. Deletion number three precedes a significant insertion: the old man’s
+drunkenness is a running observation throughout the story, and the inclusion of “drunk” in lieu of
+something else supports this theme. Last, Hemingway performs a deletion just before one of the
+waiters responds to the question of why the old patron wanted to commit suicide.
+Understandably an important moment in the text, since Hemingway teases us throughout the
+story with the suggestion that we just might learn the source of his character’s despair (which is
+the emotion that drives the entire plot), a deletion here shows careful consideration of the weight
+of this scene and how one of the waiters would most authentically respond. What Hemingway
+lands on as an answer is unsurprisingly ambiguous and unsatisfying; if the characters in the story
+do not know the source of the old man’s despair, then the audience has even less of a chance of
+finding out.
+Later on in the dialogue, Hemingway performs a deletion that represents his distance
+from the text, which is perhaps brought on by his own shared nihilism with the older men of the
+story. In a sense, he performs an omission of emotion. “ ‘Who cut him down?’ ‘His niece.’ ‘Why
+did they do it?’ They ‘Fear for his soul.’ ”26 Not only does this deletion simplify the response, but
+it also reflects Hemingway’s hesitation to include too many words when expressing emotion.
+Additionally, the author sustains the sense of ambiguity in his dialogue here. Notably, a “niece”
+is singular, but one of the waiters responds asking why “they” did it. In terms of number, this
+
+Ernest Hemingway, “A Clean, Well-Lighted Place,” titled pencil manuscript w/ one false start. pp. 1-12.
+MS 337, Box MS39, series 1.2, Hemingway Collection. John F. Kennedy Library, Boston, Massachusetts,
+page 3.
+26
+
+52
+response does not follow, and knowing this, Hemingway omits “They,” which serves as a
+confirmation of the strange word choice. Instead, he opts to leave the reader in ever greater
+confusion because the lack of acknowledgment of “they” being used is curious as well.
+Ernest Hemingway’s unfussy, direct style lends itself to a feature of his writing which
+Robert Paul Lamb, author of Art Matters: Hemingway, Craft, and the Creation of the Modern
+Short Story, has referred to as “dispassionate prose.”27 Lamb writes: “his language is always less
+emotional than the events narrated seem to demand. Paradoxically, this understated and often
+stoic language becomes the vehicle by which a strong emotional response is elicited from the
+reader.”28 By performing deletions that omit pivotal themes and images in “A Clean, WellLighted Place,” the heaviness of isolation in particular, Hemingway points up how painful
+nothingness can be.
+Though separate choices with regard to Hemingway’s voice, Lamb conflates the idea of
+dispassionate prose with “authorial judgment.”29 “If language must remain unemotional, then
+surely overt judgments, too, present a threat to the modern story’s aesthetic effectiveness.”30
+Through tracking what Hemingway includes, removes, and replaces, we are able to see what he
+deems important and what he thinks of as less so. While his judgments of his characters and their
+actions are more subtle, his judgments (read: choices) in general are evident through his editorial
+decisions. Hemingway uses his characters as tools through which he can reveal his opinions,
+without revealing his hand as author. The young waiter’s very vocal inflexibility surrounding the
+old man at the cafe exposes Hemingway’s judgment of the young man’s ignorance. No character
+27
+
+Robert Paul Lamb, Art Matters (Baton Rouge: Louisiana State UP, 2010), 22.
+
+28
+
+Lamb, Art Matters, 22.
+
+29
+
+Lamb, Art Matters, 33.
+
+30
+
+Lamb, Art Matters, 27.
+
+53
+truly chastises the young waiter for his callousness, which is consistent with Hemingway’s
+dispassionate prose and lack of overt judgments. But the way he characterizes the young man
+through his word choice particularly surrounding the younger waiter’s dialogue, the reader can
+assume how Hemingway likely feels about him.
+In light of this discussion on how Hemingway’s revisions help reveal the way he feels
+about his characters, on page five his opinion of the old man becomes increasingly evident: “The
+old man stood up, slowly counted took the saucers…” 31 The deletion of “took,” a strong action
+verb, shows Hemingway’s choice to erase the old man’s aggression only leaving slow resignation
+left. Whether Hemingway approves of this character trait or not seems largely irrelevant; if
+anything, it shows an interest the author has in doing the old man justice by deleting anything
+that does not seem aligned with his character. The way Hemingway’s deletions assist in the
+creation of authentic characters in the text is evident again on page five: “ ‘He can buy a bottle
+and drink at home,’ ‘Perhaps ‘It’s not the same.’ ”32 If we understand the first line to be spoken
+by the younger waiter (yet again based on his impatience surrounding the old man), the older
+waiter’s initial gentle consideration is replaced by a confident declaration. At this point in the
+dialogue, when the two waiters are in disagreement, it behooves the story to have a revision that
+serves the firmness of the older waiter’s opinion, as a way to raise the stakes.
+Last, the manuscript ends with a deletion. The bottom of page twelve reads: “[words
+illegible] not know. It would be easier if one knew. One feels certain things but one knows
+
+Ernest Hemingway, “A Clean, Well-Lighted Place,” titled pencil manuscript w/ one false start. pp. 1-12.
+MS 337, Box MS39, series 1.2, Hemingway Collection. John F. Kennedy Library, Boston, Massachusetts,
+page 5.
+31
+
+Ernest Hemingway, “A Clean, Well-Lighted Place.” MS 337, Box MS39, series 1.2, Hemingway
+Collection, page 5.
+32
+
+54
+nothing. Certainly there is no one who knows another.”33 This writing was done with “the same
+sharp pencil (again with small, tight writing)” 34 that other delayed inclusions, post resharpening,
+were performed with. This indicates that Hemingway struggled with how to end this story,
+because it was deleted soon after being added to the manuscript. Though this writing is at points
+illegible and imprecise, it is clear that it is an attempt at a clean ending to the story, as evidenced
+by Hemingway’s continued exploration of the insomnia the older waiter claims to have. By
+deleting it, he reveals a greater interest in preserving the ambiguity of the story until the end. In
+the published version, the last lines of the story are: “After all, he said to himself, it is probably
+only insomnia. Many must have it.”35 Over the course of the story the reader begins to
+understand the older waiter as similarly depressed to the old man, because of their shared age
+range, his compassion for the patron, and his nihilistic prayer. Hemingway attempts to confuse
+the reader yet again by summarizing the older waiter’s despair as insomnia, a sleep disorder,
+which is less fatal than depression. He trivializes the older waiter’s feelings further by writing
+that it is “probably only” insomnia, making it seem like a lack of sleep has less of an impact on
+his life than one would think. After spending the entire story characterizing the older waiter one
+way, Hemingway flips his treatment of him in the last lines of the story to confuse the reader’s
+conception of the older waiter’s despair. Ultimately, this deletion disallows both the old waiter
+and the reader closure.
+
+Ernest Hemingway, “A Clean, Well-Lighted Place,” titled pencil manuscript w/ one false start. pp. 1-12.
+MS 337, Box MS39, series 1.2, Hemingway Collection. John F. Kennedy Library, Boston, Massachusetts,
+page 12.
+33
+
+Warren Bennett, “The Manuscript and the Dialogue of ‘A Clean, Well-Lighted Place,’ ” American
+Literature 50.4 (1979), 617.
+34
+
+Ernest Hemingway, “A Clean, Well-Lighted Place,” Scribner’s Magazine, March 1933, accessed
+November 2015, https://www.unz.org/Pub/Scribners-1933mar-00149, 150.
+35
+
+55
+
+REPLACEMENTS
+While deletions create absences, or white spaces, in the text, some of these spaces are
+reoccupied with replacements. A deletion that remains one indicates that Hemingway truly did
+not want that element to be a part of the text, upon second thought. A deletion that is replaced
+with something presumably better suggests that Hemingway swapped out words not to serve his
+visual goals for the text (since he is still taking up space on the page), but instead to serve the
+actual content of the story. With an author so conscious of concision, any replacement seems
+necessary in order to advance the story.
+The fact that the title “A Clean, Well-Lighted Place” is a replacement of an erased,
+unintelligible first title has been discussed in chapter one. However, when considering revisions
+as a clue into the author’s thought process while writing, the title as a replacement reveals even
+more than its ironic role as a clean, well-lighted addition over a murky, smudged space.
+Handwritten in the manuscript, the title reads: “A Clean, well lighted place.”36 First,
+Hemingway’s lack of capitalization of three words which ought to be capitalized suggests a
+rushed job—not from carelessness, but actually from carefulness. This inattention to detail
+reflects a hurried Hemingway, eager to get the new title down on the page before he could forget
+it. I read this not as a need to quickly complete the story, but instead as the writer realizing he
+had found his version of perfection, and wanting to preserve it.
+Additionally, the grammatically correct hyphen linking “well” and “lighted” to create a
+compound adjective is not present in the manuscript, which further shows that Hemingway’s
+
+Ernest Hemingway, “A Clean, Well-Lighted Place,” titled pencil manuscript w/ one false start. pp. 1-12.
+MS 337, Box MS39, series 1.2, Hemingway Collection. John F. Kennedy Library, Boston, Massachusetts,
+page 1.
+36
+
+56
+second iteration of the title was ready to be documented the moment he thought it up. As is
+evident, Hemingway knew proper punctuation and capitalization, so these oversights do not
+seem to stem from a lack of awareness but instead a creative rush. Additionally, though both
+“lighted” and “lit” are acceptable versions of “light” in the past tense, Hemingway’s choice to
+use the former seems, particularly to a contemporary reader, like the more convoluted word
+choice. However, with Hemingway’s careful attention to detail in mind, the author might have
+used “lighted” to provide visual continuity, since three other words frequently used in the story
+“light,” “bright,” and “night” have the same collection and order of letters within.
+One of Hemingway’s most drastic revisions is in the way he refers to his two main
+characters: the older waiter and the younger waiter. In the manuscript when they are first
+introduced, he writes: “The two boys (waiters) inside the cafe…”37 This editorial decision
+drastically affects how the story reads. First, the original “boys” orients the characters by gender
+and not by occupation, the latter being essential to distinguishing them from the old man as they
+are all male. Also, “waiters” has within it the word wait, which subtly speaks to the pace of the
+story, which is largely about a conversation that arises because the two men are waiting for the
+old patron to leave the cafe to close for the night. This revision also allows Hemingway to age
+the waiters: as “boys” they are likely both young, since boy is the diminutive version of man.
+However as waiters they can reasonably be any age Hemingway would like, which allows for
+him to play with the contrast between the youth of the younger waiter and the aged wisdom of
+the older one.
+
+Ernest Hemingway, “A Clean, Well-Lighted Place,” titled pencil manuscript w/ one false start. pp. 1-12.
+MS 337, Box MS39, series 1.2, Hemingway Collection. John F. Kennedy Library, Boston, Massachusetts,
+page 1.
+37
+
+57
+The second instance of Hemingway replacing “boy” with “waiter” comes at the top of the
+second page of his manuscript and then never appears again. From this replacement forward, he
+writes “waiter” to describe the waiters the first time through. More specifically, the waiters are
+not distinguished by age until page six where the manuscript reads: “ ‘You have youth,
+confidence, and a job,’ the older waiter said. ‘You have everything.’ Then Hemingway evidently
+went back to page two of the manuscript and inserted a reinforcing reference to the ‘younger’
+waiter, because the thickness and texture of the pencil point at the time of this revision is about
+the same as in the writing on page six.”38 This points up Hemingway’s interest in widening the
+gap in understanding between the two waiters; his turn to their age gap to do so is succinct,
+taking up little room on the page because of the addition of only one extra word. Hemingway’s
+return to page two is with continuity in mind, and his handwriting serves as a loose timestamp of
+when he considered this.
+The next replacement in the story comes on the first page just two lines after the first
+change from “boys” to “waiters,” when Hemingway deletes an “and,” immediately replacing it
+with: “(and while he was a good client they knew).”39 It is clear that this replacement was made
+in the same breath as the deletion because the new phrase begins with the same conjunction,
+which suggests that Hemingway momentarily thought he was going in another direction but
+ultimately decided to stick with his initial choice. This replacement comes just on the heels of
+
+Warren Bennett, “The Manuscript and the Dialogue of ‘A Clean, Well-Lighted Place,’ ” American
+Literature 50.4 (1979), 617.
+38
+
+Ernest Hemingway, “A Clean, Well-Lighted Place,” titled pencil manuscript w/ one false start. pp. 1-12.
+MS 337, Box MS39, series 1.2, Hemingway Collection. John F. Kennedy Library, Boston, Massachusetts,
+page 1.
+39
+
+58
+Hemingway’s reveal that the old man “was a little drunk,”40 which makes his thoughtfulness
+surrounding the following clause understandable, as he knew it would likely dictate the reader’s
+feelings about the old man. With this in mind, his inclusion that the old man “was a good client”
+works to characterize the old man more evenly, so he is not solely thought of as a drunk.
+In yet another effort for greater specificity, on page three of the manuscript Hemingway
+writes: “One of the (The younger) waiters went over to him.”41 This replacement represents a
+stronger choice from Hemingway, opting for clarity over vagueness. Since the mystery that often
+accompanies omission is one of Hemingway’s stylistic hallmarks, it seems that his decision to
+have the younger waiter walk over to take the old man’s order for an additional brandy is
+significant. Though he does omit information on who is speaking for much of the dialogue in the
+story, here it clearly matters that the younger waiter, and not just “one of” them, will speak next
+in order to drive the plot forward. Additionally, the deletion of the pluralizing “s” at the end of
+“waiters” shows Hemingway’s attention to consistency in number during the revision process.
+Hemingway does this again later, on page four of the manuscript, when describing the younger
+waiter: “One of The waiters (who was in a hurry) came over.”42 Yet again, Hemingway achieves
+clarity through revision. In the earlier change, Hemingway uses the waiter’s age to distinguish
+him from the other waiter, but in this case he uses a character trait. A lack of tolerance begins to
+
+Ernest Hemingway, “A Clean, Well-Lighted Place,” Scribner’s Magazine, March 1933, accessed
+November 2015, https://www.unz.org/Pub/Scribners-1933mar-00149, 149.
+40
+
+Ernest Hemingway, “A Clean, Well-Lighted Place,” titled pencil manuscript w/ one false start. pp. 1-12.
+MS 337, Box MS39, series 1.2, Hemingway Collection. John F. Kennedy Library, Boston, Massachusetts,
+page 2.
+41
+
+Ernest Hemingway, “A Clean, Well-Lighted Place.” MS 337, Box MS39, series 1.2, Hemingway
+Collection, page 4.
+42
+
+59
+define the younger waiter in the pages prior, so the author’s decision to describe him as “in a
+hurry” is a fairly effortless leap for the reader to make.
+Conversely, on page five Hemingway performs the same revision to the older waiter,
+observing that the “other (unhurried) waiter asked”43 a question. The edits made to how both
+waiters are described usually are inversions yet reflect one another, which suggests that
+Hemingway at once saw them as opposites but as a unit too. It seems that “at the beginning of
+the story Hemingway had not preconceived any significant distinction between the two main
+characters,”44 later enhancing their difference “by developing the difference in ages, the
+difference between being ‘hurried’ or ‘unhurried’…”45 These differences, though small in
+presence on the page, are indicative of a divide much greater than their one-word sizes suggest.
+After the younger waiter impatiently asks the old man “What do you want?” 46
+Hemingway’s edits display slight hesitation on his part, which is immediately overturned. The
+following line reads: “The The old man looked at him.”47 This doubt in word choice seems
+momentary because it is promptly replaced with the same word; not only is “The” replaced with
+“The,” but doubt is replaced with confidence too. Though Hemingway’s revisions in light of
+proper grammar prove that he is attentive to it, one replacement says otherwise: when he reveals
+
+Ernest Hemingway, “A Clean, Well-Lighted Place,” titled pencil manuscript w/ one false start. pp. 1-12.
+MS 337, Box MS39, series 1.2, Hemingway Collection. John F. Kennedy Library, Boston, Massachusetts,
+page 5.
+43
+
+Warren Bennett, “The Manuscript and the Dialogue of ‘A Clean, Well-Lighted Place,’ ” American
+Literature 50.4 (1979), 618.
+44
+
+45
+
+Warren Bennett, “The Manuscript and the Dialogue of ‘A Clean, Well-Lighted Place,’ ” 618.
+
+Ernest Hemingway, “A Clean, Well-Lighted Place,” Scribner’s Magazine, March 1933, accessed
+November 2015, https://www.unz.org/Pub/Scribners-1933mar-00149, 149.
+46
+
+Ernest Hemingway, “A Clean, Well-Lighted Place,” titled pencil manuscript w/ one false start. pp. 1-12.
+MS 337, Box MS39, series 1.2, Hemingway Collection. John F. Kennedy Library, Boston, Massachusetts,
+page 2.
+47
+
+60
+that the old man “hanged (hung) himself with a rope.”48 While hung sounds more appropriate,
+when describing someone’s attempt to put themselves to death by hanging, “hanged” is in fact
+the proper usage of the past tense. This improper correction is sustained in the final text, which
+suggests that Hemingway and his editors deemed this error essential. Perhaps this failed attempt
+at proper grammar is meant to invite associations with the old man’s failed attempt at suicide.
+On page five of the original manuscript, Ernest Hemingway makes three fairly successive
+deletions and replacements that all serve greater specificity, while sacrificing greater white space
+on the page. When describing the old man’s departure from the cafe, Hemingway writes that he
+“took money from his (a leather coin purse) from his pocket opened it, chose coins from among
+the [word illegible] and paid for them (drinks), leaving a small (half a peseta) tip.”49 In all three
+instances, Hemingway trades more general language (“money,” “them,” and “small”) for phrases
+that give the reader more vivid imagery. And while Hemingway usually does capitalize on the
+opportunity to include greater space on the page thanks to omission, in these instances he
+sacrifices that for the reader’s benefit. Yes, Hemingway practices the art of word economy often,
+but here all of his replacements add to the sensation of the story—showing that even though
+Hemingway’s “theory of omission” holds true, he values eliciting a feeling above all else.
+Because of these revisions, the reader can feel the leather of the coin purse, see the drinks, count
+up to “half a peseta.” And as for the last replacement in particular, changing the quantity “small”
+
+Ernest Hemingway, “A Clean, Well-Lighted Place,” titled pencil manuscript w/ one false start. pp. 1-12.
+MS 337, Box MS39, series 1.2, Hemingway Collection. John F. Kennedy Library, Boston, Massachusetts,
+page 3.
+48
+
+Ernest Hemingway, “A Clean, Well-Lighted Place.” MS 337, Box MS39, series 1.2, Hemingway
+Collection, page 5.
+49
+
+61
+to the Spanish for half of one-hundred cents (or half of one present-day euro), not only gives
+greater detail, but subtly situates the reader in a Spanish city too.
+When an ambiguous waiter notes: “You’re (talk like) an old man yourself,”50 Hemingway
+omits the contraction equivalent to “are” in favor of describing how the waiter speaks. This
+revision changes the meaning of the sentence entirely. In the original version, the speaker
+suggests that the other waiter is an old man, whereas in the edited version it is simply said that
+the waiter talks like one. This heightens the sense of ambiguity Hemingway has already created
+surrounding the dialogue between the two waiters. While noting that someone talks like an old
+man is descriptive, observing that someone actually is an old man is more irrefutable. By
+omitting the more objective instance and replacing it with the sentence that is based on opinion,
+Hemingway sustains the ambiguity of the dialogue through revision.
+At the bottom of page five, just after agreeing that drinking at home is not the same as
+drinking at a cafe, the manuscript unfolds: “ ‘It is not the same.’ ‘No it is not,’ agreed the waiter
+with a wife. Although neither of them had ? the question they knew there was a good reason for
+cafes (He did not want to be unjust. He was only in a hurry.)”51 This deletion of a section longer
+than the succeeding replacement sentences illustrates Hemingway’s interest in word economy.
+From the very beginning of the deleted sentence, Hemingway’s first two words are fifteen letters
+collectively, which is nearly the same amount as the first five words of his first replacement
+sentence. This shows how much Hemingway’s revisions decluttered his stories. Additionally,
+
+Ernest Hemingway, “A Clean, Well-Lighted Place,” titled pencil manuscript w/ one false start. pp. 1-12.
+MS 337, Box MS39, series 1.2, Hemingway Collection. John F. Kennedy Library, Boston, Massachusetts,
+page 5.
+50
+
+Ernest Hemingway, “A Clean, Well-Lighted Place.” MS 337, Box MS39, series 1.2, Hemingway
+Collection, page 5.
+51
+
+62
+even though this replacement comes directly following the two waiters in agreement, it reveals
+Hemingway’s interest in trying to divide them by including that it was only the “waiter with a
+wife” who was in a hurry to get the old man out of the cafe. Interestingly, this distinction
+between the different levels of compassion seen from the two waiters becomes more obvious
+around page five of the manuscript, which is almost the midway point of the short story—
+seemingly to prepare the reader for the climactic rift between the younger and older waiter,
+which becomes greater toward the end. Had the deletion remained in the final text, it would have
+created an opposite sensation in the reader. After all, in the original version of the sentence,
+Hemingway refers to the two waiters jointly as “neither,” automatically associating them
+together and not dragging them apart.
+As mentioned in chapter one, the revision of the Lord’s prayer contains a telling deletion
+and replacement: “Give us this day (nada) our daily nada….”52 Now nearing the end of the story,
+Hemingway turns light and promise into nothing, with one slight word change. Similarly, on the
+last page of the manuscript, it is revealed that the older waiter “would lie in the bed and finally,
+toward (with) morning (daylight) he would go to sleep.”53 These replacements provide greater
+precision of imagery and less encroachment upon the white space of Hemingway’s canvas,
+because of their shorter length. Also, these replacements serve as a final reminder of the story’s
+objective correlative, ending the story with an overall sensation to leave the reader with.
+
+Ernest Hemingway, “A Clean, Well-Lighted Place,” titled pencil manuscript w/ one false start. pp. 1-12.
+MS 337, Box MS39, series 1.2, Hemingway Collection. John F. Kennedy Library, Boston, Massachusetts,
+page 10.
+52
+
+Ernest Hemingway, “A Clean, Well-Lighted Place.” MS 337, Box MS39, series 1.2, Hemingway
+Collection, page 12.
+53
+
+63
+
+ADDITIONS
+Paradoxically, additions—like deletions—function as a type of omission because they
+exclude the white space that was present previous to them moving in. While the discussion of
+inclusions in a text seems obvious, as everything on the page is inherently included, analyzing
+the moments where Hemingway adds more to the story upon second thought ultimately becomes
+a study of enhancement. Hemingway’s additions often happen when greater detail will benefit
+the story’s advancement, like when one of the waiter’s explains: “(I don’t want to look at him.) I
+wish he would go home. He has no regard for those who work.”54 Based on context clues, the
+reader is probably able to realize that this is the younger waiter speaking because of the lack of
+patience he has exhibited throughout the story prior to this moment. Hemingway’s addition of
+the new first sentence in the waiter’s dialogue confirms this further, because the tone of the
+sentence is consistent with the younger waiter’s uncompassionate statements toward the old
+patron. Examples of Hemingway’s inclusion of details that add greater character development
+happen throughout: “The waiter watched him go down the street, a very old man (walking
+steadily but with dignity.)” 55 and “the waiter (who was in a hurry).”56 In both instances,
+Hemingway sacrifices white space for the sake of more clearly defined characters, proving that
+he only omits details when they are inessential.
+
+Ernest Hemingway, “A Clean, Well-Lighted Place,” titled pencil manuscript w/ one false start. pp. 1-12.
+MS 337, Box MS39, series 1.2, Hemingway Collection. John F. Kennedy Library, Boston, Massachusetts,
+page 4.
+54
+
+Ernest Hemingway, “A Clean, Well-Lighted Place.” MS 337, Box MS39, series 1.2, Hemingway
+Collection, page 5.
+55
+
+Ernest Hemingway, “A Clean, Well-Lighted Place.” MS 337, Box MS39, series 1.2, Hemingway
+Collection, page 6.
+56
+
+64
+Ironically, the one place Hemingway uses the word “omission” in the text comes in the
+form of an inclusion, its opposite. “ ‘Finished,’ he said, *deletion* (speaking with that omission
+of syntax stupid people employ when talking to drunken people or foreigners.)” 57 This insertion,
+“written over the length of the right-hand margin of page five,”58 uses omission to illustrate not
+only that Hemingway was concerned with the concept during his writing process but also how he
+thinks about it. Since he speaks with an “omission of syntax” as the author of this story, could he
+be likening the reader to a drunk or a foreigner? And would he, then, be the stupid person? Or
+perhaps this addition is to show that an omission of syntax is a different thing entirely than the
+omission of detail, imagery, and emotion—three elements he omits from “A Clean, Well-Lighted
+Place” throughout.
+
+Ernest Hemingway, “A Clean, Well-Lighted Place,” titled pencil manuscript w/ one false start. pp. 1-12.
+MS 337, Box MS39, series 1.2, Hemingway Collection. John F. Kennedy Library, Boston, Massachusetts,
+page 5.
+57
+
+Warren Bennett, “The Manuscript and the Dialogue of ‘A Clean, Well-Lighted Place,’ ” American
+Literature 50.4 (1979), 617.
+58
+
+65
+
+CHAPTER THREE: A SOMETHING CALLED NOTHING
+
+The 1933 short story collection that “A Clean, Well-Lighted Place” is published in is
+titled Winner Take Nothing. Clearly, Hemingway is concerned with nothingness on both the
+micro (within this story) and macro (a collection of stories) scale, making it a present theme ripe
+for analysis. Winning is associated with gain, whether that be of social clout, a prize, or selfesteem. Ernest Hemingway’s construction that a winner gain nothing, seemingly an inverse
+definition of what a “winner” is, points up his exploration of the “pessimism of literary
+naturalism.”1 But is Hemingway suggesting that life is meaningless because of the presence of
+things that make it so, or because of the absence of meaningful things? This is the question most
+central to my discussion of nothingness in “A Clean, Well-Lighted Place.”
+The nihilism in “A Clean, Well-Lighted Place” stems from the darkness that envelops the
+old man and the older waiter because they are unable to see beyond their misfortune, literally and
+figuratively. The café in Hemingway’s story offers a momentary break from this blindness
+because it is well-lit, and with light comes visibility. However, light is ultimately defined by
+darkness, its opposite. And so with light, so too comes darkness. Additionally, though light is
+intangible, the medium through which it is projected is not: lightbulbs. Conversely, darkness and
+its shadowy offshoots are always abstract, unable to be felt in the same way. The immateriality of
+darkness ultimately plays into the larger theme of “A Clean, Well-Lighted Place”: nada.
+
+Harry M. Campbell, “Comments on Mr. Stock’s ‘Nada in Hemingway’s ‘A Clean, Well-Lighted Place,’ ’ ”
+Midcontinent American Studies Journal 3.1 (1962), 59.
+1
+
+66
+Darkness is nothing because it is the absence of light, characters and their emotions
+indistinguishable under its cloak. In classic Hemingway style, he does not express nihilism
+outright, but uses darkness to function as a suggestion of the philosophy.
+
+ABSOLUTENESS
+Hemingway’s omissions from the text reveal themselves in ways beyond the rote deletion
+of words during the revision process. In “A Clean, Well-Lighted Place,” the word nada
+represents an omission of faith, which is reflected in both the old man’s despair and the old
+waiter’s bastardization of the Lord’s Prayer. Sam Bluefarb, in his article detailing the “search for
+the Absolute”2 that takes place in Hemingway’s story, asserts that there exists a “Manichean split
+between an Absolute (or perfect) in which God or His equivalent is to be sought, and a world in
+which, if God is indeed dead, one must look for an Absolute which might fill the void of His
+loss. What has replaced lost faith in ‘A Clean, Well-Lighted Place’ is the older waiter’s sense of
+despair—which in itself becomes a negative statement of the old faith, as expressed in the older
+waiter’s recital of the Hail Mary in negative terms of nada.”3 By omitting the notion of faith
+from the short story, Hemingway leaves room for the two older men to find a feeling, or a word,
+to replace it. Manichaeism was an ancient religion founded by Iranian prophet Mani (hence its
+name), which was based on a dualistic view of the world which taught that there exists a struggle
+between a spiritual world of light and goodness and an evil, earthly world of darkness. 4 The
+
+Sam Bluefarb, “The Search for the Absolute in Hemingway’s ‘A Clean, Well-Lighted Place’ and ‘The
+Snows of Kilimanjaro,’ The Bulletin of the Rocky Mountain Modern Language Association 25.1 (1971), 1.
+2
+
+Sam Bluefarb, “The Search for the Absolute in Hemingway’s ‘A Clean, Well-Lighted Place’ and ‘The
+Snows of Kilimanjaro,’ ” 3.
+3
+
+“Manichaeism,” last modified October 2, 2000, http://www-bcf.usc.edu/~sbriggs/Britannica/
+manichaeism.htm
+4
+
+67
+foundation of Manichaeism also supports my first chapter on contrast, as it is yet another
+religious rubric situating light as equal to goodness and darkness with negativity.
+The old man’s decision to sit in the café deep into the night gains traction once we
+understand that the clean, well-lighted place is his way of finding God, or a sanctuary. The
+omission of faith in the story causes the old man to fill his inner void with alcohol. If faith, an
+abstract, cannot fill him, something tangible like drinking must. As the two waiters watch the old
+man drink at his table, they begin to gossip about his life beyond the walls of the café. When one
+waiter asks the other what the basis for the old man’s despair is, he answers “nothing.” 5 The old
+man’s attempted suicide was not triggered by nothing, but instead nothingness; he tries to end his
+life “to find an absolute answer to his own absolute despair.” 6 The finality of death is more
+comforting to the old man than the ambiguity of nothingness. Therefore, not only is the café an
+eventual source of emotional fulfillment for the old man because of its cleanliness and light, but
+it also provides a measurable fulfillment because he can drink there, and alcohol literally fills
+him up inside. “For the old man, as for many of Hemingway’s characters, drink is the ‘giant
+killer’ of that sadness, the anodyne that will ease, if only temporarily, the impact of the harsh
+realities of this world and dull the terrors of the next.”7 Alcohol, then, is the old man’s equivalent
+to the older waiter’s “anti-prayer of nada,”8 because both are coping mechanisms for dealing
+
+Ernest Hemingway, “A Clean, Well-Lighted Place,” Scribner’s Magazine, March 1933, accessed
+November 2015, https://www.unz.org/Pub/Scribners-1933mar-00149, 149.
+5
+
+Sam Bluefarb, “The Search for the Absolute in Hemingway’s ‘A Clean, Well-Lighted Place’ and ‘The
+Snows of Kilimanjaro,’ The Bulletin of the Rocky Mountain Modern Language Association 25.1 (1971), 4.
+6
+
+Bluefarb, “The Search for the Absolute in Hemingway’s ‘A Clean, Well-Lighted Place’ and ‘The Snows of
+Kilimanjaro,’ ” 4.
+7
+
+Bluefarb, “The Search for the Absolute in Hemingway’s ‘A Clean, Well-Lighted Place’ and ‘The Snows of
+Kilimanjaro,’ ” 5.
+8
+
+68
+with the difficulties of life and numb the men to the inconceivable abstractness of what is to
+come.
+Both plagued by insomnia, which the older waiter rationalizes by figuring that “many
+must have it,”9 the old man and the older waiter’s shared goal of finding an Absolute reveals
+itself through their relationship to light at nighttime. “ ‘I am of those who like to stay late at the
+cafe,’ the older waiter said. ‘With all those who do not want to go to bed. With all those who
+need a light for the night.” 10 This establishes “a community of interests”11 that the older waiter
+and the old man share. United by age, they both seek an Absolute to brighten their twilight years,
+the penultimate phase in life before death. Twilight is the time of day between daylight and
+darkness, making it a fleeting visual which is not absolute, since it is dependent on the contrast
+of the two times of day it is sandwiched in between. Just as the sky dims as the sun sets further
+and further below the horizon, the elderly men’s lives become less meaningful as time passes by.
+Therefore, the comfort they find in well-lit cafés and bodegas is due to the light’s absoluteness.
+Because it is artificial, it cannot change; it is either on, flicked off, but never gradually dims. The
+light of the cafe interrupts the passage of time—it undermines the darkness of the night sky
+outside and the impending darkness of old age. Hemingway’s choice to have man-made electric
+light serve as a substitute for the light of faith is a subtle nod to his power over the story, because
+it shows man ruling over nature. As author, he crafts the environment of the story much like the
+man-made light has the power to form the environment of the cafe.
+Ernest Hemingway, “A Clean, Well-Lighted Place,” Scribner’s Magazine, March 1933, accessed
+November 2015, https://www.unz.org/Pub/Scribners-1933mar-00149, 150.
+9
+
+10
+
+Hemingway, “A Clean, Well-Lighted Place,” 150.
+
+Sam Bluefarb, “The Search for the Absolute in Hemingway’s ‘A Clean, Well-Lighted Place’ and ‘The
+Snows of Kilimanjaro,’ The Bulletin of the Rocky Mountain Modern Language Association 25.1 (1971), 4.
+11
+
+69
+
+NADA
+The older waiter’s faith is so vacant that he replaces various religious words and the
+names of Christian deities with nada, or nothing. “Our nada who art in nada, nada be thy name
+thy kingdom nada thy will be nada in nada as it is in nada. Give us this nada our daily nada and
+nada us our nada as we nada our nadas and nada us not into nada but deliver us from nada; pues
+nada. Hail nothing full of nothing, nothing is with thee.” 12 The replacement of Father, heaven,
+hallowed, Mary, grace, and Our Lord with nada suggests an attempt at filling a spiritual void; the
+older waiter does not merely omit, which would leave room for more despair, but he offers a
+substitution, which shows some faith, albeit slightly sacrilegious. This move by the older waiter
+shows that he has not fully given up on an Absolute but instead has revised faith; the Lord’s
+Prayer and Hail Mary as textual artifacts with fixed forms remain themselves in terms of number
+of words (and thus length), but are altered internally, much like the older waiter himself is.
+Nada serves as an Absolute that is more tangible than the Absolute that is God. Bluefarb
+notes that because “the older waiter intones his anti-prayer in celebration of nada, we begin to
+see that the prayer is at least a concrete recognition of nothingness as an entity (or non-entity).” 13
+This concreteness lies in the fact that nada is an addition to the text, and not a vacancy, as its
+definition would suggest. Had Hemingway chosen to have the older waiter omit words from his
+prayer and provide no substitutions, the prayer would be as abstract as his loneliness is.
+However, since he offers something in the words’ place, it becomes grounded in reality. This
+waiter’s sense of nihilism becomes truly real because “in the place of the absent God and the
+Ernest Hemingway, “A Clean, Well-Lighted Place,” Scribner’s Magazine, March 1933, accessed
+November 2015, https://www.unz.org/Pub/Scribners-1933mar-00149, 150.
+12
+
+Sam Bluefarb, “The Search for the Absolute in Hemingway’s ‘A Clean, Well-Lighted Place’ and ‘The
+Snows of Kilimanjaro,’ The Bulletin of the Rocky Mountain Modern Language Association 25.1 (1971), 5.
+13
+
+70
+missing Mary, he enthrones the Nothingness which he sees all around him,”14 building it into the
+textual artifact. Ironically, these omissions of faith, as seen through the old man’s need to drink
+in a clean, well-lit café and the older waiter’s prayer revision, exist simultaneously with the
+pursuit of an Absolute, by way of faith. In the case of the old man, he drinks to subvert his
+sadness in the very place where he seeks refuge. “The old man looked at him. ‘Another brandy,’
+he said…The old man motioned with his finger. ‘A little more,’ he said.”15 By continuously
+asking that his cup be refilled, the old man is acknowledging his inner emptiness and
+succumbing to it through drinking his pain away, which actually fills him up. For the old man,
+visiting the cafe is a way of replacing faith. The cleanliness and the light of the cafe restore him,
+bringing him out of confusion and darkness, just as God for a person of faith would.
+To the older waiter, nothing, though intangible, is concrete: much like God, nothingness
+is too great to be defined, which ultimately makes it an equally satisfying solution to his lack of
+faith. Because it is an incomprehensible idea, nothing becomes everything…its versatility at odds
+with its very definition. Bluefarb asks: “what replaces faith when the basis for faith has gone?”16
+If God is understood as the “basis for faith,” the older waiter submits that nothing can replace
+Him, thus making life meaningless since there is nothing to look forward to. But, if He is gone,
+something actually does replace God in the prayers he recites: nada.
+
+Joseph F. Gabriel, “The Logic of Confusion in: Hemingway’s ‘A Clean, Well-Lighted Place,” College
+English 22.8 (1961), 541.
+14
+
+Ernest Hemingway, “A Clean, Well-Lighted Place,” Scribner’s Magazine, March 1933, accessed
+November 2015, https://www.unz.org/Pub/Scribners-1933mar-00149, 149.
+15
+
+Sam Bluefarb, “The Search for the Absolute in Hemingway’s ‘A Clean, Well-Lighted Place’ and ‘The
+Snows of Kilimanjaro,’ The Bulletin of the Rocky Mountain Modern Language Association 25.1 (1971), 3.
+16
+
+71
+
+NOTHINGNESS
+W.H. Auden, acclaimed British poet, said of the twentieth-century man that “the lion of
+Nothingness chases us about.”17 Karl Jaspers, a German existentialist, offers: “Being and
+Nothingness are inseparable, each containing the other, yet each violently repelling the other.”18
+Auden’s characterization of Nothingness as a beast, theoretically never to be outrun, supports the
+older waiter’s eventual realization that there is no Absolute, nothing to believe in. His resignation
+is borne of exhaustion, for nothingness is untamed and plagues man indiscriminately. Further,
+Jasper’s offering suggests that nothingness is not only inescapable, but that it is within us,
+perhaps the greatest example of an absence man can feel. To be alive is to be in purgatory; the
+older waiter’s revised prayer expresses this struggle between feeling nothing as a result of feeling
+everything. While the concept of nada is ultimately the main point on which “A Clean, WellLighted Place” pivots, Hemingway’s treatment of it represents a more broad utility as well. We
+assume, and rightfully so, “that the proper translation of ‘nada’ as it is used by the older waiter” 19
+is nothing, since the word nothing is used immediately following its Spanish equivalent nada:
+“Hail nothing full of nothing, nothing is with thee.”20 However, Campbell argues that it can also
+mean “ ‘The Soundless Sound’ or ‘The Voice of the Silence.’ ”21 These alternate definitions of
+
+Harry M. Campbell, “Comments on Mr. Stock’s ‘Nada in Hemingway’s ‘A Clean, Well-Lighted Place,’ ’ ”
+Mid-continent American Studies Journal 3.1 (1962), 58.
+17
+
+18
+
+Campbell, “Comments on Mr. Stock’s ‘Nada in Hemingway’s ‘A Clean, Well-Lighted Place,’ ’ ” 58.
+
+19
+
+Campbell, “Comments on Mr. Stock’s ‘Nada in Hemingway’s ‘A Clean, Well-Lighted Place,’ ’ ” 57.
+
+Ernest Hemingway, “A Clean, Well-Lighted Place,” Scribner’s Magazine, March 1933, accessed
+November 2015, https://www.unz.org/Pub/Scribners-1933mar-00149, 150.
+20
+
+Harry M. Campbell, “Comments on Mr. Stock’s ‘Nada in Hemingway’s ‘A Clean, Well-Lighted Place,’ ’ ”
+Mid-continent American Studies Journal 3.1 (1962), 57.
+21
+
+72
+nada illustrate the simultaneous presence and absence of feeling that the two older characters
+experience.
+My discussion of Étienne Bonnot de Condillac in chapter one with regard to his theory of
+clair-obscur is not particularly relevant here, but his larger role as a theorist on sensation is.
+Ernest Hemingway chose to make the old man protagonist deaf, which is an omission of one of
+his senses. By robbing the old man of the ability to hear, Hemingway further associates him with
+an aspect of nothingness. If we are to accept that “the faculties of the soul are not innate
+qualities”22 and instead “have their origin in sensation,”23 it is unsurprising that the removal of a
+sense distances the old man from a satisfied soul, which creates greater proximity to nothingness.
+In his 1754 Traité des sensations (Treatise on the Sensations), Condillac argues that “sounds are
+more suitable to the expression of emotional feeling…they give our statue the sadness and joy
+which are independent of acquired ideas…”24 Condillac imagines a statue as a man not yet
+influenced by sensation, and devotes chapters to isolating each sense and exploring how that one
+sense impacts man’s view of the world.
+In his chapter entitled “a man limited to the sense of hearing,” Condillac asses the power
+of hearing, which points up how disadvantaged the old patron is because of his deafness. Without
+his auditory sense, the old man cannot hear any sounds which express “emotional feeling,” a
+reasonable explanation for his despair. Even though sounds inspire both “sadness” and “joy” in a
+man, Hemingway’s deafening of the central character serves as a reminder of the underlying
+Margaret Carr, introduction to Condillac’s Treatise on the Sensations, by Etienne Bonnot de Condillac
+(Los Angeles: University of Southern California Press, 1930), xxii.
+22
+
+23
+
+Carr, introduction to Condillac’s Treatise on the Sensations, xxii.
+
+Etienne Bonnot de Condillac, Condillac’s Treatise on the Sensations, trans. Margaret Carr (Los
+Angeles: University of Southern California Press, 1930), 50.
+24
+
+73
+apathy in the story. This sense of meaninglessness is a result from neither feeling particularly
+negative or positive feelings, but feeling nothingness instead. The French theorist reduces the ear
+to having the ability to experience “two kinds of sensations: one is sound, properly so called, the
+other is noise.”25 Because of the old man’s deafness, it follows that he values the café for its
+cleanliness and light, which involve the sensations of touch and sight but not hearing. To this
+end, Hemingway tells the reader that “…the old man liked to sit late because he was deaf and
+now at night it was quiet and he felt the difference.”26 Naturally, the quietness of the night would
+not have mattered to the old man if it was merely an auditory experience, but because it doubles
+as a suggestion of mood, it is of use to him because he can feel it. This sense of being able to feel
+night is reflected in the use of darkness as half of the story’s objective correlative, which is a
+visual suggestion of feeling.
+Now, the claim that the old man is in despair borne out of a feeling that cannot be seen,
+“nothing,” begins to have more standing. The old man’s suffering is not solely due to the
+suffering of his senses however, because he cannot hear things that might contribute to his
+despair. When the younger waiter tells him “you should have killed yourself last week,”27 it
+literally falls on deaf ears, proving that the old man is unaffected by external negativity.
+However, this makes it even more clear that his despair is a pain coming from within, because he
+has it even though he cannot hear the cruelty of the younger waiter’s words. By making the old
+
+Etienne Bonnot de Condillac, Condillac’s Treatise on the Sensations, trans. Margaret Carr (Los
+Angeles: University of Southern California Press, 1930), 47.
+25
+
+Ernest Hemingway, “A Clean, Well-Lighted Place,” Scribner’s Magazine, March 1933, accessed
+November 2015, https://www.unz.org/Pub/Scribners-1933mar-00149, 149.
+26
+
+27
+
+Hemingway, “A Clean, Well-Lighted Place,” 149.
+
+74
+man deaf, Hemingway makes a case that depression is ultimately personal and not dictated by
+the outside world.
+Upon analyzing the manuscript for “A Clean, Well-Lighted Place” it becomes clear that
+Hemingway’s desire to include nothingness in the story was a decision made prior to his first
+attempt at a draft. In the beginning of the story, when one waiter asks the other what the old
+man’s despair stems from, the answer is “ ‘nothing.’ ”28 In response, the other waiters asks,
+“How do you know it was nothing?”29 Because of the weight of what the two waiters are
+discussing, it comes as a surprise that the response to the old man’s attempted suicide was that he
+was sad about nothing. This surprise works two-fold: because this response is so opposite what
+one would expect, since despair is probably the result of something, it is interesting that
+Hemingway performed no revisions to it. His treatment of nada from his first draft of the story is
+sustained all the way through up until publication, which suggests that he had clarity of thought
+surrounding this theme from the very beginning, so much so that it required no changes.
+Nothingness in “A Clean, Well-Lighted Place” is not only prevalent as a plot theme but
+also as a visual one. The word (or its Spanish equivalent) does not appear in the story that much
+in terms of frequency, but when present it appears in great concentration, namely during the
+older waiter’s anti-prayer section. The use of nada in lieu of religious language alone has a shock
+factor that situates the paragraph as the story’s climax, but the attention this section demands
+becomes even greater due to the density the repetition of nada creates. Here, Hemingway uses
+nada twenty-one times and “nothing” six times in a mere eleven lines of text, proving that he
+
+Ernest Hemingway, “A Clean, Well-Lighted Place,” Scribner’s Magazine, March 1933, accessed
+November 2015, https://www.unz.org/Pub/Scribners-1933mar-00149, 149.
+28
+
+29
+
+Hemingway, “A Clean, Well-Lighted Place,” 149.
+
+75
+wanted nothingness to have an impact thematically and visually. As evidenced by their despair,
+nothingness occupies much of the two older characters’ mental space. This imposition is
+mirrored in the fact that the nada prayer section is the largest block of text in the whole story, so
+nothingness takes up measurable visual space too. This aesthetic choice on Hemingway’s part is
+an attempt to engender a feeling in the reader similar to the experience of his characters. And
+since this is the penultimate scene to the end of the short story, it appears to be a final move to
+have his readers relate to his message. To this end, nothingness, which is a lack or absence,
+becomes a presence; much like omissions to a text become additions of more space on the page.
+In the story, the older waiter’s prayer is not offset from the rest of the descriptive text because
+Hemingway performs an omission of quotation marks. Usually dialogue is bracketed by the
+symbols, but in this instance it seems that Hemingway uses the absence of punctuation to reflect
+the absence of the speaker’s faith.
+Nothingness is also an absence in the manuscript in the form of deletions. And, as seen in
+chapter two, Hemingway uses deletion to create greater impact. “It was all a nothing and a man
+was nothing too.”30 Deleting the word “too” gives “nothing,” the word which is a suggestion of
+the story’s larger theme, more attention because it ends the sentence. Though this line break is
+not retained in the final text, the deletion also allows for “nothing” to end the line in the
+manuscript, which gave it even more significance to my eye.
+
+Ernest Hemingway, “A Clean, Well-Lighted Place,” titled pencil manuscript w/ one false start. pp. 1-12.
+MS 337, Box MS39, series 1.2, Hemingway Collection. John F. Kennedy Library, Boston, Massachusetts,
+page 9.
+30
+
+76
+
+NOTHING AS A LACK OF EVERYTHING
+Nothingness as a representation of absence manifests itself not only as an omission of
+faith, but also when the characters in “A Clean, Well-Lighted Place” discuss the measurable,
+more material things they are in possession of and the things they lack. In one of the few
+instances where Hemingway actually includes which waiter is speaking, the older waiter says to
+his younger coworker: “ ‘You have youth, confidence, and a job…you have everything.’ ”31 The
+conversation continues: “ ‘And what do you lack?’ ‘Everything but work.’ ”32 The older waiter’s
+assessment of the younger waiter’s life actually reveals much about his own. For him to conclude
+that the young man has “everything” after listing only three things he is in possession of, shows a
+fixation on the binary between everything and nothing. Surely, youth, confidence, and a position
+as a waiter do not constitute everything to be had in a life, but since the older waiter dwells in
+despair, he can see no grey area, only darkness. Yet again, he searches for an Absolute which this
+time comes in the form of “everything.” Because the older waiter is aware that he and his
+younger counterpart are “of two different kinds,”33 he sees no middle ground for them to share.
+The younger waiter has everything because he has nothing. Also, the old man’s fixation on
+juxtaposing nothingness with everything comes when he responds that he lacks “everything but
+work.” Instead of explaining that the only thing he has is work, he uses the negation of nothing
+for the second time, in order to bring greater attention to what he lacks.
+
+Ernest Hemingway, “A Clean, Well-Lighted Place,” Scribner’s Magazine, March 1933, accessed
+November 2015, https://www.unz.org/Pub/Scribners-1933mar-00149, 150.
+31
+
+32
+
+Hemingway, “A Clean, Well-Lighted Place,” 150.
+
+33
+
+Hemingway, “A Clean, Well-Lighted Place,” 150.
+
+77
+Hemingway’s contrasting of the presence of things (like youth and confidence) that the
+younger waiter has with the absence of what the older waiter possesses illustrates why the two
+waiters feel differently about the old patron staying late at the café. The younger waiter, in his
+frustration, argues that the old man “has no regard for those who must work.”34 Because this
+character is in possession of things beyond his occupation, he is more impatient and less willing
+to stay late. However, as the older waiter confessed, he has nothing but his work, which explains
+why he is content with working later. After all, once he is off work and forced to go home for the
+night, his world naturally darkens because he is beneath the night sky.
+Beyond the discussion of emotional vacancy, Hemingway incorporates nothingness into
+the story through his description of the environment as well. In the very first line of the story, he
+tells the reader that “every one had left the café except an old man.”35 Interestingly, Hemingway
+uses two words beginning with “every” (everything and “every one”) to bring attention to
+emptiness. “Every” serves as a suggestion of presence because it is defined as being all
+individual members of a set, so the author’s use of it to describe the contents of the young
+waiter’s life and the now-departed patrons at a café is necessarily at odds with the emptiness it is
+pointing up. Hemingway uses this tool of suggestion again when he describes the terrace as
+being “where the tables were all empty except where the old man sat.”36 Similarly, nothingness is
+highlighted by a word which connotes quantity, its opposite: “all.” Through this juxtaposition,
+Hemingway gives his nihilistic theme greater impact. It should also be noted that both of these
+
+Ernest Hemingway, “A Clean, Well-Lighted Place,” Scribner’s Magazine, March 1933, accessed
+November 2015, https://www.unz.org/Pub/Scribners-1933mar-00149, 149.
+34
+
+35
+
+Hemingway, “A Clean, Well-Lighted Place,” 149.
+
+36
+
+Hemingway, “A Clean, Well-Lighted Place,” 149.
+
+78
+instances serve to distance the old man from the majority, effectively isolating him; he is the only
+one left at the cafe, and the only one with a non-empty table. This situates him even more deeply
+in his despair because, as we eventually learn, he is an individual with no community other than
+the older waiter. Later in the story, in response to what it is the older waiter fears, the story
+answers “all a nothing.”37 Once again, “all” (a suggestion of fullness) and “nothing” (a
+suggestion of emptiness) are placed in close proximity, and this tension creates greater impact
+and surprise.
+Hemingway performs a critical inclusion into the text that comes at the climax of “A
+Clean, Well-Lighted Place.” During the revised prayer the older waiter recites, it shifts from
+following the format of the Lord’s Prayer, to the Catholic Hail Mary prayer: “(Hail nothing full
+of nothing, nothing is with thee.)”38 In a continued effort to create ambiguity in the story,
+Hemingway has confused two prayers into one. Additionally, he has blended languages: the
+Lord’s prayer uses nada as its substitution, whereas Hemingway uses the English “nothing” here.
+This inclusion represents the confusion that gives way to a controlled nihilism: the depressing
+realization that the waiter is not empty, but instead “full of nothing.” This inclusion, presumably
+an afterthought, shows Hemingway’s conscious effort to get this feeling across and, more
+broadly, plays with the overarching themes of presence, absence, and the way the two coexist.
+
+Ernest Hemingway, “A Clean, Well-Lighted Place,” Scribner’s Magazine, March 1933, accessed
+November 2015, https://www.unz.org/Pub/Scribners-1933mar-00149, 150.
+37
+
+Ernest Hemingway, “A Clean, Well-Lighted Place,” titled pencil manuscript w/ one false start. pp. 1-12.
+MS 337, Box MS39, series 1.2, Hemingway Collection. John F. Kennedy Library, Boston, Massachusetts,
+page 10.
+38
+
+79
+At the very end of the story, as the older waiter attempts to fall asleep, he posits to
+himself: “…it is probably only insomnia. Many must have it.”39 In an effort to end his story
+ambiguously, Hemingway uses insomnia as a euphemism for depression. After leading the reader
+to believe that the older waiter, after admitting to lacking “everything but work,”40 would be able
+to accept his despair, he uses one word to illustrate just how far away he is from acceptance.
+Additionally, in light of the discussion in chapter one, the objective correlative is at work in the
+final moment of the story. Because the older waiter admits to not being able to sleep, he reveals
+the close relationship he has with darkness since he is awake throughout the night. Because
+darkness throughout the story serves as a suggestion of despair, the old waiter indirectly
+confesses his sadness in the penultimate sentence to the end of the story. However, once again,
+Hemingway undoes this by trivializing the personal nature of despair, by adding “many must
+have it.” This encouragement of distance as the story ends exemplifies Hemingway’s point that
+nothingness is inescapable, just like the similarly all-encompassing suggestion that everyone
+must have insomnia. Nothingness, an absence, becomes an omnipresence.
+
+Ernest Hemingway, “A Clean, Well-Lighted Place,” Scribner’s Magazine, March 1933, accessed
+November 2015, https://www.unz.org/Pub/Scribners-1933mar-00149, 150.
+39
+
+40
+
+Hemingway, “A Clean, Well-Lighted Place,” 150.
+
+80
+
+CONCLUSION
+The question of whether authorial intent is recoverable or not has long been a subject of
+debate in the literary world. Some say no, for if we are not the author we can never know what
+inspired and formed a text. My project pushes back on this slightly, asking: but what if we
+analyze an author’s edits? Isn’t a writer’s revision process an uncovering of their thought process
+too? To this, some might still answer no. And to a certain extent, I agree. The analysis of a
+manuscript—a story in-progress—is not an exercise in certainty. But when it comes to literature,
+perhaps nothing is truly fixed. From its start as an oral tradition which lent itself to ever-changing
+retellings, to its modern-day printed form (the permanence of which begs for revisions to be
+made along the way); literature is always in transit. Its words pass through lips, are touched by
+rounds of editing hands, and are read by various sets of eyes…making literature more of a study
+in change than a study of truth.
+But revisions help make literature more true. A manuscript reveals human fallibility and
+exposes the imperfections of a text—both of these aspects artfully disguised upon publication. It
+could be argued, perhaps, that editing is dishonest; for is any text as true as its first draft? Is
+anything more honest than inspiration striking and remaining unchanged? After revising this
+project numerous times, I feel confident that revisions do, in fact, help the writer better achieve
+what she intends to say. Granted, writing loses some of its spontaneity upon second, third, and
+fourth thought; but because of this level of attention paid, intentions have time to crystallize.
+Ultimately, to me, language is both within us and outside of us; it bridges the gap
+between thought and conversation, much like revision is the link between idea and expression.
+
+ACKNOWLEDGMENTS
+First, thank you to my project advisor Alex Benson for your patience and insight. Your guidance
+during this process has been invaluable.
+
+Thank you to the archivists at the John F. Kennedy Presidential Library in Boston, Massachusetts
+for helping me execute my vision. Having the opportunity to view and learn from the original
+handwritten manuscript of “A Clean, Well-Lighted Place” in the Ernest Hemingway Collection
+has been one of the most exciting moments in my academic career.
+Friends! Thank you all for being my support system. This process would have been much more
+solitary and seemingly insurmountable without the community we created together.
+
+to my mother, Anne
+Thank you for instilling your love of language and writing in me since birth. Without that
+foundation this project simply would not be. You are my first love and my most trusted editor;
+our voices are forever entwined.
+
+to my father, Wren
+All my life you have understood me without my ever having to explain. Thank you for being my
+advocate, my inspiration, and my favorite conversation. Your fearless passion has molded me
+endlessly.
+
+to my sister, Morgan and my brother, Brandon
+Being your older sister brings me the most joy. Thank you for being my lifelong motivation, you
+two are the reason I reach for the stars!
+
+WORKS CITED
+Abel, Elizabeth. “Shadows.” Representations 84.1 (2003): 166-199. Accessed October 2015. doi:
+10.1525/rep.2003.84.1.166
+Baker, Carlos. Ernest Hemingway: A Life Story. New York: Scribner’s, 1969.
+Baker, Carlos. Ernest Hemingway Selected Letters 1917-1961. New York: Simon and Schuster,
+2003.
+Bennett, Warren. “The Manuscript and the Dialogue of ‘A Clean, Well-Lighted Place.’ ”
+American Literature 50.4 (1979): 613-624. Accessed November 2015. doi:
+10.2307/2925244
+Bluefarb, Sam. “The Search for the Absolute in Hemingway’s ‘A Clean, Well-Lighted Place’ and
+‘The Snows of Kilimanjaro.’ ” The Bulletin of the Rocky Mountain Modern Language
+Association 25.1 (1971): 3-9. Accessed November 2015. doi: 10.2307/1346601
+Brown, Lori A. Feminist Practices: Interdisciplinary Approaches to Women in Architecture.
+United Kingdom: Ashgate, 2011.
+Bruccoli, Matthew J., ed. The Only Thing That Counts: The Ernest Hemingway/Maxwell Perkins
+Correspondence 1925-1947. Columbia: University of South Carolina Press, 1996.
+Bryant, John. The Fluid Text: A Theory of Revision and Editing for Book and Screen. Ann Arbor:
+University of Michigan Press, 2002.
+Campbell, Harry M. “Comments on Mr. Stock’s ‘Nada in Hemingway’s ‘A Clean, Well-Lighted
+Place.’ ’ ” Midcontinent American Studies Journal 3.1 (1962): 57-59. Accessed
+November 2015. doi: http://www.jstor.org/stable/40640359
+Caravaggio, Michelangelo Merisi da, and Michael Kitson. The Complete Paintings of
+Caravaggio. New York: Abrams, 1967.
+Caravaggio, Michelangelo Merisi Da. The Calling of Saint Matthew. 1599-1600. Oil on canvas.
+340 cm. x 322 cm. Contarelli Chapel of San Luigi dei Francesi, Rome. In The Complete
+Paintings of Caravaggio, edited by Michael Kitson, Plate XXIV. New York: Abrams,
+1967.
+Carr, Margaret. Introduction to Condillac’s Treatise on the Sensations by Etienne Bonnot de
+Condillac, xix-xxvii. Los Angeles: University of Southern California Press, 1930.
+
+Cézanne, Paul. Large Bathers. 1899-1906. Oil on canvas. 817/8 in. x 98 in. Philadelphia Museum
+of Art, Philadelphia. In Cézanne: The Late Work, edited by William Rubin, Plate 189.
+New York: The Museum of Modern Art, 1977.
+Condillac, Etienne Bonnot de. Condillac’s Treatise on the Sensations. Translated by Margaret
+Carr. Los Angeles: University of Southern California Press, 1930.
+Darlow, Mark. “ ‘L'intelligence Des Lumières’: On Clair-Obscur as a Case Study for Early
+Modern Metaphor.” Journal for Eighteenth Century Studies 37.4 (2014): 459-471.
+Accessed April 10, 2016. doi: 10.1111/1754-0208.12200
+Donaldson, Scott, ed. The Cambridge Companion to Ernest Hemingway. Cambridge: Cambridge
+UP, 1996.
+Eliot, T.S. The Sacred Wood: Essays on Poetry and Criticism. London: Methuen, 1960.
+Enos, Theresa. Encyclopedia of Rhetoric and Composition: Communication from Ancient Times
+to the Information Age. New York: Routledge, 2010.
+Fichner-Rathus, Lois. Foundations of Art and Design: An Enhanced Media Edition. Belmont,
+CA: Wadsworth, 2011.
+Gabriel, Joseph F. “The Logic of Confusion in: Hemingway’s ‘A Clean, Well-Lighted Place.”
+College English 22.8 (1961): 539-546. Accessed November 2015. doi: http://
+www.jstor.org/stable/373494
+Gaillard, Theodore L. “Hemingway’s Debt to Cézanne: New Perspectives.” Twentieth Century
+Literature 45.1 (1999): 65-78. Accessed November 2015. doi: 10.2307/441664
+Groden, Michael and Martin Kreiswirth, ed. The Johns Hopkins Guide to Literary Theory and
+Criticism. Baltimore: Johns Hopkins University Press, 1994.
+Hemingway Collection. Hemingway, Ernest. “A Clean, Well-Lighted Place,” titled pencil
+manuscript with one false start. pp. 1-12. Manuscript 337, Box MS39, series 1.2. John F.
+Kennedy Library, Boston, Massachusetts.
+Hemingway, Ernest. “A Clean, Well-Lighted Place.” Scribner’s Magazine, March 1933.
+Accessed November 2015. https://www.unz.org/Pub/Scribners-1933mar-00149
+Lamb, Robert Paul. Art Matters. Baton Rouge: Louisiana State University Press, 2010.
+
+Manichaeism. Accessed April 2016. http://www-bcf.usc.edu/~sbriggs/Britannica/
+manichaeism.htm
+New Reference Works in Literary Theory. Accessed April 2016. http://www.echonyc.com/
+~goldfarb/encyc.htm.
+Online Etymology Dictionary. “Chiaroscuro.” Accessed April 2016. http://www.etymonline.com/
+index.php?allowed_in_frame=0&search=chiaroscuro.
+Online Etymology Dictionary. “Revise.” Accessed April 2016. http://www.etymonline.com/
+index.php?term=revise&allowed_in_frame=0.
+Online Etymology Dictionary. “Tenebrism.” Accessed April 2016. http://www.etymonline.com/
+index.php?allowed_in_frame=0&search=tenebrism.
+Oxford English Dictionary. “Shadow.” Accessed April 2016. http://www.oed.com/view/Entry/
+177212?rskey=SSW3uO&result=1&isAdvanced=false#eid.
+Plante, Manon. "The Art of Chiaroscuro Writing: Condillac and the Question of Word Order.”
+Journal for Eighteenth Century Studies 37.4 (2014): 473-485. Accessed April 10, 2016.
+doi: 10.1111/1754-0208.12201
+Poe, Edgar Allan. “The Philosophy of Composition.” Graham’s Magazine, April 1846. Accessed
+January 2016. http://www.lem.seed.pr.gov.br/arquivos/File/livrosliteraturaingles/
+filosofiadacomposicao.pdf
+Reff, Theodore. “Painting and Theory in the Final Decade.” In Cézanne: The Late Work, edited
+by William Rubin, 13-49. New York: The Museum of Modern Art, 1977.
+Smith, Paul. “Hemingway’s Early Manuscripts: The Theory and Practice of Omission.”Journal
+of Modern Literature 10.2 (1983): 268-288. Accessed November 2015. doi: http://
+www.jstor.org/stable/3831126
+Van Hulle, Dirk. Textual Awareness: A Genetic Study of Late Manuscripts by Joyce, Proust, and
+Mann. Ann Arbor: University of Michigan Press, 2004.
+
+

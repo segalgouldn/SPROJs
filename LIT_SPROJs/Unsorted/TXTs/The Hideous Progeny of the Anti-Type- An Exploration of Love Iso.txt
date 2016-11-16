@@ -1,0 +1,2061 @@
+Bard College
+
+Bard Digital Commons
+Senior Projects Spring 2012
+
+Bard Undergraduate Senior Projects
+
+2012
+
+The Hideous Progeny of the Anti-Type: An
+Exploration of Love, Isolation, and Pursuit in the
+work of the Shelleys
+Carley Gooley
+Bard College
+
+Recommended Citation
+Gooley, Carley, "The Hideous Progeny of the Anti-Type: An Exploration of Love, Isolation, and Pursuit in the work of the Shelleys"
+(2012). Senior Projects Spring 2012. Paper 173.
+http://digitalcommons.bard.edu/senproj_s2012/173
+
+This Access restricted to On-Campus only is brought to you for free and
+open access by the Bard Undergraduate Senior Projects at Bard Digital
+Commons. It has been accepted for inclusion in Senior Projects Spring
+2012 by an authorized administrator of Bard Digital Commons. For more
+information, please contact digitalcommons@bard.edu.
+
+The Hideous Progeny of the Anti-Type:
+An Exploration of Love, Isolation, and Pursuit in the work of the Shelleys
+
+Senior Project submitted to
+The Division of Languages and Literature
+of Bard College
+by
+Carley Gooley
+
+Annandale-on-Hudson, New York
+May 2012
+
+ii
+
+Acknowledgements
+
+I would first and foremost like to thank Lianne Habinek, not only for being my project advisor in
+this insane time in my life, but also for sticking with me through six straight semesters. I’d also
+like to think Cole Heinowitz for being the best advisor ever in all things academic and personal.
+Erin Canann and David Shein for making sure I didn’t slip through the cracks, and Deirdre
+d’Albertis for continuously making me smile whether she intended to or not.
+
+I’d also like to give my most deepest gratitude to Rebecca Stacey, without whom this project
+may have never seen the printer.
+
+I’d like to acknowledge my own anti-types, Emily Handsman and Jen Biener, who regardless of
+what this thesis argues, prove there is an ideal form of love.
+
+And finally to my fellow seniors: now we all have our own hideous progenies. I hope we all go
+forth and prosper.
+
+iii
+
+Table of Contents:
+
+Acknowledgements…………………………………………………………………………..……ii
+Table of Contents…………………………………………………………………………………iii
+Introduction………………………………………………………………………………………..1
+Chapter I – Double Double: Narcissistic Love and its Multitudes in “Alastor”…………………..6
+A Need to Flesh out the Anti-Type
+The Initial Dichotomy—The Two Poets
+The Veiled Maid—The Prototype and the Anti-Type
+Echoing Myth
+A Cautionary Elegy
+Chapter II – A Conversation of Introductions:
+Comparing the Prefaces of the 1818 and 1831 Editions of Frankenstein………….33
+Percy Shelley’s Preface to the 1818 edition
+Mary Sheley’s Introduction to the 1831 edition
+Chapter III – Frankenstein: The Anti Anti-Type Response to “Alastor”………………………..49
+Walton, the First Mad Scientist
+The Early Academic Obsession and Creation
+Wandering Kindred Spirits
+Creating Companionship and Chaos
+The Final Chase
+Works Cited………………………………………………………………………………..…….70
+Bibliography……………………………………………………………………………………..72
+
+1
+Introduction:
+“I have love in me the likes of which you can scarcely imagine and rage the likes of which you
+would not believe.” –The Creature from Mary Shelley’s Frankenstein1
+
+The Shelleys. That name alone conjures up a vast array of images representative of
+perhaps the most famous family in the history of English literature. Percy Shelley was and
+continues to be one of the faces of the Romantic movement, producing poetry that changed the
+course of the written word. Mary Shelley came from a family of rich literary pedigree the
+daughter of political writer and novelist William Godwin and one of the premiere voices of the
+women’s rights movement, Mary Wollstonecraft. When considering the influence of Shelley and
+Mary’s work combined the effect is immeasurable and they both produced works that continue to
+stand the test of time.
+But another thing comes to mind when considering the Shelleys besides their impressive
+body of work—their personal lives, fraught with love, scandal, and misfortune. The young Percy
+Shelley met Mary through her father, whose political views Shelley idolized. The was a problem,
+though, in that he was already married to his then nineteen year old, Harriet, pregnant with his
+first child. But Shelley was smitten with the precocious Mary Godwin and they ran away
+together, bringing along Mary’s stepsister Claire Clairmont. As one can imagine, a relationship
+begun in such a state of passion is primed to become saturated with drama. And so it was.
+Although Shelley had declared his love for Mary, there was also much speculation that he
+was also involved romantically with Claire. Mary may have won over Shelley’s affections so
+1
+
+Mary Shelley’s Frankenstein. Dir. Kenneth Branagh. Perf. Robert De Niro, Kenneth Branagh,
+Helena Bonham Carter. TriStar Pictures, 1994. Dvd.
+
+2
+that he would leave his wife, but she was not altogether at peace with his possible sexual
+deviancy. This manifests quite clearly in a letter she wrote to him while he was away at
+Bishopgate, right around the time when he would have been composing “Alastor,” one of the
+main focuses of this thesis. Richard Holmes points out that her real fears were not his separation
+from her, but that:
+The real basis for her fears was revealed in a brief paragraph that came
+unexpectedly in the middle of her letter. ‘Pray is Clary with you? for I have
+enquired several times & no letters – but seriously it would not in the least
+surprise me if you have written to her from London & let her know that you are
+there without me that she should have taken some such freak - ’ (Holmes, “Up the
+River” 287)
+Holmes continues to point out that it is unknown whether Claire was indeed with Shelley at this
+time, but her worry about the action speaks louder than the possible action itself.
+When Shelley returns he shares a quiet domestic life with Mary for a time which
+undoubtedly consisted of discussions between the two of his works, certainly of “Alastor: Or the
+Spirit of Solitude.” This poem follows a young Poet on the quest for his idealized love and retells
+his inevitable death following the unrealizable dream. The philosophical ideas of love that
+Shelley explores in this work were something he intensely struggled with, but Mary may not
+have agreed with the conclusions the poem draws. Richard Holmes points out that:
+When Mary Edited Alastor, it is suggestive that she tried to draw a veil across the
+subject matter and implications of the poem…Mary wrote in 1839, ‘This is
+neither the time nor the place to speak of the misfortunes that chequered his life. It
+will be sufficient to say that, in all he did, he at the time of doing it believed
+
+3
+himself justified to his own conscience; while the various ills of poverty and loss
+of friends brought home to him the sad realities of life. Physical suffering had also
+considerable influence in causing him to turn his eyes inward; inclining him rather
+to brood over the thoughts and emotions of his own soul than to glance abroad,
+(Holmes, “Up the River” 306).
+Instead of referring to the actual subject matter of the poem, she almost makes an excuse for him
+pointing to their difficulties around the time “Alastor” was written. But seems to believe that
+Mary altogether avoided facing Shelley’s views on love and his disappointments surrounding it,
+when in actuality, she engaged the subject matter but in a similar manner as her husband—
+through her writing.
+The story of how the young Mary Shelley thought of and wrote one of the most famous
+pieces of horror fiction of all time is nearly as infamous as the novel itself. She, Shelley, Byron
+and another, less known, man named Polidori, sat around one dreary summer reading the ghost
+stories of others until Byron proposed a contest between the group, to see who could write the
+best horror story. After many days of not a single thought the horrific nightmare of a student
+standing over a patchwork man of dead flesh stirring to life provides Mary with her own creative
+spark and leads her produce the novel as we know it today.
+This origin story is almost too good to be true, however, and a little too simple for Mary
+Shelley’s talent. Though the story is undoubtedly true, the idea of Mary’s mind being a
+completely blank slate before this dream came to her is a little absurd, especially when you take
+her husband’s work into account. The dream vision was “Like the fierce fiend of a distempered
+
+4
+dream.”2 But this is not a description of her nightmare, but a line from Shelley’s “Alastor” that
+nearly perfectly describes it. This is too close to be a mere coincidence and points to a perhaps
+obvious fact—that artists with such fraught lives will inevitably manifest their experiences in
+their work.
+Though critics have made the argument that Shelley’s poem “Alastor” and the themes it
+explored heavily influenced Mary Shelley’s Frankenstein this thesis focuses instead on how the
+novel is a response. Between Shelley’s fickle nature in relationships proved by his abandonment
+of his first wife, as well as his sexual deviance with Claire Clairmont, it is not surprising that his
+struggles with the definition of a perfect love is explored in his poetry. It should be equally
+unsurprisingly then, that Mary would do the same, taking the opportunity in her work to respond
+and explore this and similar concepts.
+Before we begin the examination of how these ideas manifest and correspond in the work
+of these two authors, a quick note on the text. Though many scholars prefer to use the 1818
+edition of Frankenstein because of its status as a first edition and it being seen as the most
+“pure.” For the purposes of this thesis, however, the 1831 edition was used including the edits
+Mary Shelley made after her husband’s death. This is because of a heavy focus on the
+introduction to this edition in chapter two. Regardless of any so-called purity, Mary Shelley
+made the edits herself and therefore it should be respected as the form of the novel she wished
+presented to her readership.
+As Mary Shelley fondly referred to Frankenstein in her introduction, her novel is not
+simply her own ‘hideous progeny’ but a work born out of the literary merits of her entire family,
+2
+
+Abrams, M. H., and Stephen Greenblatt. “Alastor” The Norton Anthology of English Literature.
+7th ed. Vol. 2A. New York: Norton, 2000. 702-19. Print. Line 26.
+
+5
+but especially that of her future husband. She is not the passive, feminine author she is
+sometimes portrayed as being, instead engaging her own work with that of Shelley’s, exploring
+his ideas further and taking them in a new direction. This is the most evident in references to
+“Alastor,” specifically the poem’s failed criticism of a form of narcissistic love focused around
+the “anti-type,” a projection of the ideal self. Mary instead takes this criticism and illustrates the
+true horrible potential that Percy Shelley seemed blind to, or simply unwilling to see. Mary’s
+hideous progeny is also the offspring of this perhaps misguided ideal, proving a very keen
+literary eye and master craftsmanship underneath her seminal story of fervent isolationism, the
+release of a horrific phantasm, and the terrifying consequence of an unchecked intellectualism.
+
+6
+Chapter I
+Double Double: Narcissistic Love and Its Multitudes in “Alastor”
+If we reason, we would be understood; if we imagine, we would that the airy children of our
+brain were born anew within another’s; if we feel, we would that another’s nerves should vibrate
+to our own, that the beams of their eyes should kindle at once and mix and melt into our own,
+that burning with the heart’s best blood. This is Love. This is the bond and the sanction which
+connects not only man with man but with everything which exists. We are born into the world,
+and there is something within us which, from the instant that we live, more and more thirsts after
+its likeness.—Percy Bysshe Shelley3
+A Need to Flesh out the Anti-Type
+The above quote may be the young Shelley’s most clearly articulated attempt to answer a
+question that many artists have deemed to be indefinite—What is love? Love is not simply an
+emotion for Shelley, but it seems, an entirely new method of existence—a life born anew with
+the full integration of another. Our physical make-up must pulse in tandem, the spiritual presence
+we convey through our eyes must meld into a single shade. We search for what is like us so that
+it may become us. This, as Shelley boldly states, is love. This passage appears in Shelley’s essay
+simply entitled “Essay on Love,” written sometime between 1814 and 1815. Traditionally, critics
+have taken this essay to be directed at Mary Shelley4, the young girl with whom he ran away
+from his first unhappy marriage. A letter from Shelley to his good friend Thomas Jefferson Hogg
+on October 3rd, 1814 nearly confirms this assumption when he writes of the young Mary:
+I speak thus of Mary now…and so intimately are our natures now united, that I
+feel whilst I describe her excellencies as if I were an egoist expatiating upon his
+
+3
+
+Shelley, Percy Bysshe, and Richard Holmes. "Essay On Love." Shelley on Love: An Anthology.
+Berkeley: University of California, 1980. Print. 71.
+
+4
+
+Holmes, Richard. “Up the River: Bishopgate 1815.” Shelley: The Pursuit. New York: E. P.
+Dutton, 1975. Print. 299.
+
+7
+own perfections. Then how deeply did I not feel my inferiority, how willingly
+confess myself far surpassed in originality, in genuine elevation & magnificence
+of the intellectual nature until she consented to share her capabilities with me. I
+speedily conceived an ardent passion to posses this inestimable treasure. (P. B.
+Shelley, “Love Reborn” 60)
+Shelley’s actions as described in this letter—the pursuit of Mary, the need to take ownership of
+her, and their eventual perceived inextricableness—are a near perfect template for his own
+criteria of love as laid out in the musings of his notebook that would become “On Love.”
+Unfortunately, not all is ideal in Shelley and Mary’s relationship as one may initially
+glean from the rapture expressed above. Unlike the clear overflow of idealized and seemingly
+unshakable romantic love present in this letter to Hogg, the essay “On Love” itself begins with
+the realization of distance between himself and Mary. The essay begins:
+I know not the internal constitution of other men, nor even yours whom I now
+address. I see that in some external attributes they resemble me but when misled
+by that appearance I have thought to appeal to something in common and
+unburdened my inmost soul to them, I have found my language misunderstood
+like one in a distant and savage land. (P. B. Shelley, “On Love” 71)
+It seems as though Shelley’s initial impression of perfect semblance between himself and Mary
+has shifted and he recognizes the inevitable disjointed nature of their relationship. As Shelley
+continues this introduction to his essay exploring love, he expands his frustration over the rift
+between himself and Mary to a frustration with every relationship he has, declaring “with a spirit
+ill fitted to sustain such proof, trembling and feeble through its tenderness, I have sought
+sympathy and found only repulse and disappointment,” (P. B. Shelley, “On Love” 71).
+
+8
+Regardless of this recognition of the gap present between himself and Mary, and the admission
+of the seeming impossibility of the absence of such a gap, Shelley goes on to assert and insist
+upon a love build around what he calls the “anti-type; the meeting with an understanding capable
+of clearly estimating our own; an imagination which should enter into and seize upon the subtle
+and delicate peculiarities which we have delighted to cherish and unfold in secret,” (P. B.
+Shelley, “One Love” 72). Richard Holmes, in his biography, Shelley: The Pursuit, perhaps best
+summarized the conclusions of “On Love,” which in spite of the tensions put forth by its
+unattainability, “that ideal self or ‘prototype’ to be discovered within the lover’s own heart. The
+beloved remains, in other words, an ideal projection of the self, which by definition must be
+unchanging, self-sufficient and therefore ultimately sterile,” (Holmes, “Up the River” 303).
+Shelley found the concrete definition to the anti-typical structure of love in his prose, but
+it was not until he set out on the second long poem of his career5, the 720 lined “Alastor; or, The
+Spirit of Solitude” that Shelley truly begins to explore the true implications of this philosophy.
+The poem and its preface were both written in the autumn of 1815 at Bishopgate, around the time
+of the previously discussed letter to Hogg, though it is not clear whether letter or poem was
+written first. At this time, Mary had temporarily excluded from the household her step-sister
+Claire Clairmont, of whom Shelley was quite fond and perhaps sexually involved with as well.6
+This circumstance may have further prompted Shelley’s musing on love, which resulted with
+“Alastor.” As Richard Holmes describes, Shelley “had pressed the search into the caverns of his
+own mind as far as he could go in prose. He now sought the even greater formality and
+distancing of poetry,” (Holmes, “Up the River” 300) and the narcissistic love archetype of the
+5
+
+Holmes, Richard. “Up the River: Bishopgate 1815.” Shelley: The Pursuit. New York: E. P.
+Dutton, 1975. Print. 299-300.
+6
+Shelley, Percy Bysshe, and Richard Holmes. “Second Marriage.” Shelley on Love: An
+Anthology. Berkeley: University of California, 1980. Print. 67.
+
+9
+anti-type continued to be a central theme, to be critiqued, sought for, romanticized, condemned,
+and mourned in Shelley’s work. If we take “On Love” to be Shelley’s academic exploration of
+his ideas of love, we can then read “Alastor” as a spiritual thought experiment—an exercise to
+take his ideas and push them to their limits in a form outside of himself though deeply saturated
+in his own terms.
+The Initial Dichotomy—The Two Poets
+“Alastor” presents a spiritual exploration on the part of the narrator, or as Shelley himself
+insists at the start of the Preface, the poem “may be considered as allegorical of one of the most
+interesting situations of the human mind,” (P. B. Shelley, “Preface” 703). Given Shelley’s past
+manner of discussing the matter of love within terms of the very personal and biographical as in
+his contemporaneous “Essay on Love,” the reader is primed to read this poem with an
+autobiographical lens. Perhaps knowing or fearing this, or perhaps if only for his own personal
+journey through grappling with ineffable qualities of his idealized version of love, Shelley,
+according to Holmes, “wrote the poem precisely in order to distance himself from his own lived
+experience,” (Holmes, “Up the River” 303). This attempt to distance himself from the subject
+matter of the poem is quite obvious when examining the structure of the poem in its entirety.
+At the onset, the reader is confronted not with verse but with the prose of a preface, in
+which, Shelley clearly draws a judgment against the absolute devotion to the “anti-typical”
+construction of love, claiming that those who prefer solitude and self-centeredness to “human
+sympathy,” “languish, because none feel with them their common nature. They are morally dead.
+They are neither friends, nor lovers, nor fathers, nor citizens of the world, nor benefactors of
+their country,” (P. B. Shelley, “Preface” 703). Shelley is careful, obstinate even, to draw the
+reader’s attention to this judgment early on in the experience of the poem, seemingly divorcing
+
+10
+him from the poet subject of the work. This heavy-handedness and insistence upon his presence
+as the author of the work, however he may claim to disapprove of the action of the poem, may
+actually work against any intention to distance himself from the Poet who is the subject of the
+poem because it draws him into conjunction with the poet narrator whose own preface and coda
+frame the structure of “Alastor.” The dichotomy and inextricability of the ‘narrator poet’ and
+‘subject Poet’ makes Shelley’s self-assertion of identity with the narrator poet problematic as it
+draws attention to his contradictory attitudes present in the preface and those present in the text
+of the poem itself.
+The poem begins in a manner one might expect from an icon of the Romantic period,
+calling back to the classical traditions with an apostrophe to the muse, in this case, mother
+nature. The first stanza is one of praise to the great immensity of creation, saturated with
+descriptive language of the world that houses and inspires this poet narrator, but overall a rather
+generic or expected beginning to a poem. The second stanza continues this praise but in language
+that is much more dynamic and personal, turning away from general description to the actual cry
+for literary aid from the narrator poet. He pleads:
+Favour my solemn song, for I have loved
+Thee ever, and thee only; I have watched
+Thy shadow, and the darkness of thy steps,
+And my heart ever gazes on the depth
+Of thy deep mysteries.
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+Hoping to still these obstinate questionings
+Of thee and thine
+
+.
+
+.
+
+.
+
+(P. B. Shelley, “Alastor” 18-23, 26-27)
+
+11
+Here, the love of the narrator poet perhaps extends beyond the expectations of the reader. Nature
+is the sole object of the narrator poet’s love and devotion and this love is described in terms of an
+insatiable and even voyeuristic obsession. This laudation of nature is extreme and implicates the
+narrator poet in the same sort of isolation warned against in the preface of “Alastor.” Already,
+there is a discord between what the preface claims the poem sets out to do and what the text of
+the poem actually conveys.
+However the narrator poet, although his love is reserved exclusively for nature, is not
+completely alone. In his continuing ode to nature he refers to a partner through whose mutual
+love he attempts to find deeper understanding of the wonders of nature:
+.
+
+.
+
+.
+
+In lone and silent hours,
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+Have I mixed awful talk and asking looks
+With my most innocent love, until strange tears
+Uniting with those breathless kisses, made
+Such magic as compels the charmed night
+To render up thy charge:…and, though ne’er yet
+Thou hast unveil’d they inmost sanctuary, (P. B. Shelley, “Alastor” 29, 33-38)
+In what may seem to be a contradiction to the narrator poet’s earlier claims that nature is the sole
+proprietor of his love, he introduces a second figure who also possesses his love and is referred
+to as actually being his love. If we identify the narrator poet as Shelley himself, as his assertion
+of authorial presence in the preface would lead us to, then it may be that this “innocent love” of
+the poem is a thinly veiled reference to Mary who, as we know from “On Love,” he had not
+previously scrupled to make blatant reference to. The exact significance of this will be explored
+
+12
+at greater length in a later chapter, but for now it is important to keep in mind the possibility of
+an autobiographical mapping, though not to think of the poem exclusively with lens.
+The contradiction between the poet narrator’s sole love for nature and his love for this
+unnamed figure is reconciled because his love for the unnamed figure serves only to attempt to
+understand more intimately the mysteries that pervade through nature. But regardless of how
+“innocent” the narrator poet claims his love for this figure is, the language used to describe the
+exploration of nature is very sexual. The “tears” and “breathless kisses,” create the sense of a
+building passion that quickens and “compels” until the action reaches the self-censored climax
+represented by the ellipses. But this method of the exploration of the ideal of nature through
+sexual means fails. Nature remains above comprehension. Regardless of this failure, the narrator
+poet continues his journey to understanding, “I wait thy breath, Great Parent, that my strain/May
+modulate with murmurs of the air,” (P. B. Shelley, “Alastor” 45-46).
+The narrator poet then moves to immediately introduce the character of the Poet, or the
+‘subject Poet,’ around whom the narrative action of the poem takes place. This structural choice
+on the part of Shelley, at first seems to suggest an emphasized or even insured degree of removal
+between himself and the physical and spiritual journey the subject Poet embarks on as “Alastor”
+unfolds. However, though the form implies this distancing the actual language of the poem
+implies just the opposite. The first contradiction in the text that would imply a closeness of the
+narrator poet to the subject Poet occurs in the lines, “no lorn bard/Breathed o’er his dark fate one
+melodious sigh:/He lived, he died, he sung, in solitude,” (P. B. Shelley, “Alastor” 58-60). This
+presence of a claim that no poet mourned the loss of the subject Poet seems extremely odd in a
+poem with the exact purpose of retelling the subject Poet’s life and eventual death. This
+contradictory statement is either simply a self-effacing comment on the part of narrator poet or it
+
+13
+implies a deeper connection between narrator poet and subject Poet. As the poem continues the
+latter possibility is the one that becomes more plausible as the language itself begins to reflect
+the similarities and intimate knowledge between the two poets, rather and only circumstance.
+After this initial, brief description of the subject Poet’s inevitable doom that the narrator
+poet somehow has access to knowledge of though he claims the subject Poet lived in solitude,
+the narrator poet turns to a description of the subject Poet as he lived:
+.
+
+.
+
+.
+
+Every sight
+
+And sound from the vast earth and ambient air,
+Sent to his heart its choicest impulses.
+The fountains of divine philosophy
+Fled not his thristing lips
+.
+
+.
+
+.
+
+.
+.
+
+.
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+Nature’s most secret steps
+
+.
+
+.
+
+He like her shadow has pursued, (P. B. Shelley, “Alastor” 68-72, 81-82)
+The very first impression the reader received of the subject Poet as he lived is one of a man with
+an intense respect and love for nature and an insatiable thirst for answers to her greater
+mysteries. This is nearly an exact replica of the manner in which the narrator poet introduces
+himself. As the poem continues, the language that now describes the subject Poet’s relationship
+to nature is lifted straight from that which described the narrator poet’s relationship only a few
+lines previously. Bother are journeying after nature but are only able to access her indirectly,
+through her shadow. Such repetition and within such close proximity to each other cannot be
+mere coincidence. Shelley is drawing attention specifically to his failure to distance himself from
+what he is aware is the flawed ideal of the anti-type. Being aware of this of failure adds a more
+
+14
+dynamic component to the drama of the rest of the poem, creating a nuanced and conflicted
+exploration of anti-typcial love, rather than the moralizing critique that Shelley initially primes
+the reader to expect. The correlations between narrator poet and subject Poet reach a pinnacle
+right at the first dramatic turn of the poem where Shelley truly begins to delve into the meaning
+of the pursuit of the anti-type through the introduction of the subject Poet’s vision of the veiled
+maid.
+The Veiled Maid—Prototype and the Anti-Type
+Given the already linked relationship between the narrator poet and the subject Poet,
+Shelley has set up a narrative that is dependant on dualism. Thus, we are readied to spot
+correlations between characters of similar natures as perhaps having a more cohesive
+relationship. Almost immediately after the emphasis of the similitude between the two poets of
+“Alastor,” the reader is met with subsequent repetitive imagery, this time between the “Arab
+maiden” and the “veiled maid.” The reader first meets the Arab maiden in a description which at
+first seems to only serve as a device for the narrator poet to continue his narrative and praise of
+the subject Poet. He describes her unrequited interest, narrating how she:
+.
+
+.
+
+.
+
+stole
+
+from duties and repose to tend his steps,
+Enamoured, yet not daring for deep awe
+To speak her love, and watched his nightly sleep,
+Sleepless herself, to gaze upon his lips,
+Parted in slumber, whence the regular breath
+Of innocent dreams arose; then, when red morn
+Made paler the pale moon, to her cold home
+
+15
+Wildered, and wan, and panting, she returned. (P. B. Shelley, “Alastor” 131-139)
+While these lines do work to illustrate the love the subject Poet garnered from those around him,
+it is too long and too specific an aside to simply posit the Arab maiden as a throw away
+character. Shelley primarily brings attention to her significance by the fact that her description
+stands alone as its own stanza and this importance is only emphasized by the language she is
+described in. She is the active opposite to the subject Poet’s passivity. She goes out of her way to
+tend to the poet, while she loses sleep over him he slumbers on. When his breath is regular and
+calm hers is bewildered and panting. But, although her affections for the subject Poet are active
+in that they cause her to care for the Poet and to distemper her breath, she remains, like the
+subject Poet, passive. She is silent, too smitten by the subject Poet to dare converse, completely
+cutting off any chance of a spiritual connection. Throughout this entire stanza, there is absolutely
+no indication of any agency from the Poet. The pure physicality of the Arab maiden’s attempts to
+relate to the subject Poet do not seem to interest him in the slightest, and without even a hint of
+recognition of her, the subject Poet continues on his journey.
+The passivity that the subject Poet exhibits towards the Arab maiden continues to be one
+of his defining features as the poem goes on. After this stanza of rest with the Arab maiden, both
+the subject Poet and reader partake in a whirlwind, almost supernatural itinerary:
+The Poet wandering on through Arabie
+And Persia, and the wild Carmanian waste,
+And o’er the aerial mountains which pour down
+Indus and Oxus from their icy caves,
+In joy and exultation held his way;
+Till in the vale of Cashmire, (P. B. Shelley, “Alastor” 140-145)
+
+16
+The locations the subject Poet passes through on his travels are listed roughly west to east as they
+are geographically located. The quick succession of these places gives the reader a sense of a
+great distance he travels, though without much labor on his part. This almost passive process in
+his journey is emphasized by the use of the verb “wandering.” There is no purpose to his travels,
+regardless of the fact that they are seemingly vast. This listing of locations used in the first six
+lines of this stanza can have one of several effects on the reader. The first is simply to give the
+poem a sense of an exotic atmosphere. Other than the names of the locations, Shelley provides
+hardly any other defining or individual characteristics to these locations. This quick procession
+of foreign locations has the effect of blurring all of them into one great other—the Orient. While
+on the one hand this could be a chauvinistic and imperialistic ignorance to the differences
+between these locations, it also gives an almost superhuman characteristic to the subject Poet. As
+mentioned above, the language describing the toil such a venture should theoretically entail is
+absent, instead the subject Poet is merely “wandering on,” requiring little exertion on his part.
+This superhuman ability to travel, however, may not be only in a physical sense. The vast scope
+of his travels also gives a dreamlike quality to the poem, pushing the reader not only deeper into
+a foreign physical landscape but also deeper into the exploration of the theoretical mindscape of
+Shelley. Placing the subject Poet into the foreign lands of the Orient may also work to again
+illustrate the intentioned distance between Shelley and the subject matter of the poem, but the
+narrator poet sweeps over these locations so quickly it serves instead to illustrate Shelley’s
+assertion that the imagination is truly the setting for this journey into the other.
+Once the poet reaches Kashmir he decides to rest. This rest, however, does not seem to be
+out of necessity. He has “languid limbs,” (P. B. Shelley, “Alastor” 149) he is not exhausted but
+merely disinclined or simply too lazy to move. He finds his resting spot amongst the foreign
+
+17
+foliage and although he describes the spot as lonely, he also interestingly uses the word “bower,”
+(P. B. Shelley, “Alastor” 147). While bower can mean a natural, idealized abode this word can
+also be a reference to a private apartment, especially that of a lady.7 In other words, although the
+subject Poet is alone, the reader also has the sense that he an outsider or perhaps even an
+intruder. This idea of the subject Poet intruding upon the space of a lady is emphasized by the
+fact that Shelley introduces the veiled maid immediately after the subject Poet makes the
+decision to rest inside this natural bower. As the subject Poet drowses:
+.
+
+.
+
+.
+
+He dreamed a veiled maid
+
+Sate near him, talking in low solemn tones.
+Her voice was like the voice of his own soul
+Heard in the calm of thought: its music long,
+Like woven sounds of streams and breezes, held
+His inmost sense suspended in its web
+Of many-coloured woof and shifting hues.
+Knowledge and truth and virtue were her theme,
+And lofty hopes of divine liberty,
+Thoughts the most dear to him, and poesy,
+Herself a poet. (P. B. Shelley, “Alastor” 151-161)
+Instead of being faced with the passive subject Poet of the previous sections of the poem, we
+have a subject Poet who is beginning to be actively engaged. This veiled maid, who although
+hearkens back to the Arab maiden in perhaps appearance—the veil being a stereotypical staple of
+middle-eastern garb—the two female figures could not be more unalike. The Arab maiden is
+7
+
+“bower, 2b.” The Oxford English Dictionary. 2nd ed. 1989. OED Online. Oxford University
+Press. 10 March 2012 <http://oed.com>
+
+18
+quiet, the veiled maid’s voice is like a song. The Arab maiden appeals only to the subject Poet’s
+physicality, the veiled maid to his philosophy. Regardless of this opposition between the two
+women, it is clear that the Arab maiden is the prototype for the anti-typical vision of the veiled
+maid.
+Although thus far the reader has been familiar with a relatively passive subject Poet, in
+the above stanza we see him begin to have agency—It is he who dreams of the veiled maid.
+However, because the subject Poet visions the veiled maid in such quick succession after the
+assertion that he may be intruding upon her natural or spiritual habitat, there is a shadow of doubt
+about who exactly has agency over whom. Does the landscape infect the subject Poet into this fit
+or is he forcing his own ideals upon a representative of the other? The subject Poet at once
+intrudes upon a space outside of himself and internally creates the figure which, as rest of the
+above stanza emphasizes, he will project his own ideals onto. The stanza continues, describing
+the veiled maid only in terms of nature or the intellectual ideas that she shares with the subject
+Poet. But she is not simply similar to the subject Poet, the language emphasizes that she, in fact,
+is the subject Poet. The conceit that she is veiled only helps to define her as the subject Poet
+because she has no individually defining physical characteristics—she is faceless and eventually,
+formless.
+The poem’s description of this vision takes a turn from being a gentle, perhaps even
+mothering or docile portrayal of the veiled maid, to one that shows off her capability for feeling
+and inspiring fiery, lustful passion. This display of heated emotions begins as soon as the veiled
+maid’s soft tonal speech shifts to the art of song:
+`.
+
+.
+
+.
+
+her fair hands
+
+Were bare alone, sweeping from some strange harp
+
+19
+Strange symphony, and in their branching veins
+The eloquent blood told an ineffable tale.
+The beating of her heart was heard to fill
+The pauses of her music, and her breath
+Tumultuously accorded with those fits
+Of intermitted song. (P. B. Shelley, “Alastor” 165-172)
+Interestingly, Shelley here begins to describe the veiled maid not in terms that would emphasis
+the ephemeral aspects of a vision, but in very physical, bodily language. This physicality,
+however, is subjugated by terms belonging to that of nature. The vision may have veins but they
+are branching veins. The “strange harp” may be a reference to the Eolian harp, a trope frequently
+found in Romantic era poetry. The use of this image—a harp that is normally played upon by the
+wind—adds to this confusion between the veiled maid’s physical body and the landscape around
+her. Her entire being and the music she creates, it seems, are meld into each other, her heartbeats
+forming the baseline to her song, her breath, creating cadence. Once again, Shelley has confused
+the exact origins and nature of the veiled maid and this mixed imagery only continues as the
+veiled maid’s song plays on.
+Unable to contain the passion of her song, the veiled maid soon stands and continues to
+artistic outpouring. It is not until this moment that the subject Poet finds his agency within the
+vision itself. He finally turns towards the woman of his dreams and:
+And saw by the warm light of their own life
+Her glowing limbs, beneath the sinuous veil
+Of woven wind, her outspread arms now bare,
+Her dark locks floating in the breath of night,
+
+20
+Her beamy bending eyes, her parted lips
+Outstretched, and pale, and quivering eagerly.
+His strong heart sunk and sickened with excess
+Of love. (P. B. Shelley, “Alastor” 175-182)
+In our first instance of truly seeing the subject Poet react to the veiled maid, Shelley once again
+uses language that suggests the subject Poet and the veiled maid are one in the same, and
+importantly, that the subject Poet recognizes this fact. He first views the veiled maid in light
+emitted by “their own life,” they are inextricable. The description continues and the language
+becomes more and more sexually saturated, yet still maintaining a juxtaposition between terms
+of the body and terms of nature. Her veil is at once manifesting as raw and muscular yet light and
+transient as the wind. She has progress from bare hands to now completely bare arms giving the
+reader the sense that she is unveiling although her veil has taken on an aspect of a physical part
+of her being. Finally, there is a bit of a role reversal. Whereas before, the Arab maiden fawned
+over the subject Poet’s lips parted in sleep, it is not the subject Poet who sickens with love at the
+sight of this sexually inviting gesture. This reversal of descriptive language as this passionately
+charged stanza reaches climax.
+In what seems to be an uncontrollable fit and need to meet the passion of the veiled maid
+and act upon the love he feels full to burst with, the subject Poet:
+.
+
+.
+
+.
+
+reared his shuddering limbs and quelled
+
+His gasping breath, and spread his arms to meet
+Her panting bosom:…she drew back a while,
+Then, yielding to irresistible joy,
+With frantic gesture and short breathless cry
+
+21
+Folded his frame into her dissolving arms.
+Now blackness veiled his dizzy eyes, and night
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+Rolled back its impulse on his vacant brain. (P. B. Shelley, “Alastor” 182-188,
+191)
+The veiled maid is no longer described in terms of the subject Poet but instead, now the subject
+Poet is described in terms of the veiled maid. His breath is now matched to hers and he is
+shuddering with anticipation. This role reversal acts to cement the comingling of their beings, he
+is not simply projecting himself onto her but they become literally inseparable and
+indistinguishable. And indeed this melding of forms is the sexual and literal climax of the poem.
+When the veiled maid and the subject Poet finally meet, it is only for a fleeting moment as the
+veiled maid dissolves away. But there is ambiguity about what exactly happens—the subject
+Poets folds into her, yet it is the veiled maid who disappears. The subject Poet awakes and finds
+himself alone but not completely without traces of the veiled maid left behind. He is now veiled
+as the maid once was and yet his vision of her has left him, his brain vacant.
+Throughout this scene of the veiled maid, Shelley has illustrated the potential frustrations
+of the narcissistic structure love of the anti-type to some extent. We as readers are presented with
+the subject Poet passing on the opportunity for relations with another member of the tangible
+world in favor for the company of one who exists solely in his imagination. The end of this
+stanza serves to convey the inability for such a relationship to be resolved—instead the climax is
+interrupted by the veiled maid’s desertion of the subject Poet, she falls back into him. But
+regardless of this frustration and lack of conclusion the narrative of the love of the anti-type does
+not read as a sharp critique illustrating the failures of such a relationship. Nearly the entire
+
+22
+narrative of the veiled maid is steeped in erotic and alluring language not only failing to convey
+the horrors of such a relationship but also working in the opposite direction to paint it as alluring
+and desirable. This failure becomes even more interesting when we consider the parallels
+between the above passage and a passage from early in the introduction to the poem before the
+narrator poet begins the brunt of his narrative. We see the same ellipses standing in for orgasm in
+the above passage as we do when the narrator poet, or Shelley himself, is narrating his own
+frustrations in accessing the great secrets of nature. Once again, there is not a formal distancing
+between Shelley and his subject matter as Holmes suggests, but an emphasis drawing them
+closer together. What Shelley has presented us thus far in “Alastor” is a nuanced and delicate
+conflict within himself concerning this subject matter of narcissistic love that he already has
+explored in prose. Once the subject Poet awakes from his dream, these conflicting attitudes
+around the metaphor of the veiled maid continue as he begins his search for her.
+Echoing Myth
+The remaining narrative of “Alastor” follows the subject Poet who, extremely shaken by
+his vision of the veiled maid, continues his journey, this time in search for the vision. But his
+search is in vain, he find no physical trace of her. Regardless of his inability to find the veiled
+maid, the subject Poet still ignores the advances of the women of reality but they fail to
+understand him, they “would interpret half the woe/That wasted him, would call him false names
+Brother, and friend,” (P. B. Shelley, “Alastor” 267-268). These youthful maiden’s inability to
+access the troubles of the subject Poet cause his own indifference towards them, preferring
+instead to pursue the ideal veiled maid, who only taunts him with her presence in his tortured
+dreams.. As his wandering search becomes more and more hopeless the subject Poet has a
+sudden realization:
+
+23
+.
+
+.
+
+.
+
+A gloomy smile
+
+Of desperate hope wrinkled his quivering lips.
+For sleep, he knew, kept most relentlessly
+Its precious charge, and silent death exposed,
+Faithless perhaps as sleep, a shadowy lure,
+With doubtful smile mocking its own strange charms. (P. B. Shelley 290-295)
+This passage describes the subject Poet’s first thoughts of the possibility of union with his
+dreamed beloved in death. The subject Poet begins to equate sleep and death but has not yet
+fallen completely for the possible allure of such a sacrifice. Yet regardless of this doubt, the fact
+that both the subject Poet and death are smiling at the prospect, equates them. It seems that the
+subject Poet does not only project his ideals onto the world around him but also his fears. The
+following stanza begins, “Startled by his own thoughts he looked around./There was no fair fiend
+near him, not a sight/Or sound of awe but in his own deep mind,” (P. B. Shelley, “Alastor” 296298). Somehow, the subject Poet has scared himself into thinking that his own thoughts of death
+were not inspired within him at all but instead by some physical outer force. An actual being who
+is pursuing him as he is pursuing the maid. This is the first appearance of the alastor of the
+poem’s title. This term, transliterated from ancient Greek8, refers both to the pursuer and the
+pursued, so not only do we have their equality in action but also in name. It seems that although
+the subject Poet is pushing himself further and further into solitude, he is not truly distancing
+himself from anyone and, in fact, is experiencing several doppelgangers—first with the veiled
+maid and now with the a manifestation of hi desperate thoughts to find her. This doubling comes
+to a head when the subject Poet pauses his wild wanderings to look at himself in a pool:
+8
+
+Abrams, M. H., and Stephen Greenblatt. “Alastor” The Norton Anthology of English Literature.
+7th ed. Vol. 2A. New York: Norton, 2000. Print. 702.
+
+24
+.
+
+.
+
+.
+
+His eyes beheld
+
+Their own wan light through reflected lines
+Of his thin hair, distinct in the dark depth
+Of that still fountain: as the human heart,
+Gazing in dreams over the gloomy grave,
+Sees its own treacherous likeness there. He heard
+The motion of the leaves,
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+A Spirit seemed
+
+.
+.
+
+.
+.
+
+.
+
+.
+
+To stand beside him. (P. B. Shelley, “Alastor” 469-475, 479-480)
+This image of the subject Poet looking into his own reflection is perhaps the most overt reference
+Shelley makes to the Narcissus and Echo myth of ancient Greek mythology. Though, as Holmes
+asserts, the entirety of “Alastor” roughly follows the outline of the myth,9 a youth vainly
+searching for his ideal beauty, the imagery of the above stanza more concretely directs the reader
+to the myth. Keeping this point in mind, it is interesting to consider that this is also one of the
+first instances of a direct, judgmental tone of the subject Poet’s actions. Like Echo, the subject
+Poet has been chasing his ideal and causing himself to wither, but Shelley is also reminding us
+that the subject Poet is meant to be this figure of Narcissus as well, in love only with the ideal of
+himself. But instead of gazing into his reflection and seeing the beauty he seeks, he sees only a
+sallow and aged visage. The subject Poet himself sees the damage his fruitless voyage has
+caused, and again finds himself with visions of his death and an uncanny awareness of the dark
+Spirit pursing him. This Spirit is described in oxymoron, it is a spirit, ephemeral, yet it is the
+9
+
+Holmes, Richard. “Up the River: Bishopgate 1815.” Shelley: The Pursuit. New York: E. P.
+Dutton, 1975. Print. 300.
+
+25
+physical movement of the leaves that alerts the subject Poet to its presence. The thing is not
+entirely present, though, as it only “seems” to stand beside the subject Poet.
+This ambiguity of the corporality of the pursuing spirit continues to be emphasized as the
+stanza concludes:
+Now deepening the dark shades, for speech assuming
+Held commune with him, as if he and it
+Were all that was,—only…when his regard
+Was raised by intense pensiveness,…two eyes,
+Two starry eyes, hung in the gloom of thought,
+And seemed with their serene and azure smiles
+To beckon him. (P. B. Shelley, “Alastor” 486-492)
+Here, the subject Poet and the Spirit hold in a moment of private and intimate recognition, and
+though they are both speechless they seem to understand each other in a wordless conversation.
+This relation between them runs so deep the narrator poet describes it as akin to as if the subject
+Poet and the Spirit were the only two beings in existence. This has an interesting dualistic effect
+in that it at once serves to separate the two but also to bring them together. There is a moment,
+represented by the ellipses, when the Spirit seems to disappear. Shelley neglects to explicitly
+mention the nature of this disappearance but given that previously in the poem the ellipses has
+stood in for sexual union, it may be that the Spirit here has joined with the subject Poet. When he
+attempts to look at the Spirit he finds not the spirit, but the eyes of his veiled maid, encouraging
+him onward in his journey. This not only serves to equate the pursuit of the veiled maid with the
+looming Spirit but also acts to strengthen Shelley’s emphasis of the doubling of the subject
+Poet’s role as both Narcissus and Echo. The language in this stanza makes it unclear whether or
+
+26
+not the subject Poet has ever taken his gaze off of his own reflection, implying the eyes of the
+veiled maid may in fact be a reflection of his own eyes that entice him and urge him on in his
+journey.
+Shelley’s use of the myth of Narcissus and Echo brings a nuance to his treatment of love
+based around the anti-type. While this myth seems an obvious choice, given that the anti-type is
+dependant upon a love of the self, by transforming the subject Poet into both the agent of selflove and the pursuer of ideal love, it serves to highlight the true isolation of such a pursuit. The
+two agents of the myth have been reduced to the one of the poem. The use of this myth also
+gives “Alastor” an air of a cautionary tale, especially when the poem is reduced to summary of
+its narrative. We as readers really begin to see the deep conflict within Shelley towards his ideas
+about love. This conflict within Shelley continues to manifest until the powerfully sympathetic
+language of subject Poet’s conclusion overshadows any of Shelley’s attempts to give the poem a
+tone of admonition.
+A Cautionary Elegy
+Egged on by the enticing gaze of the veiled maid, the subject Poet returns to his pursuit in
+earnest making his way through beautiful descriptions of the natural world around him. Yet still
+he travels on, until he reaches an area where “One step,/One human step alone, has ever
+broken/The stillness of its solitude:” (P. B. Shelley, “Alastor” 588-590). Not only is the subject
+Poet alone but he has reached an area of nature where no other human has ever tread, securing
+his absolute solitude. It is shortly after coming upon this undisturbed earth that “he knew that
+death/Was on him,” (P. B. Shelley, “Alastor” 626-627). He returns to the position in which he
+first vision his veiled maid, “upon an ivied stone/Reclined his languid head, his limbs did rest,”
+(P. B. Shelley, “Alastor” 634-635). His entire being seems to have returned to the state in which
+
+27
+he first glimpsed his ideal love, going from the very active pursuit to once again having a
+“passive being,” (P. B. Shelley, “Alastor” 630). As the subject Poet draws closer and closer to
+death, staring out at the moon with a smile upon his lips, the narrator poet presents the reader
+with the following description:
+.
+
+.
+
+.
+
+the Poet’s blood,
+
+That ever beat in mystic sympathy
+With nature’s ebb and flow, grew feebler still:
+And when two lessening points of light alone
+Gleamed through the darkness, the alternate gasp
+Of his faint respiration scare did stir
+The stagnate night:—till the minutest ray
+Was quenched, the pulse yet lingered in his hear.
+It paused—it fluttered. (P. B. Shelley, “Alastor” 651-659)
+The moon, the subject Poet’s final sight, makes its descent behind the mountain and as it makes
+its journey, its light slowly winking out, the subject Poet’s life energy drains in equal rhythm.
+The subject Poet’s life energy has become in sync with nature, his death coinciding with the
+disappearance of the moon. This portrait of the subject Poet’s death is far from horrendous, if
+anything the situation and the language describing it romanticize this form of death. His death
+does not come in some shocking, sudden, or painful manner, as one may expect in a cautionary
+tale, but instead the subject Poet is at peace, smiling, and calmly allowing his life’s energy to ebb
+away at the will of nature.
+This depiction of the subject Poet’s death is not simply a romantic and perhaps even
+alluring one, but it also illustrates the subject Poet’s melting into the world around him. Although
+
+28
+he has doomed himself this fate through a narcissistic and solitary pursuit of his anti-type, this
+doomed fate is not one described as being terribly damning. The subject Poet instead of being
+truly ostracized by his actions becomes a part of the landscape around him, and becomes the
+idealized tool of nature. The narrator poet now describes the subject Poet’s body as a:
+.
+
+.
+
+.
+
+wondrous frame—
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+A fragile lute, on whose harmonious strings
+The breath of heaven did wander—a bright stream
+Once fed with many-voiced waves—a dream
+Of youth, which night and time have quenched for ever,
+Still, dark, and dry, and unremembered now. (P. B. Shelley, “Alastor” 665, 667671)
+Although with his passing the subject Poet is now described in the past tense, this image of him
+as the Eolian lute suggests several things. The first is that he has fully coalesced with nature no
+longer attempting to access the true beauty of nature but becoming nature’s medium itself. The
+second hearkens back to the veiled maid who also was described as such a lute earlier in the
+poem. Though it is not directly stated, the subject Poet’s immersion into nature suggests not that
+he has become the victim of a lonely death but almost that he has achieved his goal. He may not
+physically have ever found the veiled maid yet in his death they seem to now inhabit the same
+landscape.
+The narrator poet, however, does not celebrate the possibility of post-mortem union. His
+tone through the stanza is one both of great reverence and mourning. Perhaps most interesting
+about this final narrative stanza is that it ends with a contradiction. The narrator poet claims that
+
+29
+the subject Poet’s memory has been completely obliterated by his death in isolation, and yet this
+entire poem narrating his story exists. This contradiction then brings the reader’s attention to the
+contradiction of the entire final stanza, or narrator poet’s coda. This last part of the poem is
+saturated with the language of mourning. With the repetition of the phrase “thou art fled,” (P. B.
+Shelley, “Alastor” 686) the text of the stanza reads like a dirge. This is not the ending to a poem
+that would speak out against the pursuit of the ideal, but instead ends as an elegy to its
+impossibility. The narrator poet then moves onto a description of the subject Poet’s seemingly
+exquisite corpse:
+.
+
+.
+
+.
+
+Upon those pallid lips
+
+So sweet even in their silence, on those eyes
+That image sleep in death, upon that form
+Yet safe from the worm’s outrage, let no tear
+Be shed—not even in thought. (P. B. Shelley, “Alastor” 699-703)
+The focus on the subject Poet’s sweet and pallid lips gives this description of death an almost
+erotic tone. We then have the statement that the subject Poet’s body death is the same as his body
+in sleep. Once again, we have an indirect nod to the possibility that the veiled maid and the
+subject Poet are united in this death—the subject Poet believed the veiled maid was only
+accessible through sleep—the erotic language surrounding this sleep serves to emphasize this
+possibility.
+Yet, the narrator poet again denies the reader the right to mourn, whether in the action of
+crying or the mere thought of it. The narrator poet continues to deny mourning:
+Let not high verse, mourning the memory
+Of that which is no more, or painting’s woe
+
+30
+Or sculpture, speak in feeble imagery
+Their own cold powers. Art and eloquence,
+And all the shews o’the world are frail and vain
+To weep a loss that turns their lights to shade. (P. B. Shelley, “Alastor” 707-712)
+This seems to be a terribly strong statement to make, especially in a poem doing exactly what
+that passage speaks against attempting. The narrator poet does not even limit this ban of
+mourning to that of verse but expands it to all of art and expression. This denial of art’s ability to
+mourn, as well as the denial that any mourning occurred for the subject Poet at all, increases this
+death to implications beyond that of subject Poet. The language of his description also acts to
+expand this mournful song to more than just the life of the subject Poet, the poem ends:
+.
+
+.
+
+.
+
+when all
+
+If reft at once, when some surpassing Spirit,
+Whose light adorned the world around it, leaves,
+Those who remain behind, not sobs or groans,
+The passionate tumult of a clinging hope;
+But pale despair and cold tranquility,
+Nature’s vast frame, the web of human things,
+Birth and the grave, that are not as they were. (P. B. Shelley, “Alastor” 713-720)
+The subject Poet is now described as a “surpassing Spirit” reminiscent of both the veiled maid
+and the Spirit who pursued him in his pursuit. Because all of these figures were equated in
+language with each other it ascribes a transcendental importance to the subject Poet. His death
+not only symbolizes the loss of his life but the loss of his ability to pursue. For the ones left
+behind there is no more chance of a passionate chase, however fruitless it may end. They are left
+
+31
+with nothing, with the same languid passivity that defined the subject Poet before he found his
+vision. What the end of this poem emphasizes is not entirely the dooming effects of solely
+pursing after the anti-type in an obsessive and isolating fashion, but how the lack of such a
+pursuit is equally damning. There is a great amount of ambivalence in the poem due to this
+ending and the layer upon layer of doppelganger between the subject Poet, the veiled maid, and
+the Spirit who pursues him and lures him to his death. Then we have the most important
+doppelganger, the split between subject Poet and narrator Poet.
+This emphasis of the subject Poet’s absolute solitude and never having been mourned by
+anyone only draws our attention to the fact that the narrator poet has an intimate knowledge of
+the subject Poet and does indeed mourn him, having access to information he claims no one else
+has. That is because the subject Poet is to the narrator poet what the veiled maid is to the subject
+poet. In other words, the subject Poet plays the role of the anti-type in the vision of the narrator
+poet, to act out his ideals in the experimental landscape of poetry. And, through the irony of
+Shelley’s insistence on distance between himself, the narrator poet, and the subject Poet, it
+becomes clear the three are interrelated. Shelley, in his preface to “Alastor” states, “the picture is
+not barren of instruction to actual men. The poet’s self-centered seclusion was avenged by the
+furies of an irresistible passion,” (P. B. Shelley, “Preface” 703). But this assertion that “Alastor”
+is a tale of caution or admonition is barely held up within the text of the poem itself. As will be
+discussed more thoroughly in chapter two, it seems Shelley had a tendency to prime readers with
+false assertions in his prefaces. There are certainly moments where the quest of the subject Poet
+seems foolish and damning but it is not his action that is criticized, but the hopelessness of the
+situation itself. “Alastor” reads as a poem with many intentions. As a cautionary tale to warn
+others of the danger of this sort of fanatic self-love, an elegy mourning both the subject Poet and
+
+32
+his hopeless pursuit that renders all of art fruitless in its wake. But more than anything, “Alastor”
+serves as an exploration into Shelley’s own mind surrounding this subject matter, revealing
+contradiction and ambivalence. Shelley’s insistence of “Alastor” being a moralizing poem, as
+well as the assertion of several degrees of removal between himself and the characters within the
+poem, betray him in the end. Shelley struggled with this subject matter so much so that the poem
+does not have a concrete conclusion that passes judgment over the wrong or rightness of the antitype structure of love. Instead, the product of these musings, “Alastor” itself, is the conclusion.
+In the face of the poem’s own assertions of the absence and weakness of poetry to convey the
+emotions behind such a struggle, “Alastor” became and remains on of Shelley’s most profound
+works.
+
+33
+Chapter II
+A Conversation of Introductions: Comparing the Prefaces of the 1818 and 1831 Editions of
+Frankenstein
+When Frankenstein first appeared in print, the edition was published anonymously in
+1818 with a succinct and somewhat general preface, written by Percy Shelley, common for
+novels of the time.. It was not until the second edition was published in 1823 that Mary Shelley
+was credited as the author and it was not until 1831 with the printing of the third edition that
+Mary’s own introduction was published.10 These two beginnings to Frankenstein are very
+different in both style and content although they are both meant to explain the synthesis of the
+idea for the novel. Shelley’s introduction presumes to take on the identity of the author of
+Frankenstein and seems to almost labor to displace the creation and the opinions of the novel
+away from Mary’s imagination in a very impersonal tone. Mary’s introduction, however, has a
+near opposite approach. Not only is her tone much more vivid and fanciful but her recollection of
+the events that inspired the writing of Frankenstein are much more personal. Unlike Shelley’s
+attempt to push responsibility for the story away from the author, Mary embraces it though not
+without qualifications that mirror or perhaps even mock Shelley’s strategy. When reading these
+two introductions side by side the experience plays out almost like a conversation or a debate
+between the two authors that spans both time and death. Shelley makes his assertions and
+judgments over Mary’s authority, though not without some praise. Mary, in turn, specifically
+mentions or alludes to passages of Shelley’s first edition and then attempts to subtly or outright
+debunk them, but not with a vicious tone, her thoughys still with loving regard and respect for
+her then late husband.
+10
+
+Shelley, Mary Wollstonecraft, and Maurice Hindle. “Note on the Text.” Frankenstein, Or, The
+Modern Prometheus. London: Penguin, 2003. Print. lviii.
+
+34
+Percy Shelley’s Preface to the 1818 edition
+The first edition's introduction begins in a manner not unlike other novels of the time—
+with a claim that there is some basis in reality for the supernatural events that occur in the work.
+In this introduction, Shelley hearkens to the work of “Dr. Darwin, and some of the physiological
+writers of Germany" (P. B. Shelley, “Preface” 5) as the inspiration for Frankenstein. This serves
+a number of purposes that may seem standard, helpful or even protective on a first reading.
+Attempting to establish a direct source for the seed of the idea that is grounded in reality is a
+means of offsetting any future accusation of blasphemy or hedonism by the publishers and
+reading audience. It also serves as a way of perhaps increasing the appeal and intrigue of the
+novel. Similar to advertisement strategies of the horror movies of today, claiming basis on a true
+story could add an extra alluring aspect to Frankenstein, allowing readers the possibility to
+imagine the supernatural events of the novel actually occurring, in some form, in reality.
+Another common method authors of the period would use to displace their own
+authorship was to claim they had found an old manuscript by an unknown or completely obscure
+author and had simply edited its contents for the public. Shelley does not quite use this method,
+but the one he invokes is similar to a certain degree. Instead of referring to a specific text he
+instead describes the following:
+I shall not be supposed as according the remotest degree of serious faith to such
+an imagination; yet, in assuming it as the basis of a work of fancy, I have not
+considered myself as merely weaving a series of supernatural terrors. The event
+on which the interest of the story depends is exempt from the disadvantages of a
+mere tale of specters or enchantment. (P.B. Shelley, “Preface” 5)
+
+35
+Shelley, taking on the persona of the author of the text, here states that his own beliefs and
+imaginations are nothing like those in the text. But this is not a complete abandonment of
+creative responsibility. Shelley, states that the author has not simply put known, factual though
+fanciful, puzzle pieces together to form a narrative, but has had more creative input than such a
+process requires. The last sentence of the above passage also seems to suggest that because the
+author has not only drawn from these outer sources, but also maintained an authority in its
+creation, in writing, he has essentially created fact. Shelley cements this proposition with his
+following statement, "I have thus endeavoured to preserve the truth of the elementary principles
+of human nature, while I have not scrupled to innovate upon their combinations," (P.B. Shelley
+5). At this point in the first edition's introduction, Shelley's prose seems to be in Mary Shelley's
+favor - to attempt to protect her story and herself from the censor and the possible anger from the
+readership. But as the introduction continues these efforts seem to go too far to displace the
+authorship—and when one takes into consideration the fact that Shelley is writing this in Mary’s
+stead, an almost sinister tone, or questions of an ulterior motive, comes to light.
+After these previous attempts to support and even hype the factual quality to the
+supernatural occurrences in the novel, Shelley curiously backtracks when it comes to the desired
+effect this story will have on readers. Speaking again as the anonymous Mary Shelley he states:
+I am by no means indifferent to the manner in which whatever moral tendencies
+exist in the sentiments or characters it contains shall affect the reader; yet my
+chief concern in this respect has been limited to the avoiding the enervating
+effects of the novels of the present day, and to the exhibition of the amiableness of
+domestic affection, and the excellence of universal virtue. (P.B. Shelley,
+“Preface” 5)
+
+36
+The only way to describe the latter part of the above passage to say it is a lie. Shelley’s claim that
+the contents of Frankenstein endeavors to dodge this believed moral affect novels had on their
+readers is simply untrue. The only point in the novel where this “amiableness of domestic
+affection, and the excellence of universal virtue” are at all on display is during the scenes where
+the Monster secretly lives with the De Lacey family and learns language and the possibility of
+human goodness. But even this scene works to completely oppose and strip domestic affection of
+its amiableness when the Monster is callously driven away, yet again, by the only other humans
+he has encountered, as we will see further discussed in chapter three. It is not certain if Shelley is
+putting an emphasis on this domestic affection and universal virtue as a way of diverting the
+publishers eyes and expectations in another effort to slip under the censor’s radar, or if there is
+something else in the text that Shelley wishes to draw attention away from.
+These reflections could be Shelley’s own suppositions of the text or at the very least, his
+attempts to project this lens of reading the novel onto the readers’ experience. Universal virtue
+and especially domestic amiability are two qualities that are primarily within the feminine sphere
+of concerns, but considering the fact that at this point Frankenstein’s author’s gender is
+unknown, it seems superfluous that such measures to assert that Mary was writing within the
+acceptable subject matters of her sex were taken. This peculiarity is heightened as the passage
+continues with:
+The opinions which naturally spring from the character and the situation of the
+hero are by no means to be conceived as existing always in my own conviction;
+nor is any inference justly to be drawn from the following pages as prejudicing
+any philosophical doctrine of whatever kind. (P.B. Shelley, “Preface” 6)
+
+37
+Here, Shelley, in place of Mary, explicitly declaims all responsibility for the authorship of the
+ideas put forth in the novel. Though the author has penned the characters, situations, and events
+of this novel, Shelley here asserts that any opinions or philosophies these characters may have
+originate solely from the passive, process of writing them. He goes so far as, not simply to add a
+disclaimer that the author, Mary Shelley, does not share the opinions of her characters, but to
+state that said opinions never existed in her conscience. This passage goes further than to simply
+act as a protective shield against possible moral criticism from the publishers and the readership.
+Instead, it works to debase Mary Shelley's autonomy as the author. She is painted as simply a
+means to the literary end, but not in the high, divine sense of the Eolian harp. Because of the
+subject matter—the reanimated corpse that is the monster and the horrors that ensue—there is no
+honor in being the passive vessel of poetic beauty. The strength and the insistence of this
+language suggests a fear in Percy Shelley. What is it in Frankenstein that he so ardently desires
+to disassociate with his wife? Attempting to answer this question will be one of the main focuses
+of chapter three.
+This analysis of the above passage as a personal attack by Shelley on his wife’s ability to
+write and take ownership of the philosophies the novel puts forth may seem like an extreme
+reading until Shelley gives his account of how the story of Frankenstein originated. Unlike
+Mary’s own account of how the seed of Frankenstein was planted, which will be discussed later,
+Shelley’s account is drab with little details of the scenario that brought the story about. He
+recounts that, “two other friends (a tale from the pen of one of whom would be far more
+acceptable to the public than anything I can ever hope to produce) and myself agreed to write
+each a story, founded on some supernatural occurrence,” (P.B. Shelley, “Preface” 6). At the time
+that Mary first began writing Frankenstein, she and Shelley were spending time with Lord Byron
+
+38
+in Switzerland, so the two other friends that Percy Shelley here asserts write infinitely better than
+the author of Frankenstein must refer to none other than Lord Byron and Percy Shelley
+himself.11 While this passage could easily be seen as an attempt to make the author seem humble
+and therefore more likable to the readers, the fact that Shelley is referring to himself gives the
+passage a cruel tone. Not only does he assert that Frankenstein is not up to caliber with either
+Shelley or Lord Byron’s writings, but that nothing Mary Shelley ever writes could possibly hope
+to compete with their work. This jape is cruel and unusual and is just a further attempt to debase
+and even humiliate Mary Shelley.
+Shelley’s introduction does less to inform or raise interest in the reader than it does paint
+and alarmingly passive and insulting portrait of the author. This work to illegitimize Mary’s
+prowess as an author, and in extension also works to debase the entire novel is the exact opposite
+to the function of an introduction. But what is it in the novel that Percy is so apt to humiliate into
+obscurity? Looking at Mary’s own introduction to the third edition of Frankenstein, published
+after Percy’s death in 1831, helps begin to answer this question.
+Mary Shelley’s Introduction to the 1831 edition:
+Mary’s own introduction to her novel was not printed until the Standard Novels edition,
+printed in 1831, and according to Mary, it is only because these publishers wished for another
+account of how she, as a young girl, could have possibly thought of such a horrifying tale.12
+Anne Kostelanetz Mellor, in her essay, “Revising Frankenstein,” posits that by the end of this
+
+11
+
+Holmes, Richard. “The Byron Summer: Switzerland 1816”. Shelley: The Pursuit. New York:
+E. P. Dutton, 1975. Print. 330.
+12
+Shelley, Mary Wollstonecraft, and Maurice Hindle. “Author’s Introduction to the Standard’s
+Novel Edition”. Frankenstein, Or, The Modern Prometheus. London: Penguin, 2003.
+Print. 5.
+
+39
+introduction, “Mary Shelley both disclaimed responsibility for her hideous progeny and insisted
+that she had remained passive before it,” (Mellor 176), but as we will see, the exact opposite is
+true. She begins this introduction with this statement that seems to suggest that she is writing the
+introduction out of a feeling of necessity rather than actually wanting to. She reinforces this
+implied sentiment when she states, “it is true that I am very averse to bringing myself forward in
+print; but as my account will only appear as an appendage to a former production, and as it will
+be confined to such topics as have connexion with my authorship alone, I can scarcely accuse
+myself of a personal intrusion,” (M. W. Shelley, “Introduction” 5). Here, Mary is curiously at
+once stating her willingness and unwillingness to come forward with personal details in print. By
+stating her unease over speaking about herself but then complying to do so anyway, Mary is
+almost peaking the reader’s curiosity. She is highlighting her personal experience instead of
+obscuring it when she points out her aversion to come forward. This strategy allows Mary the
+keep with her role of domestic coyness while still shedding light on her personal life. Even her
+excuse that she will only be speaking of herself and her own authorship works in this favor
+because, as we will see, it is not exactly a true statement.
+Before really delving into the events of the summer of 1816 that lead to the creation of
+Frankenstein Mary goes the much more personal route and speaks of her childhood in Scotland.
+She begins by stating the perhaps obvious fact that she enjoyed writing at this time in her young
+life, but interesting enough she does not emphasize writing as her passion. Instead she states,
+“Still, I had a dearer pleasure than this, which was the formation of castles in the air – the
+indulging in waking dreams – the following up trains of thought…my dreams were all my own; I
+accounted for them to nobody they were my refuge when annoyed – my deepest pleasure when
+free,” (M. W. Shelley, “Introduction” 5). Mary shares the deep and personal connection she had
+
+40
+with dreams when she was a young girl. This almost seems like a throwaway reference, simply
+placed within this introduction to frame Mary’s life as a writer a bit. It is interesting, however,
+that she explicitly states that she kept these dreams to herself and that they were her mode of
+escapism. This aspect of the dreams is highlighted when Mary goes on to describe her earliest
+writing when she says, “I could not figure to myself that romantic woes or wonderful events
+would ever be my lot; but I was not confined to my own identity, and I could people the hours
+with creations far more interesting to me at that age than my own sensations,” (M. W. Shelley,
+“Introduction” 6). The idea of Mary not being confined to her own identity sounds incredibly
+reminiscent of the subject Poet’s relationship with the anti-type as found in “Alastor,” but it is
+not quite the same. Mary explicitly states that these imaginations are outside of herself almost to
+escape her own identity. This is not the narcissistic projection of Shelley’s imaging, but it does
+perhaps seem to be the first reference or nod to this philosophy.
+The idea that her thoughts are of Percy Shelley’s work on the imagination and love
+becomes clear when she immediately mentions him in the following paragraph. Once again,
+Mary puts forth a statement that seems to undermine her own wish and will to write. She writes
+that it was not herself who was eager to write, but Shelley:
+My husband, however, was from the first, very anxious that I should prove myself
+worthy of my parentage, and enrol myself on the page of fame. He was for ever
+inciting me to obtain literary reputation, which even on my own part I cared for
+then, though since I have become infinitely indifferent to it. At this time he
+desired that I should write, not so much with the idea that I could produce
+anything worthy of notice, but that he might himself judge how far I possessed the
+promise of better things hereafter. (M. W. Shelley, “Introduction” 6)
+
+41
+This little anecdote from Mary about her and Shelley’s relationship with her writing is
+reminiscent of the attitudes found in the preface to the first edition. Shelley seems to be both
+encouraging Mary to write but not exactly confident in her abilities. In the preface, Shelley’s
+condescending tone may have been an attempt to paint the author of Frankenstein as being
+humble, as well as a jab at Mary’s talent. Mary may be echoing this desired humbling impact
+except that this condescension is not in her voice, she is merely retelling the opinion of her
+husband. Instead of simply echoing the sentiments of her husband preface this gives the effect of
+a more direct reference to it, as if she is telling the reader that she was aware of Shelley’s perhaps
+less than supportive views towards her talent. This subtle glance of Mary’s recognition of trouble
+in her personal life with Shelley is only the first example.
+After this beginning part of the introduction, explaining how and why Mary first began
+writing, she starts to recall the details of the origin of Frankenstein herself. She sets the scene for
+the reader, explaining how she and Shelley were visiting Lord Byron that summer in Switzerland
+but how the rain kept them indoors. To entertain themselves, they resorted to books. Mary
+describes one volume in particular:
+There was the History of the Inconstant Lover, who, when he thought to clasp the
+bride to whom he had pledged his vows, he found himself in the arms of the pale
+ghost of her whom he had deserted. There was the tale of the sinful founder of his
+race whose miserable doom it was to bestow the kiss of death on all the younger
+sons of the fated house, just when they reached the age of promise. (M. W.
+Shelley, “Introduction” 7)
+This reference to this collection of ghost stories may have actually been one of the volumes that
+Mary, Percy, Byron, and the rest of their company read from that summer, but Mary must have
+
+42
+chosen this volume carefully as yet another method to subtly draw the reader’s attention to her
+and Shelley’s personal lives. The immediate clue to this, is the title of the volume itself which
+brings Percy Shelley to mind. Mary already knew that Shelley was not concrete in his affections,
+as he left his pregnant wife, Harriet, to run off with Mary. But Harriet was not Mary’s only
+possible rival for Shelley’s love, her step-sister Claire Clairmont was also tangled up in Shelley’s
+affairs. Holmes even goes so far as to state that Claire’s role in Shelley and Mary’s relationship,
+“provided the element of dark, unstable, tempestuous affection that his calm union with Mary
+required to keep it alive; and that this ‘shadow’ love occasionally—at moments of crisis—
+achieved violent sexual expression,” (Holmes, “First Love” 39).
+There is evidence in abundance that Percy Shelley was certainly an inconstant lover but it
+is not until the description of the story that this reference to him solidifies. The horror story of
+the man embracing his new wife only to grasp the intangible ghost of her former lover is eerily
+reminiscent of the scene of the veiled maid in “Alastor,” discussed at length in chapter one. But
+this scene is even more reminiscent of Shelley personally because Mary mirrors the scene from
+“Alastor” but adds the details of Shelley’s own relationships. The second story Mary references
+also seems to mirror her and Shelley’s life together, though perhaps to a lesser degree than the
+first example. The head of house whose children are doomed to an early death also sounds like a
+reference to Shelley because he and Mary’s children’s unfortunate fates. A year before writing
+Frankenstein Mary’s first child by Shelley, a daughter, dies a few days after her premature birth.
+Clara, their third child, dies at about a year old, and only a year after that, their second child,
+William also dies. Only their last son, Percy Florence, survives to adulthood, all their other
+
+43
+children die while still very young.13 This similarity between these two supposed German ghost
+stories and the personal details from both Shelley’s work and personal lives strikes a chord too
+eerie to be unintentional. By including these stories that also served as the inspiration to write her
+own story of horror, Mary is giving the reader a subtle clue to the fact that Frankenstein was
+written with Shelley and his works in mind.
+Mary’s description of the Switzerland summer continues and we come to Lord Byron’s
+proposition that they each write a ghost story. She goes out of her way to mention that there were
+four people present at this gathering, including Polidori, though Shelley neglected to mention
+him in the original preface. As she briefly describes each of the ghost stories the participants of
+the challenge imagined we have a description of Shelley’s attempt, saying he was “more apt to
+embody ideas and sentiments in the radiance of brilliant imagery, and in the music of the most
+melodious verse that adorns our language, than to invent the machinery of a story, commenced
+one founded on the experiences of his early life,” (M. W. Shelley, “Introduction” 7). Mary’s
+depiction of Shelley’s story, although praising his mastery over descriptive language, is at the
+same time, adding a little twist of an insult, suggesting he does not have a fantastic grip over
+narrative. This is very similar to how Shelley, in his preface, questions Mary’s abilities. Also,
+Mary once again brings up the idea of basing a story off of one’s own experience, priming the
+reader with this idea that this practice was not uncommon in their work.
+As Mary’s narrative of the origin of her most famous work continues she recounts the
+initial difficulty she had with thinking of a story. Preoccupied with the wish to rival the
+horrendous impact the ghost stories had on others with a work of her own, all of her initial
+thoughts are in vain, as she describes, she “felt that blank incapability of invention which is the
+13
+
+Shelley, Mary Wollstonecraft, and Maurice Hindle. “Chronology”. Frankenstein, Or, The
+Modern Prometheus. London: Penguin, 2003. Print. viii.
+
+44
+greatest misery of authorship, when dull Nothing replies to our anxious invocations,” (M. W.
+Shelley, “Introduction” 8). In other words, Mary suffered from a severe case of writer’s block.
+She continues to ruminate on the endeavor of writing when she interestingly posit the following
+theory, that, “invention…does not consist in creating out of void, but out of chaos; the materials
+must, in the first place, be afforded: it can give form to dark, shapeless substances, but cannot
+bring into being the substance itself,” (M. W. Shelley, “Introduction” 8). What Mary is here
+admitting to is that writing does not come from nothing, it is more about taking different
+elements that are already in existence and reforming them to create something new, the story.
+Percy Shelley’s preface put forth a similar idea, but that was more for the protection from
+possible accusations of blaspheme. By the time Mary had written her introduction Frankenstein
+had already been in print for over ten years and it would not be necessary for her to state this idea
+in the hopes of self-preservation. So, this admission, too, seems to point to the Mary putting the
+seed in the reader’s mind that her work has at least, in part, been based off of previous events.
+This is also emphasized by the fact that Mary follows this paragraph by describing how she first
+got her inspiration for Frankenstein. She says, “many and long were the conversations between
+Lord Byron and Shelley, to which I was a devout but nearly silent listener…They talked of the
+experiments by Dr. Darwin…who preserved a piece of vermicelli in a glass case, till by some
+extraordinary means it began to move with voluntary motion,” (M. W. Shelley, “Introduction”
+8). Mary then goes on to talk about how this one incident discussed between the three of them
+(she does stress that she is a nearly silent listener) began her thoughts on the possibility of
+reanimation of a corpse.
+Mary, like Shelley’s preface, seems to have put the agency of her ideas and writing
+outside of herself. But instead of being an insult to herself or an effort to stay humble, it reads
+
+45
+more as a way to illustrate her writing Frankenstein as both inspired by and in response to real
+incidents in her and Shelley’s lives together. This displacement of agency continues as she
+describes the way her now fabled dream came into her conscience, her, “imagination, unbidden,
+possessed and guided me, gifting the successive images that arose in my mind with a vividness
+far beyond the usual bounds of reverie,” (M. W. Shelley, “Introduction” 9). Here, there is no
+agency on Mary’s part, all of the following images of Victor at his creation’s side from the
+dream seem to be entirely outside of any control on Mary’s part. But she does not simply rob
+herself of all credit to the degree Shelley does in his preface, when she awakes the next morning
+and announces to the rest of her party that “I had thought of a story,” (M. W. Shelley,
+“Introduction” 10). Although Mary initially presented her inspiration as having come from a
+source entirely outside of herself, she recognizes her dreams as a part of her conscious, when she
+declares that she thought of a story she takes ownership over her narrative and begins the writing
+process later that same day.
+Mary’s assertion of her own agency in the creation of Frankenstein continues as she
+describes the novel’s development into the form as we know it today. The tale begins as simply
+that a tale, but:
+Shelley urged me to develop the idea at greater length. I certainly did not owe the
+suggestion of one incident, not scarcely of one train of feeling, to my husband,
+and yet but for this incitement it would never have taken the form in which it was
+presented to the world. From this declaration I must except the preface. As far as I
+can recollect, it was entirely written by him. (M. W. Shelley, “Introduction” 10)
+Mary declares in language stripped of any qualifiers that she is the sole person behind the writing
+and the content of Frankenstein, and that she owes little to her husband save his insistence that
+
+46
+she develop the work into a longer form. She also here asserts his composition of the preface that
+appeared in the first edition. But this insistence of her independence from Shelley is interesting,
+because the strength of her language, that she does not owe scarcely one trains of feeling to
+Shelley seems to come into conflict with her narrative up to this point and indeed how she
+decides to end the introduction. Just earlier in the text, she speaks of how Shelley and Lord
+Byron’s conversations about the work of Dr. Darwin are what perhaps gave rise to her dream in
+the first place. This strength of language is similar to Shelley’s insistence in the preface of
+“Alastor” that asserts his opposition to the ideals of narcissistic love explored in the text of the
+poem itself, as well as his separation from the narrator. But just as in Shelley’s work, here this
+insistence gives the same opposite effect, leading the reader to question the truth of such a
+statement.
+The reader’s questions are in fact answered, though implicitly, from the closing of the
+introduction. Mary has told the tale of how her hideous monster came into creation in her
+imagination and how the pages of the novel were brought to life. She then reflects on her
+personal feelings towards her famous work when she writes:
+And now, once again, I bid my hideous progeny go forth and prosper. I have
+affection for it, for it was the offspring of happy days, when death and grief were
+but words, which found no true echo in my heart. Its several pages speak of many
+a walk, many a drive, and many a conversation, when I was not alone; and my
+companion was one who, in this world, I shall never see more. But this is for
+myself; my readers have nothing to do with these associations. (M. W. Shelley,
+“Introduction” 10)
+
+47
+In almost complete contradiction to her strict statement that Shelley was not responsible for any
+part of Frankenstein she speaks fondly of him, reminiscing of their time together before his death
+nine years previous to Mary writing this introduction. In this recollection of memories, of a time
+before her life has been racked with death and misfortune, she specifically references the fact
+that this novel reflects the many discussions between her and her husband. As Holmes points, at
+the time that Shelley was writing “Alastor,” only shortly before Mary begins Frankenstein,
+“almost everything he wrote…would have been shown to Mary, and probably to Claire also; and
+discussed at length,” (Holmes, “Second Marriage” 65). These discussions Mary refers to
+inevitably included “Alastor” and his ideas of anti-typical love. The manner in which she speaks
+of these conversations and the way they manifest in Frankenstein almost sounds like she’s
+suggesting the work is continuing the discussion between her and Shelley. The novel “speaks” it
+is an active participant. Just as “Alastor” was a continuation of the exploration of the anti-type
+found in “On Love,” Frankenstein is a continuation or a response to these conversations. But
+Mary does not explicitly put this idea forward, ending the paragraph almost chastising the reader
+for attempting to peak into her life, claiming that these references within the text are for her only.
+Of course, just as before, this insistence actually only primes the reader more so, to look into the
+text for these details.
+Percy Shelley’s preface written anonymously for the first edition, once it comes to light
+that it is he writing it, almost comes off as an insult to Mary and a way to cleverly compliment
+himself and Lord Byron. But this, like Mary’s own jab at Shelley’s inability to imagine creative
+plots, this may just be a playful jest. What is more sinister in his preface is the repeated attempts
+to displace the content and philosophies of the text of Frankenstein away from the thoughts and
+feelings of the author. The reasons for Shelley’s exasperated efforts for this separation become
+
+48
+clearer once Mary’s own introduction is published in the 1831 Standard’s Edition. In this
+introduction, despite a denial that Shelley had any influence on the writing of Frankenstein, she
+still draws a direct correlation between it and the many discussions her and her husband would
+share. Of the many topics the young lovers would have talked about, Shelley’s own work would
+have been among them, and of that body of work, “On Love” and “Alastor” surely would have
+been discussed between the two of them. The ideas found in these two works by Shelley,
+manifest in Frankenstein as well, although to a very different conclusion which will be discussed
+at length in chapter three. It is this exploration on Mary’s part that Percy seems to want to draw
+attention to. Eventually, however, his efforts fail when Mary’s own introduction is published.
+Instead of drawing our attention away from examining the philosophical beliefs and personal ties
+in the book, Mary subtly, out of continued love and respect for Shelley, encourages her reader to
+discover them.
+
+49
+Chapter III:
+Frankenstein: The Anti Anti-Type Response to “Alastor”
+Frankenstein, one of the most famous pieces of horror fiction ever written, the origin of
+perhaps one of the most recognizable icons of frightening cinema and Halloween merchandise,
+was written by Mary Shelley when she was only nineteen years old. This feat alone, the shear
+wake of influence this one piece of literature has had on all sorts of different media, would be
+enough to leave one impressed, but there is so much more to the novel than its legacy. While
+Mary Shelley’s innovations on the hideous stuff of nightmares certainly are impressive in their
+own right, the novel’s deeper examinations of the many relationships and philosophical ideals it
+holds are where one can find its true literary credit. But this is unsurprising, given Mary’s literary
+origins and surroundings, as the daughter to William Godwin and Mary Wollstonecraft, future
+friend to Lord Byron and wife to Percy Shelley. It is this last figure, Percy Shelley, who played
+the largest role in the formation of Frankenstein. Specifically, his second long poem “Alastor”
+written not long after he and Mary met and ran away together. Richard Holmes, goes so far as to
+suggest that the evil spirit which pursues the subject Poet of “Alastor” influenced Frankenstein
+to the point that “ the monster sometimes seems to be an almost programmatic attempt to present
+the kaka-daimon of Shelley’s poem, the evil spirit of solitude itself,” (Holmes, “Byron Summer”
+332). But this statement seems extreme or at the least perhaps a bit misguiding. Instead, this
+chapter will propose not that Mary was heavily influenced by this work, but that she wrote
+Frankenstein as a response. In essence, just as “Alastor” was a means for Shelley to explore
+further his ideals of self-center love, Mary used Frankenstein as her own thought experiment,
+critiquing a specific aspect of the ideal of the anti-type, extreme obsession and isolation. This
+manifests in the development of Victor’s relationship with his wretched creation. This
+
+50
+relationship possesses much more than a simple father – son or the more Godlike, creator –
+created, dynamic, but instead forms a conceit throughout the novel concerning the relationship
+between the idealist and the idealized. Instead of the mourning that comes in Shelley’s “Alastor,”
+Mary’s novel portrays a much more critical view of Shelley’s philosophies, reflecting perhaps
+her own personal opposition to them.
+Walton, the First Mad Scientist?
+Interestingly, the novel opens immediately not with Victor Frankenstein’s narrative, but
+with letters from an Arctic explorer named Walton. He, in his own isolating pursuit of the
+unknown which somewhat mirrors Frankenstein’s later narrative, stumbles across a great sight
+on his adventures. Just when hope seems lost in the wilds of the ice, the crew spots a sled led by
+a many of gigantic stature who soon disappears into the horizon. It is not long after this initial
+sighting that another figure is spotted, a figure in much more dire circumstances. Walton and his
+crew haul the man on board and describes him thusly:
+I never saw a man in so wretched condition…We accordingly brought him back
+to the deck, and restored him to animation by rubbing him with brandy and
+forcing him to swallow a small quantity. As soon as he showed signs of life, we
+wrapped him up in blankets and placed him near the chimney of the kitchen stove.
+By slow degrees he recovered, and ate a little soup which restored him
+wonderfully. (M. W. Shelley, Frankenstein 26-27)
+As readers this is the one of the first descriptions we have of Victor Frankenstein and one of the
+first adjectives used is “wretched,” the very word that Frankenstein immediately assigns to his
+creation once it begins to stir with life and continues to use to refer to him as the narrative
+continues. Right at our first encounter with Victor, we are being trained to associate these words
+
+51
+with both Victor and his monster. This first word is the clue and the crucible that leads to the
+reader’s further recognition of these first views of Victor as equating him to his creation. The
+passage continues with Walton’s attempt to rescue Frankenstein from his condition of poor
+health, but Mary Shelley is very careful about her prose in this passage. Walton does not merely
+describe Victor as slowly regaining his health but by being “restored to animation.” This
+language is the same as that used by Frankenstein when he first begins his quest to discover the
+secret to life—he does not merely wish to create life but to restore it to dead matter. Walton,
+essentially shadows Victor’s future actions, Victor is undergoing the same process and described
+in the same language as his creation. The possibility of this use of such a specific description as
+being a coincidence is undermined by the repetition of similar language as the passage continues.
+Victor shows “signs of life” and “restored’ is repeated. Something that is interesting to take into
+consideration when reading the above passage is the fact that the letters Walton is writing to his
+sister are supposedly happening in real time, in other words, that Walton is writing these letters
+in succession very shortly after the events which they are describing. This is important to
+remember when analyzing the above passage because it eliminates the possibility that Walton’s
+descriptive language has been tainted by that of Frankenstein in his retelling of the events of his
+life.
+This initial description of Frankenstein continues and as he is fully restored by Walton,
+his fully living state is also seen to be similar to that of the monster:
+Two days passed in this manner before he was able to speak…I never saw a more
+interesting creature; his eyes have generally an expression of wildness, and even
+madness, but there are moments when…his whole countenance is lighted up, as it
+were, with a beam of benevolence and sweetness that I never saw equalled. But he
+
+52
+is generally melancholy and despairing; and sometimes he gnashes his teeth; as if
+impatient of the weight of woes that oppresses him. (M. W. Shelley Frankenstein
+26)
+As Walton continues to describe Frankenstein as he continues to recover, next choosing the word
+“creature” to describe him. Again, this is the same exact language that Victor uses to label his
+creation. Victor has only been referred to as a man once in this passage at the very beginning,
+giving the reader the effect that as he recovers, as he is “restored to animation,” he becomes
+more and more like his creation in the descriptions. It is also interesting that right after Walton
+refers to Victor as creature he remarks on the expression of emotion given off by Frankenstein’s
+eyes. He describes them as having a “wildness, and even a madness.” It is these qualities about
+the monster’s great yellow eyes that truly frighten Victor as the monster begins to stir and causes
+him to flee from his creation. One could even argue that the benevolence that Walton detects in
+Victor makes him even more akin to his creature. Although Frankenstein immediately labels the
+creature as a monster and disregards any of the creature’s attempts to change his judgment, the
+reader learns of the creature’s initially kind nature through his narrative of his time with the
+DeLacey family. It was only the actions of others convinced him to become what Victor had
+labeled him as. In truth, both Victor and his creature are characters torn between “sweetness” and
+“despairing.” Again, these descriptions of Frankenstein are of Walton’s own language, a
+character that has not met the creature and has yet to hear of his existence. He lacks the
+knowledge of this shared language to describe both Frankenstein and his creation, which adds a
+certain eerie element of truth to the idea that at the very start of the narrative, when we as readers
+first meet Victor Frankenstein, he is already one and the same with his monster. At the very start
+of the novel we as readers are primed to draw these conclusions, and though this is a horrifying
+
+53
+idea in itself, this is not the true revelation of the text. It instead primes the reader to explore how
+this dualistic relationship came about.
+The Early Academic Obsession and Creation
+Before we can see what effect Frankenstein and his monster’s relationship have on the
+two of them and how it acts as a response to Shelley’s exploration of the ideas, we must first see
+what drove Frankenstein to create the monster. From the time he was a young child, Victor
+describes his obsession with debunked or parascientific pursuits. He describes this need,
+however, in negative terms:
+I felt as if my soul were grapping with a palpable enemy; one by one the various
+keys were touched which formed the mechanism of my being: chord after chord
+was sounded, and soon my mind was filled with one thought, one conception, one
+purpose…I will pioneer a new way, explore unknown powers, and unfold to the
+world the deepest mysteries of creation. (M. W. Shelley, Frankenstein 49)
+The physicality to this description of his desire to achieve more, how deeply this need penetrated
+his body as well as his spirit, and his naming it the enemy foreshadow his actual rivalry with the
+physical being he creates. Merely having the thought to pursue such an intellectual journey
+already shows dooming relationship between the idealist and his idealizations. The sense of
+doom is emphasized when Victor later describes this need as being “a resistless, and almost
+frantic impulse, urged me forward; I seemed to have lost all soul or sensation but for this one
+pursuit,” (M. W. Shelley, Frankenstein 55). This is highly reminiscent of the language Shelley
+uses as his subject Poet persists in his fruitless pursuit of his own creation, the veiled maid.
+Victor, like the subject Poet, has driven himself into isolation, consumed by his need to achieve
+his ideal. Mary is establishing this connection before the monster is even created because unlike
+
+54
+the subject Poet, Frankenstein does, in some sense, achieve his lofty goals, but this pursuit and
+capture, as Mary shows, has disastrous consequences for both creator and created.
+Victor has worked tirelessly to form his being, blasting moral asides, plundering graves
+for materials, and daring to match God in the ability to bestow life. But on the faithful night
+where his creation is finally ready to receive the actual spark that will reanimate his lifeless
+limbs, Frankenstein describes his horror of his creature’s first moments of being alive, “I saw the
+dull yellow eye of the creature open; it breathed hard, and a convulsive motion agitated its limbs.
+How can I describe my emotions at this catastrophe, or how delineate the wretch whom with
+such infinite pains and care I had endeavored to form?” (M. W. Shelley, Frankenstein 58). It is
+interesting that it is not until the creature actually has life within him that Frankenstein recoils
+back and, for the first time, truly sees the grotesque nature of his work. Though in retrospect,
+Victor has described his need to create in negative terms, this was not recognized until the
+moment the monster opens his eyes. Mary is pointing out the blindness of the idealist and the
+isolationist, who so entranced in their own pursuits fail to see how it hurts those around them or
+themselves. It is almost as if when the creature opens his eyes, Victor opens his own as well,
+further drawing the two characters together. This sudden and complete hatred for his action is
+then transferred onto the result of that action, the creature itself. Victor continues to describe his
+first real look at his living creation:
+I beheld the wretch – the miserable creature whom I had created. He held up the
+curtain of the bed; and his eyes, if eyes they may be called, were fixed on me. His
+jaws opened, and he muttered some inarticulate sounds, while a grin wrinkled his
+cheeks. He might have spoken, but I did not hear; one hand was stretched out,
+
+55
+seemingly to detain me, but I escaped, and rushed downstairs. (M. W. Shelley,
+Frankenstein 59)
+Without Victor’s newfound lens that casts light on the grotesquerie his laboratory has become
+these initial actions by the creature would necessarily come off as so ill-intentioned as Victor
+perceives them. It makes sense, like a bird first hatching, that the newborn monster would fix his
+eyes upon his father figure, and the same goes for when he reaches out for his creator. But
+Victor’s horror at himself is displaced and he now views instead his creature as the manifestation
+of his sins. In a bizarre twist of Shelley’s “Alastor” Victor does not project his love onto the
+monster but his hatred, ironically binding the two irrevocably although Frankenstein wishes to
+escape. This correlation between Victor and the subject Poet becomes more clear when Victor
+laments, “Mingled with this horror, I felt the bitterness of disappointment; dreams that had been
+my food and pleasant rest for so long a space were now become a hell to me; and the change was
+so rapid, the overthrow so complete!” (M. W. Shelley, Frankenstein 59-60). Just as when the
+subject Poet awakes from his fevered erotic dream of the veiled maid, so too does Frankenstein’s
+dream of a perfect created life form abruptly vanish upon this metaphoric awakening. What was
+once sustaining becomes a hellish understanding of the unattainable nature of such a goal and
+results in the mental torture and eventual deaths of both protagonists of their respective works.
+Victor eerily prophesizes this himself when he later states, “I foresaw obscurely that I was
+destined to become the most wretched of human beings,” (M. W. Shelley, Frankenstein 76).
+Wandering Kindred Spirits
+What follows Frankenstein’s abandonment of his creation is a long path of paranoia
+about what horrible acts his creature must commit and the unfortunate confirmation of Victor’s
+fears. His younger brother William, a mere child, is found strangled and the poor caretaker
+
+56
+Justine is blamed and subsequently tried and executed for his murder. Frankenstein, somehow
+aware that the true perpetrator of his crime is his own monster, grieves and separates himself
+from his family. The guilt of his actions haunt him and as he describes, he “wandered like an evil
+spirit, for [he] had committed deeds of mischief beyond description horrible, and more, much
+more ([he] had persuaded [him]self) was yet behind,” (M. W. Shelley, Frankenstein 93). This
+explicit mention of the evil spirit is a direct reference to “Alastor” and is likely why Holmes
+believed Frankenstein to be a “programmatic” attempt to flesh this idea out more fully.
+However, unlike Shelley who does not explicitly state the relationship between pursued and
+pursuing spirit, Mary makes the correlation clear. How Frankenstein weighs how to deal with
+such a spirit also resonates with “Alastor” when he puts forth, “often, I say, I was tempted to
+plunge into the silent lake, that the waters might close over me and my calamities forever,” (M.
+W. Shelley, Frankenstein 94). Victor, like the subject Poet, feels compelled to end his own life,
+and interestingly Mary uses the passive voice in the verb “tempted.” It is unclear wheather, like
+the subject Poet of “Alastor” there is the sense of an outer agent taunting him to his death or if
+this is entirely Victor’s initiative.
+Shortly after Victor describes feeling the impulse to commit suicide, the ambiguity of the
+sense of pursued and pursued, tempted and tempter, becomes further stressed when Frankenstein
+seems to wish to give up his life again and cries out, “wandering spirits, if indeed yet wander,
+and do not rest in your narrow beds, allow me this faint happiness, or take me, as your
+companion, away from the joys of life,” (M. W. Shelley, Frankenstein 101). Here, Victor
+explicitly calls upon his kindred spirits, wandering with him though seemingly with the authority
+to allow or prevent his exit from this world. To complicate matters further, immediately upon
+uttering this statement, Victor notices, “as I said this, I suddenly beheld the figure of a man, at
+
+57
+some distance, advancing towards me with superhuman speed,” (M. W. Shelley, Frankenstein
+101). In one sense, Frankenstein gets his wish. He evokes the wandering spirits and at that
+instance his creature, a fellow wretched wanderer, appears. But this coincidence has another
+interesting effect as it again links the two beings together, not only in that now they seem to be
+almost sharing the same thoughts, but their fates are combined and their roles almost reversed.
+Frankenstein had called upon the spirit asking permission to take leave of this world, extinguish
+his life, and the monster, whom Victor had given life, enters the scene to take claim over that
+responsibility. But the monster does not grant any lucky untimely death upon Victor and instead
+begins to narrate his own life of abandonment.
+The monster begins his narrative of his life after Victor’s cruel flight from the laboratory,
+recounting his struggle to survive in the woods, gaining sustenance from nuts and berry, facing
+the winter winds without shelter. That is until he comes upon a small cottage who we learn is
+inhabited by the DeLacey family. Yearning for companionship the creature, to an obsessive
+degree almost mirroring his creator’s, strives to learn their language. He hopes that “knowledge
+might enable [him] to make them overlook the deformity of [his] figure; for with this also the
+contrast perpetually presented to [his] eyes has made [him] acquainted,” (M. W. Shelley,
+Frankenstein 116). Like Victor, he somehow has an early grasp, or perhaps exaggeration, of the
+power of knowledge. But, also like Frankenstein, he understands that not all knowledge is
+helpful even if it is enticing. For instance, he soon goes on to describe his love for the family:
+‘I had admired the perfect forms of my cottagers – their grace, beauty, and
+delicate complexions: but how was I terrified, when I viewed myself in a
+transparent pool! At first I stared back, unable to believe that it was indeed I who
+was reflected in the mirror; and when I became fully convinced that I was in
+
+58
+reality the monster that I am, I was filled with the bitterest of sensations of
+despondence and mortifications. Alas! I did not yet entirely know the fatal effects
+of this miserable deformity.’ (M. W. Shelley, Frankenstein 116-117)
+This, too, is reminiscent of a scene from “Alastor” where the subject Poet for the first time
+remarks at his haggard visage in the pool. But unlike “Alastor” this is not an inversion of the
+Narcissus and Echo myth, nor does the language surrounding the monster’s deformity serve to
+romanticize an ugly appearance from the tireless pursuit of the ideal. There is no fawning Echo
+and no self-love present in this scene, only hatred for the knowledge of his hideous form.
+The monster’s narrative continues to mirror Victor as he becomes more and more
+knowledgeable through his observation of the family and the different texts he has found and
+read to himself. He becomes more self-aware and begins to question the nature of his existence
+and the knowledge he possesses. He exclaims, “Of what a strange nature if knowledge! It clings
+to the mind, when it has once seized on it, like a lichen on the rock. I wished sometimes to shake
+off all thought and feeling; but I learned that there was but one means to overcome the sensation
+of pain, and that was death – a state which I feared yet did not understand,” (M. W. Shelley,
+Frankenstein 123). The monster, too, has contemplated the taking of his own life to escape the
+burden of the knowledge he possesses, in this case, the knowledge of his own hideous existence.
+A few pages later, the monster expands on this recognition, saying “increase of knowledge only
+discovered to me more clearly what a wretched outcast I was. I cherished hope, it is true; but it
+vanished when I beheld my person reflected in water, or my shadow in the moonshine, even as
+that frail image and that inconstant shade,” (M. W. Shelley, Frankenstein 133). After the
+DeLacey’s rejection of the creature his mind takes a dark turn.The monster’s knowledge, though
+perhaps not directly, is responsible for his recognition of his isolation, similar to how Victor’
+
+59
+pursuit of knowledge leads to his solitude. But just as in “Alastor,” when the monster views his
+disfigured visage in the clear pool of water he gives up his hopes. He does not resign himself to
+lie down and die like the subject Poet, at least not at this point in the narrative, but in a way is he
+resigned a sort of death, the cold realization he must carry on alone.
+Creating Companionship and Chaos
+But the monster has not yet completely accepted this fate of a doomed existence to walk
+the earth alone, scorned by all other living beings, including those who are responsible for his
+being and those who he has shown only love and reverence. In return for the wrongs his master
+has done against him, the monster searched for Frankenstein until he found him and began to
+relate his tale. At the end of his narrative, which Victor fails to see mirrors his own, the creature
+demands that Frankenstein construct another being like him, this time a female. The creature
+states:
+I demand a creature of another sex, but as hideous as myself; the gratification is
+small, but it is all that I can receive, and it shall content me. It is true, we shall be
+monsters, cut off from all the world; but on that account we shall be more
+attached to one another. Our lives will not be happy, but they will be harmless,
+and free from the misery I now feel. Oh! my creator, make me happy; let me feel
+gratitude towards you for one benefit! (M. W. Shelley, Frankenstein 148)
+Though this is not an entirely hopeful solution, the creature promises that he and his newly
+created companion, will run away together and live in isolation away from the hate-filled eyes of
+humans, bound together through their mutual loneliness caused by a shared hideous exterior.
+Regardless of his female companion, the reality of their isolation is still a dismal prospect.
+
+60
+At first, Victor is appalled by the idea, fearing that the creatures’ combined power would
+serve to incite them to attack and wreck havoc upon the human race. But after a thought,
+however a reluctant thought it is, Frankenstein begrudgingly agrees, feelings his fatherly duty
+towards his creation for the first time. With the creature’s promise of destruction upon all that
+Frankenstein loves, the young doctor leaves to undertake his gruesome galvanizing task once
+again. He then isolates himself once again, especially from his family, which creates a heavy
+burden in him by itself. He describes it as:
+I felt as if I were placed under a ban – as if I had no right to claim their
+sympathies – as if never more might I enjoy companionship with them. Yet thus I
+loved them to adoration; and to save them, I resolved to dedicate myself to my
+most abhorred task. The prospect of such an occupation made every other
+circumstance of existence pass before me like a dream, and that thought only had
+to me the reality of life. (M. W. Shelley, Frankenstein 151)
+In an interesting twist, in resolving to create a companion for the monster Frankenstein here also
+resolves to eliminate the possibility of himself having one, at least for the time being. There is
+also an interesting reversion to the language of dreams in describing his work, but it is inverted.
+Before, when all of Victor’s dreams rested on his success at attempting to instill life in what was
+dead, now his work has become a nightmare and all other aspects of life are the dream. But as we
+already know from past experience, both in this novel and the poem “Alastor” that came before
+it, what you dream is doomed to be that which is unattainable.
+This resolve of Frankenstein to bring to life a female to serve as the companion to his
+earlier creation is short-lived. Victor delays the process of building the creature out of dread and
+as he delves deeper and deeper back into the science he forsook his promise violently dissolves
+
+61
+into a paranoid fear. As the monster himself promised, he comes to check Victor’s progress in
+his second endeavor, when Victor sees him at the window, he reflects:
+I trembled, and my heart failed within me, when, on looking up, I saw by the light
+of the moon, the daemon at the casement. A ghastly grin wrinkled his lips as he
+gazed on me, where I sat fulfilling the task which he had allotted to me. Yes, he
+had followed me in my travels; he had loitered in forests, hid himself in caves, or
+taken refuge in wide and desert hearths; and he now came to mark my progress,
+and claim the fulfillment of my promise. (M. W. Shelley, Frankenstein 171)
+As the passage begins, Victor describes the effect the mere sight of his creation has on him. His
+heart “fails” within him, not only interjecting his great fear of his creature but also his likeness to
+it and the half-formed companion he is striving to animate. Thought and sight of the creature
+creates a feeling of death, of inanimation, within Victor. In this moment, Victor reduces himself
+to the same dead flesh of the creature and the future companion. Victor then continues to
+describe the creature in the same monstrous language that he has since the spark of life first
+flowed through his creation, with “daemon,” the “ghastly” grin, but if the reader takes into
+consideration Victor’s language of equality between himself and the creature at the very
+beginning of the passage, then the reader must also make the conclusion that Victor is also
+describing himself.
+This intimacy of likening himself bodily with the monster through language transforms
+into an even stronger bond as the passage continues. Through a mere glance, Victor has come,
+not only to the conclusion that the creature must have followed him, but also to intimate
+knowledge of specific details of the monster’s whereabouts and methods of tracking. Though this
+could be mere speculation based off of the creature’s previous discussions with Victor, the tone
+
+62
+of his language is too repetitious and insistent. With the earlier language of connection between
+Frankenstein and his monster, this is too specific a description to pose as mere conjecture on
+Victor’s part. Now, at this literal meeting between the two characters, not only are their bodily
+descriptions constructed to suggest similarity, but also their minds are open to a fluidity of
+identity.
+The fluidity culminates as the passage goes on:
+As I looked on him, his countenance expressed the utmost extent of malice and
+treachery. I thought with a sensation of madness on my promise of creating
+another like to him, and trembling with passion, tore to pieces the thing on which
+I was engaged. The wretch saw me destroy the creature on whose future existence
+he depended for happiness, and, with a howl of devilish despair and revenge,
+withdrew. (M. W. Shelley, Frankenstein 171)
+Victor continues to describe his creation’s expression with language of absolute disgust, with
+“malice” and “treachery.” Once again we as readers can apply these descriptors to Victor himself
+because at this moment, Frankenstein describes himself as being overcome by a “madness.” His
+perceived evil descriptors of the monster manifest themselves in his mind and produce this
+madness which in turn produces the monstrous behavior of destroying the companion, an act he
+would normally reserve as only able to be enacted by the creature. But this act of destroying the
+creature’s companion is not just the result of the two minds and bodies of Frankenstein and his
+creature becoming more and more similar but is yet another act that emphasizes their soon to be
+interchangeability. The conclusion of the passage reaches a disturbing level not simply because
+of the act of destroying the companion but the manner in which Victor does it. He describes
+himself as “trembling with passion” and in the heat of that passion physically tears to pieces of
+
+63
+corpse of pieces. This language is not only violent but is also subversively sexual. This effect is
+strengthened when the reader takes into consideration Victor’s position around the thing. He is
+standing over it, “engaged on” it. Most strikingly, though, at this point the reader is prepped to
+view Victor and his creation as similar—the reader is already aware of the monster’s intentions
+to have the female as a companion and that intimacy is one of his desires. If we take the
+monster’s wishes and wants to also be Victor’s as the language suggests, than Victor has in
+essence fulfilled his greatest fear and consummated the creature’s and his companion’s union in
+the creature’s stead.
+This mirroring between the monster and Frankenstein is, of course, brought to a head
+once the monster return’s the favor and murders Elizabeth on her and Victor’s wedding night.
+The monster rages once he sees what Victor has done to his promise of companionship and
+threatens outright before he flees from the laboratory, “I shall be with you on your weddingnight,” (M. W. Shelley, Frankenstein 173). But Frankenstein, mistakenly takes this threat to be
+against his own person and neglects to take Elizabeth’s safety into account, an oversight which
+leads to devastating consequences. Every precaution goes to waste and as Frankenstein
+contemplates false hopes that the monster will not deliver on his promises when “I heard a shrill
+and dreadful scream…As I heard it, the whole truth rushed into my mind, my arms dropped, the
+motion of every muscle and fibre was suspended; I could feel the blood trickling in my veins,
+and tingling the extremities of my limbs,” (M. W. Shelley, Frankenstein 199). As Elizabeth’s
+peril comes into Victor’s consciousness he becomes hyper aware of his corporeal nature. There
+is almost a contradiction of terms, his life is at once suspended but he also feels his blood
+running through his body, Elizabeth’s death has thrown him into an ambiguous state.
+
+64
+Because Victor mistook himself to be the victim of the monster’s plot, it seems the is a
+transfer between the two of the descriptive language. The passage continues:
+Great God! why did I not then expire! Why am I here to relate the destruction of
+the best hope, and the purest creature of earth? She was there, lifeless and
+inanimate, thrown across the bed, her head hanging down, and her pale and
+distorted features half covered by her hair. Every where I turn I see the same
+figure – her bloodless arms and relaxed form flung by the murderer on its bridal
+bier. Could I behold this, and live? Alas! life is obstinate, and clings closest where
+it is most hated.” (M. W. Shelley, Frankenstein 199).
+He is unable to become more like his creation at this point and instead that tragedy falls into
+Elizabeth’s fate. Now she becomes “lifeless,” “inanimate,” and “distorted” like the monster but
+more importantly like the female companion which Frankenstein had ripped apart. This horrific
+death replaces the sexual climax one would expect on a marriage bed. Yet this can only be what
+is expected. Throughout the novel, similar to the subject Poet’s continued refusal of women of
+the flesh, Frankenstein forgoes his union with Elizabeth in favor of his ardent pursuit of that
+which he idealizes. But instead of the portended horrors Shelley claims his poem will illuminate,
+Mary Shelley’s novel becomes a truly nightmarish exploration of the mental and emotional
+consequences of such an endeavor. In place of sexual climax, the dramatic climax of the novel is
+reached and as Holmes observes, “thus both creator and created destroy each other’s hopes of
+sexual happiness, and with that their links with human society are shattered. Both become
+outcasts and pariahs, tortured equally by the knowledge of what they have done, and the desire to
+be revenged for what they have lost,” (Holmes, “The Byron Summer” 333). While this is
+certainly true, it can also be said that their ostracism is not only a result of this encounter but also
+
+65
+the cause of it. Mary is warning us not only of the dangers of unfulfilled romantic and sexual
+desires, but that the obsessive and self-centered behavior that both Victor and his creation
+participate in prevents a union from occurring in the first place.
+The Final Chase
+The death of Elizabeth is the last blow against any chance of Frankenstein going on to
+live a life of satisfaction and also quenches any inkling that he and the monster could ever be
+reconciled. Her death also marks the point in the narrative where Victor and his creation truly
+become inseparable. He reflects:
+As the memory of past misfortunes pressed upon me, I began to reflect on their
+cause – the monster whom I had created, the miserable daemon whom I had sent
+abroad into the world for my destruction. I was possessed by a maddening rage
+when I thought of him, and desired and ardently prayed that I might have him
+within my grasp to wreak a great and signal revenge on his cursed head. (M. W.
+Shelley, Frankenstein 202).
+Frankenstein, in both descriptive language and thought, now mimics the monster’s previous
+actions, he wishes to tear him apart just as he did his companion, just as the creature did to
+Elizabeth. Although it seems all of his rage if directed at the monster, there is the clue that this
+hatred points inwards as well because he names himself the creator. This is not the first time
+Victor has taken blame for the events of the novel, but it is one of the first times that it induces
+such a rage and violent nature in him instead of depression or melancholy. Victor has finally
+found his resolve to pursue and destroy the monster which brings us back to the beginning of the
+novel.
+
+66
+Holmes marks this as being extremely innovative on Mary’s part, remarking, “the way in
+which, after the murder of Elizabeth, she reverses the roles of pursuer and pursued. It is now
+Frankenstein who pursues the monster. This creates a doppelganger theme, in which
+Frankenstein and his creation are made to form antagonistic parts of a single spiritual entity,”
+(Holmes, “The Byron Summer” 332). But here Holmes neglects the fact that this doppelganger
+effect has been present for the whole of the novel, yes the roles are reversed, but this has the
+effect of solidifying a relationship that Mary has carefully crafted throughout the narrative. This
+doppelganger effect is less about doubling the characters and more about confusing them, as
+Victor reflect near his final moments of life:
+In a fit of enthusiastic madness I created a rational creature, and was bound
+towards him, to assure, as far as was in my power, his happiness and well-being.
+This was my duty; but there was another still paramount to that. My duties
+towards the beings of my own species had greater claims to my attention because
+they included a greater proportion of happiness or misery. (M. W. Shelley,
+Frankenstein 219).
+The first sentence of the above passage seems like an oxymoron, Frankenstein here admits that it
+was madness that led to him create life and also admits that the creature was rational. There is at
+once a recognition of his creature but also a confusion between himself and the monster in his
+syntax. He then attempts to justify his actions, calling attention to his membership in the human
+race. But this fails, due to his near constant identification with the monster and his self-induced
+separation from humanity for most of his life. The statement just does not ring true and instead
+reflects his self-centeredness more so as he attempts to displace his blame.
+
+67
+Near minutes after Frankenstein expires aboard Walton’s ship the monster himself
+appears, moments too late to attempt reconciliation between himself and his master. Perhaps
+unexpectedly, he bemoans Victor’s death, exclaiming:
+‘That is also my victim!’ he exclaimed: ‘in his murder my crimes are
+consummated; the miserable series of my being is wound to its close! Oh,
+Frankenstein! generous and self-devoted being! what does it avail that I now ask
+thee to pardon me? I, who irretrievably destroyed thee by destroying all thou
+lovedst. Alas! he is cold, he cannot answer me.’ (M. W. Shelley, Frankenstein
+221).
+He comes to beg forgiveness but it is too late, Victor lies dead before him. But in Frankenstein’s
+death the monster also sees his own, now inevitable that his dual self has parted. Victor is a
+victim to the monster and the monster is a victim to Victor, in the end these two halves to the
+same whole have destroyed each other. And here, in yet another subtle reference to “Alastor” the
+monster refers to Victor as “generous and self-devoted,” which perfectly describe him though
+they may seem contradictory terms. In his self-devoted quest to discover the mysteries of the
+universe, Victor was generous with the gift of life which he bestowed onto the monster, even if
+such a gift came to ruin them both.
+Mary Shelley’s exploration of isolation and self-devotion intensely differs from her
+husband’s own attempts. Although in both works the figures that pursue their highest callings to
+the point of ostracizing themselves away from friends, family, and the opportunity for real
+relationships, which inevitably leads to their doom, in Frankenstein the consequences are
+terrifying. Instead of building an elegy to the doomed nature of this practice as Shelley did, Mary
+illustrates dangers of isolation and projection of ideals with the relationship between Victor and
+
+68
+his creation. The two similar beings cannot coexist without forming an antagonistic relationship
+which works to doom them both. It seems as though Percy Shelley wished to suppress this
+reading of the relationship between Frankenstein and the monster in the preface that he wrote for
+the first edition, but after his death Mary was free to actually emphasize it in her own
+introduction for the 1831 edition. This was most likely not out of a spiteful place in Shelley, but
+a self-denying one. Holmes posits that in a review Shelley wrote on Frankenstein:
+It is impossible to believe that he was not thinking at least partly of himself when
+he added, ‘it is thus that too often in society those who are best qualified to be its
+benefactors and its ornaments are branded by some accident with scorn, and
+changed by neglect and solitude of heart into a scourge and a curse.’ Implicitly,
+Shelley accepted his own identification as Frankenstein’s monster. (Holmes, “The
+Byron Summer” 334)
+But although there is an implicit acceptance in his relation to the monster, Shelley still seems to
+be missing the point. While the society who would not accept the monster are certainly at fault
+for turning him to a life of isolation, it is Victor’s initial abandonment of his creature that serves
+at the catalyst for the entire arc of the narrative. Here, Shelley continues to lament his own
+feelings of being discarded and remaining blind to the admonitive properties of the novel, just as
+he remains obstinate that his exploration of anti-typical love is a criticism when it, in fact,
+mourns it. In short, writing Frankenstein perhaps gave Mary Shelley the platform to do a
+fantastic exercise on the possible consequences of her lover’s behavior, not to serve to chastise
+him but to warn him of the possible dangers.
+
+69
+Works Cited
+Abrams, M. H., and Stephen Greenblatt. “Alastor” The Norton Anthology of English Literature.
+7th ed. Vol. 2A. New York: Norton, 2000. 702-19. Print.
+“bower, 2b.” The Oxford English Dictionary. 2nd ed. 1989. OED Online. Oxford University
+Press. 10 March 2012 <http://oed.com>
+
+Mary Shelley’s Frankenstein. Dir. Kenneth Branagh. Perf. Robert De Niro, Kenneth Branagh,
+Helena Bonham Carter. TriStar Pictures, 1994. Dvd.
+
+Holmes, Richard. “Up the River: Bishopgate 1815.” Shelley: The Pursuit. New York: E. P.
+Dutton, 1975. Print
+
+Holmes, Richard. “The Byron Summer: Switzerland 1816”. Shelley: The Pursuit. New York:
+E. P. Dutton, 1975. Print.
+
+Hunter, J. Paul. Mary Shelley, Frankenstein: the 1818 Text, Contexts, Nineteenth-Century
+Responses, Criticism. New York: W.W. Norton, 1995. Print.
+Mellor, Anne Kostelanetz. “Revising Frankenstein.” Mary Shelley: Her Life, Her Fiction, Her
+Monsters. New York: Routledge, 1989. Print.
+
+Shelley, Mary Wollstonecraft, and Maurice Hindle. Frankenstein, Or, The Modern Prometheus.
+London: Penguin, 2003. Print.
+
+Shelley, Percy Bysshe, and Richard Holmes. "Essay On Love." Shelley on Love: An Anthology.
+Berkeley: University of California, 1980. Print.
+
+Shelley, Percy Bysshe, and Richard Holmes. “Second Marriage.” Shelley on Love: An
+Anthology. Berkeley: University of California, 1980. Print.
+
+70
+Shelley, Percy Bysshe, and Richard Holmes. "Love Reborn." Shelley on Love: An Anthology.
+Berkeley: University of California, 1980. Print
+
+71
+Bibliography
+Sunstein, Emily W. Mary Shelley: Romance and Reality. Boston: Little, Brown, 1989. Print.
+
+Shelley, Mary Wollstonecraft Godwin., and Paula R. Feldman. The Journals of Mary Shelley:
+1814-1844. Baltimore [etc.: Johns Hopkins UP, 1995. Print.
+
+Small, Christopher. Ariel like a Harpy: Shelley, Mary and Frankenstein. London: Gollancz,
+1972. Print.
+
+

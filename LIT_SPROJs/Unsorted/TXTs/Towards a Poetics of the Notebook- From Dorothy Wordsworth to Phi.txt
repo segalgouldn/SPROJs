@@ -1,0 +1,2495 @@
+Bard College
+
+Bard Digital Commons
+Senior Projects Spring 2014
+
+Bard Undergraduate Senior Projects
+
+2014
+
+Towards a Poetics of the Notebook: From Dorothy
+Wordsworth to Philippe Jaccottet
+Hannah Phoebe LeClair
+Bard College
+
+Recommended Citation
+LeClair, Hannah Phoebe, "Towards a Poetics of the Notebook: From Dorothy Wordsworth to Philippe Jaccottet" (2014). Senior
+Projects Spring 2014. Paper 311.
+http://digitalcommons.bard.edu/senproj_s2014/311
+
+This On-Campus only is brought to you for free and open access by the
+Bard Undergraduate Senior Projects at Bard Digital Commons. It has been
+accepted for inclusion in Senior Projects Spring 2014 by an authorized
+administrator of Bard Digital Commons. For more information, please
+contact digitalcommons@bard.edu.
+
+Towards a Poetics of the Notebook: From Dorothy Wordsworth to Philippe Jaccottet
+
+Senior Project submitted to
+The Division of Languages and Literature
+of Bard College
+
+by
+Hannah Phoebe LeClair
+
+Annandale-on-Hudson, New York
+May 2014
+
+Acknowledgements
+I want to thank the following people, who’ve borne with me all this time and kept me sane and
+inspired: My family, Will, and my dear friends at Bard. This project is for all of you, without
+whom the past four years would not have been what they were.
+The writing of this project would not have been possible without the help of the following
+teachers: I thank my adviser, Éric Trudel, for his unwavering encouragement and patience with
+me over the course of the year. Deirdre d’Albertis introduced me to Dorothy Wordsworth’s
+journals for the first time, and offered invaluable comments on the project’s second chapter.
+Michael Ives introduced me to the work of Philippe Jaccottet, and guided my own attempts to
+struggle from notes towards a poem to the poem itself. Marina van Zuylen taught me to refuse
+the sufferings of a Princesse de Clèves in my academic life at Bard by encouraging me to seek
+out a course of study that has offered me many pleasures as well as many challenges.
+
+Table of Contents
+Introduction ......................................................................................................................................1
+Chapter One .....................................................................................................................................6
+1. Introduction: The “lyric subject” and the “autobiographical subject” .....................................6
+2. “Terms of an engagement voluntarily contracted”:The Lectoral Pact .....................................8
+3. “The Prelude”: Narrating Writing as Process ........................................................................16
+4. “My dear, dear Sister!”: Experience Mediated and Unmediated in “Tintern Abbey” ...........21
+Chapter Two...................................................................................................................................24
+1. Introduction ............................................................................................................................24
+2. “Her taste a perfect electrometer—…”: Approaching Dorothy Wordsworth ........................25
+3. The Alfoxden Journal .............................................................................................................29
+Chapter Three.................................................................................................................................43
+1. Scenes of Composition ...........................................................................................................43
+2. “Subtle Process”: Wordsworth’s Poetics of Continuity .........................................................50
+3. Poetics of Discontinuity, or Towards a Poetics of the Notebook ...........................................52
+Chapter Four ..................................................................................................................................56
+1. The Notebook and its Pretexts ...............................................................................................56
+2.Object and Territory: Notebooks and their Readers................................................................56
+3. Practice and Poetics of the Notebook in Philippe Jaccottet’s La Semaison ...........................66
+Conclusion ....................................................................................................................................80
+Works Cited ...................................................................................................................................84
+
+1
+
+Introduction
+In a conversation with poet and critic Aubrey de Vere, Wordsworth reportedly denounced
+the practice of a fellow poet who brought notebook and pencil with him on his walks through the
+countryside. David Perkins, the author of Wordsworth and the Poetics of Sincerity, relates de
+Vere’s anecdote:
+With “flashing eye and impassioned voice,” [de Vere writes,] Wordsworth declared that
+pencil and notebook should have been left at home. “Then, after several days had passed
+by, he should have interrogated his memory as to the scene. He would have discovered
+that while much of what he had admired was preserved to him, much was also wisely
+obliterated. That which remained—the picture surviving in his mind—would have
+presented the ideal and essential truth of the scene.” (Perkins 69)
+Perkins describes Wordsworth as a writer so averse to putting pen to paper that “[t]o hold a pen
+gave him, he said, all kinds of bodily uneasiness, and he would usually dictate poems or even
+letters to various feminine transcribers” (Perkins 86)—that is, his wife Mary or daughter Dora.
+But his most important amanuensis was his sister, Dorothy Wordsworth.
+“[T]hou, my dearest Friend […] My dear, dear Sister!” William writes, in Lines Written
+a Few Miles Above Tintern Abbey. It was Dorothy who most involved in his process of
+composition, shared most closely his poetic commitments and, throughout their life together,
+served as his most important emotional and artistic support. While William was vehemently
+denouncing the practice of notekeeping, Dorothy was busy recording her impressions of their
+surroundings, the weather, the daily toil of household chores, and long walks made alone with
+William or in the company of Coleridge, in the notebooks that long after her death would be
+published as The Grasmere and Alfoxden Journals.
+In the Grasmere Journal, Dorothy writes,
+Sunday Morning 5th October. Coleridge read a 2nd time Christabel—we had increasing
+pleasure. A delicious morning. Wm & I were employed all morning in writing an
+addition to the preface. Wm. went to bed very ill after working after dinner—Coleridge &
+
+2
+
+I walked to Ambleside after dark with the letter. Returned to tea at 9 o’clock. Wm still in
+bed & very ill. (Journals 24)
+Meanwhile, William is making himself ill with the effort of drafting the “Preface” to Lyrical
+Ballads, composing phrases like these: “I have said that Poetry is the spontaneous overflow of
+powerful feelings: it takes its origin from emotion recollected in tranquility: the emotion is
+contemplated till by a species of reaction the tranquility disappears, and an emotion, kindred to
+that which was before the subject of contemplation, is gradually produced, and does itself
+actually exist in the mind” (Works 611). This is how William envisions the scene of composition:
+as a spontaneous moment in which the poem emerges out of the tranquility of the poet’s quiet
+mind, suddenly entire, fully fledged, turbulent, and substantial. There is a discrepancy between
+these accounts that can’t be ignored. What it reveals is the mythic character of Wordsworth’s
+vision of the writing process, which obscures and renders invisible the real work of literary
+production.
+The poet’s refusal of the notebook, reluctance to pick up his pencil, and preference for
+dictation over writing, signal that the writing process he imagines in the “Preface” the Lyrical
+Ballads is not quite true to life. It suggests to me a pressing need to return to Dorothy
+Wordsworth’s journals, which belong to the space in which it seems the poet’s work is really
+taking place: the space embodied by the Wordsworth sibling’s collaborative relationship; the
+dailyness of their shared life and work. Dorothy Wordsworth’s journals represent a record of life
+and work intimately shared with her famous brother, but they hardly fit the model of the diary or
+journal intime. They have little to reveal about the personalities of William Wordsworth or
+Coleridge, and almost nothing about Dorothy’s own literary efforts. What is most intriguing
+about them is that they seem to offer pellucid glimpses of everyday life that, cumulatively,
+present an apparently authentic sense of what her life with William was like. And yet, that shared
+
+3
+
+life somehow remains just out of reach, at the margins of this (already marginal) text. No wonder
+we can hardly refrain from circling back to it: Dorothy’s relationship with William frames, and
+even charges her prose—with a love that is everywhere and nowhere, and is their unseen pretext.
+This story of shared work and shared life is, in a way, my pretext.
+William’s poetry and Dorothy’s journals represent, conceptually, two facets of the
+relationship between the theory and practice of poetry, and raise pressing questions about the
+interactions between “life” and the work of literature, the registers of the lyrical and the
+autobiographical, experience and its representation in language. A study of Dorothy
+Wordsworth’s notebooks opens space for movement between these categories.
+Dorothy Wordsworth’s notebooks represent a fault-line in the canon. She was not a poet,
+but Coleridge once wrote of her,
+Her manners are simple, ardent, impressive…Her information various—her eye watchful
+in minutest observation of nature—and her taste a perfect electrometer—it bends,
+protrudes, and draws in, at its subtlest beauties & most recondite faults. (Coleridge, c.
+July 3, 1797 qtd. Woof 130)
+Does it matter—or, how much does it matter—that according to the literary canon and according
+to traditional generic distinctions, Dorothy Wordsworth’s journals don’t represent the trace of
+any “work” of her own except, perhaps, her life itself? In response, I want to pose the following
+question: How might we talk about Dorothy Wordsworth’s journals as literary works in their
+own right, that could stand alongside her brother’s writing? Her notebooks are filled with the
+very stuff of life, but I want to draw attention to their literariness, their self-conscious
+constructedness. But how to describe the “poetic” project that seems to grow out of her journals?
+The text accumulates a shape, an arc that tempts us to describe it in narrative terms
+because of the way, in retrospect, we can trace the passage of the time it documents. What
+vocabulary, then, could be employed to describe the flowering of something that looks very
+
+4
+
+much like a deliberate project in a notebook like Dorothy Wordsworth’s journal—something that
+captures an eddy of time during which the force and flow of sustained attention, focused interest,
+and literary shape is momentarily discernible? In answer to those questions, I want to the
+reader’s attention on the tools William Wordsworth rejects in that brief anecdote related by
+Aubrey de Vere. This project proposes a revisiting of Dorothy Wordsworth’s journals through
+the lens of a “poetics of the notebook.” The notebook, occupying ambiguous territory between
+theory and practice, is the space in which the “work” of writing takes place.
+To that end, chapter one opens with an exploration of the hopes and limits of William
+Wordsworth’s poetics in the 1802 “Preface” to Lyrical Ballads. Through readings of the
+beginning of Book I of The Prelude and “Lines Written a Few Miles Above Tintern Abbey,” I
+probe Wordsworth’s vexed relationship with a process of composition that paradoxically seems
+to hinder all of the poet’s efforts to be a participant in the world of things. Chapter two is a study
+of Dorothy Wordsworth’s Alfoxden Journal, in which I sharpen my focus on the questions I have
+raised about the status of Dorothy’s work as I search for a vocabulary with which to describe the
+journal’s project.
+Chapter three returns us to Wordsworth’s efforts to grapple with the problem of the
+process of writing and the relationship between the poem and its reader. In the later Essays upon
+Epitaphs, Wordsworth returns to the questions he raises in the “Preface” to Lyrical Ballads with
+renewed urgency: How can the poet communicate the singularity of his experience in a
+conventional medium, and how can the poem authenticate itself, guaranteeing its speaker’s
+sincerity? The epitaph becomes an exemplary form and Essays upon Epitaphs seems to offer a
+provisional metaphor for describing the relationship between William’s poetry and Dorothy
+Wordsworth’s journals—the document as monument—but comes with its own limitations.
+
+5
+
+Chapter four represents an attempt to refine my understanding of what a “poetics of the
+notebook” might mean, and what possibilities it might offer for describing Dorothy
+Wordsworth’s work. In doing so, I turn to the work twentieth-century French poet Philippe
+Jaccottet as a case study. Jaccottet’s integrative efforts to mediate the poem and its “pre-text”
+extend and disrupt the lyric tradition that describes the work of both Wordsworth siblings. In his
+notebook, published as La Semaison, carnets 1954-1979, Jaccottet asks, “But how do you
+proceed from a number of ‘notes toward a poem’ to the poem itself?” If the poetics of the
+notebook serves as a new lens for understanding the status of Dorothy Wordsworth’s journals, I
+want to extend that reading to a new appreciation of the way the uncertain, often prefatory status
+of William Wordsworth’s canonical works opens up possibilities for re-evaluating the
+relationships they establish between poet and reader and the registers of the lyrical and the
+autobiographical.
+
+6
+
+CHAPTER 1
+
+1. Introduction: The “lyric subject” and the “autobiographical subject”
+In “La référence dédoublée: Le sujet lyrique entre fiction et autobiographie,” Dominique
+Combe begins with an exposé of the notion of the lyric subject, that is, the voice of the poet as it
+is enunciated within the poem. He writes,
+L’hypothèse d’un “Moi lyrique” ou d’un “sujet lyrique” a connu un fortune considérable
+dans la critique et la théorie littéraire de langue allemande, qui oppose volontiers un
+lyrisches Ich dans la poésie au sujet « réel », « authentique », ou encore « empirique » à
+l’œuvre dans la prose, et surtout dans les genres autobiographiques. Cette opposition
+s’établit sur le thème toujours controversé de la référence dans le discours poétique, et sur
+le rapport entre la poésie lyrique et la fiction. (Combe 39)1
+According to Combe, the “lyric subject” marks the meeting point between fiction and the lyric. I
+want to argue that taking into consideration the relationship between the “lyric subject” and the
+“empirical subject” is crucial for any investigation of a poet’s work with an interest in the
+connections between primary texts—the poetry, the poet’s own articulations of the poetics
+underlying that work— and what we know of that poet’s life, and the body of criticism that
+shows us the different ways in which all this information might be contextualized and
+interpreted.
+In the “Preface” to Lyrical Ballads, William Wordsworth turns his attention to precisely
+these kinds of questions. He writes,
+1
+
+N.B.: Throughout the text, I will offer my own translations of sources where a version in English was
+not readily available. In the notes that follow, translations will be my own unless I indicate otherwise.
+“The hypothesis of a “lyric ‘I’” or a “lyric subject” has had lasting importance in German literary theory
+and criticism, which sets a poetic lyrisches Ich in opposition with the “real,” “authentic” or “empirical”
+subject of the prose work, especially in the autobiographical genres. This opposition establishes itself on
+the perennially controversial theme of referentiality in poetic discourse, and on the relationship between
+lyric poetry and fiction” (Combe 39).
+
+7
+
+Taking up the subject, then, upon general grounds, I ask what is meant by the word Poet?
+What is a Poet? To whom does he address himself? An what language is to be expected
+from him? (Major Works 603)
+In this chapter, I turn my attention to the ways in which Wordsworth addresses himself to those
+questions, with Combe’s notion of the relationship between the “lyric subject” and the “empirical
+subject” in mind. In the “Preface” to Lyrical Ballads, one of the founding documents of the
+Romantic tradition, Wordsworth articulates notions about who the poet is, what his poetry does,
+and in what sort of relationship he stands with his audience that continue to inform critical
+traditions of thinking about poetry and how it works. Wordsworth’s ideas in the “Preface”
+propose ideas about language and the poet’s subjectivity that represent an indictment of poetic
+convention. While they propose a break with conventional notions of the poet’s relationship to
+his audience, they also enforce that relationship by rearticulating the terms of a lectoral pact, an
+“engagement…voluntarily contracted” (Major Works 596) between poet and audience.
+As we will see, for Wordsworth, to write poetry is to step into a public arena; to address
+humankind at large. I want to unspool the complications and difficulties inherent in this project
+and expose the problems inherent in the way that that lectoral pact contains, implicitly, the
+promise of an equivalence between the identity of the poet and the identity of the speaker in the
+poem; between the scene of experience and the scene of composition. The purpose of this
+chapter is to explore the possibilities and limits of Wordsworth’s poetics and practice through an
+examination of two of his poems, the first book of his autobiographical epic, The Prelude and
+“Lines written a few miles above Tintern Abbey.”
+
+8
+
+2. “Terms of an engagement voluntarily contracted”: The Lectoral Pact
+In the 1802 “Preface” to Lyrical Ballads, William Wordsworth rails against what he
+perceives as the “triviality and meanness of thought and language” (Major Works 597) endemic
+to the poetry of his contemporaries. Their language, he asserts, is dictated by conventional
+“habits of association” (Major Works 596) to such an extent that its forms are devoid of
+meaning. The experiments in verse that Wordsworth has undertaken in Lyrical Ballads attempt
+to disrupt those habits and unsettle those conventions. To that end, Wordsworth warns the reader
+that “there will be little…found in these volumes of what is usually called poetic diction; I have
+taken as much pains to avoid it as others ordinarily take to produce it” (Major Works 600).
+Wordsworth’s project in Lyrical Ballads involves an assault on the meaning of “poetic diction”
+as it has been traditionally conceived.
+He is aware that many will read the language and contents of his poems as anti-poetic,
+and he deliberately frames his project as a refusal to conform to the expectations a reader might
+bring to his work, by challenging the notion that the contents of a poem respond to ideas about
+poetry shared by poet and reader. Wordsworth writes,
+It is supposed, that by the act of writing in verse an Author makes a formal engagement
+that he will gratify certain known habits of association; that he not only apprizes the
+Reader that certain classes of ideas and expressions will be found in his book, but that
+others will be carefully excluded. […] I will not take it upon me to determine the exact
+import of the promise by which the act of writing in verse an Author, in the present day,
+makes to his Reader; but I am certain, it will appear to many persons that I have not
+fulfilled the terms of an engagement thus voluntarily contracted. (Major Works 596).
+These sentences make it clear that Wordsworth stages his poetics within the bounds of a
+particular relationship between poet and audience, a relationship in which the audience has
+certain expectations (which may not be satisfied) and the poet has a particular task to
+accomplish. The lectoral pact Wordsworth articulates and, nearly in the same breath, betrays, is
+
+9
+
+the kind of rule that exists to be broken: This rhetorical movement helps Wordsworth insist that
+his work takes place outside of the conventional language of poetry altogether and says
+something true or absolutely sincere about the way “language and the human mind act and re-act
+on each other” (Major Works 596).
+Though he writes, “I will not take it upon me to determine the exact import of the
+promise by which the act of writing in verse an Author, in the present day, makes to his Reader,”
+it is clear that this refusal to comment on the terms of his lectoral pact is in itself a kind of
+answer: Wordsworth proposes himself as a poet whose work takes place outside the bounds of
+poetry. At the same time, it is also clear that Wordsworth’s poetics depend on the existence of
+an “engagement” between poet and audience, even if it is necessarily a frustrated relationship. It
+is only by at once insisting upon and dismissing the constraint of the lectoral pact that
+Wordsworth is able “to bring [his] language nearer to the language of men, and further…[to
+impart] pleasure of a very different kind from that which is supposed by many persons to be the
+proper object of poetry” (Major Works 600).
+Implicitly, Wordsworth substitutes a new promise in place of the terms of that
+“engagement thus voluntarily contracted,” and voluntarily broken. Instead of the guarantee of the
+fulfillment of “certain known habits of association,” the inclusion of certain classes of ideas and
+expressions” and the careful exclusion of others, this new pact promises an equivalence between
+the language of the poet, “the passions of men” and the “beautiful and permanent forms of
+nature” (Major Works 597). “Accordingly,” Wordsworth writes, “Such a language, arising out of
+repeated experience and regular feelings, is a more permanent and a far more philosophical
+language, than that which is frequently substituted for it by poets” (Major Works 597). But what
+
+10
+
+must the poet do in order to bring his language “nearer to the language of men” (Major Works
+600)?
+Wordsworth proposes that the poet is specially equipped to address the reader in such
+language. He is “a man…endued with a more lively sensibility, more enthusiasm and tenderness,
+who has a greater knowledge of human nature, and a more comprehensive soul, than are
+possessed among mankind” (Major Works 603). The poet is better equipped than most of us to
+speak about experiences outside of his own because
+He has a…disposition to be affected more than other men by absent things as if they were
+present; an ability of conjuring up in himself passions, which are indeed far from being
+the same as those produced by real events, yet (especially in those parts of the general
+sympathy which are pleasing and delightful) do more nearly resemble the passions
+produced by real events, than any thing which, from the motions of their own minds
+merely, other men are accustomed to feel in themselves; whence, and from practice, he
+has acquired a greater readiness and power in expressing what he thinks and feels, and
+especially those thoughts and feelings which, by his own choice, or from the structure of
+his own mind, arise in him without immediate external excitement. (Major Works 603604)
+This passage contains the suggestion that what distinguishes the poet from humankind at large is
+a special faculty. Wordsworth, following Locke’s philosophy of language, starts with the
+premise that our language is a conventional one that accretes through habitual use. Because the
+poet is one naturally affected “by absent things as if they were present,” and because he is gifted
+with a special ability to “conjur[e] up in himself passions,” he is able to hone this facility for
+expression through practice, opening himself to unusual habits of association and becoming a
+kind of conduit for “those thoughts and feelings which, by his own choice, or from the structure
+of his own mind, arise in him without immediate external excitement” (Major Works 604).
+Wordsworth’s Lockean heritage evidently causes him some anxiety. If the poet is simply
+more practiced at expressing his thoughts and feelings than the rest of us, does that make him a
+mere technician? In the case of even the greatest poet, Wordsworth acknowledges,
+
+11
+
+…there cannot be a doubt but that the language which [his faculty] will suggest to him,
+must, in liveliness and truth, fall far short of that which is uttered by men in real life,
+under the actual pressure of those passions, certain shadows of which the Poet thus
+produces, or feels to be produced in himself. However exalted a notion we would wish to
+cherish of the character of a Poet, it is obvious, that, while he describes and imitates
+passions, his situation is altogether slavish and mechanical, compared with the freedom
+and power of real and substantial action and suffering. (Major Works 604)
+Even more pressing than the acknowledged concern that if the poet is merely responding to
+practiced habits of association is an anxiety about what that idea might imply about the truthvalue of the poet’s language. If the poet writes about thoughts and feelings he hasn’t experienced
+first-hand, how can his words be more than “certain shadows which the Poet..produces, or feels
+to be produced within himself”? Furthermore, the status of the poet’s work seems to be called
+into question: what is the moral value of his task “compared with the freedom and power of real
+and substantial action and suffering?”
+Wordsworth negotiates these two problems by insisting on the power of the poet’s
+subjectivity to surmount them. The poet’s goal must be “to bring his feelings near to those of
+persons whose feelings he describes, nay, for short spaces of time perhaps, to let himself slip into
+an entire delusion, and even confound his own feelings with theirs, modifying only the language
+that is thus suggested to him by a consideration that he describes for a particular purpose, that of
+giving pleasure” (Major Works 604). In other words, it would seem that the poet is, in fact,
+capable of participating in the “power of real and substantial action and suffering.” His superior
+sense of sympathy makes it possible for him to come so near to the experiences of others that
+sometimes he “slip[s] into an entire delusion, even confound[ing] his feelings with theirs”
+(Major Works 604). Language seems to be the only condition that makes that confusion delusive,
+but Wordsworth insists that language is a medium—its function is to elevate and rarify and
+
+12
+
+transmit, to make it possible for the poet to carry his purpose which is, always and above all,
+“that of giving pleasure.”
+This is, perhaps, a solution that compounds the difficulties it wishes away. The way in
+which Wordsworth negotiates the problem of bringing poetry nearer to the “language really used
+by men” and bringing his feelings near to those of the people and situations he wants to describe,
+foregrounds once again the notion of the lectoral pact. Now, it becomes quite clear that
+Wordsworth’s promise of an equivalence between the poet’s language, the “passions of men”
+and the “beautiful and permanent forms of nature” redirects the burden of proof that this
+guarantee has been fulfilled from the poet’s work (and the extent to which it satisfies a common
+understanding of certain poetic conventions) and on to the poet himself. This promise of
+equivalence can now be understood as the promise of an autobiographical link—between the
+identity of the poet and the speaker in the poem; between the scene of experience and the scene
+of composition. In “La référence dédoublée,” Dominique Combe writes,
+La genèse du concept de « sujet lyrique » est donc inséparable de la question des rapports
+entre la littérature et la biographie, et du problème de la « référentialité » de l’œuvre
+littéraire. Mais, à bien réfléchir aux implications de cette hypothèse, il semble que le sujet
+« lyrique ne s’oppose pas tant au sujet « empirique, » « réel »-à la personne de l’auteur--,
+par définition extérieure à la littérature et au langage, qu’au sujet « autobiographique »,
+qui est l’expression littéraire de ce sujet « empirique ». Le poète lyrique ne s’oppose pas
+tant à l’auteur qu’à l’autobiographie comme sujet de l’énonciation et de l’énoncé.
+(Combe 50)2
+He suggests that the notion of the “lyric subject” is inextricably linked to the relationship
+between literature and biography. This is to say, if lyric poetry proposes a speaker who purports
+“The origins of the concept « lyric subject » are therefore inseparable from the question of the
+relationship between literature and biography, or from the problem of « referentiality » in the work of
+literature. In order to think through the implications of this hypothesis, it seems that the “lyric” subject is
+not so much opposed to the “empirical,” “real” subject—the author, by definition exterior to literature and
+language--, as to the “autobiographical” subject, who is the literary expression of that “empirical” subject.
+The lyric poet is not so much opposed to the author as to the autobiography itself, as a subject who
+enunciates and is enunciated” (Combe 50).
+2
+
+13
+
+to voice his own experience in a poem, what’s at stake is not so much an equivalence between
+the “empirical” subjectivity of the writer, who we understand to exist outside of literature and
+language altogether, but rather a link between the “autobiographical” and the “lyric” subjectivity
+of the writer. As Combe puts it, this is an opposition between “le sujet de l’enonciation et de
+l’énoncé.”
+Combe’s articulation of this oppositional relationship between the what is enunciated and
+the speaking subject helps pinpoint a contradiction around which Wordsworth’s reformulation of
+the lectoral pact revolves: How can the poet’s subjective experience be conveyed as wholly and
+seamlessly as possible in a conventional language, the medium whose contents always seem to
+exceed its carrying capacities, baffle communication, and throw up barriers between experience
+and expression? How does the poet authentically communicate the singularity of his experience
+in a conventional medium? This is the problem of language’s failure, and it is a problem that will
+appear obliquely but persistently in Wordsworth’s poetry and prose as he grapples with the
+question of how the poet can convey the intensity of the passions he accesses imaginatively and
+through language. In other words, Wordsworth is asking, how to convey feeling, and how to do
+so with sincerity?
+In building this constellation of questions around the problem of sincerity and the
+registers of the lyrical and the autobiographical, I take my cue from Elisabeth Cardonne-Arlyck,
+who suggests that the speaker in the lyric poem (what Dominique Combe would call the “Moi
+lyrique”) establishes
+a tacit understanding or even a promise…a lectoral pact comparable to the one that
+underwrites autobiography. According to Philipe Lejeune, the autobiographical pact “is
+defined by something that is outside the text; it exists not on the inside, in the form of
+some unverifiable resemblance to a real person, but rather beyond the text, in the type of
+reading it engenders, the belief it secretes, which becomes legible in the text as
+critique.”(Cardonne-Arlyck 584).
+
+14
+
+This “complicitous structure” (584) creates a direct confrontation between speaker and reader.
+For Cardonne-Arlyck, this confrontation can become a model for sincerity, but only if the
+question of question of autobiography (as in confession or testimony) “is inseparable from
+ethics” (584). Cardonne-Arlyck locates this autobiographical turn within the lyric in contrast to
+other moves by the lyric poet that might undermine the poet-speaker’s (or lyric subject’s) own
+sense of subjectivity, or might be suggestive of a subjectivity so uncertain that is unable to take
+responsibility for its own existence.
+Within the context of the lyric, autobiography, for Cardonne-Arlyck, establishes an
+ethical relationship of sincerity between persons inside of language. This autobiographical turn
+in the lyric also has crucial implications for the problem of referentiality. Cardonne-Arlyck
+writes,
+Autobiography’s promise to relate things truthfully—untenable as it may be—differs
+from the romantic claim to sincerity in that sincerity is directed toward the self, whereas
+the attempt to be truthful is directed outward, toward the object and toward others. Thus,
+it is not so much the ironic lack of illusions that distinguishes contemporary “personal”
+poetry from its devalued lyric antecedents, but rather the direction of the discourse, and
+the mode of reading it invites. The poetic engagement of the I who mobilizes life’s bits
+and pieces to write “in person” (whether masked or barefaced), implies an
+acknowledgement of the responsibility towards others—toward everyone touched by that
+life, whether intimately or from a distance, and toward those touched by the poem, its
+readers. (587)
+This idea that poetry has to do with the material world—that it should be concerned with and
+anchored to the materiality of objects and the ethical dimension of human relations—recalls the
+moment in Wordsworth’s “Preface” where he insists on the need for “a class of poetry…well
+adapted to the interest of mankind permanently, and not unimportant in the multiplicity and
+quality of its moral relations” (Major Works 595). This will have to be a kind of poetry,
+Wordsworth writes, “whose object is truth, not individual and local, but general, and operative,
+
+15
+
+not standing upon external testimony…Poetry is the image of man and nature” (Major Works
+605).
+Despite Cardonne-Arlyck’s contention that “autobiography’s promise to relate things
+truthfully…differs from the romantic claim to sincerity,” I want to suggest that there are more
+similarities than differences between Wordsworth’s notion of sincerity and Carndonne-Arlyck’s
+conception of the autobiographical pact. It seems to me that what Cardonne-Arlyck proposes is
+that autobiography “turn” or “moment” is the occasion for a sort of reading that is almost like a
+collaboration between the reader and the writer—a writer who makes an outward gesture toward
+the reader, and a reader who recognizes that gesture.
+What seems most important about Cardonne-Arlyck’s comments on autobiography is not
+the notion that autobiography promises to “relate things truthfully,” but that it provides an
+occasion for a special, ethically motivated kind of reading. It’s a way of reading that allows us to
+recognize, that, as she writes, “Structurally, lyric poetry and autobiography are linked by
+enunciation and its ability to feign (Cardonne-Arlyck 582). As we have seen in Wordsworth’s
+work, what is always at stake seems to be a connection or link insisted upon, but never borne out
+by the poems themselves. As we have seen in the “Preface” to Lyrical Ballads, the poet’s central
+problem remains the communication of experience in language. Wordsworth’s poetics always
+seek to narrow the gap between experience and representation, and his poetry is centrally
+concerned with its own failure to record experience without the loss of something. I will return
+to this concern in chapter three, where I investigate Wordsworth’s return to this preoccupation in
+a later work, Essays upon Epitaphs.
+However, as we will see in the next sections of this chapter, perhaps Wordsworth’s
+insistence on collapsing the gap between language and experience produces a poetry that
+
+16
+
+“feigns” the qualities of life and “substantial action,” in which the poet’s insistence on the
+authenticity of his experience and the sincerity of his language always comes to the forefront.
+“Feigning,” then, in autobiography and in the lyric, is a strategy for dealing with the “gap”
+between experience and representation; experience mediated and experience unmediated. The
+next section of this chapter turns to the opening of Book I of The Prelude, in an attempt to
+illustrate just how vexed ad tenuous the relationship between the scenes of experience and
+composition is for Wordsworth. In the first few stanzas of the poem, Wordsworth’s verse
+narrates the writing process. In the chapter’s closing section, I find in “Lines Written a Few
+Miles Above Tintern Abbey” Wordsworth’s articulation of a provisional solution for the problem
+of the disjunction between experience and language—the workings of memory and recollection.
+Most importantly, along with the gesture of recollection, Wordsworth introduces the figure of his
+sister Dorothy, who seems to stand in for the poet’s first, unmediated experience of the scene he
+revisits.
+
+3. The Prelude: Narrating the Writing Process
+What happens when the experiences the poet wants to express are his own—when he
+becomes his own subject? William Wordsworth’s autobiographical epic was a work he returned
+to and revised extensively throughout his life. His lifelong preoccupation with this
+autobiographical work is reflected by The Prelude’s lengthy textual history—it underwent forty
+years worth of revisions. The editors of the Norton Critical Edition of The Prelude remark,
+It is interesting that even at [its] final stage Wordsworth did not give The Prelude a name.
+He thought of it always as “the poem to Coleridge,” and as a part—first a tailpiece, then a
+‘preparatory poem’—in his scheme for The Recluse, the never-completed magnum opus
+that preoccupied him for much of his adult life. (J. Wordsworth et al. ix-x)
+
+17
+
+The Prelude is a masterpiece that is shadowed by an unachieved magnum opus, a work that
+perhaps never quite gets itself off the ground and an autobiography that both forecasts its
+subject’s great work and leaves the question of his success unanswered.
+In the first book of The Prelude, Wordsworth explores the tension between the scene of
+composition and the scene of recollection and composition. The beginning of the poem recounts
+the great struggle of beginning to write in a way that is recognizably different from the processof
+composition Wordsworth describes in the “Preface” to Lyrical Ballads. At the outset, it is the
+exterior world that captures the poet’s attention, making it nearly impossible for him to fix upon
+a theme proper to his aspirations. Wordsworth’s tactics of delay, suspension, and procrastination
+dramatize a narrative of writing as process.
+The Prelude begins with a sense of release—the poet has just been freed from his
+obligations and can quit the confinement of the city for the open countryside, “free, enfranchised
+and at large” (Major Works 375.9). His departure is attended by the gusts of a “gentle breeze”—
+the openings stanza of the poem turns on a play of breeze and breath, the divine afflatus of the
+poet’s inspiration. As the poet sets off on his journey, he rejoices:
+The earth is all before me: with a heart
+Joyous, nor scared at its own liberty,
+I look about, and should the guide I chuse
+Be nothing better than a wandering cloud,
+I cannot miss my way. I breathe again;
+Trances of thought and mountings of the mind
+Come fast upon me: it is shaken off,
+As by miraculous gift ‘tis shaken off,
+That burthen of my own unnatural self,
+The heavy weight of many a weary day
+Not mine, and such as were not made for me.
+[…]
+Long months of ease and undisturbed delight
+Are mine in prospect; wither shall I turn,
+By a road or pathway or through open field,
+Or shall a twig or any floating thing
+
+18
+
+Upon the river, point me out my course? (Major Works 375.15-32)
+At every turn, the speaker scans the landscape for signs that might point him in the right
+direction. He looks to the wandering cloud, to the turnings of roads and pathways, even tracing
+the trajectory of “any twig or floating thing/Upon the river” as though it might offer him a hint
+that would point the way for him. Despite the speaker’s insistence the liberty and freedom, the
+play of inhalation and exhalation that structures this stanza adds up to a series of hesitations.
+“Trances of thought and mountings of the mind/Come fast” upon the speaker, but he shrugs them
+off, as though resisting the heightened sensibility that poetic inspiration would produce in him.
+The external world is so concrete, so available to the poet-speaker that he hardly has a
+toehold in it. Though he doesn’t lack “that first great gift, that vital soul/Nor general truths which
+are themselves a sort/Of elements and agents, under-powers,/Subordinate helpers of the living
+mind” (379.160-164), He is burdened by desires that make it impossible for him to participate in
+the “life of common things,” the world of the simple peasant—the world in which, on a pleasant
+evening, it isn’t necessary “to bend the Sabbath of that time/To a servile yoke.” Words place the
+poet in an uneasy relationship with time: he needs to ask that it do something for him.
+Paradoxically, while the very persistence of his creative impulse seems to hinder his attempts to
+make anything with words, creation will be the only way in which it is possible for the poet to
+become a participant in that world of things.
+Though “Eolian visitations” attend the commencement of his journey, no sooner have
+their beautiful vibrations risen in his soul than “the harp/Was soon defrauded, and the banded
+host/Of harmony dispersed in straggling sounds,/And lastly utter silence” (377.104-106).
+Undeterred, the poet-speaker declares
+…Be it so,
+It is an injury…to this day
+
+19
+
+To think of any thing but present joy.’
+So, like a peasant, I pursued my road
+Beneath the evening sun, nor had one wish
+Again to bend the Sabbath of that time
+To a servile yoke. What need for many words?—
+A pleasant loitering journey, through two days
+Continued, brought me to my hermitage. (Major Works 377.108-115)
+Though we can hardly expect to receive an account of what follows (“What need for many
+words?”) the poet-speaker continues: For two days, he is bereft of words. This silence allows
+him to experience his journey “like a peasant” (377.110)—a wordless participant in “the life/Of
+common things, the endless store of things/Rare or at least so seeming” (378.118-119). For the
+poet-speaker, silence is more than a relief: In it, he finds “The self-congratulation, the
+complete/Composure, and the happiness entire” (378.121-122), but these feelings of
+complacency prove to be unsustainable.
+Silence means rest, completeness, fullness, wholeness. The poet-speaker’s feeling of
+“happiness entire” suggests that the state of “composure” and the frenzy of “composition” are
+contradictory ways of being. Over the course of this episode in the introduction of “The
+Prelude,” the poet-speaker’s state of mind oscillates between the high pitch of apparently divine
+inspiration, during the “Eolian visitation” and “utter silence.” Wordless and total participation in
+the world of things, whose abundance had been plaguing him with indecision, gives way to the
+aspiration “to lay up/New stores, or rescue from decay the old/By timely interference” (378.125127)
+To speak, to write, to compose, is to be forced to tear oneself away from all the fullness
+of wordless participation in the life of things, or perhaps to be forced to forget it. What is it that
+makes the poet-speaker speak? Why is this coming to speech, coming to writing, so
+excruciating? The moment in which the poet-speaker articulates his aspiration to “lay up/New
+
+20
+
+stores, or rescue from decay the old/By timely interference” ironically places his project into a
+decidedly problematic timeframe: “infinite delay” (381.244). Unable to fix his theme, the poetspeaker writes,
+…Thus from day to day
+I live a mockery of the brotherhood
+Of vice and virtue, with no skill to part
+Vague longing that is bred by want of power,
+From paramount impulse not to be withstood;
+A timorous capacity, from prudence;
+From circumspection, infinite delay” (Major Works 381.238-244)
+What are we to make to the excruciating suspension that characterizes all of the poet-speaker’s
+attempts to begin his poem, especially when we look more closely at the places in which he
+attempts to envision his project?
+He wants to make a rescue operation, and it seems imperative to begin as soon as
+possible, before decay sets in.
+Time, place, and manners, these I seek, and these
+I find in plenteous store, but nowhere such
+As may be singled out with steady choice—
+No little band of yet remembered names
+Whom I, in perfect confidence, might hope
+To summon back from lonesome banishment
+And make inmates in the hearts of men
+Now living, or to live in times to come. (379.169-176)
+Not only does the poet want to rescue and preserve, he wants to recuperate “those phantoms of
+conceit,/That have been floating loose about so long.” This kind of recuperation would be an
+ultimate repair: the poet-speaker wants to fix those phantoms—cast them into some stable or
+permanent shape, make them whole and coherent again. When the poet repeats this wish in the
+following stanza, he appears to synthesize the ideas of “laying in new stores” and “rescuing from
+decay the old” with a new hope that he might “endue, might fix in a visible home” his formless
+thoughts and feelings.
+
+21
+
+4. “My dear, dear Sister!”: Experience Mediated and Unmediated in “Tintern Abbey”
+“Lines written a Few Miles Above Tintern Abbey” seems to propose a different way of
+being in the world. In this poem, Wordsworth expresses a sense of nostalgia for a freer, wilder
+kind of seeing and feeling. The poet-speaker reminds himself that, the first time he toured the
+Wye, as a youth,
+…nature then
+(The coarser pleasures of my boyish days,
+And their glad animal movements all gone by,)
+To me was all in all. –I cannot paint
+What then I was. The sounding cataract
+Haunted me like a passion: the tall rock,
+The mountain, and the deep and gloomy wood,
+Their colours and their forms, were then to me
+An appetite: a feeling and a love,
+That had not need of a remoter charm,
+By thought supplied, or any interest
+Unborrowed from the eye. –That time is past,
+And all its aching joys are now no more,
+And all its dizzy raptures. (Major Works 133.73-89)
+The speaker can recount those “aching joys” and “dizzy raptures,” but he cannot conjure the
+them up again—that first experience is inaccessible to him from the scene of recollection and
+composition. In “Tintern Abbey,” the poet-speaker must learn not to mourn the passing of these
+vivid, youthful impressions and must discover instead the “abundant recompense” (134.86) of
+worshipping nature “with warmer love, oh! with far deeper zeal/Of holier love” (135.155-156).
+The poet-speaker affirms that it is only “with an eye made quiet by the power/Of harmony, and
+the deep power of joy,/We see into the life of things” (132.47-48).
+The poet-speaker insists,
+Though absent long, these forms of beauty have not been to me,
+As is a landscape to a blind man’s eye:
+But oft, in lonely rooms, and mid the din
+Of towns and cities, I have owed to them,
+In hours of weariness, sensations sweet,
+
+22
+
+Felt in the blood, and felt along the heart,
+And passing even into my purer mind
+With tranquil restoration… (Major Works 132.24-31)
+Nevertheless, this vision of “the life of things” rests uneasily against the energy and wildness of
+the poet-speaker’s former pleasures when “nature then…/To me was all in all.” However, its
+unrecordable intensity returns, embodied in the figure of his sister, Dorothy. The speaker
+exclaims,
+…in thy voice I catch
+The language of my former heart, and read
+My former pleasures in the shooting lights
+Of thy wild eyes. Oh! yet a little while
+May I behold in thee what I was once,
+My dear, dear Sister! (134.117-122)
+
+In the same way that, in The Prelude, the process of composition seemed to hinder the poetspeaker’s participation in or access to things in the world, in “Tintern Abbey,” the presence of
+Dorothy animates the poet-speaker’s memories of his former impressions of the scene, recalling
+an intensity of experience that unsettles the poet’s sense of the “abundant recompense” (134.86)
+and “tranquil restoration” (132.31) he has gained through the passage of time and the process of
+recollection.
+Despite the difficulties he encounters with the process of composition—moving from
+experience into language—and the disjunction it seems to expose between experience and
+representation, Wordsworth continues to insist upon the power of the poet’s language and the
+mechanisms particular to the poet’s sensibility: his extended powers of sympathy and
+recollection. Ultimately, as much as Dorothy Wordsworth’s way of seeing is to be privileged as a
+way of being in the world, it is excluded from the work of art-making. This scene of unmediated
+experience is erased by the process of “recollection”—it remains a prelude to the scene of
+
+23
+
+composition, something that is not included in Wordsworth’s understanding of the process of
+writing.
+
+24
+
+CHAPTER TWO
+
+1. Introduction
+I have chosen to make the Alfoxden Journal the main focus of my study of Dorothy
+Wordsworth for two reasons: First, in comparison with the Grasmere Journal, which spans a
+period from May 1800 to Jaunary 1803, the Alfoxden Journal is a briefer document with a more
+tightly unified sense of time and place. Second, as I will argue later in this chapter, I find that it
+has a discernible arc—a sense of temporal progression that I hesitate to describe as “narrative”
+for reasons I will explore later. What we know about the biographical context of the journal adds
+credence for my sense of the journal’s unity. Dorothy Wordsworth wrote in the notebook known
+as The Alfoxden Journal from January 20, 1798 until May 22 of the same year, a period that
+marks a major transitional moment in her life: Having lost their lease at Alfoxten House,
+William and Dorothy knew that they would soon have to find another place to leave. Dorothy
+would have to prepare herself to leave her first real family home, where she had been able to
+establish independent housekeeping and live under the same roof as her brother for the first time
+since they had been separated as children, after the death of their parents.
+Pamela Woof, editor of the Oxford World’s Classics edition of The Grasmere and
+Alfoxden Journals, suggests that the project began as an effort to remember for the briefly absent
+Coleridge, observations of the natural landscape that the Wordsworth siblings were making
+together on their habitual walks (Woof 3). The journal’s entries, however, extend long past the
+period during which Coleridge would have been away. The Alfoxden Journal’s entries are fullest
+at the beginning of the document and reach what could be described as a climax at the end of
+February. A slackening off begins at the end of March so that, towards the beginning of May,
+entries are condensed to only a few sentences. One can only imagine that as spring turned to
+
+25
+
+summer, Dorothy became increasingly busy. The journal ends with a brief account of a journey
+undertaken to Cheddar Rock, with Coleridge. What should we make of this gathering of
+momentum and slow tapering off? As their departure neared, perhaps the urgency that had
+prompted Dorothy to begin writing, in anticipation of all that they would leave behind, began to
+fade. In any case, The Alfoxden Journal is notable for the way it delicately sustains itself through
+entries that accrue a literary impetus as they slowly build up a sense of place and time passing.
+
+2. “Her taste a perfect electrometer—…”: Approaching Dorothy Wordsworth
+In the revised edition of her groundbreaking Dorothy Wordsworth and Romanticism,
+Susan Levin reminds readers of the important deficits that still vex scholarship on Dorothy
+Wordsworth. Not only does the fact that many of her late journals remain unpublished
+“produc[e] a real gap in the effort to provide a fuller account of her work” (Levin 11), as yet
+there is no complete scholarly edition of her work. Perhaps, Levin suggests, this is because
+her writing is distinct from institutionalized literary categories. Her texts frequently do
+not conform to canonical notions of literature, often seeming weirdly idiosyncratic. Yet,
+the critical questions her literary output raises can be generalized as issues involving
+women’s writing and contemporary literary criticism, issues involving romanticism as a
+literary phenomenon, the artistic acceptability of various genres, and the publication and
+availability of certain texts. (Levin 4)
+Given the idiosyncrasy of much of her work, how do scholars approach Dorothy Wordsworth?
+Critics of Dorothy Wordsworth, from Thomas De Quincey to Margaret Homans, tend to
+her visionary power, regarding her considerable faculty for observation as though it were an
+essential feature of her personality. For example, Rachel Brownstein comments, “The journal
+form, unpretentious and dogged, loose but self-limiting, unfinished, with the smell of the private
+writing room forever about it, is admirably suited to what Dorothy Wordsworth had to say”
+(Brownstein 63). This description of Dorothy Wordsworth’s gift cannot offer us any new
+
+26
+
+understanding of her life and work. It is an explanation that emerges from efforts to inscribe her
+into the Romantic tradition but, as we will see, these efforts cannot be realized in a meaningful
+way: they role they strive to script for Dorothy alongside accounts of her brother’s work remains
+unsatisfactory. Many of these efforts to revisit Dorothy Wordsworth’s life and work with a new
+appreciation for its place in the Romantic tradition cast her, with a certain amount of
+inevitability, as a figure who tacitly endorses and underscores the Romantic ideology—the
+“egotistical sublime”—that is the support of William’s poetics. The only alternative seems to be
+to envision Dorothy as a stifled voice making passionate but doomed attempts to bring herself
+into dialogue with her brother’s projects, a thwarted effort undermines the Romantic project from
+the inside. Evidence for these positions is overwhelmingly mined from her autobiography and
+pathography, as if her life itself and her illnesses were their own evidence.
+Was Dorothy Wordsworth mad? For many feminist commentators on her life and work,
+the story of the mental deterioration she suffered during her final decades of life serves as a
+convenient way to reveal the ways in which her subjectivity as woman and writer transcended
+her difficult roles as collaborator with William, family caregiver, and household manager. For
+these readers, madness represents her rage against the restricted choices her life and times
+offered her, becomes a stage the resurgence of repressed feeling, and an explanation for her
+failure to fully express the “poetic identity” they find latent in her writings. This madness and her
+chronic illnesses, which worsened with age, become shorthand for a narrative about her life in
+which, “inasmuch as she wished to translate for her own use the imaginative privileges her
+brother took to himself, the effort was doomed” (Alexander 199) and in which “her body takes
+over the travail that a text might have lifted into a symbolic telling” (Alexander 206). Within the
+frame of this narrative, her writing practices only show up as symptoms, rather than artistic work
+
+27
+
+in their own right, for no division between life and work can be afforded to a person who was not
+a poet.
+This goes to show that, on the balance, scholarly efforts to include Dorothy Wordsworth
+in the Romantic tradition fall back heavily on the very script William Wordsworth constructs in
+prose works like the “Preface” to Lyrical Ballads: that old story about poetic experiment, in
+which the artist must transcend not only his literary antecedents but also the boundaries between
+the work of art and life itself—in order to wrest something away from life, rareify it, and deliver
+it up once again to the reader, made new.
+Consensus emerges from much of the scholarly writing on Dorothy Wordsworth. In
+Seduction and Betrayal, Elizabeth Hardwick puts it concisely, writing that she “lacked the
+generalizing power” (Hardwick 148). In other words, Dorothy lacked the power to move in the
+way William could from her life and into the work of art. What she lacked, precisely, is variously
+described as a willingness, a capacity, strength. Whether its roots are determined to be
+psychological or circumstantial, the conclusion remains the same: this lack represents her
+dependence, her fears, her failure to self-actualize, to assume her poetic identity. For example,
+The premise of Margaret Homans’s classic study, Women Writers and Poetic Identity, makes it
+clear that these conclusions emerge from the difficulty of trying to make Dorothy Wordsworth’s
+life story fit into usual ways of thinking about the work of poetry and the creative development
+of the poet, and defining the dividing line between “artist” and “amateur” (Homans 6).
+The difficulty of this effort is compounded by an impulse that Elizabeth Hardwick
+revealingly describes as “a sort of insatiability [that] seems to infect our feelings when we look
+back on women, particularly on those who are highly interesting and yet whose effort at selfdefinition through works is fitful, casual, that of an amateur. We are inclined to think they could
+
+28
+
+have done more, that we can make retroactive demands upon them for a greater degree of
+independence and authenticity” (Hardwick 143). This insatiability—that makes scholarship on
+Dorothy Wordsworth often as engaging as it is frustrating to work with—seems to be driven by a
+hard-to-articulate need to get close to the life of this woman, a desire for intimacy with her, for
+some special insight about her thoughts and experience beyond what we can glean from the
+writings she left behind and the first-person accounts of her that remain to us. This need for
+intimacy is so strong and particular—so excessive—that it seems out of place and slightly
+inappropriate for scholarship.
+Virginia Woolf and Elizabeth Hardwick, in their essays about Dorothy Wordsworth, both
+make strong, imaginative efforts to reanimate the thoughts and feelings of their subject. The
+frustration inherent in all these scholarly and critical attempts to approach Dorothy Wordsworth
+signals to me that we need to begin to tell a different story about the relationship between art and
+life; the life of the artist and the artist’s “gift.” A work like Dorothy Wordsworth’s Alfoxden
+Journal makes the firm boundaries between living and writing suddenly porous—puts them
+suddenly in question—and exposes the way in which the creation of art is a process that depends
+on fortuitous circumstances, unusual and disciplined efforts—in short, on practice.
+I want to propose the following: First, it is important that we see Dorothy Wordsworth as
+a necessary condition for William Wordsworth’s work—just as William is the necessary
+condition for her own work. For William, Dorothy is a material support, but also the person who
+makes possible, to a significant extent, the particular atmosphere that arose from the material
+conditions of their shared life— their daily routines and rituals, their walks; the gathering of
+sticks, the composing of poems. For Dorothy, cohabitation with William made possible the
+degree of independence she was able to win for herself, and he was the object of the abundant
+
+29
+
+love and vitality she had to share. Together, they were able to recover the family ties they lost so
+early in childhood. Second, I want to make the following argument: In order to formulate an
+account of the Romantic tradition that includes the work of Dorothy Wordsworth, we need to
+write a new script to describe the relationship between art, life, and work. The challenge of
+reading Dorothy Wordsworth does not arise from a need to replace her in a literary canon from
+which she has been dropped or left out, but to reformulate our understanding of that canon
+altogether. To that end, I want to inscribe the connections I read between William and Dorothy
+Wordsworth’s texts within an account of the development of a counter-tradition: that of the
+writer’s notebook, or carnet, and the development of understandings of writing as process. In
+chapters three and four, I will suggest a revisiting of Dorothy Wordsworth’s journals through the
+lens of a “poetics of the notebook.” But first, I want to turn my attention to her writings in the
+Alfoxden Journal.
+
+3. The Alfoxden Journal
+The importance of home for Dorothy cannot be overstated—she had grown up an orphan,
+separated from her older brothers, and cared for until the age of fifteen by her mother’s cousin.
+When it became necessary for her to move to her maternal grandparents’ house at Penrith,
+leaving her Aunt Threlkeld’s house in Halifax, Yorkshire—the scene of a happy childhood—was
+painful. In her adolescence, Dorothy grew into a deep awareness of what she and her brothers
+had lost with the death of their parents. In 1787, during her first summer at Penrith, Dorothy was
+reunited with them for the first time since their early childhood separation. Their rediscovery of
+familial bonds was emotional and made an intense and lasting impression on Dorothy, who
+became especially close with William, the next to her in age. Her brothers, home from school,
+
+30
+
+took an interest in her education and offered her books—the Iliad and the Odyssey, works by
+Shakespeare, Milton, and Fielding (Woof 132). That same year, Dorothy became friends with the
+Hutchinson sisters—also orphaned. Her mother’s youngest brother, William Cookson, an
+Anglican graduate of St. John’s College, joined her grandparents’ household and took her under
+his wing, tutoring her in French, arithmetic and geography (Woof 133). After her grandfather’s
+death that year and William Cookson’s marriage, Dorothy was taken to live with the Cooksons in
+their new living at Forncett Rectory, Norfolk. As an unmarried, dependent young relative,
+Dorothy took assumed important roles in the life of the growing Cookson family, becoming
+“head nurse, housekeeper, tutoress of the little ones or rather superintendent of the nursery” (The
+Early Years: Letters qtd. Woof 134). Life with the Cooksons, despite its drudgery, must have
+provided scope for DW’s imagination – being part of a young family beginning to establish itself
+led her to daydream of building a home of her own: She imagined “a life with her brother in ‘my
+little Parsonage’ (EY 88), and, having the ‘Friend of my Childhood’ to ‘spend at least a year with
+me’ (EY 91). Roses and honey suckles would spring and a wood behind the house would furnish
+‘a winter’s shelter and a summer’s noon-day shade’ (EY 97). The women would sew and
+William would read aloud” (Woof 134).
+It should be no surprise that Dorothy’s vision of independence doesn’t revolve around
+anticipation of her own marriage or children of her own—probably she had seen enough of what
+that life was like with the Cooksons. Her vision of family life is very different. It revolves around
+sympathy, companionship, and intellectual exchange. True, it is William who reads and the
+women who sew—but it is Dorothy’s sensibility that envisions and animates this scene. This
+reimagining of the family scene becomes increasingly important to Dorothy as life with the
+Cooksons becomes more stifling. Though William had spent six weeks visiting her during her
+
+31
+
+first winter at Forncett, by 1792, William—as the father of a child out of wedlock, and a
+republican freshly returned from France, having refused to take orders and with no career
+prospects—was no longer welcome (Woof 134). By this time Dorothy had come of age, and
+finally decided to orchestrate a break with her relatives at Forncett, contriving to meet William at
+their Aunt Threlkeld’s house in Halifax and departing together on a six week walking tour in the
+spring of 1794. Dorothy did not return to Forncett that year, and was not to return. By mid-1795,
+she and William set up housekeeping at Racedown Lodge in Dorset, and Dorothy agreed to care
+for Basil Montagu, the motherless child of one of William’s friends.
+The Alfoxden Journal begins during the second half of the Wordsworth’s residence at
+Alfoxten House, where they had moved from Racedown, to be closer to Coleridge. Their
+unconventional household –their servant, Peggy, their charge, Basil Montagu and guests
+including Coleridge and the radical John Thelwall—and unconventional habits created an
+atmosphere of mystery and suspicion that evidently made them the targets of local gossip: Were
+they “violent democrats” or perhaps French spies? Their landlord refused to extend their oneyear lease (Gittings 70-72).
+In the meantime, William and Coleridge made a first attempt at collaboration with “The
+Rime of the Ancient Marnier” in 1797. Wordsworth and Coleridge’s collaboration also
+represented a joint effort to make money, for, at the end of that year, the Wordsworths found
+themselves in financial straits: Basil Montagu, Sr. was unable to compensate Dorothy for her
+care of his son Basil, William still had to repay his Aunt Wordsworth for his schooling at
+Cambridge, and Coleridge, too, was in debt (Gittings 74).
+Dorothy Wordsworth’s 1798 Alfoxden Journal, which runs from January of that year
+until May, is a record set against a time of uncertainty and impending upheaval for the
+
+32
+
+Wordsworth household, coupled with the siblings’ growing friendship with Coleridge and the
+excitement of William and Coleridge’s collaboration on the poetry that would be collected in
+Lyrical Ballads. Perhaps these details explain the sense of compression that crystallizes these
+entries: they were written in anticipation of a point of reckoning—under pressure of the need to
+make progress on the Lyrical Ballads project, Dorothy and William were also facing the question
+of what would be next in their life together. After the end of the period covered by the Alfoxden
+Journal, Coleridge convinces the Wordsworths to travel to Germany, where Dorothy and
+William spend a miserable winter in Goslar while William composes the Lucy Poems.
+The Alfoxden Journal opens at the end of winter in the mild Southwest of England, so
+that the whole document is inflected by the change in season as well as this sense of anticipation.
+The January thaw is itself an upheaval. In the journal’s first entry, we receive a sweeping view of
+a landscape suddenly alive with meltwater that streaks down the ridge, streams that carve out
+silver paths; a landscape suddenly relaxed, gathering, clustering, and spreading: “After the wet
+dark days, the country seems more populous. It peoples itself in the sunbeams” (Journals 141).
+The description here is akin to a landscape sketch, but what is missing is any sense of vantage
+point. The ridges are populated with sunbeams, but the subject governing and shaping this
+observation is curiously absent.
+Where would one have to stand to see the “silver lines of water running between the
+ridges” (Journals 141)? Or the place where “the purple-starred hepatica spreads itself in the sun”
+(Journals 141)? The observer’s perspective oscillates between the macro- and the microscopic,
+taking in at once the countryside suddenly crowded with sunlight and then, with exquisite detail,
+clusters of snowdrops, “their white heads, at first upright, ribbed with green, and like a rosebud
+when completely opened, hanging their heads downwards, but slowly lengthening their slender
+
+33
+
+stems” (Journals 141). The view is crowned with a vision of the tracery of bare branches on the
+crest of the ridge, where “the shafts of the trees show in the light like the columns of a ruin”
+(Journals 141). Just as the play of light illuminates these trunks in such a way that we seem
+witness to a sort of temporal collapse—where their repeated shapes resemble “the columns of a
+ruin”—the attention of the seeing subject who records these observations plays about the whole
+scene like something entirely unfixed, unmoored from any single vantage point.
+In her edition of Dorothy Wordsworth’s Grasmere and Alfoxden Journals, Pamela Woof
+notes that the author of this entry is not known. The passage is in William’s hand, and it is
+written as notation—with no date, no capitalizations, and no punctuation besides dashes. Though
+it is possible that the entry represents William’s copy of a composition by Dorothy, there is no
+evidence that this is the case—no similar example of such a copy exists (Notes to 141, Journals
+275).
+“The notebooks were used in common,” writes Woof, speculating, “It might have been
+W[illiam] who started the Journal, with D[orothy] copying his sentences, and then continuing in
+another, now lost, notebook. Or, the brother and sister may have talked the sentences into
+existence together with W initially writing them down” (Notes to 141, Journals 275). The page,
+however, is certainly a draft, Woof asserts. She describes what it looks like in manuscript: A
+draft of “The Discharged Soldier”—also in William’s hand—follows the entry. Also visible in
+Dorothy’s hand is the word “amen” inscribed eighteen times—the test of a new pen nib (Notes to
+141, Journals 275).
+The details of Woof’s description create a sense of the manuscript page as a capsule
+representation of the status of Dorothy and William’s shared practices of composition at this
+time. Notebooks, pens and papers were used in common. Words themselves, phrases, were used
+
+34
+
+in common; they were traveling in a constant stream between Dorothy and her brother. Even
+their vision of the landscape they lived in was shared and multifarious—with the whole
+panoramic setting abundantly ratified by their almost prayerful attentiveness to it and to each
+other.
+The entries that follow are undoubtedly all written in Dorothy Wordsworth’s hand, and
+follow each other during the months of January and February with regularity. Her entry for the
+23rd of January is another detailed landscape study that mirrors the journal’s first entry, but is
+markedly different in style and content. The January 20th entry can be characterized by its
+oscillation from the universal to the particular, sketching a view of the landscape from an
+impossible perspective that can takes in, at once, the way light falls on trees “upon the highest
+ridge of that round hill” (Journals 141) in the distance, and the appearance of small spring
+flowers in garden hollows. This entry’s panoramic perspectival shifts are mirrored by rhetorical
+leaps in phrases like, “After dark wet days, the country seems more populous. It peoples itself in
+sunbeams” (Journals 141). In the January 23rd entry, description is firmly grounded in a
+catalogue of physical sensations, recorded with special attention colors, textures, and sounds.
+The entry begins, “Bright sunshine, went out at 3 o’clock. The sea perfectly calm blue, streaked
+with deeper colour by the clouds, and tongues or points of sand; on our return of a gloomy red.
+The sun gone down. The crescent moon, Jupiter and Venus” (Journals 141). It is impossible not
+to take note of the visual homologies that link this entry with the two entries that immediately
+precede it.
+On January 21st, a walk on the hill-tops is notable for views of “the tops of beeches of a
+brown-red or crimson, those oaks fanned by the sea breeze thick with feathery sea-green moss,
+as a grove not stripped of its leaves. Moss cups more proper than acorns for fairy goblets”
+
+35
+
+(Journals 141). On January 22nd, ivy is seen “twisting round the oaks like bristled serpents” and
+holly bushes, “capriciously bearing berries” offer the walkers shelter from the cold (Journals
+141). Dorothy Wordsworth marks the slow progress of the new season by the redness rising into
+the tips of branches, the way bright red berries stand out in a mostly colorless landscape, and the
+sea breeze fans sea-green moss. On January 23rd, the sea itself is streaked with crimson tongues
+of sand tinted “gloomy red” by the setting sun. Time passes in this entry. Changing light alters
+the landscape, but in this description, what is seen is never allowed to become like anything it is
+not, in the way “shafts of trees show in the light like the columns of a ruin” in the January 20th’s
+entry.
+The opening sentences of this entry contain no personal pronouns. Pamela Woof notes,
+“D, when she and W were joint subjects, frequently omitted personal pronouns before verbs of
+action such as ‘walked,’ ‘set out,’ ‘set forward;’ if individual subjects were needed she made it
+clear…” (Notes to 142, Journals 267). In the Alfoxden Journal’s first entry, the absence of
+personal pronouns could possibly be attributed to the collaboration that originated it. Certainly, a
+spirit of collaboration informs the composition of the journal throughout and in a way the
+document is a palimpsest of observations shared, impressions noted in common. Other readers
+have interpreted Dorothy Wordsworth’s sparse use of the first-person pronoun as a mark of
+extreme reticence. Susan Levin suggests,
+One possible explanation of this trait is that Dorothy’s ‘I’ is so tenuous is that she
+cannot assert it as she writes. That possibility also contains its opposite: the writing of ‘I’
+must displace the presence of the writer as it substitutes itself for it, thus making the form
+of Dorothy’s sentences indicate a kind of negative assertion through her refusal to
+displace by signing. (Levin 18)
+Levin appears to conclude that Dorothy Wordsworth’s reticence might contain a quiet selfassertion—the “tenuousness” of her “I” contains an unobtrusive power. Perhaps we could
+
+36
+
+strengthen that reading: I think that Dorothy Wordsworth’s missing “I,” and frequently elided
+personal pronouns, are less a mark of her hesitation to cast herself as the subject of her writings
+than a strategic choice, related to the constraints of notation, and opening up a number of
+rhetorical possibilities.
+Halfway through the entry, Dorothy Wordsworth invokes a “we.” This joint pronoun
+serves as anchorage that was missing in the earlier entry, bringing that free-floating perspective
+down to a point, and giving January 23rd’s entry a center of gravity even as it avoids fixing the
+vantage point absolutely in one place. She writes,
+The sound of the sea distinctly heard on the tops of the hills, which we could never hear
+in summer. We attribute this partly to the bareness of the trees, but chiefly to the absence
+of the singing of birds, the hum of insects, that noiseless noise which lives in the summer
+air. The villages marked out by beautiful beds of smoke. The turf fading into the
+mountain road. The scarlet flowers of the moss. (Journals 141-142)
+The latter half of the entry is framed by a perspective that is refracted, distributed among
+multiple subjects. The observation recorded here seems to have been made in concert or to have
+arisen from consensus.
+Even as point of view becomes confusingly prismatic, the phrase “we attribute” lends a
+sense of objectivity, of rigor, to the words that follow. At the same time, the final phrase in this
+entry, that note about “scarlet flowers of the moss,” is a forceful reminder of the governing
+consciousness that frames all of these observations—Dorothy Wordsworth’s. It harkens back to
+the two entries that link this one with the journal’s first and record those hints of color appearing
+in the early spring landscape: sap rising in the reddening tops of beeches, sea-green moss
+hanging from the limbs of oaks, moss cups, bright red holly berries, and the moss’s scarlet
+flowers—a play of contrasts that begins the slow accumulation of a pattern.
+
+37
+
+The strength of the visual imagery across all these entries is very striking. Dorothy
+Wordsworth records her observations of landscape with such sensual fullness that when we read
+her journals, we want to linger on them, to realize her descriptions, to try with all our might to
+see the way she sees. This undeniable attraction accounts, at least partly, for the way many
+readers emphasize Dorothy Wordsworth’s essential “gift,” the acuity of her vision, at the
+expense of a full appreciation of the strength of her voice. This tendency makes it difficult for us
+to understand Dorothy Wordsworth as a writer engaged in an artistic project, to view her journals
+authentically as “works” that can be read in a truly dynamic relationship with the her life and as
+other than that life’s essential product or symptom.
+Thus, Susan Levin describes the intensity of Dorothy Wordsworth’s responses to her
+surroundings as a tendency towards “reality testing”—an infantile strategy of defining her own
+subjectivity in relation to “resistant objects that help her comprehend her own separateness from
+the external world” (Levin 16)—as a way of keeping nature present before her at all times.
+Levin’s reading limits our understanding of Dorothy Wordsworth’s “gift” as a faculty for
+observation that can only linger on the surfaces of the things she sees, and her writing process as
+a naïve practice that operates with transparency. Levin’s reading exposes some of the reasons we
+lose track of the strength and persistence of Dorothy Wordsworth’s writing voice.
+Another reason that voice escapes us is her skill in concealing it. The subjectivity that
+frames Dorothy Wordsworth’s journal entries melts into the natural scenes she describes,
+blurring boundaries between the writing process and the very passing of days. The occasion of
+recording something in a journal creates an opportunity to elide the moment of observation and
+the moment of composition. Of course, we can never hope to reconstruct that process, to render
+Dorothy Wordsworth’s intentions visible or to disentangle practiced effort the habit or ritual of
+
+38
+
+journal-keeping, but I think it is important that we begin to approach these journals with more
+attentiveness to the places where her compositional strategies expose themselves.
+Our sense of Dorothy Wordsworth’s voice should be strengthened by distinctions she
+begins to draw as the journal progresses. Certain days and evenings are logged as “uninteresting”
+or “interesting.” It would be wrong to infer that nothing happens on those “uninteresting” days,
+or that the entries that describe them are not noteworthy. Rather, these adjectives offer explicit
+insight into Dorothy Wordsworth’s developing practice of composition. As Pamela Woof notes,
+“D’s ‘uninteresting’ and ‘interesting’ have their own interest. For her, an ‘interesting’ evening is
+one where something dramatic happens in nature, usually in the sky” (Notes to 142, Journals
+279). Dorothy Wordsworth’s “interesting” and “uninteresting” signal the ways in which the
+journal is acquiring the dimensions of a project in its own right: beginning to take on interests of
+its own, beginning to demand certain kinds of accounts.
+For example, the entry for January 27th is a record of what was “upon the whole an
+uninteresting evening” (Journals 142). Nevertheless, a lengthy and meticulous description of
+scenery viewed on an evening walk follows:
+Only once while we were in the wood the moon burst through the invisible veil which
+enveloped her, the shadows of the oaks blackened, and their lines became more strongly
+marked. The withered leaves were coloured with a deeper yellow, a brighter gloss spotted
+the hollies; again her form became dimmer; the sky flat, unmarked by distances, a white
+thin cloud. (Journals 142)
+On this cloud-muffled evening, the moon’s sudden illumination of oak-trees and holly bushes is
+striking—an instant that becomes an event in and of itself. The adjective “uninteresting” frames
+the whole scene, strengthening and underlining the play of contrasts that is recorded here.
+Shadows blacken, shapes become “more strongly marked,” colors deepen, and the hollies take on
+
+39
+
+“a brighter gloss” before the rays of moonlight subsides, with a flattening effect on the whole
+landscape, which becomes ordinary once again.
+Suddenly the “uninteresting” takes on a great deal of importance. The choices Dorothy
+Wordsworth makes early in the Alfoxden Journal mutually reinforce each other, gathering
+authority and strengthening the presence of a voice in this text in a way that should unsettle those
+readings that conceive of her writing process as transparent observations simply taken from life.
+However, as we become witnesses to the play of Dorothy’s discriminating sensibility she draws
+distinctions between material that is “interesting” and “uninteresting, we should appreciate these
+distinctions as an insight into the ways in which her journal—a record so tightly interwoven with
+daily life—becomes a project that begins to peel itself away from the “uninteresting” succession
+of everyday life.
+What Dorothy chooses to leave out of this document is just as important as the afternoon
+walks, the seascapes, and the moonrises she leaves in, for we must recall that the Wordsworths’
+life was as structured by the banal routines of domestic work as it was by its ecstatic
+interruptions: the long walks, the visits from Coleridge, the composition of poetry. While
+Wordsworth’s poetics create a dichotomy between ordinary (domestic) work and the poet’s
+abstracted, intellectual labor to transform the “language really used by men” who “hourly
+communicate with the best objects from which the best part of language is derived” (“Preface” to
+Lyrical Ballads 597) into poetry, “whereby ordinary things should be presented to the mind in an
+unusual way’ (“Preface” 597). Crucially, Dorothy Wordsworth’s journals replace those poetics
+in a domestic context, restoring or revealing their real connection with life in a way that belies
+the very claim to transcendence such a poetics insists upon.
+
+40
+
+I hesitate here to set up an equation between Dorothy’s daily collection of eggs and sticks
+for the household and her daily collection of images for William—to suggest her as a real-life
+figure for William’s rustics would be reductive. An effort to examine the role that domestic work
+actually plays in the Alfoxden Journal is much more promising. It must be acknowledged that
+her work—managing the household, and caring for three year old Basil Montagu—does not take
+up much space in the journal, whose entries revolve around walks taken, natural scenery viewed,
+and interactions between land, sea, and sky. The most visible domestic task in this journal is the
+gathering of sticks—perhaps because this chore consistently takes Dorothy and William out of
+the house and into the woods together. In the journal, this chore becomes a sort of ritual, built
+into Dorothy and William’s shared practices of observation and composition.
+The work described in this journal does seem relatively lightweight and incidental—but it
+is not altogether elided and does not disappear. On the contrary it becomes a kind of structuring
+principle: days are distinguished by their attendant tasks. They go to the woods to gather sticks,
+Dorothy walks to Coombe to buy eggs, they pass the baker’s or the blacksmith’s. Work is woven
+into the domestic routine: the interesting parts of the day are those that take Dorothy outside, but
+the best parts of all are the long walks that take her, with William and Coleridge, outside of the
+space of domesticity altogether and into the natural world. These walks are periods of leisure,
+which turn into occasions for the composition of poems and those efforts of observation that
+make their way into Dorothy’s journal.
+The Wordsworths go for walks nearly every day, but certain excursions are like holidays
+– for Dorothy, they represent signal moments. (Moreover, at its beginning, her housekeeping
+with William must have felt like a permanent holiday – she had won her independence from her
+relatives, and now the work she did to manage the household was for herself, her own family,
+
+41
+
+and no longer she owed charitable relatives on whom she was dependent.) The entry Dorothy
+records for February 26 describes one such holiday. Coleridge has come to visit, and the trio sets
+off on a walk in the direction of Stowey:
+A very clear afternoon. We lay sidelong upon the turf, and gazed on the landscape till it
+melted into more than natural loveliness. The sea very uniform, of a pale grayish blue,
+only one distant vessel sailing up it, a perfect image of delight. Walked to the top of a
+high hill to see a fortification. Again sat down to feed upon the prospect; a magnificent
+scene, curiously spread out for even minute inspection, though so extensive that the mind
+is afraid to calculate its bounds. A winter prospect shows every cottage, every farm, and
+the forms of distant tress such as in summer have no distinguishing mark. On our return,
+Jupiter and Venus before us. While the twilight still overpowered the light of the moon,
+we were reminded that she was shining bright above our heads, by our faint shadows
+before us. We had seen her on the tops of the trees, melting into the blue sky.
+Dorothy’s writing depicts a scene suffused with pleasure: a landscape that “melt[s]” with unusual
+loveliness, a solitary ship on a calm sea seems “a perfect image of delight.” Many of the
+elements that appear again and again in other entries in the Alfoxden Journal come together in
+this one: the landscape that unites sea and sky, and a winter prospect that lends the scene unusual
+clarity. Dorothy’s description of sitting down a second time “to feed upon the prospect” lends a
+more explicit sense of her individual presence than any other moment in this brief entry. In
+describing a scene “curiously spread out for even minute inspection, though so extensive that the
+mind is afraid to calculate its bounds,” she situates in relation to it with more physical detail than
+we often receive. At the same time, the perspective she is describing remains unstable, even
+vertiginous, at once minute and boundless.
+I think there are grounds to suggest that, having begun to collect certain impressions,
+certain questions, landscapes, seas and skies, there is a way in which Dorothy Wordsworth
+composes her days around what will add to and extend the life of her project. Out of these efforts
+comes a practice of composition that exceeds the documentary and, bleeding into habits of
+knowing and noticing, begins to transform it. Earlier, I was trying to suggest ways that we can
+
+42
+
+observe how the journal begins to transform itself into a project, gathering momentum that is
+quite different from the forward motion of a narrative but nevertheless begins to insist upon
+certain patterns—a growing document that becomes in and of itself an occasion for certain kinds
+of reflections, certain impressions. Susan Levin writes,
+The personal journals are narratives and rejections of narrative, a perpetual unfolding, a
+seemingly formless sequence of words that nonetheless suggests structure and closure.
+The journals are not a simple series of happenings; events are emplotted and through
+sequence make various statements about the emotional life of the narrator. At the same
+time, however, as the journals contain the open-endedness of the form (journals as dayby-day, indefinitely continuous account), they also each seem to tell a story that can be
+read as an enclosed narrative… (Levin 9)
+
+This comment remarks on the feature of the Alfoxden Journal I have been working hard to show
+in this reading: it literariness, it’s constructedness. But how best to describe this quality? The
+Alfoxden Journal is a document from which we strongly receive the impression that we are
+witnessing the emergence of a structure: a kind of clustering, a gathering together of fragments.
+The journal is a structure in process: something growing, perhaps, then slowly falling away. All
+the constituent elements of the Alfoxden Journal come together briefly, and are held in tension—
+then the tension falls away. In this chapter, I have struggled to describe a form that is not yet
+articulated as a form; a form that brings itself into visibility before receding.
+
+43
+
+CHAPTER THREE
+
+1. Scenes of Composition
+As the first entry in the Alfoxden Journal, with its uncertain authorship, suggests, the daily
+routines of walking outdoors, observing the natural world, and composing poetry pervaded the
+Wordsworths’ everyday life to the extent that these activities—like the daily labor of
+housekeeping—are, at first glance, invisible. However, as I have remarked, the sharing of
+observations and the process of composition are emblematized by the rhetorical strategies
+Dorothy Wordsworth uses in her journal: for example, the framing device of a plural
+subjectivity, the ways in which scenes of observation and scenes of writing are always elided,
+and the choices she makes to frame own voice or point of view by indirect assertion. That
+entry—along with Pamela Woof’s excellent textual notes concerning the manuscript, in
+William’s hand and with Dorothy’s marginal notes and doodles—offers us the opportunity to
+make some conjectures about the nature of the Wordsworths’ shared process of composition,
+revealing that the notebook was or at least started out as a common space for writing—that the
+writing in it was not at all private. But how much might Dorothy have contributed to the contents
+of that entry recorded in William’s hand? To what extent did that entry serve as a model for
+those that followed? The manuscript alone cannot provide the answers to these questions.
+In the Grasmere Journal, William and Dorothy’s “collaboration” takes central stage. The
+writing of the journal is motivated by William’s departure and structured around his absence,
+which seems to persist, oddly, long after his return. The journal is addressed to him: Dorothy
+writes, “I resolved to write a journal of the time till W & J[ohn Wordsworth] return, & I set
+
+44
+
+about keeping my resolve because I will not quarrel with myself, & because I shall give Wm
+pleasure by it when he comes home again” (Journals 1).
+No sooner has William and John’s departure been recorded on May 14th than Dorothy
+laments, at the close of that very first entry, “Oh! that I had a letter from William!” (Journals 2).
+William’s return occasions two days of anticipation: First, on June 6th he does not come, and
+Dorothy writes, “No William! I slackened my pace as I came home fearing to hear that he was
+not come. I listened till after one o’clock to every barking dog, Cock fighting, & other sports…”
+(Journals 8). At last, on June 7th, “sitting at work till after 11 o’clock I heard a foot go to the
+front of the house, turn round, & open the gate. It was William— —” (Journals 8). The moment
+is marked by a dash, a lapse rather than an exclamation. William’s return is a time of renewed
+activity: the three siblings plant peas together, run errands, and set off on walks. John fishes,
+William prunes cherry trees, and Dorothy bakes pies and tarts—whole days are spent sitting and
+working outside. On August 31st, Dorothy recounts, “All the morning I was busy copying
+poems—gathered peas, & in the afternoon Coleridge came very hot, her brought the 2nd volume
+of the Anthology…” (Journals 15), as if there were an equivalence between the busyness of
+gathering peas and copying out poetry.
+In the first summer months of the Grasmere Journal, we read entries that recount, “Wm &
+I walked along the Cockermouth road—he was altering his poems” (Journals 17), “John & I left
+Wm to compose an Inscription—that about the path” (Journals 18), or “William writing his
+preface did not walk” (Journals 22). Later, after the end of John’s visit, there’s a change in the
+contents of entries like these—marked by a lapse in regularity between mid-September and the
+beginning of October. “Here I have long neglected my Journal,” DW writes (Journals 22). Endof-summer guests descend on the Wordsworths, and John departs at the end of September. On
+
+45
+
+their own once again. the siblings seem to start to work together more closey—or, rather, the
+progress of William’s writing assumes a place of central importance in DW’s journal. William
+no longer secludes himself to write: Now, Dorothy writes, “Wm & I were employed all morning
+in writing an addition to the preface. Wm. went to bed very ill after working after dinner…”
+(Journals 24). During this intensive period of writing, DW is busy collecting the poems that will
+be included in Lyrical Ballads, producing fair copies and discussing editorial decisions with
+William. For instance, she writes, “After tea read The Pedlar. Determined not to print Christabel
+with the L.B.” (Journals 24).
+However, despite the wealth of information the Grasmere Journal offers us about the
+material progress of this work, we are left with the feeling that something is missing—real
+insight into the dynamic of Dorothy’s participation in her brother’s project. What kind of
+discussion followed that reading of “The Pedlar”? What kinds of revisions might Dorothy have
+suggested during the process of writing out so many fair copies of William’s poems? How was
+the decision to cut Coleridge’s “Christabel” made? Of course, in many cases, it is possible to use
+the Grasmere and Alfoxden Journals to trace the cross-pollination of imagery and even turns of
+phrase from Dorothy’s repository of observations from nature to William and Coleridge’s poetry,
+as Pamela Woof does in the article, “The Uses of Notebooks” (Woof 6).That research still leaves
+us wondering about impact of Dorothy’s contributions to William’s writing process and the
+dynamic of their partnership, and raises questions about the extent to which we can name that
+partnership a collaboration. The nearest we seem to be able to get to the interior of their working
+relationship is Dorothy Wordsworth’s record of her work and William’s exertions, which are
+often followed by periods of weakness or illness. The scene of composition itself still seems
+elusive.
+
+46
+
+In an effort to get at the give-and-take at the center of Dorothy and William’s working
+relationship, I want to look at a particular moment in the Grasmere Journal that seems to
+encapsulate the interaction between Dorothy’s notekeeping and William’s process of
+composition. On April 29, 1802, the siblings sit in John’s Grove, a stand of trees they have
+named after their brother, a sea captain, who has by now departed after his long visit in 1800,
+the year Dorothy began the journal. Dorothy writes,
+Afterwards William lay, & I lay, in the trench under the fence—he with his eyes shut &
+listening to the waterfalls and the Birds. There was no one waterfall above another—it
+was the sound of waters in the air—the voice of the air. William heard me breathing &
+rustling now and then but we both lay still, & unseen by one another—he thought it
+would be as sweet thus to lie so in the grave, to hear the peaceful sounds of the earth and
+just to know that ones dear friends were near. (Journals 92)
+This is a moment characterized by repose and intimacy—lying in silence, each of the siblings
+assures the other of their unseen presence as they listen to each other’s breathing and rustling.
+The whole scene is encircled by the sound of birds and the waterfalls—“the sound of waters in
+the air—the voice of the air”—and is fostered and contained by this uninterrupted wash of sound,
+the rush of water and the rising and falling of breath. By recording this brief scene in her journal,
+Dorothy memorializes it: In the midst of the entries that precede and succeed it, it stands out like
+a signal instant—and for Dorothy, perhaps it felt like one. To her reader, this moment of repose
+seems to epitomize the closeness of her relationship with William. That this entry also
+documents, as its centerpiece, William’s thought that “it would be as sweet thus to lie so in the
+grave, to hear the peaceful sounds of the earth and just to know that ones dear friends were near,”
+adds another layer to its significance.
+William’s comment on the scene Dorothy documents in her journal transforms the day,
+the view, and the very “voice of the air” into its own epitaph. In a way that mimics the formal
+structure of an epitaph that entreats “Stop, traveler!” William himself puts on the mask of the
+
+47
+
+dead speaker such an epitaph personifies and, in doing so, fulfills one of our most fervent
+fantasies: The hope of the living that the dead remember us, that our longing for them is matched
+by their own wish to know that dear friends are near. Thus, the siblings apostrophize themselves,
+forecasting the time of their death as a moment of perfect intimacy and peace.
+This (morbid) fantasy anticipates an idea that will, in coming years, become one of
+William’s preoccupations. In 1810, five years after John Wordsworth’s untimely death in a
+shipwreck, William Wordsworth writes Essays upon Epitaphs, a three-part work that appeared in
+The Friend. In Essays upon Epitaphs, Wordsworth revisits the concerns he began to explore in
+his first major comment on poetics in the 1802 “Preface” to Lyrical Ballads—a document that
+must have been freshly in his mind on that April afternoon Dorothy describes in the Grasmere
+Journal. The continuities between these three texts—the “Preface” to Lyrical Ballads, Dorothys
+April 1802 journal entry, and Essays upon Epitaphs—suggest ways in which we may bgin to
+conceive of making a place for Dorothy Wordsworth’s writing within William’s poetic vision of
+the process of composition. It is also a moment that creates an opportunity for re-evaluating
+exactly what the stakes of such a vision are.
+In the “Preface” to Lyrical Ballads, William Wordsworth was at pains to describe how
+the authenticity of the poet’s address to the reader can be guaranteed by a lectoral pact, by
+insistsing on the expansiveness of the poet’s subjectivity and his ability to communicate this to
+his reader in a newly renovated language—the language “really used by men” (Major Works
+597). But can the promise of such a connection or linkage between the poet’s experience and the
+language “really used by men” be borne out? In The Prelude and “Lines Written a few Miles
+Above Tintern Abbey,” Wordsworth runs into the difficulties such a claim presents. Essays upon
+
+48
+
+Epitaphs, he returns to this problem of the poem’s inadequacy as a guarantee in and of itself of
+the poet’s authenticity with renewed urgency.
+As Paul de Man notes in “Autobiography as De-Facement,” Essays upon Epitaphs is a
+text that “constructs a sequence of mediations between incompatibles: city and nature, pagan and
+Christian, particularity and generality, body and grave, which are brought together under the
+general principle according to which ‘origin and tendency are inseparably co-relative’” (de Man
+925). Throughout the Essay, Wordsworth strives to establish relationships between such
+contradictory and apparently mutually exclusive categories. Just as “origin and tendency are
+inseparably co-relative” (Prose Works 51.66-67), so, he insists, are the human desires to preserve
+the dead beloved’s body from corruption and his memory from oblivion linked together by
+“another and a finer connection than that of contrast. –It is a connection formed through the
+subtle process by which, in the natural and the moral world, qualities pass insensibly into their
+contraries, and things revolve upon each other” (Prose Works 53.133-138)
+What seems to animate that “subtle process” is the forefeeling of immortality, intimated
+by love and human reason alike. Would we desire to live in the remembrance of our fellow men,
+Wordsworth asks, if we could not conceive of a life after death? We would not, he writes:
+Add to the principle of love which exists in the inferior animals, the faculty of reason
+which exists in Man alone; will the conjunction of these account for the desire? Doubtless
+it is a necessary consequence of this conjunction; yet I do not think as a direct result, but
+only to be come at through an intermediate thought, viz. that of an intimation or
+assurance within us, that some part of our nature is imperishable. (Prose Works 50.27-41)
+The intimation of immortality is an “intermediate” thought—an idea whose presence remains
+unaccounted for but is, for Wordsworth, necessary for knitting together the workings of love and
+reason. The epitaph itself is an intermediary between pairs of contraries. As Wordsworth is quite
+aware, the epitaph may be the most hackneyed, formulaic expression of poetic sentiment
+
+49
+
+imaginable: anyone wandering through a country churchyard may be tempted , he acknowledges,
+to wonder irreverently, “Where are all the bad People buried?” (Prose Works 63.15).
+Nevertheless, Wordsworth writes, “An experienced and well-regulated mind will not, therefore,
+be insensible to this monotonous language of sorrow and affectionate admiration, but will find
+under that veil a substance of individual truth” (Prose Works 66.125). As for the contents of the
+epitaph, Wordsworth proclaims, “The affections are their own justification” (Prose Works
+57.292).
+Despite its prosaic characteristics, the epitaph, for Wordsworth, takes on the dimensions
+of an exemplary poetic form. He writes,
+The composition and quality of the mind of a virtuous man, contemplated by the side of
+the grave where his body is mouldering, ought to appear, and be felt as something
+midway between what he was on earth walking about with his frailties, and what he may
+be presumed to be as a Spirit in heaven. (Prose Works 58.362-367)
+The epitaph stands on a midway point between reality and memory, expressing “truth hallowed
+by love—the joint offspring of the worth of the dead and the affections of the living!” (Prose
+Works 58.346-347). This truth represents what Wordsworth reads as the very real trace of its
+author’s sincere love and sorrow for the deceased. Furthermore, the epitaph is composed on an
+occasion unlike any other, which
+is a matter of fact in its intensity, and forbids more authoritatively than any other species
+of composition all modes of fiction, except those which the very strength of passion has
+created; which have been acknowledged by the human heart, and have become so
+familiar that they are converted into substantial realities. (Prose Works 76.285)
+In the epitaph, Wordsworth also describes a form that seems to make possible a shift of the
+burden of “proof” that guarantees the authenticity of the poet’s subjectivity away from the poet
+and onto the reader. For Wordsworth, this shift depends on an imperative to read epitaphs in a
+spirit of generosity and attentiveness to the sincere feelings of their grieving authors, akin to the
+
+50
+
+generosity with which we remember the dead and absent, bringing our feelings close to the
+midway point between truth and memory. This convergence of exemplary form and exemplary
+occasion seem to suggest to Wordsworth an instance in which language might almost materialize
+the emotion it expresses. The epitaph monumentalizes a link between language and experience;
+truth and memory; life and death.
+
+2. Wordsworth’s Poetics of Continuity
+Wordsworth’s poetics are centrally concerned with establishing a sense of continuity
+between the scene of experience and the scene of composition. He is attempting at all times to
+resolve the kinds of problems that emerge from the claims he makes in the “Preface" to Lyrical
+Ballads. In Essays upon Epitaphs, Wordsworth insists on continuities between contradictory or
+apparently disparate concepts by asserting with a sense of urgency that such terms are linked by
+“another and a finer connection than that of contrast…a connection formed through the subtle
+process by which, in both the natural and the moral world, qualities pass insensibly into their
+contraries and things revolve upon each other” (Prose Works 53.13-135). If we cannot depend
+upon the workings of that “subtle process” to mediate contrasts—most crucially of all, the
+contrast between life and death—Wordsworth admits,
+I must confess, with me the conviction is absolute, that, if the impression and sense of
+death were not thus counterbalanced, such a hollowness would pervade the whole system
+of things, such a want of correspondence and consistency, a disproportion so astounding
+betwixt means and ends, that there could be no repose, no joy. (Prose Works 51.8052.100)
+As we have seen in the “Preface” to Lyrical Ballads, Wordsworth’s poetics is centrally
+concerned with language’s failure to signify experience in its fullness and totality, without
+leaving something out. His own poems tend to run up against language as a barrier—though it
+
+51
+
+appears to offer “abundant recompense,” in moving from silence to speech, language never
+seems to compensate satisfactorily for the loss the perfect wholeness, repose, accessible only
+before entering into speech. But there must be something more interesting going on in
+Wordsworth’s poetry than a persistent failure to signify.
+We can see in Essays upon Epitaphs, more clearly and more pressingly than anywhere
+else, precisely how troubling and even threatening the discontinuity between experience and its
+representation in language is for Wordsworth. So, perhaps we can re-frame the central concern of
+Wordsworth’s project as an attempt to establish a sense of continuity between the scene of
+experience and the scene of composition. What’s at stake in Wordsworth’s poetry is an
+insistence on the integrity of a connection or linkage between these two disparate states of being
+that can never be borne out in a clear and straightforward way.
+He can only insist that these contraries are linked in a “subtle process”—just as he can
+only insist that sincerity is a poetic criterion that can be communicated somehow in excess of
+language. Only if we can read the workings of that “subtle process” in the natural and moral
+words—only if we can apprehend this crucial meaning-making that seems to take place outside
+of or in excess of signification of language, can we be assured that the “whole system of things”
+will be saved from “hollowness.” Thus, we might conclude that Wordsworth’s poems aspire to
+the condition of epitaphs.
+It should be no surprise then that Wordsworth ultimately chooses to privilege the “form”
+of the epitaph—as a midway point between life and death—as the vehicle for establishing the
+most essential point of continuity. To somehow repair the gap between life and death would
+seem to do away with the problem of discontinuity forever. There is nevertheless something
+troubling about the thought than any poem aspiring to the condition of the epitaph is in a sense
+
+52
+
+doomed by all the limitations of that form, described so clearly by Wordsworth himself: such
+works will always be lapidary, fragmented, partial. The continuity that emerges out of such
+fragments must then be built across the only link really left—since we cannot, finally, merge the
+disjunction between the living and the dead, even in language. The vehicle for this continuity
+becomes the persistence and durability of the poet’s own subjectivity—in other words, the most
+important connection for the poet to sustain is the connection between himself and his reader.
+If we have become suspicious of Wordsworth’s insistence on the authenticity—the
+sufficiency—of his own subjectivity at this point (after readings of the “Preface” and the
+Prelude), it’s not without good reason. All of Wordsworth’s efforts of self-expression have a
+tentative quality and are fraught with difficulties. They are prefatory efforts in the true sense of
+the word. In The Prelude, as in “Tintern Abbey,” self-expression comes at a high price—the
+tearing of the self away from the plenitude of wordless communion with the world. Though it
+seems almost ridiculous to suggest this of the canonical figure of the “egotistical sublime,”
+William Wordsworth’s “I” is much more uncertainly founded, much more reticent—and, in fact,
+much more like Dorothy Wordsworth’s than we could appreciate before.
+
+3. Poetics of Discontinuity, or Toward a Poetics of the Notebook
+Writing in a notebook is a discipline, a practice in sustaining a particular kind of
+attention, but it is a practice that has to be taken up again and again, because it is always being
+interrupted. While the notebook would seem to epitomize a poetics of discontinuity at odds with
+the continuity the epitaph as form seeks to establish, points of connection between the two forms
+abound. Both serve a memorializing function: the notebook is a testament to the passing of time,
+capturing the accumulation of small memorials to the ephemerality of the present moment. In
+
+53
+
+particular, the journal takes on a memorializing function insofar as we treat it as a representative
+of the empirical subject who kept the record. We call upon a journal to represent its writer just as
+we call upon the epitaph to represent the dead person whose grave it marks. In each case, the
+occasion for writing authenticates the text itself, bringing it closer to “real life”—the real feeling
+of the passage of time, the real exigencies of intense emotion. Like the epitaph, the notebook
+makes pressing claims on its reader to participate in a process of re-establishing a sense of
+continuity between its fragmentary entries.
+However, if we revisit the “epitaphic” scene chronicled in Dorothy Wordsworth’s
+Grasmere Journal, we can see that the note-as-form is characterized by a sensibility very
+different from the epitaph. This brief entry reveals its distinctness from the poetics of continuity
+that govern William Wordsworth’s vision of the process of writing, and, I believe, should win for
+the Dorothy Wordsworth’s journals the status of literary works in their own right, texts that
+advance claims of their own and do more than serve as a repository of material for William’s
+poetic projects.
+The scene is knitted together by “the sound of waters in the air—the voice of the air”
+(Journals 92). That equivocal description recalls a phrase from the Alfoxden Journal—“the
+noiseless noise that lives in the summer air” (Journals 142). It indicates a tenuous space,
+something suspended:
+William heard me breathing & rustling now and then but we both lay still, & unseen by
+one another—he thought it would be as sweet thus to lie so in the grave, to hear the
+peaceful sounds of the earth and just to know that ones dear friends were near. (Journals
+92)
+What is fascinating about this passage is the way Dorothy frames her subjectivity in relation to
+her brother’s: His eyes are closed, and her presence only registers at first as the disembodied
+breathing and rustling that William hears. Though at first glance this passage seems most marked
+
+54
+
+by Dorothy’s own absence from it, her presence is, properly speaking, all body here, breath and
+movement. Not only is her physical presence as all-encompassing as “the sound of waters in the
+air—the voice of the air,” Dorothy is the one who keeps her eyes open: recording, documenting,
+and staging William’s morbid flight of fancy. This entry contains no reported dialogue, but reads
+instead almost like free indirect narration: We are told that William, “with his eyes shut &
+listening,” thinks how sweet it would be “thus to lie so in the grave” (Journals 92). The way in
+which Dorothy has staged this moment gives us the impression that she inhabits her brother’s
+subjectivity as if it were their subjectivity, one and the same—the nested subjectivity of two
+presences cradling one another. Thus, we receive an account of the way William’s fancy
+becomes her vision; the way that his subjectivity becomes merged with her own.
+In this chapter, I explored William Wordsworth’s Essays upon Epitaphs for the
+possibility his thoughts seemed to offer of closure for this project, their suggestion of a narrative
+that could circle back to Dorothy Wordsworth, re-inscribing her writing practice the arc of the
+development of William’s thinking about the process of writing over the course of his writing
+life. In returning here to the notion of the journal, or the notebook-as-form, I am hoping to
+orchestrate a shift of focus, and introduce a new metaphor, moving from the lapidary character of
+the epitaph to the ephemerality of the note-grain, the note-as-seed (Lüthi 254). In a dissertation
+that focuses on the work of French poets Georges Perros and Philippe Jaccottet, to offer two
+case-studies in the practice and poetics of the note-as-form, Ariane Lüthi writes,
+Qui envisage la graine pour interroger une forme d’écriture, s’intéresse davantage au
+processus qu’au produit: c’est l’acte, l’ouverture et le jeu des possibilités qui l’emportent,
+au détriment de la clôture, du produit fini. […] L’image de la note-graine renvoie à la
+poiesis, toutefois, cette pensée concerne moins la production de la note poétique que la
+production absolue. (Lüthi 253-254)3
+My translation: “One who envisions the seed in an effort to interrogate a form of writing must be
+interested in process at the expense of the product, interested in the act itself, in the opening up and play
+of possibilities; to the detriment of closure and the finished product. […] The image of the note-as-seed
+3
+
+55
+
+By contrast, the dedication of an epitaph is the least open-ended of gestures: monumental and
+literally set in stone. The epitaph’s function, and the occasion for its composition, as Wordsworth
+so persuasively argues in Essays upon Epitaphs, lends its contents the permanence and gravitas
+that an utterance—even a tragic outcry—would lack.
+Just as Wordsworth’s Essays upon Epitaphs ultimately, circularly, exposes its own limits
+rather than new points of departure, a critical narrative that only seeks to re-inscribe Dorothy
+Wordsworth’s own practices within the arc of her brother’s creative development will only leads
+us back to where we started. For this reason, I see it as imperative to explore an alternative
+possibility: the project of reading Dorothy Wordsworth’s journals through the lens of a poetics of
+the notebook—and, with a new understanding of the uncertain, often prefatory status of many of
+William Wordsworth’s canonical works, extending this project to a re-evaluation of the
+relationships his work establishes between poet and reader, and the registers of the lyrical and the
+autobiographical.
+
+always returns us to poiesis, a notion which has less to do with question of the poetic note’s production
+than it has to do with the question of production itself.” (Lüthi 253-254)
+
+56
+
+CHAPTER FOUR
+
+1. The Notebook and its Pretexts
+Here, I want to propose a turn to the notion of a poetics of the notebook, with the hope of
+suggesting new ways in which it may be possible to talk about those categories. The notebook
+represents a process of movement between theory and practice, and is a document that lays bare
+the ways in which that movement works in both directions. The notebook has a built-in anchor to
+the everyday and offers us a way of envisioning, through the slow progress of accumulation, the
+growth and development of particular projects, whether or not they become finished “works.”
+The notebook is itself a space in which the “work” of writing takes place.
+The first section of this chapter reviews the critical and scholarly conversation already
+taking place about the notebook. The second part engages with the writing of Philippe Jaccottet,
+whose writing practice involves an integrative effort to mediate the poem and its “pretext.”
+Jaccottet’s work speaks to both parts of the concerns I’m engaging through the lives and work of
+the Wordsworth siblings: the practice of the poet and the practice of the note-taker. In La
+Semaison, he asks, “But how do you proceed from a number of ‘notes toward a poem’ to the
+poem itself?” This question, as an extension of the problems that preoccupy both Dorothy and
+William Wordsworth, amplifies the complexities inherent in the lyric tradition.
+
+2. Object and territory: Notebooks and their Readers
+A “poetics of the notebook” offers a new framework for understanding the status of
+Dorothy Wordsworth’s work in relation to her brother’s, just as it suggests alternative ways of
+thinking about points of contact between the lyrical and autobiographical registers. In order to
+
+57
+
+explore how a poetics of the notebook might accomplish this, the following questions need to be
+posed: What hopes and pretensions are at stake in a poetics of the notebook? And what are the
+characteristics of the note-as-form—or the notebook as genre? Ariane Lühi remarks,
+Le geste spécifique de la notation ainsi que le recueil de notes (en tant que livre constitué
+d’un agrégat de textes) ont jusqu’à présent été marginalisés dans le domaine de la critique
+littéraire, où la note est considérée comme un avant-texte, un brouillon ou un étape
+intermédiare qui renvoient à un au-delà, ou alors comme une simple annotation d’un
+autre texte. La note serait donc, dans cette perspective, incomplète par définition. (Lüthi,
+Vers une poétique de la note 5)4
+How to begin a coherent discussion of a text whose most characteristic feature is its
+incompleteness? The notebook’s dichotomous relationship to literary “work”—to poetry, for
+instance—adds complexity to any project that wants to go beyond an understanding of notes as
+“pre-text” and enter into a discussion of the notebook as a form in its own right. Many
+commentators on notes and the notebook-as-form stress its oddness and its hybridity,
+underscoring the challenge it poses to traditional generic classifications: Is it a genre? A subgenre? Or might it more descriptively be conceived as a practice? In the absence of an
+established body of work theorizing the notebook, scholars conceive their task as laying
+groundwork, or feeling out the contours of a territory—doing work that is necessarily as tentative
+and provisional as much of the note-writing to which they turn their critical attention.
+In “Fausses notes: Pour une poétique du carnet, » Philippe Met writes,
+On se propose ici—entreprise à la fois simple et complexe—de définir un objet et un
+terriroire, c’est-à-dire non seulement de les délimiter, de les cerner, mais aussi d’en
+formler les propriétés consitutives, le(s) sens et la portée. […] Ce mode d’écriture à
+longtemps été (et jusqu’à aujourd’hui encore, parfois) dénigré, dévalorisé out tout
+simplement ignoré, comme si, pour le dire en termes musicaux, il était par essence inapte
+
+4
+
+The specific gesture of note taking, like the notebook (any aggregation of such texts that constitutes a
+book), has been marginalized in the domain of literary criticism, where the note is often considered a pretext, a draft or intermediate step that will return us to some writing of a higher order, or simply an
+annotation to another text. Thus the note, in this perspective, is incomplete by definition. (Luthi 5)
+
+58
+
+à atteindre la note juste et ne pouvait dès lors produire que de déplorables fausses notes.
+(Met 53)5
+Philippe Met sketches a “long history” of the notebook, beginning with its 19th century origins
+among the proliferation of the “petites genres” and “formes brièves en prose” (Met 54) and
+tracing through the second half of the 20th century and the turn of the 21st “une résurgance ou
+plutôt un essor important de la pratique du carnet, sinon toujours en vue de, tout au moins
+menant à, la publication” (Met 54).6
+From Baudelaire to Reverdy; from du Bouchet to Jaccottet; to writers of the 21st century
+including Jean Maulpoix and Daniel Leuweurs, Met writes,
+À défaut de presenter ici une archéologie en bonne et due forme, on se contentera de
+mettre en valeur, autour d’un florilège de citations, quelques incontournables stations, par
+quoi il apparaît crucial de passer avant d’en venir à des avatars plus récents, voire
+extrême contemporaines. (Met 54)7
+Met’s « canon » of notebooks and notebook writers leads him (following Reverdy) to conclude,
+« En somme, le carnet n’est pas le substitut, non plus que la prélude ou la mise en train, de la
+poésie, mais bien plutôt sa poursuite, son prolongement, par d’autres voies » (Met 57).8 Then
+again, the question reasserts itself : prolongs poetry by which other means ? What does the
+notebook look like? Met explores the ways in which the poetics of the notebook overlaps with
+the broad category of une écriture de soi (life-writing), but also throws into uncertainty our
+
+5
+
+I propose—an enterprise at once straightforward and complex—to define an object and a territory, that
+is to say not only to delimit them, to grasp them, but also to formulate their constitutive properties, their
+meaning(s) and their impact. […] This mode of writing has been, for a long time (and sometimes still
+today), denigrated, devalorized, or simply ignored as if, to put it in musical terms, it was essentially
+incapable of striking the right note and could only produce deplorable wrong notes. (Met 53)
+6
+a resurgence or rather a boom in the practice of the notebook, if not always in view of, then at least
+lending itself to, publication. (Met 54)
+7
+Instead of presenting an archaeology by the book, I settle for highlighting, by way of a compendium of
+citations, several unavoidable stations, by which it appears crucial to pass before in making our way to
+those more recent, even “extreme-contemporary” avatars.
+8
+In sum, the notebook is neither the substitute, nor the prelude nor the setting in motion of poetry, but
+rather its pursuit, its prolongation, by other means.
+
+59
+
+assumptions about the authenticity and sincerity of autobiographical discourse: if notes are the
+pretext for a work of literature, there is always the possibility that their function is to fictionalize
+or falsify—they duck the strictures of authenticity demanded by the “pacte autobiographique,”
+but at the same time often occupy a place of little value, in relation to the finished work (Met
+57).
+With the hope of resolving these difficulties, Met draws the following distinctions
+between the “journal” (journal intime) and the “notebook” (carnet): Where as the journal—an
+essentially egocentric project—marks a turn inward, the notebook is composed of “notations
+diverses portées vers l’appréhension de la réalité…à travers une langue et une écriture qui
+s’interrogent sur ells-mêmes tout en mêlant concrétude et abstraction.[…] [C]e regime d’écriture
+délimite et redéfinit, en un sens, le champ originel, fondateur, de l’éxpérience littéraire” (Met
+59).9 I think it is clear that this « clivage » between the domain of the journal and the domain of
+the notebook, while useful, presents its own difficulties and further complexities. Though it may
+be tempting to protest that Met is splitting hairs, carving up already marginal territory with more
+margins, he is nevertheless making a crucial remark when he suggests that what distinguishes the
+notebook from other types of life-writing is that it is preoccupied with the record of a pointedly
+and self-consciously literary experience of the world, coming at its “apprehension of reality” in
+and through language.
+Ginette Michaud also takes up the question of the “poetics of the notebook” in her article
+about the contrasting notebook-keeping practices of Octave Mannoni and Elias Canetti.
+Michaud’s essay navigates the notebook “terrain” perhaps more cautiously than Met’s does. She
+writes,
+Diverse notations directed towards an apprehension of reality…through language and writing that
+interrogate themselves, mixing concreteness and abstraction. […] [T]his regime of composition delimits
+and redefines, in a sense, the foundational, original domain of the experience of literature.
+9
+
+60
+
+Plutôt que de tenter une véritable poétique de la note, j’aimerais seulement circonscrire
+par ces quelques propositions, elles-mêmes mimétiquement déliées, quelques-uns des
+effets produits par l’accumulation des notes, “sans tri et sans apprêt,” à partir de pratiques
+différentes, chaque fois singulières, où la note devient poétique.10
+Michaud situates her work alongside studies in the epistolary form, by way of offering an
+analogy for the type of writing to be found in these notebooks. Citing Vincent Kauffmann’s
+L’équivoque épistolaire, she suggests that the territory of the notebook is analogous to the
+equivocal, ambiguous space that separates correspondents from one another. In such “notes-toself,” address takes on “la forme particulière du retour à l’envoyeur, mais au prix de détours plus
+tortueux, en tout cas plus tourmentés, qu’il n’y paraît” (Michaud 68).11 This suggests something
+of the generic ambiguity of the notebook as form. Does it belong to a “body of work, or the
+author’s life? Can we understand notebooks to constitute part of a writer’s literary oeuvre if, as
+in many cases, the notebooks were never considered to be of primary interest by the author himor herself? Finally, how does the reader eventually receive such works?
+Judging by Michaud’s characterization of it, Mannoni’s writings might well fall into the
+category of “journal” rather than “notebook” according to the rubric Met offers in “Fausses
+notes”: they are filled with self-reflexive effusions about the difficulty of keeping a systematic
+journal (Michaud 70). But whereas Michaud describes Mannoni’s writings as “constamment
+vouée à l’échec, coincée dans une double contrainte, oscillant entre le ‘trop’ et le ‘pas assez’’
+(Michaud 73),12 she seems to feel that Canetti’s practice is of a different order. She writes,
+
+10
+
+Rather than attempting to articulate a true poetics of the note, I prefer to circumscribe, with these
+propositions (correspondingly unsystematic), several of the effects produced by the accumulation of notes
+“after no principle of selection and no window-dressing”, from the standpoint of two different practices,
+by which notes become poetic.
+Address takes on the peculiar form of a dead letter “returned to sender”—at the cost of detours more
+circuitous and more troubled than they first appear. (Michaud 68)
+12
+Doomed to failure, pinched by a double constraint, oscillating between “too much” and “not enough”
+(Michaud 73)
+11
+
+61
+
+Vincent Kauffman mentionne de manière rapide dans L’equivoqe épistolaire une
+hypothèse suggestive à propos des écrivains-épistoliers… : « Il y a ceux, écrit-il, qui
+conçoivent leurs lettres comme une pratique littéraire, et ceux qui font de leurs textes
+littéraires l’équivalent d’une lettre. » Ce renversement des proportions entre l’œuvre et la
+note, les modes majeur et mineur, le monument et les miettes, on pourrait le transposer en
+pensant au cas d’un autre écrivain qui a pratiquer la note de manière constante tout au
+cours de sa vie d’écrivain, mais sur un mode sec et lapidaire, aux antipodes de celui
+adopté par Mannoni : il s’agit des « Réflexions » d’ Elias Canetti.(Michaud pg #)13
+This description suggests a way of redefining the categories Met sets up between those
+documents that “note” the passage of time over the course of a subject’s life—namely, the
+“journal” or the journal intime—and the notes that become a life’s work, taking on the stature of
+a literary project: the “miettes,” the fragmentary and the throwaway, take on a “monumental”
+significance. This “reversal of proportions” between “note” and “oeuvre” suggests that Met’s
+distinction between “journal” and “notebook” might be more fluid than it seems. Such a reversal
+has to be organized at least in part by a self-conscious effort on the part of the writer, to
+reconceive what constitutes the domain of their own literary work—how they “read” their own
+writing. Michaud’s epistolary premise serves to illustrate this connection between reading and
+writing quite clearly. “Entre la note et le lecture, il y a de nombreuses affinités électives, leurs
+rapports relevant de fait tellement de l’évidence qu’ils passent presque inaperçus, » she notices
+(Michaud 82).14 This realization is what compels Michaud to conceive her project differently
+from the way Met does.
+
+In L’équivoque épistolaire, Vincent Kauffmann briefly mentions a suggestive hypothesis about letterwriters…: “There are those,” he writes, “who conceive of their letters as a literary practice, and those who
+turn their literary texts into the equivalent of a letter.” We might transpose this reversal or proportions
+between the “oeuvre” and the “note,” the major and minor modes, the monumental and the fragmentary,
+onto the case of another writer who practiced note-making steadily throughout his writing life, but in a
+dry and lapidary style at antipodes to the one adopted by Mannoni: The work in question is “Reflections”
+by Elias Canetti. (Michaud )
+14
+There are numerous elective affinities between the note and reading; their rapport is so much in
+evidence that it passes almost unapprehended. (Michaud 82)
+13
+
+62
+
+The journal writer is always first a journal reader—first and usually most critical reader
+of his or her own entries, points out Barthes in his essay, “Délibération.” He writes, “Je crois
+pouvoir diagnostiquer cette ‘maladie’ du journal: un doute insoluble sur la valeur de ce qu’on y
+écrit” (Barthes 423).15 This uncertainty seems to be something that prevents the writer from
+turning journal-writing into literary work, and for Barthes it is the occasion for this personal
+“deliberation.” He writes,
+Mais, encore une fois, est-ce que cette bienveillance finale, attiente après avoir traverse
+une phase de rejet, justifie de tenir (systématiquement) un journal? Est-ce que ça vaut la
+peine ?
+Je n’esquisse pas ici une analyse du genre « Journal » (il y a des livres là-dessus),
+mais seulement une délibération personnelle, destinée à permettre une décision pratique :
+dois-je tenir un journal en vue de le publier ? Puis-je faire du journal une “œuvre” ?16
+The question that motivates Barthes’s deliberation is posed with studied insouciance that belies
+the complexity of the inquiry he’s about to undertake. And yet, he insists that his task here is a
+modest one: The heavy lifting of analyzing the journal as genre can be left to those who have
+written whole books about it. Barthes makes it quite clear that is not pretending to offer a
+systematic way of understanding the journal as “genre”—the following four motives for
+justifying the “literariness” of journals are based on personal feeling: “Je ne retiens donc que les
+fonctions qui peuvent m’effleurer l’esprit,” he writes (Barthes 424).17
+Barthes’s taxonomy of the journal emphasizes different types of reading more than it
+does different kinds of writing. These motives for turning the journal into a work are all
+predicated on the question the writer asks of himself: What kind of journal would I like to read?
+“I guess I could diagnose this diary disease: an insoluble doubt as to the value of what one writes in it”
+(The Rustle of Language, trans. Richard Howard 359)
+16
+“But still, does this final indulgence, achieved after having traversed a phase of rejection, justify
+(systematically) keeping a journal? Is it worth the trouble?
+I am not attempting any kind of analysis of the “Journal” genre (there are books on the subject),
+but only a personal deliberation, intended to afford a practical decision: Should I keep a journal with a
+view to publication? Can I make the journal into a ‘work’?” (Howard 360)
+17
+“Hence, I refer only to the functions which immediately come to mind” (Howard 360)
+15
+
+63
+
+It should be no surprise (recalling, of course, that Le Bruissement de la langue also contains the
+essay, “La mort de l’auteur”) to discover that the post-structuralist lens Barthes brings to his
+subject emphasizes the work of the reader in defining these categories over the work of the
+writer. However, what is never quite explicit in “Délibération” is the way in which a journal’s
+writer might anticipate the way in which a reader would receive his or her writing, or the way in
+which outside factors might influence a text’s reception.
+For instance, Barthes’s second motive, the “historical” journal, is a document that
+necessarily becomes historical over the course of the passage of time and passage through the
+hands of many different readers—some of them editors. We are left wondering about what
+qualities might define the historical value or interest of a document and what forces determine
+who receives that document and why. Does a text’s historical or documentary interest exclude or
+override its literary importance? In the case of Dorothy Wordsworth’s journals, that question cuts
+two ways, each to the ultimate detriment of its literary interest as a work in its own right.
+Received as a document only of historical interest and with little literary value, the importance of
+Dorothy’s literary efforts are discounted and submerged; received as a document of only literary
+interest and no historical value, details recording the Wordsworth’s daily household life are
+rejected as too trivial to be of interest to the reader. On the other hand, the third motive the
+possibility that a reader’s interest in a journal might be motivated by the desire to access
+precisely these trivial details. The “utopic” motive belongs to a reader who wants to know the
+journal’s writer intimately. If the journal in question belongs to a writer of other literary work,
+this reader’s interest in the life that surrounds the work may even exceed interest in the work
+itself.
+
+64
+
+The first and last motives for justifying the journal’s “literariness” seem to envisage a
+different order of relationship between the acts of writing and reading. The first one Barthes
+imagines is the journal as “ un texte coloré d’une individualité d’écriture, d’un ‘style’ (aurait-on
+dit autrefois), d’un idiolecte propre l’auteur (aurait-on dit naugère).”18 Barthes describes this
+motive as the “poetic.” The final case Barthes offers could be the logical extension or
+intensification of this impulse: the journal that becomes an “atelier des phrases; non pas de
+‘belles’ phrases, mais des phrases justes; affiner sans cesse la justice de l’énonciation (et non de
+l’énoncé), selon un emportement et une application, une fidélité de dessein qui ressemble
+beaucoup à la passion” (Barthes 425). 19 This journal doesn’t simply record the performance of a
+particular style, and is more than an example of the practice and refinement of an idiolect.
+Barthes emphasizes that this journal is a text in which “la justesse de l’énonciation (et non de
+l’énoncé)”—gesture of enunciation itself, rather than what is spoken—is being continually
+refined, with an avidity closely resembling passion. This is the only motive that seems to fully
+enter the domain of the literary, the only text in which the author—the speaker—seems to be
+able to absent himself, leaving behind the sense of “attachement narcissique” that worries
+Barthes when he considers his own work.
+That narcissism, which Barthes qualifies, parenthetically, as “faiblement narcissique: il
+ne faut pas exagérer” (Barthes 424),20 turns out to be more persistently troubling than his initially
+light touch of the problem suggests. In the concluding paragraphs of “Délibération,” Barthes
+wonders,
+
+“a text tinged with an individuality of writing, with a ‘style’ (as we used to say), with an idiolect proper
+to the author (as we said more recently)” (Howard 360).
+19
+“a workshop of sentences: not of ‘fine phrases,’ but of correct ones, exact language: constantly to refine
+the exactitude of the speech-act (and not of the speech), according to an enthusiasm and an application, a
+fidelity of intention which greatly resembles passion” (Howard 361).
+20
+“ faintly narcissistic—let’s not exaggerate” (Howard 360)
+18
+
+65
+
+—Mais le journal ne peut-il être précisément considéré et pratiqué comme cette forme
+qui exprime essentiellement l’inessentiel du monde le monde comme inessentiel? –Pour
+cela, il faudrait que le sujet du Journal fût le monde, et non pas moi ; sinon, ce qui est
+énoncé, c’est une sorte d’égotisme qui fait écran entre le monde et l’écriture ; j’ai beau
+faire, je deviens consistant, face au monde qui ne l’est pas. Comment tenir un Journal
+sans égotisme ? Voilà justement la question qui me retient d’en écrire un (car, de
+l’égotisme, j’en ai un peu assez). (Barthes 436)21
+Fabricating a consistent “I” which can never confront an inconsistent world without an “écran
+entre le monde et l’écriture” might well be the most dangerous outcome the keeping of a journal
+could accomplish. Suppose the writer who avidly pursues the refinement of the word is
+mistaken? “[I]l n’est pas sûr que le Journal récupère la parole et lui donne la résistance d’un
+nouveau metal,” Barthes warns (Barthes 437).22 He concludes that the only way in which this
+dream of recuperation might be achieved would be by exhausting the journal altogether, turning
+it into “un Texte à peu près impossible: travail au terme duquel il est bien possible que le Journal
+ainsi tenu ne ressemble plus du tout à un Journal (Barthes 438-439).23 As we turn out attention in
+the next section, to Philippe Jaccottet’s notebook, La Semaison, it will be important to keep
+Barthes’s warning and the conditional hope he offers in his conclusion in mind. What might the
+notebook become when it no longer resembles a notebook?
+
+But can’t the Journal, in fact, be considered and practiced as that form which essentially
+expresses the inessentials of the world, and the world as inessential? –For that, the Journal’s
+subject would have to be the word, and not me; otherwise, what is uttered is a kind of egotism
+which constitutes a screen between the world and the writing; whatever I do, I become
+consistent, confronting the world which is not so. How to keep a Journal without egotism? That
+is precisely the question which keeps me from writing one (for I have had just about enough
+egotism). (Howard 370)
+22
+“It is not certain that the Journal recuperates the word and gives it the resistance of a new
+metal” (Howard 372).
+23
+“a virtually impossible Text: a labor at whose end it is indeed possible that the Journal thus
+kept no longer resembles a Journal at all” (Howard 373)
+21
+
+66
+
+3. Practice and Poetics of the Notebook in Philippe Jaccottet’s La Semaison
+In his preface to Landscapes with Absent Figures, Mark Treharne’s 1997 English
+translation of Paysages avec figures absentes, Michael Hamburger speaks to Jaccottet’s appeal
+to Anglophone readers, “Unlike that of many distinguished French poets of his generation,
+[Jaccottet’s] work has not come up against a barrier to understanding and sympathy due to
+fundamental differences between assumptions and practices in the two literatures” (Hamburger
+iii). Philppe Jaccottet was born in Moudon, Switzerland in 1925—a region of the country known
+to French-speakers as la Suisse romande—and became steeped in a tri-lingual Romantic
+tradition. Jaccottet is well-known for his translations from the German of works by Hölderlin,
+Rilke, and Musil; and from the Italian, works by Leopardi and Ungaretti.
+Hervé Ferrage characterizes Jaccottet’s early writings as the work of a poet in search of a
+voice : In his first published work, Requiem (1947),24 Jaccottet sought a poetic register that
+would “s’élever tout de suite à un style sublime et faire oeuvre réparatrice en imitant de
+prestigieux modèles poétiques et religieux’’(Dictionnaire de poésie de Baudelaire à nos jours
+363).25 It is Jaccottet’s time in Paris, during which he met Francis Ponge, who helped him “à
+réorienter son travail poétique: un style plus humble, un ton plus bas, des inflexions souvent
+proches de la prose, un usage nuancé et libre des formes de versification traditionnelle (le sonnet
+particulièrement) apparaissent alors comme autant de garde-fous contre les tentations d’un
+lyrisme mal maîtrisé” (Dictionnaire 363).26 Another signal moment in Jaccottet’s career is his
+
+It is interesting to note the way that Jaccottet’s starting place—a fascination with the funeral rituals of
+ancient religions (Ferrage 363)—corresponds with William Wordsworth’s interest in the epitaph as a
+poetic model.
+25
+“elevate him at once to sublime style of a recuperative project in imitation of prestigious religious and
+poetic models” (Ferrage 363)
+26
+“to reorient his poetic work: toward a humbler style, a softer tone, a poetry whose inflections often
+approached those of prose, and the nuanced and liberal usage of traditional forms of versification
+24
+
+67
+
+discovery, in the 1960s, of Japanese haiku, a moment that, Ferrage writes, ‘‘a pour Jaccottet la
+force d’une révélation aussi bien éthique qu’esthétique’’ (Dictionnaire 364).27
+Jaccottet’s interest in la forme brève is sustained throughout his career, as the serial
+publication of his carnets under the title, La Semaison, suggests. Hervé Ferrage writes, ‘‘Le titre
+ici révèle clairement les enjeux du projet mis en œuvre’’ (Dictionnaire 365).28 La Semaison’s
+epigraph comes from the Littré dictionary’s definition of “semaison”: “dispersion naturelle des
+graines d’une plante.’’29 As Ariane Lüthi observes, “l’écriture des Carnets est d’emblée placée
+sous la signe de la pensée organique et végétale’’ (Lüthi 252).30 Not only does the collection’s
+epigraph place us “under the sign” of the organic, it places us in the temporal space of the cyclic
+change of seasons. Moreover, this epigraph suggests a link between the gestures of reading and
+writing that mirrors the temporal relationship between the gestures of sowing and harvesting: we
+get the sense that the one is certainly the natural outgrowth of the other. La Semaison, carnets
+1954-1979, La Seconde Semaison, carnets 1980-1994 , and Carnets 1995-1998 (La Semaison
+III) were published by Gallimard in 1984, 1996 and 2001, respectively.
+An English translation by André Lefevere and Michael Hamburger of selected writings
+from the 1971 Gallimard edition (published under the title La Semaison: carnets 1954-1967) was
+published by New Directions in 1977 under the title Seedtime: Extracts from the Notebooks
+1954-1977.31 Seedtime represents the harvest of a number of selections from the 1971 Gallimard
+edition of La Semaison. Lefevere and Hamburger’s process of selection reflects one of the
+
+(particularly the sonnet) apparently as a safeguard against the temptations of an uncontrolled lyricism”
+(Ferrage 363)
+27
+“had for Jaccottet the force of an ethical, as well as an esthetic, revelation” (Ferrage 364)
+28
+“The title here reveals the stakes of the project” (Ferrage 365).
+29
+“the natural dispersion of a plant’s seeds”
+30
+“This writing as a whole is placed under the sign of the vegetal and the organic”
+31
+If the material in the citations from La Semaison that follow appears among the selections included in
+Lefevere and Hamburger’s 1977 translation, I will cite this edition in my footnotes.
+
+68
+
+outstanding features of La Semaison—the superabundance of these notes; their return again and
+again to the same subjects and scenes: winter mornings, trees in bud, days of rain, the burning of
+leaves in autumn, views of the mountains. The translators’ decisions must have involved the
+choice to let one description of twilight stand in for the three or four that might surround it in the
+context of the original progression of entries. Perhaps the most interesting of these decisions is
+Lefevere and Hamburger’s choice to begin with an entry titled “1956 October,” rather than with
+the entry that opens the original, on May, 1954.
+The entry for October, 1956 is certainly consonant with the collection’s epigraph (also
+omitted from Seedtime):
+The reeds: how their velvety ears burst, allow the slow escape of a stream of seeds, a
+crop, in the most absolute silence. A woman giving birth: moans of pain, blood, In
+absolute silence, sweet, irresistibly slow, the plant busts and scatters itself on the mercy
+of the wind. (Seedtime 1)
+This choice does a double duty: introducing the reader to the metaphor that organizes La
+Semaison, and letting Jaccottet’s writing unfold: we have here an image of dissemination, not
+planting; a process that takes place almost passively, ineluctably, and in silence—the plant’s
+voluptuous release of its seeds. The choice to begin with this entry also quite clearly stages the
+notebook’s commencement in autumn, oddly folding together the seasons of seed-time and
+harvest-time. In fact, Jaccottet’s La Semaison begins with an entry in May, 1954:
+L’attachement à soi augmente l’opacité de la vie. Un moment de vrai oubli, et tous les
+écrans les uns derrières les autres deviennent transparents, de sorte qu’on voit la clarté
+jusqu’au fond, aussi loin que la vue porte ; et du même coup plus rien ne pèse. Ainsi
+l’âme est vraiment changée en oiseau. (La Semaison 11)32
+
+My translation: “Attachment to the self increases life’s opacity. One moment of true forgetfulness, and
+all the screens one behind the other become transparent, so that clarity is visible all the way back, as far as
+the eye can see; and at the same time, everything is lighter. Thus is the soul really transformed into a
+bird.”
+32
+
+69
+
+This is a beginning that is much more hermetic, less concretely descriptive than the entry chosen
+by Lefevere and Hamburger. It records a deeply inward moment, a kind of seeing that has less to
+do with the outside world than it has to do with a state of being. As such, it frames the notebook
+in a markedly different way. Since I would prefer to focus on the contents of La Semaison, rather
+than on a comparison between the original text and Lefevere and Hamburger’s “anthology” or a
+discussion of the complexities of translating work like Jaccottet’s, I only want to suggest that
+these different beginnings are both revealing, in that they bring two of Jaccottet’s linked
+concerns to the fore.
+The notebooks that comprise La Semaison combine prose, fragments or drafts of poems
+that conclude in prose, prose that corrects or revises the verse. Ferrage comments, “
+Cette façon de combiner et de faire jouer ensemble, à l’intérieur d’un même livre, des
+proses poétiques, des notes de carnet et des poèmes ou des fragments de poèmes est la
+manifestation d’une liberté nouvelle dont le sens mérite d’être précisé. […] La variété
+devient la loi et témoigne du profond désir de pacifier non seulement la relation de
+l’homme au monde mais aussi les rapports entre les différentes formes qui s’en veulent
+l’expression.” (Dictionnaire 366)33
+As a project, La Semaison is distinct from other books of poetry published concurrently.
+Whereas, Ferrage contends, Paysage avec figures absentes, a collection of prose poems,
+represents a more fully realized style of expression (Dictionnaire 365),34 the notebooks
+ne sont rien moins qu’une matière brute offerte telle quelle au lecteur. […] Prises sur le
+vif, au plus près de l’immédiat, elles cherchent essentiellement à préserver dans la trame
+du quotidien les chances de la poésie. Le choix de la discontinuité qui caractérise cette
+écriture, sa vivacité, qui empêche le mouvement trop aisément pacificateur de la belle
+
+33
+
+This way of combining and setting in motion all together, inside the same book, prose poems, notes,
+and poems or fragments of poems, is the manifestation of a new poetic liberty, the meaning of which
+merits a more precise examination. […] Variety is law and witnesses a profound desire to remediate not
+only man’s relationship with the world but also relations between different forms to be given expression.
+(Ferrage 366)
+34
+« …Paysages avec figures absents…offre sans nul doute l’expression la plus accomplie » (Ferrage 365)
+
+70
+
+prose, invente aussi une tension qui se prolonge dans l’acte même de la lecture.
+(Dictionnaire 365)35
+The discontinuity of Jaccottet’s notebooks is a feature that distinguishes them from his other
+works—and it is preserved by the principle of selection he exercised in preparing La Semaison
+for publication. Nevertheless, it’s evident across his oeuvre. Michael Hamburger, in the preface
+to Landscape with Absent Figures, writes, “In fact it is in the empty spaces that a reader’s
+responses have the most freedom and scope for movements of their own” (Hamburger v).
+Jaccottet’s notebooks—“l’écriture de l’intervalle entre deux moments de la poésie” (Dictionnaire
+365)36—enlist the reader in the process of filling those spaces. In La Semaison entries, separated
+by asterisks, are presented under the headings that signal the year and month during which they
+were recorded. However, the passing of time is hardly obtrusive. Entries are sporadic and the
+movement that takes center stage in La Semaison is the cyclical change of seasons.
+In his study of the poet, Philippe Jaccottet, le pari de l’inactuel, Hervé Ferrage remarks,
+‘‘Le temps cyclique, les rythmes saisonniers […] : tel semble être en effet l’horizon temporal de
+l’œuvre, la limite idéale vers laquelle est orientée toute une rêverie pacificatrice’’ (Ferrage
+110).37 The linear progression of historical time, in Jaccottet’s worldview, does a kind of
+arbitrary violence, senselessly reminding us of our own finitude. Only in this return to cyclic
+time, Ferrage recounts, does Jaccottet see the possibility of coming to terms with this painful
+reality:
+
+“… are nothing more than raw material offered “as is” to the reader. […] Noted on the spot,
+communicating a sense of immediacy, they are ultimately in recorded quest of preserving, in the midst of
+the framework of daily life, the odds of the occurrence of poetry. The deliberate discontinuity that
+characterizes this writing, its vivacity, which impedes easy-going, pacifying movement of “belle prose,”
+establishes instead a sense of tension that prolongs the very act of reading.” (Dictionnaire 365)
+36
+“A writing of the interval between two moments of poetry” (Dictionnaire 365)
+37
+“Cyclic time, seasonal rhythms […]: this seems to be, in effect, the temporal horizon of the ideal work
+towards which these dreams of bringing peace are oriented” (Ferrage 110).
+35
+
+71
+
+La conscience douloureuse que nous avons de notre finitude ne peut prendre sens,
+échapper à la malédiction de l’arbitraire et de l’absurde qu’à travers cette expérience
+intime du temps cyclique, ce qui suppose patience, décantation, communion avec le
+monde dans sa forme concrète saisonnière. […] Ainsi peut être établie une ultime
+continuité entre vivre et écrire, la vie comme l’écriture relevant d’une même réalité, celle
+d’un monde parfaitement centré où la répétition patiente des mêmes gestes défait toute
+tension, ou du moins en dénoue la violence. (Ferrage 111-112)38
+Thus, in part as a reaction to the horror and destruction he witnessed during his twenties in
+World War II, Jaccottet’s poetry makes a marked retreat from modernity back to the cyclic
+rhythms of the natural world and its seasons. For Jaccottet, discontinuity can only be made sense
+of through an intimate experience of time involving patience, attentiveness, and communion with
+the cycles of “the concrete world.” Moreover, Ferrage asserts here that such an experience
+depends on the assertion of a literary experience of the world, a continuity between writing and
+living that involves an experience of the world through language, through writing—that is,
+writing as a practice, a patiently renewed gesture.
+Ferrage writes, “Si les carnets de Jaccottet constituent un genre à part entier, c’est parce
+qu’ils se veulent recherche de cet idéal qu’il ne leur appartient cependant pas d’accomplir”
+(Ferrage 165).39 This comment resonates with many remarks about the notebook “genre”—or, to
+put it more equivocally, the notion of the “notebook-as-form.” Ferrage’s remark underscores the
+fact that Jaccottet explores, in the Carnets, a concern distinct from the ones which interest in his
+collections of prose poems. Nevertheless, we should see La Semaison and prose poems like the
+
+“Our painful consciousness of our own finitude cannot become meaningful, escape from the curse of
+the arbitrary and the absurd, except through an intimate experience of cyclic time that requires a settled
+patience and communion with the world in its concrete, seasonal form. […] So might we establish an
+ultimate sense of continuity between living and writing, life and writing relevant to the same reality, the
+reality of a perfectly centered world where the patient repetition of gestures dismantles tension or at least
+works to resolve its violence.” (Ferrage 111-112)
+39
+“If Jaccottet’s carnets constitute a genre of their own, it is because they are in search of an ideal not yet
+been accomplished.” (Ferrage 165)
+38
+
+72
+
+ones collected in Paysage avec figures absentes as two faces of the same project. Michael
+Hamburger writes,
+Prose and verse serve as alternate media for these epiphanies, and poems are offered as
+tentative vessels for them, too…tentative because what matters to Jaccottet everywhere is
+the epiphany, rather than the vessel, the medium. That is why he admits seeming
+impurities into his work, switches of tone and level that set him apart from some of his
+French coevals. (Hamburger iv)
+The notebook is a space that serves as a tentative register for these fleeting moments, and the
+importance of such instants of epiphany for Jaccottet elevates the notes that capture them from
+the status of a provisional, “impure” medium, permitting the abrupt reversals of register that, for
+Hamburger, set him apart from his contemporaries. But Ferrage seems to insist that Jaccottet’s
+carnet has aspirations that go beyond those of a mere-log book or receptacle for the fleeting
+impression, a medium for epiphany.
+If the notebook, as Ferrage suggests, constitutes a genre in its own right—if it is a form in
+search of an ideal that hasn’t yet been attained—it seems imperative to rearticulate Hamburger’s
+formulation of Jaccottet’s “tentative vessels” in a way that is more descriptive of this category of
+writing, the note, as distinct from the poem (or prose poem) despite the many affinities between
+these two forms.
+Jaccottet’s title and epigraph for his notebooks suggest a reformulation of the notion that
+epiphany is the origin of poetic creation. Seeds, too, are tentative vessels, except what they
+contain is not the trace of a fleeting impression but rather pure potentiality. Ariane Lüthi writes,
+La graine renvoie d’emblée à l’idée d’une certaine vitalité de la note : la graine pourra
+germer, pousser, et attendre longtemps avant de s’ouvrir et de se transformer. Elle
+symbolise les possibilités, le potentiel contenu dans ces petites capsules ; tout est en elle,
+mais son développement éventuel dépend de divers paramètres. Rien ne garantit sa
+fertilité, son épanouissement en fleurs ou en fruits, et la récolte est incertaine. (Lüthi
+253)40
+40
+
+The seed altogether sends us back to the idea of a certain vitality of the note : seeds germinate, sprout,
+and bloom only after a long period of expectation and transformation. They symbolize possibility,
+
+73
+
+The symbol of the seed aligns the note with a different kind of temporal horizon than the one
+suggested by the “tentative vessel” of the poem. The promise of the note is always in what it will
+accomplish—and, as Lüthi reminds the reader, it offers no guarantees. The tentative nature of the
+note is of a different order than that of the poem: What’s at stake is not the question of whether it
+will hold together, whether it will succeed, but rather whether it will develop, grow, blossom or
+bear fruit.
+Lüthi acknowledges that it seems quite logical to map the instantaneous, the epiphanic,
+onto the note-as-form. She writes,
+Les affinités entre la note et l’instant dans leur brièveté, fugacité et légèreté—laquelle
+sera pourtant le plus souvent ressentie comme une sensation de plénitude et de
+profondeur—sont manifestes. Mais peut-on aller jusqu’à réduire l’essentiel de la création
+poétique à une suite d’instants discontinus, à une reprise d’éclaircissements plus ou
+moins répétitifs—bien que variés—intervenant par intervalles ? (Lüthi 232)41
+It seems quite natural to map the note-as-form onto the epiphanic instant, as though a one-to-one
+correspondence existed between the two—as though we could take the note as a representative
+trace of that moment in which its author experienced a fleeting sense of “depth and plenitude,”
+but Lüthi wonders whether or not poetic creation can be reduced to a series of discontinuous
+instants. I see her question, “Mais peut-on aller jusqu’à réduire l’essentiel de la création poétique
+à une suite d’instants discontinus, à une reprise d’éclaircissements plus ou moins répétitifs—bien
+que variés—intervenant par intervalles?” as implicitly reprising a question that Jaccottet asks of
+
+potential contained in small capsules, but their eventual development depends on diverse factors. Nothing
+can guarantee the seed’s fertility, its blossoming in fruits or flowers, and the harvest is always uncertain.
+(Lüthi 253)
+41
+“The affinities between the note and the “instant” in their brevity, ephemerality, and lightness—that
+which is so often felt a a sensation of richness and profundity—are obvious. But can one reduce the
+essence of poetic creation to a series of discontinuous instants, the intervention of various revelations,
+more or less repetitively reprised, at intervals?” (Lüthi 232)
+
+74
+
+himself in La Semaison ‘‘Mais comment passer de certaines notes poétiques au poème ?’’(La
+Semaison 47).42
+In the passage in which Jaccottet poses this question, he raises a distinction between the
+“poème-instant” and the “poème-discours” Toward the end of a long series of entries dated
+“1960, Mars,” he writes,
+Mais comment passer de certaines notes poétiques au poème ? La voix retombe trop vite.
+Il y a une difficulté intéressante dans l’opposition entre le poème-instant (celui de l’
+Allegria d’Ungaretti) et le poème-discours qui a toujours été le mien, tel un bref récit
+légèrement solennel, psalmodié à deux doigts au-dessus de la terre. 43
+Jaccottet’s question is framed on either side by an opposition between the « poème-instant » and
+the “poème-discours”. The difficulty of passage between these two categories is underlined by
+his regretful admission, “La voix retombe trop vite”—this passage demands a special kind of
+effort, the effort of sustaining speech or breath, of giving voice. But what exactly do these two
+categories represent and how does Jaccottet map them on to the distinction between notes
+towards a poem and the poem itself? Jaccottet describes the “poème-instant” by recalling
+Ungaretti’s Allegria, but describes the “poème-discours” much more suggestively: the “poèmediscours” is something psalmodied, a song that seems to have the quality of a narrative,
+something solemn but only lightly so, and something that lingers “à deux doights au-dessus de la
+terre”—something unmoored, perhaps detached, floating just above the earth. It is for this form
+that Jaccottet suggests he possesses a real affinity. Or perhaps what Jaccottet is saying “a
+
+“But how do you proceed from a number of ‘notes toward a poem’ to the poem itself?” (Seedtime 21).
+But how do you proceed from a number of “notes towards a poem” to the poem itself ? The voice falls
+back too soon. There is an interesting problem in the opposition between the poem-instant (Ungaretti’s
+Allegria) and the poem-discourse that has always been mine, like a slightly solemn story, psalmodied just
+above the earth. How do you convey feelings, how do you establish a fragile equilibrium, something not
+unlike a glass column, or even a column made of water, resting on the void? You lean on the poem itself,
+a brittle support, half treacherous. It shines and crashes: a waterfall heard at night. The poem confused
+with its object. (Seedtime 21)
+42
+43
+
+75
+
+toujours été le mien” is really the problem of the opposition between these two states: rather than
+belonging to one side of the question or the other, Jaccottet lingers in the complex space
+between.
+Earlier in La Semaison, a 1959 entry dated “Octobre” seems to anticipate this
+questioning. At the beginning of this entry, Jaccottet makes an explicit attempt to situate himself
+(and his reader) in the temporal space that we may, perhaps, refer to as the “poème-instant.” He
+writes,
+Voici que maintenant l’or vire au rose, et que le vert des champs, des arbres,
+foncé, passé du vert jaune au vert bleu. Flèches du vent. La route a la couleur de l’eau, de
+l’ardoise. Quelques nuages sont déjà comme de la fumée. Intimité de la lumière dans la
+chambre, sur le papier blanc qui à son tour est devenue presque rose. Une enveloppe
+d’ombre sur les livres, les objets. Rien que le bruit du vent et des paroles.
+Bientôt la nuit empêchera d’écrire sans lampe. Le jour n’habite plus que l’extrême
+hauteur du ciel. Nous tournons le dos au soleil. (La Semaison 19-20)44
+The very first sentences of this entry offer an expansive view—Jaccottet sketches a landscape at
+dusk, noting the soft transformations light is working on its trees and fields, which pass from
+“vert jaune au vert bleu,” and the softening lines of the road, which has turned “la couleur de
+l’eau.” Even clouds begin to lose their distinctness. However, Jaccottet turns away from the
+expansiveness of this landscape view—turns inward, towards the scene composition. It is as
+though his attention is directed by the very fading of the light, which suffuses the page before
+him, “qui a son tour est devenue presque rose.” As Jaccottet marks the fading of light—from his
+page, from the room where shadows envelop his books and things—he seems to brush up against
+the present moment almost vertiginously—recalling Georges Perec’s mise en abîme, “Still
+
+44
+
+“Now gold turns to pink, and the green of the fields, trees, grows darker; change from yellow to blue
+green. Arrows of the wind. The road has the color of water, slate grey. A few clouds look like smoke,
+already. Intimacy of light in the room, on the white paper that has grown almost pink in its turn. Books,
+objects in a sheath of shadow. The sound of the wind and words; nothing else.
+Night will soon make writing without a lamp impossible. Day lives on the highest peak of the sky
+only. We turn our backs to the sun” (Seedtime 5).
+
+76
+
+Life/Style Leaf.” But in this case, the writer’s field of vision is increasingly limited by darkness,
+objects are losing their contours and soon it will no longer be possible to write without a lamp:
+“Nous tournons le dos au soleil.” The fading of light creates a peculiar space around this scene
+where there is nothing, Jaccottet writes, “que le bruit du vent et des paroles”—a space without
+images, where the visible is muted and fleeting and all that remains is the breath of the wind and
+“des paroles”—a word which in French means words, but suggests speech; words perhaps
+spoken aloud.
+As day rounds the corner into night, Jaccottet observes,
+Nuages mauves, lilas. Papier presque bleu. Un feu qui s’éteint. Je ne vois presque
+plus les mots.
+De l’autre côté c’est encore de l’or. Tandis qu’à l’est le bleu gagne. Or-argent.
+Jour-nuit.
+Élever une fois de plus l’ornement sur la nuit, l’abîme. Ornement rêvé : à la fois
+savant et musical, ferme et sourd, vaste et caché. Modèles : Hölderlin, Leopardi, quelques
+poèmes de Baudelaire.
+Mouvement aisé dans l’immense. Oiseaux. Autres exemples, les plus beaux peutêtre, chez Dante: Dolce color d’oriental zaffiro… Mais aujourd’hui plus de thomisme, de
+nombres sacrés, etc. Solitude, abandon, menaces, et d’autant plus doux le saphir.
+Réserves (absurdes bien sûr !) : sur les allégories et les pensées de Leopardi, la
+tension de Hölderlin, les attitudes de Baudelaire. 45
+Nightfall seems to deliver Jaccottet into a new moment, a space of contemplation, and a different
+kind of discourse. Distinctions between “Or-argent” and “Jour-nuit” have collapsed, and we have
+lost track of the “instant,” and Jaccottet’s writing becomes allusive, abstracted, and synthetic, as
+he makes leaps among texts by Dante, Baudelaire, and Leopardi. This is a different meta45
+
+Purple clouds, lilac. Paper almost blue. A fire that goes out. I can’t see the words any more,
+
+almost.
+Still gold on the other side, but the blue wins in the east. Gold-silver. Day-night.
+Raise the jewel above the night once more, above the abyss. Dream-jewel: learned and musical in one,
+solid and mute, vast and hidden. Models: Hölderlin, Leopardi, a few poems by Baudelaire.
+Movement is easy in the infinite. Birds. Other examples, the most beautiful maybe, in Dante:
+Dolce color d’oriental zaffiro…But no Thomism left, these days, no sacred numbers, etc. Lonliness,
+resignation, threats, and the sapphire so much sweeter.
+Reservations (absurd, of course): Leopardi’s thoughts and allegories, the tension in Hölderlin,
+Baudelaire’s poses. (Seedtime 5)
+
+77
+
+reflection on the practice of the notebook from what we saw earlier, where Jaccottet was
+recording the literal passage of fading light across his page. Now, Jaccottet’s preoccupation
+seems to have turned from the process of writing to the process of reading. Here he introduces a
+new gesture: “Élever une fois de plus l’ornement sur la nuit, l’abîme.” His prose itself becomes
+ornamented with allusions to the poetry of his models—he dreams of a gesture at once « savant
+et musical, ferme et sourd, vaste et caché.” The “poème-instant” seems to hover against the dark
+background of immensities, abysses, like a lifted jewel; like a star. The process of reading, for
+Jaccottet, nevertheless remains a self-conscious moment, an interrogation as well as reflection: it
+is with lingering reserve that he contemplates the notion of “mouvement aisé dans l’immense.”
+This entry concludes with a re-valuation of that gesture—lifting up a jewel against the
+night—that seems to define the “poème-instant,” that luminous interruption of the “poèmediscours,” for Jaccottet. There must be a different model, he concludes:
+Autre chose devrait être tenté peut-être, où trouvent accord non pas paisible, mais vivant,
+légèreté et gravité, réalité et mystère, détail et espace. L’herbe, l’air. Des entrevisions
+infiniment fragiles et belles—comme d’une fleur, d’un joyeau, d’un ouvrage d’or—
+situées dans l’extraordinaire immensité. Astres et nuit. Discours vaste et fluide, aéré, dans
+lequel peut prennent place avec discrétion les joyaux de langage. Comme ce qui apparaît
+aussi, de loin au loin, dans la brume. Ou alors on est penché sur une besogne modeste, et
+soudain on se rappelle la profondeur de l’espace et du temps.46
+Perhaps, Jacccottet seems to be suggesting, this model needn’t be so grand : something else
+could be envisioned or attempted. On the one hand, you have “Discours vaste et fluide, aéré,
+
+46
+
+Something else ought to be tried, maybe, where light and heavy, reality and mystery, detail and
+space enter into harmony, not peaceful, but alive. Grass, air. Glimpses infinitely fragile and beautiful—as
+of a flower, a gem, a golden artifact—placed in the extraordinary immensity. Stars and night. Discourse
+vast and liquid, airy, in which gems of language take their place, discreetly. It appears in the mist, at
+times, far away. Or else you perform some menial task, and suddenly remember the depths of space and
+time. (Seedtime 4-5)
+46
+How do you convey feelings, how do you establish a fragile equilibrium, something not unlike a glass
+column, or even a column made of water, resting on the void? You lean on the poem itself, a brittle
+support, half treacherous. It shines and crashes: a waterfall heard at night. The poem confused with its
+object. (Seedtime 21)
+
+78
+
+dans lequel peut prennent place avec discretion les joyaux de langage.” On the other hand, could
+it be that something equally precious might present itself in a more humble setting? “Ou alors on
+est penché sur une besonge modeste, et soudain on se rappelled la profondeur de l’espace et du
+temps.” That modest task might well be the keeping of a notebook. Ariane Lüthi reflects,
+L’écriture régulière de la note apparaît donc comme un exercice de spontanéité : le poète
+y cultive son attention, que l’on peut appréhendre comme forme d’étude—des variations
+ou improvisations—pour l’état de disponibilité nécessaire aussi à l’émergence du poème.
+(Lüthi 237)47
+In some ways, the conclusion of this entry seems to anticipate and even suggest answers for the
+questions Jaccottet finds himself asking several months later. The question of how to move from
+notes toward a poem to the poem itself seems to be addressed by a practice of constantly
+preparing oneself for it—a preparation that consists of the most humble and repetitive of tasks.
+Then, in the midst of this “modeste besogne,” the “poème-instant” mysteriously arrives—one
+recalls the depth of space and time.
+Jaccottet’s questioning forges ahead, however, prolonging the tension between these two
+moments of the “poème-instant” and the “poème-discours.” In the close of his 1960 entry, he
+poses another question:
+Comment faire sentir, fixer un équilibre fragile, quelque chose d’analogue à une colonne
+de verre, ou même d’eau, s’appuyant sur du vide ? On s’appuie sur le poème lui-même, et
+c’est un frêle appui, partiellement trompeur. Il brille et s’écroule : cascade entendue la
+nuit. Confusion du poème et de son objet. (La Semaison 47)48
+
+47
+
+The regular writing of notes thus appears to be an exercise in spontaneity : the poet cultivates his
+attention, something that can be learned like an object of study—through variations and improvisations—
+in order to achieve the particular state of availability necessary for the emergence of a poem. (Lüthi 237)
+48
+But how do you proceed from a number of “notes towards a poem” to the poem itself ? The voice falls
+back too soon. There is an interesting problem in the opposition between the poem-instant…and the
+poem-discourse that has always been mine, like a slightly solemn story, psalmodied just above the earth.
+How do you convey feelings, how do you establish a fragile equilibrium, something not unlike a glass
+column, or even a column made of water, resting on the void? You lean on the poem itself, a brittle
+support, half treacherous. It shines and crashes: a waterfall heard at night. The poem confused with its
+object. (Seedtime 21)
+
+79
+
+Jaccottet’s poetics of the notebook is the strange thing that treacherously supports this
+question—you have to lean on it, despite its fragility. And it supports itself, Jaccottet suggests,
+like a “cascade entendue la nuit,” a cascade of water that in the dark might take on the quality of
+something solid, a confused wash of sound—“Confusion,” Jaccottet writes, “du poème et son
+objet.” This problem, “comment faire sentir”—how to convey feelings—is perhaps the central
+question at stake in the lyric tradition. Certainly, as we have seen, it is the one that preoccupies
+William Wordsworth. Jaccottet conveys it as the problem of establishing a fragile equilibrium.
+The writings in La Semaison, cumulatively, are all tending towards that delicate point, as they
+prolong and extend but never un-do the tension that knits together the “poème-instant” and the
+“poème-discours.”
+
+80
+
+CONCLUSION
+Throughout my work on this project, I’ve been haunted by two essays about Dorothy
+Wordsworth and her journals, the first by Elizabeth Hardwick from Seduction and Betrayal, and
+the second by Virginia Woolf, from The Second Common Reader. Both of them convey a
+remarkable sense of this woman; both seem to be written out of a desire to know her, to imagine
+what she must have wanted and what she must have felt, but despite each writer’s sympathetic
+attitude toward their subject, they seem unable to articulate a possibility for understanding
+Dorothy Wordsworth as a figure distinct, in her life or her work, from her brother William. The
+towering stature of her sibling and the uncertain status of the luminous prose recorded in her
+journals—which often served as a repository for William’s poetic work—make Dorothy
+Wordsworth a difficult starting point, but I began this project with the following question in
+mind: How to describe the “poetic” project that seems to grow out of Dorothy Wordsworth’s
+journals? In my research, I was looking for a vocabulary that would help me talk about these
+journals as literary works in their own right, texts that could stand alongside William
+Wordsworth’s poetry.
+I have proposed revisiting Dorothy Wordsworth’s journals through the lens of a “poetics
+of the notebook.” The notebook occupies an ambiguous territory between theory and practice—it
+is the space in which the “work” of writing takes place. Reading Philippe Jacottet’s La Semaison
+helped me refine my understanding of what a poetics of the notebook might mean. Jaccottet’s
+body of work integrates writing of poetry with the practice of keeping a notebook, and the
+question he poses—“Mais comment passer de certaines notes poétiques au poème?”—suggests
+to me that what has really been at stake in my investigation has been an attempt to articulate the
+relation between William Wordsworth’s poetry and Dorothy Wordsworth’s journals.
+
+81
+
+That relationship is at the core of this project: William’s poetry, Dorothy’s journals, and
+the complicated terrain where these bodies of work overlap, the shared space that uneasily
+straddles the boundaries we conceive of as separating life and the literary work. Dorothy
+Wordsworth’s journals expose the obverse of William Wordsworth’s poetry, calling upon us to
+challenge the mythic qualities of a poetics that insists, problematically, that “all good poetry is
+the spontaneous overflow of powerful feelings” (Works 598) with the proviso that “it takes its
+origin from emotion recollected in tranquility” (Works 611).
+In an article about Jaccottet’s La Semaison, Carrie Noland writes,
+The “Carnet” forces the conventions of the lyric tradition to a point of crisis by
+foregrounding the inherent contradictions of a poetic idiom desiring simultaneously to
+reassemble and immobilize on the one hand, and to draw attention to the work of writing
+on the other. (Noland 80)
+When we read William Wordsworth’s poetry alongside his sister’s journals, we suddenly seem to
+come much closer to the ‘crisis’ point of the lyric tradition than, perhaps, Wordsworth himself
+realized. Though the project he frames in the “Preface” to Lyrical Ballads is that of poetic
+experiment, its risk is contained in a myth of return and a language renovation—its work is the
+work of correcting and purifying, returning the lyric form to what it truly is and should be, “the
+image of man and nature” (Works 605). In La Semaison, Jaccottet makes the risk that the lyric
+might be irreparably broken, entering or on the verge of entering into precisely the state of crisis
+Carrie Noland describes, very plain. Jaccottet is acutely aware of the tension between the two
+signal gestures around which La Semaison is structured: sowing and harvesting; gathering and
+dispersing.
+
+Perhaps what threatens poetry when the lyric tradition is at a point of crisis is the antipoetical. Dorothy Wordsworth’s journals certainly contain much that is not poetry—accounts
+
+82
+
+ofhousehold tasks, physical ailments, all the trivial, banal, even irritating minutiae of the
+quotidian—and we must surmise that her writing life was under constant threat of interruption
+and was ultimately curtailed by the demands of domestic life. So does La Semaison contain
+innumerable descriptions of everyday landscapes: such a profusion of autumnal twilights and
+spring mornings exposes the toil of writing itself and risks banality.49 But, as Jaccottet writes,
+“Autre chose devait être tenté peut-être…on est penché sur une besogne modeste, et soudain on
+se rappelle la profondeur de l’espace et du temps” (La Semaison 20).50
+Though he exposes—or dwells very near to—the inherent contradictions of the lyric
+tradition (that it seeks to “reassemble and immobilize” (Noland 80) even as it exposes and
+inhabits the moment in which that process of reconstruction takes place), Jaccottet never
+abandons its central concerns. Like William Wordsworth, he is unable to let go of the question
+“Comment faire sentir, fixer un équilibre fragile…?” (La Semaison 47).51 How do you convey
+feelings? This is the question Wordsworth tries and, as I have shown, fails to answer in Essays
+upon Epitaphs—the best he can do is to insist that such communication does happen, for without
+the conveyance of feelings through some “subtle process,” “such a hollowness would pervade
+the whole system of things, such a want of correspondence and consistency, a disproportion so
+astounding betwixt means and ends, that there could be no repose, no joy” (Prose Works 52.9398). Likewise, the note on which Jaccottet ultimately falls is this: “Confusion du poème et de son
+objet” (La Semaison 47).52 The continuity between the poem and its object is the result of a
+confusion that has to be maintained, as in a fragile equilbrium.
+
+49
+
+The obvious interlocutor for Jaccottet here is Francis Ponge.
+“Something else ought to be tried, maybe… you perform some menial task, and suddenly remember the
+depths of space and time” (Seedtime 5)
+51
+“How do you convey feelings, how do you establish a fragile equilibrium…?” (Seedtime 21)
+52
+“The poem confused with its object” (Seedtime 21)
+50
+
+83
+
+As a hybrid form, the notebook both prolongs and embodies that search for a fragile
+equilibrium at the heart of the lyric tradition. If the “poetics of the notebook” offers a new lens
+for understanding Dorothy Wordsworth’s journals, it’s clear that the project of carving out space
+for her work alongside William Wordsworth’s poetry is not enough—the real task will be to
+appreciate how her writings propel our inquiry into the hopes and limits of the lyric tradition
+forward, and contribute to our understanding of the unfolding of a history of poetry.
+
+84
+
+WORKS CITED
+Alexander, Meena. “Dorothy Wordsworth: the grounds of writing.” Women’s Studies 14
+(1998):195-210. EBSCO. Web. 20 Jan. 2014.
+Barthes, Roland. Le Bruissement De La Langue. Paris: Seuil, 1984. Print.
+—. The Rustle of Language. trans. Richard Howard. New York: Hill and Wang, 1986. Print.
+Brownstein, Rachel Mayer. "The Private Life: Dorothy Wordsworth's Journals." Modern
+Language Quarterly 34.1 (1973): 48-63. Academic Search Premier. Web. 29 Apr. 2014.
+Cardonne-Arlyck, Elisabeth. « Mind Your Tongue : Autobiography and New French Lyric
+Poetry. » New Literary History 33.3 (2002): 581-601. JSTOR. Web. 12 Dec. 2013.
+Combe, Dominique. “La référence dédoublée: Le sujet lyrique entre fiction et autobiographie.’’
+Figures du sujet lyrique. Comp. Dominique Rabaté. Presses Universitaires de France,
+2001. 39-63.
+de Man, Paul. “Autobiography as De-facement.” MLN 94.5 (1979): 919-30. JSTOR. Web. 12
+Dec. 2013.
+De Quincey, Thomas. Reminiscences of the English Lake Poets. London : J.M. Dent & Sons Ltd,
+1961.
+Ferrage, Hervé. Philippe Jaccottet, le pari de l’inactuel. Littératures Modernes, Presses
+Universitaires de France. Paris : 2000.
+—. "Jaccottet, Philippe." Dictionnaire de poésie de Baudelaire à nos jours. Ed. Michel Jarrety
+and Yves Bonnefoy. Paris: Presses universitaires de France, 2001. 363-67. Print.
+Gittings, Robert and Jo Manton. Dorothy Wordsworth. Oxford: Oxford UP, 1988. Print.
+Hamburger, Michael. Preface. Landscapes with Absent Figures. By Philippe Jaccottet. Trans.
+Mark Treharne. London: Delos Press/Menard Press, 1997. iii-v. Print.
+Hardwick, Elizabeth. “Dorothy Wordsworth.” Seduction and Betrayal: Women and Literature.
+Homans, Margaret. Women Writers and Poetic Identity. Princeton: Princeton UP, 1980. Print.
+Jaccottet, Philippe. La Semaison: Carnets (1954-1979). Paris: Gallimard, 1984. Print.
+—. Seedtime (La Semaison) : Extracts from the Notebooks, 1954-1967. Trans. Michael
+Hamburger and André Lefevere. New York: New Directions, 1977. Print.
+—. Landscape with Absent Figures. Trans. Mark Traherne.
+
+85
+
+Levin, Susan. Dorothy Wordsworth and Romanticism, Revised Edition. Jefferson, North
+Carolina: McFarland & Company, Inc, 2009. Print.
+Lüthi, Ariane. Pratique t Poétique De La ote hez eor es Perros t Philippe Jaccottet.
+Paris: Éditions du Sandre, 2009. Print.
+Met, Philippe. “Fausses notes: Pour une poétique du carnet.” French Forum 37.1-2 (2012) : 5367. Project MUSE. Web. 12 Dec. 2013.
+Michaud, Ginette. "Fragments, journaux, carnets: Prendre tout en note, noter le rien." Urgences
+31 (1991): 67-84. Érudit. Web. 14 Apr. 2014.
+Perkins, David. Wordsworth and the Poetry of Sincerity. Cambridge: Harvard University Press,
+1964. Print.
+Wordsworth, Dorothy. The Grasmere and Alfoxden Journals. Ed. Pamela Woof. Oxford: Oxford
+University Press, 2002. Print.
+Wordsworth, Jonathan, M. H. Abrams, and Stephen Gill. Preface. The Prelude, 1799, 1805,
+1850: authoritative texts, context and reception, recent critical essays. Ed. Jonathan
+Wordsworth and M. H. Abrams. New York: Norton, 1979. N. pag. Print.
+Wordsworth, William “Essays upon Epitaphs.” The Prose Works of William Wordsworth. Ed.
+W.J.B. Owen and Jane Worthington Smyser. Voll. 2. Oxford: Clarendon Press-OUP,
+1974. 45-122. Print.
+Wordsworth, William. William Wordsworth: The Major Works. Ed. Stephen Gill. Oxford:
+Oxford University Press, 1984. Print.
+Woolf, Virginia. “Dorothy Wordsworth.” The Second Common Reader. New York: Harcourt,
+Brace, Jovanovich, 1960. Print.
+Woof, Pamela. “Dorothy Wordsworth as a Young Woman.” Wordsworth Circle 38.3 (2007):
+130-138. EBSCO. Web. 20 Jan. 2014.
+—. "The Uses of Notebooks: From Journal to Album, Commonplace to Keepsake."
+Coleridge Bulletin ns 31 (2008): 1-18. The Friends of Coleridge.
+Web. 29 Apr. 2014.
+
+

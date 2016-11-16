@@ -1,0 +1,2441 @@
+Bard College
+
+Bard Digital Commons
+Senior Projects Spring 2015
+
+Bard Undergraduate Senior Projects
+
+2015
+
+Twitterature: New Dimensions of Literature in the
+Age of Social Media
+Yishu Mao
+Bard College
+
+Recommended Citation
+Mao, Yishu, "Twitterature: New Dimensions of Literature in the Age of Social Media" (2015). Senior Projects Spring 2015. Paper 68.
+http://digitalcommons.bard.edu/senproj_s2015/68
+
+This On-Campus only is brought to you for free and open access by the
+Bard Undergraduate Senior Projects at Bard Digital Commons. It has been
+accepted for inclusion in Senior Projects Spring 2015 by an authorized
+administrator of Bard Digital Commons. For more information, please
+contact digitalcommons@bard.edu.
+
+i
+
+Twitterature:
+New Dimensions of Literature in the Age of Social Media
+Senior Project Submitted to
+The Division of Languages and Literature
+of Bard College
+
+by
+Yishu Mao
+Annandale-on-Hudson, New York
+April 2015
+
+ii
+
+iii
+
+iv
+
+For Maria
+
+v
+
+Content
+Acknowledgement vi
+Introduction 1
+1 The Text Without The Author: Twitter’s Algorithmic Poetry 12
+2 The Web of Time and Space: Tweeted Serials 32
+3 “Twitterature” and “Digiteracy” 54
+Conclusion 81
+Afterword 84
+Bibliography 86
+Appendix 91
+
+vi
+
+Acknowledgement
+Writing this project has been an epic journey, and thankfully I have never been
+alone. I would never start this journey without all the support from my parents Xuefeng
+Mao and Xiaoping Hu. They let me pursue the subject that I truly love—literature, and I
+hope this project will make them proud of me.
+This project is a culmination of many classes I have taken in the past four years.
+My thanks go to those professors who have offered me invaluable inspiration: Maria
+Sachiko Cecire, Stephen Graham, Robert J. Culp, Lianne Habinek, Robert W. McGrail,
+Alex Benson, Deirdre d’Albertis, Adhaar Noor Desai, and Matthew Mutter.
+I am very grateful towards two extraordinary writers who accepted my interviews:
+Teju Cole and Jennifer Egan.
+I also want to thank all my friends who have been there with me throughout the
+four years, and I can never thank enough those who have offered me kind help in many
+ways: Jorge Cortes Martinez, Myat Su San, Ester Gjoni, Yinette Ortiz, Akshita Bhanjdeo,
+Yu Qiu, Xingye Zhang, Dan Xu and Christiane Koffi.
+The last three weeks finishing this project was one of the toughest period. Besides
+my friends above, I want to thank Stefan Kellat who took my tears, Meilin Grey who
+gave me sweet encouragement, and Rongfeng Chen who was waiting for me in the end of
+the journey. Lastly, I want give my special thanks to Maria and Gabriel, without them I
+can never complete this journey to come back “home.”
+
+vii
+
+Figures
+Figure 1
+Screen shot, Tweet, @jack
+
+6
+
+Figure 2
+Screen shot, Tweet, @john34239
+
+19
+
+Figure 3
+Screen shot, Tweet, @HaikuD2
+
+20
+
+Figure 4
+Screen shot, Tweet, @Pentametron 24
+Figure 5
+Screen shot, Tweet, @Pentametron 26
+Figure 6
+Screen shot, Tweet, @Pentametron 30
+Figure 7
+Screen shot, “See what's happening right now,” Twitter
+Figure 8
+Screen shot, Tweet, @nprnews
+
+36
+
+Figure 9
+Screen shot, Tweets, @NYerFiction 42
+Figure 10
+Screen shot, Tweets, @david_mitchell
+
+46
+
+Figure 11
+Screen shot, Tweets, @david_mitchell
+
+47
+
+Figure 12
+Screen shot, “Trends,” Twitter
+
+50
+
+Figure 13
+Screen shot, Tweets, @MatthewBattles
+
+51
+
+35
+
+viii
+
+Figure 14
+Screen shot, Tweets, @atrubek
+
+52
+
+Figure 15
+Screen shot, Tweets, @MatthewBattles
+
+52
+
+Figure 16
+Screen shot, Tweets, @apieceofthewall
+
+57
+
+Figure 17
+Screen shot, Tweets, @neilhimself
+
+60
+
+Figure 18
+Screen shot, Tweets, @taupefox59
+
+61
+
+Figure 19
+Screen shot, Tweets, @LITclock
+
+69
+
+Figure 20
+Screen shot, Tweets, @Benjamin_Percy
+
+70
+
+Figure 21
+Screen shot, Tweets, @Benjamin_Percy
+
+73
+
+Figure 22
+Screen shot, When someone says YOLO, Tumblr
+Figure 23
+Screen shot, Tweets, @Benjamin_Percy
+
+77
+
+Figure 24
+Screen shot, Tweets, @Benjamin Percy
+
+78
+
+75
+
+1
+
+Introduction
+Very few people would doubt that the technology of print has revolutionized
+language by materializing it on papers, and after five hundred years since the intention of
+printing technology, many scholars such as Febvre and Martin1 were confident to
+pinpoint how exactly had printing technology significantly influenced all aspects of our
+society. Similarly, for the questions proposed by the technology of electricity, there were
+also scholars like Marshall McLuhan who provided wise answers. However, facing the
+rapid development of World Wide Web since the second half of twentieth century, despite
+all the discussions and speculations initiated, the academia still seems to be a ship sailing
+amid the mist, uncertain about how exactly has the technology changed our society and
+how it will continue these changes. While World Wide Web’s influence on the realm of
+communication is immense and well analyzed, its influence on the literary world in
+specific is rather subtle and often overlooked.
+“The medium is the message,” Marshall McLuhan has indoctrinated us 50 years
+ago that,
+…the message of any medium or technology is the change of scale or pace or
+pattern that it introduces into human affairs. The railway did not introduce
+movement or transportation or wheel or road into human society, but it
+accelerated and enlarged the scale of previous human functions, creating totally
+Authors of The Coming of the Book: the Impact of Printing 1450-1800, a comprehensive
+history about the social impacts of printing technology and the coming of the book.
+1
+
+2
+new kinds of cities and new kinds of cities and new kinds of work and leisure…
+Whether the light is being used for brain surgery or night baseball is a matter of
+indifference. It could be argued that these activities are in some way the “content”
+of the electric light, since they could not exist without the electric light. This fact
+merely underline the point that,“the medium is the message” because it is the
+medium that shapes and controls the scale and form of human association and
+action. The content or uses of such media are as diverse as they are ineffectual in
+shaping the form of human association. Indeed, it is only too typical that the
+“content” of any medium blinds us to the character of the medium. (McLuhan, 89)
+By using the examples of railway and electric light, McLuhan demonstrates to us the
+relation between the medium and its content. Regardless of the difference in the materials
+that are transmitted by different media, he argues that the commonality shared by all of
+them is “the change of scale or pace or pattern that it introduces into human affairs.” It
+seems apparent that the railway transports people and materials; it seems not so apparent
+that electric light transmits the essential things that we need for a brain surgery and a
+night baseball game; however, they both change the ways in which we interact and
+communicate with other people, and thus the most important contents of them are these
+social changes and how we perceive these social changes. The characteristics of a
+medium itself are the most important messages for human society.
+Although the doctrine “The medium is the message” is claimed by McLuhan 50
+years ago and it was mostly alleged upon the examples of early electronic media such
+telephones, televisions and early computers, it still serves invaluable guidance for us to
+understand the new media that have come into existence in our age—the digital age. In
+the past decades the Internet has developed rapidly and became the essential element to
+complement electronic media. Especially after we stepped into the age of Web 2.0 which
+
+3
+is defined by the interactivity among the web users2, various social media platforms have
+caused profound influences on the ways in which people communicate with each other.
+Since literature is considered the most marvelous result of human being’s deep desire to
+communicate with each other, it is not a surprise that the influence of social media also
+extends to the field of literary production. Inspired by McLuhan’s motto, this project aims
+to analyze the intersection between social media and literature—specifically, the
+intersection between Twitter and literature.
+
+Why Twitter?
+
+However, before I go any further, I have to firstly address the question why
+among numerous social media platforms I only choose to analyze the influence of Twitter
+on literature? The first and most apparent answer is Twitter’s characteristic as a textbased platform. Facebook is a good choice for people who want to accumulate relations
+and connections through the use of multimedia3; Instagram and Pinterest are visual
+
+The concept of "Web 2.0" began with a conference brainstorming session between O'Reilly and
+MediaLive International in 2001, when the bursting of the dot-com bubble in the fall made many
+people concluded that the web needs a transition. While many characters of Web 2.0 is attempted
+to be defined here: http://www.oreilly.com/pub/a/web2/archive/what-is-web-20.html,
+interactivity is the key element.
+2
+
+“Twitter is less about social friendships. People make connections on Facebook with friends,
+family members, and other people that they care to keep in touch with. Twitter allows people to
+follow important topics, people, and conversations that are relevant or interesting to them. It's a
+much more detached connection.” Visualscopestudios. Web. 6 Feb. 2015. <http://
+www.visualscope.com/ twitfb.html>.
+3
+
+4
+loaded while the latter especially has a predominant female consumer body4. For Youtube
+and Vimeo, videos are the backbones. Although Twitter has added functions of image and
+video sharing over the past few years, the major form of communication on the platform
+remains textual. Therefore, it is reasonable that Twitter is the preferred choice for many
+people who are interested in conducting literary experiments, and it should be the start
+point for us to analyze the relation between social media and literature.
+Moreover, it should be said that even a quick skimming of the existing social
+media technologies reveals that their diversity is beyond my individual capacity to
+analyze. Therefore, rather than giving an exhaustive list and aiming for quantity, I decide
+to pursue a qualitative in-depth survey of Twitter and its intersections with literature—a
+genre that has been given the name “Twitterature.” With that being said, I believe that
+other social media with their different focuses will be examined by other specialists. For
+example, David Kirkpatrick has written a book titled The Facebook Effect: The Inside
+Story of the Company That Is Connecting the World to trace the history of the Facebook’s
+development and the privacy issues surrounding the platform; TIME magazine has
+published an article in attempt to decode the “secret language” of girls on Instagram5, and
+Alexandra Juhasz, a professor of Media Studies at Pitzer College has published a video-
+
+4
+
+Yu, Jim. "Facebook, Twitter or Instagram: Determining the Best Platform for
+Mobile Marketing." entrepreneur.com. Ed. Ray Hennessey. Entrepreneur Media,
+Inc., n.d. Web. 6 Feb. 2015. <http://www.entrepreneur.com/article/
+231446>.
+
+5
+
+"Rachel Simmons." TIME 10 Nov. 2014: n. pag. TIME. Web. 7 Feb. 2015.
+<http://time.com/3559340/instagram-tween-girls/>.
+
+5
+book Learning from YouTube6 to investigate many questions that are evolved around
+YouTube. Indeed, collaboration is the spirit of Web 2.0, and the study of it can as well be
+a collaborative project.
+Lastly, although I will focus on the specific genre of Twitterature in this project, I
+should contextualize it into the larger genre—electronic literature—in the very beginning.
+Besides the form of Twitterature, electronic literature includes many other forms such as
+hypertext fiction, interactive fiction, literary performances online that develop new ways
+of writing and etc. There is no doubt that they all make their own significant
+contributions to the development of literature in the digital age. However, I believe that
+the platform of Twitter not only embodies most of the characters of these sub-genres of
+electronic literature, but also stands out for the limit it imposes on the act of writing. The
+co-founder of Twitter Biz Stone believes that, “Creativity comes from constraint”
+(Zinko). Indeed, the 140-character limitation forces people to think about how to
+effectively convey themselves with aspects of writing other than length, and numerous
+innovations have been made under these circumstances. Therefore, I hope my in-depth
+and focused analysis about Twitterature will not only offer insightful peep into the whole
+genre of electronic literature, but also serve as a demonstration of human beings’
+brilliance in producing arts.
+
+6
+
+See http://mitpress.mit.edu/books/learning-youtube-0
+
+6
+What is Twitter?
+Before the analysis of Twitterature, a brief history of Twitter and a description of
+how it functions maybe useful for readers who are not familiar with the platform. Twitter
+was founded in 2006 and the following tweet posted by Jack Dorsey, the co-founder of
+Twitter on March 21, 2006 is the first tweet in the world:
+
+Figure 1. Screen shot, Tweet, @jack
+
+Back then the platform was called “twttr,” and it was designed as an application for
+mobile phones. Built upon the technology of Short Message Service (SMS) and blogging,
+the product requires users (“Twitterers”) to post only messages (“tweets”) of up to 140
+characters. Nowadays, Twitter is applicable not only on mobiles phones but also
+computer and a variety of digital tablets. Often referred to as a “microblogging service,”
+it allows users to exchange small elements that are no longer limited to text but also
+images and clips of videos.
+
+7
+A tweet usually consists many attributes, and the followings are the ones of most
+concern in this project: A name for the Twitter account such as “Jack,” a username with
+the “@“ sign such as “@jack,” a body of text such as “just seeing up my twttr,” and a
+time stamp indicating the time and date the tweet is posted such as “4:50PM - 21 March
+2006.” Moreover, there are also some functions embedded on a tweet: “reply,” the arrow
+under the body of the text by clicking which you can post your comment on the tweet,
+“retweet,” the double circular arrow by clicking which the tweet will be forwarded to
+your followers and appear as “retweeted” by you, and the “following” button by clicking
+which you will get all the future tweets from the account on your “home timeline,” where
+after logging in you can see all your “feeds”—the tweets posted by people who are
+followed by you. Sometimes, tweets can be added to a “collection” in which the
+“collector” can control which tweets to include and the sequence of the tweets, but most
+of the time, tweets appear on one’s home timeline according to their posting times.
+Because each person may follow a different group of people, the tweets and the sequence
+of them appear on different people’s home timelines are always different.
+As a social networking platform, Twitter facilitates people’s communication by
+many built-in functions; however, Twitter users also invent various conventions on their
+own to organize their conversation. For example, “hashtags,” a pound sign “#” followed
+by a keyword, are included by many people in their tweets to organize conversations with
+the same topic. The pervasive use of the convention even inspired Twitter to establish a
+new session on the home timeline “Trend” to broadcast the hottest topics on the platform
+organized by hashtags. Another example of these conventions is the use of hyperlink.
+
+8
+Because of the restriction put on the amount of characters one can post on the platform,
+people utilize the power of hyperlink in directing them to external sources. Moreover, the
+brevity required by Twitter also causes many distinctive linguistic phenomena on the
+platform, for example, the use of acronyms and abbreviations.
+
+“Twitterature” or not?
+Both the social aspect and the textual aspect of Twitter make it a hub for literary
+innovations. However, it is necessary to elucidate that, the openness and neutrality of
+Twitter as a platform makes it possible for any person to publish any kind of text as long
+as they conform to the regulation of certain laws. Therefore, among the vast sea of tweets
+there are plenty of contents that cannot be considered as literary, for example, everyday
+speeches such as gossip about Justin Bieber or pure informational text such as
+advertisement or news report. While this variety of the content makes it impossible to
+make an all-inclusive argument about the text on the platform, the examples of
+“Twitterature” used in this chapter are selected based on their more or less visible
+relationships with literature in print forms and analyzed with long-established literary
+theories and criticisms.
+Moreover, among the discussion around electronic literature, many theories and
+concepts regarding electronic literatures also provide me with guidelines to define
+“Twitterature.” For example, Loss Pequeño Glazier, a poet who established the Electronic
+Poetry Center argues that, “Electronic literature is best understood as a continuation of
+experimental print literature...the medium lends itself to experimental practice, especially
+
+9
+to forms that disrupt traditional notions of stable subjectivities and ego-centered
+discourses” (Glazier, 13). Indeed, new forms of literature cannot be understood in
+isolation from older forms of literature. Like the concept of printed books were built upon
+that of scriptures, the understanding of literature on electronic platforms is only possible
+when we compare and contrast it with the literature on print media. Twitter the platform
+has not yet existed for more than 10 years, and despite the many experiments in literary
+production that have been done on the platform, the possibilities for new explorations are
+still unlimited. Therefore, rather than defining what is “Twitterature,” this project aims to
+inquire what can the platform of Twitter do to contribute to the production of a new kind
+of literature in our society.
+In chapter 1, I will explore the poetic forms that are produced by the collaboration
+between human creation and computation. “Algorithmic Poetry” is a burgeoning genre on
+the Twitter platform. It is usually created by a process of algorithms drawing tweets from
+public feed according to specific schemes, and then rearranging the tweets with certain
+criteria. By analyzing examples from this genre, I will demonstrate how new literary
+aesthetics is negotiated when the creativity of human beings and the artificial intelligence
+of computer are mediated on the Twitter platform. Moreover, by the examples of
+“HaikuD2” and “Pentametron,” two “algorithm poetry” Twitter account, this chapter
+shows that despite the seemingly brief and simple appearance, tweets can be arranged to
+inspire interpretations and introduce spontaneity into writings.
+Besides brevity, the continuous stream of fragmented text is another distinctive
+feature of Twitter. In Chapter 2, I will approach this aspect of the platform by borrowing
+
+10
+the concept of “liveness” from television studies and the idea of “serialization” from the
+19th century serialized novel. On Twitter, a sense of “liveness”is given by the temporality
+of Twitter which pursues simultaneous representation of the reality but at the same time
+situates its users in this representation by functions such as time stamps and customizing
+contents. It is also the result of Twitter’s spatiality—the visual aspects of the Twitter
+platform and its availability across platforms which allows it to be used almost anywhere.
+Two examples of serialized storytelling—Jennifer Egan’s “Black Box” and David
+Mitchell’s “The Right Sort”—are used in this chapter to demonstrate how can the sense
+of “liveness” people experience on Twitter makes it a creative deliver system for
+storytellings that not only allows new reading experiences but also enables new forms of
+reader engagement.
+After examining the format of text on Twitter, I will analyze the language used on
+the platform in chapter 3. Starting with Teju Cole’s tweeted essay “A Piece Of The Wall”
+I will investigate a cultural hierarchy existed between literature and Twitterature. By
+using examples such as the fantastical story “Hearts, Keys, and Puppetry” written by Neil
+Gaiman and 124 Twitterers, “Time,” a work that connects numerous works of literature in
+terms of time and space by the use of hyperlinks, and Benjamin Percy’s “The Monster at
+the End of this Tweet,” a story offering insight into the life in the digital world by the use
+of many Twitter’s communication conventions, this chapter argues for a new criteria for
+literacy in the age of social media. On one hand, this new criteria is constructed upon a
+new relations between the author, the reader and the text. On the other hand, it is
+constructed by the new means in which a text acquire its meanings.
+
+11
+Once again, I have to acknowledge that the selected works which are analyzed in
+this project cannot represent the entire genre of Twitterature and even less the whole
+genre of electronic literature. However, I hope this focused inspection of Twitterature
+from various aspects can offer an introductory guide to the understanding of the new
+dimensions of literature in the age of social media. Moreover, it is necessary to point out
+that I have carefully construct this project upon both canonical classic theories from such
+as McLuhan, Barthes and Foucault, as well as vanguard works from the studies of new
+media as Katherine Hayles’s Electronic Literature: New Horizons for the Literary, David
+Crystal’s Language and the Internet, and Henry Jenkins’s Convergence Culture: Where
+Old and New Media Collide. Notably, while the second edition of Crystal’s book
+Language and the Internet (2006) has added the chapter titled “New Varieties” to explore
+the influence of blog and instant messaging service on language, the hybrid of these two
+technologies—microblogging services such as Twitter—was beyond his vision back then.
+While it is incredible how fast the development of technologies can overstep the studies
+of them, I hope this project can make a lasting contribution to the studies of media and
+literature.
+
+12
+
+1
+The Text Without The Author:
+Twitter’s Algorithmic Poetry
+A blasphemous sect suggested..that all men should juggle letters and symbols until they
+constructed, by an improbable gift of chance, these canonical books.
+— Jorge Luis Borges, “The Library of Babel”
+
+The first thing that comes to most people’s minds when they think of Twitter is
+the 140-character straitjacket that it imposes on people’s writing, and many of these
+people are skeptical about it. For example, British actor Ralph Fiennes, a noted
+Shakespearean actor, spoke at the 2011 BFI London Film Festival awards, stating that
+modern language “is being eroded” in “a world of truncated sentences, sound-bites and
+Twitter”. In the same speech, he claims: “I hear it, too, from people at drama schools,
+who say the younger intake find the density of a Shakespeare text a challenge in a way
+that, perhaps, a few generations ago maybe wouldn't have”(Jones). Janet Street-Porter,
+the journalist and media personality wrote an article titled “Tweeting? It's just a tidal
+wave of drivel” and bemoaned that, “Humans are highly sophisticated beings, the product
+of years of evolution. We are capable of astonishing acts of intelligence, and yet, in the
+
+13
+21st century, we've decided to regress, to embrace a stunted form of communication that
+banishes grammar, context, considered evaluation, subtle innuendo... and adjectives”
+(Street-Porter).
+It seems that tweets are mainly accused for being short and simple. However,
+before we rush into the conclusion that Twitter signifies a regression in humanities, we
+should be reminded that as a communication medium, Twitter per se cannot change
+language; rather, it is how people use this medium that causes language to change. People
+who accuse Twitter of “eroding” or “banishing” language see Twitter’s character limit as
+restraining, neglecting the fact that such confinements can be catalysts for creativity. In
+fact, whether it be word count, meter or rhyme, stylistic parameters placed upon language
+are nothing new, and poetry, one of the most ancient forms of literature, often flourishes
+because of the formal confinements imposed upon it. In this context, it is only natural that
+many people post poems with their tweets, and among these poems, a genre especially is
+worthy of our attention—“Algorithmic Poetry.” “Algorithmic Poetry,” sometimes called
+“computer generated poetry” or “Bot Poetry,” typically involves computation in the
+creative process. The involvement can take part in many forms. For instance, scholar,
+poet, and musician Chris Funkhouser used software “GTR Language Workbench” to
+select and transform the text of W. C. Handy’s “St. Louis Blues” to a new suit of four
+poems7; MIT student J. Nathan Matias used the machine-learning Android app
+“Swiftkey” in combination with some of Shakespeare’s famous words to produce
+
+7
+
+See http://iloveepoetry.com/?p=2575.
+
+14
+sonnets8. Although “Algorithmic Poetry” can be programmed based on many texts on the
+Internet, Twitter is an especially friendly environment for the genre because of its
+abundant supply of brief texts, and many programmers have written algorithms to operate
+Twitter accounts and make “Algorithm Poetry” with these accounts.
+A Twitter account that is operated by algorithms is usually called a “bot,” and
+there are many “Twitter Bots” that are created to select tweets from Twitter’s Application
+Programming Interface (API), where all of Twitter's global stream of tweet data
+accumulate, and rearrange them into poetic forms by retweeting them. Although the idea
+of computers—which we always perceive as mechanical and emotionless—can generate
+poetry may seem bizarre at the first glance, this chapter will provide two examples
+“HaikuD2” and “Pentamentro” to demonstrate the creative process. As the meditation
+between the tweets written by Twitterers and algorithms written by programmers in
+creating poetry, they not only demonstrate to us that brevity and simplicity can breed
+creativity, but also how aesthetics of literature is negotiated in the digital world where
+humans’ creativity constantly engages with computer intelligence. Above all, they raise
+many challenges to the idea of authorship, by which they opened up more possibilities in
+the interpretation of texts.
+The shortening of text on Twitter may raise concerns today, but poetry, as a valued
+literary genre, also went through the same evolution at some points of its developmental
+history. The etymology of the word poetry can be traced back to the classical age and it
+
+8
+
+See http://www.psfk.com/2014/01/shakespeare-machine-learning-poetry-app.html.
+
+15
+was closely related to the idea of making as poiēsis, poiēma—thing made, a work,
+poiētēs—a maker, poet, poiētike—the making (art/technique). It was not until Aristotle’s
+work of dramatic theory and philosophical treatise Poetics, that the term Poetics was used
+to refer to a literary genre, and it was used to refer to drama and epic. In the late 18th and
+19th century, the meaning of the term poetry became increasingly centered on lyrics and
+shorter narrative verses and it was eventually stabilized to describe the work of poems
+(Greene et al. 1065-1055). A singular “Poem,” on the other hand, is defined as “a
+composition, often in lines, that draws on some or all of the following common features:
+rhythm, meter, figuration (incl. rhetorical schemes and tropes), and artifices (incl. diction
+and syntax)” (Greene et al. 1065-1055). In modern context, Edgar Allen Poe claims in his
+famous essay “The Philosophy of Composition” (1849) that,
+What we term a long poem is, in fact, merely a succession of brief ones—that is
+to say, of brief poetical effects. It is needless to demonstrate that a poem is such,
+only inasmuch as it intensely excites, by elevating the soul; and all intense
+excitements are, through a psychal necessity, brief. … It appears evident, then,
+that there is a distinct limit, as regards length, to all works of literary art—the
+limit of a single sitting…Within this limit, the extent of a poem may be made to
+bear mathematical relation to its merit—in other words, to the excitement or
+elevation—again in other words, to the degree of the true poetical effect which it
+is capable of inducing; for it is clear that the brevity must be in direct ratio of the
+intensity of the intended effect:—this, with one proviso—that a certain degree of
+duration is absolutely requisite for the production of any effect at all. (Poe, 62)
+Indeed, from parts of the developmental history of poetry, we see a tendency
+towards brevity, and from Poe’s theory we gain an insight into the literary value of this
+brevity. Essentially, Poe believes that all the emotions, feelings and imaginations of a
+poem do not get lost if the text of the poem is shortened; on the contrary, they get
+concentrated, and this concentration excites the reader with more intensity. Although Poe
+
+16
+defines this concentrated expression as the “poetical effects,” he also claims that all
+works of literary art have distinct limit regarding length, unless they demand no “unit.”
+Indeed, whether in a newspaper, a book, or a series of publications, there is always a limit
+on how many words can be written and published. Therefore, poets and all writers face
+the same problem when they produce works of literature, that is, how to express
+themselves most effectively and efficiently within a limitation.
+Of all the different structures of poetry, haiku is most noted for its brevity, and it
+also develops from longer poetic forms—Waka and Renga. Waka is the oldest form of
+poetry in Japan in which the first five lines are arranged in a sequence of 5-7-5-7-7
+syllables. Renga is a poetic dialogue composed by many people at verse-capping
+meetings, the first three lines of which are written by one person in 5-7-5 syllables, the
+next two by one in 7-7, the next three by one in 5-5 and so on. These two forms of poetry
+flourished from the 12th century to the 14th century, but around the turn of the 15th
+century, poets started to mix them to create a new type of linked verses named renku, or
+haikai renga, the first three lines of which were called hokku. Eventually, in the late 19th
+century, these three lines became an independent poetic form through reformation and
+were given the name of haiku (Greene et al. 1032). At the turn of the 20th century, when
+Japanese arts began to exert an unprecedented influence on Western art and artists, haiku
+was discovered by the Western literary world. In Western languages, haiku is commonly
+arranged into three lines, a rendition of the Japanese syllabic pattern of 5-7-5 syllabus,
+and used to present verses rich in imagery, often juxtaposed in startling combinations.
+
+17
+From 1910 to 1919, this form of poetry gained popularity among many imagist poets
+(Greene et al. 1032).
+Among the English haiku composed by the imagist poets, the most famous one
+perhaps is Ezra Pound’s “In a Station of the Metro”:
+The apparition of these faces in the crowd:
+Petals, on a wet, black bough” (Pound).
+As it is indicated by the title of the poem, Poe writes to describe what he sees at a metro
+station in Paris, and in his essay “Vorticism” (a term generally used by the imagist writers/
+artists to define their works), he explains the inspiration he gains from haiku:
+Three years ago in Paris I got out of a “metro” train at La Concorde, and saw
+suddenly a beautiful face, and then another and another…I could not find any
+words that seemed to me worthy, or as lovely as that sudden emotion. And that
+evening…I found, suddenly, the expression. I do not mean that I found words,
+but there came an equation… not in speech, but in little splotches of colour…But
+it was a word, the beginning, for me, of a language in colour…All poetic
+language is the language of exploration…The Japanese have had the sense of
+exploration. They have understood the beauty of this sort of knowing. The
+Japanese have evolved the still shorter form of the hokku…All poetic language is
+the language of exploration. Since the beginning of bad writing, writers have
+used images as ornaments. The point of Imagisme is that it does not use images
+as ornaments. The image is itself the speech. The image is the word beyond
+formulated language…One is tired of ornamentations, they are all a trick, and
+any sharp person can learn them.
+
+Pound’s haiku is extremely short and simple. Although he uses the poem to describe the
+“beautiful” faces he sees, he does not use any direct words that are related to beauty to
+describe the faces. Even the language he uses to construct the metaphor—the image of
+petals, on a wet, black bough—is extremely simple, with the most straightforward
+adjectives: black and wet. However, Pound believes that only this language without any
+
+18
+ornament is able to truly convey the faces he saw and the lovely emotion he felt.
+Emphasizing twice that, “All poetic language is the language of exploration,” he prefers
+to leave his reader to explore the beauty that resides in his poem. Indeed, inspired by
+Impressionism, Cubism, futurism and expressionism, the Imagist favors the abstract over
+details. Likening his language to “splotches of colour,” he is inspired by the painters who
+paint traces of colors and lines instead of every detail of what he sees. As a result, the
+beholders of these works are required to activate more of their imagination in order to
+comprehend them, and this is what Pound referred to as the “the way of knowing”—it is
+a way of exploring the meaning and beauty of a work by oneself instead of receiving
+them from the painter or the speaker of the poem. Just as the aesthetics of the
+Impressionist paintings and the Cubist paintings does not come from the abundance but
+the reduction of paint, the aesthetics of imagist poetry does not come from the abundance
+but the reduction of language.
+Because the brevity and simplicity is the very essence of haiku, the characterrestriction of tweets does not repel but attract haiku poets. Given the prompt “What’s
+happening?”9 many Twitter users, like Pound, provide their answers with a language
+without any ornament. For example, the user “@john34239” tweets:
+
+The question is used as the default text in the input box on Twitter’s home timeline to inspire
+engagement. As long as a user starts typing, the text disappears.
+9
+
+19
+
+Figure 2. Screen shot, Tweet, @john34239
+
+Using only three lines, user @john34239 depicts a fleeting moment of what he sees—a
+cat walking towards a robin—in the afternoon, maybe in his backyard, maybe in the park,
+just like when Pound walked out the metro station in Paris. In that moment, @john34239
+feels something, but instead of writing a lengthy passage about how the cat looks, how
+the robin looks like, what the weather is like, what he feels about what he sees, whether
+or not he thinks it is a beautiful image etc., he chooses to describe the image with only a
+few words on Twitter. Notably, @john34239 is well aware of the power of short text in
+inspiring imagination, because he writes in his Twitter biography, “Traditional Poetry,
+haiku, tanka, anything that stirs the imagination.”
+It seems that Twitter is not essential in the creation of brief poetry in the example
+@john34239, because as he himself points out, his poems are rather “traditional,” that is,
+they can exist with or without the Twitter platform. However, the confluence of Twitter
+and poetry goes beyond as tweets serving as vehicles for purposefully written poems. At
+times, the Twitter serves as the medium for the very creation of a poem’s meaning, as it is
+
+20
+in the example of the Twitter account “HaikuD2.” Operated by an algorithm programmed
+by John Burger, “HaikuD2” analyzes all the tweets posted on Twitter’s API. It filters out
+those written in non-English, identifies those written in exactly 17 syllables, and retweets
+them in the format of haiku by dividing the text into three lines of 5, 7, and 5 syllables
+without cutting into any words and adding a “•” symbol at the end of the first two lines. It
+also tags10 the writer of the original tweet, and adds the hashtag #haiku11. For example,
+
+Figure 3. Screen shot, Tweet, @HaikuD2
+
+Some people may argue that this tweet is not a haiku because its content is not an artistic
+composition but only a greeting for Thanksgiving, and it is merely everyday mundane
+communication. It is true that this tweet is not depicting any image like that in Pound’s
+metro haiku or @john34239’s cat Haiku. However, the more important aspect here than
+the content of the haiku is the transformative process that tweets undergo to become a
+
+The use of “@user” syntax on Twitter to refer and address others. This social function of it will be
+analyzed in details in Chapter 2.
+10
+
+The use of “#keyword”syntax on Twitter to mark tweets with specific vocabulary. When the hashtag is
+searched on Twitter, all the tweets include the keyword will appear. The implication of this function will
+be analyzed in Chapter 3.
+11
+
+21
+haiku. It seems that John Burger is interested in playing with the idea of poetry by
+transforming the mundane into the poetic form. Although there are people like Janet
+Street-Porter who criticize tweets as “a tidal wave of drivel,” it seems that Burger is
+questioning: can even “drivel” be turned to poetry when it is presented in a poetic form?
+How do we decide if a text is aesthetically valid as poetry, by content or by format? If a
+few lines of mere depiction without decorative language by Pound or even an ordinary
+person who claims that he is interested in poetry, why can’t we call a text with the same
+format and same style of language a poem?
+Because the tweets edited by @HaikuD2 were not originally written to be haiku,
+whether or not they can be called poem fully depends on individual’s interpretation.
+While some may deny that such a haiku could be a poem because they see no profound
+meaning nor feel any strong emotions from these lines, others may claim that it is poem
+because the visual line breaks create a sense of tension in their meanings between them—
+for example, the break between the second and the third line stresses the word “enjoying”
+and thus implies a stronger emotion as a greeting—there may be still others who think
+that it is poetry simply because it looks organized and reads pleasantly. In short, when the
+intention for literariness behind a text from the side of author is blurred, the fate of the
+text as work of literature is decided by the reader.
+The question raised by the Twitter account “HaikuD2” on the production and
+reception of poetry is similar to that proposed by Ezra Pound and other haiku poets.
+Because as Pound points out, the haiku poets aim to leave the meaning of their artistic
+creation to the exploration of their readers. By using less descriptions, they want to leave
+
+22
+more space for their readers to imagine what they see and what they feel. Similarly,
+“HaikuD2” aims for the same emphasis on readers’ interpretations by leaving ambiguity.
+It selects existing texts on Twitter and rearranges them in the form of haiku to blur pose
+the question: whether these texts have poetic meanings.
+Expanding possible meanings of a text by manipulating the body of the text was
+also the pursuit some of the post-modernist writers in the 20th century such as William S.
+Burroughs and Brion Gysin. They devised the “cut-up method” to introduce “the
+unpredictable spontaneous factor” when writing poems and it especially provides us
+insights into the aesthetics of ambiguity in a text. “The cut-up method” is explained by
+Burroughs:
+The best writing seems to be done almost by accident but writers until the cut-up
+method was made explicit…You cannot will spontaneity. But you can introduce
+the unpredictable spontaneous factor with a pair of scissors…Fill a page with
+excerpts. Now cut the page. You have a new poem. As many poems as you like.
+As many Shakespeare Rimbaud poems as you like. Tristan Tzara said: “Poetry is
+for everyone.”…Poetry is a place and it is free to all cut up Rimbaud and you are
+in Rimbaud’s place (Burroughs and Gysin, 28).
+Similar the working process of “HaikuD2,” the cut-up method rearranges a text to create
+a new one. Comparing it with the collage method used by visual artists in the beginning
+of the 20th century, Burroughs claims that the cut-up method imbues writing with
+spontaneity and thus lends it preciousness. More importantly, he emphasizes the claim
+made by the French avant-garde poet Tristan Tzara that says, “Poetry is for everyone.”
+Using the poems by Shakespeare and Rimbaud as examples, he makes the audacious
+claim that everyone can be as great as Shakespeare and Rimbaud. Essentially, the cut-up
+method is liberating the text from the hand of its author, and empowering the text by
+
+23
+rendering itself autonomous. The methodology and the works of the cut-up experiment
+are collected in William S. Burroughs and Brion Gysin’s book named “The Third Mind,”
+and indeed, this method is revealing a third mind in the creation of a work of cut-up
+poem: it is neither the mind of the cut-text’s original author nor its cutter, but the
+combination of the two—the unpredictability and serendipity introduced by the cutting
+process into the text.
+Having the image of “the third mind,” the questions left by @HaikuD2 may seem
+less like a Gordian Knot to us. The true creator of the tweet by @HaikuD2 is neither the
+authors of the original tweets nor the algorithms; rather, it is the sense of ambiguity
+which allows the proliferation of meanings, and it is introduced by the mediation of
+Twitter between human creation and computation. Since Burroughs calls the cut-up
+works poems regardless of their resulting, it is not arbitrary to call the works of this
+mediation “Algorithm Poetry.” However, how exactly do spontaneity and serendipity
+give value to a poem that is co-created by human and computer? Another “Algorithm
+Poetry” account on Twitter—“Pentametron” may serve as a good example to explain the
+process.
+Similar to “HaikuD2,” “Pentametron” is run by an algorithm that picks up tweets
+according to specific criteria and create poetic-looking tweets by rearranging their format.
+Notably, while Fiennes claims that the modern use of English language, such as that on
+Twitter is making the understanding of Shakespeare difficult, “Pentametron” in fact aims
+to revitalize Shakespeare by popularizing the poetic elements Shakespeare is famous for
+using—iambic pentameter and couplets. Characterized by the use of alternating
+
+24
+unstressed and stressed syllabus in a line of ten syllables, iambic pentameter is a key
+component of a sonnet, a poem of fourteen lines with a rhyme scheme (abab, cdcd, efef,
+gg), the last two lines of which are called a couplet. Written by Ranjit Bhatnagar, the
+algorithm behind “Pentametron” picks tweets that are written in iambic pentameter from
+Twitter’s API and reassembles each two into a couplet by retweeting them consecutively.
+For example:
+
+Figure 4. Screen shot, Tweet, @Pentametron
+
+The tweets are written by different users on the same date: the first is an observation that
+people are already playing Christmas music in November and the second one seems to be
+an answer to the serious question “what is life?”. While in terms of content, these two
+tweets are completely irrelevant to each other, when they are drawn together by
+“Pentametron,” a peculiar juxtaposition is created. First of all, the use of caps lock in
+@adventuraa’s tweet comes off as exclamatory. A strong emotion seems to be evoked in
+her by this observation, whether it be surprise or anger or excitement, etc. In comparison,
+
+25
+@serenalohaa’s tweet on the meaning of life eo ipso gives it a somber voice. The use of a
+semicolon at the end of the sentence instead of a period leaves the reader with an
+overwhelming sense of ambiguity; the feeling that there is something more that this
+writer wants to say, but she chooses to cut herself off. The vast difference between the
+tones of these two tweets is just the beginning. They also vary greatly in their focus—
+while the first tweet is an observation of a singular detail, the second is a broad and rather
+obscure thought. However, when Pentametron uses rhyme to put these two statements in
+line-based juxtaposition, something magical happens: two apparently unrelated sentences
+begin to resonate with each other and in combination, impart each other with a greater
+meaning. For example, one may see the two tweets related to each other in a religious
+sense: because Christmas is originally celebrated in the Christendom for the birth of
+Jesus, and according to Oxford English Dictionary the word “contemplation” has the
+meaning of “religious musing, devout meditation,” one may think that the couplet is
+conveying the fact that religious meditation can be found anywhere (even in the mall)
+anytime (even as early as November) in life. In this case, the first tweet can be seen as an
+example for the second. However, others may interpret this couplet in a secular way:
+while Christmas in today’s culture is increasingly commercialized, the malls usually play
+Christmas music not just for celebration, but more importantly for marketing products.
+Not only is such scrutiny of consumer’s behavior a form of contemplation, but whoever
+associating the tweet of @adventuraa with marketing strategy is also contemplating on
+today’s culture himself or herself; therefore, @serenalohaa’s tweet in this case can be
+seen as a comment on the culture of the mall for the potential thoughtful reader. In either
+
+26
+case, when these two tweets are put together and read in relation with each other, they
+transcend themselves, opening themselves up to a variety of interpretations.
+Sometimes, even more remarkable coincidences can happen in the collision of
+Pentametron tweets. For example:
+
+Figure 5. Screen shot, Tweet, @Pentametron
+
+In this case, the meaning of the couplet comes from the coherence between the two
+tweets rather than a contrast. Not only were both tweets written in iambic pentameter,
+they were also written on the same subject—dreams. The tweet posted by “@fit4_fun” is
+an imperative sentence but what is she commanding? While “abandon[ing] thoughts” is
+relatively easier to understand, what does she mean by “let the dream descend”? Dream,
+although never fully understood by metaphysical interpretation nor by scientific studies,
+has been defined in a variety of ways in the Oxford English Dictionary: “A series of
+images, thoughts, and emotions, often with a story-like quality, generated by mental
+activity during sleep”; “ Something imagined or invented; a false idea or belief; an
+
+27
+illusion, a delusion,” or “A vision or hope for the future; (in early use chiefly) a vain hope
+or idle fantasy; (now also) an ideal, goal, ambition, or aspiration.” In all definitions,
+however, “dreams” are considered to be ethereal and intangible mental activities; thus it
+is possible to interpret “descend” as the moment when a state of mind comes to be.
+Coincidentally, in the next tweet posted by “@6Brie,” she is actually describing her
+dream. What is the end she dreams about then? Is it the end of the dream, that is, waking
+up? If so, inside this couplet a cycle is actually formed—from the beginning of the dream
+to the end of the dream. However, if it is not, and the “end” in “@6Brie”’s tweet is not
+the end of the dream itself, but the end of something else—for example her struggle,
+misfortune, etc.—her statement on the other hand can be seen as a continuation of the
+first tweet, that the dream “@fit4_fun” calls for “descend[ing]” is the aspiration that
+“@6Brie” has. In either case, this couplet formed by tweets from “fit4_fun” and “6Brie”
+is truly remarkable for its coherence and structure, considering that it is drawn together
+by an algorithm.
+Although “Algorithm Poetry” is different from the cut-up method, because the
+former is a collaboration between human and machine and the latter is a process that is
+done by human, cutting is essentially a mechanical action and they ultimately achieve the
+same effect—assigning the text with new meanings through the process of mediating the
+relationships between the author, the text and the reader. The aesthetics of spontaneity
+and serendipity is perfectly illustrated in the couplet examples tweeted by “Pentametron”
+on two levels. First of all, the conceiving of the couplet is completely left to chance. The
+algorithm picks up lines that are written in the same meter but it does not assemble the
+
+28
+lines according to their meanings. Secondly, different readers of these couplets may have
+completely different interpretations, and the possibility of infinite interpretation is
+effectually enabled by absence of background knowledge about the author of the text and
+the process of its production.
+In the cases of both “HaikuD2” and “Pentametron,” a series of very important
+questions regarding the authorship is raised: Who are the authors of the poems? Are they
+the programmers of the algorithms that pick up and rearrange the tweets from Twitter’s
+API? Are the algorithms the authors? Can non-human even be the authors? Or should the
+people who wrote the original tweets be considered the authors ? Although none of them
+seems to be qualified enough to be credited with the whole authorship, it is time for us to
+rethink about the role of an author of the text. In Roland Barthes’s famous essay,“The
+Death of the Author” he writes,
+The Author is thought to nourish the book, which is to say that he exists before it,
+thinks, suffers, lives for it, is in the same relation of antecedence to his work as a
+father to his child. In complete contrast, the modern scriptor is born
+simultaneously with the text, is in no way equipped with a being preceding or
+exceeding the writing…The fact is (or it follows) that writing can no longer
+designate an operation of recording, notation, representation, ‘depiction’ (as the
+Classics would say); rather, it designates…a performative, a rare verbal form
+(exclusively given in the first person and in the present tense) in which the
+enunciation has no content (contains no other proposition) than the act by which it
+is uttered…Having buried the Author…We know now that a text is not a line of
+words releasing releasing a single ‘theological’ meaning (the ‘message’ of the
+Author-God) but a multi-dimensional space in which a variety of writings, none
+of them original, blend and clash (Barthes, 146).
+Written in 1967, Barthes’s claim is obviously not designated for Twitter; however, his
+vision towards the author and text nevertheless inspires us to understand Twitter’s
+mediation between human and machine. Barthes points out that in the traditional world of
+
+29
+literature, the author with the capital “A” is given an exalted status. He is seen as the Godlike figure who gives birth to his writing, that is, the meaning of the text is ascribed by
+him; the understanding of the text is influenced by the biographical or personal attributes
+of him, for example, his political views, his religion, his ethnicity. Therefore, the text
+cannot exist without him. However, calling an author “the modern scriptor,” Barthes
+argues that in the modern literary world, a text only gains its meaning in the minds of the
+readers as they read; they are not created by the hand of writers as they write, and their
+meanings are not influenced exclusively by the life of its author.
+The role of “the modern scriptor” cannot be clearer in the case of “HaikuD2” and
+“Pentametron” in which we cannot find a sole designated authors for the haiku and
+poems. Through the mediation of Twitter, literature can be produced by the collaboration
+between human and machine, and in the process the role of the author is blurred;
+therefore the meanings are created organically in the minds of readers. Barthes himself
+may never have imagined that as modernity advances, the “death of the author”—the
+endof the hegemonic rule of the author over a text—can be realized in such an extreme
+way. Indeed, even the profile picture of “Pentametron” implies something about the idea
+of authorship in the age of social media: The default profile picture set by Twitter, the
+image of an egg, overlaps with a picture of Shakespeare. Since the image of an egg is
+always used as a symbol for incubation—the process of becoming—and Shakespeare is
+the paramount figure in English literature, it can be seen as an implication that,
+“Pentametron” is the incubation of a Shakespeare in the Twitterverse. Moreover, the bio
+of
+
+30
+
+“Pentametron” reads “With algorithms subtle and discrete/ I seek iambic writings to
+retweet” such is the description of the
+Twitter account regarding its identity.
+Combining the intelligence of computer
+and the variety of writings by Twitter
+users, the work of “Pentametron” can be
+poetic. While William S. Burroughs
+uses the examples of Shakespeare and
+Rimbaud in his essay and claims that,
+“Poetry is for everyone. Poetry is a
+place and it is free to all cut up
+Rimbaud and you are in Rimbaud’s
+place,” the profile of “Pentametron”
+
+Figure 6. Screen shot, Tweet, @Pentametron
+
+seems to claim that, poetry is for
+everywhere, even on the Internet (the location of the account reads: Stratford-uponInternet).
+Although the popularity of short and simple tweets raised many people’s concerns
+about their influence on the English language, by comparing tweets with poetry, we can
+see that the constraint of format does not preclude literary quality but forges creativity.
+Like the Japanese haiku and the Impressionist paintings, the value of poems does not
+diminish when there are less details. On the contrary, because less details require more
+
+31
+imagination from the readers, brief poems can generate manifold meanings. Moreover,
+like the cut-up poems created by the Imagist poets such as William S. Burroughs and
+Brion Gysin, “Algorithmic Poetry” discovers poetics from ambiguity and uncertainty, as
+they can introduce unlimited possibilities into writing. From the analysis of the examples
+from “Algorithmic Poetry,” the poems that are co-written by algorithms and human, we
+can see that Twitter can not only serve as the physical medium for poetry, but also
+become part of a creative process that challenges the traditional concept of authorship.
+Indeed, a study of the intersection between Twitter and literature should start with seeing
+beyond the platform’s word constraint, and the next two chapters will be devoted to
+investigating the platform’s power in creating longer forms of storytelling as well as the
+changing social relations surrounding this new form of literature.
+
+32
+
+2
+The Web of Time and Space:
+Tweeted Serials
+Time is the substance from which I am made. Time is a river which carries me along, but
+I am the river; it is a tiger that devours me, but I am the tiger; it is a fire that consumes
+me, but I am the fire.
+— Jorge Luis Borges, A New Refutation of Time,” Labyrinths (1964)
+
+Many of Twitter’s characteristics are implied by its name. In an interview with
+Los Angeles Times, Jack Dorsey reveals the inspirations behind the name “Twitter”:
+We were trying to name it, and mobile was a big aspect of the product early on ...
+We liked the SMS aspect, and how you could update from anywhere and receive
+from anywhere. We wanted to capture that in the name—we wanted to capture
+that feeling: the physical sensation that you’re buzzing your friend’s pocket. It’s
+like buzzing all over the world … and we came across the word “twitter”…The
+definition was “a short burst of inconsequential information,” and "chirps from
+birds." And that’s exactly what the product was. (Sarno)
+
+From this explanation, it is evident that the platform of Twitter was, in its very creation,
+meant to distinguish itself from long and coherent forms of communication. Like the
+spasmodic sound made by the birds, Twitter delivers information in a stream of snippets.
+Moreover, because birds’ chirping is characterized by its ubiquity, the word “Twitter”
+accurately signifies the product developer’s desire for developing a product that can be
+used by people anywhere anytime. In fact, despite the 140-character constraint, the
+potential of Twitter in producing literature extends beyond the genre of poetry. For
+
+33
+example, when the continuous stream of fragmented tweet is employed aptly, Twitter
+platform not only is able to sustain longer forms of storytelling with dynamic plots, but
+also enable new reading experiences that is unlikely to happen when one reads on print
+media. On one hand, the modes in which Twitter unfolds narratives is characterized by its
+emphasis on time. On the other hand, the form in which Twitter represents text is
+characterized by its emphasis on spatiality (both in the digital world as the continuous
+stream of tweets and in real life because of its availability across many devices). When
+these two axis cross, a sense of immediacy and community dominates the platform, and
+this gives the platform potential for serialized storytelling.
+The relation between tweets and longer forms of text is similar to the relation
+between television and films: Television programs are shorter than films, and they are
+usually played separately over a long period. Since there has been extensive studies done
+on the different modes of presentation between television and film, to ground our study
+of Twitter on the existing frameworks of television studies will be theoretically sound.
+The concept of “liveness,” as a persistent topic in the study of television, is especially
+relevant for us to understand the temporality of Twitter. Jane Feuer, a film and television
+studies scholar defines the term “liveness” in her seminal essay “The Concept of Live
+Television: Ontology as Ideology” as follows,
+Even the simplest meaning of “live”—that the time of the event corresponds to
+the transmission and viewing terms—reverberates with suggestions “being there”
+[…] “bring it to you as it really is.” […] Live television is not recorded, live
+television is alive; television is living, real, not dead (Feuer,14).
+
+34
+The idea of “liveness” is built upon the temporality of television: because the
+technologies of instantaneous recording, transmission, and reception allow the
+representation of events to be broadcasted while the events are happening, “liveness” was
+initially used to refer to the sense of “the real,” “being there” and “living” experienced by
+the audience. Yet, Feuer further points out that as American network television began to
+broadcast content using videotapes, the concept of “liveness” has already lost its original
+meaning and it becomes increasingly related to the concept of “flow.” She explains:
+Raymond Williams invokes the concept of “flow” as a way of explaining the
+effect of immediacy and presence the experience of television gives […] The
+experience of flow, I believe, relates as well to the television viewing situation.
+This set is in the home, as part of the furniture of one’s daily life; it is always
+available; one may only intercept the flow at any point (Feuer,15).
+
+To describe television programs as a flow is quite figurative because the programs are
+played one after each other immediately. However, Feuer points out another important
+aspect of the flow; that is, the audience can dip in and out of the programs as they wish.
+However, she eventually points out that this concept of “flow” about television is “pure
+illusion” because “television is constituted by a dialectic of segmentation and flow. […]
+Television is based upon program segments, advertising segments, trailer segments, etc.”
+“The ideology of liveness” therefore is an ideology used by people to overcome this
+conflict between segmentation and flow, she concludes (Feuer,17). To summarize, the
+“liveness” of television can be experienced in two ways: it can either be experienced
+when the representation of the events is synchronous with reality (this is why this type of
+broadcasting is sometimes referred to as in “real-time”), or it can be experienced
+
+35
+asynchronously with the events broadcasted, in which case it is rather an illusion you
+have when you turn on your television and participate in the flow.
+Television and Twitter are similar in their modes of representation. They are both
+larger media platforms consisting of small content segments. Therefore, the concept of
+“liveness” analyzed by Jane Feuer can help us to understand the way in which Twitter
+disseminates content. Often referred to as the “stream,” the way in which Twitter’s
+timeline arranges tweets resembles that of a flow—the contents are supplied continuously
+like running water. However, on the other hand, tweets are themselves fragmented
+snippets. Each contains no more than 140 characters, they “burst” from different accounts
+containing different messages, just like the “program segments, advertising segments,
+trailer segments” exemplified by Feuer. Moreover, because Twitter users can log in and
+off Twitter as they wish, and every time when they log in, the timeline is updated with the
+newest tweets, it is essentially giving the same sense of “liveness” that is offered by
+television. In fact, from the advertisement of Twitter, we can see this pursuit of “liveness”:
+
+Figure 7. Screenshot, See what's happening right now, Twitter
+
+36
+Not just to see “what’s happening,” the emphasis on “right now” shows Twitter’s
+ambition in giving their users up-to-the-moment information.
+Is the “liveness” on Twitter also an illusion because of tweets’ fragmented nature?
+To answer this question, we have to first examine the temporality of tweets. On Twitter:
+there are two ways of illustrating time: one is the time since it was posted, and another is
+the exact time when the tweet was posted. Below is an example from my Twitter’s feed:
+
+Figure 8. Screen shot, Tweet, @nprnews
+
+This is a tweet from the NPR News Twitter account. Right next to the handle name shows
+the time it was posted from the time I refreshed my timeline, and in this case it was
+posted 8 minutes ago when I refreshed my timeline. On the left hand lower corner is the
+exact time and date when the tweet was posted. When combined, these two illustrations
+of time situate the user in the Twitterverse temporally. We a user read the relative time, he
+or she will have a feeling of how far behind he or she is from the time when the tweet
+
+37
+was posted—that is, the world in relation with him or her. When one reads the posting
+time, he or she will have a sense about the world that exists with or without her.
+Therefore, rather than experiencing an imposed temporality as it is the case when one
+watches television, the user is given a representation of the reality that is more
+personalized, in the sense that the user knows his or her own position in relation to this
+representation. It is true that Twitter, like television, is a medium that tries to provide
+narrative in the most “live” way. However, it seems that Twitter, instead of only
+presenting the world to users, also relates the users to the world. Therefore, it seems that
+although the “liveness” of Twitter has the same origin with television, it is different from
+that of the television.
+It is not a surprise that there has been an extended argument about the Web’s own
+“liveness.” In Tara McPherson’s essay “Reload: Liveness, Mobility and the Web,” she
+argues that although the Web is in a “symbiotic relationship” with television, “unlike
+television which parades its presence before us,” the Web structures “three closely-related
+sensations” in relation to liveness, which she termed “volitional mobility,” “the scan-andsearch,” and “transformation” (McPherson, 202). In this chapter, I’ll focus on the first
+concept because it is the most relevant to the relation between temporality and the way in
+which narrative is presented on Twitter.
+According to Tara McPherson,
+This [The television’s] liveness foregrounds volition and mobility, creating a
+liveness on demand […] the Web structures a sense of causality in relation to
+liveness, a liveness which we navigate and move thorough, often structuring a
+feeling that our own desire drives the movement […] this is a sense of a
+connected presence in time. The Web’s forms and metadiscourses thus generates a
+
+38
+feeling of choice, structuring a mobilized liveness which we come to feel we
+invoke and impact, in the instant, in the click, reload. I call this sensation
+volitional mobility (McPherson, 202).
+
+Providing a sense of control is how the Web modifies the “liveness” of television, and
+this sense of control is the result of mobility in the digital space. Instead of just sitting in
+front of their television switching from one channel to another, people on the Web have
+their cursors and therefore have more “sense of direct control”—that is, more control
+over their choice of content. More importantly, McPherson points out that this sense of
+control does not just come from the users’ action in the digital space such as moving the
+cursor, but also comes from “a sense of a connected presence in time.” Indeed, as I have
+pointed out earlier, the multiple time stamps of Twitter situate its users in a more
+personalized position in the stream, and Twitter’s stream can be as an example of
+McPherson’s argument. Because Twitter’s users can choose who to follow among a
+variety of users on the platform, whether it be official accounts such as “@guardian” or
+celebrities such as “@JamesFrancoTV,” instead of switching from channel to channel,
+they can customize their own channel. Since the tweets posted by these channel will be
+arranged according to the time in which they are posted, by customizing their own
+channels, the Twitter users are creating their own timeline; that is, they can structure
+events and information that happen in real time, and therefore, they are controlling—
+although just snippets of—the real time.
+
+39
+The temporality of Twitter is exemplified by its feed and it is closely related to the
+visual aspects the homepage—where feed is presented. Regarding the visual layout of
+Twitter, Jack Dorsey elaborates,
+The tweets are visually sequential, and I think this alters how the text is read.
+Reading off a page is like looking down at a landscape from a balloon—your eye
+'sees' the story as well as reads it, its layout, its paragraphs and structure, and
+'remembers' what it just read because it's still there, on the page, simultaneously.
+If you want to, you can reread any line instantly; or linger; or speed up; or
+optically 'flinch'. Reading a series of tweets is more like looking through a narrow
+window from a train speeding through a landscape full of tunnels and bands of
+light and dark. Each tweet erases its predecessor. (Flood)
+The comparisons he draws between reading a page and reading a series of tweets is
+elucidative. First of all, the text on Twitter comes in a stream of individual tweets one
+after another in a user’s feed, each with their own time stamp, signifying their own
+presence in a specific moment. Therefore, it is not a surprise that this page is officially
+called “Timeline”—the line of time. When one tweet comes, the predecessor of it will be
+pushed towards the bottom of the page a little, and this process continues until one is
+completely pushed out of view. The text transmitted through the medium of Twitter is
+meant to be received moment by moment, and a Tweet in a moment is not expected to
+survive beyond, if not that exact moment, at least a short time after that moment; in other
+words, their presence is dominated by a sense of “nowness.” In contrast, the reading
+experience for a book is characterized by a sensation of permanence. From the moment
+when a text is printed out on a page, they will remain there for as long as the page
+endures; except for the possibility of fading or being eroded, the text on a page will not
+change or move. Although it seems that Twitter only changes the action of reading from
+
+40
+flip to scroll, it changes the temporality of text completely, from permanence to
+transience, and it is exactly this sense of transience that makes “Twitter” feel like “live.”
+Notably, because McPherson’s essay was written in 2002 when internet was not
+quite established on mobile phones, her discourse on “mobility” focuses on the space
+within the digital world; that is, users can choose their own content on the internet.
+However, when smartphones deeply penetrate in our lives nowadays, the sense of
+“mobility” is also exhibited outside the digital world and in real life. Since people can
+carry their phones with internet connection everywhere, they can receive information
+everywhere. The Twitter platform especially facilitates this mobility in real life, as it
+shown in the sense of ubiquity embodied in the word “Twitter”. On February 14, 2011,
+Twitter CEO Dick Costolo articulated at the Mobile World Congress in Barcelona the
+company’s ambition in boosting the “liveness” of the platform by making the application
+work across devices:
+Twitter already works on almost every device you're going to hear about this
+week [at the Mobile World Congress]…Our goals this year are that Twitter will be
+instantly useful. We want you to get a meaningful timeline right away…40% of
+all tweets come from mobile devices. 50% of all Twitter users are involved with
+more than one platform…Twitter should be like water. It's immediately available
+and instantly useful (Love).
+Echoing with Jack Dorsey’s “buzzing your friend’s pocket” and “buzzing all over the
+world,” Costolo stresses the “mobility” of tweets. They can reach you even if you are not
+in front of your computer— when you just wake up in your bed, on your way to your
+work, or during you lunch break—through all kinds of mobile devices you have with you.
+
+41
+Likening the platform with water, Costolo figuratively shows how can the sense of
+“liveness” be achieved spatially.
+The analysis above shows that the “liveness,” “nowness” and “immediacy” is
+conveyed on Twitter both temporally and spatially. These characteristics not only make
+Twitter an efficient communication medium, but also a unique delivery system for
+stories. For example, from May 24 to June 2, 2012, for 10 nights, Pulitzer Prize winner
+Jennifer Egan unfolded her short story “Black Box” with bursts of tweets coming from
+the account of New Yorker Fiction “@NYerFiction.” She reveals the inspiration behind
+the tweeted story in an interview with The New Yorker: “I love the thought of trying to
+use it as a delivery system for fiction, and I’m interested in the way that some nineteenthcentury fiction was constructed around its serialization. So, the question was: what kind
+of story would need to be told in these very short bursts” (Treisman)? The answer turned
+out to be a story about a female spy who is never given a name but referred to as a
+“beauty.” She is dispatched by the US government for spying on a major terrorist referred
+to as “the designated mate” and “the violent man.” While Egan does not explain why
+such a story is apt for the platform of twitter, in an interview with me on April 9, 2015,
+she answered,
+The content in a way is the product of the medium in the sense that, I started with
+this idea of doing something on Twitter and having it unfold in this continuous
+way—serialized but continuous—and also very intimate and private…When I
+began to hear the voice talking in that way, I always imagine that voice
+functioning in that environment of Twitter…I love spy stories, don’t we all? But
+I’ve been tempted to write one because I have never seen a way that I could do it
+that would not be totally cliche and derivative, so I sort of sensed that this
+[twitter] might be a way to try to do that. So in that way the idea indeed precede
+the medium, but once I had the medium and this idea of a way that this small
+
+42
+structural unit could be justified and interesting, that was when it really started to
+happen (Egan).
+
+It seems that what attracts Egan to tell a story on the platform is exactly the “liveness”
+offered: the streaming of tweets gives the perfect space for a continuous story and the
+“nowness” of each tweet enable it to be serialized. The voice mentioned by Egan—the
+major inspiration for her choice of Twitter as a medium—is in fact a second-person
+narrative from the protagonist. “The protagonist is recording her own reactions to each
+thing that happens, so we never look through her eyes at action; we are always in the
+reflective state, understanding what she’s learned from each action” Egan explains
+(Egan). For example, the protagonist recalls the technique of detaching her mind from her
+body when in “physical violation”—an umbrella term for having sex with the target of
+the espionage mission:
+
+43
+
+Figure 9 Screen shot, Tweets, @NYerFiction
+
+44
+
+This series of tweets are essentially delineating the process of entering a self-induced
+hypnotic state: When the protagonist counts down, she separates her mind and her body
+to avoid frustrating feelings. This subtle description of sensation and meditation that the
+protagonist experiences collides with the bursting feature of tweets perfectly to make
+them a series of hypnotic instructions.
+The content in the tweets exemplified above is not innovative per se, and from
+Egan’s explanation it seems that, Egan tries to use the unconventional medium of twitter
+to tweak the story’s cliched plot. However, it is ultimately the sense of “liveness” and
+“immediacy” of the Twitter platform that delivers narrative and prevents “Black Box”
+from being just a tired spy story. Because the tweets in every session of “Black Box”
+were posted with the interval of one minute, each tweet comes one after another in a
+steady stream. If one is following the story/tweets in real time—for ten nights when those
+tweets were posted—his or her experience of the story is more likely to sync with reality
+than reading the same text printed on a paper. Because as it is analyzed above, in
+comparison to a book, each tweet has a time stamp and thus has its “nowness,” it also has
+“immediacy” because a tweet will eventually disappear from a reader’s homepage. This
+“nowness” and “immediacy” will make a reader experience the story as if he is receiving
+the hypnotic instructions one by one, whether in front of a computer or staring at his
+mobile phone. However, if the same text was published in a book, this series of sentences
+will most likely be printed on the same page, and therefore would not give the sense of a
+process that is enabled by the temporal and spatial break between each tweet.
+
+45
+The possibility of a unique narrative formed by a series of fragmented tweets also
+attracted another prestigious novelist David Mitchell to publish on the platform. Starting
+at 2 AM on 14 July 2014, he tweeted his short story “The Right Sort” in 280 separated
+tweets. By posting 20 tweets twice a day—one starting at 2 AM and one starting at 12
+PM, he finished the story in 7 days. In an interview with The Guardian, Mitchell says,
+The story is being narrated in the present tense by a boy tripping on his mother’s
+Valium pills. He likes Valium because it reduces the bruising hurly-burly of the
+world into orderly, bite-sized ‘pulses’. So the boy is essentially thinking and
+experiencing in Tweets. (Flood)
+
+Described by Mitchell as “bruising hurly-burly,” the modern lifestyle causes many
+problems for people’s mental health, and Valium, a benzodiazepine drug, was developed
+for treating anxiety, panic attacks, insomnia, seizures, and etc. In the spasmodic burst of
+tweets, David Mitchell sees the possibility to portray a special perception—that of a
+youth under the influence of Valium. In the story, the protagonist Nathan follows his
+mom, a piano teacher to the mansion of Lord and Lady Briggs for a soiree. Worried about
+his petty social status, Nathan took the Valium prescribed to his mother to calm himself
+down, and in the very beginning of the story, the drug is taking effect:
+
+46
+
+Figure 10. Screen shot, tweet, @david_mitchell
+
+By breaking the “hurly burly” world into “bite-sized” sentences, Valium appeases
+Nathan. Interestingly enough, the protagonist even gives examples: “Like this one," “All
+lined up,” and “Munch Munch.” These extremely short sentences used by him shows that
+his perception of the world is fragmented and reorganized into lines, and it works just like
+Twitter, which presents information in organized snippets instead of overwhelmingly
+long discourse.
+Beyond the brief and list-like appearance, however, Mitchell also sees the
+potential of tweets as media for a type of “live” storytelling. In “The Right Sort,” when
+the effect of Valium kicks in, the protagonist is hallucinated and observes an imaginary
+soiree full of people in the living room,
+
+47
+
+Figure 11. Screen shot, tweets, @david_mitchell
+
+Like Jennifer Egan, Mitchell is aware of Twitter’s power to render extreme details within
+the limited space of a tweet. Through the protagonist eyes, we see a world in slow
+motion: outside the living room, the day becomes so “mild” that it seems to be covered
+by a layer of mist; the leaves from the tree, instead of falling, rather take their time in the
+air to “spin”. Moreover, Nathan observes the shape of the window, the complex patterns
+
+48
+of the wood, the steam from the teapot, even the movement of a candle’s flame. It seems
+that, the world is not hurly-burly anymore but extremely peaceful. Particularly, his
+language expresses his appreciation towards what he sees—it shows a sense of tenderness
+in response to the surrounding. Here in these tweets, brevity and simplicity breeds a
+miraculous serenity, and when readers experience the perception of the protagonist with
+the coming of tweets, they are more likely to feel the sensation and emotion Mitchell
+embeds in the language than if they read them in printed format. Again, we see that the
+medium for a work of literature is not just the vessel for its content, but it can also insert
+profound influence on the content. In the same interview with The Guardian, Mitchell
+admits that, “My hope is then that the rationale for deploying Twitter comes from inside
+the story, rather than it being imposed by me, from outside, as a gimmick” (Flood).
+Jennifer Egan and David Mitchell both adeptly utilize the stream of fragmented
+tweets to deliver stories that have dynamic plots, but this is never as easy as just posting
+the text on Twitter instead of sending them to printing machines. To create a story that
+can flourish on the platform of Twitter, one has to do more than just tell the story—that
+is, to only keep his or her reaction with the narrative—he or she has to be able to keep the
+relation between his readers as well as the narrative and his readers. Indeed, facing the
+same “conflict between segmentation and flow,” Jane Feuer claims that the “ideology of
+liveness” is used as the solution (Feuer,17). Feuer cited his colleague John Gaughie to
+explain that the “ideology of liveness” is to “strives to ease unification and repress
+contradiction, to allow a plurality of content to disguise a singularity of representation”
+
+49
+(Feuer,19). In other words, the “ideology of liveness” is television programs’ function to
+create an inclusive environment for the diverse social constituents.
+Since the concept of “liveness” is so important in many media, it should be asked
+why “liveness” is so desired. Why do people want to follow events as they are happening
+and receive information as they are disseminated? What difference will it make if people
+do not get updates in real-time, but with a time-lag? Above all, the synonym of “liveness”—
+“real-time” is itself implying something—how can time be real? Isn’t time already real?
+According to OED, the term “real-time” is defined as
+The actual time during which a process or event occurs, esp. one analysed by a
+computer, in contrast to time subsequent to it when processing may be done, a
+recording replayed, etc. Freq. in in real time: performed or occurring in response
+to a process or event and virtually simultaneously with it.
+
+Relativity is the key to understanding the attraction of “liveness”. Time can only be real
+when it has a reference of the “real” and is simultaneous with it. Essentially, what makes
+something “live” or make time “real” is the experience of community, or being part of a
+larger scene, sharing the same social context. Therefore, when people watch television or
+participate in social media, they are essentially enjoying a sense of community. People
+watch news on television to know what is happening around the world; they watch TV
+shows and talk about them together when there is a chance; they go to the Internet to be
+connected with others for entertainment, communication or other reasons. To participate
+and connect, however, requires synchronization; that is, in order to talk about the events
+that are happing around us, the shows that are broadcasting, to talk to someone in the
+chatroom or to reply to one’s tweet, one has to follow these happenings, if not exactly as
+
+50
+they are happening, at least within a short timelapse. It is not a coincidence that Twitter has a
+special section on its homepage—“trending
+topics”. It wants to keep the users aware of what
+the hot topic is around them, and thus participate
+in the Twitterverse at more ease.
+
+If we recognize the importance of interaction
+and community in the production and
+consumption of mass culture, it will not be
+difficult to understand the importance of
+serialized storytelling. While Dickens has
+inspired Egan to release her story in installments
+Figure 12, Screen shot, “Trends,” Twitter
+
+on the Twitter platform, the serialization of
+
+Dickens’s novel is believed to develop an intimate relationship between him and his
+readers. In her book Consuming Pleasures: Active Audiences and Serial Fictions from
+Dickens to Soap Opera Jennifer Hayward argues that, “By involving a community or
+readers in collaboratively interpreting and to some degree shaping a text, serials
+incorporate a space for critique and thus defuse the text’s potential coercive
+power”(Hayward, 31). Regarding Dickens, she particularly claims that,
+Dickens occupies an anomalous position in the history of serialization. On the one
+hand, he was instrumental in developing mass-produced fiction, and thus became a
+kind of manufacturer of narrative for a vast and faceless public. On the other hand,
+probably more than any writer of his time he insisted (sometimes against all
+
+51
+evidences to the contrary) that his relationship with that public was interactive,
+even intimate. (Hayward, 39)
+
+As the allure of Scheherazade to tell serialized story has been known for long, the
+potential of the serialized novel in forging community, and communal reading experience
+and thus encouraging engagement becomes all the more obvious in Twitterature. The
+means Twitter offered to its user to communicate with each other: “@user”—to address
+the tweet to a specific person, reply directly to a tweet, and retweet (sometimes
+abbreviated as RT)—posting the message posted by others originally, allow user to
+actively participate and engage in the narrative published on the platform. For example,
+as Egan posts her story on Twitter, her readers also moved their discussion on the work to
+the platform:
+
+Figure 13. Screen shot, Tweets, @MatthewBattles
+
+52
+
+Figure 14. Screen shot, Tweets, @atrubek
+
+Figure 15. Screen shot, Tweets, @MatthewBattles
+
+In this snippet of conversation on Twitter, user @atrubek and @MatthewBattles discuss
+the storytelling of the “Black Box” by using the @user syntax that addresses the tweet to
+a specific person while publishing it to the public. In these few tweets exchanged with the
+interval of every two minutes, they not only expressed their likes (the “beautiful”
+composition, the “elegant” and the fact that it is written in a storyboard) and dislikes
+(they think that the temperament of the plot does not fit into the “stream” seamlessly), but
+
+53
+also referred to some specific parts of the story (a series of tweets that start with “you
+will,” the instructive voice) and commented on it. Notably, the tone of their conversation
+is very intimate, as they call out each other casually “kid” and @MatthewBattle even
+mentioned some personal details that he wanted to tweet a story too. Different from the
+engagement readers can form in traditional ways such as face-to-face conversation,
+reading groups and published criticism, the platform of Twitter allows the readers to
+engage in a story timely and interactively.
+Understanding Twitter with the concept of “liveness” that emerged in the studies
+of television, and “serialization,” a concept originated from the studies of the 19th
+century serialized novels, we see how the modes of presentation of Twitter gives its users
+a sense of “the real” by its temporality and spatiality. The temporality of Twitter is
+created by the multiple time stamps in a tweet and the continuous streaming of the tweets.
+It situates the users in a larger background and makes them feel that they are constantly
+being updated to reality. The spatiality of Twitter is created by users’s control over the
+content—a sense of mobility inside the digital world—and the availability of updates
+across platforms—a sense of mobility in real life. When these features of the Twitter
+Platform is employed to serialize storytelling on the platform, such as in Jennifer Egan’s
+“Black Box” and David Mitchell’s “The Right Sort,” new reading experiences and new
+forms of reader engagement are introduced to the literary world.
+
+54
+
+3
+“Twitterature” and “Digiteracy”
+“I leave to various future times, but not to all, my garden of forking paths.”
+
+— Jorge Luis Borges, “The Garden of Forking Paths”
+
+As a social-networking service, the first and foremost goal of Twitter is building
+social relations between people. The function of literature, on the other hand, is
+communicating between people meaningful and valuable ideas, emotions, knowledge,
+imaginations, etc. When these two collide, an array of questions regarding social relations
+and the representation of meanings will inevitably occur. Indeed, in the last two chapters
+when we approached the Twitter Platform through its formal characteristics, many issues
+around the relations between author, reader, and text have already emerged. On one hand,
+when we analyzed Twitter’s “Algorithmic Poetry,” the ambiguity of the authorship in the
+human-computer collaborative poetry was exposed; when we inspected longer forms of
+storytelling on Twitter and its “liveness,” we also observed how the authors relinquish
+their direct control over the story by letting their narratives mingle in the stream of
+tweets. On the other hand, in both cases a freed space for the interoperation and
+experience of reading was brought to light. This chapter will serve as a continuation of
+the last two chapters to further investigate the social relations surround the production of
+Twitterature as well as how the meanings of texts are assigned when the texts are
+
+55
+transformed in the digital world. However, instead of focusing on the format, this chapter
+will look at the language used on Twitter and more specifically the characteristic
+elements such as hashtags, hyperlinks, and acronyms/Internet slangs. While these
+elements are often considered “lowbrow” by people who use the standard of literacy
+created basing on printed literature, they are the integral parts of people’s communication
+on Twitter. They do not only make indispensable contribution to Twitterature’s
+expression, but also signify Twitterature’s revolutionary force in reconfiguring a new
+standard for “digiteracy.”
+N. Katherine Hayles, a postmodern literary critic most notable for her
+contribution to literature and media studies, claims in her seminal book Electronic
+Literature: New Horizons for the Literary that the relations between electronic literature
+and print literature “are best considered as two components of a complex and dynamic
+media ecology. Like biological ecotomes, they engage in a wide variety of relationships,
+including competition, cooperation, mimicry, symbiosis, and parasitism” (Hayles,160).
+As a sub-genre of electronic literature, Twitterature’s relationships with print literature is
+no less complicated. From the “Algorithmic Poetry” created collaboratively by ordinary
+Twitterers and algorithms, to the serialized stories of celebrated contemporary authors,
+the question constantly behind such “literary” tweets is “What makes these tweets
+literary?” While the diversity and unlimited possibility of Twitterature makes a unified
+definition impossible, Teju Cole, both an author of critically acclaimed literature and a
+Twitterer who has over thirteen thousand tweets and multiple works of Twitterature,
+offers an informed opinion. In my interview with him on February 23, 2015, when asked
+
+56
+what makes his tweeted essay “A Piece of Wall” a work of literature, he answered that
+this difference exists on a linguistic level. He claimed that, regardless poetic language,
+even writings with no “funky” uses of hashtags, hyperlinks, acronyms or abuses of
+capitalization are extremely rare on the platform (Cole).
+Although Cole has used the unconventional platform of Twitter to publish many
+works of various genre, his writing style in them does not vary much from that in his
+books. For example, in “A Piece Of The Wall,” a tweeted essay consisting 250 tweets
+about the issues of immigration policy in the U.S, his writing is refined and full of artistic
+gesture. The essay starts with:
+
+57
+
+Figure 16. Screen shot, Tweets, @apieceofthewall
+
+Given that Cole’s writing style has always been appraised as rhythmical and lucid12, the
+form of tweets seems to even reinforce these characteristics of his writerly voice. Not
+only does the cadence of his sentences make them fit into tweets seamlessly, these
+sentences are also written with perfect grammar and punctuation. “I hear the sound of
+faint bells in the distance,” Cole starts his first tweet with a rather ordinary narrative, like
+that of anyone who is using tweet to tell what he or she hears, sees or feels. However, as
+the readers get more tweets from the account “A Piece of the Wall,” they may realize that
+this tweet is more than just an ordinary one: the likening of “the sound of faint bell” to
+“the sound of dream” is abstract, and the voice of narrative is meditative. Moreover, in
+
+“Open City is a meditation on history and culture, identity and solitude. The soft, exquisite rhythms of
+its prose, the display of sensibility, the lucid intelligence, make it a novel to savour and treasure.”—Colm
+Tóibín, author of The Master and Brooklyn. Review on Teju Cole’s official website: http://
+www.tejucole.com/review/
+12
+
+“Written in a clear, rhythmic voice that lingers, this book is a mature, profound work by an important new
+author who has much to say about our world.” Amazon’s review on Open City
+
+58
+the second tweet, three repetitive words “jingle” are on both sides of “The sound comes
+closer.” The symmetrical format shows Cole’s design in tweets: the sound is not only
+coming closer to the reader in the voice, but also coming closer in its text. The third tweet
+is especially thoughtful, because it is using such a graceful pace to narrate a very cruel
+scene—that of seven illegal immigrants from Mexico who will be jailed and deported
+from Arizona. Even from the beginning of “A Piece of the Wall,” we get a sense of how
+the tweets of this Twitterature can be differentiated from the rest of tweets on the
+platform for its distinctive voice and artistic gestures.
+Teju Cole is not alone in his mindset that despite the form, the language in a work
+of Twitterature should remain the same as it is in print literature. In fact, in the tweeted
+series “Black Box” and “The Right Sort” examined in chapter 2, which are also created
+by prominent writes who mainly publish in the form of books, the language also remains
+rather the same as it is in printed texts. Therefore, it is not a surprise that Egan’s story is
+republished in The New Yorker and Mitchell’s “The Right Sort” is included in his book
+The Bone Clocks. However, as N. Katherine Hayles points out, electronic literature as a
+genre is “generally considered to exclude print literature that has been digitalized,” and is
+“by contrast ‘digital born,’ a first-generation digital object created on a computer and
+(usually) meant to be read on a computer” (Hayles, 3). Indeed, electronic literature should
+not be understood as a simple physical migration of literature from print media to
+electronic ones. If a work of literature is created on a computer and meant to be read on a
+computer, it means that the elements of computation is so integrated into the work that it
+cannot be the same anywhere else. By the same token, to call a work Twitterature means
+
+59
+that the work should be created on Twitter and meant to be read on the same medium.
+Therefore, it is only reasonable that the conventions used by people to communicate on
+Twitter should not be excluded in a work of Twitterature.
+While the characteristic elements such as hashtags, hyperlinks, and acronyms are
+excluded by many writers when they publish on Twitter, they are integral parts of how
+people communicate with each other on the platform, and therefore should not be banned
+from the creation of Twitterature. In fact, when they are used justifiably, they can
+demonstrate many unique characteristics of Twitterature. For example, a hashtag is a
+word or phrase preceded by a hash or a pound sign (#), and it was originally used in
+Internet Relay Chat to label groups and topics (Oikarinen and Reed). Later, it was
+popularized on various social media platform as a way for users to organize and search
+messages. On Twitter, if a hashtag with a keyword is included in a tweet, it can be used to
+find all other tweets with the same hashtag, and therefore, conversation centering on the
+same topic is easily organized. Just like tagging other Twitter users (@user) and the reply
+function we analyzed in the end of the last chapter, the fundamental role of hashtags is to
+connect people and organize information.
+As an indispensable social function of Twitter, hashtags play an important role in
+the creation of “Hearts, Keys and Puppetry,” a collaborative story by Neil Gaiman, author
+of many fantastical and Sci-Fi stories and hundreds of Twitterers. On October 13, 2009,
+sponsored by BBC Audio Book America, Gaiman tweeted the following tweet as the start
+of his story:
+
+60
+
+Figure 17. Screen shot, Tweets, @neilhimself
+
+However, instead of continuing, he let the Twitterverse finish the story. The rule was:
+anyone on Twitter can think a way to continue the story by tweeting his or her own lines
+with the hashtag #bbcawdio and the tag @BBCAA. BBC Audiobooks America’s Twitter
+account “@BBCAA” selected and collected some of these tweets to form a narrative that
+makes sense. The result of the collaboration turns out to be a fantastical Alice-inWonderland-like story about a young girl, Sam, and her self-discovery journey to the
+inside of the mirror mentioned in Gaiman’s tweet. After meeting an old puppet, going to a
+party thrown by the king of the world inside the mirror, and many other bizarre
+experiences, she eventually learns to conquer her fear and doubt about an accident in
+which she pushed her brother Bobby from a swing and caused his death.
+
+61
+Because BBC Audiobooks America decided to produce only an audiobook for
+“Hearts, Keys and Puppetry” not a printed edition, it is impossible to find the complete
+collection of tweets that comprise the story. However, if one searches the hashtag
+#bbcawdio on Twitter, some of the tweets written by the participants will still come up.
+For example, below is a tweet that describes the scene when Bobby falls out from the
+swing:
+
+Figure 18. Screen shot, Tweets, @taupefox59
+
+As a part of the collaborative story, the tweets that comprise the story were written by
+different people in difference places at different times. Before tweeting out their lines,
+they search the hashtag to get a general sense of what direction the story was developing,
+or they could also write down a random thought as it appeared in their mind. This way of
+creating a story may seem absurd to some people, yet thanks to the imagination of the
+Twitterers and the editing of BBC Audiobook America, the plot of the story is full of
+
+62
+unexpected turns and yet astonishingly cohesive overall. However, the role of hashtags is
+equally important in the creation of the story, because BBC Audiobook America could
+never have found the individual component tweets out of the vast sea of tweets without
+hashtags.
+Beyond connecting sentences together, the function of hashtag in the creation of
+“Hearts, Keys and Puppetry” is profound. “grassroots creativity,” a cultural phenomenon
+Henry Jenkins discusses in his book Convergence Culture offers insight into the creation
+of “Hearts, Keys and Puppetry.” “The web provides a powerful new distribution channel
+for amateur cultural production” Jenkins observes, and he claims that, “grassroots
+creativity” in which “everyday people take advantage of new technologies that enable
+them to achieve, annotate, appropriate, and recirculate media content” has become a
+prevalent cultural e (Jenkins, 136-137). It seems that Twitter is the epitome of the web’s
+“powerful new distribution channels.” By connecting people and encouraging them to
+exchange ideas in terse phrases, Twitter plays a significant role in contemporary cultural
+production. In the case of “Hearts, Keys and Puppetry,” Twitter serves exactly as the
+channel to allow users to act as it is mentioned by Jenkins. Firstly, they “appropriate” the
+first sentence posted by Gaiman, and then they “annotate” on it to write their own
+sentences to continue the story. Meanwhile, as they post their own sentences, they are
+effectively recirculating the materials, and eventually they, together with Gaiman, achieve
+the fantastical story.
+Hashtags are the fuel for “grassroots creativity” on Twitter. It is undeniable that
+people can co-write stories offline by exchanging text on paper; however, the process of
+
+63
+collaboration will never be done with the same efficiency over such a large pool of
+collaboration. Therefore, the use of hashtags demonstrate to us the great possibility of
+Twitterature as grassroots culture. As the result of a collision between social media and
+literature, the social part of a work of Twitterature should not be neglected, and thus
+Internet identifiers such as hashtag should not be excluded from the definition of
+Twitterature.
+Notably, Jenkins especially distinguishes the difference between the concept of
+“interactivity” and “participation”—two terms that he believes has been mistakenly used
+as interchangeable. “Interactivity,” according to him, “refers to the ways new
+technologies have been designed to be more responsive to consumers feed back,” and
+“participation,” on the other hand, “is a more open-ended, less under the control of media
+producers and more under the control of media consumers”(Jenkins,133). Essentially,
+these two terms have different focuses: “interactivity” focuses on the technological side
+of collaboration while “participation” focuses on the social relation side. Although
+cultural producers have always desired “interactivity,” because consumer feedback will
+not only give them revenue but also improve their product so that they can generate even
+more revenue, “participation,” according to Jenkins, has the potential to overthrow the
+power relation between the cultural producers and consumers. When cultural consumers
+interact in the process of cultural production so intensely that their participation becomes
+part of the creative force, the interests of the producers may be compromised. Indeed,
+although the story of “Hearts, Keys and Puppetry” is recognized by most people as an
+
+64
+“interactive story13”; and the technological side of it is well recognized, the social side of
+the collaboration needs to be analyzed. Although we analyzed the changing concept of
+authorship through a discussion of Twitter’s “Algorithmic Poetry” in chapter 1, in this
+case the barrier between authorship and readership seem to be further blurred, and the
+readers seem to be more empowered. Since Gaiman only writes the first line of the story
+and all the rest is completed by the users in the Twitterverse, the readers (if they should
+still be called the “readers”) of the story are not only given the freedom to interpret the
+story, but also given the power to direct the story themselves.
+Twitter has always been acclaimed as a democratizing tool in politics14, and it
+seems that the same effect in the realm of literature can also be achieve by Twitter.
+However, just like we need to be careful about the illusion of a political democracy on
+Twitter15, before we jump into the conclusion that Twitter has put the readers and the
+writers in an equal position in the production of “Hearts, Keys and Puppetry,” we need to
+evaluate the real social impact of the contributors to the story other than Neil Gaiman. In
+fact, although Neil Gaiman only writes the first sentence of the story, BC Audiobook
+America attributes authorship to him by naming the author of the story as “Neil Gaiman
+and the Twitterverse” and omits the names of all other contributors. Moreover, not only is
+Mashable, a popular magazine of technology and media, titles the article on “Hearts, Keys and
+Puppetry” “Neil Gaiman + Twitter = Interactive Storytelling”. http://mashable.com/2009/10/13/neilgaiman-twitter-audiobook/
+13
+
+For example, in Andrew Sullivan’s article “The Revolution Will Be Twittered”: http://
+www.theatlantic.com/daily-dish/archive/2009/06/the-revolution-will-be-twittered/200478, and Michelle
+Malkin’s article “Iran, Twitter, and freedom:” http://michellemalkin.com/2009/06/18/iran-twitter-andfreedom/
+14
+
+This viewpoint is articulated in length by Evgeny Morozov in his book: The Net Delusion : the Dark
+Side of Internet Freedom. New York: Public Affairs, 2012. Print.
+15
+
+65
+the recognition of the contributors insignificant, the story itself seems to be less fully
+recognized compared with Gaiman’s other works. Gaiman’s writings are usually
+extremely popular; for example, American Gods, probably the most widely read fantasy
+novel, has received 336,849 ratings and 16,498 reviews on Goodreads, the online
+database for books where users can leave their reports. However, “Hearts, Keys and
+Puppetry” only received 161 ratings and 33 reviews on the website. Therefore, it is quite
+apparent that, although the experiment of Gaiman in co-creating a work of literature with
+the Twitterers is promising in changing the power structure of literary production in
+traditional mode, the result is not yet revolutionary. In the end, what crown the story is
+still the name of Neil Gaiman.
+The name of the author has been given significance value and yet questioned
+constantly in the history of literature. Mitchell Foucault offers an in-depth analysis on this
+topic of contention in his essay “What is an Author?” In the beginning of his essay, he
+points out that,
+The coming into being of the notion of "author" constitutes the privileged
+moment of individualization in the history of ideas, knowledge, literature,
+philosophy, and the sciences. Even today, when we reconstruct the history of a
+concept, literary genre, or school of philosophy, such categories seem relatively
+weak, secondary, and superimposed scansions in comparison with the solid and
+fundamental unit of the author and the work (Foucault, 203).
+
+It seems that, although the essay is written in 1969, his observation still exists in the
+cultural atmosphere of our age. The story “Hearts, Keys and Puppetry” illustrates this
+phenomenon at best because of the fact that although it is a collaboration between Neil
+Gaiman and hundreds of other Twitterers, the work is attributed to his name. Moreover,
+
+66
+since Neil Gaiman is famous for his proliferate production of fantasy and science
+fictions; it is not a coincidence that although he only wrote the first sentence of “Hearts,
+Keys and Puppetry,” the story turned into one full of fantastical elements that echoes his
+style. Clearly, people who continued the story were his followers, and these followers are
+his readers who are interested in his works. Therefore, when they have the chance to
+continue a story, they decide to imitate his style. This behavior is termed in contemporary
+culture as “fan culture.”
+The change brought by fan culture on the literary production in our society,
+however, is not simply empowering the readers, but more importantly, liberating the
+meaning of texts. Foucault believes that this elevated status of “author” is an “ideological
+figure by which one marks the manner in which we fear the proliferation of meaning”
+(Foucault, 264). It seems that if we think of an author so highly that we believe we can
+only go to him for the “meaning” of the work—just like the fans of Gaiman who believe
+that the story of “Hearts, Keys and Puppetry” can only work if they write a plot that fits
+into his style—the meaning of the work will be limited.
+Foucault proposes for another possibility of writing, he writes,
+Writing unfolds like a game (jeu) that invariably goes beyond its own rules and
+transgresses its limits. In writing, the point is not to manifest or exalt the act of
+writing, nor is it to pin a subject within language; it is, rather, a question of
+creating a space into which the writing subject constantly disappears.
+
+Notably, Foucault’s discourse is built upon Barthes’ discourse on authorship which has
+been analyzed in chapter 1—“The Death of the Author,” in which Barthes claims that the
+God-like figure of an author will be relinquished in modern literary world. While
+
+67
+Barthes’s criticisms on “the author” is for the empowerment of readers, it seems that
+Foucault is inquiring the possibility of the text’s autonomy. For him, text can be neither
+the possession of the writer nor the reader but an interplay of signs themselves. Their
+meanings should be entirely from themselves. In essence, if the meaning of a text is no
+longer controlled by individuals, it will multiply infinitely.
+However, sometimes the proliferation of meaning does not only depend on
+human—that is writers or readers—but also on the text itself. As Foucault points out,
+writing can unfold itself and transgresses its limits. Although this is rather an abstract
+idea, hypertext, the text displayed on a computer and other electronic devices which
+contain links to other texts, serves a good illustration. Because the links always bridge the
+meaning of the text to another text and thus another meaning, the text—just like it is
+articulated by Foucault—“unfold like a game (jeu) that invariably goes beyond its own
+rules and transgresses its limits.” Hypertext, by separating the meaning from the text and
+extending it infinitely, expands our interpretational procedures of a text, and allows the
+infinite development of the meanings it can signify.
+Hypertext is the fundamental structure of World Wide Web. According to the
+inventor of the Web, Tim Bernes-Lee,
+Inventing the World Wide Web involved my growing realization that there was a
+power in arranging ideas in an unconstrained, weblike way. And that awareness came
+to me through precisely that kind of process. The Web arose as the answer to an open
+challenge, through the swirling together of influences, ideas, and realizations from
+many sides, until, by the wondrous offices of the human mind, a new concept jelled.
+It was a process of accretion, not the linear solving of one well-defined problem after
+another (Berners-Lee, 57).
+
+68
+He invented the Web because he saw the great power of linking human ideas together like
+a web.The process of combining these ideas is a process of “accretion,” that is, the
+accumulation of matters. Indeed, the way in which web provides us information is
+usually through links: we type a web-address in the address bar on the top of the web
+browser; it provides us with information through text, and some text conclude links; if it
+indicates to the information that we want to know more about, we click on the link and
+will be redirected to a new webpage; the process continues as long as we want to know
+more. In this case, the meaning of the text becomes unconstrained. Like it is expressed by
+Bernes-Lee, the cognition of human mind is “wondrous” exactly because of its ability in
+continuous extension.
+Literature, being the very expression of extraordinary human minds and the tool
+for communicating ideas, therefore, should never be constrained by the misunderstanding
+of textuality, that a text only conveys a specific idea or a certain set of ideas. As it was
+demonstrated in chapter 1, a text can generate a variety of meanings in the minds of its
+readers if the power of the author is curtailed. Moreover, in chapter 2, we can see that
+dynamic storytelling can be achieved when writers relinquish their direct control on
+narratives and allow them to gain their own temporality and spatiality in the stream of
+tweets. Therefore, if we can completely free the idea within a text from the textuality, the
+possibility of literature will be unlimited.
+Twitter, as a web-based platform, also depends on hyperlink. In fact, because of
+the limitation it imposes on the amount of text one can post, people do not only depend,
+but maximize the potential of hyperlink to the full. Many people who cannot include all
+
+69
+the information they want to convey in the 140 characters sometimes choose to include a
+web-address (URL) in the form of hyperlink to direct the readers to another website, and
+because a URL usually includes many characters, URL shortening service such as the
+website bit.ly has been developed to serve this need. On bit.ly, one can enter a URL in the
+input box, and after clicking on “shorten,” the URL that will be squeezed into a shorter
+one according to a specific formula.
+Since hyperlinks and their related attributes such as URLs and shortened URLs
+are the characteristic elements that constitute the Twitter platform, it is not a surprise that
+they are sometimes used in the creation of Twitterature. For example, “TIME” is a
+Twitter account by Dennis Tenen and Susana Zialcita. They look for quotes that indicate
+minutes from numerous books, and tweet out these quotes every minute for 24 hours on
+March 144, 2014. In addition the quotes, the tweets also include shortened hyperlinks to
+lead readers back to the original text on Google books. For example,
+
+70
+
+Figure 19. Screen shot, Tweets, @LITclock
+
+The first tweet quotes from Cormac McCarthy’s No Country for Old Men. The quote
+includes an indication of 12:59—one minutes away from a new day—and it was posted at
+12:59 on March 14, 2014. The second tweet is a quote from The Tragical History of
+Doctor Faustus by Christopher Marlowe. The quote is about 12’o clock at midnight and
+it was posted at 1am (The hour in the text and the hour at which it was posted do not
+coincide, but at least their minutes are the same in this case.) Both of these tweets include
+the links to the original text in Google Books.
+“Time” shows many aspects of the Twitterature’s complexity, which include both
+of the aspects that were analyzed by us in the last two chapters. First of all, it shows the
+ambiguity of authorship. Who is the author of “Time” as a work of Twitterature? The
+authors of the original literature such as Cormac McCarthy and Christopher Marlowe, or
+the owners of the Twitter account, Dennis Tenen and Susana Zialcita? Secondly, the work
+is an intricate reconstruction of time and space. In terms of time, it connects various
+
+71
+moments throughout history—because the text quoted were written in different times—
+into a compact 24 hours in the Twittersphere. In terms of space, it leads readers from the
+Twitterverse to Google Books. Moreover, because Google Books are scanned images of
+the original books, it leads readers from the digital world to the print world, but most
+interestingly, the print world in this case is but an illusion, it is still constructed on pixels,
+the elements of the cyberspace. Many questions regarding authorship and textuality are
+raised in “Time,” and it was raised through the use of hyperlink. Indeed, “Time,” a
+thought-provoking work of “Twitterature,” not only shows hyperlinks’ power in bridging
+meanings, but also shows Twitterature’s power in questioning and redefining our
+understanding of textuality when we study literature.
+In fact, as it is shown in the hashtags included in the tweets of “Time,” the work is
+created as a contribution to the 2014 #TwitterFiction Festival, a virtual celebration held
+by Twitter in 2012 and 2014 for the cause of “embracing, exploring, and developing the
+art of storytelling on Twitter” (Twitter Inc.). Indeed, to create literature on Twitter is not
+simply truncate sentences that were written for print media and tweet them out one by
+one; instead, the unique features of Twitter and Internet should be fully utilized to explore
+the possibilities of literature in conveying meanings and values that are brought to us by
+technologies.
+New communication technologies not only change the forms of writing used by
+people but also the language used. There are people who maintain a conservative opinion
+about Twitter’s influence on language and accuse it of truncating people’s expression,
+such as Ralph Fiennes who claims that, modern language “is being eroded” in “a world of
+
+72
+truncated sentences, sound-bites and Twitter” (Jones). There are also people who hold an
+experimental mindset who uses Twitter but rather remain the writing style that they use in
+print media, such as Teju Cole. However, new phenomena in people’s use of language
+cannot be neglected. One of these phenomena is the use of acronym and abbreviations
+such as “LOL” (Laugh out loud) and “YOLO” (You only live once). They are extensively
+used in people’s contemporary online communication in the age of social media,
+especially on Twitter, where economical use of language is the first rule. Therefore, it is
+not a surprise that acronyms are used in some of the works produced during the Twitter
+Fiction Festival, and among these works, Benjamin Percy’s “The Monster at the End of
+this Tweet” especially offers insight into this linguistic phenomena.
+Inspired by the children's story “The Monster at the End of this Book,” Percy
+addresses his readers directly :
+
+73
+
+Figure 20. Screen shot, Tweets, @Benjamin_Percy
+
+Starting with a statement that shifts his readers’ belief underneath their feet, that they are
+not reading story but “code,” Percy’s voice leads his readers to an unconventional
+storytelling that resembles the voice of Jennifer Egan in “Black Box.” Indeed, referred to
+as a “meta digital horror story,” Percy leads his readers to a place that has no less dangers
+and challenges than that of Egan’s spy mission (Storify). He tells his readers that they are
+reading “code” and these codes will penetrate their brain and cerebral. Although this
+process described by his solemn and sinister language will make his readers uneasy, he
+asks his readers to calm down—to drink their coffee and to keep reading—and he ends
+his tweet with a hashtag “#YOLO”.
+“YOLO,” the acronym for “you only live once” has a similar meaning to carpe
+diem. Although the brevity of acronyms makes some people think that they lack the
+
+74
+sophisticate history of some English vocabulary, the acronym “YOLO” in fact has
+developed multilayers of meaning through its history. According to Katherine Martin,
+Head of U.S. Dictionaries at Oxford University Press, “The phrase ‘you only live once’
+goes back to the 19th century, and maybe it’s just so irresistible that it forms a
+pronounceable acronym. It looks as though the original phrase sort of came into its own—
+there’s a pretty steady increase of use from 1940 to 2000” (Bereznak). The acronym was
+later used by popular figures such as Mickey Hart, the drummer of the band “Grateful
+Dead” in his records, Adam Mesh, the television personality in his reality television
+series, and Drake, the hip-hop artist in his song “The Motto.” It started to appear on many
+pop culture merchandises such as bracelets and hoodies, and at the meanwhile it was
+popularized on the Internet (Bereznak). However, the meaning of the term seem to be
+going through a subtle change over the history of its development. When it was used so
+extensively in pop culture, some people started to use it in a sarcastic way to poke fun of
+the mainstream aspect of the phrase. For example, an Internet meme16 was made to mock
+the use of “LOL,”
+
+16 An
+
+Internet meme is a popular form of spreading mimicry activity, concept, catchphrase or piece of
+media from person to person via the Internet.
+
+75
+
+Figure 22. Screen shot, When someone says YOLO, Tumblr
+
+The meme is titled “When someone says YOLO,” and the gif (a short video clip) shows a
+disdainful expression of Sheldon Cooper, the fictional character from the television series
+The Big Bang Theory. Because Sheldon is portrayed as an extremely smart scientist in the
+show, and the caption reads, “Was that the motto of your community college,” the meme
+implies that the acronym “YOLO” is considered elementary and uneducated. Moreover,
+most recently, “YOLO” was used as the name for a song produced by the comedian
+music group “The LonelyIsland.” In the song, the term is used by them for “You oughta
+look out” rather than “You only live once.” The lyrics suggesting that there are many
+dangers “outside” so people should never go out, for example, they sing, “And never take
+the stairs/Cause they're often unsafe/You only live once/Don’t let it go to waste.” In the
+end of the song, they claims, “YOLO, say no no/Isolate yourself/And just roll solo/Be
+
+76
+care-folo/You oughta look out/Also stands for YOLO.” From the lyrics, it seems that they
+are mocking the mainstream pop culture that abuses the word “YOLO.” They give the
+advice that people should remain alone and not follow the trend.
+Since the acronym “YOLO” has developed both positive and negative meanings
+through its history, is Percy using the negative one or the positive one? After describing
+the formidable process through which “code” enters the readers’ brain, he pictures the
+readers sitting in front of their screens and sipping coffee, as if they are ignorant of the
+serious situation; therefore, it seems that, “you only live once” rather embodies negative
+meaning in this case than simply telling his readers to cherish their life. In fact, because
+in the following tweets/the rest of the story, he will describe many aspects of cyberspace
+including cyber security, computer virus and mainstream culture on the Internet, which is
+mocked by “The LonelyIsland,” “You only live once” seems to mean a warning, just like
+it is used in the lyrics.
+The word “YOLO” demonstrates that for one to understand Percy’s story, he or
+she has to some knowledge about the culture that is developed online. Therefore, Percy’s
+story is truly a story that is written on the Internet and for the users of Internet. It not only
+fully uses the instruments (both formal and linguistic) of Internet to deliver his story, but
+also devote its content to explore the phenomena of online culture. In the story, he
+comments on the use of acronyms:
+
+77
+
+Figure 23. Screen shot, Tweets, @Benjamin Percy
+
+Percy points out in the beginning of the story that, “Everything is code” in the beginning
+of the story. However, by “code’ he does not only refer to the programing language which
+is commonly known as the “code” but also other languages such as acronyms. In the two
+tweets above, he exemplifies other popular acronyms used on the Internet and claims that
+when we read them, they “trampoline” our thoughts. Indeed, the few characters in an
+
+78
+acronym works like a trampoline—they direct us to other words, sentences or even larger
+implications such as the mockery of mainstream culture implied by “YOLO.” Again, we
+are reminded of the nature of hypertext—although acronyms are not hypertext per se,
+they function like hypertext, connecting us to an accretion of meanings.
+Throughout Benjamin Percy’s “The Monster at the End of this Tweet,” he
+addresses many aspects of the digital world’s influences on our life. He likens these
+influences to the progression of computer virus, because like how we get infected with
+computer virus, many of these influences are happening without our awareness. In the
+end of story, Percy tells his readers that they are the “monster” who are creating these
+influences：
+
+Figure 24. Screen shot, Tweets, @Benjamin Percy
+
+Indeed, in spite of people’s criticism and skepticism about the changes in our
+language and society in larger imposed by the Internet, we are the very creator of them.
+
+79
+In Teju Cole’s interview with Buzzfeed, the internet news outlet, when asked what made
+him decide that his essay “A Piece of the Wall” would be best presented on Twitter, Cole
+responded,
+I’ll answer that by saying I didn’t think this essay could be “best” presented in
+this medium, but I asked the opposite question: Why does a serious long form
+investigative piece have to be in print in a major magazine?…I love paper too. I
+love print. But maybe not everything has to be on it. And in the case of Twitter
+(and, before that, blogging), I just feel so strongly that there’s an audience here,
+and audience that deserves to be treated with the same seriousness as the paper
+crowd. (Calvin)
+In his answer, Cole implies a cultural dichotomy, that between the “paper crowd” and the
+audience of Twitter. The “paper crowd” is consisted of people who read print media, and
+they are usually considered as people who consume “serious” cultural materials. Twitter
+and its users, on the contrary, tend to be overlooked as such consumer. Indeed, many
+people are still questioning Twitter’s ability in delivering literary content because on
+Twitter when people write they use many elements that are considered “low-brow”
+according to the standard of literary based on print media. However, in order to
+appreciate Twitterature, we should put down the criteria created by literature in printed
+forms in the very beginning and open our minds for the possibilities created by Twitter in
+conveying the meanings and values of our age, in which the World Wide Web plays an
+indispensable role in society. World Wide Web connects people around the world by
+allowing them to share texts, images, sounds, videos and etc. When this power of
+connection is employed by people to produce literature, the producer-consumer relation
+established in the past is destined to be modified. Moreover, since the fundamental
+structure of World Wide Web is hypertext, the system by which we assign meaning to
+
+80
+texts in the literary world will also be reconstructed. Indeed, “digiteracy,” a new standard
+of the literacy in the digital should be and is being established.
+
+81
+
+Conclusion
+Regarding the relation between literature and society, cultural theorist Raymond
+Williams claims that,
+The literature is there from the beginning as a practice in the society…we
+cannot separate literature and art from other kinds of social practice, in such a
+way as to make them subject to quite special and distinct laws. They may have
+quite specific features as practices, but they cannot be separated from the general
+social process…when we read much literature, over the who range, without the
+sleight-of-hand of calling Literature only that which we have already selected as
+embodying certain meanings and values at a certain scale of intensity, we are
+bound to recognize that the act of writing, the practices of discourse in writing
+and speech, the making of novels and poems and plays and theories, all this
+activities takes place in all areas of the culture (Williams, 44).
+
+Indeed, literature is in the human society since its very beginning. When paper was not
+yet invented, people told each other stories and sang ballads and communicated ideas to
+circulate them by mouths and ears. After paper was invented, they started to write them
+down, and after printing was invented, these cultural materials were standardized and
+disseminated on papers with a faster speed and a broader scale. As it is pointed out by
+Marshall McLuhan, “‘The medium is the message’ because it is the medium that shapes
+and controls the scale and form of human association and action,” literature as the content
+of media was changed in terms of how it is disseminated among people (McLuhan, 9). It
+seems that whenever this change of medium happened, the society had to take time to
+adjust to the change. When printed codex were manufactured, “the Scriptorium was in
+turmoil” and some of the monks were furious to see that religious text could be printed as
+
+82
+books (Hayles, 1). Therefore, the doubt and skepticism from the literary world towards
+electronic media is only reasonable. The problem at stake seems to be the same: how can
+the text containing so much meanings and values be carried by some medium that is
+mechanical and indifferent? And the problem in essence is a clash between what is
+considered “high” and what is considered “low”. Nowadays, literature does not only
+include religious text, but what are called “literature” are still given the elevated status.
+Electronic media such as E-Readers are abhorred by many people because they think the
+“aura” of literature is destroyed by these cold and lifeless devices. Twitter, a web-based
+platform on which people can publish text freely, is even deemed by them impossible as a
+platform that can give birth to “literature.” However, as it pointed out by Williams,
+literature is ultimately a social practice; it is among other kinds of social practices and
+cannot be separated from them. Indeed, the purpose of literature in the end is to
+communicate, and communication is a social practice. Since Twitter plays an important
+role in contemporary communication, it should not be excluded as platform to produce
+literature.
+Moreover, Williams points out that there is “no special and distinct laws” to
+define what is literature, and we select those “embodying certain meanings and values” to
+call it literature. While the diversity of literature’s possible contents makes it impossible
+to define literature according to its content, meanings and values vary from different
+social contexts and different individual’s interpretations too. Although this definition
+seems rather ambiguous, it in fact justifies Twitterature’s status: as we have investigated
+and examined throughout this project, Twitter can be the platform that coveys the
+
+83
+meanings and values of our society. We are in a society where humans are closely
+working with computers, and Twitter can produce works that interrogate what these
+collaborations mean. We are in a society where technologies enable people to know what
+are happening around them in real time, and Twitter can produce works that reveal the
+true meanings of the concept of “real time” in terms of temporality and spatiality. We are
+in a society where the internet is changing the way in which people communicate with
+each other, and Twitter can produce works that contemplate about these new phenomena
+in our culture. These works certainly embody profound meanings and values, and
+therefore why should not be called “literature?”
+Indeed, literature is produced based on a nexus of technological, social and
+cultural conditions, and in our society where the rapid technological innovations are
+moving us towards a digitalized world and changing many aspects of our lives, the
+function of literature in our society can no longer be fulfilled by printed texts alone. Not
+only are the social relations surrounding the production of literature changing, the
+aesthetics and criteria by which we justify literature are also changing. Twitterature, a
+type of literature that is produced on the social platform Twitter, is a focal point where we
+can see how these technological innovations mediate humanity. While the aim of this
+project is not defining what is Twitterature, it aims to open people’s minds toward the
+definition of literature and make them embrace what the literature of our age can be.
+
+84
+
+Afterword
+I have been experiencing two types of frustrating feelings throughout my work for
+this project. The first one is regarding the preservation Twitterature, and it started with the
+difficulty in finding the tweets for “Hearts, Keys, and Puppetry.” While the streaming of
+tweets and the great amount of text on the platform sometimes can be attractive for
+producing literature, it creates great difficulty in the preservation of Twitterature. How
+should we read a work of Twitterature? For example, to follow Jennifer Egan’s “Black
+Box” in real time or read the collection after the tweets are all out? While it seems that
+reading the collection somehow destroys the foundation of Twitterature, for everyone to
+read the tweets as they are posted seems almost impractical. What if no one makes the
+collection, such as in the case of “Hearts, Keys, and Puppetry?” The work will be easily
+lost.
+The preservation of Twitterature is ultimately a problem of preserving digital
+materials, and there is another anecdote: I interviewed Teju Cole on Feburary 23 2015,
+and the voice memo of our conversation was saved in my iPhone. I broke the screen of
+my iPhone a week later so I went to Apple store and they gave me a new phone. I backed
+up everything to the cloud before I left my old phone to Apple store. However, after I
+recovered my backup, I found that my voice memo for the interview was missing. I tried
+every method to recover it but to no avail. It was an hour long conversation and it was an
+extremely meaningful conversation, but it was lost forever. Despite my distress, I gave
+
+85
+much thought about the preservation of digital material. If the literary world can finally
+embrace Twitterature, how can Twitterature be kept to exert its full values? Is digital
+media more fragile than papers in some ways? These are the questions I want to explore
+more about in the future.
+Another frustrating feeling of mine comes from people’s suspicious look when I
+told them that I was writing my senior project on Twitterature. “What is that?” their
+voices more or less show that they cannot believe that I’m spending the whole year
+writing about Twitter. It is difficult when people do not understand my passion and the
+meaningful side of Twitter, but it is also what kept me going—I have to convince people
+that Twitter can be “serious.” This goes back to Teju Cole’s speech that Twitterers are
+treated differently from the “paper crowd” by our culture. While this difference is easy to
+detect, I am determined to analyze about this cultural hierarchy. Pierre Bourdieu’s theory
+about the judgement of tastes and class distinction may be a good point to start—when
+the digital world creates a new “digiteracy,” is it also creating new distinctions between
+social classes as well?
+
+86
+
+Bibliography
+Barthes, Roland, and Stephen Heath. Image, Music, Text. New York: Hill and Wang,
+1977. Print.
+Bereznak, Alyssa. "An Oral History of YOLO, the Word That Lived Too Long." Vanity
+Fair 5 Feb. 2013: n. pag. Vanity Fair. Web. 22 Apr. 2015. <http://
+www.vanityfair.com/culture/2013/02/oral-history-yolo-mickey-hart>.
+Berners-Lee, Tim. Weaving the Web: The Original Design and Ultimate Destiny of the
+World Wide Web by Its Inventor. N.p.: Paw Prints, 2008. Print.
+Burroughs, William S., and Brion Gysin. The Third Mind. New York: Viking, 1978. Print.
+Cole, Teju. Interview by Yishu Mao. 23 Feb. 2015.
+Crown, Sarah. "Twitter is a clunky way of delivering fiction." The Guardian 25 May
+2012: n. pag. The Guardian. Web. 18 Apr. 2015. <http://www.theguardian.com/
+books/booksblog/2012/may/25/twitter-feed-clunky-delivery>.
+Crystal, David. Language and the Internet. Cambridge: Cambridge UP, 2001. Print.
+Cutts, Martin. Oxford Guide to Plain English. 4th ed. Oxford: Oxford UP, 2013. Print.
+Egan, Jennifer. Interview by Yishu Mao. 9 Apr. 2015.
+Feuer, Jane. "The Concept of Live Television: Ontology as Ideology." Regarding
+Television: Critical Approaches--an Anthology. By E. Ann Kaplan. Frederick:
+University Publications of America, 1983. 12-21. Print.
+
+87
+Flood, Alison. "Novelist David Mitchell publishes new short story on Twitter." The
+Guardian 14 July 2014: n. pag. The Guardian. Web. 22 Sept. 2014. <http://
+www.theguardian.com/books/2014/jul/14/david-mitchell-publishes-short-storytwitter>.
+Foucault, Michel Foucault. "What is an Author?" The Book History Reader. By David
+Finkelstein and Alistair McCleery. London: Routledge, 2002. 225-30. Print.
+Glazier, Loss Pequen?o. Digital Poetics: The Making of E-poetries. Tuscaloosa: U of
+Alabama P, 2002. Print.
+Greene, Roland, et al. "Poetry." The Princeton Encyclopedia of Poetry and Poetics. 4th
+ed. Princeton: Princeton UP, 2012. 1065-66. Print.
+Hayles, Katherine. Electronic Literature: New Horizons for the Literary. Notre Dame: U
+of Notre Dame, 2008. Print.
+Hayward, Jennifer Poole. Consuming Pleasures: Active Audiences and Serial Fictions
+from Dickens to Soap Opera. Lexington: UP of Kentucky, 1997. Print.
+Jones, Lucy. "Ralph Fiennes blames Twitter for 'eroding' language." The Telegraph 27
+Oct. 2011: n. pag. The Telegraph. Web. 4 Nov. 2014. <http://
+www.telegraph.co.uk/technology/twitter/8853427/Ralph-Fiennes-blames-Twitterfor-eroding-language.html>.
+McLuhan, Marshall, and Lewis H. Lapham. Understanding Media: The Extensions of
+Man. 1994 ed. Cambridge: MIT, 1994. Print.
+
+88
+McPherson, Tara. Reload: Liveness, Mobility and the Web, New Media, Old Media:
+Interrogating the Digital Revolution. By Thomas W. Keenan and Wendy Hui
+Kyong Chun. New York: Routledge, 2003. 199-208. Print.
+Oikarinen, J., and D. Reed. "1.3 Channels." Internet Relay Chat Protocol. Network
+Working Group, May 1993. Web. 22 Apr. 2015. <https://tools.ietf.org/html/
+rfc1459#section-8.4>.
+Orf, Darren. "Read 'Black Box' by Jennifer Egan—Tweet by Tweet." Paste 6 June 2012:
+n. pag. Paste. Web. 25 Mar. 2015. <http://www.pastemagazine.com/articles/
+2012/06/black-box-by-jennifer-egan-tweet-by-tweet.html>.
+Poe, Edgar Allan, Stuart Levine, and Susan F. Levine. Poe's Critical Theory: The Major
+Documents. Urbana: U of Illinois P, 2007. Print.
+Pound, Ezra. "Vorticism." The Fortnightly Review 1 Sept. 1914: n. pag. The Fortnightly
+Review. Web. 4 Dec. 2014. <http://fortnightlyreview.co.uk/vorticism/>.
+"Rachel Simmons." TIME 10 Nov. 2014: n. pag. TIME. Web. 7 Feb. 2015. <http://
+time.com/3559340/instagram-tween-girls/>.
+Williams, Raymond. Culture and Materialism: Selected Essays. London: Verso,
+2005. Print.
+Sarno, David. "Twitter creator Jack Dorsey illuminates the site's founding document. Part
+I." Los Angeles Times [Los Angeles] 18 Feb. 2009: n. pag. Los Angeles Times.
+Web. 22 Sept. 2014. <http://latimesblogs.latimes.com/technology/2009/02/twittercreator.html>.
+
+89
+"See what's happening right now." The Motley Fool. The Motley Fool, 22 Apr. 2015.
+Web. 29 Apr. 2015. <http://www.fool.com/investing/general/2015/04/22/so-manythings-for-investors-to-love-about-twitter.aspx>.
+Storify. Storify.com, 2014. Web. 29 Apr. 2015. <https://storify.com/AlphaWings/themonster-at-the-end-of-this-tweet>.
+Street-Porter, Janet. "Tweeting? It's just a tidal wave of drivel." Daily Mail [London] 30
+Mar. 2011: n. pag. DailyMail.com. Web. 24 Apr. 2015. <http://
+www.dailymail.co.uk/debate/article-1371009/Twitter-Its-just-tidal-wavedrivel.html>.
+Treisman, Deborah. "This Week in Fiction: Jennifer Egan." The New Yorker 25 May
+2012: n. pag. The New Yorker. Web. 23 Mar. 2015. <http://www.newyorker.com/
+books/page-turner/this-week-in-fiction-jennifer-egan>.
+Twitter Inc. "Twitter Fiction Festival: About." Twitter Fiction Festival. N.p., n.d. Web. 29
+Apr. 2015. <http://twitterfictionfestival.com/about/>.
+Vara, Vauhini. "The Difference between Twitter and Facebook." The New Yorker 5 Feb.
+2014: n. pag. Web. 6 Oct. 2014. <http://www.newyorker.com/business/currency/
+the-difference-between-twitter-and-facebook>.
+Visualscopestudios. N.p., n.d. Web. 6 Feb. 2015. <http://www.visualscope.com/
+twitfb.html>.
+Yasuda, Kenneth. The Japanese Haiku, Its Essential Nature, History, and Possibilities in
+English, with Selected Examples. Rutland: Charles E. Tuttle, 1973. Print.
+
+90
+Yu, Jim. "Facebook, Twitter or Instagram: Determining the Best Platform for Mobile
+Marketing." entrepreneur.com. Ed. Ray Hennessey. Entrepreneur Media, Inc., n.d.
+Web. 6 Feb. 2015. <http://www.entrepreneur.com/article/231446>.
+Zinko, Carolyne. "What is Biz Stone doing?" SFGATE. SFGATE, 5 Apr. 2009. Web. 30
+Apr. 2015. <http://www.sfgate.com/living/article/What-is-Biz-Stonedoing-3165704.php>.
+
+91
+
+Appendix
+Mao:
+My first questions is why do you choose to publish though New Yorker Fiction [twitter
+account] instead of your own account?
+Egan:
+First of all, I don’t have that—I’m not sure how many followers I have because I almost
+have never gone on twitter—but I had not had great experience with tweeting. I had tried
+a little bit before that, and I just, I felt really awkward doing it, and I also felt like, it just
+didn't come naturally to me and then I also, we spammed— like I had ended up sending
+vitamin ads to a bunch of my followers, so I can’t remember how many I had then,
+maybe seven eight thousand, and the New Yorker had millions? Although they, of course,
+they didn’t tweet over their major feed. They created New Yorker Fiction to tweet my
+story, and now I think they also do a lot of tweeting which I though was great. Anyway,
+even though I published this story on Twitter and it was intended to be published on
+twitter, my ultimate standard for how it would be read was on a page. and so I chose The
+New Yorker because that’s the best place to publish a fiction without question. but my
+condition for having it republished on paper was that they also tweet it in some way. I
+didn't know if they were tweeting the whole thing and I didn’t even require that.
+Mao:
+So my understanding is that, it wasn’t you who typed down those sentences and tweeted
+them.
+Egan,
+No, you know what’s interesting—it was suppose to be a machine that was gonna do it.
+They had program [preschedule tweet] but it immediately failed. In fact, the reason that
+we only had tweets every sixty seconds because I think they should have been every
+thirty. We did it every sixty because that was the fastest the machine the preprogrammed
+kind could do it, but it immediately—what did it do? But it instantly screwed up. I think
+it didn’t—it started a few lines in—it just did not functioned. So they instantly jettisoned
+that and someone there, I can’t remember her name, lovely person, became the person cut
+and paste it all of that programmed stuff and actually physically tweeted them every sixty
+seconds for nine nights or whenever it was. So it was really a case where the human did a
+better job than machine.
+Mao:
+But it was you who decided the sequence [of the tweets]?
+
+92
+
+Egan:
+I wrote it in those units. We cut it up. It didn't mean to be cut up. It was already written
+that way.
+Mao:
+Because I know you got this little notebook with little squares. [Refer to a talk we had
+before: Egan has a notebook with small square formatting so she wrote the story in
+snippets in the very beginning. It wasn’t meant to be written in a traditional way.]
+Mao:
+In the interview with The New Yorker you said that you were always interested in the idea
+of writing novel in a list, and the only question was what kind of story would that be.
+Then you came up with this female James Bond story. So from that interview it seems
+like that your choice of twitter as the platform [for the story] is mainly because of the
+format, but do you think the medium would actually reinforce the content of the story?
+Egan:
+Absolutely. I mean the content in a way is the product of the medium in the sense that, I
+started with this idea of doing something on twitter and having it unfold in this
+continuous way—serialized but continuous—and also very intimate and private. I love
+the thought of all that and that really is what made the voice seem possible. You know,
+when I began to hear the voice talking in that way, I always imagine that voice
+functioning in that environment of twitter, so it absolutely came before the content
+[medium]. I mean I love spy stories, don’w we all? But I’ve been tempted to write one
+because I have never seen a way that I could do it that would not be totally cliche and
+derivative, so I sort of sensed that this [twitter] might be a way to try to do that. So in that
+way the idea indeed precede the medium, but once I had the medium and this idea of a
+way that this small structural unit could be justified and interesting, that was when it
+really started to happen.
+Mao:
+Absolutely. You mentioned the voice, the voice of Lulu, which is a character in your book
+[A Visit from the Goon Squad]. Can you tell me about the voice. What makes it so special
+that it has to be posted by tweet?
+Egan:
+Well, the voice is not telling the story directly. She is recording her own reaction to each
+thing that happens. So we are never look through her eyes at action. We are always in the
+reflective state, understanding what she’s learned from each action. So I don’t know how
+you could write that as a continuous narrative. It would have to be an all list form. It
+wouldn’t make sense any other way. So I think that kind of indirect list-like storytelling
+was something that—I don’t know how you could do it without a medium like twitter.
+Although I actually did publish a story in the form a list a couple of years before, but that
+
+93
+was just a number of list. It was called “To Do” and it was a to do list. With twitter one
+the working title was “Lessons learned.” So it was literally a list of things that the
+character learns from each step. In the end, that feels like a little to simplistic because
+that’s of course not all that’s there. I mean once I began writing the piece which took a
+really long time. All kinds of other modes of discourse began to intrude. She talks about
+her past; she parrots her own training, so there was a time when she sorts of quoting her
+own training and things that she has been told in her indoctrination, and in earlier version
+of it, those were a little uncontrolled—those intrusions. Like one of those big challenges
+of these, statistically, was try to modulate all those different kinds of voices that are
+intruding on this voice. That was how the voice function—making the voice function in a
+streamlined way that’s easy to understand, and it was a challenge.
+Mao:
+You mentioned that it [the voice] is a constant reflection of herself, and that reminds me
+of the idea of stream of consciousness. It’s defiantly not a coincidence that tweets come
+in this stream and this idea of steam has to do with the idea of “liveness.” I think
+compared to traditional medium such as paper—you read a paper it’s already printed out
+there, maybe a month ago, two months ago. I would say that the text is dead—it’s there
+forever, but on twitter, in this medium it’s alway alive.
+Egan:
+That makes sense but I would also say that from a creating good fiction point of view,
+that liveness only gets you so far. In my view, in the end, it had better be lively on the
+page because that is how we will all ultimately be read, and how it was read in The New
+Yorker. So I think there’s a danger of confusing liveness with depth or substance. I think
+that for me—I actually have tried again this sort of write something that would work on
+twitter, it’s very easy for it to become thin, where it just becomes about the liveness of the
+presentation and the actual bones of it aren’t there so that’s the danger.
+Mao:
+Yes definitely because readers can also read it on traditional format which is on The New
+Yorker.
+Egan:
+And it had better be stand up, and I know Twitter has been having fiction contest, I
+haven't really read a lot of that, but the challenge for those writers as it was for me, is
+ultimately—again it is just a personal thing, and maybe it’s just a reflection of the fact
+that, I don’t read twitter a lot. So in the end the god I’m serving is the page, and by page I
+can also mean screen, where it is read continuously as a narrative.
+Mao:
+I’m reading your tweets on this website: http://www.pastemagazine.com/articles/2012/06/
+black-box-by-jennifer-egan-tweet-by-tweet.html. So what they did was screenshot every
+tweet, but I noticed that The New Yorker Fiction seems have deleted all the tweets they
+
+94
+published. Because if you go to their account, even if you scroll down to the last tweet, I
+can’t find your story there.
+Egan:
+They probably did that because for a long time, that story was behind the paywall. So
+they wanted to make sure people couldn’t read it for free, maybe.
+Mao:
+Yes so in this context, the original story is lost.
+Egan:
+Now I think the story is not behind the paywall anymore, I’m not sure. But I’m sure it’s
+all about—they don’t want to drive traffic to twitter; they want to drive traffic to The New
+Yorker.
+Mao:
+Wow, I didn’t think about that, because all I care is your sentences on twitter.
+Egan:
+I mean during the nine nights, I think they might have deleted every single night and you
+had to go to The New Yorker to read what had come the night before. I’m not sure. I never
+even checked.
+Mao:
+You know Neil Gaiman had done this experiment on twitter. He sent the first sentence of
+his story and let his followers to finish it. But the problem of that story is—it is
+transcribed into audiobook—but all the tweets are lost, so the story itself, the original is
+lost. I’m very interested in this idea of “the preservation of your work”. It seems that in
+the digital world, the original—what is it mean?
+Egan:
+Well, I guess it means screenshot. I mean, paste really have that right, so I’m glad that
+they did that. And for a long time it was the only way you could read the story unless you
+had a New Yorker subscription and it’s not published anywhere. Actually, that’s not true—
+actually it’s in The Best American Nonrequired Reading and also it is in the catalogue for
+the piece that the sculpture Sarah Sze did for the Venice Biennale in 2013 because she
+and I connected very strongly in the way we think about what we do and how we do it.
+So we had a conversation that was in that catalogue and she included “Black Box” in the
+catalogue. But other than that it’s not until I write another book and I include it, which is
+a long way down the road because I’m not even working on that book now, it’s not going
+to be published.
+Mao:
+
+95
+Well, I’m writing about Twitterature which means that literature has to be in twitter
+format, but it seems that for you, for Teju Cole—he did a collection, he put every tweet
+into a twitter collection—and Neil Gaiman totally lost his original work. What do you
+think about Twitterarture. Does it have a future?
+Egan:
+I haven’t read enough to know. Trying to make this twitter thing work, for it to be not a
+gimmick,it has to be the only way this story can be told. That’s a lot to ask. I mean, I’m
+sure it can be done, but it’s not easy for me. Maybe part of it is because I’m not on twitter
+very much, so it’s not in my head as much as it’s probably as in other people. I don’t
+know. I should hope that there is a future. I think there is. Let’s think about poetry. I
+mean, to me it’s up to the poets, to me it seems that the genre that could most thrive most
+routinely on twitter. Prose is much harder because prose is continuous so you are dealing
+with, trying to find, stories that requires very short structural units for its telling. Because
+if for anything less thing than that, just like “hey I could cut this up and put it on twitter”
+there is no reason. You might just do it for fun, but it’s not gonna be exciting. I would like
+to find a way to do it again.
+Mao:
+You mentioned this nature of prose makes it very difficult to be on this fragmented
+platform.
+Egan:
+To thrive on the platform.
+Mao:
+Yes. What technique did you use to sustain the coherence of your story. I know that you
+post every sixty seconds to avoid being disrupted by the tweets. But did you build up any
+momentum in each tweet to make the reader want to read next one?
+Egan:
+Well, each tweet stands on its own. In other words, as with any structural unit, as with a
+paragraph, a sentence, it better stands on its legs and make something happen. So in a
+way that question isn’t that different from the question of how you make someone read
+anything in prose. Each sentence has to want to go on to the next sentence. I didn’t worry
+too much about because I wasn’t—I didn’t know how it is been done on twitter as I was
+writing it. I did know that it would be every sixty seconds. Although I instinctively knew
+that was too long a gap.
+Mao:
+Yeah. On twitter if one has followed many people it means…
+Egan:
+
+96
+Too much in between. You can’t break out a specific tweet onto their own window and let
+them…
+Mao:
+It’t not in your control.
+Egan:
+People can do it but I certainly don’t know how. So I didn't worry too much about that. I
+always thought “look, people might hate this. I knew that on twitter I thought I feel very
+good about the story but I did not know how it would really work on twitter so I think
+what’s the worst that could happen—they think that its ridiculous. It was actually a lot
+better than that. The immediate feed back was much more positive than I expected.
+People wanted to know what would happen. They were patient within sixty seconds to
+forever. I think the best way to do would be every thirty seconds because then you are not
+demanding constant attention but it’s happening enough for people to follow it, and that’s
+the general [idea]. I think when people start to be able to break out individual windows
+more with twitter it might be good.
+Another thing is that—one thing that worries me once the tweeting began, was that they
+just stopped at the end of whatever they were, at the end of that hour. There was no sense
+of finding a good place to breathe, or place of cliff hanging moment. No. It just ended.
+And I felt like ‘oh that’s not a good way to do it” Ideally I would like to craft those
+interruptions a little more carefully so that people would have the incentive to come back.
+So that would be something to think about for the future.
+Mao:
+Personally I love the idea of reading on tweet, this idea of you click on one, but you
+wouldn’t see the next one. It’s amazing that you can keep this balance—that each
+sentence has to stand on its own but they have to be perfect fit into a larger group.
+Egan:
+That was a big challenge and I think that’s a reason it took me so long because the
+original version was about twice the length and it becomes possible to say almost
+anything in that way, and there’s a danger of you start to state the obvious, like “night sky
+can be beautiful. Cafes are often crowded and noisy” I mean before you know it it
+become banal. So there was one thing I did—this was before I even gave it to The New
+Yorker: I just went through and thought that anything I’m writing here that can be said
+about any situation other than this one has to be cut and I lost about a third of it and I’m
+glad I did that.
+So there was a lot of rigor in just controlling the narrative, both the fact that there’s this
+different modes of the voice operates in and the fact that there’s a potential for monotony
+in these utterances.
+
+97
+Mao:
+I just suddenly got this metaphor that your story on twitter is actually a James Bond
+movie in terms of all the action [that’s happening] in the story.
+Egan:
+Actually another challenge was that how James Bondie should be, like there was a point
+where when things really go wild. Guns are out, guns are firing, people defense moves
+and kicks where I got too into the gimmickry. So I had to really pull back on that because
+it became almost superficial. Because there was also this kind of mythic element to it—
+they are in the mediterranean, there’s this talk about human being is being super, she has
+this god-like power or superhuman powers and that myth in my mind kind of balanced
+the James Bond, the very kind if archetypal base. Keeping these two balances was really
+important. If it really became James Bondie then it’s just trivial.
+Mao:
+I want to show you this quote from Jack Dorsey:
+We wanted to capture that in the name—we wanted to capture that feeling: the
+physical sensation that you’re buzzing your friend’s pocket. It’s like buzzing all
+over the world…So we looked in the dictionary for words around it, and we came
+across the word "twitter," and it was just perfect. The definition was “a short burst
+of inconsequential information,” and "chirps from birds." And that’s exactly what
+the product was (Sarno).
+So…sensation. It’s all about the sensation! Twitter doesn’t want you to read quietly and
+peacefully like you are reading a book. It wants to “buzz” you. We were talking about this
+James Bond movie thing, and your story is all about sensation, I mean, it’s a spy story.
+It’s just amazing how your story come out from these little bursts of sensation.
+Egan:
+Yeah that’s very interesting. I mean, but, again, I don’t know if that particular quality is
+what most interesting about Twitter. It was more, for me, more come out from an interest
+in serialization, and that takes us back to the nineteenth century, and the way fiction was
+published, where people would read things in parts, and fiction was written to be read in
+parts. Dickens, George Elliot, those books were all published in sections. So I’m
+interested int that and that’s really more—it was the continuity overtime and suspense
+overtime, resisting the wish to know everything right away. That’s what serialization is.
+So the idea of I would be buzzing in someone’s pocket, that notion is not that interesting
+to me, because in a way, one thing I really dislike about technology is how interruptive it
+is; how hard it makes it to just experience, to be there. Honestly, I have not gone on
+Twitter since the New Year because right now I’m really in a sort of mindset, trying to
+work on something that’s very different. I don’t really want all that in my head. I read
+physical newspaper every morning. I’m really old-fashioned but it’s intentional. I don’t
+
+98
+really like the idea that something is buzzing and twittering in my brain. I really need to
+concentrate to do what I do.
+I mean, people who are constantly on Twitter also do fantastic work. Look at Margaret
+Atwood. She has tons of followers and tweets. She’s still writing great books. More
+power to her I don’t have that ability. I really need to concentrate and clear my head.
+Mao:
+One last question: I want to compare Twitterature with the fast food culture, because
+instead of three-course dinner, people are eating McDonald’s, Cheez-it. They want things
+in bite-size.
+Egan: How about the Apple watch? Now newspapers are constructing one-sentence news
+(laugh).
+Mao: Yes! I mean we have these little tablets instead of PC computers; we just want to
+economize things so badly. It’s our culture. I think literature is a product as well—it
+meant to be produced and consumed. So my argument is that literature fits into this trend
+of culture that people just want to economize it. How many people today would spend
+time reading a Dickens book? It’s hard. They’d rather read a snippet on Twitter in a
+stealth.
+Egan:
+Right. That’s disturbingm but look, I’m old. You are young. I’m not gonna argue what
+you are saying. Of course I think that because we all want what we grow up with, and
+what I grow up with was non of these. However I’m very weary of those assumptions
+about what people do, because I think they are often not really based on fact but more on
+fear and worry.
+My interest in more in fiction because if nobody reads my fiction I’ll be in trouble. But
+it’s a very interesting cultural moment for sure, partly because questions like this are very
+legitimate. I mean back in Dickens’s time it was the best entertainment available. People
+may laugh at that idea—I would still rather read a Dickens’s novel than doing other
+things. That can be there are many more like me anymore.
+
+

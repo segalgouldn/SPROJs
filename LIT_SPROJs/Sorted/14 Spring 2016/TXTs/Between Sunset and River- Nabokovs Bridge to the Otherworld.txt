@@ -1,0 +1,1719 @@
+Bard College
+
+Bard Digital Commons
+Senior Projects Spring 2016
+
+Bard Undergraduate Senior Projects
+
+2016
+
+"Between Sunset and River": Nabokov's Bridge to
+the Otherworld
+Jesse R. Weiss
+Bard College
+
+Recommended Citation
+Weiss, Jesse R., ""Between Sunset and River": Nabokov's Bridge to the Otherworld" (2016). Senior Projects Spring 2016. Paper 397.
+http://digitalcommons.bard.edu/senproj_s2016/397
+
+This Open Access is brought to you for free and open access by the Bard
+Undergraduate Senior Projects at Bard Digital Commons. It has been
+accepted for inclusion in Senior Projects Spring 2016 by an authorized
+administrator of Bard Digital Commons. For more information, please
+contact digitalcommons@bard.edu.
+
+“Between Sunset and River”:
+Nabokov’s Bridge to the Otherworld
+
+Senior Project submitted to
+The Division of Languages and Literature
+of Bard College
+By Jesse Weiss
+
+Annandale-on-Hudson, New York
+May 2016 
+
+Contents
+________________________________________
+
+1.
+
+Acknowledgements
+
+2.
+
+Introduction: Mind, Body and Nabokov’s Metaphysical Precedent
+
+1
+
+3.
+
+Chapter One: Nabokov's Synchronizations: Spiraling Memories in “Spring in
+Fialta” and “Oculus”
+
+7
+
+4.
+
+Chapter Two: Buffer Spaces and Shifting Identities Between Europe and
+America
+
+26
+
+5.
+
+Chapter Three: Camouflaging with Darkness: Nabokov’s Flight from Reality
+
+46
+
+6.
+
+Conclusion
+
+66
+
+7.
+
+Works Cited
+
+69
+
+Acknowledgments
+
+This project would not have been realized without the help and guidance of my patient and
+thoughtful adviser, Olga Voronina. I feel lucky and honored to have had the chance to work with
+such a distinguished scholar in the field of Nabokovian studies. Her deep knowledge of the
+subject, and countless suggestions helped shape my research into a project of which I am proud.
+
+I would also like to thank Professor Wyatt Mason for his feedback on my work at the midway
+review, and for sparking my interest in Nabokov when he introduced Nabokov’s translation of
+Eugene Onegin to my class. Thanks to my American literature professors Matthew Mutter and
+Alex Benson, whose courses were critical to my development as a writer, and who encouraged
+me to explore the function of the senses in literature. Thank you to my academic advisor,
+Professor Nate Shockey, who has been a constant pillar of support for me throughout my time at
+Bard. Thank you to Bard Literature Department head Deirdre d’Albertis for her flexibility and
+support.
+
+I would also like to thank my family Abby, John, Hallie and Olivia Weiss for their support and
+advice. To my grandparents, Anadel Rich and Jane and Bob Weiss for their encouragement and
+confidence in me. And many thanks to my friends Will, Kellan, Ilana, Antonio, Jessica, Harry,
+Caily, Mira, Sophie, Gaia, Charles and Ben for their guidance, reassurance and camaraderie. 
+
+1
+Introduction: Mind, Body and Nabokov’s Metaphysical Precedent
+
+In an interview with Alvin Toffler for Playboy in 1964, Vladimir Nabokov said that “art
+at its greatest is fantastically deceitful and complex” (Strong Opinions, 33). This statement is a
+rather un-Nobokovian one, fairly simple and direct, and deeply telling into Nabokov’s craft as a
+writer of fiction, poetry, criticism, and translation. As an artist, Nabokov constantly strived to
+achieve that state of “greatness” that he cites in the quote. Looking at the statement inversely,
+Nabokov’s deception and complexity are in the fact the elements of his writing that make his art
+so unique.
+One aspect of the “deception” that Nabokov used throughout his writing career is his
+commitment to remain untethered to one specific voice or narratological mode. Some of his male
+protagonists are eerily reminiscent of the author himself, and a reader might often wonder if
+Nabokov is in fact writing many revisions of an “autobiography” while experimenting in fiction.
+While it is often unclear whether Nabokov projects his own self onto his protagonists, it is
+always obvious that he employs rhetorical tactics to obfuscate the intricately balanced
+relationship between author, protagonist and narrator. Nabokov’s authorial voice dominates his
+story-telling, just as his signature motifs – butterflies, mirrors, sunsets, chess pieces – dominate
+the figurative structure of his fiction. Nabokov is careful to make sure that no matter whom the
+reader believes the protagonist to be or what the reader makes of the narrator’s unreliability and
+delusions, he remains the author, forever present and still not dead.
+Take the example of his 1938 novel, The Gift. As its protagonist, Fyodor GodunovCherdyntsev attends to the deathbed of his friend Alexander Yakovlevich Chernyshevski, sitting
+
+2
+with him in his last moments, he remarks on the state of the old man’s bodily decomposition and
+mental delirium:
+The following day he died, but before that he had a moment of lucidity, complaining of
+pains and then saying (it was darkish in the room because of the lowered blinds): “What
+nonsense. Of course there is nothing afterwards.” He sighed, listened to the trickling and
+drumming outside the window and repeated with extreme distinctness: “There is nothing.
+It is as clear as the fact that it is raining.”
+And meanwhile outside the spring sun was playing on the roof tiles, the sky was
+dreamy and cloudless, the tenant upstairs was watering the flowers on the edge of her
+balcony, and the water trickled down with a drumming sound. (The Gift, 312)
+This example is emblematic of Nabokov’s ability to reach out into his stories and playfully mess
+with the perceptions and observations of his narrators. It is also in this tongue-in-cheek way –
+and usually only in it – that Nabokov reveals some of his deepest philosophical convictions, such
+as his belief in the possibility of life after death. Thus, when Chernyshevski states his certainty
+in the termination of life as the termination of the soul, saying that “there is nothing afterwards,”
+Nabokov, the auteur and creator of this paradoxical scene, slowly zooms out from
+Chernyshevski’s words to reveal the fallacy of the old man’s belief: the rain he thought he was
+observing was just water trickling down from his neighbor’s balcony garden.
+Poignant, morbid, and darkly satirical, this passage is in many ways emblematic of
+Nabokov’s narratological and metaphysical adventurousness. This juxtaposition of seriousness
+and play, the mundane and the eternal, is what allows him to be both deceitful and strikingly
+convincing. It is perhaps understood best through another quote from Nabokov, who suggested,
+
+3
+in his book on Nikolai Gogol, that “the difference between the comic side of things, and their
+cosmic side, depends on one sibilant” (Nikolai Gogol, 141). Nabokov needs Gogol to back up his
+idea of using comedy – or a variety of other literary devices, puns included, to mask the verity of
+his metaphysical topics, because his effort to address these topics is a heavy burden to carry
+alone. Comedy helps to lighten it; Gogol provides a sense of companionship and shared tradition.
+In fact, Vladimir Alexandrov, in his Nabokov’s Otherworld, identifies the author’s use of comedy
+as his principal foil for exploring transcendental themes: “I join many of his admirers in seeing
+him as a comic genius; but he is also much more than that, because his conception of the
+otherworld underlies the comedy” (Nabokov’s Otherworld, 6). Nabokov’s satirical side and his
+interest in metaphysical questions are inextricably linked together.
+But the author’s satire never overtakes his ability to think and behave rationally:
+Nabokov, for all his complexity and trickery, remains one of the most level-headed intellectuals
+of his time. Throughout his career, he was a particularly idiosyncratic figure to interview, as he
+insisted that all of his answers be type-written in advance. Describing this facet of his character
+in the collection of interviews and critical essays, Strong Opinions, he confesses to his inability
+to spontaneously verbalize his thoughts: “I think like a genius, I write like a distinguished author,
+and I speak like a child. […] I have never delivered to my audience one scrap of information not
+prepared in typescript beforehand and not held under my eyes on the bright-lit lectern” (SO, xv).
+This insight into the degree of preparation and consideration Nabokov needed to present his
+ideas publicly highlights an important aspect of his authorial persona. Though his name would be
+scattered across the spine of his books in thousands of American homes by the time of his death,
+Nabokov was careful to preserve the integrity of his words, and not let them be compromised
+
+4
+because of his poor public-speaking ability. It is as if Nabokov insisted that he wanted to be
+remembered, and endure as a literary figure, separate from his body, existing in language alone.
+This distinction between Nabokov’s carefully considered presentation of language, and
+his enigmatic presentation of self, recalls René Descartes’ Meditations on First Philosophy.
+Nabokov’s life began over a quarter of a millennia after Descartes wrote his treatise in 1641, and
+it is more than likely that Nabokov was familiar with Descartes’ writings, or at least encountered
+Meditations through his primary education, or when reading for his exam in French Literature at
+Cambridge. In the seminal philosophical text, Descartes examines the possibility of God’s
+existence and expresses certainty of the distinction between mind and body in mankind.
+Touching on a topic of interest for Nabokov, Descartes frames his argument by suggesting a blur
+between dreams and wakefulness: “I see so manifestly that there are no certain indications by
+which we may clearly distinguish wakefulness from sleep that I am lost in
+astonishment” (Descartes, 7). Descartes’ suggestion in the overlap between sleep-states and
+wakefulness may be seen as an introduction to Nabokov’s experiments with his authorial
+persona. Determined to exist in language, inhabiting his own fictional works, he explores a
+number of transitional spaces in his poetry and fiction, be they dream states, aberrations of
+language, comic paradoxes or the doubling of self. Information about the author’s presence in his
+literary work is often obfuscated from the reader who needs to work hard to understand the
+separation between the real author, writing the text bodily and in the full presence of his mind,
+and the fictional authors Nabokov created for himself.
+Descartes concludes his meditation by saying that “there is a great difference between
+mind and body, inasmuch as body is by nature always divisible, and the mind is entirely
+
+5
+indivisible,” setting an epistemological precedent for others, Nabokov included (Descartes, 31).
+Cartesian dualism provides a framework for an examination of Nabokov’s oeuvre in all its
+dazzling complexity. It is only through the possibility of the duality between body and mind that
+Nabokov’s experiments in literature seem plausible. Through contemplating his several
+manifestations of self in thickly-veiled alter egos, his interest in the possibility of life after death,
+and his extensive and well-documented synesthetic and dream-like experiences, we can notice
+that Nabokov’s primary aesthetic concerns revolved around the assumption that the soul can
+exist independently from its host. As I examine in this project, Nabokov specifically treats the
+concept of disembodiment by translating every aspect of himself into varied literary
+manifestations. In the story “Spring and Fialta,” and in the poem “Oculus,” he ponders the
+possibility of a far-reaching and timeless mode of perception, free from physical restraints. In the
+short story “Vasiliy Shishkov” and in The Gift, he explores the potential of dissolving into his
+characters as a means of effectively rewriting his own history. In his poetry in general, Nabokov
+builds bridges for himself to access other realms of existence and perception where his body can
+no longer take him.
+Each of these forays out of the author’s body towards a singular, eternal existence of the
+authorial soul was at the forefront of Nabokov’s consciousness as a writer. His limitations due to
+financial troubles, deaths of beloved family members, and the imminent threat of war in 1930s
+Europe were the catalytic forces that pushed Nabokov to seek an existence outside of himself.
+His talent as a writer of fiction, and his more personal passion of poetry were effective means to
+react to his troubles. For us as readers, these multifarious incarnations cast the author in a new
+light: as a bodily vessel for a soul yearning to expand the possibilities of his perception, memory
+
+6
+and love. Nabokov’s written word holds the power to transmit his readers and his own mind to
+another plane of existence, free from the physical constraints of this world, a space where reality
+can be molded to the specifications of his metaphysical desires.
+
+7
+Chapter One: Nabokov’s Synchronizations: Spiraling Memories
+in “Spring in Fialta” and “Oculus”
+
+Each artistic medium has its own particular relationship to time. In music, time and
+duration is an essential element to any composition, dictating rhythm, and using repeated phrases
+to form a refrain and structure in a song. In literature, time can be extended or compressed —
+hundreds of pages can describe a single instant of feeling, or a single page can take a narrative
+across centuries. The element of time in literature is especially important because reading is an
+activity with definite duration. As time passes, the reader notices changes in plot, structure and
+characterization – the progress, or evolution, of the narrative. Each turning page introduces new
+elements to the story, thus informing, or perhaps altering, the reader’s perceptions of the text
+previously encountered. The visual arts, however, offer viewers a chance to grasp the entirety of
+the work in a single instant, where the form, style and particular aspects of any work are seen all
+at once, and can be digested as a whole. Where one’s appreciation of a piece of music or a
+literary text is prolonged over the duration of time in which it takes to perceive the completed
+work, visual narratives are instantly digestible, with every element of their composition visible at
+the same time.
+In a letter penned to his wife Véra on June 8th, 1939, Vladimir Nabokov makes clear his
+desire to experience a work of literature as one would experience a painting, that is, all at once.
+He writes: “A new theory of literary creation flashed into my mind […]: we don’t look at a
+painting from left to right, but we take in everything at once; that’s the principle a novel should
+be built upon, but because of the peculiarities of a book (pages, lines, and so on), it is necessary
+
+8
+to read it through twice, and the second time is the real one” (Letters To Véra, 433). Spontaneous
+as it may have been, this statement reveals a foundational principle of Nabokov’s aesthetics. He
+aspired to write as if the experience of reading literature could be condensed into a single instant
+of feeling, a complete picture of form and narrative all at once. He also wants his readers to
+experience a literary world created by an author instantaneously. This idealized form of reading
+with immediate comprehension is subsumed by the reality that a book must really be read in full,
+twice, before it can be properly understood and digested. Unlike a work of art, an understanding
+of the form and content of literature is a process that takes time, and is not purely an exercise of
+the eye.
+Though this letter was written three years after the original composition of “Spring in
+Fialta” (1936), echoes of Nabokov’s aspirations to allow his reader a complete and immediate
+perceptual understanding of a literary text ring throughout the story. And while, in 1939,
+Nabokov laments that no reader could be able to have a complete range of perception over a
+single text in a single instant, in this poetic and visual fictional landscape he takes care to endow
+Victor with this ability. The story begins with Victor’s arrival in the city of Fialta – as well as the
+realization of his ability to perceive reality as a whole in a flash of visuality and intuited
+memory:
+It was on such a day in the early thirties that I found myself, all my senses wide open, on
+one of Fialta’s steep little streets taking in everything at once, that marine rococo on the
+stand, and the coral crucifixes in a shop window, and the dejected poster of a visiting
+circus, one corner of its drenched paper detached from the wall, and a yellow bit of
+
+9
+unripe orange peel on the old, slate-blue sidewalk, which retained here and there a fading
+memory of ancient mosaic design. (Stories, 413)
+What draws Victor’s attention on the streets of Fialta is not out of the ordinary, but the way in
+which he sees these disparate images and objects, is particular to his perceptual abilities
+combined with his presence in the Mediterranean town. It is the city itself that allows him to
+react to the world in a particular, alert and time-defying way. With his “senses wide open…
+taking in everything at once,” in Fialta, Victor is seeing and feeling everything around him in a
+single instant, as if (as Véra imagined) he were looking at a work of art. Furthermore, his
+presence in Fialta has activated another perceptual faculty for Victor, which is his ability to
+interact and envision his own memories with unusual clarity and deep visual detail.
+In a lecture Nabokov gave to his class at Cornell University around 1948, he offers a
+definition, and a real-world example, of what Victor is experiencing when he finds himself with
+his “senses wide open.” The lecture was entitled “The Art of Literature and Commonsense,” and
+the crux lies in Nabokov’s definition and description of something “very loosely termed
+inspiration” (Lectures on Literature, 377). Nabokov suggests that the sensation that one feels in a
+single moment of aesthetic synchronization, when disparate objects and subjects, sights, sounds,
+smells all coalesce in a single moment of feeling, as Victor felt upon entering the streets of Fialta
+— this is what he calls “inspiration.” He suggests an instance of such a feeling:
+A passerby whistles a tune at the exact moment that you notice the reflection of a branch
+in a puddle which in its turn, and simultaneously, recalls a combination of damp green
+leaves and excited birds in some old garden, and the old friend, long dead, suddenly
+steps out of the past, smiling and closing his dripping umbrella. The whole thing lasts
+
+10
+one radiant second and the motion of impressions and images is so swift that you cannot
+check the exact laws which attend their recognition, formation, and fusion […] you
+experience a shuddering sensation of wild magic […] This feeling is at the base of what
+is called inspiration (Lectures on Literature, 377-8).
+The experience of the sights and sounds simultaneously is a moment in which Nabokov suggests
+that “time ceases to exist” once “the entire circle of time is perceived” (Lectures on Literature,
+378). Looking back to Victor’s sense-observations on the streets of Fialta, the reader can notice
+something similar happening here. Time seems to pause, disparate images link and form a line
+that Victor can trace, and the spiral that Victor and Nina have been following through Fialta, once
+again becomes a circle, as the “entire circle of time can be perceived.” Victor’s ability to see in
+this way is crucial to the modes of vision that Nabokov implements in “Spring in Fialta,” and in
+his later poem “Oculus.”
+Though Victor is able to have this type of sensory experience while in Fialta, his ability is
+not constant. The story shifts between recollections of the past and descriptions of the present —
+as Maxim Shrayer points out in his comparative analysis of “Spring in Fialta” against several
+works by Anton Chekov, “the reader is bound to notice both space and time in Fialta conflate the
+past and the present; we have two towns within one as well as two ‘interlaced’ times, the linear
+historical time and the spiral time of memory” (Shrayer, 211). Victor makes such a remark
+himself regarding the duality of geographies and temporalities that he perceives in Fialta; this
+observation is not totally limited to the reader’s imagination. Victor narrates:
+Fialta consists of the old town and of the new one; here and there, past and present are
+interlaced, struggling wither to disentangle themselves or to thrust each other out; each
+
+11
+one has its own methods: the newcomer fights honestly—importing palm trees, setting
+up smart tourist agencies, painting with creamy lines the red smoothness of tennis courts;
+whereas the sneaky old-timer creeps out from behind a corner in the shape of some little
+street on crutches or the steps of stairs leading nowhere (Collected Stories, 426).
+Shrayer’s observation is important in terms of the distinction in temporalities that it defines — a
+differentiation between the “linear historical time” and the “spiral time of memory” that occur
+during Victor’s experience in Fialta. Victor’s awareness of the ‘competition’ between past and
+present to emerge in Fialta indicates that he has some understanding of, and also control over, his
+ability to perceive these two timelines independently.
+Charles Nicol, in his essay “Ghastly Rich Glass,” identifies the importance of the “spiral”
+plot that Nabokov implements in the structure of “Spring in Fialta,” as well as a number of his
+other works. He writes: “The spiral plot structure involves the protagonist repeating situations
+that have already occurred in different guises, leading him not around in a circle but to a higher
+level of perception” (Nicol, 175). Both Nicol and Shrayer’s observation on the spiraling taking
+place in “Spring in Fialta” does not come out of thin air — rather, Nabokov wrote explicitly
+about his interest in spiraling forms towards the end of his autobiography, Speak, Memory.
+Nabokov notes that he sees his own life much like “[a] colored spiral in a small ball of
+glass” (Speak, Memory, 275). The unending nature of the spiral was particularly fascinating for
+Nabokov, who imagined that spirals can be conceived as a kinetic form of a circle — non-static,
+and constantly leading from one thing to another. He continues in Speak, Memory: “The spiral is
+the spiritualized circle. In the spiral form, the circle, uncoiled, unwound, has ceased to be
+vicious; it has been set free…Twirl follows twirl, and every synthesis is the thesis of the next
+
+12
+series” (Ibid.). This cyclicality of action and motion that Nabokov describes here is mirrored in
+Victor’s observation of Fialta moving around him.
+As Victor and Nina walk through the town of Fialta, the route of their journey follows a
+spiral pattern through the city streets as well. Located on the side of Mount Saint George, sits
+Fialta, a town with streets running left to right, and also up and down along the undulations of
+the land. Victor notices narrow staircases and streets going uphill as he walks around the city
+with Nina, and their journey ends with them at a high vantage point, with a view of the whole
+town before them. Their gradual ascent to the top of the town, along with the meandering they do
+through the city streets, indicates a spiral pattern to their physical locations throughout the day.
+Furthermore, this spiraling route is emphasized by the fragmentary nature of Victor’s perceptions
+as he walks through the streets of Fialta.
+These qualities of spiraling that occur in Victor’s memory are met with the immediacy of
+cosmic synchronization in the linear time of the present. I would like to argue that it is through
+these moments of synchronization that Victor is able to access the “spiral” memory of the past, as
+he becomes aware of metaphysical truths, which have serious implications for his life and for
+Nina.
+At the beginning of the story, Victor’s remarks on how he was “taking in everything at
+once” allows Nabokov to bring together his reader and his narrator. The series of observations
+that Victor makes as he walks Fialta’s streets reveal objects that are grouped and repeated. The
+reader is quick to notice them, but that do not hold any particular significance for Victor as the
+narrator. Nabokov gives Victor a chance to “collect” the objects in his field of vision as well as in
+his memory. In fact, it is through his ability to notice such minute and particular elements of
+
+13
+these objects that the reader achieves the sense of perceiving the Fialta street instantaneously.
+Victor’s perception is nothing less than remarkable, considering how quickly his focus skips
+between disparate objects all around him, before bringing them together into a harmonious unity.
+For Victor, “taking in all at once” does not take a toll on the quality of vision, because instead of
+diminishing his capacity to see and connect, it adds a temporal dimension to the act of
+perception, thus condensing time into a single instant of feeling.
+As the story progresses, Victor continues to notice the things around him in the same way
+— fleetingly, but with special attention to their details. However, in the second half of “Spring in
+Fialta,” after the story’s other protagonist, Nina, appears on Fialta’s misty stage, Victor’s mode of
+perception changes; simultaneously, his relationship with time begins to shift. No longer is he
+simply registering his surroundings in the present, but he also begins to travel in and out of the
+past, as he recounts his longstanding relationship with Nina and their scattered encounters since
+they met 15 years earlier. Upon their chance encounter in Fialta, Victor and Nina exchange a kiss
+— one which leads him to recollect a kiss he shared with Nina, 15 years before: “She kissed me
+thrice with more mouth than meaning, and then walked beside me, hanging on to me, adjusting
+her stride to mine, hampered by her narrow brown skirt perfunctorily slit down the
+side” (Collected Stories, 415). This kiss, and simple observation of Nina’s appearance is enough
+for Victor to jump back in time to the first time they met.
+Remembering his first encounter with Nina, Victor’s visual memory is cold and dark:
+“My memory revives only on the way back to the brightly symmetrical mansion toward which
+we tramped in single file along a narrow furrow between snowbanks, with that crunch-crunchcrunch which is the only comment that a taciturn winter night makes upon humans” (Collected
+
+14
+Stories, 416). Here, the visual details are sparse — they are replaced with tactile, auditory, and
+olfactory perceptions. For example, Victor recalls losing his flashlight, then a sudden kiss on
+Nina’s “generous, dutiful lips,” and finally a snowball fight. Devoid of a visual backdrop, the
+memory seems to fade in Victor’s mind quickly and painlessly. He returns to the present, in
+which he accompanies Nina for a bit of shopping in Fialta’s touristy center. In the descriptions of
+his walk with Nina, Victor’s perception of the present continues to be strong; in fact, because of
+the abundance of visual details it may be stronger than his grip on the past. He makes note of the
+beaded curtain and red leather purses before him in the shop, and, as he steps outside with Nina,
+he comments on the burning smell in the air, which matches the grays and browns of the visual
+description. This is when he experiences another moment of fragmented, but instantaneous
+perception, tracing a line from “a small swarm of gnats […] darning the air above a mimosa” to
+“two workmen in broad-brimmed hats […] against a circus billboard” (Collected Stories, 417).
+Still aware of minute details in his immediate surroundings, Victor is not hung up on any
+particular thing that he sees. But he notices the nuances of Fialta’s drab but charismatic
+existence, enlivened by Nina’s presence and finds the words to selectively describe what is
+surrounding him, synesthetically tracing a line from the smell of the air, to a swarm of flies, to a
+banal scene of two men eating lunch. This shift from Victor “taking in all at once” to a more
+historicized retelling of his relationship with Nina signals a shift in the narrative of Spring in
+Fialta. The narrator’s instantaneous, but fragmented, perception of the present transforms into
+more complete, but less isolated in a single moment in time, visions of the past.
+As Victor continues to delve into his romantic past, however, his memories gradually
+become more clear, while his perception of the present loses its striking clarity. On recounting
+
+15
+his second meeting with Nina, the narrator describes a party in Berlin. While doing so, he gives
+in to a narrative mode that is unusually hinged on visual, graphic details, such as “her small
+comfortable body folded in the form of a Z”; “an ashtray stood aslant on the couch near one of
+her heels”; “her stalklike cigarette holder” (Collected Stories, 418). This memory prompts him to
+narrate other separate memories of Nina, each one more descriptive than the last. Recalling a
+meeting in a railway station in Paris, he “sees” Nina sitting in her compartment as the locomotive
+begins to depart, “having suddenly forgotten about us or passed into another world.” His
+description of the small crowd that is saying good-bye to the young woman is similar to a
+retelling of a film episode, flashing in front of the observers’ (and the reader’s) eyes: “we all, our
+hands in our pockets, seemed to be spying upon an utterly unsuspecting life moving in that
+aquarium dimness, until she grew aware of us and drummed on the windowpane, then raised her
+eyes, fumbling at the frame as if hanging a picture, but nothing happened” (Collected Stories,
+418-419). Here Victor acutely observes Nina as she literally departs from his vision, yet the
+banality of the interaction is overwhelming. Sensing that Nina is about to emerge in “another
+world,” Victor, in his recounting of the event, creates a great deal of tension for the reader, halfexpecting something to happen between the two of them. Instead, Nina merely looks back
+towards her friends, and drums on the glass, “but nothing happened.” Victor’s awareness of the
+past in this instance is deeper than the superficial qualities of what he can merely see. He
+remembers his feelings of expectation, and the reader begins to think that his sense of Nina as a
+being from another world predominates his memory and is, in a way, more engrossing and
+stimulating than the visual details that surround their occasional rendez-vous.
+
+16
+Victor’s exploration of his past and his relationship with Nina continue to evoke more
+specific details as he tells the story of his encounters with Nina’s husband, Ferdinand. As Victor’s
+memory of Nina in the train station began to reach deeper than pure visual qualities, his memory
+of Ferdinand is dotted with visions of the future yet to come. Victor remembers a specific
+encounter with Ferdinand at a café in Paris, shortly after the release of one of Ferdinand’s new
+novels in which Ferdinand’s appearance haunts his memory: “[f]or a moment his whole attitude,
+the position of his parted hands, and the faces of his table companions all turned toward him
+reminded me in a grotesque, nightmarish way of something I did not quite grasp […] his glossy
+hair was combed back from the temples, and above it cigarette smoke hung like a halo; his bony,
+pharaohlike face was motionless: the eyes alone roved this way and that, full of dim satisfaction”
+(Collected Stories, 421). Here, Victor’s perception of Ferdinand is both superficial and
+metaphysical — his observations of Ferdinand’s appearance are detailed, and careful, making use
+of simile to emphasize his features. But Victor curiously references the future in his revisiting of
+the past — he acknowledges that at the time of seeing Ferdinand he did not fully comprehend the
+significance of the death imbued in his face, and the halo hanging above his head. Revisiting this
+memory serves as a connecting point between the past and the future for the narrator, and his
+ability to recall this information is essential in his understanding of the events yet to unfold for
+Nina, Ferdinand and their third-wheel, Segur.
+At the end of their day together, as they are about to say their goodbyes, Victor suddenly
+comes into contact with a vision of the future and intimation of death presented through a typical
+Nobokovian trope. Nina enters her car and waves goodbye to her friend: “in the metal of one of
+the bomb-shaped lamps we ourselves were momentarily reflected, lean filmland pedestrians
+
+17
+passing along the convex surface; and then, after a few steps, I glanced back and foresaw, in an
+almost optical sense, as it were, what really happened an hour or so later: the three of them
+wearing motoring helmets, getting in, smiling and waving to me, transparent to me like ghosts,
+with the color of the world shining through them, and then they were moving, receding,
+diminishing (Nina’s last ten-fingered farewell)” (Collected Stories, 426). Victor’s vision of
+himself and Nina in the reflection of the convex mirror allows him to glance into the future as he
+turns his head — he catches a glimpse of Nina along with husband and friend in their last living
+moments, looking like ghosts. The “bomb” shape of the lamp suggests that a death will occur,
+perhaps suddenly, like an explosion. A few hours later, standing in the train station, Victor
+happens to see news of Nina’s car crash printed there. Her car smashed against a circus caravan,
+and she was the only one of the three passengers to die.
+But death had haunted Victor’s memory of Nina and Ferdinand for quite some time — he
+saw Ferdinand’s deathly-looking face in the café in Paris years before, and imagined Nina going
+to some “other world” as she departed from the train station. By the end of the story, the reader
+comes to realize that this day spent reminiscing about the past was Nina’s last day on earth. As
+the clock counts down Nina’s final living minutes, Victor becomes more separated from the
+present, as he is only able to dwell in his vivid recollections of the past. In the final scene of the
+story, Victor chances to look down at a newspaper where he sees mention of Nina’s death, and
+experiences a moment of complete dissociation. Victor feels a rush of emotion to his gut as he
+stands on the station platform, his arm resting on a stone pillar there:
+But the stone was as warm as flesh, and suddenly I understood something I had been
+seeing without understanding — why a piece of tinfoil had sparkled so on the pavement,
+
+18
+why the gleam of a glass had trembled on a tablecloth, why the sea was ashimmer:
+somehow, by imperceptible degrees, the white sky above Fialta had got saturated with
+sunshine, and now it was sun-pervaded throughout, and this brimming white radiance
+grew broader and broader, all dissolved in it, all vanished, all passed (Collected Stories,
+429)
+Victor’s moment of “understanding” comes to him as a warm rush of bright white light
+throughout the sky. Everything around him is subsumed in the intensity of the light, suggesting
+that this moment of cosmic synchronization is so strong, that his grip on reality is completely lost
+in favor of his memory. In a single instant, Victor grasps the entire scope of Nina’s life, and feels
+a deep sense of inexpressible love, which overtakes him completely. Furthermore, the moment of
+synchronization comes when Victor feels the “stone as warm as flesh,” a physical connection that
+makes him think he has made a connection to Nina’s hand — their final moment of contact
+before Nina is gone from him forever.
+During Victor and Nina’s day spent walking the streets of Fialta, a number of objects
+come into the reader’s, and Victor’s, field of vision. Curiously, many of the objects that Victor
+notices are spherical in shape: beads, oranges and lollipops. These objects themselves are
+scattered throughout the text, each one appearing more than once in Victor’s field of vision. But
+Victor doesn’t seem to be aware of this repetition. Though he is quick to describe the lollipops as
+having “elaborate-looking things with a lunar gloss” or noticing on the collar of a Gypsy-woman
+a “string of beads around her dusky neck”, Victor is not necessarily aware that these objects
+repeat themselves in front of him, despite his careful observations of them (Collected Stories,
+414). As a reader, these images are easy to pick up on and track. They seem out of place, and
+
+19
+their vibrant descriptions give weight to their existence. The placement of oranges, beads and
+lollipops in the story has no particular sway over the narrative arc of the story, or the actions of
+the characters, but these spherical objects do establish a sequence of “dots” that the reader
+connects as Victor and Nina walk around the city streets.
+It is important to notice the spherical shape of these objects that Victor repeatedly
+observes, and the spherical shape of the glass ball in which Nabokov imagines his own life, is an
+essential component in one of Nabokov’s poetic works, the 1939 poem “Oko” (Oculus). The
+story and the poem are connected in more ways than one. In tandem, they serve as a key to
+understanding how the role of memory shapes the limits of perception both in life, and
+afterwards.The opening stanza of the poem presents the image of a disembodied eye, floating
+above the physical dimensions of earth in a realm of its own: “To a single colossal oculus, /
+without lids, without face, without brow, / without halo of marginal flesh, / man is finally limited
+now” (Poems, 105). Nabokov instills an image of a hanging sphere in the sky, with “limited”
+perceptual abilities in comparison to mankind. This eye in the sky is a mirror image of Victor’s
+opening eye, and opening senses, that he mentions at the beginning of “Spring in Fialta.”
+Victor’s experiences of cosmic synchronization, and his relation to vivid visual memories and a
+heightened mode of perception, are the same issues that are addressed in “Oculus,” only in a
+different form.
+This poem was originally written in Russian, but Nabokov later translated it himself
+before publishing Poems and Problems, a hybrid collection published in 1969 consisting of
+Russian poems translated into English by the author, poems originally written in English and a
+series of chess problems. His English translation is published as follows:
+
+20
+Oculus (1939)
+To a single colossal oculus, 
+without lids, without face, without brow,
+without halo of marginal flesh,
+man is finally limited now.
+And without any fear having glanced
+at the earth (quite unlike the old freak
+that was dappled all over with seas
+and smiled with the sun on one cheek),
+not mountains he sees and not waves,
+not some gulf that brilliantly shines,
+and not the silent old cinema 
+of clouds, and grainfields, and vines,
+and of course not a part of the parlor
+with his kin’s leaden faces—oh, no, 
+in the stillness of his revolutions
+nothing in that respect will he know.
+Gone, in fact, is the break between matter
+and eternity; and who can care 
+for a world of omnipotent vision, 
+if nothing is monogrammed there? (Poems, 105)1
+The last word of the first stanza is “now,” which immediately brings the question of time to the
+forefront of the poem. “Now” indicates a shift, that something has changed, and we are now
+reading into a new era of possibility. Nabokov made a strange choice when deciding to use
+“now” rather than the more accurate Russian translation of “finally” (nakonets-to) at the end of
+the first stanza. The change marks a shift in the temporality of the poem — something has come
+to pass which has changed the landscape in which the poem exists. The original Russian text
+
+“Oculus” was originally written in Russian, and later translated to English by the author. In my
+analysis, I compare the original Russian and the English translation to address a question of
+temporality between the two poems.
+1
+
+21
+reading “finally” suggests that oculus, or man (which is the subject of the poem), has just died.
+The English “now” brings the reader through this moment of death, into a new epoch of
+perceptual abilities only emerging after the death of the subject. In “Oculus,” the disembodied
+eye is one floating in space, and opening for the first time after death. Considering this, “Oculus”
+is a poem that, instead of inhabiting a particular space and time, rather builds a model for human
+consciousness at the end of human life, suggesting that the faculty of memory is all that is left
+once man’s mortal coil has been shed. The closing stanza confirms that the colossal oculus
+actually has vision — “who can care / for a world of omnipotent vision, / if nothing is
+monogrammed there?” The opening and closing stanzas of the poem provide the only positive
+statements — the rest of the poem is defined by what is not seen or known — and these positive
+statements are essential in understanding where and when the eye is existing, and why.
+The fourth stanza of the poem holds a clue about the movement of the oculus, which is a
+feature that Nabokov surely considered. The line reads: “in the stillness of his revolutions /
+nothing in that respect will he know.” “Still” and “revolutions” are antithetical, immediately
+complicating the idea of the motion of the eye. But like the a heavenly body, the “oculus”
+presented in the poem may appear to be still, while it is in fact slowly, constantly revolving; a
+sphere tumbling in midair. This image brings to attention a passage from the closing chapter of
+Speak, Memory, where Nabokov gives a further clue about spirals, spheres and their relationship
+to time:
+Innermost in man is the spiritual pleasure derivable from the possibilities of outtugging
+and outrunning gravity, of overcoming or re-enacting the earth’s pull. The miraculous
+paradox of smooth round objects conquering space by simply tumbling over and over,
+
+22
+instead of laboriously lifting heavy limbs in order to progress, must have given making a
+most salutary shock. …for every dimension presupposes a medium within which it can
+act, and if, in the spiral unwinding of things, space warps into something akin to time,
+and time, in its turn, warps into something akin to thought, then, surely, another
+dimension follows — a special Space maybe, not the old one, we trust, unless spirals
+become vicious circles again. (Speak, Memory, 301)
+This quotation from his autobiography underscores Nabokov’s interest and concern for the
+position of God at the time of creation, and an interesting interpretation of his previously
+professed interest in spirals. From Nabokov’s point of view, spherical objects in space (such as
+planets and stars) only seem to be still objects, while they constantly spin and tumble through the
+heavens. A stillness that is never quite still, revolutions of movement that spiral forward into
+another dimension. It’s an archetype which one could argue Nabokov employs heavily in the
+architecture of his narratives, where the beginning and end of a story merge, or occupy the same
+space in time — so by the end of the story, the reader has only returned to the opening lines of
+where it all began. This is true in many of his stories, including “Spring in Fialta,” and his
+fiction, such as Lolita and The Gift.
+But the quotation above also plays into the content of “Oculus” directly. On one hand, the
+reader must consider the separation between spatial and temporal “realities” in the poem. As
+previously discussed, the oculus itself has a timeless quality to it as it is the eye that has opened
+just after death — or the end of time for an individual; the spatial disconnect lies in the eye
+“having glanced / at the earth,” presumably from a vantage point far away from the earth itself.
+As Paul Morris mentions in his brief analysis of the poem in his book Nabokov’s Lyric Voice,
+
+23
+“[t]he oculus is not only an eye but also a circular opening, here not out of an architectural
+structure but onto the universe” (Morris, 180). Nabokov’s concern in the composition of this
+poem is certainly much more grand than the mere perceptual abilities of an eye looking down at
+the Earth. The cosmic significance of the oculus as a window into another dimension beyond the
+un-“monogrammed” Earth suggests that a more pure state of perception is possible once man has
+passed on to death. In the poem, visual perception is ceded to a pure relationship with the cosmic
+and the divine.
+Complicating this relationship, Morris continues: “although death has brought the
+dissolution of the boundary separating eternity and matter and hence conferred a measure of
+omnipotence, the advantage is doubtful if the stamp of particularized life is not to be
+seen” (Morris, 181). The contradiction between “matter” and “eternity” in those closing lines
+also raises questions about what the “oculus” is actually perceiving. If “Oculus” takes place in
+the eye opening after the moment of death, it would make sense that the eye cannot see any
+particular details or images because it is not living. The void that is created in the poem in the
+middle three stanzas through the repetition of precisely what is not seen and perceived creates an
+antithesis between the pieces of physical matter that constitute daily life on earth and something
+quite opposite, a timeless, non-physical form of being, which is what Nabokov suggests is the
+existence of memory after death.
+This suggestion of “omnipotence” is relevant here as well, as Nabokov may have even
+referenced God directly in the second stanza of the poem: “having glanced / at the earth (quite
+unlike the old freak / that was dappled all over with seas / and smiled with the sun on one
+cheek),” indicating that either the “old freak” was looking at the earth at the time of creation, or
+
+24
+the “old freak” is the earth itself, indeed “dappled all over with seas” and the “sun on one cheek”
+as the sun only shines on half of the earth at a time. Indeed, in the original Russian version of the
+poem, the words “old freak” do not appear in the text, suggesting that the complete parenthetical
+statement in the second stanza is only referencing the earth — however, the English translation
+retains the possibility of the reading that the “old freak” is a reference to God. Whether God is
+directly referenced in the poem, or if the comparison between the eye and God is implied, the
+notion of the “eye” as viewer is concretely understood to be occupying a space outside of time
+and physical form. For Nabokov, the revolutions of the eye, outside of space and time, open up
+the possibilities about where and when the “oculus” is actually existing.
+Nabokov sets up this possibility very clearly in the same quotation from Speak, Memory:
+“in the spiral unwinding of things, space warps into something akin to time, and time, in its turn,
+warps into something akin to thought, then, surely, another dimension follows — a special Space
+maybe” (Speak, Memory, 301). The seeing eye in “Oculus” can be conceived as a form of
+unravelled humanity, like a circle unwound to form a spiral. The “oculus” has been stripped of
+all “marginal flesh,” and is “limited” insofar as the faculty of perception is the only quality that it
+retains. Even still, the “oculus” cannot really see, as everything in the poem, all of the earthly
+qualities “of clouds, and grainfields, and vines,” are all lost to the “oculus”: “nothing in that
+respect will he know.” So what is left of the “oculus”? Suspended in a state of pure perception,
+the eye cannot even make out any particular details of the space in which it exists. The closing
+lines of the poem provide some form of closure for this issue: “Gone, in fact, is the break
+between matter / and eternity; and who can care / for a world of omnipotent vision, / if nothing is
+monogrammed there?” The closing stanza of the poem clearly situates the position of the oculus
+
+25
+and its relationship to its surroundings. There is no matter from the point of view of the oculus,
+only timelessness — a world exists below, but “nothing is monogrammed” upon its surface; it is
+completely blank.
+The mode of perception is established in the lines of “Oculus,” one that is completely
+detached from the goings-on of the world, and focused solely on memory, is the same type of
+perception that Victor experiences through the narrative of “Spring in Fialta.” Nabokov’s
+understanding of inspiration, and a greater adherence and attentiveness to moments of “cosmic
+synchronization” instill in his readers and in his own metaphysical beliefs that time is largely
+relative. There are moments, in both fiction and reality, in which “the entire circle of time can be
+perceived” in a single moment of feeling. Both the “Oculus” and Victor are examples of this —
+but at an extreme. In both of these accounts, it is only in the moments just before, or just after,
+death in which this type of perception is possible. 
+
+26
+Chapter Two: Buffer Spaces and Shifting Identities Between Europe and America
+
+In 1939, Russian émigré readers living in Paris came across a poem entitled “The Poets.”
+It appeared rather inconspicuously, and the author was thought to be one “Vasiliy Shishkov,” a
+name that seemingly no one could vouch for, including Georgii Adamovich, one of the most
+prominent critics of this time. Later that year, Vladimir Nabokov, under his known pen name
+Sirin, came forward and published a short story entitled “Vasiliy Shishkov,” obliquely providing
+the fact that he had invented the character of Shishkov himself, and sought to use the pseudonym
+to subversively publish his poetry as an affront to Adamovich, who had not been a supportive
+voice of Nabokov’s verse. When Adamovich first read “The Poets,” he responded: “…who is this
+Vasiliy Shishkov? Where does he come from? It is quite possible that in a year or two everyone
+to whom Russian poetry is dear will know his name,” clearly unaware that Nabokov had
+anything to do with the matter (Boyd, 509).
+Adamovich had characterized Nabokov’s verse very critically, ultimately decrying it as
+not worthy of entry into the canon of Russian poetry. He wrote in an essay that Nabokov’s verse
+was distinguished by the “same rush and accumulation which characterizes Pasternak’s poetry,”
+while it “revels in verbal innovation and combination and disparages the search for concision and
+simplicity” and is “far removed from [….] ‘the poetic canon established in the
+emigration’” (Boyd, 509). Nabokov, otherwise lauded for his literary talent, did not take to this
+attack lightly. While it is possible that he intended to publish “The Poets” with the sole aim of
+disproving Adamovich’s criticism, the poem itself suggests far deeper implications for
+Nabokov’s poetic identity than the purely superficial satisfaction of impressing a literary foe. It is
+
+27
+possible that through the creation of a new fictional identity in Vasiliy Shishkov Nabokov begins
+to develop a method to allow himself to disappear inside the words of his poems and stories.
+In “Vasiliy Shishkov,” Nabokov clearly distinguishes himself from the eponymous young
+poet. For instance, he narrates their first encounter in the first person perspective, not giving any
+hints that Shishkov and Sirin, his pen name at the time, are one and the same. The story begins
+with Shishkov approaching Nabokov after an “Evening of Russian Émigré Literature” in Paris,
+and asking to speak with him (Stories, 494). At their meeting the following afternoon, Shishkov
+plays a trick on the narrator Nabokov by handing him a notebook full of poetry, which the latter
+reads, and criticizes without reservation. Shishkov is impressed by “Nabokov’s” directness, and
+responds: “‘I now have learned that you are merciless — which means that you can be trusted.
+Here is my real passport.’ (Shishkov handed me another, much more tattered,
+notebook)” (Stories, 495). The “game” Shishkov plays is a parody of Adamovich’s critical
+reception of Nabokov’s poetry in the past. This is especially significant in view of the fact that
+“Nabokov” is impressed by the second notebook he receives, just as Adamovich was when, in
+“The Poets,” Shishkov’s name was substituted for Nabokov’s. The reader then learns that
+Shishkov entrusts the contents of the entire notebook to Nabokov, should anything happen to
+him. The narrator eventually leaves Paris and, upon his return, learns that Shishkov has
+disappeared, with no one to give him information on his whereabouts. He concludes the story
+with this tongue-in-cheek admission of his involvement in the hoax:
+“But where the deuce did he go? And, generally speaking, what did he have in mind
+when he said he intended ‘to disappear, to dissolve’? Cannot it actually be that in a
+wildly literal sense, unacceptable to one’s reason, he meant disappearing in his art,
+
+28
+dissolving in his verse, thus leaving of himself, of his nebulous person, nothing but
+verse? One wonders if he did not overestimate
+The transparence and soundness
+Of such an unusual coffin.” (Stories, 499)
+In considering the strange disappearance of Shishkov, the narrator Nabokov, dramatized
+in the short story, wonders what his younger colleague meant by saying “he intended to
+disappear, to dissolve.” Obviously, Nabokov knew full well that his character had never actually
+existed. From his authorial perspective, Shishkov dissolved into his verse, and disappeared. But
+Shishkov also dissolved into the pages of Nabokov’s fiction, for it is the story itself that may be
+characterized as “transparent” — an “unusual coffin” into which Shishkov seals himself.
+Shishkov is not the only one of Nabokov's characters who disappears: both Van and Ada
+disappear at the end of Ada, their deaths uncertain; Sebastian Knight dies into his books in The
+Real Life of Sebastian Knight; and short stories such as “Perfection” feature protagonists whose
+disappearance is not certainly into death, but rather into a narrative time-space that is both
+opaque and see-through.
+In all of these cases, Nabokov reveals his deep interest in one’s possibility of
+disappearing into a text, or a new life that a work of fiction may establish. In fact, he often
+asserts that his characters are immortalized through his narratives. Inversely to Shishkov's
+disappearance, Nabokov was able to dissolve into the guise of his invented character, using
+Shishkov’s identity to expand his literary capabilities through experimenting with the form and
+content of his poetry, and to gain acceptance from an unbiased audience of critics. Even further,
+though creating an alternate identity for his own writing, Nabokov could carve out a space for
+
+29
+himself to address such themes as authorial sovereignty and his own aesthetic and real-life
+insecurities, which he may not have been able to state using his own voice and name. He is no
+longer interested in elegiac mourning of his lost Fatherland or in nostalgic recollection of the
+past as something that could be brought back in a work of art. Instead, in “The Poets” and The
+Gift, Nabokov begins to subtly detach himself from the threads of 19th century romanticism,
+which still remained strong in Russian émigré literature, and move towards a new type of
+modernism that lost the elegiac, mournful perspective on the now-distant motherland of Russia.
+As Thomas Karshan summarizes in his introduction to the compilation of Nabokov’s Selected
+Poems, in “dealing with his shattering transition from the Russian to the English language,
+Nabokov explores the basic words and gestures for farewell, and plays painfully on their
+inadequacy to the tasks he wishes they could perform for him: renunciation, mourning,
+exorcism” (Selected Poems, xiii). This deflection of his own identity and complete departure
+from Russian literature coincided, as Karshan points out, with Nabokov’s imminent departure
+from Europe to America, as well as his transition to becoming a writer in the English language.
+At the time of the Vasiliy Shishkov hoax, the entire European continent was on the brink
+of war. Tensions were quickly escalating, jobs were growing more scarce, and the rising power
+of Nazi Germany made the future look highly uncertain. Furthermore, Nabokov, his wife Véra,
+and their son Dimitri, were barely making ends meet — Véra held an office job, which was the
+only consistent source of their income, and Nabokov’s sporadic earnings as a writer were not
+enough to substantially support the family. This time in Paris was especially trying for the
+Nabokovs. In his autobiography Nabokov ruminates that his “bleakest recollections are
+associated with Paris, and the relief of leaving it was overwhelming” (Speak, Memory, 258). This
+
+30
+is why, when Shishkov states that he intends “to disappear, to dissolve,” it is rather Nabokov’s
+voice speaking through the mask of another writer, effectively expressing his own desire to
+abandon his meager existence, and avoid the imminent violence in Europe. In this way, and
+through the effort involved in creating Shishkov, Nabokov explores his ability to figuratively
+dissolve into his fictional characters, playing the roles of author, narrator and character
+simultaneously; his intent is obviously to give himself a new life in the pages of his fiction.
+Nabokov investigates the potential of oscillating between literary identities in order to
+expand his artistic power, which, after all, were then greater than his agency in supporting a
+decent every-day existence. He would explore other capacities of literary buffer spaces at this
+time too: experimenting with metatextual forms in his fiction, or by creating a coagulated vision
+of the “otherworld,” thus examining the possibilities of timelessness in both his poetry and prose.
+In his novel The Gift, Nabokov invents a version of himself as young poet-cum-writer Fyodor
+Godunov-Cherdyntsev, and in the next year behind the guises of Vasiliy Shishkov, and Victor in
+“Spring in Fialta,” he explores the realm of memory as another escape. In all these works, he
+plays himself within his created worlds, detached from the troubles of reality. Nabokov’s “buffer
+spaces” within fiction thus allow him to experiment with manifestations of authorial self within
+different metatextual levels: the author’s world and that of a narrator, a protagonist, between past
+and present, between this world and another, where he can effectively rewrite his own history,
+and shape reality to his liking. The buffer spaces that Nabokov creates can also be seen as a type
+of “hiding place” for the author, where he can’t be immediately seen or found by his readers, for
+there he can disappear behind the guise of his semi-autobiographical characters. While “in
+
+31
+hiding,” detached from his work, Nabokov still monitors his readers and critics from a hidden
+vantage, much like a god, or a puppeteer.
+In his interview with Alvin Toffler for Playboy in 1964, Nabokov describes his writing
+process as a Platonic type of discovery, almost directly alluding to the allegory of the cave:
+“There comes a moment when I am informed from within that the entire structure is finished. All
+I have to do now is take it down in pencil or pen. Since this entire structure, dimly illumined in
+one’s mind, can be compared to a painting […] I may direct my flashlight at any part or particle
+of the picture when setting it down in writing” (Strong Opinions, 31-32). In other words, by
+establishing a distance between himself and his own fictional and poetic creations, Nabokov
+begins to exist in his fictional worlds where time can stand still and reality can be molded.
+“The Poets” represents the prime example of Nabokov’s experimentation with narrative
+distance. The poem takes on a new meaning when read from the perspective of Nabokov’s using
+Shishkov as a buffer space. The distance that Nabokov creates between himself, and the
+metatextual reality of Shishkov, allow for his authorial presence to multiply into at least two
+distinct bodies: Nabokov as narrator and author (also his name Sirin potentially splits his identity
+further) and Shishkov as a protagonist, and a poet. The separation between the narrator of the
+poem and Shishkov as its literal protagonist alone creates a type of intermediary space for
+Nabokov where he can simultaneously embrace both identities. Similarly, authorship of the poem
+can belong to both figures: Nabokov-Sirin and his character Shishkov. Moreover, in “The Poets,”
+Nabokov uses a completely different meter than he had used in any of his previous poems to
+further obscure his shared identity with Shishkov; he also employs compound rhyme which is
+rare for his verse. As Gerald S. Smith concludes in his exacting analysis of Nabokov’s poetic
+
+32
+meter, “Nabokov viewed departures from exactitude as a specific device, to be used to mark
+certain particular texts, rather than as a generally available formal resource which it became in
+Russian poetry during his time. It is noteworthy that in the short story ‘Vasiliy Shishkov,’
+Nabokov uses compound rhymes to exemplify the ‘market-place excessiveness and low level of
+literacy’ of the spoof poems that Shishkov uses to test his critic” (Smith, 295). Nabokov
+consciously shed his style not only to obscure himself, but to “mark” the text of his poem as a
+departure from his poetic corpus.
+This creation of a new literary voice in his invented character permits Nabokov to make
+grave concessions within the lines of the poem about the current prospect of his poetry, the
+endangered art form in pre-war Paris. At the beginning of the second stanza, he confesses: “It is
+time, we are going away: still youthful, / with a list of dreams not yet dreamt” (Poems, 102-103).
+The invocation of the first person plural pronoun allows him to make a wide claim and to speak
+for all Russian émigré poets. The second half of the same stanza confirms the detachment that
+the émigré poets feel while their home country fades away from them: they part not merely with
+the world, but “with the last, hardly visible radiance of Russia / on the phosphorescent rhymes of
+[their] last verse” (Ibid.) It is important to note here that Nabokov, in the penultimate chapter of
+Speak, Memory, recalls a different outlook of Russian émigré writers at this time: “In their
+attitude towards literature they were curiously conservative; with them soul-saving came first,
+logrolling next, and art last. A retrospective glance nowadays notes the surprising fact of these
+free belles-lettrists abroad aping fettered thought at home by decreeing that to be a representative
+of a group or an epoch was more important than to be an individual writer” (Speak, Memory,
+284-5). In his opinion, his fellow citizens wanted desperately to be able to connect with their
+
+33
+homeland. But he had already realized that the distance between Paris and Russia was great, and
+the diaspora’s connection to the land was diminishing by the day, “the last, hardly visible
+radiance of Russia” drifting off to into hazy memory. Here, Nabokov is suggesting that, in a way,
+a whole generation of Russian poets are going to disappear. In the next stanza of the poem, he
+bitterly asserts that “the kithless muses at last have destroyed us” indicating that the émigré poets
+whom he is addressing have been overtaken by another group of writers who have no
+geographical or national identities. Perhaps they are the same “individual writers” that Nabokov
+counterposes to the émigré poets in his autobiography, and to whom he also belongs.
+In the next stanza, Nabokov further develops the theme of detachment by indicating the
+distance Shishkov’s poets feel from their readers: “And this not because we’re afraid of
+offending / with our freedom good people” (Poems, 102). The juxtaposition of the “we” (the
+poets), and the “good people” creates a rift between the author and the reader, stratifying his
+readership into classes of aesthetic sensitivity. It is another kind of buffer space that is carved out
+of the difference in the perceptual abilities and aesthetic sensibilities of the poets, as opposed to
+the philistines. Specifically, Nabokov concludes the stanza with the line “we prefer not to see
+what lies hidden from other eyes,” again invoking the first person plural pronoun to speak for all
+poets, and suggesting that the perceptual abilities of the poets extend beyond the limitations of
+others.
+He immediately dives into three stanzas listing in a number of examples of the visual
+details that the poets can observe, or the images that are specific to them. Speaking through
+Shishkov, Nabokov presents these images as too painful to be seen by just anyone. The poem’s
+narrator notes “all this world’s enchantment and torment,” and “all that weighs upon one,
+
+34
+entwines one, wounds one,” and concludes with the admission that these images are “all the
+things that already [he] cannot express.” The last sequence of the poem, consisting of three
+stanzas begins with the words “not to see,” and ends with an emphasis on feeling, suggesting that
+the poets, who Nabokov and Shishkov both favor, have an expanded range of perception, in
+vision, emotion and pain.
+The shift from things that Nabokov’s narrator can see, to things that he cannot see,
+constitutes the main narrative and lyrical focus of the poem. For example, in the seventh stanza
+he lists “all that wounds one…”, suggesting that even the most sensitive authors have a limit to
+what they can experience. Further, it is the tragedy of the poets that they lack the ability to
+“express” all of these ugly things. In a sense, they have a moral obligation to transmit their
+potential to see beyond the limits of the physical world, and yet, Nabokov admits that there exist
+things that even the best of them “cannot express.” In his mind, the poets have an expanded field
+of vision, but have lost their ability to speak. This combination of attributes is reminiscent of the
+“colossal oculus” which appears in Nabokov’s eponymous 1939 poem. There, a gigantic eye is
+endowed with vision, but it is also unable to express itself verbally.2 The poem concludes with
+the lines “and who can care / for a world of omnipotent vision, / if nothing is monogrammed
+there?” suggesting the tragedy of a wasted wondrous, far-reaching perception (Poems, 139).
+Because of this realization, Nabokov’s Shishkov is making it clear that his remaining
+poetic opportunities in this world are diminishing. The ideas of “dissolving” and “crossing over”
+predominate in the final two stanzas of “The Poets,” along with the repeated invocation of
+“silent/silence”: “In a moment we’ll pass across the world’s threshold / into a region—name it as
+2 An
+
+analysis of “Oculus” constitutes the second half of my first chapter.
+
+35
+you please: / wilderness, death, disavowal of language, / or maybe simpler: the silence of love; /
+the silence of a distant cartway, its furrow, / beneath the foam of flowers concealed; / my silent
+country (the love that is hopeless); / the silent sheet lightning, the silent seed” (Poems, 102). By
+using the plural pronoun “we” again, Nabokov describes a mass exit of the poets. Already gone
+from their motherland of Russia, they are now crossing “the world’s threshold” into a new, silent
+region of existence. The repetition of “silence” in the poem’s closing lines elevates the word — it
+nearly becomes a mantra, having acquired a spiritual quality. With their “disavowal of language,”
+they can achieve perception in this silent land only through their faculties of vision and memory,
+the same state as the oculus. Conversely, their inability to express the pain and beauty of the
+world makes their transition to the otherworld imperative, because there, silence rules. In the
+buffer space created between silent and audible worlds, silence becomes a positive quality of
+existence, as the narrator suggests that the purest form of experience in the otherworld is one
+without sound.
+Each of the “silent” images and spaces that Nabokov indicates are imbued with
+metaphorical significance. The silent “distant cartway” represents the road towards the heart of
+the silent region where the poets will travel. The “silent country” is Russia, the land the poets
+have left, thus detaching themselves from their national heritage. Their longing for Russia is
+compared to “the love that is hopeless,” which suggests that any affiliation with their forgotten
+home may be a worthless endeavor. On the final line, “the silent sheet lightning” invokes the
+same image of an incredibly bright, encompassing wash of white light, which characterizes
+Nabokov’s visual representations of the otherworld as seen in works such as “Spring In Fialta” or
+Nabokov’s description of cosmic synchronization in Lectures on Literature. The poem concludes
+
+36
+with the image of “the silent seed,” which is hopeful and brimming with promise. After all, the
+whole enterprise of “crossing over” may be worth it. The seed will eventually come back to life
+in another form, its state of “silence” may be temporary.
+David M. Bethea, in his essay “Nabokov and Khodasevich,” explains that “The Poets”
+was originally written as a eulogy. It was delivered at the funeral of Nabokov’s friend, the
+Russian émigré writer Vladislav Khodasevich in 1939. A very literal reading of the poem reveals
+it to be several allusions to the transition from life to death, as well as cementing the proximity of
+death and promise of the hereafter as central themes. The final two stanzas seem to directly point
+towards this transition, and the state of existence in the hereafter, the silent and surreal pastoral
+imagery evokes an idea of heaven. No matter whether the poem can be read literally, as
+Nabokov’s roadmap to the afterlife, or as a more metaphorical reading about the “death of
+Russian poets” and the limitations of their ability to express themselves, the act of crossing over
+between worlds is central to our understanding of it. Nabokov, through the separation between
+himself and his poetic subject, exercises his ability to exist in both realms simultaneously.
+Writing under the veil of anonymity, he utilizes the buffer space he creates in “The Poets” to
+address the themes of despair, the inescapability of terror in Europe, and the shedding of his
+identity as a Russian writer, emblematized by finally shedding his widely-known Russian pen
+name, Sirin. It was in the year following the Vasiliy Shishkov episode that he moved to America,
+and began his bright career as a writer and poet in English.
+This is why Nabokov’s final Russian novel, The Gift, is so emblematic of Nabokov’s state
+of mind, and especially of his evolving authorial strategy at that time. It was published in
+serialized form in 1938 while Nabokov was living in Paris, his final European home before the
+
+37
+emigration to the United States. However, he penned the novel in the preceding years while
+eking out a meager existence in Berlin, the city that sets the scene in The Gift. The novel’s
+protagonist is a young Russian poet named Fyodor Godunov-Cherdyntsev. Fyodor’s personal
+history and attributes harbor an eerie resemblance to Nabokov himself, such as his love of
+lepidopterology and his fated romance with a young Jewish girl named Zina. There are also
+overlapping chronologies that place both the author and his character in the same time and place
+in history. Godunov-Cherdyntsev, like Nabokov, was a talented poet from a young age. Further,
+his love for poetry and his desire to join the ranks of outstanding Russian poets such as Pushkin,
+Blok and Khodasevich is perhaps the most important similarity between Nabokov and his
+protagonist. In Speak, Memory, Nabokov reconstructs his first feelings of poetic inspiration and
+his days of avid poetic composition at the age of 14, through the visualization of a pavilion with
+a bridge extending from it, the place where he liked to write poetry on his family’s estate. This
+pavilion was so distinct in his mind, that he kept recalling it frequently: “I dream of my pavilion
+at least twice a year” (Speak, Memory, 215). While the entire description of the space remains
+highly surreal and dream-like, Nabokov vividly depicts a bridge connecting the pavilion, which
+appears to nearly float in mid-air compared to its surroundings: “The narrow little bridge that
+arched across the ghyll at its deepest part, with the pavilion rising midway like a coagulated
+rainbow, was as slippery after a rainy spell as if it had been coated with some dark and in a sense
+magic ointment” (Speak, Memory, 216). The “slippery” bridge seen here is a symbol
+representing a different type of buffer space that Nabokov creates. Between the solid land of
+reality, and a highly surreal, floating pavilion that encompasses the essence of poetic creation,
+this bridge is a narrow, difficult passage to traverse, one which only a few individuals can cross.
+
+38
+It is as if in crossing this metaphorical bridge, Nabokov carves out a new existence for himself,
+that between reality and poetry. Here, he can assume any identity he chooses, be it Vasiliy
+Shishkov, or Fyodor Godunov-Cherdyntsev.
+In The Gift, one of Fyodor’s earliest compositions is introduced in the text in its entirety,
+as a poem that “had moved [his mother] most of all” (The Gift, 94). Although left untitled in the
+pages of the novel, the poem was finally published in English in 1979 under Nabokov’s own
+name, and given the title “The Swift”:
+One night between sunset and river
+On the old bridge we stood, you and I.
+Will you ever forget it, I queried,
+— that particular swift that went by?
+And you answered, so earnestly: Never!
+And what sobs made us suddenly shiver,
+What a cry life emitted in flight!
+Till we die, till tomorrow, for ever,
+You and I on the old bridge one night. (The Gift, 94)
+The poem reads as a traditional love lyric: it is short, piercingly nostalgic, and encompasses
+romantic imagery, such as the figures of young lovers, a sunset, allusions to death and tears, and
+the swallow bird swooping across the scene. Its motion is both metaphorical and metonymic —
+as an emblem of memory or a symbol of psyche, a swallow crosses over from past to present,
+flying on to eternity. In his analysis of “The Swift,” Paul D. Morris argues that “through use of
+motifs of transition — at sunset on a bridge — the individuals in the poem are presented as
+suspended in a liminal space where they are allowed briefly in their love, and in the
+identification of a shared lyric temperament, to escape the earthly coordinates of time and space”
+(Morris, 186). Morris’ identification of this “liminal space” where both of the lovers can exist
+
+39
+outside of time and space points directly to the existence of the timeless otherworld. Further, the
+penultimate line of the poem, “Till we die, till tomorrow, for ever,” suggests the possibility of a
+space where death is overcome, and consciousness can continue on to infinity. In other words,
+here, the narrator’s identity dissolves into the text as it happens to Nabokov and his protagonist
+in “Vasiliy Shishkov.”
+Nabokov's reference of a bridge in this poem cements the symbolism of bridges in his
+poetic and fictional works. For him, bridges represent a transitional, timeless buffer space, a
+fragile link between worlds, experiences, life and death. It is not surprising that the bridge
+Nabokov describes in “The Swift” reappears throughout his autobiography, deepening the
+personal connection that Nabokov had with bridges — physical and metaphorical. For Nabokov,
+symbolic bridges are more significant than physical ones, because they perform not only the
+function of crossing a body of water, but also distinctly mark times and places where people or
+things come and go. From his childhood onward, bridges stand as entry and exit points in some
+of Nabokov’s most vivid memories. One of the first instances that Nabokov shares about bridges
+in his autobiography comes from the time when his father, Vladimir Dmitrievich Nabokov, was
+returning home from his imprisonment. V.D. Nabokov helped draft the Vyborg Manifesto, a
+document that encouraged Russians to resist the government after the Tsar began to dissolve the
+Parliament in 1906.3 Nabokov remembers the anticipation he felt, and the colorful and joyous
+day when his father came back to their family estate in Vyra in a horse-drawn carriage. The
+image of the bridge traversed by horses stands out in Nabokov’s memory: “I see with the utmost
+clarity the sun-spangled river; the bridge, the dazzling tin of a can left by a fisherman on its
+
+3
+
+See Dragunoiu, 21-23
+
+40
+wooden railing” (Speak, Memory, 30). The imminent return of his father was not just a matter of
+crossing the bridge back into the village, but also his return to young Nabokov’s life.
+Another example of the importance of bridges in Nabokov’s personal history comes from
+chapter 12 of Speak, Memory. In the beginning of his young romance with Tamara, the narrator
+discovers his girl’s initials carved into a bench near the bridge’s pavilion. Later, he sees her
+“standing quite still […] in a birch grove, she seemed to have been spontaneously generated
+there, among those watchful trees, with the silent completeness of a mythological
+manifestation” (Speak, Memory, 230). Both the beginning and the end of their romance are
+marked with the motif of a bridge. From afar, a young Nabokov observes Tamara, to him, a
+“mythological manifestation,” walking across a bridge with two other girls. It takes him a whole
+month before he summons the courage to speak to Tamara. His memory of the romance is hazy,
+and thinking about the experience retrospectively, he writes: “In looking at it from my present
+tower I see myself as a hundred different young men at once, all pursuing one changeful girl in a
+series of simultaneous or overlapping love affairs, some delightful, some sordid, that ranged
+from one-night adventures to protracted involvements and dissimulations” (Speak, Memory,
+240). Though the passing of time surely had an effect on the older Nabokov to vividly remember
+the specifics and subtleties of his relationship with Tamara, the fact that she entered his life by
+crossing a bridge, and left it in the same fashion, suggests that the entirety of their romance
+existed on another plane of reality, in an altered space between history and the future. This kind
+of estrangement, according to the term used by Russian formalist critics, such as Victor
+Shklovsky, allowed Nabokov to experience the romance as “a series of simultaneous or
+overlapping love affairs.” Nabokov also uses this deflection from himself to “a hundred different
+
+41
+young men” to exercise his ability to exist outside of his own body when times are tough, or the
+weight of the past weighs heavily on him. In this instance, Nabokov retrospectively cites his
+promiscuity as a young man as a phase that he regrets, rationalizing his regret through saying
+that those “hundred different men” were not really him. In Nabokov’s personal life, as well as his
+artistic one, the ability to shift in, out and between these identities further establishes his need
+and interest to inhabit other names and other worlds.
+His romantic experiences with Tamara and general promiscuity at this time were
+regularly condoned by his mother, who “contented herself with shaking her head dubiously
+though not intendedly, and telling the butler to leave every night some fruit for me on the lighted
+veranda” (Speak, Memory, 232). This lack of restriction on his love life from an early age led to
+Nabokov’s acceptance of Tamara’s role as one of the first people to show him around St.
+Petersburg. Both the young narrator and his light-footed guide found the city “horribly deprived
+of the sylvan security [they] had grown accustomed to” (Speak, Memory, 234), and thus much
+different from the secure and serene Vyra where Nabokov grew up, and which he rarely left,
+except to go to school. On the other hand, St. Petersburg evolved for the two lovers as a place for
+magical discoveries. At evening time, its architecture would come alive for them, with buildings
+and streetlights that could not be found at Nabokov’s home estate acquiring a preternatural
+quality: “Solitary street lamps were metamorphosed into sea creatures with prismatic spines by
+the icy moisture on our eyelashes. As we crossed the vast squares, various architectural phantoms
+arose with silent suddenness right before us” (Speak, Memory, 237). Needless to say, this
+otherworldly scene could only start being accessible to Nabokov once he left his property,
+crossing the bridge to a metropolis where he became effectively nameless in the crowds also
+
+42
+walking the city streets. This dislocation from his name and identity in a completely new and
+novel urban space was one of Nabokov’s formative experiences of otherworldliness. In later
+years, the experience engrained in his youth remained a marker for his desires to disappear and
+exist on another plane of reality.
+The multiplicity of identities that Nabokov suggests he experienced at this time has
+specific significance to his romance with Tamara, and the potential of their romance to be
+characterized as “otherworldly.” When Nabokov writes of their final encounters, he describes
+them each as final partings, almost death-like in their irrevocability and hopelessness: “During
+that last summer in the country, we used to part forever after each secret meeting when, in the
+fluid blackness of the night, on that old wooden bridge between masked moon and misty river, I
+would kiss her warm, wet eyelids and rain-chilled face, and immediately after go back to her for
+yet another farewell” (Speak, Memory, 240). Figuratively complex, every part of this description
+suggests that Nabokov’s narrator is in a dream-like state. The setting includes paradigmatic
+details of mystery and motifs of obscurity typical in Nabokov’s fiction, such as the “misty river”
+and the “blackness of the night.” Even further, the narrator has trouble actually parting from his
+beloved, as he notes that after leaving her, he would again go back for “yet another farewell.”
+The inability for the two to part, the mystery and foggy memory of their relationship, and
+Nabokov’s sense of several selves, and deflections of identity during this relationship, all feed
+into this author’s concern with “timelessness,” the state of being where time is stretched or
+condensed, seemingly unaffected by the laws of the universe. It is not purely because of the
+bridges, which bookend his relationship to Tamara, that this episode is characterized as timeless,
+
+43
+but rather the inverse is true: the timeless quality of their affair is inextricably linked to the
+crossing of bridges, and the worlds they can inhabit once those bridges are crossed.
+To return to “The Swift,” it seems increasingly likely that the subject of Nabokov’s poem
+is indeed Tamara, considering his specific recollections of their romance in his autobiography. In
+a sense, the poem emblematizes the relationship completely, highlighting both its brevity through
+the figure of the swallow dashing across the lovers’ field of vision, and the sense of timelessness
+that Nabokov felt while he was seeing Tamara, represented through the statement “Till we die,
+till tomorrow, for ever,” which mirrors the repeated farewells that Nabokov distinctly
+remembers. The middle line of the poem, the only line that does not adhere to the ABAB rhyme
+scheme, is also the only line in which the addressee of the poem is quoted: “And you answered,
+so earnestly: Never!”. This break indicates that the narrator of the poem is not the only one
+implicated in the otherworldly scene “between sunset and river,” for images and emotions are
+accessible to any person as long as they are aware of what they are seeing. The figure of the
+swallow zipping across the narrator’s field of vision, though only for a fraction of a second, is
+elevated to an image engrained in the minds of both lovers; the scene is not restricted to the
+narrator’s singular perception. The emphatic response from the poem’s addressee, “Never!”,
+further suggests a break in chronological time, establishing the possibility of consciousness
+existing eternally. This implication of another consciousness in the “timeless” moment captured
+by the poem suggests that Nabokov believes his experiences of timelessness are not particular to
+him alone. Rather, they can be experienced by anyone who shares his aesthetic principles and
+mnemonic strategies.
+
+44
+In The Gift, “The Swift” is left untitled, and only a few words introduce the poem. It rests
+on the surface of the page, as a vignette connecting Fyodor’s literary past to Nabokov's more
+confident authorial presence. And yet, in the novel, Nabokov introduces Fyodor to be the poem’s
+author as well as its lyrical hero. This is a move that allows him to separate himself from his
+character, and thus claim greater authorial agency. Only much later would Nabokov
+reappropriate the poem, including it in his own collection Stikhi, published posthumously
+(“Poems”, 1979). Moreover, he even called “The Swift” “probably [his] favorite Russian
+poem” (Strong Opinions, 14). While there is no question that Nabokov is indeed the author of
+“The Swift,” with the publication of Stikhi, the attribution of the poem in the novel became
+problematic, posing a serious threat to the autonomy of Fyodor Godunov-Cherdyntsev as the
+implied author of The Gift. It is as if after 1979, two years following Nabokov’s death, that
+Fyodor stopped being the sole author of the texts that are presented as his in the novel. Instead,
+he began to appear as Nabokov’s co-author, a puppet, or a veil behind which the actual author
+hid as the master of his fictional world.
+Although Nabokov used many pseudonyms throughout his career as a writer, it is his
+characters’ proximity to the author that may seem challenging to the perplexed reader. Both
+Vasiliy Shishkov and Fyodor Godunov-Cherdynstev came into being at one of the most difficult
+points in Nabokov’s life. The introduction of these protagonists as authorial alter egos in the
+poems, the story “Vasiliy Shishkov,” and The Gift may be interpreted as the master’s attempt to
+carve new authorial identities for himself. Their presence in literature led to the creation of
+metatextual buffer spaces for Nabokov, for the narrator-protagonists’ existence in fictional
+worlds and their unique personal histories allowed the author to imagine existential and psychic
+
+45
+realms independent of his own. And better yet, he had the power to shape the spaces in which
+these characters led their lives by making his authorial presence in them manifest. As I attempted
+to prove in this chapter, in creating these worlds, Nabokov effectively split his identity, and
+rewrote the rules for how an author is able to interact with his works. Rather than standing
+outside of his poetry and fiction and letting his “representatives” have their own autonomy,
+Nabokov devised spaces in which he would remain present, even after his death. In a sense, the
+creation of a buffer space is Nabokov’s medium and primary tool for accessing the “otherworld”
+evoked so often in his writing.  
+
+46
+Chapter 3: Camouflaging with Darkness: Nabokov’s Flight from Reality
+
+In Nabokov’s fiction and poetry, it is easy to lose track of what is real, and what is
+imagined. By blurring the lines between perception and imagination, he draws the reader’s
+consciousness out of his fictional “reality” towards an idealized existence emblematized by
+dream states, deliriums, and flights of fancy. Unlike the reader, though, who may be baffled by
+the discrepancy between what seems “real” in Nabokov’s worlds and what is not, the author
+seamlessly moves between both ontological poles, experimenting with shifting narratological
+modes and obfuscating the relationship between himself and his narrator or narrator-protagonist
+to ultimately eliminate the space between them. This chapter addresses Nabokov’s
+experimentation with narrative hierarchies. By analyzing the highly-detailed dream sequence in
+The Gift where Fyodor reconnects with his dead father and the (meta)physical spaces created in
+“Evening on a Vacant Lot” and “How I Love You,” it ponders the possibility of Nabokov’s
+creating these intermediary zones between dream and the real as “portals” – the fictional grounds
+where he can travel through time, reconnect with his lost loved ones, or encounter alternate
+versions of himself.
+Roland Barthes, in his seminal essay of literary theory, Introduction to the Structural
+Analysis of Narratives, offers three possibilities of how a narrator functions in a work: “The first
+holds that a narrative emanates from a person […] The second conception regards the narrator as
+a sort of omniscient, apparently impersonal, consciousness that tells the story from a superior
+point of view, that of God: the narrator is at once inside his characters and outside them. The
+third […] conception decrees that the narrator must limit his narrative to what the characters can
+
+47
+observe or know” (Barthes, 110-111). Using Barthes’ categories of narration, we can see that
+Nabokov encompasses all three of these perspectives in the text of The Gift. With the overlap in
+authorship between Godunov-Cherdyntsev and himself, both of these figures act alternating
+between being the novel’s narrators and authors. Moreover, they seem to be taking turns in
+detaching themselves from the immediate happenings of the world around them, providing the
+reader with a limited perspective of the reality presented in the novel. The final words of the
+novel read: “[…] no obstruction for the sage exists where I have put The End: the shadows of my
+world extend beyond the skyline of the page, blue as tomorrow’s morning haze — nor does this
+terminate the phrase. The End” (The Gift, 366). These closing words bring the reader right back
+to the beginning of the novel, for the “morning haze” echoes the atmosphere which surrounds the
+protagonist’s first appearance before the reader’s eyes: “One cloudy but luminous day...” (The
+Gift, 1). This mirroring of the weather motif is more than mere coincidence. By mentioning the
+same atmospheric conditions, Nabokov establishes the possibility of a circular reading of the
+novel, encouraging the reader to delve into it again and re-experience Fyodor’s formation as a
+writer. The novel’s final words refer to such a re-reader as a “sage,” thus complimenting the
+determined few who will continue to explore the “shadows” of Fyodor's world. It is also likely
+that the use of “my” in this final sentence, ascribed within the confines of the novel to Fyodor,
+aims at confirming his status as its implied author. For the brief last moment, Fyodor’s voice
+once again overtakes Nabokov as the sole creator of The Gift.
+Fyodor constantly claims the role of the novel’s author: he speaks to Zina of writing a big
+work of fiction, he contemplates telling the story of their love, and he “prepares” himself for a
+major literary feat by producing smaller literary works, such as a collection of poems and two
+
+48
+biographies. But throughout The Gift, Fyodor also serves as the dramatized narrator of the novel.
+His experiences and observations are limited to his everyday existence, his dreams, otherworldly
+intimations, and voyages through memory, such as his vivid recollections of his father or his
+going back in his imagination to the familial estate in Russia in the second chapter. The tension
+between Fyodor’s role as the novel’s author as well as it’s dramatized narrator is a subject of
+great debate in Nabokovian scholarship, as the subject of narratology in The Gift is characterized
+as an issue where Nabokovian “critics disagree on almost every topic: identity and number of
+narrators, the relations between the first-person and third-person voices, as well as between
+different narrational ‘I’s, and so on” (Garland, 140). As Alexander Dolinin remarks in the same
+essay, the tension is resolved because “The authorial consciousness […] is free to don whatever
+narratorial mask it thinks expedient for its design” suggesting a structural flexibility Nabokov
+intentionally included in the fabric of the novel (Garland, 161).
+Because Fyodor’s omniscience in The Gift is always a subject of doubt, readers are left to
+determine for themselves who has been enjoying this kind of proximity to the protagonist’s
+emotional and intellectual self throughout the text. Nabokov obviously makes his toying with the
+possibility that Fyodor is the novel’s sole narrator part of his metatextual game. He engages in
+the same pursuit of narrative ambivalence in other novels written during the 1920-30s, such as
+Despair and The Real Life of Sebastian Knight. What he would like the reader to believe is that
+he as an author is living under his narrator-protagonists’ skin and vice versa. At the same time, he
+makes it explicit that this particular novel is not an autobiography and that Fyodor is not his alter
+ego.
+
+49
+In 1962, the year before The Gift was first published in its complete form in English
+(including the originally omitted fourth chapter), Nabokov gave an interview with Peter DuvalSmith and Christopher Burstall of the BBC, and the interview was later printed in The Listener,
+the BBC’s weekly publication at the time. When speaking to Duval-Smith, Nabokov introduced
+Fyodor to the new English-speaking audience: “[The Gift] portrays the adventures, literary and
+romantic, of a young Russian expatriate in Berlin, in the twenties; but he’s not myself. I am very
+careful to keep my characters beyond the limits of my own identity. Only the background of the
+novel can be said to contain some biographical touches” (Strong Opinions, 13-14). The
+simultaneous admission and denial of Nabokov’s overlap in identity with his protagonist
+problematizes his pronounced detachment from his character. As it is often the case with
+Nabokov, his every new statement presents the reader with a new set of questions. Here, the
+main of them is why the author has left so little space between his own history and Fyodor’s.
+Brian Boyd, in his biography remarks that in The Gift Nabokov “draws on his past more
+than anywhere else in his fiction” (Boyd, 463). Boyd’s statement is grounded in observations that
+most Nabokov-conscious readers will make. The protagonist, who also represents and articulates
+the novel’s self-consciousness, has a remarkable number of similarities to Nabokov, particularly
+in the episodes where his childhood and adolescence are described. Immediately coming to the
+reader’s attention is Fyodor’s devotion to poetry, his poverty in Berlin, his nostalgia for Russia,
+the country his family were forced to abandon after the revolution, and his penchant for
+collecting visual and auditory details to use them in his literary work. There’s also his allencompassing love for catching, cataloging and researching butterflies, one of Nabokov’s
+deepest lifelong passions. Fyodor remarks that he inherited this fascination from his father,
+
+50
+whose collection of butterflies were “real treasures” accumulated on his many travels around the
+world as a famous naturalist (The Gift, 15). Fyodor reminisces on long walks with his father from
+his childhood, remembering the “bliss,” “fascination,” “special fluency,” “grace,” and
+“enchanting world” of lepidopterology to which he was then introduced (The Gift, 109). From
+this moment onward, butterflies inextricably link Fyodor to his father, and in another direction,
+to Nabokov.
+Near the end of The Gift, Fyodor comes across a butterfly in the woods which draws him
+out of the present into his mourned and irrecoverable past. The butterfly serves as a trigger for
+Fyodor’s imagination and as a means for directing his self-reflection back towards his father. “A
+golden, stumpy little butterfly, equipped with two black commas, alighted on an oak leaf, half
+opening its slanting wings, and suddenly shot away like a golden fly. And as often happened on
+these woodland days, especially when he glimpsed familiar butterflies, Fyodor imagined his
+father’s isolation” (The Gift, 334-5). Just as Fyodor lived most of his life separated from his
+father, whose travels eventually landed him a place at an internment camp in Siberia from which
+he never returned, Nabokov the author of The Gift has to live in eternal “exile” from his parent
+assassinated by a monarchist in Berlin in 1922. Thus Fyodor’s separation from Konstantin
+Dmitrievich Godunov-Cherdyntsev mirrors Nabokov’s own separation from his father, whom he
+adored as a young man and kept paying tribute to as a mature individual, most notably, in Speak,
+Memory. Most importantly, in The Gift, the author is able to re-imagine the return of his
+murdered father by portraying Fyodor’s reunion with Godunov-Cherdyntsev senior in one of the
+novel’s final scenes where the protagonist slips between reality and the “otherworld” one night.
+
+51
+In the final pages of The Gift, Fyodor gives what amounts to one of Nabokov’s most
+comprehensive and specifically detailed accounts of crossing over to the otherworld. What the
+protagonist imagines, the author describes as a dream-like condition “on the border between
+consciousness and sleep” (The Gift, 351). Moreover, the setting for the “encounter” between
+Fyodor and his father is dominated with light, color, and atmospheric motifs which Nabokov
+often employs when indicating the presence of the otherworld, such as “the whisper of the rain”
+that soothes Fyodor into this dreamy state, a nonsensical impulse of alliterative poetic
+versification, and “a monogram of light resembling an infusorian” in the character’s
+“subpalpebral field of vision” (The Gift, 351-2). The amount of specific visual detail which
+Nabokov employs in this passage, a continuous paragraph extending for three and half pages, as
+well as the fury of images and impulses passing through Fyodor’s mind, prompt the reader to
+question whether the protagonist is truly asleep, or has crossed over to another plane of existence
+characterized by heightened, nearly omniscient perception. Further complicating the questions of
+the protagonist’s state of mind is the illusion Nabokov creates of Fyodor “waking up” when
+“suddenly in the thickening mist […] came the silver vibration of a telephone bell, and [he]
+rolled over prone, falling…” (Ibid.). The phone call appears to snap Fyodor out of his “dream”
+when, in fact, he is falling deeper into his unique psychic state of omnipotence and “cosmic
+synchronization” which may also be perceived as an otherworldly experience. At this point,
+another figure enters Fyodor’s dream. It is his lover Zina who has answered the ringing phone.
+Zina delivers a message that someone is waiting for Fyodor at his old apartment, and that he
+must hurry.
+
+52
+The ensuing dash through the streets of Berlin, dimly lit by street lamps, is reminiscent of
+Nabokov’s other dreamy sequences, such as the description of his first escapades through St.
+Petersburg at night, along with his first lover, Tamara, in Speak, Memory. Fyodor even
+specifically recalls the city of St. Petersburg in his description of the eerie and mutating
+architecture of nighttime Berlin: “At this time of year in Berlin there is something similar to the
+St. Petersburg white nights: the air was transparently gray, and the houses swam past like a soapy
+mirage” (The Gift, 352). Although bordering on the surreal, Nabokov’s depiction of Fyodor’s
+sprint through the German capital with highly specific details that are too vivid to make the
+dream-like and otherworldly characteristics of the scene fully believable. Rather, these details
+distract the reader from the surreality, redirecting him towards a concrete vision of Fyodor’s
+previous Berlin experiences, such as his running back to his old apartment after tutorials or
+literary meetings. For example, Fyodor comments on a lighting system in the place where night
+workers were making improvements on the road: “Some night workers had wrecked the
+pavement at the corner, and one had to creep through narrow passages between planks, everyone
+being given at the entrance a small lamp which at the exit was to be left on a hook screwed into a
+post or else simply left on the sidewalk next to some empty milk bottles” (Ibid.). Too specific,
+mundane and logical to be perceived as an attribute of a dream, this image draws the reader away
+from the possibility that Fyodor is not completely conscious, cancelling the supposition of his
+existence on another plane or being or in his imagination. The lamp and hook sequence, in fact,
+sets the precedent for the reader to imagine the remaining action in this particular scene as an
+actual event.
+
+53
+Fyodor’s disorientation as he continues to march through the streets of Berlin becomes
+evident through a few tongue-in-cheek details incorporated in the scene, like a mention of blind
+students only holding classes at night in their “economically dark schools which in the daytime
+housed seeing children” or a still-lit Russian bookstore “serving books to the night taxicab
+drivers” (The Gift, 353). The narrative seems to swerve back towards its otherworldly
+underpinnings as the narrator illuminates Fyodor’s state of consciousness: “[He] could not recall
+the layout of the streets, and the ashy night confused everything, changing as in a negative image
+the relationship between dark and light parts” (Ibid.). But the unfamiliar scene reverts to normal
+once Fyodor returns to his old apartment where “the room was exactly as if he had still been
+living in it” (The Gift, 354). Fyodor’s reunion with his “daytime” self continues in his
+recollection of the emotions he felt when previously reminiscing about his father’s love of
+lepidopterology, noticing “the same painted ceiling wonderfully ornamented with Tibetan
+butterflies […] Expectancy, awe, the frost of happiness, the surge of sobs merged into a single
+blinding agitation” (Ibid.). The surge of these specific emotions which help Fyodor recall his
+feelings about his father only add to the reader’s uncertainty about whether Fyodor is conscious,
+or existing in another state of mind or, perhaps, on another plane of reality.
+Finally, Fyodor’s suspicions about the event presently about to take place, his meeting
+with an unknown individual, reaches its climax: “He know who would enter in a moment, and
+was amazed now that he had doubted this return: doubt now seemed to him to be the obtuse
+obstinacy of one half-witted, the distrust of a barbarian, the self-satisfaction of an
+ignoramus” (The Gift, 354). In this one sentence, the narrator uses four synonyms in sequence to
+describe the idiocy of feeling “doubt” at a moment like this and thus emphasize his certainty of
+
+54
+what is about to transpire. The repetition of these derogatory nouns is at first simply a rhetorical
+device to further enhance the reader’s belief in the actual conscious reality of the meeting about
+to unfold. But once the reader learns, as he soon will, that the event is only happening on another
+plane of consciousness or reality, the repeated statement about the folly of feeling “doubt”
+suggests the infinite possibilities of the otherworld — that anything can happen, even the
+resurrection or return of Fyodor’s long-lost and presumed dead father.
+Fyodor, anxiously awaiting his visitor, is suddenly face to face with Konstantin
+Dmitrievich Godunov-Cherdyntsev, who at first “said something, but so quietly that it was
+impossible to make anything out, although one somehow knew it to be connected with his return,
+unharmed, whole, human, and real” (The Gift, 354). His father’s muted and indiscernible voice
+still conveys a message to Fyodor, even though Fyodor can not make out what he is saying. And
+Fyodor mentions he feels an acute sense of fear, dreading his father’s approach towards him. His
+father then utters another phrase, similarly inaudible, but Fyodor again receives the message that
+“everything was alright and simple, that this was the true resurrection, that it could not be
+otherwise” (The Gift, 355). It is as if Fyodor is communicating with God in this moment: the
+spiritual transmission of information without words is nevertheless clearly understandable for the
+protagonist. Further, his father’s assurance that “this was the true resurrection” adds another
+layer of spiritual import to this interaction, likening his father’s return to the resurrection of Jesus
+Christ.
+It is easy to imagine why Nabokov chose to include this scene in the novel. In creating a
+fictionalized version of himself in Fyodor, and going to great lengths to mirror their histories as
+individuals, Nabokov carves a space for himself to rewrite the terrible truth about his father’s
+
+55
+murder, and imagine a time and place in which his father could return to him, so they could have
+just one more chance to interact. This moment is imagined in The Gift as only a momentary
+meeting between father and son, before it becomes clear that the whole scene did not transpire in
+“reality.” Fyodor then “dissolves” into the image of his father standing before him, and as they
+touch, a feeling of terror strikes the young man, immediately waking him up from the dream. The
+moment in which Fyodor and his father actually make physical contact in the dream is ripe with
+sensorial detail extending far beyond the limits of tactile sensations: “With a moan and a sob
+Fyodor stepped toward him, and in the collective sensation of woolen jacket, big hands and the
+tender prickle of trimmed mustaches there swelled an ecstatically happy, living, enormous,
+paradisal warmth in which his icy heart melted and dissolved” (The Gift, 355). The specific
+prickliness, a sort of comforting discomfort, is met with the highly Nobokovian feeling of an
+“enormous warmth,” presumably love, into which Fyodor dissolves and then wakes up. Though
+Nabokov never specifically cited dreams of his own father in his writing, this brief and
+otherworldly scene is a key to interpreting the author’s imagining his father as continuing to exist
+outside of the constraints of reality.
+In addition to this fictional reunion in the space of the novel, Nabokov also suggests
+meetings with his dead father in his poetry. In his earlier, 1932 poem, “Evening on a Vacant Lot,”
+Nabokov also imagines a scene of his father’s re-appearance, as he did six years later in the
+pages of The Gift. Although there are no explicit allusions to V.D. Nabokov in the body of the
+poem, the dedicatory inscription reads “In memory of V.D.N.,” calling attention to Nabokov’s
+father’s name before the poem begins. In the conclusion of the poem, a familiar figure appears
+before the narrator, a body which the reader can assume is the return of his father from the grave.
+
+56
+Looking at the specific imagery in “Evening on a Vacant Lot,” one will notice a number of
+details repeated in the pages of The Gift, suggesting that Nabokov’s imagining the possibility of
+his father’s “resurrection” in the poem has the same motif structure as the images constituting
+Fyodor’s dream-state in the novel.
+The poem begins with the word “inspiration.” It is a topic which Nabokov treated with
+gravity, investigating it in depth in such novels as Mary and The Gift, short stories “Torpid
+Smoke,” “Benevolence,” and “A Guide to Berlin,” as well as his later essay “The Art of
+Literature and Commonsense.” In the essay, he directly drew a parallel between the space of this
+poem and the author’s contemplations on the nature of inspiration and its relation to instances of
+cosmic synchronization in the world, and subsequently, in fiction4 . The poem begins with an
+image traditionally linked to elegiac poetry; it can also be traced back to Nabokov’s fictional
+explorations of the border between life and death or between remembrance and forgetting. The
+figure of sunset establishes from the outset the possibility of death, loss, and, the otherworldly
+experiences thematically associated with one’s morning the loss of a loved one. But, considering
+that the imagery of a sunset is inseparable of Nabokov’s aesthetic of the otherworld, it also calls
+for an interpretation of the poem’s first stanza not as a lamentation, but as a promise. Nabokov’s
+narrator finds himself “Self-lost, melting in the air and sunset,” seemingly unhinged and
+untethered to reality. His uncertain emotional state further opens up the possibility for
+otherworldly experiences to take place in the narrative space of the poem. Again, as has been the
+case in The Gift’s scene of Fyodor’s “meeting” his father, the sunset brings on a feeling of
+dissolving, in this case, “melting.” The narrator’s becoming one with his environment is the
+
+4
+
+See chapter 1, p.3
+
+57
+scene’s central lyrical action. Eventually a bridge begins to emerge between reality and the
+otherworld. Unsettled, grieving, longing for someone or something, the narrator gives in to a
+deep and brooding emotion, which, swelling up in him, brings him to the brink of tears: “Never
+did I want so much to cry” (Poems, 92). With the quickly encroaching otherworld, he
+experiences great uncertainty, even fear.
+One of the most noticeable features of the poem is its second-person perspective, which
+is highly unusual in elegiac lyrical poetry. “Evening on a Vacant Lot” is clearly addressed to an
+unidentified party, presumably the person to whom it is dedicated, the author’s father. While the
+poem largely forgoes any narrative details that might introduce this other individual, the
+inclusion of several apostrophes that include the second-person pronoun “you” mark the lyrical
+direction of the poem, effectively undermining the first-person narrative flow which Nabokov
+establishes in the poem’s opening stanza. These repeated breaks in perspective come at the end
+of the first, third and fourth stanzas, and at the beginning of the second. For each of these
+invocations of “you,” there is also a noticeable shift in time. Every time an addressee is evoked,
+Nabokov reroutes the poem’s time towards the past, suggesting that the only connection the
+narrator feels between the “I” and the “you” is the one grounded in the passage of time.
+The first apostrophe appears at the end of the first stanza and alludes to an image of a
+butterfly. “My precious being,” the narrator calls it affectionately, as if making a nod towards
+Nabokov’s lifelong love of butterflies. But the invocation seems to extend beyond the passion of
+collecting and studying butterflies. Still addressing the “precious being,” the narrator concludes
+the first stanza with an admission of his fascination with the butterfly’s beauty and transience:
+“nothing do I know — except / that it’s worthwhile being born / for the sake of this your breath.”
+
+58
+The reference to “breathing,” which may be a figurative description of the fluttering of butterfly
+wings, is in the continued present tense. Thus it suggests that the poem’s addressee may still be
+alive, or at least imbued with spiritual life (“dukh” and its derivatives in Russian denote both
+“breath” and “sprit”). Nabokov makes it is possible for the reader to think of “breath” as the
+fluttering of butterfly wings, or the continuous life of a soul, but certainly not of human breath.
+His choice of the polysemous trope makes the other thematic correlations in the poem just as ripe
+with ambiguities and interpretive possibilities.
+The use of “you” in the second stanza seems to point towards the action of creating
+poetry itself. This is a diversion from the animate “you” – a soul, an insect, – whom the narrator
+addresses in the first stanza. The second stanza begins: “It once was easier and simpler: two
+rhymes — and my notebook I’d open / How hazily I got to know you / in my presumptuous
+youth!” Nabokov is referencing here his early days of poetic creation, when he would spend days
+in the park pavilion at Vyra, composing verse. Nabokov notices that his ability to write poetry
+has become more difficult as he has aged, but he does not lament it. Although he is no longer is
+capable of writing “simpler: two rhymes — and my notebook I’d open,” a new, difficult process
+of transcribing reality, is now in place. What he used to write was a momentary glimpse of reality
+which, “when transcribed in a fair copy, / deprived of magic instantly.” Now this very poem is a
+recreation of “magic,” or, embodies the magic itself.
+“Evening on a Vacant Lot” was written years before Speak, Memory. But in its second
+stanza, Nabokov recalls his connection to the park pavilion in Vyra as a place of poetic
+inspiration, specifically articulating the function of the bridge that connected the floating
+pavilion to the rest of the estate. This is an important evocation, for it establishes the primacy of
+
+59
+the bridge as a foundational space not only for Nabokov’s lyrical self-perception, but for his
+poems’ structure and thematic unity as well: “Leaning my elbows on the railing / of verse that
+glided like a bridge.” The bridge is more than a place where poems are born; it is a launching pad
+which propels Nabokov’s narrator into the transcendental space that may or may not be the
+otherworld: “already I imagined that my soul had started moving, started gliding, and would
+keep drifting to the very stars.” This line suggests a sort of cosmic transference that would lift the
+poet’s soul out of his body, so that it could float on towards infinity. This action is emblematic of
+Nabokov’s poetic oeuvre of the 1930s. For example, it recalls the motif of crossing over the
+world’s threshold in “The Poets,” with its similarly cosmic event of mind separating from body
+and continuing on to another realm of existence. The continued action the Nabokov implies in
+the line “keep drifting to the very stars” similarly invokes a sense of infinity and endlessness in
+this ascent to other realms, further emphasizing the author’s interest in an existence untethered to
+the physical world, and his hope that the soul can live on free from the mortal constraints of the
+body.5
+In the third stanza, the narrator evokes an image of a lone house in the dark night. It is lit
+by the light of the full moon and a single kerosene lamp in the house window. The stanza’s main
+contrast is grounded in the relationship between light and darkness. Light is imagined as a force
+deep within, trying to escape a blanket of obscurity. Nabokov uses such adjectives as
+“amazement,” “fabulous” and “deathless” to describe the presence of light, suggesting its infinite
+and wondrous qualities. Once the light escapes from the darkness, as it seems to in the closing
+lines of the stanza, it can no longer be dimmed: “again it shines through, / for its lid was not tight
+
+5
+
+See Paul Morris, 102, 136, 144, and The Garland Companion, 566-571
+
+60
+—and no longer / can one take it away from you” (Poems, 93). This moment is the third time the
+“you” is brought to the front of the lyric, breaking the narrative flow and again suggesting a
+timelessness of “you” which is associated with the infinite promise of “no longer.”
+Finally, the “you” is given a body in the fourth stanza. Approaching, is the figure of a
+man “in the twilight.” The narrator identifies him instantly: “I recognize / your energetic stride.
+You haven’t / changed much since you died”. The use of enjambment here emulates the action of
+the man moving closer to the narrator, making the the reader run through the lines, presumably
+until after the poem ends, when the narrator and the figure meet and embrace in their moment of
+reconnection. Thus the vacant lot which sets the scene for the poem is a magical place, a meeting
+point of loving and longing souls. The closing stanza of the poem highlights the possibility of the
+“resurrection” of dead and forgotten things, objects that the narrator notices in the beginning of
+the poem, such as the “Trash of solitary outskirts, weedy little stalk with teardrops, skull of
+happiness, long, slender, like the skull of a borzoi.” In the poems final lines, these motifs
+reappear, though this time, they seem to be coming alive, resurrected from their stasis and
+decomposition into lifelike objects. The “trash” mutates into “a deformed tin can,” the weedy
+stalk blossoms into “weedy flowers,” and the slender canine skull returns: “Across the vacant lot
+in harkening dust I glimpse a slender hound with snow-white coat.” Through the bookended
+transformation of dead and inanimate objects into living and breathing creatures, the entire
+“vacant lot” takes on special significance. It is a place of resurrection.
+The entire poem is particularly reminiscent of Fyodor’s dream in The Gift, with its
+otherworldly motifs, sense of timelessness, and ultimately the strange yet impossible meeting
+and reconnection of a son with his dead father. While in The Gift, Fyodor uses the narrative space
+
+61
+of his dream to resurrect the dead parent, the narrator in “Evening on a Vacant Lot” uses a
+geographical location to imagine a place where a similar encounter could happen. Effectively,
+Nabokov is experimenting with time and space as an effort to increase the potential of his vision,
+as he did earlier in “Oculus.” If he could see through time, if something could be seen and
+grasped instantly (as he described in that letter to his wife in 1939 “we don’t look at a painting
+from left to right, but we take in everything at once” (LTV, 433)), then his artistic vision could be
+both complete and incontestable. Nabokov visualizes in his poems the same kind of floating,
+disembodied eye. In “Evening On A Vacant Lot,” the fourth stanza begins “Blinking, a fiery eye
+looks, / through the fingerlike black stacks / of a factory,” repeating the imagery of a
+disembodied eye from “Oculus.”
+The black smoke rising form the factory in this image seems to compromise the magical
+purity of omnipotent vision Nabokov only hints at in “Evening on a Vacant Lot” but introduces
+fully in “Oculus.” But if we note that this same image of light passing through a “fingerlike”
+scene is not particular to “Evening…” alone, the connection acquires a special significance. In
+the closing stanza of Nabokov’s 1934 poem “How I Love You,” light similarly pours in, filtered
+through a wooded landscape: “The beams / pass between tree trunks; they band / the tree trunks
+with flame” (Poems, 96). In this instance, the tree trunks, having replaced the smoke stacks,
+create a contrast between light and dark that is always present in Nabokov’s writings on the
+otherworld. In these two examples, the presence of light is central to both poems, and the closing
+image of light streaming through the tree trunks in “How I Love You” creates an interplay of
+shadows, each one split by the ray of light. In this same fashion, Nabokov in “How I Love You”
+continues to shift between images of light and dark. Even further, he imagines himself as a figure
+
+62
+of light, contrasted with the subject of the poem, a nondescript, shadowy figure of unknown
+identity. Shifting between elements of light and dark, silence and noise, Nabokov juxtaposes the
+life that is real, prosaic, and finite, with an idealized existence in which one that is free from the
+alternating light and dark of reality. Instead, Nabokov hypothesizes the possibility of posthumous
+existence in a dark and silent space, which he imagines as life in a state of pure love.
+Continuing with “How I Love You”, we can see that the opening lines of the poem
+reinforce the contrast between light and dark, an effect the narrator attributes to weather and
+landscape: “Kind of green, kind of gray, i.e., / striated all over with rain” (Poems, 95). The rain
+causing streaks across the narrator’s field of vision is reminiscent of other contrasting vertical
+patterns which punctuate the poem. Nabokov juxtaposes this gray and green scene with the
+narrator’s desire to hide under the shield of a dark cloak with his beloved – the “mad one.” He
+states with urgency “Let’s go, let’s go before it’s too late, / quick, under one cloak” (Ibid.) Later,
+in the third stanza, a similar contrast between atmospheric light, and a hidden space of darkness
+allows Nabokov to create a counterpoint between “the blue sky [that] looks all lacquered” and
+the narrator’s hope of finding a safe, dark space to hide: “I wonder, is there nowhere a place
+there, / to lie low—some dark nook” (Ibid.) The repeated contrast between elements of light and
+dark in the poem mirror the contrast between silence and noise, where noise, like light, pervades,
+while the narrator explicitly states his effort to seek a silent existence, a mode of pure perception
+and emotion, similar to Vasiliy Shishkov’s longing in “The Poets.”
+The second stanza of the poem is preoccupied with the tension between silence and noise,
+and how the force of time only decreases the possibility of remaining silent: “Self-control,
+silence. But with each year, / to the murmur of trees and the clamor of birds, / the separation
+
+63
+seems more offenseful / and the offense more absurd. / And I fear ever more that rashly / I may
+blab and interrupt / the course of the quiet, difficult speech / long since penetrating my
+life” (Poems, 95). Thus the narrator remarks that the passage of time has an effect on his ability
+to remain silent, in a baby-like state, purely receiving the world’s sensory riches without
+questioning them. As time passes, it becomes increasingly difficult for the narrator to remain in
+this idealized state, unless he could find a way out and hide from the “light” of reality. In other
+words, exiting reality, as the narrator concludes in the poem, is only possible once both silence
+and darkness have been successfully attained.
+The topic of perspective in “How I Love You” is of central importance. Its title suggests
+the existence of a narrator (“I”) and an object of his love (“You”), but as the poem progresses, it
+becomes less clear whether there are two distinct bodies, or just one person whose personality is
+fractured. Nabokov highlights the danger of both narrator and subject caught together in the first
+stanza: “Let’s go, let’s go before it’s too late, / quick, under one cloak, come home, / while you
+still are unrecognized, / my mad one, my mad one!” One would assume the “mad one” to be a
+woman, or perhaps a muse, but as Paul Morris identifies in his analysis of the poem, “the
+addressee of the poet’s love remains tantalizingly indeterminate. Potentially an individual, the
+nominal and adjectival declensions of Nabokov’s mellifluous Russian suggest neither a woman,
+nor the (in Russian grammatically feminine) muse” (Morris, 128). From the original Russian
+text, one can gather that the subject of Nabokov’s love is not a woman, such as his wife, or
+young lover Tamara, but rather a masculine figure, potentially one aspect of the author himself,
+or a manifestation of an alter ego.
+
+64
+One way to consider this puzzle would be to think of “my mad one” as Nabokov’s
+iteration of himself in the guise of Vasiliy Shishkov. Although Shiskov came into existence in
+1939, five years after “How I Love You,” it is possible to assume that the idea of a “Vasiliy
+Shishkov” came to Nabokov long before he actually executed the poetic ploy. The urgency that
+the narrator elicits in the poem, saying “before it’s too late[…]while you are still unrecognized”
+hearkens back to one of the central episodes in the short story: the effort “Nabokov” made to
+separate his identity from the fictional Shishkov and his fear that the whole episode would be
+voided if their identities were linked together by an interloper. Instead of their being caught
+together, the narrator ponders the possibility of the two remaining together yet invisible.
+Nabokov evokes the image of a butterfly camouflaged against the shadow-covered ground: “I
+wonder, is there nowhere a place there, / to lie low—some dark nook / where the darkness might
+merge / with a wing’s cryptic markings?” (Poems, 95). Similarly to the evocation of a butterfly in
+“Evening On A Vacant Lot,” this metonymy allows him to idealize his favorite creatures and
+imagine a simpler existence free from societal constraints and anxieties. Were he and his lover
+both butterflies, they would have nothing to hide from, their natural camouflage would allow
+them to remain undetected in this world without further manifestation. Because this idealized
+transformation into a butterfly is not physical, but figurative, the narrator returns to the Cartesian
+ideal of allowing his soul to separate from his body through the fabric of “the world’s texture”:
+“How I love you! In this / evening air, now and then, / the spirit finds loopholes, / translucences
+in the world’s finest texture” (Ibid.) And if the world were covered in a perforated veil separating
+it from another reality, there is the possibility of slipping between the partition, Nabokov
+
+65
+suggests, providing us with another instance of his contemplating fictional reality’s “buffer
+spaces.”
+Since the character of Vasiliy Shishkov had not yet been invented when “How I Love
+You” was written, one could also consider the poem to be Nabokov’s tribute to his dead father.
+Just as in The Gift, the appearance of a butterfly holds a special connotation for Nabokov,
+marking his hope that his murdered father continues to live on in another reality. The shared
+passion of lepidopterology between Fyodor Gudonov-Cherdyntsev and his father further
+enhances the possibility of this connection. In the novel, the narrator and his father had
+reconnected in the ephemeral space of a dream; in the poem, the urgency which the narrator
+conveys to his loved one suggests that their time together is fleeting, and they must go, “before
+it’s too late” and the dream is over.
+The poem concludes with an imperative: “Stand motionless under the flowering branch, /
+inhale—what a spreading, what flowing!— / Close your eyes, and diminish, and stealthily / into
+the eternal pass through” (Poems, 96). The effect of these lines is akin to visualizing Nabokov
+standing on the other side of a wall from the person he loves, their separation irreversible, unless
+could slip “into the eternal.” Nabokov begs the other one to “stand motionless” and “diminish.”
+What happens here is an act of fictional superimposing of realities, images, and desires. We may
+again recall Fyodor’s dissolving into his father’s body in his dream, or Vasiliy Shishkov
+dissolving into his verse. And yet, when Nabokov beckons his subject towards him, he insinuates
+that so far, he cannot make this transition himself: it must come from the other direction.  
+
+66
+Conclusion
+
+The presence of the otherworld is constantly at the forefront of Nabokov’s aesthetic.
+Once the master weaves magical and unexpected events into the fabric of his prose, he turns the
+otherwise banal scenes of daily life on their head. As evidenced by scenes such as Fyodor
+Godunov-Cherdyntsev’s dream sequence in The Gift, the line between reality and the otherworld
+in his works is often in flux, or nonexistent. This ambiguity is amplified by Nabokov’s
+determination to both conceal and insert himself in his fiction through straddling the border
+between the two worlds, and thus always remain only partially visible to the reader.
+Another central aspect of Nabokov’s literary identity lies in his ability to inhabit “bodies”
+other than his own through his writing. The eponymous character in Pnin, Fyodor in The Gift,
+and invented aliases such as Vivian Darkbloom, Vivian Bloodmark, and Vasiliy Shishkov are all
+examples of Nabokov inventing fictionalized versions of himself. Detached from history, they
+are removed from the public eye to a realm where he can effectively rewrite his own history.
+Experimenting with Shishkov in particular, Nabokov expands his poetic capabilities. He uses an
+old form – a literary hoax – to address such topics as his detachment from Russia and his
+attempts to change the bleak outlook of Russian poetry in exile. The guises of Shishkov and
+Godunov-Cherdyntsev, as I attempted to prove, serve as buffer spaces for the author to
+experience an eternal, timeless existence within the secure and not entirely unfamiliar
+environments of his fictional words.
+Through these forays, I have come to perceive Nabokov’s aesthetic as a field of creative
+power magnetized towards the themes of silence, timelessness, a far-reaching perception, and
+
+67
+ultimately, a dissolution of body into soul. In his prose and poems that touch on these topics,
+Nabokov defines guidelines and establishes a precedent for an individual who wishes to exist
+eternally. The rules he outlines for his readers are far from simple to follow: be attentive; be
+brave; cultivate your memory; believe in art as magic and magic as art; let your imagination soar.
+The constant presence of the otherworld in Nabokov’s fiction, combined with specific
+passages indicating how one might arrive there, suggest that the otherworld is not so much a
+specific place, but a state of mind. As if in advocating for an existence characterized by silence
+and and expanded field of vision, Nabokov imagines a serenity achievable in this world through
+acts similar to meditation. Although he never speaks of his “mystery” directly, a perceptive
+reader may intuitively understand that only when the constraints and worries of this world are
+removed, one can slip through reality’s thin veil towards an idealized existence of pure
+perception, untethered to the passage of time.
+In Vladimir Nabokov and the Poetics of Liberalism, Dana Dragunoiu contends that the
+recurring appearance of Vladimir Dmitrievich Nabokov in Nabokov’s works, primarily in his
+poetry, is in part an effort for the writer to channel his father’s political idealism and philosophy.
+Nabokov’s “identification with his father’s liberalism” Dragunoiu writes, “was not simply a
+general attitude of mind, but a coherent and historically specific view about the legitimate
+boundaries of human knowledge, the proper functions of government, and the unconditional
+value of the right to self-determination” (Dragunoiu, 30-31). Certainly, Nabokov’s liberalism was
+his father’s political legacy, and Nabokov’s desire to engage with his father manifested itself in
+his fiction. But there are also Nabokov’s aspirations of “liberation,” founded upon the possibility
+of an otherworldly experience. Following his father, but also taking his life work in another
+
+68
+direction, Nabokov advocates and explores a break from the confines of society and the physical
+limitations of the body. This leads him to the creation of transcendental spaces in poetry and
+prose and, consequently, to reestablishing a connection with someone who he deeply, timelessly
+loved.
+Vladimir Nabokov died in 1977 in Montreux, Switzerland, leaving his literary legacy –
+an unmatched poetic vision, an intimation of aesthetic bliss unattainable on this world, and
+dazzling verbal artistry – to remain forever perplexing and comprehensible only to those who
+work hard to achieve familiarity with his works. It is by means of his stories and poems that
+Nabokov captures an avid audience of readers and scholars from around the globe and thus lives
+on, slipping through the divide between this world and another. One can imagine him as a
+shooting star, straddling the boundary between heaven and Earth, alluring, enigmatic, and alive:
+“Across the dark sky of exile, Sirin passed, to use a simile of a more conservative nature, like a
+meteor, and disappeared, leaving nothing much else behind him than a vague sense of
+uneasiness” (Speak, Memory, 288). 
+
+69
+Works Cited
+Alexandrov, Vladimir, ed. The Garland Companion to Vladimir Nabokov. New York: Garland,
+1995. Print.
+Alexandrov, Vladimir E. Nabokov's Otherworld. Princeton: Princeton UP, 1991. Print.
+Barthes, Roland. “Introduction to the Structural Analysis of Narratives.” Narratology. Ed. Susan
+Onega and José Ángel García Landa. New York: Longman, 1996. 45-60. Print.
+Boyd, Brian. Vladimir Nabokov: The Russian Years. Princeton: Princeton UP, 1990. Print.
+Descartes, René. The Philosophical Works of Descartes. Trans. Elizabeth S. Haldane.
+Cambridge: Cambridge UP, 1911. Print.
+Dragunoiu, Dana. Vladimir Nabokov and the Poetics of Liberalism. Evanston: Northwestern UP,
+2011. Print.
+Morris, Paul D. Vladimir Nabokov: Poetry and the Lyric Voice. Toronto: U of Toronto P, 2010.
+Print.
+Nabokov, Vladimir. The Gift. New York: Vintage International, 1991. Print.
+- - -. Lectures on Literature. New York: Harcourt Brace Jovanovich, 1980. Print.
+- - -. Nikolai Gogol. New York: New Directions, 1961. Print.
+- - -. Selected Poems. Ed. Thomas Karshan. New York: Knopf, 2012. Print.
+- - -. Speak, Memory: An Autobiography Revisited. New York: Vintage International, 1989. Print.
+- - -. The Stories of Vladimir Nabokov. New York: Vintage International, 1997. Print.
+- - -. Strong Opinions. New York: Vintage International, 1990. Print.
+Nabokov, Vladimir, and Vera Nabokov. Letters to Véra. Ed. Brian Boyd and Olga Voronina. New
+York: Alfred A. Knopf, 2015. Print.
+Nicol, Charles. “‘Ghastly Rich Glass’: A Double Essay on ‘Spring in Fialta.’” Russian Literature
+TriQuarterly 24 (1991): 173-84. Print.
+Shrayer, Maxim D. The World of Nabokov's Stories. Austin: University of Texas Press, 1999.
+Print.
+Smith, Gerald S. “Nabokov and Russian Verse Form.” Russian Literature TriQuarterly 24
+(1991): 285-305. Print.
+
+

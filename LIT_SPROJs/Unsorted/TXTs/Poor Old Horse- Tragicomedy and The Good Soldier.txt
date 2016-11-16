@@ -1,0 +1,2254 @@
+Bard College
+
+Bard Digital Commons
+Senior Projects Spring 2011
+
+Bard Undergraduate Senior Projects
+
+2011
+
+Poor Old Horse: Tragicomedy and The Good
+Soldier
+Matthew Christian
+Bard College
+
+Recommended Citation
+Christian, Matthew, "Poor Old Horse: Tragicomedy and The Good Soldier" (2011). Senior Projects Spring 2011. Paper 18.
+http://digitalcommons.bard.edu/senproj_s2011/18
+
+This Open Access is brought to you for free and open access by the Bard
+Undergraduate Senior Projects at Bard Digital Commons. It has been
+accepted for inclusion in Senior Projects Spring 2011 by an authorized
+administrator of Bard Digital Commons. For more information, please
+contact digitalcommons@bard.edu.
+
+Poor Old Horse: Tragicomedy and The Good Soldier
+
+Senior Project submitted to
+The Division of Literature
+Of Bard College
+by
+Matthew Christian
+
+Annandale-On-Hudson, New York
+May 2011
+
+You say you are a better soldier:
+Let it appear so; make your vaunting true,
+And it shall please me well: for mine own part,
+I shall be glad to learn of abler men.
+Shakespeare, Julius Caesar
+
+Table of Contents
+
+1
+
+Introduction
+
+12
+
+Chapter I: 'Small wonder that one should be tired out':
+Literary Impressionism and The Good Soldier
+
+33
+
+Chapter II: 'Les faiz, gestes, triumphes et prouesses du Bon Chevalier':
+Ashburnham, Dowell, and the Feudal
+
+55
+
+Chapter III: 'Orgueil et aberration':
+Retaking The Good Soldier as Comedy
+
+78
+
+Conclusion
+
+1
+
+Introduction
+
+He had been cheerful at tea, but in Squerries Park a mood of melancholy stole over
+him, and he sang me one melancholy song after another, some French, some German,
+ending with the Westmorland folksong Poor Old Horse. Ford's voice was not bad, his
+ear was good, and the expression he put into the words of the horse's cruel master was
+pathetic in the extreme. … [Then] in the most unhappy voice Ford broke in to say
+something like this: “I am that poor old horse, David. … Once I was a brilliant young
+poet, a famous writer … now I am no more use to anyone and they kick me, now they
+have got me down. … Poor old horse …” I was in tears and, seeing this, Ford wept
+also; then brushed his tears aside for a moment to look at his watch and make sure that
+he was not late for his train.
+(David Garnett, quoted in Arthur Mizener's
+biography The Saddest Story)
+Ford Madox Ford was a writer gifted, by all accounts, with a preternatural sensibility for
+sadness. Indeed, if this sense of melancholy were evenly matched by any other quality, it could
+only have been his urge to share it; and Garnett's recollection shows this in all its force. Here, we
+see Ford pulling out all the stops in expressing his sadness—and we can easily believe that,
+hearing his gradual descent into musical pathos and his tearful identification with the poor,
+abused animal, his listener must have broken into tears along with him.
+And yet that moment Garnett, at least, is immediately jerked back out of this emotional
+resonance. The smallest of actions intervenes: Ford pauses briefly, perhaps even unconsciously,
+to check the time; and if we take the suggestion implicit in Garnett's qualifier “for a moment,” he
+turns back immediately to weeping. We have no record of Ford's experience of the event, but
+Garnett, it seems, was taken aback: it is clear that for him and for Mizener, it revealed—subtly,
+
+2
+and perhaps not even consciously—some curiously important attribute of Ford's. What is clear is
+that Garnett was surprised that Ford, in the midst of his tears, would think to check the time: it
+was, given Ford's emotional fervor, incongruous; and it seems that Garnett, taken aback, was
+suddenly made conscious of his own emotional state. He was in tears along with Ford; and yet
+when he sees Ford pause to check his watch, he finds himself suddenly distanced from the
+sorrow that he had just been experiencing, and reticent or unable authentically to return to it.
+In any case, it does not appear from Garnett's telling that Ford experienced the same
+emotional detachment. On the contrary, might it be that the micro-comedy of his dependence on
+the train schedule in the midst of his despair even contributed to Ford's melancholy? Is there not
+a sense, in the Fordian worldview, in which he was fate's victim in being reduced to such
+baseness—in which he could not even experience the full sadness of his own tragic condition
+without being interrupted by the vulgar, humiliating necessity of observing railroad time?
+If this reading rightly understands the sequences of events at Squerries Park, then, it
+would suggest that Ford's sensitivity to the tragic retained a surprising ability to coexist, not only
+with practical concerns, but with even with a consciousness of the element of comedy in his own
+melancholy. Indeed, it seems the one almost leads into the other: overcome by sadness over his
+writing career, Ford, suddenly reminded that he was still subject to the laws of train departures,
+could not have helped but notice the disjunction between his grand misery and continued daily
+necessity; and this inability fully to submerge himself into that tragedy—always pulled back by
+self-awareness—must only have contributed to his sense of misery.
+
+The Good Soldier has, it seems, more than a little in common with Ford's afternoon in
+
+3
+Squerries Park. Certainly, it possesses a more-than-sufficient dose of tragic elements: adultery
+and betrayal among its major characters; multiple suicides, heart failure, and insanity; and a
+series of tepid, maudlin affairs. Yet it is also marked by the same ever-present awareness of
+comic potential seen in Garnett's remembrance: at each seemingly tragic moment, the novel stops
+for a moment, wiping away its tears as though to check the time. This self-awareness prevents
+the text—perhaps ultimately—from occasioning real sadness: it seems that comedy subtly and
+effectively undermines tragic representation and fundamental impedes the on-looker—Garnett,
+in one case; and the reader in the other—from being moved in sympathy with Ford's emotional
+claims.
+What is the relation between laughter and sadness in The Good Soldier, then? Is the comic
+an impediment to the tragic—or better put, does comic treatment subtly anesthetize tragedy,
+preventing any sadness from being felt in a text that, by its own estimation, should be “the
+Saddest Story?” Or does Ford still reserve—at the very close of this tragicomedy, or perhaps
+even beyond its boundary—the possibility of an authentic sadness?
+
+The Good Soldier is the story of two well-to-do couples and the events that occur among
+them them over the course of a decade. Edward Ashburnham—the title character—is a British
+officer, retired due to heart trouble, and the owner of an English manor. He is generous, honest,
+masculine, and apparently universally attractive to those around him; he is also slightly slowwitted, a reader of sentimental novels, and is perpetually engaged in a long series of affairs. His
+wife, Leonora, is the daughter of an economically struggling Irish Catholic family; she attempts
+
+4
+to keep the Ashburnhams financially sound against the costs of Edward's affairs, and has all but
+given up on regaining his fidelity. Their marriage is a sustained struggle between two ideologies,
+Ashburnham's 'knightly' generosity and disposition to romance, and Leonora's commitment to
+economy, stability, and respectability.
+The Ashburnhams are paired up in a lengthy social bond with John Dowell and his wife
+Florence. Florence, a Vassar graduate, is Ford's portrait of the 'bright young American,'
+perennially giving little historical lessons to the Ashburnhams during their travels through the
+Continent. Sea travel and the consummation of her marriage are both forbidden to her by an
+(invented) heart condition—which she uses as cover for her long-standing affair with Edward,
+the novel's other 'heart-sick' protagonist. There is also a persistent gap, in each character, between
+outward self-representation and (often significantly more base) interior motivation. Thus
+Florence's love of education and care for those around her conceals her two affairs; Leonora's
+dedication to her husband rests upon a more fundamental obsession with keeping their household
+economically solvent; and Edward's self-image as a dashing hero and incorrigible romantic
+belies the fantastic, almost school-boyish shallowness of his conception of love—a conception
+he transfers readily, even ready-made, to each interchangeable lover.
+Importantly, much of this information is not initially known to Dowell, the text's narrator.
+While Leonora is aware of Edward and Florence's affair throughout its duration, for instance,
+Dowell discovers it only later. The plot arc is therefore partly epistemological: the novel
+progresses simultaneously through its primary plot action and through Dowell's retrospective
+realizations of the story.
+Within the fiction framework, then, The Good Soldier is Dowell's written summary of the
+
+5
+two couples' relationship: in effect, Dowell is the text's narrator. He is, further, an extremely
+visible narrator: he pieces together the plot events as the text advances, gradually recognizing the
+various deceptions and false appearances by which he had been taken in. In addition, he is not
+reticent to make emotional demands upon the reader: Dowell opens with the famous claim that
+“This is the saddest story I have ever heard;” and far from dry summary, his narrative
+consistently insists upon the sadness, tragedy, tearfulness of the events that it relates.
+The core of the novel's action is constituted by the characters already mentioned. The
+passing characters are tied to the narrative largely as romantic objects or in brief segues into
+back-history by Dowell—Edward, for instance, has had affairs or attachments with a number of
+women, including a servant-girl in England, a Spanish dancer at a casino, and the wife of a major
+in the British army. Florence, meanwhile, has had her own previous affair with a talentless,
+unappealing American painter named Jimmy. The one remaining major character bears mention:
+the Ashburnham's young ward Nancy, who eventually becomes another object of Edward's
+romantic desire during the novel's lengthy denouement.
+Were a narrative arc to be traced for the novel, it would be essentially binary. On one
+side, there would be the plot action of the novel, of which the core is the struggle between
+Edward and Leonora, the relationship between Edward and Florence, the inadvertent discovery
+of that relationship by Dowell, Florence's suicide, Edward's confession of romantic desire to
+Nancy—as overheard by Leonora—and Edward's final suicide after Nancy is sent back to her
+father in India in the throes of a mental breakdown. On the other, there is Dowell's
+epistemological progression through the novel, the concomitant changes and reversals in his
+estimations of the other characters, and the gradual evolution of his perspectives on society and
+
+6
+love.
+It is, in short, a novel full to bursting with characters and plot events, all in a relatively
+short narrative space. One imagines, on the basis of this summary, a novel that draws the reader
+into its plot—and into identification, hatred, or attachment with regard to its characters. In brief,
+one imagines that The Good Soldier will perform what Walter Benjamin has written of the novel:
+that
+the novel is significant … not because it presents someone else's fate to us, perhaps
+didactically, but because this stranger's fate by virtue of the flame which consumes it
+yields us the warmth which we never draw from our own fate. What draws the reader to
+the novel is the hope of warming his shivering life with a death he reads about (“The
+Storyteller,” 101).
+The events of The Good Soldier, as they lead the characters inexorably toward the ends of their
+lives, must inscribe the action of those lives in a sort of meaningful framework: it is the effect of
+narrative itself to give direction, causality, and 'sense' to a jumbled web of action. Or to put
+Benjamin's claim—perhaps ever so slightly unjustly—in Fordian terms: to narrate a story means
+to invest into it an fundamental, inseparable emotional valuation. Events become a story at the
+moment they gain the ability, retold in their logical ensemble, to bring tears to the eyes of the
+reader.
+And yet here The Good Soldier is precisely opposed to Benjamin's conception: it is a
+novel that refuses to give (narrative, moral, prescriptive) sense to its contents. The narrative
+structure—Dowell's often wandering retrospective account of the story—breaks up the plot arc;
+and it is difficult to identify any outstanding moments of tension, action, or resolution. Above all,
+there is not, at the novel's close, the sense of narrative conclusion or calm one expects from a
+story. It is precisely as Dowell writes:
+
+7
+I call this the Saddest Story, rather than “The Ashburnham Tragedy”, just because it is
+so sad, just because there was no current to draw things along to a swift and inevitable
+end. There is about it none of the elevation that accompanies tragedy; there is about it no
+nemesis, no destiny. Here were two noble people—for I am convinced that both Edward
+and Leonora had noble natures—here then, were two noble natures, drifting down life,
+like fire-ships afloat on a lagoon and causing miseries, heart-aches, agony of the mind
+and death. And they themselves steadily deteriorated? And why? For what purpose? To
+point what lesson? It is all a darkness (109).
+Thus 'fate,' the essential function of the Benjamin novel—and the function which would
+constitute a normative interpretive strategy—is rejected absolutely in The Good Soldier:
+Dowell's 'lack of current' is the precise opposite term to Benjamin's 'fate.' The novel does not
+bring the peacefulness immanent in a narrative conclusion; it refuses to give any final sense,
+beyond a sort of regretful horror, to the lives of its characters. Ultimately, the image provided by
+The Good Soldier is not the stylization of a meaningful life, but an insistence on meaningless
+life, life that is specifically unworthy of artistic representation, for its rereading offers nothing.
+If it is not a stream but, in Dowell's term, a lagoon, The Good Soldier is thus directly
+opposed to Benjamin's conception of the novel: it fiercely resists investing any meaning into its
+plot action. One could say even that it attempts, through its complex, fragmented narrative
+structure and its constant reversals of character descriptions, to render the plot as a mere jumble
+of events rather than a fluent, causal narrative—thus resisting the Benjamian transformation into
+'story.' Or, put, in Fordian terms, that it refuses to inject emotion into the progression of events:
+Ford's intention is that the reader come away from Dowell's narration unmoved. This lack of
+emotion is the sign of a meaningless narrative: if the reader is not drawn into sharing the value
+ascribed to each character, object, and event by the narrator, he will be unable, at the close, to
+feel its corresponding loss. And is not the moment of laughter—the moment in which Garnett,
+seeing Ford pause in the midst of absolute woe to check his watch, suddenly feels played for a
+
+8
+fool for having cried along with him—the moment where the emotion that narrative injects into
+events is most threatened?
+If it insists on calling this emotion into question through laughter, then, The Good Soldier
+gravely risks wiping out the 'meaning' of its plot—that is, it risks absolutely alienating the reader
+from his investment into the story. The only conclusion, then, is that The Good Soldier is not
+available to Benjaminian criticism. Considering plot action in search of some sense or
+illumination there cannot assist this reading, because it was precisely Ford's point that nothing
+was there to be found.
+Rather, what is vital is this absence itself. If Dowell's narration could not, in the end, loan
+any sense to these sense-impoverished lives, what does that mean for modernist narrative itself?
+Did the life-stories of Ford's world—the life-stories of retired Edwardian officers and their wives
+—offer material that could be, in Benjamin's image, consumed in the novel's flame and give
+warmth to its reader?
+What The Good Soldier really treats, then, is not plot but the narrative process itself. It is
+one step separated from a narration of the events of human lives: instead its primary focus is a
+treatment of the effort to give that narration. The Good Soldier is a novel of narrative: what it
+really 'does' as a fictional text is not to tell human stories, but to consider in detail the teller of
+one such story, and to judge the success or failure of his telling.
+
+In the following chapter, in preparation for a reading of The Good Soldier, I describe the
+relationship between the novel and Ford's major contemporary critical text, “On Impressionism.”
+It is my thesis there that beneath its vocabulary of “technique” and “craftsmanship” for the
+
+9
+purpose of entertainment, “On Impressionism” gives important clues to Ford's artistic endeavor
+in The Good Soldier. Particularly, it will suggest Ford's crucial awareness of the risks and
+instabilities of the Impressionist approach that, I will argue, defines Dowell's writing method. In
+“On Impressionism,” Ford is particularly attuned to the comic implications of his method: in
+reading the text carefully, it will seem that Ford even suggests that the most literal Impressionism
+can only result in humor when narrating an otherwise tragic story, and that the comedy that stems
+from this failed attempt at tragedy represents the most threatening implications of laughter for
+literary narrative. This fundamental ligature—or even inseparability—between Impressionist
+narratives of tragedy and the sudden comic element that appears in them, I will argue, defines
+Ford's case-study of Impressionist narrative in The Good Soldier.
+In the second chapter, I will consider Ford's relationship to feudal ideology, focusing on
+the implications of that relationship for the title and 'key' of the text, “The Good Soldier.”
+Through a discussion of the connotations and conventions of the feudal, I will consider to what
+degree Edward embodies the construct of 'The Good Soldier' and to what degree he falls short of
+it. Though it is axiomatic here that Edward does not succeed in representing 'The Good Soldier,'
+a reading of that failure is still vitally necessary. For instance: to what degree does Edward's
+character remain appealing—that is, to what degree does Ford remain invested in his nobility or
+value? And, how is Edward's failure to represent 'The Good Soldier' related to the comic
+potential of the novel? Is the failure to adequately embody the expectations of Ford's 'feudal
+background' a central source of this comedy?
+This question, though focusing most particularly on a reading of Edward and of the
+significance of the title itself, touches on many of the novel's major themes—for instance
+
+10
+nobility, soldiery, romance, charity, sacrifice, suicide—terms that seem often to be connoted by
+or associated with the feudal. Where possible I will identify the traditions and conventions
+implicated in the novel, and show Ford's construction of his narrative's systematic failure to
+satisfy conventional expectations. This failure will be consider particularly in light of its comic
+value: the fundamental question will be to what degree the 'tragic' themes of The Good Soldier
+become ironic through their juxtaposition with conventional expectations. It is my wager here
+that Ford's careful construction of these failures or 'fallings-short' constitutes the organizational
+principle of the novel, an organizational principle that is essentially comic.
+The third chapter will further develop a theoretical account of the effects of comedy in
+Ford's novel. Through a reading of Aristotle and Baudelaire, I hope to resituate Ford's sense of
+the comic not as a instrument meant to entertain, but as a more fundamental 'trembling' of the
+tragic, the serious, and the ethical. Applying Baudelaire's conception of laughter to The Good
+Soldier, I will argue that it is Dowell's own 'valuation' of his peers that is progressively lost in the
+text's comedy, ultimately denying Dowell—and the reader—an experience of loss at the close of
+the text.
+This theoretical argumentation will be used to consider several comic passages in The
+Good Soldier, showing that moments that appear to be mere comic 'entertainment' point upon
+closer consideration directly toward the comic inadequacies or 'shortfalls' identified in the second
+chapter, arguing that Dowell's comic treatment of those characters to whom he is least attached
+spreads pervasively into the subjects most important to him—virtue, soldiery, and Ashburnham
+himself. For this reason, comedy ultimately arrives at a complete undermining of Dowell's claim
+that the novel is “the Saddest Story:” indeed at the close of his narrative, I will argue, there is
+
+11
+literally no sadness at all, an absence that defines The Good Soldier's perspective on modern
+tragedy and tragic representation.
+In a brief conclusion, I will offer a final discussion of the effects of this 'absence of
+sadness' from a text that insists so heavily upon its tragic qualities. Does comedy itself ultimately
+produce a 'tragedy of detachment' at the close of the novel? Even in spite of—or because of—the
+novel's comic treatment of tragic events, there is at its close an enormous sadness in Dowell's
+inability to portray himself as having suffered real loss. This suffering because of the failure of
+tragedy may itself, as Ford had found in the opening passage here, be a cause of sadness. I will
+thus argue that this final, sudden turn towards the 'tragedy of the comedy' may be what
+Baudelaire describes as the “élément insaisissable du beau” present in comedy: even as The
+Good Soldier succeeds in eliminating the experience of the tragic from its narrative, it discovers
+another, perhaps more profound sorrow in that absence itself.
+
+12
+
+Chapter I
+'Small wonder that one should be tired out': Literary Impressionism and The Good Soldier
+L'on en parle jusqu'à la nausée.1
+Jean Paulhan, Les fleurs de Tarbes.
+
+A common point of departure for readers of The Good Soldier is the gap between Ford's
+position as author and Dowell's as narrator. Dowell is, to a large extent, faulty: his narration is
+wandering, emotionally affected, and often self-contradictory. Further, he insists on the tragic
+power of his text—thus opening a discontinuity with the reader's experience. At the moments
+where Dowell most insists upon the overwhelming sadness of the events, the reader feels very
+little; and it is this experience of alienation from the story itself that is the fundamental
+experience of reading The Good Soldier.
+It would seem, then, that Ford's position relative to Dowell would be one of distance and
+unrestrained critique. And indeed, it is Ford's careful use of comedy to undermine Dowell's
+emotional claims that detaches the reader from Dowell's narration. If, as I have claimed, The
+Good Soldier is fundamentally a novel about the failure of narrative to produce an experience of
+tragedy in the reader, it stands to reason that Ford—as author of this text—should firmly
+dissociate himself from the fictional narrator that it is his project to critique.
+Despite this, I will argue that Ford crucially—albeit provisionally—associates himself
+with Dowell. Dowell, in Ford's construction, is the model of the 'Impressionist writer,' a type
+1
+
+'We speak of it to the point of nausea.'
+
+13
+proposed by Ford in the critical manifesto, “On Impressionism,” which he published shortly
+prior to The Good Soldier.2 There, Ford identified himself as an Impressionist; yet a year later in
+The Good Soldier, it seems to be Dowell who writes impressionistically and Ford who critiques
+him. Thus in creating the separation between himself and his fictional narrator—a separation that
+he uses explicitly to critique Dowell's narrative strategy and results—it seems that Ford turns
+against his own vision of Impressionism.
+This chapter will thus examine the relationship between Ford's theorization of
+Impressionist writing and his treatment of Dowell's narration, in order to illuminate how The
+Good Soldier operates as a complex and philosophically-fraught critique of Impressionist
+strategy and the general possibility of modern narration. In this understanding, of course, The
+Good Soldier' critique of Impressionism is the essential point of departure. It will thus be
+necessary first to turn to a close consideration of “On Impressionism,” in order to examine what
+elements of Impressionist narrative were of such (contradictory) importance to Ford as to
+occasion his violent critique of Dowell so briefly after he had espoused the values of
+Impressionist technique.
+In this reading, I will argue that although Ford's stated aim in “On Impressionism” is a
+simple discussion of writing technique, his understanding of Impressionism is in fact deeply
+laden with anxiety over the position and possibility of modernist prose narrative. Ford argues
+that Impressionist writing, through its attention to detail, is able to convey intense emotion—
+particularly tragic emotion—to the reader. Yet this method is deeply problematic: in the
+examples Ford actually gives in the text, Impressionist description seems to get out of control,
+2
+
+According to Martin Stannard's Norton edition of The Good Soldier, “On Impressionism” appeared across two
+issues of Poetry and Drama from June to December 1914 (note to 257). The Good Soldier was first printed
+under its current title in 1915, but its first half had appeared in BLAST in June 1914, titled as The Saddest Story.
+
+14
+swelling to such proportions that it threatens to overwhelm the intended emotional effect in a
+surplus of literary detail. Ford is particularly attuned to the comic implications of this
+supersufficient detail: at the heart of “On Impressionism,” he seems threatened by the risk of an
+'Impressionist excess' that would strike its reader—against its wishes—not with tragedy but with
+comedy.
+I will then argue that Ford explicitly identifies Dowell as an Impressionist writer—
+suggesting that Dowell's writing will also suffer from the problems that Ford has identified with
+Impressionist strategy. Ford thus links Dowell to the profoundly problematic relationship to
+writing—overproduction of tragic detail that results in inadvertent comedy—that he has
+identified in “On Impressionism” And this problematic, I will ultimately argued, is the key to
+understanding the real effect of The Good Soldier
+
+I. Counter-reading “On Impressionism”: Rabbit-Pie and the Risk of Laughter
+The summer that the first excerpts from The Good Soldier appeared in BLAST, Madox
+Ford published an important theoretical text in the journal Poetry and Drama. Titled “On
+Impressionism,” the piece gives a glimpse of the state of Ford's ars poetica in the summer of
+1914. Ford's focus, the term 'Literary Impressionism,' had been little-used in literary contexts
+despite its importance in visual art. Ford himself notes in the text that “A few years ago, if
+anybody had called me an Impressionist I should languidly have denied that I was anything of
+the sort or that I knew anything about the school, if there could be said to be any school” (34).
+Indeed, though the word had been occasionally been applied in lower-case3, nothing had
+3
+
+Giving a brief history of the term, Ian Watt writes that when taken cross-Channel “with the foundation of the
+New English Art Club in 1886 … the term was very quickly extended to ways of writing … thought to possess
+the qualities popularly attributed to the painters.” But “literary use of the term remained even more casual and
+descriptive; although Stephen Crane was widely categorised as an 'impressionist,' and in 1898 a reviewer of
+
+15
+appeared in contemporary writing to claim the capitalized term as a fixed school or technique.
+Though the text's title would seem to propose precisely such a claim, Ford is strikingly
+evasive about giving a clear definition of Impressionism. Indeed, his first sentence explicitly
+suggests that he will avoid any such definition or general treatment. “These are merely some
+notes towards a working guide to Impressionism as a literary method” (33), he writes; and in this
+“merely” he proposes to forgo a strict definition of “Impressionism” entirely, instead discussing
+it from the standpoint of practice or technique. His text will thus move “toward” impressionism
+as a “working guide,” rather than beginning from literary impressionism with a philosophical
+argument or artist’s manifesto.
+It is thus not so much that Ford’s text has difficulty identifying the essence of
+impressionist practice, but that it refuses to do so. Rather, Ford prefers to treat impressionism
+with an ambiguity—and contradiction—appropriate to a technique focused on variability,
+subjectivity, and the individuality proper to every description and every experience.
+To potential Impressionist writers, for instance, Ford suggests that “You must state your
+argument; you must illustrate it, and then you must stick in something that appears to have
+nothing whatever to do with either subject or illustration, so that the reader will exclaim: 'What
+the devil is the fellow driving at?'” (48). It seems that Ford intended to put this advice into
+practice in “On Impressionism,” using the text's own digressions and contradictions, not to
+digress, but precisely to advance its central (if hidden) contentions. Ford's manifesto of
+Impressionism is thus an exemplar of the style it proposes: Ford succeeds in making his reader
+ask precisely “what the devil is the fellow driving at?”
+Conrad's first collection of short stories …. described him as an 'impressionistic realist,' there was little talk of
+impressionism as a literary movement until considerably later” (“Impressionism and Symbolism in Heart of
+Darkness, 314-15).
+
+16
+Ford's own claim about Impressionist style—that it is necessarily evasive, contradictory,
+that it runs often at cross-purposes to its real intent—thus subtly and fundamentally destabilizes
+the terrain from which he can establish, for instance, the philosophical non-importance of
+Impressionism. If an Impressionist text that aims to convey the essence of “a long speech about
+the fish” consists necessarily of observations, for instance, about “the man at the same table with
+you ... talking about morals” and “a meeting with some lady,” what can assure the careful reader
+of this Impressionist text that Ford's hemming and hawing on the mere role of Impressionism as
+“style” and “technique” is not the cover for a different, perhaps more far-reaching understanding
+of Impressionism that is advanced à l'oblique beneath the 'proper' argumentation of the text?
+Thus when Ford writes:
+I am not claiming any great importance for my work; I daresay it is all right. At
+any rate, I am a perfectly self-conscious writer; I know exactly how I get my
+effects, as far as those effects go. Then, if I am in truth an Impressionist, it must
+follow that a conscientious and exact account of how I myself work will be an
+account, from the inside, of how Impressionism is reached, produced, or gets its
+effects. I can do no more (34),
+the solidity of such an assertion has already been destabilized. Ford insists here that literary
+impressionism is merely a writer's tool with no more philosophical implications; but the attentive
+Fordian reader must suspect that something else is in play beneath the surface. In referring to
+Impressionism as a “literary method,” Ford suggests that it is merely a tool to convey
+impressions to the reader, and that it thus holds no more than an instrumental relationship to
+those impressions and to the function of the text. Yet if we take Ford at his word—if we accept
+that this 'conveyance of impressions' succeeds in producing emotion in the reader—does it not
+seem that the whole project of emotive writing hinges on the success or failure of the
+Impressionist method?
+
+17
+Let us begin, then, by considering the ways in which “On Impressionism” is not entirely
+unitary—cracks which will help to open up the complex and ambiguous relationship that the text
+bears to narrative practice. The most important contradiction, the one that runs through the very
+center of “On Impressionism” and which carries enormous implications for The Good Soldier, is
+centered on this question of detail. What Ford identifies as the essence of Impressionism is, on
+the one hand, a precise and exact sparingness in description. This representational reserve was
+evident, for instance, in his discussion of Hogarth's drawing in four lines; and it is the same
+reserve that Ford signals as essential when he discusses Maupassant's representation of Henry
+VIII. “All that de Maupassant finds it necessary to say is: 'C'était un monsieur à favoris rouges
+qui entrait toujours le premier.' And that is all that I know about Henry VIII.--that he was a
+gentleman with red whiskers who always went first through a door” (38). In this version of
+Impressionism, then, it is the element of concision that is necessary above all else: representation
+should be precise, and it should encapsulate as much of the signified as possible in a single term.
+Yet, within a few pages, it seems that a good Impressionist must necessarily be verbose—
+that “in order to produce an illusion you must justify; in order to justify you must introduce a
+certain amount of matter,” matter that “may not appear germane to your story or to your poem”
+(44). It is a necessity that the Impressionist writer write too much, that he contradict himself, that
+he digress, and that above all else “the Impressionist must always exaggerate” (36). Thus stated
+differently: the essential contradiction in “On Impressionism” is between the ideal of absolute
+brevity and the necessity—in the practice of Impressionist writing—to furnish an immense
+quantity of detail.
+What Ford discusses in “On Impressionism,” then, is not only the superliminal question
+
+18
+of the text—how to produce pleasant or appropriate style—but also, far more subtly and
+fundamentally, the danger of active prose style to its own effect. It is as though style depended
+for its function upon an absolute brevity and transparency, yet in seeking to provide detail in ever
+greater quantities in order to produce an emotional effect on the reader, suddenly got in its own
+way or became tangled in its own methodology. The very core of Impressionism—the furnishing
+of minute detail—contradicts with the necessity that Impressionism be brief and transparent; and
+the result is that, precisely for having tried to produce an emotional effect, it trips up, is
+discovered as style, and produces no resonance with the reader.
+Thus at one moment Ford cites “Hogarth's drawing of the watchman with the pike over
+his shoulder and dog at his heels going in at a door, the whole being executed in four lines” as
+“the high-watermark of Impressionism” (36-37), arguing that it is the brevity of the depiction
+that constitutes its representational force; yet a few pages later, he writes that
+If to-day, at lunch at your club, you heard an irascible member making a long speech
+about the fish, what you remember … is that he said that the sole was not a sole, but a
+blank, blank, blank plaice; that the cook ought to be shot, by God he ought to be shot.
+The plaice had been out of the water two years, and it had been caught in a drain: all that
+there was of Dieppe about this Sole Dieppoise was something that you cannot
+remember. You will remember this gentleman's starting eyes, his grunts between words,
+that he was fond of saying 'damnnable, damnable, damnable.' You will also remember
+that the man at the same table with you was talking about morals, and that your boots
+were too tight, whilst you were trying, in your under mind, to arrange a meeting with
+some lady. . . .” (41-42, ellipsis original).
+In this second articulation, directly counter-posed to the case of Hogarth, it seems that quite a bit
+of detail—even an overwhelming quantity, so much that the writer can only trail off with an
+ellipsis—is necessary to convey the exact experience—the Impression—of hearing this club
+member's speech. It is necessary, then, to delve into all the surrounding experiences—even if
+only tenuously or contextually related—in order to convey the full, exact sense of the primary
+
+19
+impression to the reader.
+The example of the Sole Dieppoise that Ford has given us here, further, is only a
+miniature study of the necessity of detail to Impressionist writing. Compared to the subject of a
+novel, the impression that it intends to convey is very brief—a several minute speech, next to
+some months or years in the lives of a whole group of characters. How much more context would
+be necessary to convey the impression of five years of life among a group of friends? How many
+innumerable, minute feelings—“the man at the same table with you was talking about morals,
+and ... your boots were too tight”—would have to be given to add up to the complete account of
+those years?
+What Ford suggests, then, is a contradiction of massive proportions that runs to the very
+heart of Impressionist writing. It is necessary, on one hand, to capture an image as swiftly as
+possible: it is the essence, the very core of the impression that one must convey, not its context or
+extraneous detail. Yet on the other, it is precisely this extraneous information, perceived by the
+individual who is attempting to convey his own experience, that makes up his perception: it is
+impossible for him to separate his own experience of the club member's speech from his own
+edging uncomfortability at that moment due to the wholly unrelated problem of the fit of his
+boots.
+Impressionism finds itself, then, in a quandary: it insists, to convey an emotion, that two
+contradictory approaches must be taken; and it will necessarily find itself unable to succeed. And
+the stakes of Ford's text, it must be insisted, are high: the essential functioning of artistic tragedy,
+for instance, is to produce an experience of emotion in its audience; and if this conveyance of
+emotional impressions is necessarily blocked, Impressionist tragedy is therefore impossible.
+
+20
+
+Within “On Impressionism,” however, Ford proposes a theoretical solution to this
+quandary—a stylistic unification of the contradictory necessities of detail and brevity. Ford
+writes that these terms will be reconciled, almost dialectically, at the moment when the mass
+of detail furnished by Impressionist writing is brought into a gigantic conceptual or
+emotional unity: it is when these details fuse into a single, vital Impression through the
+writer's sudden revelation of their interrelationship that the problems of Impressionism are
+overcome and Impressionist tragedy can function.
+Describing this effect, Ford begins with the seeming unrelatedness of the details given
+during the Impressionist method:
+The first business of Impressionism is to produce an impression, and the only way in
+literature to produce an impression is to awaken interest. And, in a sustained argument,
+you can only keep interest awakened by keeping alive, by whatever means you may
+have at your disposal, the surprise of your reader. You must state your argument; you
+must illustrate it, and then you must stick in something that appears to have nothing
+whatever to do with either subject or illustration, so that the reader will exclaim: ‘What
+the devil is the fellow driving at?’ And then you must go on in the same way—arguing,
+illustrating, and starting and arguing, startling and illustrating—until at the very end
+your contentions will appear like a raveled skein. And then, in the last few lines, you
+will draw towards you the masterstring of that seeming confusion, and the whole pattern
+of the carpet, the whole design of the net-work will be apparent (48).
+By the end of the passage, they have been fused, almost soteriologically, into a massive
+interdependence in which each detail, once considered insignificant, is filled with meaning and
+rendered vital to the totality of the whole: without the inclusion of even the most unrelated
+experience in narrative—the poor fit of one's boots, for instance—the final meaning of that
+narrative cannot be arrived at.
+Thus at the moment that the 'masterstring' is pulled, the contradictions of the
+
+21
+Impressionist method are resolved and the project succeeds—which in the case of The Good
+Soldier should mean producing in the reader an overwhelming experience of tragedy, when the
+myriad, contradictory experiences of Dowell are fused into a single, overcoming impression of
+“the Saddest Story.”
+In “On Impressionism,” Ford gives an demonstration in miniature of function of the
+Impressionist masterstring. It is a story designed to show how Impressionist writing uses detail—
+detail to a degree that overwhelms conventional expectation of causality and plot development—
+to show a tragic history in its full proportions and full emotional effect, by bringing that detail
+into sudden, meaning-filled relation around a single all-important symbol or idea. Here is Ford's
+example:
+Let me again illustrate exactly what I mean. It is not sufficient to say: “Mr Jones was a
+gentleman who had a strong aversion to rabbit-pie.” It is not sufficient, that is to say, if
+Mr Jones's dislike for rabbit-pie is an integral part of your story. And it is quite possible
+that a dislike for one form or other of food might form the integral part of a story. Mr
+Jones might be a hard-worked coal-miner with a well-meaning wife, whom he disliked
+because he was developing a passion for a frivolous girl. And it might be quite possible
+that one evening the well-meaning wife, not knowing her husband's peculiarities, but
+desiring to give him a special and extra treat, should purchase from a stall a couple of
+rabbits and spend many hours in preparing for him a pie of great succulence, which
+should be a solace to him when he returns, tired with his labours and rendered nervous
+by his growing passion for the other lady. The rabbit-pie would then become a symbol
+—a symbol of the whole tragedy of life. It would symbolize for Mr Jones the whole of
+his wife's want of sympathy for him and the whole of his distaste for her; his reception
+of it would symbolize for Mr Jones the whole of his wife's want of sympathy for him
+and the whole of his distaste for her; his reception of it would symbolize for Mrs Jones
+the whole hopelessness of her life, since she had expended upon it inventiveness,
+sedulous care, sentiment, and a good will. From that position, with the rabbit-pie
+always in the centre of the discussion, you might work up to the murder of Mrs Jones,
+to Mr Jones's elopement with the other lady—to any tragedy that you liked. For indeed
+the position contains, as you will perceive, the whole tragedy of life (44-45).
+Ford—as he has told the reader, at least—has set out to show how emotion is produced in
+the reader. His subject in the story of Mr Jones should be an example of tragedy: it is the story of
+
+22
+the breakdown of several human lives over love, desire, and unhappiness; and it results in the
+death of at least one character. In good Impressionist form, the elements of the looming tragedy
+are introduced as seemingly unrelated—even insignificant—details: we are certain, as the story
+advances, that the “many hours” spent by Mr Jones' wife and the “great succulence,” even the
+“solace” of the pie will have some tragic denouement. Yet this tragedy is unclear until the
+moment when the diverse elements are placed in relation, a moment of sudden lucidity when
+every degree of emotional loss—from Mrs Jones' loss of her husband's love to the waste of her
+“many hours” in making the pie—is stacked in a simultaneous, overwhelming bacchanalia of
+emotive misery.
+And yet at the moment of this denouement—the moment when the story's diverse
+elements are put into sudden, tragic relation around Mrs Jones' rabbit-pie—something horrifying
+erupts. The rabbit-pie must represent the Impressionist confluence of several human lives' sum of
+unhappiness, impatience, and sorrow; it is responsible, according to Ford, for the massive
+production of sorrow in the reader. Faced with all this, the pie can only burst under the weight:
+the reader at that moment in the story, faced with the representation of “the whole tragedy of
+human life” in a dramatic, overwrought rabbit-pie, can only laugh.
+By all accounts, the story of Mr Jones should be sad. Indeed, it should be sad in the
+excessive, maudlin sense that Ford captures in repeated claim that the pie—wasting everything
+from Mr Jones' love to two perfectly good rabbits— is the “whole tragedy of life.”
+Yet precisely because of this, laughter bursts out. Above all, this laughter comes from the
+hyperbole into which Ford's literary treatment of Mr Jones has forced the story. What is truly
+laughable is not Mr Jones' situation but its narration. The overwrought expectations established
+
+23
+by Ford's claim that “The rabbit-pie would then become a symbol—a symbol of the whole
+tragedy of life;” the whole tearful back-story of love and disillusion that is invested into the
+symbolic rabbit-pie; and the final, saddening results of the rabbit-pie's dramatic appearance
+conspire to render the authentically tragic elements of the story of Mr Jones profoundly comic at
+the exact moment that they should command the reader's sympathy.
+Ford's example of Impressionist writing, then, does not support the point that he has been
+making—the point that Impressionism is a tool for conveying emotions. Instead it is
+fundamentally disruptive to that idea: here, a story that should be tragic on its own terms has,
+through the Impressionist focus on the comic 'blot' of the rabbit-pie at its center, been brought to
+mere comedy. It ought by all accounts to appear truly tragic to the reader: given the breakdown
+of a marriage, an affair, and a murder all in one passage, Mr Jones seems to be so overwhelmed
+with plot events that he is hardly “shivering,” in Benjamin's terms, for lack of fate. Impressionist
+style—it is Ford's intention—will only heighten this effect by bringing these plot events, at their
+fullest and most detailed, together in a spectacularly sorrowful denouement. Yet the result of this
+Impressionist treatment is that the reader is left trembling not only with shivers but with laughter:
+no shred of 'fate' or 'meaning' can be gleaned from the tragedy of Mr Jones, because its narrative
+has brought all its tragic sense to mere laughability.
+Thus is it not, in the end, Impressionist writing itself that is responsible for this fatal
+back-firing of tragedy in the story of Mr Jones? It seems that something in the functioning of
+Ford's Impressionist masterstring is profoundly broken. The string exists, to be sure: it does its
+work in bringing these diverse experiences into a simultaneous, totalizing relationship. Yet the
+impression it produces in doing so is ultimately anything but tragic.
+
+24
+This, then, is how the 'Impressionist anxiety' over brevity and detail has ultimately played
+out. Ford has attempted to resolve the contradiction—indeed, he has done so successfully—but
+at the moment that Impressionism forces its grand resources of detail into tragic meaning, its
+attempt has become so literary, so overwrought, so un-Impressionistic that only laughter results.
+Has Impressionism ultimately failed? That, it seems, may be the only conclusion to be taken
+from a careful reading of “On Impressionism;” and as will be seen in the argument that The
+Good Soldier represents a profound critique of Dowell's version of an Impressionist text, it was
+Ford's final decision as well.
+What will be discussed next, then, is the relationship between The Good Soldier and
+Ford's highly problematic vision of Impressionism. The Good Soldier, I will claim, deals with the
+problems of Impressionism at its very heart: it is my contention that Dowell's narration of The
+Good Soldier is the quintessential Impressionist text, and that Dowell is the quintessential
+Impressionist.
+
+II. Dowell as Literary Impressionist: “On Impressionism” and The Good Soldier
+What is the relationship, then, between “On Impressionism” and The Good Soldier? The
+wager I will make in this section is that for Ford, Dowell's narration was a model of
+Impressionist writing. There is, I will argue, firm evidence for consideration of Dowell as an
+Impressionist because of explicit borrowings in his writing from passages in “On
+Impressionism.” What this means, then, is that The Good Soldier represents an attempt to fully
+work out the contradictions and profound anxieties that Ford had developed in “On
+Impressionism.” Dowell's narration is a case study of Impressionist writing and its ultimate
+
+25
+success or failure in producing an emotional resonance in its reader; and The Good Soldier thus
+represents “On Impressionism” put into practice for the real stakes of tragedy or comedy.
+Under consideration, then, will be Dowell's strategy of narration and its parallels to Ford's
+theoretical articulation of Impressionism. Dowell is under consideration here as a 'narrator,' but
+in order to fully appreciate his relationship to Ford, he must also be termed a 'writer' or 'author.'
+That is to say, Dowell is not a mere scribbler: Ford is careful to portray his work as thoughtful,
+researched, and above all, considerate of style. It is important to note that Dowell is a craftsman,
+because Ford's ultimate movement in The Good Soldier—a critique of the failure of Dowell's
+“Saddest Story” to produce anything more than laughter in its reader—would be nearly
+meaningless if Dowell were simply a portrait of a poor or careless writer. Instead, Dowell's
+writing is consciously literary: he is aware, I will argue, not only of where he intends to represent
+the story in a high-feudal tone or a tragic one, but also of his own relationship to humor.
+It is vital to this argument, of course, that Dowell is no accidental Impressionist. His
+whole purpose, instead, is to convey a very particular experience—his position in the events that
+occurred between the Ashburnhams and the Dowells—to the reader. Further, he does so through
+a narrative that meets all the major conditions of Impressionist writing: it is—as Dowell is aware
+—digressive and associative rather than linear and historical; personal and emotionally-fraught
+rather than rational and objective; addressed to a sympathetic or emotionally resonant reader
+rather than a general, abstract one; and most importantly, focused on the complex relationship
+between highly diverse, even fragmentary events and experiences as the record of human
+experience that constitutes an 'Impression.'
+In only a handful of passages of The Good Soldier does Dowell offer explicit discussion
+
+26
+of his methodology; and so it is striking that in two of these, Ford explicitly repeats syntactic
+choices—now in Dowell's voice—from his own manifesto of Impressionism. Thus in“On
+Impressionism” we have Ford's statement that the writer “must typify for himself a human soul
+in sympathy with his own” (48), a sentence whose central noun and adjective reappear directly,
+merely inverted, in Dowell's description of his self-imagination “for a fortnight or so at one side
+of the fireplace of a country cottage, with a sympathetic soul opposite me” (15). Ford's claim in
+“On Impressionism” is that the beliefs, aesthetics, emotional resonances—in a word, the
+sentimentality—shared with the reader are what allow the artist to convey his impressions; and
+thus for this same reason, Dowell writes that he will address only a sympathetic audience:
+From time to time we shall get up and go to the door and look out at the great moon and
+say: “Why it is nearly as bright as in Provence!” And then we shall come back to the
+fireside, with just the touch of a sigh because we are not in the Provence where even the
+saddest stories are gay (The Good Soldier, 15).
+Here, Dowell has not only borrowed an idea directly from Ford's model of Impressionist writing,
+but even shared the content of Ford's sentimentality as well.4 Ford thus captured what was
+sentimental in his own writing—a love of Provence—and inflated it to grotesque proportions in
+Dowell's. Writing, if it will not hold its own weight, must be accompanied by “the touch of a
+sigh”—a conceit that is no less Fordian than Dowellian.
+Two pages later in another of Dowell's self-critical passages, another textual moment of
+“On Impressionism” is explicitly reproduced. Ford writes in “On Impressionism” that the
+“human soul in sympathy … [is] a silent listener” (48); but in The Good Soldier he gives that line
+to Dowell, who writes that “you, the listener, sit opposite me. But you are so silent. You don't tell
+me anything” (17). Ford's fascination with a silent and charitable reader—the one he imagines at
+4
+
+As will be discussed in the next chapter, Ford had a lifelong appreciation—as well as some expertise—in
+Provence, chivalry, and Troubadour poetry.
+
+27
+his most maudlin moments—is here transferred to Dowell, and Ford gives particular emphasis to
+the choice by citing his own critical language in Dowell's articulation.
+It has been shown, then, that Ford repeats imagery and syntax from “On Impressionism”
+quite vividly in Dowell's writing; and it seems that there is an excellent reason those repetitions
+appear in one of Dowell's consciously self-critical passages. Ford is not immune in The Good
+Soldier to the temptation of direct editorialization: as will be discussed later, his own artistic taste
+and influences are recognizable in Dowell's fascination with Provence and Troubadorial writing.
+In his notes to the text, Martin Stannard even notes a passage from The Good Soldier that Ford
+would later copy as a dedication of the book—more than likely a good sign that he found himself
+in comfortable agreement with Dowell's voice there (note to 80). In much of the minor area of
+The Good Soldier, then, Ford's relationship with Dowell is less clearly differentiated; but here, in
+Dowell's first discussion of his position as a writer and his own artistic theory, it would seem
+impossible that Ford should be unaware of the significance of formulating his narrator's method
+of writing in explicitly the same terms as his own. And indeed it is not unconscious: what is
+under discussion in The Good Soldier through Dowell's writing style is Impressionism itself; and
+in the success or failure of Dowell's project of writing Ford gives his judgment of the possibility
+of all Impressionist writing.
+In addition to the parallels between “On Impressionism” and Dowell's own imbedded
+literary manifestos, The Good Soldier is structurally an Impressionist text. It advances through
+Dowell's reminiscences, at times taking up with the plot's chronology, moving associatively
+across it at others. Dowell himself is fascinated with the fragmentation and narrative alinearity of
+his own account: he asks, for instance, “Is all this digression or isn’t it digression? Again I don’t
+
+28
+know” (17). Later we have:
+I have been casting back again; but I cannot help it. It is so difficult to keep all these
+people going. I tell you about Leonora and bring her up to date; then about Edward
+who has fallen behind. And then the girl gets hopelessly left behind. I wish I could put
+it down in diary form (142).
+Dowell's reference to a diary is particularly illuminating: what could be more deeply
+Impressionist, in Ford's definition, than a text composed purely of personal memories and
+directly back toward the writer himself?
+Dowell also follows Ford's injunction that the Impressionist writer be ambiguous, everchanging, and even contradictory. Dowell's account is a text filled with contradiction: it is hardly
+an attempt at an objective history, more closely approximating a history of Dowell's own
+changing position and interpretation in the course of writing. He writes early on, for instance,
+that “I want to do Leonora every justice. I love her very dearly for one thing” (The Good Soldier,
+43), but later describes her as cold and sadistic, writing that
+Yes, Leonora wished to bring her riding whip down on Nancy’s young face. She
+imagined the pleasure she would feel when the lash fell across those queer features; the
+pleasure she would feel at drawing the handle at the same moment toward her so as to
+cut deep into the flesh and to leave a lasting weal (135).
+Dowell's narration, then, is precisely the product of an application of Ford's articulation of
+Literary Impressionism to a novel-length work. By massively recounting seemingly looselylinked information, its project is to produce in the reader—when the master-connection of this
+account is suddenly made evident at the moment of denouement—precisely the emotional
+experience that its narrator has undergone.
+What is suddenly threatened in Dowell's manuscript, then, is the effectiveness of that
+denouement. Dowell has given the reader an account of the tragic downfall of two couples and
+
+29
+the characters around them, with tragic results just as serious as those in the story of Mr Jones.
+Yet when this tragedy is made clear—when the meaning of the diverse recollections Dowell has
+given is suddenly pieced together by the reader—is the effect produced truly that of “the Saddest
+Story?” Or is it not that, just as the Impressionist masterstring brought about a perversely comic
+denouement in the story of Mr Jones, the moment at which Dowell's many recollections are
+worked into a plot results only in the comic detachment of the reader instead of the immense
+sadness that Dowell expects to produce?
+
+This chapter set out to identify the stakes of Dowell's literary style in The Good Soldier,
+by considering Dowell's relationship to Ford's complex critical term “Impressionism.” Ford
+himself claims that his criticism is more technical advice for aspiring writers than a highly
+theoretical or literary endeavor. I have argued, however, this attitude on Ford's part masks a
+sophisticated discussion of prose style, the viability of aesthetic and artifice, and the risk of
+inadvertent comedy in modern 'serious' literature. Much of this is packed into Ford's usage of the
+term Impressionist, which Ford invests with such contradiction and ambiguity that the word itself
+stands more as an obstacle to the text than as a point of entry.
+I have attempted precisely to unpack Ford's idea of Impressionism precisely by moving
+through these points of contradiction. Ford equivocates most of all on the question of concision
+versus detail in Impressionist representation. Thus at one moment, he insists on the necessity of
+absolute brevity in Impressionist work, due to what seems a lurking visceral horror of excessive
+description.
+Yet at the same time, Impressionism demands an overwhelming degree of detail.
+
+30
+Impressions and their communicability seem to overrun the reader: in order to describe a man's
+reaction to a piece of fish, it it necessary for Ford to give an account of each of the man's
+rhetorical habits, to digress into his own immense boredom as his thoughts move elsewhere.
+Ford ultimately attempts to reconcile these divergent tendencies in the idea of the
+'masterstring,' a concept that I argue is played out in miniature in his example of Mr Jones and
+the rabbit-pie. There, it seems that Ford's integration of detail and concision into a single 'masterimpression' succeeds: the rabbit-pie of the story serves to bring together all the diverse tragic
+elements into a single practical and symbolic object. Thus this object, the rabbit-pie itself, is
+laden with enormous narrative importance: it is, in Ford's scheme, the crux of the mechanism
+through which the single, overwhelming impression of Mr Jones' story will be conveyed to the
+reader.
+It is precisely here, however, that the subterranean anxieties of “On Impressionism”
+emerge. The rabbit-pie—intentionally imagined as a mundane instantiation of enormously larger
+tragic elements—is comically out of proportion to the role it should play, and thus the reaction it
+suggests to the reader is laughter—crucially, laughter in spite of the reader's awareness of the
+story's tragic elements.
+What “On Impressionism” poses at its most essential, then, is the threat that
+Impressionism—the attempt to convey the human sense of a perception, action, story—could be
+undone by itself: the profound and effective expression of human experience serves, as in the
+case of Mr Jones and his rabbit-pie, only to produce a sadness so maudlin and so
+disproportionate—what should be “the whole tragedy of life” is represented by a rabbit-pie—
+that, in a kind of nausea, it results only in comedy. In the attempt to invest a history with human
+
+31
+meaning, then, there is an uncontrollable overproduction in language that threatens the
+seriousness of the original: it is as though narrative turned upon itself in Impressionism and was
+unable to read its own product without lapsing into the comic.
+What, then, is the relationship between “On Impressionism” and The Good Soldier? As
+delineated in the chapter, Dowell comes to take on many of the characteristics of Ford's model
+Impressionist. He does not give a ordered, 'logical' narrative, but instead retells his own emotions
+as they come to him; he does not address himself to a general audience but to an intimate,
+sympathetic one; he does not attempt to present a narrative free from subjective influence, but
+gives the most personally-inflected, emotion-laden account possible.
+Indeed, Dowell's imagination of his narrative is, after all, as “The Saddest Story;” and his
+role as narrator is this to emphasize this sadness to the breaking point. Yet as we will see,
+Dowell's impression of sadness ultimately hinges on another faulty Impressionist master-string:
+at the moment he will reach the tragic conclusion of the text, it will have fallen prey to precisely
+the problems posed by Ford in “On Impressionism.” Laughter bursts out: the text is so
+overwhelmed by its pretensions to tragedy, to heroism, to romance that it collapses into laughter.
+And yet it is for Ford no cheap comedy. Though Ford's Impressionism appears,
+ultimately, to result in a sudden and even inadvertent comedy, it must be remembered that in its
+intentions, at least, Impressionism was to be a literature of tragic sensibility, of melodrama, of
+hyperbole. And of all of these things, Ford was, to be sure, enamored: “On Impressionism” and
+even The Good Soldier must be seen, despite Ford's refusal to hide their comic disjunctions, as at
+least a real attempt toward the tragic. “On Impressionism” has shown that, given the implications
+of Ford's critical writing, this attempt had already become untenable. And thus as this reading
+
+32
+continues, The Good Soldier will show the results of Dowell's full-fledged application of that
+untenable approach. It is in the novel that Ford leads Impressionism to its natural conclusions;
+and as “On Impressionism” has foreshadowed, they will not perform what Dowell hopes.
+
+33
+
+Chapter II
+'Les faiz, gestes, triumphes et prouesses du Bon Chevalier'5:
+Ashburnham, Dowell, and the Feudal
+
+Une grande révolution démocratique s'opère parmi
+nous ; tous la voient, mais tous ne la jugent point de
+la même manière.6
+Alexis de Tocqueville, De la démocratie en Amérique
+The Good Soldier has been read, it is fair to say, as a modern novel. That is, Ford's major
+points of reference have been considered, for instance, Flaubert, Henry James, Joseph Conrad. I
+do not intend to criticize this approach: to do so would be absurd, given the importance of
+Conrad and his collaboration with Ford to the development of Ford's style. Nevertheless I will
+note that to locate Ford's work by these points of reference necessarily results in a very particular
+path of reading. Thus criticism that has taken this essential assumption has focused heavily on
+novelistic technique, and on complex character development and character 'psychology.'
+Let us consider, for a moment, a novel hypothesis. If one considers The Good Soldier in
+another field of references—an associative network centered on the term 'feudal' and the
+importance of 'good soldiery' to Ford's novelistic project—a radically different text might
+emerge. It would suggest, for instance, Edward's failure to fulfill the conventional expectations
+
+5
+6
+
+'The deeds, the acts, and the triumphs of the Good Knight.'
+'A great democratic revolution is in operation among us; we all see it, but we do not all judge it in the same
+manner.'
+
+34
+of the figure of 'The Good Soldier,' rather than the psychological depth of his character.
+To propose such a radically new associative field for The Good Soldier is, on the face of
+it, bold. Nevertheless, Ford's own historical position was such that his participation in a certain
+movement towards the aesthetic revitalization of the feudal was nearly mandated. Contextually,
+Ford is positioned perfectly: he had an early proximity to the Pre-Raphaelite Brotherhood
+through his grandfather Ford Madox Brown (whose name he later took);7 and his artistic career
+intersects importantly with Ezra Pound's at the time Pound was working on his own feudal
+reinvention, the Provencal translations. Though I will continue on to argue that a renaissance of
+feudal associations or aesthetics is central to the early modernist artistic climate around Ford
+(importantly touching on the Futurist and Vorticist movements), it is enough here to note the
+importance of this influence on Ford and on the depth of the medievalist background that he
+possessed. His father, Francis Hueffer, was a noted scholar of Provencal and of Troubadour
+poetry; Ford's fascination with Provence was sufficiently significant for him to later develop his
+own theory of feudal virtue in A Mirror to France—and to buy a house in the region.
+Thus there is, given a casual survey, more than enough evidence to pursue a reading of
+these 'feudal associations' found echoing in The Good Soldier. Such a reading will, I am
+confident, profoundly inform a reading of the novel: the text's relationship to several key
+associative terms (first and foremost, 'Soldiery' and what it means to be a 'Good Soldier') is
+fundamental to its operation and 'sense.' In particular, the novel's failure to arrive at a satisfactory
+representation or re-presentation of these terms is central to the comic nature of the text, and to
+an understanding of the importance of that comedy.
+7
+
+As its name itself emphasizes, the Pre-Raphaelite Brotherhood was interested in pre-Renaissance artistic
+methods and subjects. While their interest was less in the concept of 'soldiery' so important to Ford's novel, their
+high estimation of medieval art and culture arguably had enormous influence not only on Ford's education and
+work but on the whole fascination with 'modern feudalism' high modernist discourse.
+
+35
+
+I
+As a point of entry, I will give particular weight to a consideration of the intertextual
+relationship between The Good Soldier and a historical text, the 1527 Histoire des faiz, gestes,
+triumphes et prouesses du Bon Chevalier sans paour et sans reprouche. The text is a history of
+the life of Pierre Terrail, Lord of Bayard (1473-1524), perhaps the most famous exemplar of
+feudal chivalry. Believed to have been written by Bayard's archer and secretary, Jacques de
+Mailles, the text consistently refers to Bayard with the formula 'le Bon Chevalier' (e.g. “Chapitre
+I. Comment le seigneur de Bayart, pere du bon Chevalier sans paour et sans reprouche, eut
+vouloir de sçavoir de ses enfans de quel estat ilz vouloient estre” (147))8 De Mailles' depiction of
+Bayard can thus be taken, in a sense, as de Mailles' account of what it is to be a 'Good Soldier' or
+'Bon Chevalier.'
+Historically, De Mailles' formula for 'le Bon Chevalier' has gained considerable weight:
+the story of Bayard, of which de Mailles' text is the closest original source, has been enormously
+important in the post-medieval mythologization of chivalric conduct. Thus de Mailles' account is
+highly representative, if not definitional, to the post-medieval understanding of what it is to be a
+'Good Soldier:' l'Histoire du Bon Chevalier is the exemplar of a historico-literary discourse on
+chivalric conduct that has defined the 'faiz et gestes' of feudal protagonists.
+Ford was absolutely aware—as would anyone of his era—of the history of Bayard.9
+8
+
+9
+
+'Chapter I: How the father of the good Knight without fear or reproach wanted to know from his children of
+which estate they wanted be.'
+It is difficult to appreciate, given his near-disappearance from common discourse in the century since Ford, the
+'pop-culture' standing of Bayard in the late eighteenth and early nineteenth centuries. Bayard was known to the
+reading public through translations into modern French and English, such as those brought out by Hachette in
+1882, by Chapman & Hall in London in 1883, and by James Pott in New York in 1900. Notably, the latter means
+that Bayard editions were available not only to well-read, multilingual, Francophile Ford, but to his slightly less
+knowledgeable—and American—fictional narrator John Dowell. There was even a genre of illustrated accounts
+
+36
+Indeed, it is mentioned explicitly in The Good Soldier: Dowell writes that Leonora, speaking of
+Edward, “made him out like a cross between Lohengrin and the Chevalier Bayard” (68).10 That
+Ford had first-hand access to de Mailles' account is extremely likely—the 1527 edition had been
+reprinted in Paris in 1837, and an edition in modern French had been brought out by Hachette in
+1882. Indeed, the household-celebrity status of Bayard was such that Samuel Shellabarger, the
+author of a highly enthusiastic history of Bayard published in 1928, could without irony open his
+text with the lines: “Among famous men, there is none who occupies a more distinct and
+enviable place than Pierre Terrail, Seigneur de Bayard … He has become a household name for
+half the world” (3).
+It should be noted that de Mailles was not the only contemporary chronicler of Terrail11,
+and the use of the epithet “le Bon Chevalier” to describe Terrail was not limited to his text. Thus
+in any case Ford would appear to have taken his novel's title from the history of Terrail—whether
+directly from de Mailles, from another source, or from the story in common circulation. This
+origin of the title is of enormous significance: its provenance situates Edward, not as 'the good
+Victorian officer,' or as 'the good modern military commander,' but in a specifically chivalric
+tradition—importantly, one that commands a certain code of conduct not limited to military
+action. That is to say: 'The Good Soldier' refers in this context not only to a facility with arms,
+but to a complete way of life.
+
+10
+
+11
+
+of his “deeds and feats” intended for children, such as 1890's The Age of Chivalry: Scenes from the lives of the
+Chevalier Bayard and Sir Philip Sidney (London, Marcus Ward & Co.). All together, this means that Ford
+situated Dowell's own references to Bayard less as sophisticated or erudite allusions than as a fairly shallow,
+even romanticized consciousness of the feudal.
+Ford passes over this reference as lightly as possible—it is clear that excessive discussion would be extremely
+heavy-handed. As it is, Dowell's passing reference to Bayard seems entirely 'in-character,' given the familiarity of
+Bayard as a point of reference, and the faint sense of childishness with which Dowell experiences Europe.
+Bayard's other major contemporary chronicler, Symphorien Champier, published a text titled Les Gestes,
+ensemble la vie du preulx chevalier Bayard in Lyon in 1525. De Mailles' account thus places greater weight on
+the 'Bon Chevalier' formula than Champier's. According to Shellabarger, De Mailles is also believed to have been
+a much closer source to Bayard himself, and has historically been read more often than Champier.
+
+37
+To begin an intertextual reading, then, it will first be necessarily to establish what de
+Mailles defines as a 'Good Soldier.' First, there is the social position of the Good Soldier. De
+Mailles writes that
+en iceulx trois estatz s'est si vertueusement gouverné, qu'il en aura quant à Dieu sa
+grace, et quant au monde verdoyante et immortelle couronne de laurier, pour ce que,
+touchant l'Eglise, ne s'en est jamais trouvé ung plus obeissant ; quant à l'estat de
+noblesse, ung plus deffensible ; et à l'estat de labour, ung plus piteux ne secourable
+(146).12
+For de Mailles, Bayard's success is thus fairly strictly delimited: he will have 'grace from God'
+and 'a crown of laurels from the world.' The criteria for such a success are also rigidly defined: it
+is not for having been 'Good' in generalized terms but for having met his obligations to the 'three
+estates' that he will have these rewards. Bayard has been obedient to the Church, protective to the
+nobility, and charitable to the poor.
+For de Mailles, it would thus be impossible to fulfill the role of soldiery without the
+context of this society and its order; and Bayard's 'faiz et gestes' are essentially formulaic. De
+Mailles continues:
+Car, pour au vray amplifier les perfections d'ung homme, ne l'ay peu faire autrement,
+consideré que sans grace infuse du Sainct-esperit, depuis l'incarnation de nostre sauveur
+et redempteur Jesuchrist, ne s'est trouvé, en cronicque ou hystoire, prince, gentil homme,
+ne autre condition qu'il ait esté, qui plus furieusement entre les cruelz, plus doucement
+entre les humbles, ne plus humainement entre les petis, ait vescu, que le bon chevalier
+dont la presente hystoire est commencée (145-146)'13.
+The most important consideration is thus Bayard's position relative to the contemporary social
+
+12
+
+13
+
+'In these three social estates he was so virtuously self-governed that for it he shall have from God his grace, and
+from the world a verdant and immortal crown of laurels; for to the Church, there has never been found one more
+obedient; to the estate of nobility, a greater defender; and to the estate of laborers, one more pitying nor helpful.'
+'For to truly amplify the perfections of a man, I could not have done it otherwise, considering that without the
+grace infused by the Holy Spirit, since the incarnation of our Saviour and Redeemer Jesus Christ there has not
+been found, in chronicle or history, a prince, nobleman, or other man of any other social state, who so furiously
+among the cruel, softly among the humble, nor more kindly among the small, might have lived, than the Good
+Soldier of whom this history is begun.'
+
+38
+order. De Mailles also focuses consistently on Bayard's willingness to risk himself (the 'freedom
+from fear' mentioned in the title), his charity to the working class, and the refinement of his
+manners, conduct, and speech.
+Finally, De Mailles' account does not neglect conventions of romantic love:
+ll fault sçavoir que quant le bon Chevalier fut donné paige au duc Charles de Savoye,
+ceste dame de Fluxas estoit jeune damoyselle en la maison avecques sa femme; et ainsi,
+comme jeunes gens frequentent voulentiers ensemble, se prisrent en amour l'ung l'autre,
+voire si grande, gardant toute honnesteté, que s'ilz eussent esté en leur simple vouloir,
+ayant peu de regard à ce qui s'en feust peu ensuyvre, se feussent pris par nom de
+mariage (203).14
+His account insists most of all on the dedication of Bayard to the lady of Fluxas and the
+singularity of their romance. There is, in de Mailles' telling, no possible repetition of the
+experience, because it is absolutely singular—an idea that will be in sharp contrast to the
+replicability and indeed replaceability that is the central theme of Ashburnham's affairs.
+The importance of de Mailles' to a reading of The Good Soldier is that Bayard represents
+a successful instantiation—and, in the context of Ford's time, even the exemplary case—of
+chivalric ideals. De Mailles' telling of the history of Bayard works to unify these ideals in in a
+single figure, fusing them through the constant, epithetic repetition of the phrase 'le Bon
+Chevalier.' Thus l'Histoire de Bayard represents a distillation of chivalric tradition: Shellabarger
+writes that “above all, it is unified by a definite conception of its hero expressed at the outset and
+maintained unvaried. It is the romantic and chivalric conception” (4). De Mailles' account of
+Bayard is thus a personification of chivalric virtue: de Mailles' 'Good Soldier' is to an extent a
+historical treatment of Bayard the individual, but primarily and enduringly, it is a poesis of
+14
+
+'You must know that when the good Knight was given as a page to Duke Charles of Savoy, this lady of Fluxas
+was was a young lady in the household of Charles' wife; and thus, as young people together often gladly do, they
+fell in love the one with the other, so much so that in all honesty, if they had been a matter only of their volition
+and with no regard for what could have resulted, they would have taken each other in marriage.'
+
+39
+chivalric life that fuses the conceits of feudal value in a single epithet, 'le Bon Chevalier.'
+My suggestion in this chapter, then, is that de Mailles' text represents a treatment in
+considerable specificity of the attributes I have given under the general term 'feudal.' In this role
+it will serve to illuminate a reading The Good Soldier: when Ford brings de Mailles' text into
+play through the allusion in the title of his novel, the stakes of good soldiery—grace from God
+and a crown of laurels from the world—are put into question as well. What Ford's novel asks, in
+its relationship to de Mailles' account of soldiery, is the possibility of such a history in the
+modern world: is it not outdated, cliché, impossible to be a Good Soldier in 1914?
+It would be wrong, however, to suggest that this consciousness of modernity as a threat to
+the possibility of soldiery is brought into play by Ford, for de Mailles is already conscious of it.
+Indeed, what marks de Mailles' Bayard as an exemplary pendant to The Good Soldier is the air of
+outdatedness that hangs over chivalric conceit, not only in 1914 but already in 1527.
+Shellabarger writes that “to the Loyal Servant, Bayard represented a tradition fast becoming
+obsolete—that of chivalry with its romantic and religious connotations. He thinks of him in the
+heroic terms of knightly prowess and old legend” (10).
+What ultimately succeeds in de Mailles' treatment of Bayard is a literary negotiation of
+this outdatedness that avoids cliché, pathos, or bad taste. Put more strongly, de Mailles' work
+succeeds at operating a certain literary or poetic transcendence of its historical moment. As
+Shellabarger writes: “The result [of de Mailles' work], however, is convincing. No foolish
+rhetoric, no archaic tinsel mars the treatment. De Mailles's romance is not superficially romantic
+… he portrays the past transfused into the present” (11). This is the kernel of de Mailles' text: it
+is a successful literary objectification of the figure of the Good Soldier.
+
+40
+In presenting this other Good Soldier, Edward Ashburnham, Ford insists precisely on the
+failure of Dowell's poetic representation. In giving a chronicle of the life and death of Edward,
+Dowell attempts to do de Mailles' work. Like Bayard for le Loyal Serviteur, Edward represents,
+at least to a certain extent, a chivalric ideal for Dowell. Nevertheless Dowell's choices in literary
+representation fall flat: he is unable to create a text with the same aesthetic effect as de Mailles'.
+In each case, it seems, Ford juxtaposes Ashburnham to Bayard, with Ashburnham falling
+always just slightly short. Where Bayard is a seasoned soldier, Ashburnham has retired young
+with heart trouble, and it seems that the extent of his heroism was being “twice recommended for
+the V.C. whatever that might mean,” in recognition of his having “twice jumped off the deck of a
+troopship to rescue what the girl called “Tommies” who had fallen overboard in the Red Sea and
+such places” (68). Where Bayard is concerned with the physical practice of soldiery,
+Ashburnham is concerned with its appearances. “The sort of thing he thought about [was] …
+where you got the best soap, the best brandy,” Dowell writes, giving a particularly memorable
+description to “the profusion of his cases, all of pigskin and stamped with his initials E. F. A.
+There were guncases, and collar cases, and shirt cases, and letter cases and cases each containing
+four bottles of medicine; and hat cases and helmet cases. It must have needed a whole herd of the
+Gadarene swine to make up his outfit” (24-5).
+As to romance, Bayard is dedicated—chastely—to a single mistress, while Ashburnham
+is dedicated carnally to quite a few. In charity, de Mailles has Bayard giving his last coins to help
+those poorer than himself; meanwhile, though Ashburnham does remit the rent of his struggling
+tenants and earnestly believes in “the feudal theory of a lord doing his best by his dependents”
+(98), his actions are swiftly undone in practice by Leonora, ever concerned with the manor's
+
+41
+financial stability as a result of Edward's excesses, in her quest to wring every dime out of the
+couples' resources.
+But what is really vital here is not the difference between Bayard and Ashburnham—after
+all, one is fictional, and the other only known though mythicizing accounts. Instead, it is the
+differences in literary representation that is key. De Mailles is able to portray Bayard successfully
+as the Good Soldier; Dowell, on the other hand, incessantly lapses in his attempt, pointing out
+instead Edward's shortcomings against chivalric ideals of soldiery and romance.
+The gap between our first and second Histoires du Bon Chevalier, then, is not in their
+subjects so much as their literary operation. In Dowell's telling of the Good Soldier story, there
+insistently appears something of extremely poor taste—a consistent (and intentional) failure on
+Ford's part to fully merge the feudal pretensions of the text with its practice. What de Mailles
+successfully manages in his text is not attempted, but not quite achieved, by Dowell: his
+treatment means to represent Edward in a chivalric light, but slips again and again into a
+representation that suggests more of the comic than of the heroic.
+Of course, this failure is already exemplified in the ironic epithet “The Good Soldier.”
+Even for a reader unaware of de Mailles' text, Ford's title contains a sufficient poetic weight,
+independent of the Bayard story, to constitute an aesthetic standard against which Edward's
+character can be said to fail. Thus the 'fundamental joke' of the text is that Edward is no Good
+Soldier at all: Ford's novel is the account—in this reading—of a merely comic failure at chivalric
+representation.
+What is lost in such a reading, however, is the complexity in Ford's treatment of Dowell's
+representation of Edward. Without a consideration of Dowell's role in the text and the parallels
+
+42
+he shares with writers like de Mailles, Edward would be a mere 'silly' comic figure—his
+juxtaposition against an ideal of soldiery would be Ford's mere ironization of Edwardian-era
+British officership, and not Ford's consideration of the problems of authorship in that context.
+Instead, in treating The Good Soldier as a modern mise-en-question of the possibility of
+good soldiery, what must be emphasized is the determinative importance of literary mediation.
+This criticism is not a consideration of the 'real merits' of Bayard and Edward—instead it is
+simply a consideration of the literary treatment of the two. De Mailles, as we have already
+recognized, takes a vital role in converting the lived experience of Bayard into l'Histoire de
+Bayard, in changing un bon chevalier into le bon Chevalier. In essence it is the work of de
+Mailles qua poet that gives Bayard this value. Ford—showing an attentiveness to the structure of
+de Mailles' work—sets up The Good Soldier in parallel. Dowell is the 'loyal serviteur' of the
+novel: it is his role to set down the history of Edward; and such a role gives him enormous
+importance in determining its tone. In a word: the success or failure of Edward's life considered
+as a text of good soldiery is dependent on Dowell's treatment of it.
+To a great extent, then, this is a consideration of Dowell as a modern author of chivalry. Is
+it possible, in 1914, to put lived experience through a poetic transformation that will render it, in
+Shellabarger's terms, “a household name to half the world?” Or is Dowell's attempt at such a
+poesis closer, in the end, to a tawdry 'poetification'—an attempt to see in Edward the legacy of a
+chivalric past that has been firmly eliminated?
+Thus to consider The Good Soldier as a simple 'comedy of Edward' is to miss the
+seriousness with which it takes the idea of 'The Good Soldier.' The failure of Dowell's
+representation is not solely 'amusing' or 'pleasant:' it depends, as already said, on a certain galling
+
+43
+poor taste at the heart of Dowell's poetics. To read this as merely comic—or as amusingly comic
+—demands a certain deafness to what Ford signs as 'disgusting' or 'grotesque' in Dowell's
+inability to represent Edward as a Good Soldier. Dowell makes an attempt to do so—indeed, he
+almost succeeds—and thus it is all the more repulsive, to use a Fordian term, when ugliness
+irrupts through this depiction of Edward. Dowell's willing aesthetic blindness in hoping to see a
+roman in a life-story utterly devoid of romance thus provokes a certain 'horror of depiction:' to
+the reader of romans it suggests the possibility of a gap, at once both slight and absolute,
+between life and its representation.
+It is this essential seriousness of the text, then, which is dependent on a co-reading with
+de Mailles' history of Bayard. It is necessary to be conscious of how Ford treats and critiques
+romantic depiction in order to understand the real force of The Good Soldier: it is not a novel on
+Edward's life so much as it is novel on the depiction of Edward's life; and that perspective is
+brought in by an awareness of chivalric context.
+What remains to be delved into, then, is the complexity of Dowell's poetic failure vis-àvis de Mailles' text. It has been suggested that Dowell succeeds, at least partly, in representing
+Edward in chivalric terms; and that despite or through—truly in the center of—this partial
+success, an embarrassing or grotesque inadequacy bursts out in Dowell's representation. In
+focusing on a comparison of de Mailles and Dowell, however, one major figure has gone
+ignored: Ford himself.
+What is Ford's relationship to Dowell's failure at poetic representation? If Ford is critiquing
+Dowell's strategy of authorship, what does that mean, given the complex entanglement of
+authorial techniques shown between Ford and his fictional writer?
+
+44
+II
+Though The Good Soldier is, I have claimed, ultimately profoundly critical of Dowell's
+narrative technique, Ford is nevertheless inextricably entangled with Dowell: as discussed in the
+opening chapter, Ford's portrait of Dowell espouses a version of the same ideas of literary
+Impressionism that Ford laid out in his own critical manifesto. This entanglement was not
+accidental—on the contrary it is what gives Ford's critique of Dowell's narrative its force. Ford is
+not merely an ironist of Dowell's failure; instead, his treatment of Dowell's project carries serious
+weight for his own understanding of the possibility of modern tragic narrative.
+Ford's ligature with Dowell, however, is not wholly on the level of literary technique. As
+briefly suggested in the opening to this chapter, Ford had a lengthy and profound attachment to
+French and German history. To his literary work, then, he brought a personal attachment to the
+medieval—demonstrated in his penchant for writing unabashedly historico-positive texts like
+The Fifth Queen (date) and The Cinque Ports (1900), which Ford describes in its dedication as “a
+piece of literature pure and simple, an attempt, by means of suggestion, to interpret to the passing
+years the inner message of the Five Ports” (v-vi). The Good Soldier is contemporary and not
+historical, but if the novel indeed sets itself in strong parallelism to l'Histoire de Bayard, it must
+be understood as a treatment of historical ideals. Were Ford writing in an extension of the spirit
+he suggested in the dedication of The Cinque Ports—that is, if he intended The Good Soldier as a
+simple translation of historical ideals into the modern era—we could expect The Good Soldier to
+consist indeed of straightforward praise for the historical, and of an attempt to successfully
+depict at Edward as embodying the 'modern equivalent' of Bayard.
+This, of course, is not the case. Edward's failure to represent such an equivalent has been
+
+45
+clearly understood by critics of The Good Soldier, so much so that Edward's 'foolishness' has
+become perhaps too axiomatic in readings of the novel. But does the failure of Dowell's attempt
+to render Edward as 'The Good Soldier' mean that Ford was fundamentally unsympathetic to
+such a rendering?
+Such a conclusion does not necessarily follow. It can be considered clear that Dowell's
+representation of Edward as 'The Good Soldier' fails while still considering the complexity and
+nuance of that failure. Dowell continues to hold Edward in considerable esteem even when his
+literary representation as the 'Good Soldier' does not succeed; and given Ford's complex
+attachment to Dowell, the novel's depiction of Edward, though fundamentally negative, cannot
+therefore be considered an abandonment on Ford's part of any possible sympathy for his 'Good
+Soldier' hero, or an abandonment of his love for the feudal.
+Thus far from clear disavowal, Ford's relationship to Edward as 'chivalric hero' and to
+Dowell as 'poet of the chivalric' remains enormously complex. This is, after all, the same Ford
+that would write A Mirror to France (1925), a text in which, according to Arthur Mizener, “Ford
+begins to transform his early Pre-Raphaelite feelings about Provence into the theory that
+'chivalric generosity, frugality, pure thought and the arts are the first requisites of a Civilization'”
+(348; citation quoted in Mizener from A Mirror to France, 14). And it is also the same Ford who
+would, rather suddenly, enlist as a British officer in the First World War.15 Does this evidence
+support the claim that The Good Soldier absolutely disowned modernist idealization of the
+feudal, or that it represented Ford's absolute refusal to believe or ever participate in ideas of
+modern heroic warfare?
+Instead, it seems, Ford remains significantly associated with Dowell, particularly
+15
+
+Image 1: “'The Good Soldier,' ca. 1915” (Mizener, 456).
+
+46
+
+because of their common role as writers of modernist feudal narrative. It is thus historically
+entirely well-founded to suggest that the romantic ideas (authorship, soldiery) that Ford so
+forcibly critiques in The Good Soldier were the same ideas that he himself held—even those with
+
+47
+which he defined his own life—and that The Good Soldier is not merely detached irony, but a
+serious consideration of the practicability of Ford's own literary project.
+Thus to consider The Good Soldier adequately represented with the judgment that
+Dowell's feudal narrative aesthetic fails would be a false start, for it would ignore the allimportant ambiguity in Ford's association with Dowell. The Good Soldier is neither an uncritical
+production of 'feudal ideology' nor an entirely detached auto-criticism of Ford's love for the
+feudal. While the latter thesis—taking a detached, emotionally-distant Ford as its basic
+assumption—could be an approach to the novel, it would necessarily miss the great force of the
+text. Ford's constant emotional implication in the text's valuations and criticisms means that there
+in Dowell's and Edward's ridiculousness is not merely entertainment for the reader but Ford's
+own position in the text.
+To arrive at an appreciation of this position, it is necessary to look more closely at the
+ambiguity of Edward's status as aesthetic object for Dowell. Is it possible, at least partially or
+intermittently, that Edward succeeds in representing feudal aesthetics—even that Dowell's
+representation of him succeeds in doing so? The possibility of this success has, I suspect, been
+insufficiently posed to date: Edward's failings as 'The Good Soldier' have been so apparent to
+critical readers of The Good Soldier that the idea of Edward as an actual Good Soldier has been
+almost written off as a subject of criticism.
+This, I think, has been a mistake. In the rush to uphold Ford's 'real' or 'final' judgment on
+Edward, the significant degree to which he does represent an attractive version of 'le Bon
+Chevalier' has been overlooked. Edward does so sufficiently enough that he is a compelling
+figure or even a desirable one, to many of the women in the novel and to Dowell. He is even
+
+48
+insistently compelling, despite an awareness of his shortcomings, to Ford and the reader: to be
+sensitive to Ford's portrayal of Edward is to understand that, at least to an extent, his character is
+attractive.
+An exemplary passage is Ford's description of Edward playing polo:
+Once when we were at Wiesbaden watching him play in a polo match against the
+Bonner Hussaren I saw the same look come into his eyes, balancing the possibilities,
+looking over the ground. The German Captain, Count Baron Idigon von Lelöffel, was
+right up by their goal posts, coming with the ball in an easy canter in that tricky German
+fashion. The rest of the field were just anywhere. It was only a scratch sort of affair.
+Ashburnham was quite close to the rails not five yards from us and I heard him saying to
+himself: 'Might just be done!' And he did it. Goodness! He swung that pony round with
+all its four legs spread out, like a cat dropping off a roof …
+Well, it was just that look that I noticed in his eyes: 'It might,' I seem even now to hear
+him muttering to himself, 'just be done'” (26-7).
+The passage has an aesthetic quality that is compelling or even stirring: Dowell has in effect
+overlayed the polo match with the characteristics of a tournament; and it is this air of martialism
+that gives Edward's participation in a fairly Victorian, fairly bourgeois sport the faint echo of
+feudal combat. Through this willingness to read the feudal into the contemporary—and the
+heroic into the ordinary—Edward's fairly mundane phrase—the claim that 'it might just be done,'
+speaking of a polo match, is not necessarily possessed of ringing grandeur—becomes in Dowell's
+eyes a battle-cry, repeated for dramatic effect as Dowell has Edward 'swinging his pony round' to
+the chase.
+And yet when Dowell so intentionally sets his description next to the culture of conflict
+and tournament in which l'Histoire de Bayard takes place, is there not something suddenly
+lacking in Edward's version? For Bayard, conflict carries the real risk of mortality—he is, unlike
+Edward, an active soldier, and even tournament 'mock-combat' was potentially lethal. For
+Edward, it is not even a question of combat: the tourney Dowell describes here is of polo, not
+
+49
+jousting; and the steeds involved are not battle-horses but ponies.
+Thus suddenly and drily, Edward's polo match and the grim seriousness with which he
+counters Count von Lelöffel begin to appear laughable. On a sufficiently careless reading, one
+comes away impressed with Edward's pony-mounted heroism; but on a second look, the comic
+under-proportionality of the scene in relation to the Bayard text becomes clear.
+The kicker, then, comes with Dowell's metaphor: when Edward's pony spins around, legs
+spread in all directions, Dowell writes—in the midst of a carefully chosen syntax of heroism—
+that it is “like a cat dropping off a roof.” Feudal poetics grind to a halt: the metaphor itself,
+supposed to represent the act of poetic transformation, buckles into comic ruins when Edward's
+knightly prowess is compared to the poor feline victim of Dowell's literary imagination.
+Thus Ford's use of comic poetic failure as a critical lens for feudal ideology is not in the
+least unsophisticated. The effect of this passage depends on Ford's ability—contingently—to
+really successfully write the poetics of feudal combat into a polo match. What separates this
+criticism for mere parody is Ford's refusal fully to disentangle himself from his relationship with
+the feudal. Edward's polo-playing shows the heart of this ambiguity: at the same time, Ford has
+both a real attraction to the rhetoric of danger and heroism and an appreciation of its comic
+weakness. It would be off-base to suggest that this ambiguity constitutes a short-coming of the
+novel. Instead, Ford gives a complex and incisive criticism of the relationship of feudal ideology
+to the modern—a critique that, in directing itself precisely toward his own emotional complicity
+in the ideology of the feudal, was unmatched among those of his artistic peers similarly
+interested in the modern-feudal relationship.
+Ford's ability to critically evaluate the appeal of feudal ideology to modern artists—and
+
+50
+even, in Dowell's work as a case study, its actual deployment in poetics—is an enormous coup
+for him. Consider a passage in which Dowell enacts this transposition of the feudal onto the
+modern: “We never did take another look at Beaucaire of course—beautiful Beaucaire, with the
+high, triangular white tower, that looked as thin as a needle and as tall as the Flatiron, between
+Fifth and Broadway” (16). Here Dowell-as-author is very much with the times: the aesthetics
+markers of contemporary modern life—in this case, modernist architecture—are identified and
+imbued with the power, vitality, or beauty of the very early modern. Dowell's comparison—or
+metaphoric identification—between the Flatiron and Beaucaire fits perfectly next to Marinetti's
+metaphor, in the Futurist Manifesto, between a war-horse and a speeding car—and both, in the
+logic of The Good Soldier, are comparable with the equivalence Dowell sees between
+Ashburnham's polo match and 'deeds, acts, and triumphs' of Bayard. Each of these metaphors
+proposes to find the feudal within the modern—and the only separation between them is the
+ultimate lucidity, on Ford's part, in seeing the failure of this metaphor and the detachment
+between feudal representation and modern reality.
+What sets Ford's text apart from the use of feudal reference and metaphor in Marinetti
+and his contemporaries, then, is its awareness of the failure of Dowell's transpositional project.
+Ford does not commit the error of literalism: Edward is, from the start, a failed attempt at the
+feudal, and his failure constitutes a critique of the feudal identifications or pretensions of high
+modernism.
+At the close, however, this reading does not propose to weigh the historical and political
+position, context, and ultimately, responsibility of The Good Soldier against its contemporaries.
+Instead, they are cited here to give the comparison is raised primarily to highlight a literary and
+
+51
+perhaps far less definite question. What is lost to Ford's text through its lucidity? Does Ford's
+account of the feudal in The Good Soldier ultimately find something de preulx, as de Mailles'
+treatment does in Bayard?
+The only answer possible, once the comedy of Edward's polo-match has burst out in
+Dowell's description, is that that value is utterly lost. In refusing a blunt—and necessarily
+blinkered—metaphoric equivalence between modernist representation and the feudal, Ford
+sacrificed the possibility of another Good Soldier that he might have written—an authentically
+stirring or noble account of modernist soldiery.
+Thus Eliot's claim in “Tradition and the Individual Talent” on the relationship between
+past and contemporary representation—“You cannot value him alone; you must set him, for
+contrast and comparison, among the dead”—takes a new sense in Ford:. That is, it cuts both
+ways: it is not only that value can only be found in comparison among the dead, but that it can be
+lost there as well. In setting Ashburnham next to Bayard, The Good Soldier moves above all
+toward this Eliotian research of the past; yet through it Ford does not ultimately arrive at 'value'
+but at its destruction.
+
+The central point of departure for this chapter, then, has been to resituate Ford's novel into
+the context of a much older field of reference than has previously been considered. The depth of
+Ford's interest in the medieval, together with his decision consciously to title and structure The
+Good Soldier in reference to Jacques de Mailles' chivalric history L'histoire du Bon Chevalier,
+means that such an effort at 'feudal contextualization' is vital to a clear reading of the novel. Thus
+I have attempted to draw out, through an intertextual comparison with de Mailles' text, the
+
+52
+'feudal subconscious' of Ford's novel.
+In particular, I have set Ford's protagonist Edward Ashburnham (the “Good Soldier” of
+the novel's title) in comparison with the Chevelier Bayard, the subject of Jacques de Mailles'
+history. The ways in which Ashburnham has been modeled after Bayard are considered first; and
+this comparison then allows the degree to which Ashburnham falls short of his predecessor.
+Where Bayard risks his life in battle, for instance, Ashburnham seems to risk very little in society
+polo matches; where Bayard is concerned with real action over appearance, Ashburnham takes
+great care in dressing himself and less for real soldiery; and where de Mailles' depiction of
+Bayard emphasize his romantic dedication to a single—physically unattainable—beloved,
+Ashburnham engages in a long series of middling affairs with his social inferiors.
+Yet the comparison between the two texts is not limited to the relationship between
+Bayard and Ashburnham. The more crucial idea put into consideration is the differences in
+literary treatment in the two narratives. De Mailles, for Ford, is the model of a good narrator; he
+manages successfully to represent Bayard as a Good Soldier. Indeed, insofar as he conveys this
+sense to the reader, one could say that de Mailles is a Good Impressionist along Ford's lines.
+Thus Dowell's task in writing “the Saddest Story” is to be de Mailles: he hopes to represent
+Ashburnham, as de Mailles does for Bayard, as a worthy figure of mimesis.
+This project, however, cannot succeed: the crux of Ford's authorial work is that Dowell's
+heroicizing descriptions sound lofty and ringing on a quick glance, but the more closer they are
+considered, the more they break down into a comic disproportion between Dowell's fauxchivalric prose and the deeply unremarkable reality of Edward. It is not so much that Edward is
+unable to be the Good Soldier—one wonders if he even imagines himself in that role, or if it is
+
+53
+solely Dowell's fantasia that brings up the parallel—but that Dowell tries so hopefully, so
+earnestly, and finally in such bad taste to distort him into equivalence with his namesake.
+To a great extent, then, The Good Soldier is Ford's portrait of modernist authorship
+attempting to transform modern reality into equivalence with an idealized feudal heroism. This
+willful distortion—the same bad taste that makes Edward 'close enough' to a Good Soldier for
+Dowell to attempt to round up—is for Ford at its core the same error that made the Futurists
+consider modern warfare a form of contemporary heroism and the same error that would led
+Pound to imagine Fascism as a modern Feudalism.
+The Good Soldier is the evidence of Ford's willingness to go beyond these
+contemporaries by sacrificing his attraction to feudal metaphor for the sake of critical lucidity.
+Dowell may mistake Edward for Bayard, but Ford does not; and the novel stands as his critique
+of the attempt to do so in modernist representation. “The Good Soldier,” the title that makes the
+ligature between Edward and Bayard, is what Ford critiques: Dowell's use of this epithet is his
+fundamental attempt, as narrator, to poetically bridge the gap between history and the present
+and to transform Edward from reality to chivalric figure; and it is precisely that poetic
+transformation that Ford arrests, pulls apart, and subjects to laughter.
+And yet was Ford was merely a detached analyst of this failure of metaphor? Ford was a
+lover of the feudal and a narrator of the contemporary; and the logical confluence of these two—
+the attempt to create a modern narrative that epitomizes feudal ideals—is precisely what one
+would expect from his writing. Instead, it is what Ford, almost unremarked, shifts onto the
+shoulders of his near-double Dowell.
+Thus it is the meaning of this shift—whether Ford successfully (and harmlessly)
+
+54
+distanced himself from Dowell, or whether he still suffered some loss in that disavowal—that
+must be considered further. At the heart of the question, we will see, is the function of laughter in
+The Good Soldier.
+
+55
+
+Chapter III
+'Orgueil et aberration': Retaking The Good Soldier as Comedy
+
+Ce pauvre diable s'est au moins défiguré, peut-etre s'est-il
+fracturé un membre essentiel. Cependant, le rire est parti,
+irrésistible et subit.16
+(Baudelaire, “De l'essence du rire”).
+Baudelaire writes of laughter that “le rire ... vient de la supériorité” (340)17, and argues
+that this superiority is intimately linked to the inferiority or degradation of the object of comedy.
+Were one to apply Baudelaire's analysis to The Good Soldier, it would suggest that the novel's
+essential comic component—what provides the real fodder for the novel's laughter—is the
+degradation of its protagonists. This degradation, I suspect, was the real technique of Ford's
+comedy: it is the consistent failure of the novel's protagonists to be noble, beautiful, admirable
+that he gives to the reader to laugh at. This laughter is what profoundly separates The Good
+Soldier from a tragic novel; and at its most essential, it suggests the very impossibility of
+Impressionist narrative to convey modern tragedy to the reader.
+In this chapter, I will argue that this particularly destructive laughter was Ford's ars
+poetica. The novel is certainly funny; but I hope to consider that humor systematically, by
+
+16
+
+17
+
+'The poor devil is at the very least disfigured, perhaps has broken a vital limb. Yet laughter bursts out, irresistible
+and sudden.'
+“Laughter, they say, comes from superiority.”
+
+56
+attempting to trace the comedy found at specific plot moments back to a sustained and consistent
+construction of the comic that is integral to the novel's characters, plot, and narrative. This
+'sustained and consistent construction' is, as Baudelaire suggests, the inferiority or degradation of
+the novel's subject: Ford's comic treatment of the sad events and the feudal pretensions of the
+narrative serves to make them the object of laughter. In doing so, Ford detaches the reader's
+experience from what Dowell has intended to produce: the (emotional) impressions he attempts
+to convey are, through Ford's comic treatment, subjected to a critical rather than a sympathetic
+appraisal.
+First, then, I will critically resituate the key term of discussion, comedy, as a 'serious'
+element of the novel. My point of departure is that previous critical readings of The Good
+Soldier have considered its comic elements only as entertainment; I will argue that an accurate
+reading of the novel depends on understanding this comedy as a destructive and critical force,
+one that is fundamentally abrasive to the central emotional conceits of Dowell's narrative (love,
+feudal virtue, sadness). This interpretation of 'serious comedy' will contextualize a reading of
+The Good Soldier with critical interpretations of laughter and comedy by Aristotle and
+Baudelaire, in order to out the quality of erosiveness that I have cited as fundamental to Fordian
+comedy.
+I will then turn to close readings of several sections of the novel, in order to show how
+Ford uses the destructive quality of laughter to undermine what appear to be serious, central
+values or mores of Dowell's narrative. This reading and its theoretical context will illuminate the
+function of comedy in The Good Soldier at its most radical: an absolute undermining of Dowell's
+claims that his narrative is “the Saddest Story,” which puts the novel's function as emotionally
+
+57
+compelling narrative—or as Impressionist narrative—completely in question. Finally, I will
+briefly consider the implications of this comedy for The Good Soldier as a novelistic project.
+What does Ford accomplish with the comic destruction of Dowell's serious novelistic enterprise?
+Does Dowell's narrative still produce some tragic sensibility in its reader, despite the laughter it
+provokes?
+
+It may already be objected that to consider The Good Soldier' comedy as fundamentally
+serious is too great an interpretive liberty. On the face of it, the humor in The Good Soldier
+appears primarily in off-the-cuff, 'entertaining' comic passages. Are these not attached only
+spuriously to the 'real structure' of the novel? In such an interpretive system, the 'serious' events
+of the novel would constitute the real argument of the text and be read independently of the
+humor that pops up at its margins—and the tone of Dowell's narration only encourages such an
+interpretative choice, as Dowell uses comedy precisely to gloss over the gaps or aesthetically
+galling moments in his narrative.
+Here, however, author and narrator must be clearly distinguished. Does Ford really share
+Dowell's proposition—that is, is Ford's use of humor intended merely to entertain, distract, and
+cover up the untidy margins of the work? My wager is that he does not—that Ford ultimately
+associates Dowell with this use of humor as entertainment, while he detaches his authorial
+position from that relationship in order to take a far more critical position.
+Nevertheless, the idea that Ford used comedy merely for entertainment—merely to invite
+his reader comfortably into the text and win his admiration—is not is not without substance.
+Perennially in search of success with the reading public, and perennially in need of income from
+
+58
+book sales, Ford developed a mania for entertainment, manifested in a constant, overwhelming
+use of both melodrama and humor when writing in his own voice.18
+Thus in Ford's own literary voice, both comedy and sadness are subsumed to the general
+necessity of interesting, entertaining, or captivating the reader—a necessity that springs from
+Ford's desire, both emotional and financial, for broad public success. In Joseph Conrad: A
+Personal Remembrance, he writes that
+We agreed on this axiom:
+The first business of Style is to make work interesting: the second business of Style is
+to make work interesting: the third business of Style to make work interesting: the
+fourth business of Style is to make work interesting: the fifth business of Style ….
+Style, then, has no other business (80).
+Ford shows an ironic sensibility in his mock-personification of “Style,” for his argument is
+precisely that Style is invested in 'business,' that Style is used to attract the attention, the interest,
+and—Ford wished—eventually the goodwill of the reader. Humor is one of the many techniques
+that this type of style uses to keep the reader's attention, and it appears often as one of the lowest
+of them, a sort of cringing stand-in when good writing is no longer possible and Ford attempts a
+sort of comic banter with the reader.
+The assumption that comedy serves only to entertain—which Ford advanced in his
+critical work, though not, I will argue, in The Good Soldier itself—has been the fundamental
+assumption of critical readers who discuss The Good Soldier as comedy. It provided the
+interpretative foundation of Mark Schorer's analysis “Comedy and The Good Soldier” (1948),
+the article which introduced the 'comic reading' of The Good Soldier as a critical principle for
+understanding the novel. The effect of Schorer's contribution a half-century later is the self18
+
+To follow a strict differentiation between author and narrator, it is Dowell's—not Ford's—sense of humor that
+appears in the The Good Soldier. “On Impressionism,” however, provides excellent examples of Ford's use of
+humor as a way to cozy up with his reader.
+
+59
+evidence of the novel's comic element, or in Schorer's words, the idea that The Good Soldier is a
+"great work of comic irony" (305); but this self-evidence has come at the price of criticism that
+'takes comedy seriously.' In a word, Schorer's decision to consider The Good Soldier merely
+ironic, and not treat it on the level of criticism, has limited critics—however sophisticated their
+analysis might be—to consider the novel merely as entertainment, never as a more 'serious' thesis
+on modern narrative and its inability to convey human affairs—love, conflict, tragedy—with
+dignity.
+It is worth at least a brief consideration of this critical text. Schorer writes: "As in most
+great works of comic irony, the mechanical structure of The Good Soldier is controlled to a
+degree nothing less than taut, while the structure of meaning is almost blandly open, capable of
+limitless refractions" (305). Schorer has only here introduced the idea that The Good Soldier is a
+work “of comic irony;” and yet already a great deal of ground has been covered—perhaps so
+much that the apparent self-evidence of his terminology has not been explored. In effect, Schorer
+skips straight from classification ("As in most works") to the question of the novel's meaning
+("almost blandly open, capable of limitless refractions"), where he finds the dizzying moral
+confusion that results from Ford's introduction of comedy into—in Benjaminian terms—the fatenovel.
+But is The Good Soldier, as Schorer writes, simply a work of 'comic irony?' Irony, after
+all, depends on a clean detachment between the author and the ironic claim: the humor value is
+precisely that the author is not present where he claims to be. As has been shown, Ford and
+Dowell have a considerably more complex relationship: Dowell is, like Ford, an enthusiast of
+feudal culture; he shares Ford's sensibility for tragedy; and he, like Ford, is an Impressionist
+
+60
+writer. Indeed, the whole sense of The Good Soldier is lost if one considers ironic detachment as
+the only form of comedy: it is precisely Ford's own penchant for the tragic that is at play in
+Dowell. Thus The Good Soldier is not simply comedy for comedy's sake: at stake in Ford's
+portrait of Impressionist writing—in his portrait of Dowell, that is to say—is the question of
+whether Ford's own writing could transform human life into literary tragedy.
+Thus Schorer's error was to consider the term comedy itself excessively self-evident. He
+has identified The Good Soldier as a comedy, yet without a strict definition of comedy; and thus
+while his analysis criticism succeeds in a sort of raw classification by genre, it fails to illuminate
+the real sense or effect of Ford's use of the comic. Could The Good Soldier employ comedy in a
+far more serious way—as a critique of the ability of modern narrative to present any compelling,
+meaningful story—than the lightness of literary irony?
+Thus the lack of specificity in Schorer's text on comedy is a point of departure for a far
+more active reading of the function of comedy in the novel. Let us suppose an alternate thesis:
+that the comedy of The Good Soldier is not in the least expendable but goes to the heart of what
+is 'serious' in the novel. It is in comedy that the failure of Dowell's narration to transform
+Edward, Leonora, and Florence into tragic characters—characters over whose fates we might
+feel sorrow. Precisely at the moment we begin to feel this sorry, their ridiculousness becomes
+apparent; and it is that ridiculousness that is at the heart of the comic.
+In order to reframe this discussion of comedy, then, I would like to replace Schorer's
+fundamental assumption—that comedy, as entertainment, amuses by showing something
+intrinsically positive or 'happy'—with a negative definition of comedy, one that points to its
+dependence on ridiculousness, weakness, or aesthetic lapse as the source of laughter.
+
+61
+Aristotle's brief treatment of comic in the Poetics provides an opening for this
+redefinition. Aristotle insists strongly upon the importance of ugliness or lowness in comedy.
+Indeed for him it is the central or definitive element: “Poetry then became subdivided, according
+to the character proper to each kind of poet: serious people imitated fine actions and the actions
+of good men, whereas more ordinary people imitated the actions of inferior men” (414-15). The
+former—the imitation of the good and the beautiful—became tragedy, and the latter—the
+imitation of the low and the ugly—became comedy.
+What is the importance of this ugliness? At the heart of laughter in Aristotle's definition is
+a certain disgusting or repulsive quality. In focusing precisely on this quality, then, comedy does
+a certain damage to its subject. The Good Soldier, as much as Greek comedy, is fundamentally
+concerned with what is wrong or deformed in its characters. In representing precisely that
+ugliness, comedy bars these characters from what what Aristotle calls mimesis and what
+Benjamin calls the 'warmth of a stranger's fate': a character cannot be at once laughable and the
+object of profound association.
+Nevertheless, Aristotle's main discussion in Poetics is of course of tragedy, and he
+dismisses comedy's imitation of ugliness, though harmful, as fundamentally unimportant. He
+writes:
+As we said above, comedy is an imitation of inferior things and people. They are not
+absolutely bad, however; the point is that the laughable is part of the ugly. It is a sort of
+mistake, an ugliness that does not give pain or cause destruction. For example, the
+comic mask is something ugly and distorted, but causes no pain.
+In essence, comedy poses no threat here. It does erode the value or nobility of its own subject as
+with the “ugly and distorted” mask; but that subject—“the actions of inferior men”—has already
+been lacking in value and nobility. There is thus no loss from the distortion of the comic: the
+
+62
+comic “causes no pain” because it shows the ugliness only of that which is already low, and
+never turns its gaze to what is held in esteem.
+The destructive effect of comedy is thus perceptively noted by Aristotle; but he also holds
+it essentially unimportant because of the strict genre delineation between tragedy and comedy.
+Comedy imitates low actions and represents their ugliness; tragedy imitates “fine actions and the
+actions of good men” and represents their noble qualities. Because of this delineation between
+the two, tragedy is protected from the erosive effects of comedy's tendency to make its characters
+repulsiveness. It is the firm separation of genres, the careful investiture of the comic into the
+ritual and practice of comedy, that protects tragedy from coming face to face with the laughable.
+The comic mask can thus indeed be said to “cause no pain,” because the ugliness it shows is
+always expected, delimited, temporary. It is in a word “not absolutely bad”: comedy for Aristotle
+is never absolute, never intrudes into the general sense of life, but reserved in the sphere of the
+contingent, the temporary, the 'low.'
+Thus Aristotle does not even need to articulate a concern that the comic might intrude
+into the tragic. Happy to avoid doing so: the involuntary intrusion of the comic into the tragic—
+or the escape of the comic from the delimited into the general—would bring a fundamental
+tremblement into his system of poetics. If “the actions of good men” are represented as a model
+for the lives of the audience, the intrusion of laughter does not only destroy the aesthetic effect of
+that representation but its purpose as well.
+This point cannot be overstated. It is not merely that, if made comic, tragedy loses its
+tactical gains and must start over. Too much has already invested too much in the tragic to
+sacrifice it so freely: the actions of tragic heroes, if made laughable, do not merely cease to be a
+
+63
+didactic model, but go farther and become a source of horror.19 This is one of the real effects of
+comedy in The Good Soldier then: the investment that Dowell has made in the importance, the
+value, and the sadness of its characters comes crashing down with the introduction of the comic,
+and the reader is mired in the pathos of tragic characters who are only laughable.
+This strangely permanent horror comes from the sudden erasure of all investment made in
+the tragic. For Aristotle, tragedy consists most importantly of an identification with the actions of
+good men: when those actions suddenly become laughable, it is one's own identification with
+them that must be cut off or abandoned. It is for this reason that Bergson writes that “Il semble
+que le comique ne peut produire son ébranlement qu'à la condition de tomber sur une surface
+d'âme bien calme, bien unie … Le rire n'a pas de plus grand ennemi que l'émotion” (Le rire, 3)20 :
+the comic, when it is read 'safely'—as entertainment—depends for the reader's protection on the
+absolute separation between reader and comic subject. What dies absolutely in the comic is an
+identification with the subject of comedy: it is one's attachment, in Aristotle's language, to 'the
+good' and to 'the noble' that is sacrificed when one laughs at them.
+This reading of Aristotle has already, however, gone as far as it can. Indeed, in forcing
+Aristotle's genre classifications to extend out of their natural domain in order to formulate the
+intrusion of comedy into the tragic, I have already taken his ideas significantly à l'oblique. To go
+farther it is necessary to move to a theorization of the comic that interests itself precisely in this
+involuntary intrusion and the damage it causes, a theorization which focuses precisely on the
+'pain' that Aristotle holds absent from comedy, and one which, in the place of fixed genre19
+
+20
+
+It is for this reason that Edward does not ever become—though we might prefer it—a simple comic buffoon.
+Instead his lowness does not merely amuse: there is a quality of fascination mixed with the horror he produces. If
+there is at the close of The Good Soldier thus a kind of tragedy, it is the tragedy of Edward's comicness—the
+purely literary tragedy that the tragic hero cannot exist.
+'It seems that the comic cannot produce its ébranlement [shaking, cf. tremblement] except on the condition of
+falling upon the surface of a fully calm and unified soul ... Laughter has no greater enemy than emotion.'
+
+64
+delimitation, insists precisely on tremblement—on the intersection between sadness and comedy
+that Ford brings about in The Good Soldier.
+The exemplary text for this tremblement, then, is Baudelaire's De l'essence du rire: it is
+precisely in Baudelaire that one meets with the juncture of the bohemian—the figure of modern
+tragedy—and the restlessness of a comic sensitivity that does not allow for tragic sentiment; and
+on the link between ugliness and comedy, Baudelaire finds himself strikingly close to Aristotle.
+He writes:
+Chose curieuse et vraiment digne d’attention que l’introduction de cet élément
+insaisissable du beau jusque dans les œuvres destinées à représenter à l’homme sa propre
+laideur morale et physique !21
+Baudelaire's articulation of the comic shares an essential idea with Aristotle's: he
+describes comedy as fundamentally concerned with a depiction of ugliness—or to go slightly
+further, with the effort to find and portray the ugliness at the heart of the comic subject and its
+lofty pretensions. This, in brief, is the 'damage' done in comedy: comic representation takes a
+subject with pretensions to seriousness and introduces it: “Adventavit asinus, / Pulcher et
+fortissimus.”22 In doing so, whatever value that might have been held suffers an absolute loss of
+their gravity. Here we begin to understand, perhaps, why Ford's perception of his own
+ridiculousness in Squerries Park only increased his misery: once his tragic performance had
+become comic, it was his ability to experience sorrow over his loss itself that was lost.
+Baudelaire departs firmly from Aristotle, however, when he writes that comedy 'is
+destined to represent to man his own moral and physical ugliness,' rather than 'the moral and
+physical ugliness of others.' The latter is in essence Aristotle's claim when he writes of 'the
+21
+
+22
+
+‘A curious and truly attention-worthy thing, the appearance of this elusive element of the beautiful even in those
+works destined to represent to man his own moral and physical ugliness' (334).
+“The ass arrived, beautiful and most brave.” (Beyond Good and Evil, 15; translation given by Kaufmann.)
+
+65
+actions of low men:' comedy causes laughter, for Aristotle, over an ugliness that is entirely
+exterior to and absolutely separated from the viewing subject. Baudelaire insists instead on the
+firm connection between the reader and the subject of laughter: one's laughter is, for Baudelaire,
+always being turned inward; and the damage it is does is never external or violent, but instead
+personal, infinitesimal, absolute.
+How does this damage subtly return, then, from the object toward which comedy is
+directed back to the one who has laughed at it? Let us consider Baudelaire's very concrete
+example:
+Pour prendre un des exemples les plus vulgaires de la vie, qu'y a-t-il de si réjouissant dans
+le spectacle d'un homme qui tombe sur la glace ou sur le pavé, qui trébuche au bout d'un
+trottoir, pour que la face de son frère en Jésus-Christ se contracte d'une façon désordonnée,
+pour que les muscles de son visage se mettent à jouer subitement comme une horloge à
+midi ou un joujou à ressorts ?23
+In Baudelaire's example, we seem at first to find the most common example, not of comedy, but
+of tragedy: a man falls on the sidewalk, 'at the very least disfigured, perhaps having broken a
+vital limb.' The one who sees the fall—the falling man's equal as his 'brother in Jesus Christ,' and
+who could easily be the one who falls—should by all rights experience sorrow: in the brief story
+he sees elapse, it is the image of himself who is injured. Without being physically injured by the
+other man's fall, then, he should nevertheless feel for him. In Baudelaire's account, then, a 'good
+reader'—one who does not laugh—is defined by his ability to sympathize with tragic events,
+even those on the smallest scale.
+And yet laughter breaks out. The man has, after all, only stumbled; and it seems—from
+Baudelaire's evidently hyperbolic account of broken limbs and disfigurements—that the source
+23
+
+'To take one of life's most lowly examples, what is so amusing in the sight of a man who falls on ice or over a
+cobblestone, who trips at the end of a sidewalk, that the face of his brother in Jesus Christ should contract wildly,
+that the muscles of his face should begin suddenly to play like a clock at noon, like a jack-in-the-box?' (341).
+
+66
+of this laughter is the onlooker's disbelief that something truly injurious has occurred. Or better,
+his unwillingness to believe in that injury: laughter bursts out at the moment that the onlooker,
+unmoved by the fallen man's injury, is utterly detached from the sympathy that he should feel.
+Who, then, is injured by the onlooker's laughter? Not, it seems, the one who has fallen:
+his concerns are with his more immediate and more physical injury, to which laughter has little
+relation. Rather it is for the one who participates only from a distance—who suffers loss only, we
+could say, only insofar as he identifies himself with the man who falls in the drama played out
+before him—that something is lost. At the moment he laughs at the man's error in failing to see a
+raised cobblestone, he loses his ability to experience—to invest himself into—the man's pain.
+Comedy thus necessarily blocks the reader's ability to associate with and to experience
+tragedy: in identifying the 'ugliness' of the comic subject and thus separating him from the reader
+—or forcing the reader to disown him—comedy makes the fundamental associative act of tragic
+reading impossible.
+In the brief excerpt from Mizener's biography of Ford that appeared in the introduction to
+this text, it is the same comedy that interrupts Garnett's ability to experience or sympathize with
+Ford's moment of melancholy. Garnett is struck by the incongruity when Ford pauses to check
+his watch; and at the moment that he notes this comic sense in Ford's actions he is cut off from
+tragic sentiment.
+Thus Baudelaire and Ford find themselves in accord here on one particularly fundamental
+point: real comedy is not, in its most proper sense, a purely literary game. Instead, it is
+necessarily a lived experience: the reader of a ridiculous tragedy is forced to laugh; it is this
+laughter that cuts him off from the text and denies him the possibility of sympathy or investment
+
+67
+with its claims to tragedy. Comedy thus stands between the reader and the experience of tragedy
+—and as the example of Ford's melancholy in the park showed, this experience is not necessarily
+literary. Just Ford attempts to identify the fundamental sadness in his own life, his awareness of
+his own ridiculousness as he checks the time cuts him off from doing so. It is for this reason that
+Baudelaire writes that the comic is “destined to represent to man his own moral and physical
+ugliness:” it stands in the way of experiencing sadness by pointing out what is mundane, what
+sticks out, what resists tragic depiction.
+It is for this reason that Benjamin's theorization of the novel—a theorization that depends
+on the deeply personal relationship between reader and character—is so well-juxtaposed with
+Baudelaire's idea of the comic. What is lost, for Baudelaire, is all that is won from the novel by
+the reader: it is “the hope of warming his shivering life with a death he reads about” (101) that is
+absolutely lost when the novelistic character is made laughable.
+It is this discovery—that comedy profoundly undermines the possibility of experiencing
+tragedy—that Dowell will make in The Good Soldier. Overwhelmed with the melancholy of “the
+Saddest Story,” he finds that finds that comedy is the only way to escape the overwhelming
+sadness of his narrative. This is a barely-stated tenet of Dowell's writing: his dependence on
+comedy to smooth over the incongruities of his narrative and to ward off maudlin sadness at its
+most overwhelming is omnipresent, yet almost never acknowledged.
+But in one of his most illuminating moments—almost buried in the text—Dowell
+explains the meaning of the comic treatment that appears so consistently in his narrative.
+“Forgive my writing of these monstrous things in this frivolous manner,” he writes; “If I did not I
+should break down and cry” (47). What more diabolic admission? What more surprising claim,
+
+68
+from the narrator of “the Saddest Story,” that he wishes to separate himself from sadness and
+retreat into the security of the ironic?
+At the heart of what is shocking here is the realization that the comic tone in Dowell's
+writing—a tone which until now I have considered involuntary, unsdesirable, accidental—might
+properly termed a strategy in Dowell's narrative treatment. I had argued that the incongruities
+and disproportions of Dowell's attempt to transform Edward Ashburnham simply rise to the point
+of uncontainability and burst out into the text. And yet—even if it is not Ashburnham that he
+treats comically—is it not Dowell who has unleashed the forces of self-awareness, of separation,
+of un-tragedy?
+Dowell is not alarmed at the outset, of course, by the anesthetic effects of laughter—using
+laughter to avoid excessive tragic emotion was after all his idea. And this carefree anesthesia
+would work, indeed, in a less careful reading: humorous moments offer themselves to be read
+over quickly, and it is precisely because they are not to be taken seriously that they are amusing.
+Like Baudelaire's onlooker, laughter is an escape from the unpleasantness of sorrow—and it is
+only much later that this laughter will be seen to impede, not only sorrow at that moment, but the
+very core of narrative tragedy.
+Ford, however, refuses to let this failure of humor be glossed over. The longer a
+humorous moment is considered, the less productive of real laughter it becomes, but the more
+profoundly it seems to put the Dowell's fundamental assumptions—on feudal aesthetics, love,
+virtue—into question. Let us consider, then, a few moments where comedy appears—
+intentionally, it seems—in The Good Soldier, in order to show how Dowell critiques or comically
+'deflates' the pretensions or postures of the other characters. The first—the easiest, perhaps—is
+
+69
+his portrayal of Florence:
+I fancy his wife's irony did quite alarm poor Teddy; because one evening he asked me
+seriously in the smoking-room if I thought that having too much in one's head would
+really interfere with one's quickness in polo. It struck him, he said, that brainy Johnnies
+generally were rather muffs when they got on to four legs. I reassured him as best I
+could. I told him that he wasn't likely to take in enough to upset his balance. At that
+time the Captain was quite evidently enjoying being educated by Florence. She used to
+do it about three or four times a week under the approving eyes of Leonora and myself.
+It wasn't, you understand, systematic. It came in bursts. It was Florence clearing up one
+of the dark places of the earth, leaving the world a little lighter than she had found it.
+She would tell him the story of Hamlet; explain the form of a symphony, humming the
+first and second subjects to him, and so on; she would explain to him the difference
+between Armenians and Erastians; or she would give him a short lecture on the early
+history of the United States. And it was done in a way well calculated to arrest a young
+attention. Did you ever read Mrs. Markham? Well, it was like that ...” (33-34).
+Here Ford is pursuing a number of comic threads within the same passage. One is a mockery of
+Edward's character—Dowell, we can assume, is engaging in hyperbole to an extent when he
+writes that Edward was worried over the possible effect of a few historical tidbits on his polo
+game; but the hyperbole is effective comically because its exaggeration points to a certain truth,
+the preoccupation of the 'sporting type' with physical ability to the neglect of intellectual
+pursuits. But Ford simultaneously subtly undermines the intellectual as well: the 'education' that
+Florence is giving Edward “under the approving eyes of Leonora and myself” is of course a
+double-entendre for the physical component of Edward and Florence's affair, and thus the
+supposed intellectualism that would detract from Edward's polo game is really another bodily
+pursuit. “Education” is dealt a particularly harsh blow: on the one hand it is almost visibly put in
+scare-quotes by the sexual metaphor, and on the other by the comparison of Florence's actual
+lessons to the Mrs. Markham books24.
+Through the wordplay at work here, then, Ford gives a more complex critique of
+24
+
+In a footnote, the Norton editor Martin Stannard describes Mrs. Markham the “writer of superficial history books
+for children” (34).
+
+70
+Florence's worldview. The central point of Florence's character is her dedication to improvement,
+given here as her drive toward “clearing up one of the dark places of the earth, leaving the world
+a little lighter than she had found it.” Yet this “clearing up” is entirely disingenuous: her real
+interest is creating a “dark place of the earth,” because it is precisely her affair with Edward that
+she wishes to keep hidden. What is really 'sickening,' to use a Fordian term, is that Ford
+establishes that Florence is not merely using 'education and improvement' as a pretext. If her act
+were merely instrumental, a sort of 'decoy morality' covering up her real motives, her character
+could even be called noble—in another context—for its dedication to romantic love. But
+instrumental it is not: 'education and improvement' sets the entire tone of Florence's relationship
+to Edward, because their sexual relationship, Ford has established, occurs precisely under the
+sign of 'education.'
+Comedy here thus quickly advances from its entry-point, word-play, to show Dowell's
+absolute detachment from sympathy with his wife. Along the way, as the depth of the comic
+increases, its practical humor value is overtaken by its more significant destructive force. The
+entry-point of this passage—Ford's innuendo on education—is earnestly amusing; and yet the
+closer the passage is read, the less it inspires outward laughter and the more thoroughly it
+undermines Florence's moral system and self-representation. At the close it is only bitterly—that
+is to say, not in the least amusingly—funny: Florence's value to Dowell, we might choose to put
+it, has been absolutely lost.
+In a second passage, we begin to move closer—that is to say, Dowell's comic disavowals
+and disattachments move closer—to the heart of Dowell's own convictions. Here it is Edward's
+self-articulation that comes in for critique. In the passage, Edward has met a Spanish dancer, La
+
+71
+Dolciquita, at a casino, slept with her, and in short order “discovered that he was madly, was
+passionately, was overwhelming in love with her” (106). La Dolciquita, more reasonable, asks
+for a “perfectly reasonable” hundred thousand dollars to continue the arrangement, and Edward,
+wrapped up in his fantasies of love, is inconsolable:
+Edward went mad; his world stood on its head; the palms in front of the blue sea
+danced grotesque dances. … She had once been his mistress, he reflected, and, by all
+the moral laws she ought to have gone on being his mistress or at the very least his
+sympathetic confidante. But her rooms were closed to him; she did not appear in the
+hotel. Nothing: blank silence. To break that down he had to have twenty thousand
+pounds. …
+He spent a week of madness; he hungered; his eyes sank in; he shuddered at
+Leonora's touch. I daresay that nine tenths of what he took to be his passion for La
+Dolciquita was really discomfort at the thought that he had been unfaithful to Leonora.
+He felt uncommonly bad, that is to say—oh, unbearably bad, and he took it all to be
+love. Poor devil, he was incredibly naif (107).
+Edward—naive and even childish as he is—imagines himself deeply, 'truly' in love with La
+Dolciquita. And were Dowell a less sensitive (a more 'faithful') chronicler, he might accept that
+self-assessment, depicting Edward's affair with the dancer as a compelling instance of sudden,
+selfless, romantic love.
+But instead, Dowell is all too aware of Edward's personal history, and his narrative
+Edward's attraction to La Dolciquita, contextualized with the legions of his other affairs, is
+trivialized. Edward is, we imagine, unconscious of the comic contradiction in a would-be courtly
+lover who imagines himself to be in love with his social inferiors—and is not not even content to
+romanticize one Dulcinea, but instead projects his romantic fantasies onto each one he meets.
+Dowell, however, is entirely aware of these contradictions: indeed, it is his telling that
+emphasizes the comic deflation of Edward's romantic pretensions through hyperbole.
+Thus what Edward perceives as real misery is, for Dowell, silly and weightless: his
+
+72
+conclusion that Edward “felt uncommonly bad, that is to say—oh, unbearably bad” bears the
+clear signs, in its tepid equivalence between the casual ('uncommonly') and the romantic
+('unbearably')articulations of Edward's sadness, of simple comic detachment. Edward's tragedy is
+cliché for Dowell, and thus he does not feel whatever real pain is involved for Edward. Once
+again, then, 'the Saddest Story' is, for its narrator, absolutely devoid of tragic experience.
+But both of these examples, it is clear, have been fundamentally minor instances of the
+destructive effect of laughter upon seriousness or sadness in The Good Soldier. In the first case—
+the most lightly treated—it is Florence's self-representation that is problematized by the humor in
+Dowell's description; in the second, it is Edward's idea of romance and self-idealization as a
+romantic suitor that Dowell's comic awareness renders untenable. In both cases, Dowell's ability
+to see the comic disjunctions or disproportions makes them laughable; but little loss comes to
+Dowell from it, because it is not his own belief-system—or his own experience of sorrow—that
+is put into question. In brief, what does it matter to Dowell if Edward's sorrow or Florence's
+sorrow is laughable, so long as the emotional reality proper to him is not made laughable?
+Nevertheless, we see Dowell's comfortable separation from this comedy be increasing
+shaken the closer it approaches to his own position. Indeed, his ability to take this comedy truly
+lightly depends on his distance from the character in question. Florence—for whom Dowell has
+the most intense dislike—is an easy subject for comedy: Dowell's distance from her is such that,
+in the Baudelairean scheme, he hardly feels the damage done in making her laughable, and the
+comic depiction is simply tossed off in his writing. In Ashburnham's case, considerably more
+time is spent in the representation; and it seems as though, even despite himself, Dowell feels a
+certain pain at the realization that Ashburnham's affairs are no high romance, but mere burlesque.
+
+73
+What happens, then, when Dowell's own experience of loss—when the ruination of his
+social circle, the essentially instantaneous disappearance of the whole context of his adult life—
+becomes subject to appreciation as comic? That is to say: if Dowell so swiftly perceives the
+failures, cliches, or misrepresentations in Florence's and Edward's self-pity, will he be able to
+experience his own? It is here—at the moment Dowell makes his own investment in the text
+subject to the comic—that laughter returns, as Baudelaire has predicted, upon its originator.
+Dowell's dedication to the idea of the text's sadness—a dedication that may, it seems, be his only
+motivation in writing the text—will be put into question at the moment his losses are, like the
+fallen man's injuries, considered merely laughable.
+It is thus at the very close of the text—the Fordian 'masterstring'—that tragedy reaches its
+most intense pitch, and where laughter bursts out in its place. This moment comes as Edward
+prepares to commit suicide—first because of his failure to satisfy Leonora; then because of his
+inability to pursue Nancy; and finally because of his remorse for the death of Florence. His mind,
+Ford suggests, is full of tepid literary allusions appropriate for the moment:
+Well, Edward was the English gentleman; but he was also, to the last, a
+sentimentalist, whose mind was compounded of indifferent poems and novels. He just
+looked up to the roof of the stable, as if he were looking to Heaven, and whispered
+something that I did not catch.
+Then he put two fingers into the waistcoat pocket of his grey, frieze suit; they came
+out with a little neat pen-knife—quite a small pen-knife. He said to me:
+'You might just take that wire to Leonora.' And he looked at me with a direct,
+challenging, brow-beating glare. I guess he could see in my eyes that I didn't intend to
+hinder him. Why should I hinder him? I didn't think he was wanted in the world, let his
+confounded tenants, his rifle-associations, his drunkards, reclaimed and unreclaimed,
+get on as they liked. Not all the hundreds and hundreds of them deserved that that poor
+devil should go on suffering for their sakes.
+When he saw that I did not intend to interfere with him his eyes became sort and
+almost affectionate. He remarked:
+'So long, old man, I must have a bit of rest, you know.'
+I didn't know what to say. I wanted to say, 'God bless you', for I also am a
+
+74
+sentimentalist. But I thought that perhaps that would not be quite English good form,
+so I trotted off with the telegram to Leonora. She was quite pleased with it (162).
+Here, then, is where Dowell should most like to break down into an overwhelming
+sorrow. In Edward's death, all the sadnesses in the novel—the failure at romance, the failure at
+marriage, the failure at soldiery—are once more restated; and Edward's death signifies the final
+irreversibility of their existence, the reality that for Dowell nothing, not even his friend's life, will
+be spared. That is to say, it is here that he should like, with Bertran de Born, to claim an
+experience of real, irreparable loss:
+Estouta Mortz, plena de marrimen,
+Vanar to potz quel melhor chavalier
+As tolt al mon qu'anc fos de nula gen,
+Quar non es res qu'a pretz aia mestier
+Que tot no fos el jove rei engles.25
+The experience of loss and death should be tragic for Dowell, and his description of them should
+be able to produce the same experience of tragedy in the reader. And yet what is lost—not only
+in Edward's death, but in Florence's as well, and in Nancy's madness, and in Dowell's
+estrangement from Leonora, all of which Edward's death represents as the final, climactic event
+of the plot—is his connection to the network of subjects that, through the whole length of the
+novel, he has carefully, minutely, irreparably treated with mockery. What is lost to Dowell then—
+simply to take him at his word—is nothing: in treating the other characters only as comic figures,
+25
+
+Proud Death, full of grief,
+Boast well you may that the best knight [chavalier]
+Have taken from the world that ever was in any people,
+For no thing exists of value
+That did not belong solely to the young English king.
+Pound's rendering:
+O skilful Death and full of bitterness,
+Well mayst thou boast that thou the best chevalier
+That any folk e'er had, hast from us taken;
+Sith nothing is that unto worth pertaineth
+But had its life in the young English King.
+
+75
+Dowell has bound himself to represent their downfall not with tears but with laughter.
+This is the reason, then, that the final lines of the text are so utterly unproductive of
+emotion for the reader. Of the moment that Edward's farewell might allow him some final poetic
+send-off to their friendship, Dowell can write only that “I didn't know what to say.” He gives a
+token acknowledgment to what has become a mere pretext of emotionality, but waves it away (“I
+thought that perhaps that would not be quite English good form”) with the lightness that only
+absolute disattachment—only the absolute lack of feeling—can provide. Finally, he writes, he
+“trotted off with the telegram:” it is no funeral march with which the text ends, but a caper away
+from death and away from somberness.
+Dowell's originary decision to venture into the comic, then, inexorably undermines his
+attempt to find some kind of sadness—and some meaning—within the story. Comedy, far from
+producing 'entertainment' or 'distraction,' points precisely to what is serious and unnerving in The
+Good Soldier: the failure of Dowell's representation of 'The Saddest Story' to inspire admiration,
+empathy, or sadness. Fordian comedy is profoundly erosive to the attempt to produce these
+emotions in the reader—and the production of these emotions is the essential task of the
+Impressionism. Comedy thus seems to burst out unbidden in Impressionist writing: it is precisely
+where the most heavy-handed, maudlin sadness is insisted upon that laughter appears, and this
+laughter ruins the emotional effect absolutely.
+Thus what is suggested, before the close of The Good Soldier, is an essential damage
+done to the possibility of modernist narrative. Dowell—for all that his narrative has succeeded so
+little—is no thoughtless or ignorant writer; and the material he worked with—the incredible
+failure of his marriage, to say little of the suicide of his wife and of his closest friend—certainly
+
+76
+does not lack for tragic import. Yet precisely in moving toward this tragedy, Dowell arrives in the
+end only at the tragedy of a life lived, in retrospect, with no value and no loss, but only the
+ugliness shown in humor.
+
+In this chapter, then, I have attempted to radically advance a reading of The Good Soldier
+as comedy by linking Ford's comic treatment of the novel's plot with theoretical arguments on
+the function of laughter and comedy. Through a close reading of Schorer's text, it is my argument
+that while his sensitivity to the novel's fundamental tone led him to the right conclusion in
+calling it a comedy, he fundamentally misunderstood the functioning of such a comedy. For
+Schorer, comedy is necessarily, in the end, light-hearted: its purpose is to entertain. My
+understanding of the role of the comic in The Good Soldier is absolutely different. As I proposed
+in the introduction, the failure of Dowell's narration to furnish its characters' lives with a
+compelling 'fatefulness' is the point of entry to a clear reading of The Good Soldier. Comedy is at
+the heart of this 'failure of fatefulness': it is because Dowell's aesthetic sensibilities lead him into
+ridiculousness that his narrative cannot be taken as “the Saddest Story.” In essence the laughter
+that Dowell produces prevents his novel from being taken as a 'serious novel' or 'novel of fate' at
+all.
+Aristotle's analysis, that laughter springs from a profound ugliness in the comic subject,
+does not go so far as to suggest a transference of this ugliness toward the one who laughs.
+Baudelaire, however, suggests precisely this: his text implies that in laughing, one risks the
+destruction of the value one holds in all else. Thus laughter is at its most dangerous when
+involuntary—and this, then, is the reason that Dowell's initial choice to treat tragic plot events
+
+77
+with humor returns at the close to fundamentally undermine his attempt to cast the story as a
+tragedy.
+Through a close reading of the novel's several passages, I have shown how a
+'Baudelairean reading' of The Good Soldier functions in practice—leading from Dowell's initial
+humorousness toward the eventual collapse of his tragic narrative into comedy. A glimpse of
+humor—as in a pun on 'education,' or in the dry understatement with which Dowell 'trots off'
+from Edward's suicide—is the marker of a discontinuity in the text, a moment where Dowell's
+attempt to portray the characters' motivations in serio fails to entirely function and, in response,
+tries to cover the gap with humor.
+Ultimately, the further this gap is plumbed, the further down it goes: what a careful
+reading understands at the moment of Edward's suicide is the absolute lack of sadness that
+Dowell can convey—or even experience—at the moment that should be his greatest loss. This,
+then, is what Baudelaire suggests to a reading of The Good Soldier. It is in representing man's
+'moral and physical ugliness' to himself that comedy decisively erodes the possibility of sadness
+—for when that sadness should ultimately be provoked by human loss, it is only the loss of the
+comically ugly that is felt; and that loss is, ultimately, one over which neither Dowell nor the
+reader can be brought to tears.
+
+78
+
+Conclusion: Narrative, Comedy, Tragedy
+
+Otros han litigado sobre el nombre, diziendo que no se avía de llamar
+comedia, pues acabava en tristeza, sino que se llama tragedia. El primer
+autor quiso darle denominación del principio, que fue placer, y llamóla
+comedia. Yo viendo estas discordias, entre estos estremos partí agora por
+medio la porfía y llaméla tragicomedia.26
+Fernando de Rojas, introduction to La Celestina.
+
+In the introduction to this text, I suggested that The Good Soldier cannot be adequately
+understood if it is taken simply as a narrative or 'story.' This narrative-dependent criticism, which
+I associate with Walter Benjamin's idea of novelistic 'fate,' has an enormous capacity for
+illumination. Yet The Good Soldier works precisely to put that sense of narrative into question:
+the emotional sympathy with its characters that the reader of conventional narrative should
+experience is absolutely unavailable to a sensitive reader of The Good Soldier because of the
+sudden intrusion of the comic into Dowell's apparently 'tragic' narrative.
+If that claim is correct, then, the key to a reading of The Good Soldier—the key to an
+understanding of the complex ligature and distance between Ford and Dowell—is the mechanism
+of the comedy that intrudes into what would otherwise be a conventionally tragic novel. Where
+Dowell's narration aspires to be high and lofty, where it hopes to bring sadness into the heart of
+26
+
+'Others have disputed the name, saying that it wouldn't do to call it comedy, since it ended in sadness, but that
+instead it it should be called tragedy. The original author wanted to name it for its intention, which was pleasure,
+and called it comedy. I, seeing these discords, have now set out between the two extremes, through the middle of
+the discord, and called it tragicomedy.'
+
+79
+its reader, is precisely where the sensitive reader spots cracks in its very seriousness—a
+seriousness which is the necessary foundation for any tragic text.
+
+I opened this discussion of The Good Soldier with a consideration of Ford's theory of
+literary Impressionism. This text is marked, I argued, by an inarticulated but fundamental
+concern with the threat of laughter to the very possibility of experiencing tragedy in literature.
+Ford argues that a mass of detail—the practical technique of Impressionism—is necessary to
+convey the full force of an impression. Yet at the same moment, this technique poses a threat to
+its own function: excessive insistence on detail in a text that means to portray overwhelming
+human tragedy necessarily feels out of place, even comically so.
+Ford attempts to resolve this contradiction with a moment of ultimate textual unification
+—the deployment of the 'Impressionist master-string—at which this detail is brought together
+into a sudden, sweeping experience of a single story or single impression. And yet when Ford
+gives an example of this tragic denouement in his miniature Impressionist 'story of Mr Jones,'
+what breaks out at the moment of conclusion is instead a sudden, fundamental comedy. The
+Impressionist focus on minutiae is so necessarily opposed to emotional affectation that its
+appearance at the heart of a tragic narrative renders it utterly ineffective. Thus at the close of a
+theory that intends to articulate a means of transferring or producing emotional impressions, it is
+not affective sadness but rather laughter that bursts out.
+To consider the function of this comedy in The Good Soldier in practice, I then discussed
+the major narrative choice made by Dowell, his decision to draft Edward Ashburnham as the
+'Good Soldier' following the model of the Bon Chevalier as a model of feudal virtue. There, by
+
+80
+insisting on the comparisons Dowell sets up between the two 'Good Soldiers,' it was my
+conclusion that Dowell's attempt at a poetic representation of Ashburnham—one that could also
+inspire tragic sympathy in its reader—ultimately brought itself into an untenable position through
+the overstatement of Ashburnham's soldierly qualities. Because of the inherent comedy of
+Dowell's attempt to make Edward a real feudal hero, the text breaks under the strain. The
+laughter produced when Dowell compares Edward's pony to a falling cat is the marker of the
+failure of his text's attempt to directly equate the modern with the feudal.
+In the final chapter, then, I turned to a deeper theoretical consideration of the
+consequences of laughter, through a reading of analyses of laughter by Baudelaire and Aristotle,
+in order to determine precisely how the comic works to undercut or anesthetize the tragic
+elements of a text. My foundational claim was that previous readings of The Good Soldier have
+not gone far enough in elaborating the implications of its understanding of comedy: to consider
+the text merely as ironic or amusing does not allow for a reading of the serious significance of
+the novel as considered as a critique of emotive or 'meaningful' narrative.
+The suggestion I advanced through these two theoretical readings, then, was that the
+'serious comedy' at play in The Good Soldier necessarily causes a simultaneous damage to the
+'worth' or 'value' of its subject. Aristotle and Baudelaire agree on the idea that comedy inspires
+laughter by indicating what is ugly in the comic subject; and thus my claim in reading The Good
+Soldier is that the comic passages describing Edward, Florence, Leonora, and even ultimately the
+whole totality of the plot tragedy point directly towards the flaws and lack of value there. This
+laughter, then, is the symptom of the reader's loss of the worth that Dowell hopes to associate
+with his characters; and without that necessary element of value, the novel's eventual outcome—
+
+81
+the demise of several of its characters—produces no feelings of tragic in the already-alienated
+reader.
+At the farthest reach of this analysis, Baudelaire's text suggests a kernel of intentionality
+in Dowell's use of comedy. As Dowell himself notes, his comic sensibilities are a form of
+protection at excessively tragic moments; and thus it seems that the aesthetic integrity of his
+tragic depiction is first cracked at those moments—with regard to Florence, for instance—where
+he uses his own poetic hyperbole to suggest failings. It is this usage of comedy, an ultimately
+intentional one, that gets out of control and wrecks his project to inspire real sadness in the
+reader.
+At the core of the novel, then, is an unwilling slippage from tentative into absolute
+comedy. In showing the comic implications of the other characters' self-articulations, Dowell
+allows the hint of a joke into his text; but that joke seems to move relentlessly toward what
+should be the heart of the text, his own assignment of value to the actions he narrates. With
+Ashburnham's death at the very close of the novel, I argued, comedy has done its work: at the
+moment Dowell should be most overcome with grief, he merely 'trots off' wordlessly, and his
+telling inspires not pity but only a troubling detachment in the reader.
+The comedy of The Good Soldier thus comes in the end to destroy tragedy. The tragedy
+of the characters' actions—the element on which Dowell insists with the title “The Saddest
+Story”—produces no effect on the reader, for all the reasons that have been discussed: there is
+simply, at the close of Dowell's narrative, no character and no action for which the reader can
+feel regret. If The Good Soldier is an anti-Benjaminian novel, then, the conclusion must be that it
+is one from which the reader can draw no warmth. It is a novel that consigns us to the cold; and
+
+82
+thus Baudelaire's trembling, tremblement, becomes in the end un frisson, a shivering. Were one
+to put The Good Soldier in Fordian terms, here its very end, it would be a novel that—for all the
+labor of its Impressionist technique—can produce no sadness in its reader: it represents the grand
+failure of Impressionism and emotional sensibility in narrative.
+
+And yet if we have reached the end of this novel narratively, technically, theoretically—if
+we are now situated in that space properly after the novel, the space in which our impressions of
+its final effect coalesce—is it not the moment for another, a retrospective, judgment on the novel
+that has been put behind us? That is to say: if we have come, through a complex and a contorted
+reading of the novel, to the point where tragedy has lapsed into comedy and our once-sadness for
+Dowell's loss has itself been lost to us—what is our judgment, then, on the loss of sadness and on
+the lapse of tragedy?
+It seems that Baudelaire has a final suggestion, a point of departure perhaps for this afterreading. He writes:
+Remarquez que c'est aussi avec les larmes que l'homme lave les peines de l'homme, que
+c'est avec le rire qu'il adoucit quelquefois son cœur et l'attire; car les phénomènes
+engendrés par la chute deviendront les moyens du rachat.27
+What can be made of this curious claim, coming as it does from a text so profoundly pessimistic
+towards the effects of laughter, that it is in the moment after tragedy has been washed away by
+comedy that the two become accessible once again, almost as a restitution for the harm they have
+done? Is it too late to speak of redemption for a comic text?
+This idea of redemption points us toward Baudelaire's most difficult—and most nearly
+27
+
+'And note as well that it is with tears that man washes away the sorrows of man, that it is with laughter that he
+soothes and entices his heart at times; for the phenomena engendered by the fall will become the means of the
+redemption.'
+
+83
+invisible—claim in the text, one which we have passed over too briefly:
+Chose curieuse et vraiment digne d’attention que l’introduction de cet élément
+insaisissable du beau jusque dans les œuvres destinées à représenter à l’homme sa propre
+laideur morale et physique !28
+In applying Baudelaire's text to The Good Soldier, we have considered only the second clause,
+that comedy is 'destined to represent to man his own moral and physical ugliness.' And yet
+according to Baudelaire, what appears in the ugliness indicated by comedy is—suddenly and
+unexpectedly—the experience of an 'elusive element of beauty.'
+This beauty, of course, appears in hindsight. Baudelaire writes of the one who laughs
+“qu'il s'arrête au bord du rire,” qu'il “ne rit en tremblant,” qu'il “tremble d'avoir ri” (361-2).29
+This grammatical slippage into the perfect tense indicates that “De l'essence du rire” is a text
+written after the moment of laughter: it is written from a position of regret. The sadness one
+experiences in this text, then, is of the second order: it is the sadness that wells up at the moment
+comedy has already destroyed the reader's capacity for valuation itself, a sadness even for the
+loss of sadness itself.
+Thus Baudelaire seems to suggest first a comedy of the tragic—the destruction of tragic
+sentiment in laughter—and only then a tragedy of comedy, an experience of the loss inherent in
+laughter sufficiently profound to constitutes its own, perhaps even more authentic, moment of
+sadness. This, then, is Baudelaire's 'rachat:' it is a an experience of tragedy in the loss of tragedy,
+a last fleeting moment of loss at the moment when attachment itself seems to have disappeared.
+Why have I turned back to Baudelaire so late in this consideration? Is there still a link
+here to Ford's novel, a text that, I have argued, has already absolutely sacrificed the possibility of
+28
+
+29
+
+‘A curious and truly attention-worthy thing, the appearance of this elusive element of the beautiful even in those
+works destined to represent to man his own moral and physical ugliness' (334).
+That 'he stops on the threshold of laughter,' 'he laughs only in trembling,' 'he trembles to have laughed.'
+
+84
+the tragic?
+Yet the possibility of redemption depends, perhaps, on that absolute abandonment. It
+strikes me that, in Baudelaire's sudden rediscovery of the tragic in the moment after its assumed
+loss, there is still something of surprising aptitude for a reading of The Good Soldier. Is there not
+at the very close—or even after the close—of Ford's text, a sudden remorse—not for the death of
+Ashburnham, but for the lack of sadness upon his death? That is, could the tragedy at the close of
+the novel be a tragedy of narrative—a tragedy not of the loss of Edward, but the loss even of the
+possibility of the Good Soldier?
+I have argued that at the close of the novel, the reader's experience upon Edward's death
+is one of detachment. The attachment the reader should feel is absent, because through laughter
+the novel has succeeded in irretrievably devaluing its hero. (That is to say, here we have
+completed the first step of Baudelaire's two steps: tragedy and loss have been irreversibly
+undermined by laughter.) And yet precisely in this experience of detachment, the reader has lost
+something real, something palpable, even something vital. In not feeling the loss of the Good
+Soldier, what is denied to the reader is loss itself: the experience of tragedy is undone by the
+text's comedy.
+Here, then, is Baudelaire's final move. What reaction can one have here when, for having
+laughed, even loss itself no longer occasions sadness? Can one, if the death of the Good Soldier
+is absolutely unlamentable, do anything but cry?
+It seems, then, that the loss of the possibility of tragedy itself might even, at the end of
+day, be a more authentic experience of the tragic than the 'real' loss it recuperates. Should we
+weep as hard for the death of Edward as we do upon discovering that there is, in the end, no
+
+85
+Good Soldier at all?
+And this, it seems, might even be the situation of poor Ford at Squerries Park. At the
+moment where tragedy fails in comedy, a second—perhaps even a deeper—tragedy breaks out:
+the tragedy of the failure of loss itself to occasion sadness. What was Ford really weeping for?
+His own career, the train he would miss, the melancholy songs he sang? Or could it not have
+been, at the close, his detachment from them all—and his own laughability in sorrow—for which
+he was crying in Squerries Park?
+And thus it could be, perhaps, that Ford manages to stage precisely the redemption of the
+irretrievable that Baudelaire has so tenuously indicated—and that at or after its close, in spite of
+its own refusal, The Good Soldier ultimately turns back toward tragedy. For it is this second—
+and perhaps deeper—tragedy that is given to the reader in The Good Soldier.
+
+Bibliography
+Anonymous. Lazarillo de Tormes. Madrid: Ediciones Cátedra, 1987.
+Aristotle. Poetics. “The Philosophy of Aristotle.” 413-431. Trans. Wardman and Creed
+NY: Mentor Books, 1963.
+Baudelaire, Charles. “De l'essence du rire.” Curiosités esthétiques. Paris: Alphonse
+Lemerre, 1890.
+Benjamin, Walter. “The Story-teller.” Illuminations. 83-109. Trans. Harry Zohn NY:
+Schocken, 1969.
+Bertrand de Born. ¨Si tuit li dol e·lh plor e·lh marrimen.” Poems of Bertrans de Born.
+James H. Donalson, ed. Online, accessed via brindin.com 4/22/11.
+Bergson, Henri. Le Rire. Paris: Presses Universitaires de France, 1947.
+Champier, Symphorien. Les Gestes ensemble la vie du preulx Chevalier Bayard. Paris:
+Imprimerie Nationale, 1992.
+De Mailles, Jacques. La tresjoyeuse, plaisante et recreative Histoire, composée par le
+Loyal Serviteur, des faiz, gestes, triumphes et prouesses du Bon Chevalier sans
+paour et sans reprouche, le Gentil Seigneur de Bayart. Paris: Foucault
+Librairie, 1827. E-text, accessed via voltaire-integral.com 2/12/11.
+——. Histoire du Bon Chevalier sans peur et sans reproche le seigneur de Bayard.
+Camille Rousset, trans. Paris: Librairie Hachette, 1872.
+De Tocqueville, Alexis. De la Démocratie en Amérique. Paris: Gallimard, 1951.
+
+De Rojas, Fernando. La Celestina. Madrid: Ediciones Cátedra, 1987.
+Eliot, T.S. The Sacred Wood. Seventh ed. NY: Methuen, 1983.
+Madox Ford, Ford. The Good Soldier. NY: WW Norton, 1995.
+——. “On Impressionism.” Critical Writings of Ford Madox Ford. 33-55. Lincoln, NE:
+University of Nebraska Press, 1964.
+——. The Cinque Ports. London: Blackwood and Sons, 1900. Google Book Search.
+Retrieved 4/22/11.
+Marinetti, Filippo Tommaso. “The Futurist Manifesto.” Trans. R.W. Flint. Apollonio,
+Umbro, ed. Documents of 20th Century Art: Futurist Manifestos. NY: Viking
+Press, 1973. 19-24.
+Mizener, Arthur. The Saddest Story: A Biography of Ford Madox Ford.
+Nietzsche, Friedrich. Beyond Good and Evil. Walter Kaufmann, trans. NY: Random
+House, 1966.
+Paulhan, Jean. Les fleurs de Tarbes. Paris: Gallimard, 1990.
+Pound, Ezra. “Planh for the Young English King.” American Poetry: The Twentieth
+Century. 508. NY: Library of America, 2000.
+Shellabarger, Samuel. The Chevalier Bayard. NY: The Century Co., 1928.
+Schorer, Mark. “The Good Soldier as Comedy.” The Good Soldier. 305-310.
+Watts, Ian. “Impressionism and Symbolism in Heart of Darkness.” Heart of Darkness.
+311-36. 3rd Edition. NY: W.W. Norton, 1988.
+
+

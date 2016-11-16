@@ -1,0 +1,1976 @@
+Bard College
+
+Bard Digital Commons
+Senior Projects Spring 2016
+
+Bard Undergraduate Senior Projects
+
+2016
+
+Self-Fashioning, Double Consciousness, and a
+History of Representation: The Narratives of
+Frederick Douglass and Solomon Northup as
+Compared to Runaway Slave Advertisements
+Samira Leila Omarshah
+Bard College
+
+Recommended Citation
+Omarshah, Samira Leila, "Self-Fashioning, Double Consciousness, and a History of Representation: The Narratives of Frederick
+Douglass and Solomon Northup as Compared to Runaway Slave Advertisements" (2016). Senior Projects Spring 2016. Paper 327.
+http://digitalcommons.bard.edu/senproj_s2016/327
+
+This Open Access is brought to you for free and open access by the Bard
+Undergraduate Senior Projects at Bard Digital Commons. It has been
+accepted for inclusion in Senior Projects Spring 2016 by an authorized
+administrator of Bard Digital Commons. For more information, please
+contact digitalcommons@bard.edu.
+
+Self-Fashioning, Double Consciousness, and a History of Representation:
+The Narratives of Frederick Douglass and Solomon Northup as Compared to Runaway Slave
+Advertisements
+
+Senior Project submitted to
+The Division of Languages and Literature
+with a Concentration in Experimental Humanities
+of Bard College
+
+by
+Samira Omarshah
+Annandale-on-Hudson, New York
+May 2016
+
+Dedications
+My first dedication goes to my Senior Project Adviser Peter L’Official, for believing in my
+ability to complete a successful project, especially when I struggled to believe in myself. The
+literature department as well as the Bard community as a whole are very lucky to have you join
+them. You easily became one of the most popular professors amongst the students, which is
+telling considering this is only your second semester here! Thank you for your support and fun
+SPROJ meetings, I know that you will continue to inspire all the students you encounter here at
+Bard.
+Next of course comes my loving mother, Yasmin Henn. You are and always will be my best
+friend. We have been through so much together, with moving houses and countries. I could not
+have completed my degree without your love, support and friendship. I never tell you enough
+how much you inspire me. Thank you for showing me that it is possible to be loving and kind,
+while still remaining strong and true to myself.
+Doreen Seedat, I love you so much. Thank you for your endless wisdom (and nights spent
+watching Downton Abbey). You always knew what to say when I needed it most, and I am so
+grateful for that. I know I am your favorite grandchild - don’t worry, I won’t tell the others.
+Pops, thank you for always being available to help me with everything. I really value your input,
+especially when it comes to making big life choices. I am glad that you were able to come to
+graduation, it means a lot to me.
+Mireya Rodriguez, thank you for lowering your walls and letting me see the real you. I know that
+it can be hard to let people in and I feel so lucky to have been one of the few who was able to see
+all sides of your beautiful personality. In so many ways, you helped me look past the things that I
+could not change and reminded me of the things that were in my control. You are so strong, but
+also so crazy caring! I feel blessed to call you my best friend, I love you girl.
+Mariamawit Fantahun, you are such a special, strong, sweet, intelligent, caring, and thoughtful
+woman. Your constant love and friendship made even my darkest days a little bit brighter. I tell
+you this all the time, but you are a ray of sunshine in the lives of many. I know that your time
+here at Bard was hard and that so much of your pain I could not take away, but I will always be a
+shoulder to cry on, your number one cheerleader and your soul sister.
+
+Table of Contents
+
+Introduction . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1
+Chapter 1: Devices. Du Bois and Douglass . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7
+Chapter 2: Twelve Years A Slave and Reversing the Gaze . . . . . . . . . . . . . . . . . . . . . . . 28
+Chapter 3: Coding and Reading the Texts with Python . . . . . . . . . . . . . . . . . . . . . . . . . . 48
+Conclusion . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 60
+Appendix . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 64
+Bibliography . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .70
+
+Omarshah !1
+Introduction
+Envision what it would feel like to be shut into a small, wooden box, about three feet
+long and two feet wide, for 27 hours. The only provisions around you: a jug of water and a few
+biscuits. Now, imagine how it would feel when the box was eventually opened. Finally, consider
+for what reasons would one subject oneself to such circumstances?
+Henri “Box” Brown, (the middle name given to him after his epic escape) a slave who
+lived in Virginia in 1815, would not have to imagine such an experience. The end for which he
+accepted the conditions described was simple: his freedom. He describes:
+One day, while I was at work, and my thoughts were eagerly feasting upon the idea of
+freedom, I felt my soul called out to heaven to breathe a prayer to Almighty God. I prayed
+fervently that he who seeth in secret and knew the inmost desires of my heart, would lend me
+his aid in bursting my fetters asunder, and in restoring me to the possession of those rights, of
+which men had robbed me; when the idea suddenly flashed across my mind of shutting
+myself up in a box, and getting myself conveyed as dry goods to a free state. 1
+
+This quote is taken from but one example of a slave narrative written at the turn of the 19th
+century. Brown experienced such brutal conditions in his time while enslaved, that he quite
+improbably, mailed himself into a free state. The sense of urgency to escape slavery is present on
+every page in Henri Brown’s narrative. After 27 hours of land and water travel, Brown arrived in
+Philadelphia. Two abolitionists William Still and James McKim received Brown, who is said to
+have climbed out of the box asking, “How do you do, Gentlemen?”. Later, in Brown’s own
+1
+
+Brown, Henry Box. The Narrative of the Life of Henry Box Brown. Oxford: Oxford
+UP, 2002. 51.
+
+Omarshah !2
+narrative he describes how after, “I was told that I was safe, I was to break out in song of
+deliverance, and praise to the most high god...Great God, was I a freeman!”2 Brown would
+unofficially be given the middle name “Box”, after his emancipation. Although he was advised
+against publishing his story by Frederick Douglass - the famous orator and an escaped slave
+himself - in order to protect potential future slaves escaping using the same method, Brown
+would use his experiences as a platform to recreate his own identity and to write himself into the
+new world.
+Post-emancipation America witnessed a surge of interest by writers and journalists to
+document the stories of former slaves. Up to 2,300 narratives were written or recorded and
+subsequently collected by the Library of Congress. Over a third of these narratives collected
+were due to the Federal Writers Project of the Works Progress Administration. It is important to
+note that many published narratives required a stamp of approval from a white male figure. This
+‘stamp’ was in the form of a ‘Preface’ or an introduction or letter stating that the information
+revealed was accurate and therefore valuable. Also, it served as simple attestations of proof that
+the author actually wrote the work, since most people would have doubted a slave’s capacity to
+read and write. The ability to write - and indeed, to write oneself into existence by attesting to
+that existence in prose - was something many slaves would have pursued, given the opportunity.
+Of those published, common themes such as the recognition of self as an ‘other’, the recognition
+of self as ‘object’ and then ‘property’, the testing of faith, the devastation of being separated from
+
+2
+
+Brown, The Narrative of the Life of Henry Box Brown, 63.
+
+Omarshah !3
+family, the brutal conditions within slavery and finally the difficulty assimilating into a world
+that was not made for people of color post-emancipation appear. 3
+Identity plays an important role in the development of the former slaves’ narratives as
+there are many different perspectives through which African Americans viewed themselves. The
+identities projected onto the slaves by their white oppressors included ideas of racial superiority.
+The stories some former slaves would eventually include in their narratives attempt to counter
+these notions as a way of recreating new identities. The narratives themselves act as a mode of
+resistance against the belief that the slave identity was internalized.
+In many ways, slave narratives represent written archives of the authors’ identities, and
+testaments to those identities. Through consideration of what constitutes self-making and how
+one represents a struggle almost entirely unknown to the intended reader (i.e. white Americans),
+we may better see the parts of an identity that are either invisible or absent from the narratives
+entirely. We are then called to ask: how might the authors of the narratives represent selves that
+can garner sympathy from white audiences while simultaneously laying the foundation for their
+own future identities in a free world?
+In a sense, narratives such as the ones written by Frederick Douglass and Solomon
+Northup acted as advertisements for abolition, and for creating a sentimental feeling within a
+potentially unsympathetic audience. By thinking of slave narratives as advertisements, (with
+advertisements meaning drawing attention to a cause/person/place/thing in order to promote it, or
+3
+
+Yetman, Norman R. "An Introduction to the WPA Slave Narratives." Library of Congress. N.p.: n.p.,
+n.d. N. pag. Library of Congress. Web. 1 Dec. 2015. <http://memory.loc.gov/ammem/snhtml/
+snintro00.html>.
+
+Omarshah !4
+as a dictionary definition might add “Public notices designed to inform and motivate”4) one
+might also understand that in the necessarily incomplete sketches of selves that comprise them,
+there is much missing information regarding the experiences and the complex layers of identities
+experienced by slaves. It is the information that is absent from the narratives that represents a
+kind of resistance to the restrictive nature of a narrative as medium for an all encompassing an
+identity.
+This project aims to consider The Narrative of the Life of Frederick Douglass, An
+American Slave 5 and Twelve Years A Slave a Slave Narrative of Solomon Northup6 as
+advertisements for abolition as well as a medium for self-making for their authors. The project
+will also compare these two narratives against the Runaway Slave Advertisements 7 written by
+slave owners. Runaway Slave Advertisements were a set of newspaper articles that described
+runaway slaves. These were written by slave owners with the hopes of having the slaves captured
+and returned. The advertisements consisted of detailed, physical and personality descriptions of
+slaves who had managed to escape. Out of the examination of these primary and archival
+sources, deeper issues concerning relationships between slave and master, as well as a narrative
+4
+
+"Advertisement." Business Dictionary. Accessed May 1, 2016.
+
+http://www.businessdictionary.com/definition/advertisement-ad.html.
+5
+
+Douglass, Frederick. Narrative of the Life of Frederick Douglass. New York:
+Dover, 1995.
+
+6
+
+Northup, Solomon. "Twelve Years a Slave Narrative of Solomon Northup, a Citizen
+of New-York, Kidnapped in Washington City in 1841, and Rescued in 1853,
+from a Cotton Plantation near the Red River in Louisiana." Edited by David
+Wilson. Gutenberg-e. Last modified May 11, 2014. Accessed March 26, 2016.
+http://www.gutenberg.org/files/45631/45631-h/45631-h.htm#CHAPTER_I.
+
+7
+
+Advertisements were taken from the the Geography of Slavery in Virginia Archives of the University of
+Virginia:
+The Rector and Visitors of the University of Virginia. "Explore Advertisements." The Geography of
+Slavery in Virginia. Accessed March 7, 2016. http://www2.vcdh.virginia.edu/gos/index.html.
+
+Omarshah !5
+told from the ‘other side,’ arise. Invoking W.E.B. Du Bois’ theories of “double consciousness”,
+having a “twoness of mind” and “the Veil”, the project will analyze the ways in which slaves
+both externally and internally developed their identities.
+Finally, through the use of digital coding 8 and frequency analyses, the project will
+explore questions of language regarding the words chosen by the former slaves as compared to
+the words chosen by their white oppressors to describe the ‘slave’ identity. It is important to note
+that slavery was a reduction of human beings to number values. The intention of this project is
+not to mimic the same reduction. The digital analyses are a means of extracting information from
+the two narratives and advertisements that would be missed from a ‘conventional’ close reading.
+It is for this reason that the close readings of the two texts appear first in the project, followed by
+an addition of the frequency analyses results.
+Most broadly, this project considers the narratives of Frederick Douglass and Solomon
+Northup as conventional in the literary sense. Through the use of narratives as a lens to consider
+the runaway advertisements, two sides of the process of self-making are revealed. It begs the
+question: what does it mean to present oneself as oneself in comparison to having a ‘self’
+imposed? Since the narratives act as resistance to these impositions, whether it be through the
+escape of the individuals or through the recognition of one’s own existence in the writing, hope
+arises. With hope, follows possibilities for the illumination of distinguishing characteristics that
+set Douglass and Northup apart as complex and resilient individuals.
+
+8
+
+The term ‘digital coding’ is referring to text analyses performed through a program called Python. The
+language of Python allows for texts to be cleaned of their punctation and mined in order to generate
+quantitative results with regard to word usage.
+
+Omarshah !6
+Just as Henri “Box” Brown used the notion of slaves being ‘objects’ and property as a
+literal means of freeing himself, Frederick Douglass and Solomon Northup used their traumatic
+pasts as modes of self-making post-emancipation. The narratives of Brown, Douglass and
+Northup all force us to ask: what does it mean to create a future when one’s history is denied?
+
+Omarshah !7
+
+Chapter 1: Devices, Du Bois and Douglass
+The Inclusion of A Preface: A Stamp of Approval
+Although the narratives themselves were written by Frederick Douglass and Solomon
+Northup, they were not published until a white ‘stamp of approval’ verified their authenticity.
+This ‘stamp’ was given in the form of a letter or preface, written by a white abolitionist, that was
+appended to the narratives. Although the help of white abolitionists was a valuable asset in the
+escape of many slaves — in, for example Henry Brown’s escape — the fact that a human being’s
+story needed to have a stamp of approval is problematic, as it reveals that society at the turn of
+the century did not fully trust that slaves were the most accurate authors of their own
+experiences.
+In The Narrative of the Life of Frederick Douglass, An American Slave, he includes a
+letter from famed white abolitionist Wendell Phillips as a way of introducing the reasons why a
+narrative such as this is important. Phillips was most known for his theory that racial injustices
+were the starting point for all of the problems in American society. He also supported the idea of
+the separation of states in the United States as, he argues, a country could not be united if some
+states were pro-slavery and others supported abolition.9
+In the letter at the start of Douglass’ narrative, Phillips emphasizes how Douglass comes
+“from that part of the country where we are told slavery appears with its fairest features,” or was
+
+9
+
+McNamara, Robert. "Wendell Phillips." About Education. Accessed December 1,
+2015. http://history1800s.about.com/od/abolitionmovement/a/Wendell-Phillips-biography.htm.
+
+Omarshah !8
+considered ‘less brutal’ when compared to the conditions of slavery in the deep South.10 He then
+encourages us to “hear, then what it is at its best estate - gaze on its bright side.”11 This acts as a
+reminder that even Douglass’ experiences as a slave were still considered less brutal when
+compared to the conditions of slaves in the deep South. This comment contributes to the notion
+that the narrative itself was an advertisement for abolition because if Douglass’ horrific
+experiences as a slave were not as bad as other slaves, then a white audience might ask
+themselves, “How much worse could conditions have been?” This might then lead them to feel
+sympathy for other slaves in addition to Douglass. Furthermore, Phillips discusses how the best
+person to tell the story of slavery is a slave or former slave himself, which is important, as many
+believe the contrary to be true. White audiences often believed that, in fact, the least reliable
+source to tell the story of slavery was a slave. Historian Walter Johnson asks the question of
+authentication from a white figure in order for a slave narrative to be respected. He describes
+how:
+The antislavery history of these narratives has made some historians wary of using them as
+sources for writing the history of slavery. In proslavery responses to the narratives, which
+were taken up by early historians of slavery like Ulrich B. Phillips, the narratives were
+treated as politically interested fabrications and were dismissed, according to one of the most
+durable paradoxes of white supremacy — the idea that those who are closest to an experience
+of oppression (in this case, former slaves) are its least credible witnesses.12
+
+10
+
+Douglass was born and spent his time in slavery in Maryland.
+
+11
+
+Douglass, Narrative of the Life of Frederick Douglass, xvi.
+
+12
+
+Walter, Johnson. Soul by Soul: Life inside the Antebellum Slave Market.
+Cambridge: Harvard UP, 1999. 9.
+
+Omarshah !9
+At the same time, Johnson warns not to use one perspective or narrative as a reflection of an
+entire struggle. To see the history of slavery as solely a domination of white Americans over
+black Americans is limiting, too, as one needs to consider the process and relationships of
+slavery from selling to buying to owning to being owned.13
+Finally, Phillips gives credence to the fact that Douglass’ encounters with such acts of
+cruelty “are the essential ingredients, not the occasional results, of the system,” highlighting that
+Douglass was not the exception but an example of a greater cruel and inhumane system.14
+Similarly, Solomon Northup needed David Wilson, a white man, to authenticate that he
+was a free slave who had been kidnapped15. Wilson, an attorney from Whitehall, N.Y., described,
+“That he has adhered strictly to the truth the editor, at least, who has had an opportunity of
+detecting any contradiction or discrepancy in his statements, is well satisfied.”16 Thus, Northup’s
+story was ‘put to the test’ and he was proved authentic because, “He has invariably repeated the
+same story without deviating in the slightest particular…dictating an alteration where the most
+trivial inaccuracy has appealed.” 17 Northup had to submit to psychoanalysis conducted by a
+white doctor before his narrative could be published to establish its veracity. Furthermore, to
+portray Northup’s own literacy and ability to write, the opening of the text consists of an image
+
+13
+
+Johnson, Soul By Soul, 9.
+
+14
+
+Douglass, Narrative of the Life of Frederick Douglass, xvi.
+
+15
+
+Gates, Henry Louis, Jr. "12 Years a Slave: Trek From Slave to Screen." The Root.
+Last modified March 3, 2014. Accessed April 22, 2016.
+http://www.theroot.com/articles/history/2013/10/
+solomon_northup_trek_of_his_book_12_years_a_slave_to_the_big_screen.html.
+
+16
+
+Northup, Twelve Years a Slave: Narrative of Solomon Northup, xv.
+
+17
+
+Northup, Twelve Years a Slave: Narrative of Solomon Northup, xv.
+
+Omarshah !10
+of Northup with the caption “Northup in his plantation uniform” followed by his own written
+signature.18 By starting the narrative with his signature, Northup is highlighting: that he can read
+and write, that he was a slave and finally, and most importantly, that he is now a free man who
+exists and can be recognized as a human in the world. A signature is personal and unique. The
+fact that Northup has his own, personal symbol that represents his existence is a powerful act of
+resistance against a reader who would otherwise not acknowledge him as person. It also is a sign
+and signifier of writing and literacy: both the fact that Northup can read and quite literally write
+(with his own hand).
+Recognition of Self as ‘Property’ or ‘Object’
+A common device seen in all slave narratives is the recognition of self as property or an
+‘object’. Henry Brown, Frederick Douglass and Solomon Northup all questioned the notion that
+they were considered not human. Where Douglass grappled with his ‘humanness’ through his
+marriage certificate, Brown used words associating people and ‘things’ in order to call to
+question that association itself. Brown describes how “the human as well as every other kind of
+property, came to be divided equally amongst” the sons of the owner upon his death.19 Viewing
+yourself through the eyes of the other becomes apparent here as African Americans born into
+slavery were dehumanized and presented not only as ‘the other’, but as ‘the object’. Enslaved
+African Americans experienced events where they were treated or spoken about as if they were
+inanimate objects. Brown emphasizes how he had to ask permission from the owner of the
+woman he had been courting, in order to marry her. He also had to ask him not to sell her after
+18
+
+See Figure 1 in Appendix
+
+19
+
+Brown, The Narrative of the Life of Henry Box Brown, 16.
+
+Omarshah 1! 1
+they were married. He describes how, “He gave me a note to my master, and after they had
+discussed the matter over, I was allowed to marry the object of my choice.”20 The use of the
+word ‘object’ here emphasizes the absurdity, even then, to discuss a human being as something
+inanimate.
+Although at first Brown’s description of himself as an object seems solely a comment on
+the strange and irrational justification of the institutionalization of making humans property to
+other humans, his literal mailing himself to freedom was an example of true resiliency. Brown,
+knowing his eventual method of escape, “accepts” the reduction of his personhood to objecthood and then uses that very object-hood as the instrument of his escape. Brown dares his
+captors in suggesting that, ‘if you’re going to treat me as an object, then an object I will become but, in doing so, I will liberate myself from both captivity and object-hood.’ In other words, if he
+was to be treated and spoken to as if he were an object, then he could literally ‘take himself’ to
+freedom.
+Commodification of the Black Body
+Slaves were sold for a price, which involves another identity being projected onto them
+— a numeric value. Walter Johnson describes the quantification of the black body as “the chattel
+principle”. He explains how, “[a]ny slave’s identity might be disrupted as easily as a price could
+be set and a piece of paper passed from one hand to another.” He also would describe how
+“slaves’ values always hung over their heads.21 Thus, if Du Boisian “double consciousness”
+
+20
+
+Brown, The Narrative of the Life of Henry Box Brown, 33.
+
+21
+
+Johnson, Soul by Soul: Life inside the Antebellum Slave Market, 19.
+
+Omarshah !12
+describes a kind of inescapable “two-ness” of mind and self-perception, slaves experienced a
+three-ness of mind: their own self-identification, their sense of themselves as object and property,
+and finally their monetary value.
+Johnson also describes the way in which double consciousness is limited in the sense that
+it takes some of the ‘agency’ away from African Americans. He says:
+The history of the enslaved people who toiled in those fields has generally been approached
+through durable abstractions: “the master-slave relationship,” “white supremacy,”
+“resistance,” “accommodation,” “agency.” Each category has been indispensable to
+understanding slavery; together they have made it possible to see things that otherwise would
+have been missed. Increasingly, however, these categories have become unmoored from the
+historical experience they were intended to represent. The question of “agency” has often
+been framed quite abstractly— counterpoised against “power” as if both terms were arrayed
+at the ends of some sort of sliding scale, an increase in one meaning a corresponding
+decrease in the other. But “agency,” like “power,” is historically conditioned: it takes specific
+forms at specific times and places; it is thick with the material givenness of a moment in
+time. “Agency: is less a simple opposite of “power” than its unfinished relief — a dynamic
+three-dimensional reflection. 22
+Johnson is focused on this idea that there are three perspectives that one can glean the most
+understanding of the slave trade. He argues that “agency” is not the direct and equal correlative
+to “power” — that agency is what remains when power is at its absolute limit. Agency is the
+remnants of resistance that can be managed when power is exhausted. Although double
+consciousness does allow us to understand what it means for slaves to see themselves through
+
+22
+
+Johnson, Walter. River of Dark Dreams: Slavery and Empire in the Cotton Kingdom.
+Cambridge: Belknap Press of Harvard UP, 2013. Print. 9.
+
+Omarshah !13
+the eyes of their white oppressors, there is also an understanding in which whiteness and white
+identity were constructed as a way of separating and distinguishing itself from black identity.
+Johnson highlights how at risk yet, ultimately, courageous any exercise of “agency” was and is.
+He is saying that agency is, despite not being the corollary to “power”, witnessed in the
+reflections and places just beyond power’s reach. White Americans were significantly
+outnumbered on the plantations by their slaves. Racial superiority acted as a tool to uplift whites
+and to prevent the ascension of power by African Americans. Johnson also questions the form in
+which American history is told as it makes slavery and the economy seem like two parallel
+stories, each one changing without ever affecting one another, when in reality one fueled the
+other.23 He then expresses how he:
+[t]ried to understand a slave sale from the contingent perspective of each of its participants to assess their asymmetric information, expectations, and power, to search out their mutual
+misunderstandings and calculated misrepresentations, to investigate what each had at stake
+and how each tried to shape the outcome. 24
+By considering slavery from both the perspective of the master as well as the slaves in
+question, one can better understand the reactionary construction of identity. How does each side
+of “a slave sale” affect the development of the other’s identity?
+
+23
+
+For more on the ‘untold story’ of slavery and the American economy see:
+
+Baptist, Edward E. The Half Has Never Been Told: Slavery and the Making of
+American Capitalism. New York: Basic Books, a member of the Perseus Books
+Group, 2014.
+Davis, David Brion. Inhuman Bondage: The Rise and Fall of Slavery in the New
+World. Oxford, England: Oxford UP, 2006.
+24
+
+Johnson, Soul by Soul: Life inside the Antebellum Slave Market, 9.
+
+Omarshah !14
+Invoking Johnson here, a consideration of the Runaway Slave Advertisements will aid in
+the understanding of the complex master and slave relationship. In what ways would reading
+one’s own Runaway Slave Advertisement affect the way one fashions one’s identity in the
+future? How does seeing oneself through the eyes of ‘the other’— in this case one’s owner, —
+shape the understanding of one’s projected identity? In the case of an escaped slave, in what
+ways might the owner feel responsible to re-capture his slave and thus re-establish his ‘power’
+over that slave? Lastly, how can these advertisements act as the medium in which power that was
+lost from not being able to subdue one’s own “property” is regained? After all, the successful
+escape of slaves was made in direct defiance of the slaveholder’s power over them.
+Double-Consciousness and Runaway Advertisements
+In true Du Boisian fashion, Douglass’ narrative reflects how complex the struggle of
+African Americans both during and after the time of slavery was. Indeed Douglass’ narrative also
+illustrates one of Du Bois’ most famous theoretical concepts: ‘Double Consciousness’ and the
+‘Veil’. Both terms, coined by Du Bois, refer in part to a separation of understanding between
+African Americans and white Americans post-Emancipation. The first term, refers to a condition
+in which African Americans are forever doomed to look at themselves both through their own
+eyes as well as through the eyes of an outside ‘other’, most often their white oppressors. The
+second, refers to an invisible wall that Du Bois suggests separated African Americans from their
+white counterparts post-Emancipation, especially in terms of experience and cultural
+
+Omarshah !15
+understanding of the struggle black Americans faced trying to integrate into American society.25
+Du Bois describes how:
+One ever feels his two-ness,—an American, a Negro; two souls, two thoughts, two
+unreconciled strivings; two warring ideals in one dark body, whose dogged strength alone
+keeps it from being torn asunder.26
+Although slavery was eventually legally abolished, former slaves struggled to fully integrate into
+American society as they were not considered whole citizens and they were significantly
+disadvantaged as they had no property, savings, or inheritance. When an identity such as slavery
+was projected onto Douglass and Northup, it was not internalized. They were viewing
+themselves through the eyes of another. This gaze reflects a historical and literary understanding
+and can be analyzed through the Runaway Slave Advertisements.
+Runway Advertisements are notices displayed by masters to describe their runaway
+slaves so that they can be captured and returned. As described by David Waldstreicher:
+Runaway advertisements, in effect, were the first slave narratives - the first published stories
+about slaves and their seizure of freedom. They differ from the later counter narratives of exslaves and abolitionists in that the advertisements attempted to use print to bolster confidence
+in slavery, rather than confidence in African Americans and their allies. Written by the master
+
+25
+
+Du Bois, The Souls of Black, 8.
+
+26
+
+Du Bois, The Souls of Black, 8.
+
+Omarshah !16
+class, they not only reveal but also exemplify the profitable contradictions of the midAtlantic labor system.27
+Thus, the need “to bolster confidence in slavery” implies that the act of running of away was a
+defiance of the foundation of slavery. If slaves were property and were ‘subdued’, the act of
+planning and successfully carrying out an escape defies these notions. Especially when slaves
+had the help of white abolitionists, this notion destabilized the idea that slavery was supported by
+all white Americans.
+In many ways, the advertisements highlight positive traits observed by masters of their
+slaves and reveal the disconnect owners had from the human beings they bought and sold.
+Disgruntled owners added assumptions regarding personality traits of the slaves based on
+physical traits and descriptions as a way of dehumanizing and incriminating the slaves. This
+complex relationship is explored further within Chapter 2.
+Heritage, Education and the History of Literacy of Slaves
+Literacy, amongst African American slaves, represented much more than a step towards
+freedom and assimilation into a new world, post-emancipation. It also represented a mode of
+resistance. Laws prohibiting teaching slaves to read began from the 1700s, in reaction to acts of
+rebellion28 led by prominent African American figures. 29 One of these figures, Jemmy, a
+27
+
+Waldstreicher, David. "Reading the Runaways: Self-Fashioning, Print Culture, and
+Confidence in Slavery in the Eighteenth-Century Mid-Atlantic." JSTOR. Last
+modified April 1999. Accessed April 22, 2016. http://www.jstor.org/stable/
+2674119. 247.
+
+28
+
+Warren, Kim. "Literacy and Liberation." Project MUSE. Last modified December
+2005. Accessed April 22, 2016. https://muse.jhu.edu/article/190829. 511.
+
+29
+
+Warren, “Literacy and Liberation.” 511-512.
+
+Omarshah !17
+Congolese man, would use his literacy to unite over 100 slaves to march, carrying banners with
+the word “Liberty!” written on them in what would be known as the Stono Rebellion.30
+Recognizing the power of literacy, South Carolina would implement the Negro Act a year
+following the rebellion. The Act prohibited slaves from growing their own food, earning money
+and finally, learning to read. Although previously these laws were existent, they had not been
+enforced.31
+The reasons why slave-holders feared literate slaves is because it would be the first step
+towards African Americans being able to contribute to dialogue regarding the laws and politics of
+the systemized oppression. Literate slaves would be able to access, understand and then question
+the laws that enslaved them. As described by author Kim Warren:
+After 1800, when the legislature determined that previous laws had not kept African
+Americans in “due subordination,” they enacted further restrictions on the gathering of slaves
+and outlawed any kind of “mental instruction,” including reading, writing, memorization,
+arithmetic, and more (p. 13). That same year, South Carolina extended its prohibitions to
+include free African Americans. Like South Carolina, Georgia approved a statute to punish
+anyone carrying printed material “for the purposes of exciting to insurrection, conspiracy or
+resistance among the slaves, Negroes, or free persons of color.32
+An important addition to the laws was “free persons of color”. Why would the southern states
+impose a law that hindered free people? If freed slaves were able to read, they would be a part of
+the dialogue regarding the making of segregating laws. In other words, they would be advocates
+30
+
+"The Stono Rebellion." Public Broadcasting Services. Accessed April 22, 2016.
+http://www.pbs.org/wgbh/aia/part1/1p284.html.
+
+31
+
+"The Stono Rebellion."
+
+32
+
+Warren, “Literacy and Liberation.” 512.
+
+Omarshah !18
+for the rights of those who were still enslaved. Those who were literate could then find
+hypocrisies in common justifications of slavery. For example, slavery itself was many times
+justified by re-appropriated Christian values and notions of racial superiority, the source for this
+information, the Bible, would then be available to those weakened by its supposed contents.
+The use of the phrase “laws had not kept African Americans in “due subordination,”
+implies that the laws themselves are the reason for slaves escaping. Almost as if the laws were
+responsible for “exciting to insurrection, conspiracy or resistance amongst the slaves.” The
+language is reactionary in the sense that rebellion of the roles projected onto African-Americans
+was incited. However, the relationship between slave and master is itself reactionary. Each
+person performs systematically assigned roles, one of the subduer and the other of the subdued.33
+The best examples of reactionary language used by white slaveowners are Runaway
+Advertisements.
+In addition, education, or lack there of, was another form of control used by white
+oppressors over African Americans. Douglass also describes his recognition that knowledge was
+another form of control by the slave owners of Douglass’ time when his new mistress, Mrs. Auld,
+teaches him the alphabet. His realization that knowledge was another form of control came when
+Mr. Auld expressed how:
+If you give a nigger an inch, he will take an ell. A nigger should know nothing but to obey his
+master -- to do as he is told to do. Learning would spoil the best nigger in the world.”
+
+33
+
+Waldstreicher, "Reading the Runaways: Self-Fashioning." 247.
+
+Omarshah !19
+Furthermore, Mr. Auld used terms such as “unmanageable”, “no value”, “do him no good”,
+and it will make “him discontented and unhappy.34
+By using direct quotations, Douglass removes himself and any doubt that a white reader may
+have regarding his credibility, and creates empathy. The reader ‘hears’ what a cruel white
+slaveowner says about a slave, who is clearly in the room listening to this, and will judge the
+speaker accordingly. Hearing this for Douglass, was the most powerful moment in the narrative,
+as it marked the transition from youth to adult, as he realized and “understood the pathway from
+slavery to freedom.” (Douglass 20) To a white reader, Douglass explains how preventing
+someone from learning to read, as done by Mr. Auld following his realization that Mrs. Auld was
+teaching Douglass, was an “evil” act. Douglass invokes the Christian rhetoric of ‘good and evil’,
+inspiring white Christian readers to view the sin in keeping knowledge and information from
+slaves.35
+However, this form of control was not just with knowledge taught at school. Douglass
+opens the narrative describing his frustration at not knowing his own background and history. In
+the middle of the text, he even describes how he realized how's growing literacy was basically
+giving him the means to become ‘uncontrollable. Finally, at the end of the narrative when
+Douglass was free, he makes a point of noting his marriage certificate. This document was a first
+for Douglass, in the sense that it was an official certification of his existence. He copies his exact
+34
+35
+
+Douglass, Narrative of the Life of Frederick Douglass, 20.
+
+For more on legal ‘subordination’ and the ‘permissible bounds of slaves’ words and deeds’ see:
+Wiethoff, William E. The Insolent Slave. Columbia: U of South Carolina P, 2002. 17
+In particular page 16:
+“By 1806, for example, Louisiana lawmakers explained that the degraded condition of slaves rested
+legally on their “absolute” subordination. “Not susceptible of any modification or restriction,” this
+subordination entailed “a respect without bounds, and an absolute obedience. The circle was complete.
+Slaves were debased because they had no rights because of their degraded nature. There was no remedy.”
+
+Omarshah !20
+certificate in the narrative as a way to emphasize how this recognition was powerful for someone
+who had previously no proof of legitimacy as a citizen or even as a human being in the United
+States.
+An emphasis is placed by Douglass on the fact that he had no documentation to mark his
+birth, age, family or existence. He describes how he has:
+…no accurate knowledge of my age, never having seen any authentic record containing
+it. By far the larger part of the slaves know as little of their ages as horses know of theirs,
+and it is the wish of most masters within my knowledge to keep their slaves thus
+ignorant.36
+Douglass highlights how slaveowners used knowledge of the histories of the slaves themselves
+as a form of control over the slaves. When Douglass describes his father, he refers to the
+knowledge as being hearsay or:
+He was admitted to be…the opinion was also whispered that my master was my father, but of
+the correctness of this opinion, I know nothing; the means of knowing was withheld from
+me.37
+Douglass emphasizes how not only was information regarding his father controlled by his
+master, but also by his immediate family. The acquisition and furthermore, conveying of
+knowledge is protected by the owner. The phrase “withheld from me” implies the knowledge was
+available to Douglass’ owner however, there was purpose in keeping it from Douglass.
+Garnering Sympathy From An Unsympathetic Audience
+36
+
+Douglass, Narrative of the Life of Frederick Douglass, 1.
+
+37
+
+Douglass, Narrative of the Life of Frederick Douglass, 1.
+
+Omarshah !21
+One of the intents for which slave narratives were written was to generate sympathy
+amongst a white audience. Douglass also lays out the custom of slavery in Maryland, where he
+lived, as being a place where:
+It is common custom...to part children from their mothers at a very early age. Frequently,
+before the child has reached its twelfth month, its mother is taken from it, and hired out
+on some farm a considerable distance off, and the child is placed under the care of an old
+woman, too old for field labor.38
+
+With this, Douglass creates empathy with the unknowing white reader, who can see how barbaric
+and inhumane it is to separate a mother from an infant. Douglass is using common cultural
+understandings as a means of generating an understanding of the cruelty slavery or a reader who
+has had no first-hand exposure to such practices. Henri Brown uses the same tool when he
+describes the devastating moments in his life leading up to his escape, including being taken
+away from his mother at 15 years old to work on another plantation in Richmond. He describes:
+not having, during that time, seen, and very seldom heard from, my mother, my feelings were
+very much tried by the separation which I had thus to endure. I missed severely her welcome
+smile when I returned from my daily task; no one seemed at that time to sympathize with me,
+and I began to feel, indeed, that I really was alone in the world; and worse than all, I could
+console myself with no hope, not even the most distant, that I should ever see my beloved
+parents again. 39
+
+38
+
+Douglass, Narrative of the Life of Frederick Douglass, 2.
+
+39
+
+Brown, The Narrative of the Life of Henry Box Brown, 20.
+
+Omarshah !22
+Something as powerful as a separation of family members is a common scene that plays
+out in the narratives as it evokes a universal devastation. Brown will further go on to explain the
+pain his mother went through when her youngest child was taken from her. He describes how:
+It was not till after she had begged most piteously for its restoration, that she was allowed to
+give it one farewell embrace, before she had to let it go for ever.” Brown describes how, “this
+kind of torture is a thousand fold more cruel and barbarous than the use of the lash which
+lacerates the back; the gashes which the whip, or the cow skin makes may heal, and the place
+which was marked, in a little while, may cease to exhibit the signs of what it had endured,
+but the pangs which lacerate the soul in consequence of the forcible disruption of parent and
+the dearest family ties, only grow deeper and more piercing, as memory fetches from a
+greater distance the horrid acts by which they have been produced. And there is no doubt but
+they under the weighty infirmities of declining life, and the increasing force and vividness
+with which the mind retains the memoranda of the agonies of former years--which form so
+great a part of memory's possessions in the minds of most slaves— hurry thousands annually
+from off the stage of life.40
+Memories are forever, and many slave narratives emphasize how although they may be
+free, their horrific experiences stay with them. The act of being whipped is a universal image
+associated with slavery, even for a white audience, and to describe how the pain of losing one’s
+child is worse than being a victim of a whipping, highlights the devastation felt by a parent who
+is separated from their child.
+Christianity and Faith
+
+40
+
+Brown, The Narrative of the Life of Henry Box Brown, 16-17.
+
+Omarshah !23
+Frederick Douglass uses Christianity as a means to connect with the white reader of his
+narrative. His narrative paralleled the structure of early Christian narratives, where the main
+character’s soul progresses eventually reaching ‘heaven’, or in other words, freedom. This was a
+technique used by the narrator to connect the stories of African Americans who were enslaved
+with a white Christian audience. Douglass’ structure follows his recognition of the injustices of
+slavery from an early age, leading to his brutal experiences as an adult in chains, ending with his
+emancipation. He credits ‘divine Providence’ as the reason for his salvation/emancipation from
+slavery. He describes his being selected to move to Baltimore as being “the first plain
+manifestation of that kind providence which has ever since attended me, and marked my life with
+so many favors.”41 In this way, Douglass is reversing a former justification of slavery
+(Christianity) as being something that God would be against. In other words, if God is
+intervening to free a slave like Douglass, then does that mean that God is against slavery?
+Similarly, as mentioned in the introduction, Brown’s plan for his escape would come after he
+“felt my soul called out to heaven to breathe a prayer to Almighty God.”42 This would raise
+questions from the Christian readers, that if God was in support of Christianity, why would he
+answer the prayers of a slave asking to be freed? Brown himself would directly address this
+question as he asks:
+The advocates of slavery will sometimes tell us, that the slave is in better circumstances than
+he would be in a state of freedom, because he has a master to provide for him when he is
+sick; but even if this doctrine were true it would afford no argument whatever in favor of
+
+41
+
+Douglass, Narrative of the Life of Frederick Douglass, 18.
+
+42
+
+Brown, The Narrative of the Life of Henry Box Brown, 51.
+
+Omarshah !24
+slavery; for no amount of kindness can be made the lawful price of any man's liberty, to
+infringe which is contrary to the laws of humanity and the decrees of God.43
+
+Brown and Douglass both describe their faith as a source of strength to persevere through
+the brutal conditions of slavery. Christianity is an effective device in the narratives as it was a
+common justification of slavery now being described as a source for a slave’s endurance. A white
+reader at the turn of the century might perhaps consider if God agreed with slavery, then why
+would he also give the slaves strength? When Brown’s wife is eventually sold, despite her master
+promising him not to when he asked to marry her, he describes the tragic scene with references
+to heaven and God. He says:
+My agony was now complete, she with whom I had travelled the journey of life in chains, for
+the space of twelve years, and the dear little pledges God had given us I could see plainly
+must now be separated from me for ever, and I must continue, desolate and alone, to drag my
+chains through the world. O dear, I thought shall my wife and children no more greet my
+sight with their cheerful looks and happy smiles!....I seized hold of her hand while my mind
+felt unutterable things, and my tongue was only able to say, we shall meet in heaven! I went
+with her for about four miles hand in hand, but both our hearts were so overpowered with
+feeling that we could say nothing, and when at last we were obliged to part, the look of
+mutual love which we exchanged was all the token which we could give each other that we
+should yet meet in heaven.44
+
+43
+
+Brown, The Narrative of the Life of Henry Box Brown, 25.
+
+44
+
+Brown, The Narrative of the Life of Henry Box Brown, 44 - 47.
+
+Omarshah !25
+Thus, according to Brown, not only was God witnessing this tragic event, he was intending on
+reuniting Brown and his wife in heaven. The use of apostrophe here highlights Brown’s faith and
+call to a higher power for comfort through this experience. A scene like this would be relatable to
+a white audience as they could empathize with a marriage being divided.
+Alongside ideas of good and evil, come ideas of inflicting pain and suffering. It also calls
+to question how much a human’s soul, regardless of race, could take. Using Du Bois’ idea of this
+two-ness of mind, or looking at ones own identity through the eyes of the white oppressor,
+Douglass describes how the songs sung by slaves served a double purpose in healing the broken
+souls of the slaves. He says, “The songs of the slave represent the sorrows of his heart; and he is
+relieved by them, only as an aching heart is relieved by tears.”45 Douglass emphasizes how the
+songs were sung as a means of expressing “the bitterest anguish,” while at the same time acted as
+relief for “an aching heart.”46 Douglass tries to express the way in which he did not recognize or
+understand how these songs looked from the outside as he was himself, “within the circle, so that
+[he] neither saw nor heard as those with might see and hear.” 47 Having a two-ness of mind and
+spirit is expressed here as Douglass references being within and then following his emancipation,
+being on the outside of the circle of slavery. To an audience who once gave no credibility to a
+former slave to tell this story, Douglass highlights his own power, as he is able to understand
+both what it is like to be enslaved and then to be free.
+
+45
+
+Douglass, Narrative of the Life of Frederick Douglass, 9.
+
+46
+
+Douglass, Narrative of the Life of Frederick Douglass, 8-9.
+
+47
+
+Douglass, Narrative of the Life of Frederick Douglass, 8.
+
+Omarshah !26
+Finally, Douglass references the Du Boisian theory of double consciousness with the use
+of chiasmus as a rhetorical device. Chiasmus, or relating two clauses to each other in inverted
+parallelism, mirrors the two-ness of mind African Americans experienced when viewing their
+identities. For example, Douglass describes how his one master, Mr. Covey, tried to whip him
+but through Douglass’ resistance, he garnered some what of a respect from his white owner. He
+describes, using chiasmus, how “My long-crushed spirit rose, cowardice departed, bold defiance
+took its place; and I know resolved that, however long I might remain a slave in form, the day
+had passed forever when I could be a slave in fact.” 48 The inverted use of his view of his own
+enslavement highlights how he asserted his own self respect and desire “to be used so no longer”
+that he managed, in a system which prevented such, to gain power over his master. In this way,
+the use of the rhetorical device creates a sense of heroism to the act of defiance and creates
+empathy and almost encouragement for Douglass in this moment against the evil Mr. Covey.
+Douglass is trying to create anger and hatred for a white slave owner by a white reader. He is
+also highlighting how despite Mr. Covey’s view of him as his property, he viewed his own
+identity differently and asserted his self-worth as a way to achieve respect from a white man.
+As Box’s story became more widespread, it became clearer to a seemingly unknowing
+white audience that slaves would go to the furthest extent to be free. This fact rings true
+throughout many other slave narratives, too, although the emancipation stories in The Narrative
+of the Life of Frederick Douglass, An American Slave and Twelve Years a Slave: Narrative of
+Solomon Northup were not as extravagant as Box’s. All three narratives use various rhetorical
+devices to encourage support and sympathy amongst a white audience. Box would later move to
+48
+
+Douglass, Narrative of the Life of Frederick Douglass, 43.
+
+Omarshah !27
+England in order to avoid capture and re- enslavement following the Fugitive Slave Act, but
+would return to the United States in 1875 where he performed magic tricks, including using the
+famed box which he travelled in his acts. 49
+
+49
+
+Walls, Bryan, Dr. "Freedom Marker: Courage and Creativity." PBS. Corporation for Public
+Broadcasting, n.d. Web. 4 Nov. 2015. <http://www.pbs.org/black-culture/shows/list/underground-railroad/
+stories-freedom/henry-box-brown/>.
+
+Omarshah !28
+
+Chapter 2: “Twelve Years A Slave” and Reversing the Gaze
+Solomon Northup was born a free man in 1808 in Minerva, New York. Although his
+father, Mintus Northup, was born a slave, Mintus was able to acquire land, qualifying him to
+the right to freedom. Solomon acquired an education from his father, which as he describes as,
+“surpassing that ordinarily bestowed upon children in our condition.” (Northup 21) Solomon’s
+mother was classified as a ‘quadroon’, meaning she had one bi-racial parent (mixed black and
+white) and one white parent. The term originates from France, and was often used alongside
+other classifications such as ‘octaroon’ and ‘mulatto’, which differ in terms of the fractional
+quantity of ‘African’ of which one was made- up.50
+Northup worked for a timber transportation company in Lake Champlain, New York.
+He lived with his wife and children. Between his work contract, money earned playing the
+violin and his wife cooking in the kitchens of a coffee house, Northup describes how they
+“always returned home from the performances with money in our pockets…we soon found
+surveils in the possession of abundance, and, in fact, leading a happy and prosperous life.”51
+Using Frederick Douglass’ experience as a lens, Northup can be described as being outside of
+the ‘circle’ of slavery and the mindset of a slave.52
+Northup comes in contact with slaves who are traveling with their masters to
+
+50
+
+Clark, The Strange History of the American Quadroon: Free Women of Color
+in the Revolutionary Atlantic World, 2.
+
+51
+
+Northup, Twelve Years a Slave: Narrative of Solomon Northup, 25.
+
+52
+
+Douglass, Narrative of the Life of Frederick Douglass, 8.
+
+Omarshah !29
+Saratoga, where Northup eventually moves. He describes how “Almost uniformly I found
+they cherished a secret desire for liberty.”53 Northup portrays his shock that this was a
+‘secret’ as he recognizes:
+
+Having all my life breathed the free air of the North, and conscious that I possessed
+the same feelings and affections that find a place in the white mans breast; conscious,
+moreover, of an intelligence equal to that of some men, at least, with a fairer skin.54
+
+This revelation of having “the same feelings and affections” as white Americans shows just
+how outside the circle of slavery Northup was. Because of his separateness from slavery,
+however, his narrative also had the potential to resonate with a white audience in a special
+way. Northup’s being born a free man with a relative ‘outsiderness’ from the world of slavery
+in the South shows just how brutal an experience it was when he was kidnapped and then
+enslaved for twelve years. Northup had the unique experience of knowing he was a free man,
+being accepted and treated like an equal by many white counterparts and then having to
+‘learn’ a new identity when he was eventually enslaved. Northup describes how:
+I was too ignorant, perhaps too independent, to conceive how any one could be
+content to live in the abject condition of a slave. I could not comprehend the justice of
+that law, or that religion, which upholds or recognizes the principle of Slavery; and
+never once, I am proud to say, did I fail to counsel any one who came to me, to watch
+his opportunity, and strike for freedom.55
+
+53
+
+Northup, Twelve Years a Slave: Narrative of Solomon Northup, 26.
+
+54
+
+Northup, Twelve Years a Slave: Narrative of Solomon Northup, 27.
+
+55
+
+Northup, Twelve Years a Slave: Narrative of Solomon Northup, 27.
+
+Omarshah !30
+
+The notion that those who were still enslaved were ‘content’ with their ‘abject condition’
+emphasizes the ignorance Northup had regarding the life of a slave, prior to his own
+enslavement. However, Northup hints here how he advised where he could on potential
+escape plans with slaves of whom came in contact. Not only did Northup have the luxury of
+time to ponder why the law of slavery was unjust, but he also had the educational means to
+be able to question the justifications of slavery.
+Northup’s kidnapping was carried out by two white men claiming to be interested in
+hiring him for his violin playing abilities. According to the two men, they were affiliated with
+a circus in Washington and would pay Northup daily for his services to them. Northup, excited
+by the high paying wage offered, packed his bags and left with the men. Northup's wife and
+children were away working in Troy, New York still, and thus Northup did not inform her
+where he was being employed. In fact, Northup was sure he would be back in New York soon,
+and so did not write to his wife to say where he was headed. This was an unfortunate decision
+as Northup would not see his wife for twelve years. 56
+The peculiarity of the justifications of slavery was not shared only amongst the
+uneducated. In 1815, Thomas Jefferson drew up a rubric to “clarify to an acquaintance the
+legal taxonomy of race.” He used an algebraic equation to describe the terms mulatto and
+quadroon:
+Let the first crossing be of a, pure negro, with A, pure white. The unit of blood
+56
+
+Northup, Twelve Years a Slave: Narrative of Solomon Northup, 29-30.
+
+Omarshah !31
+of the issue being composed of the half of that of each parent, will be a/2 + A/2. Call
+it, for abbreviation, h (half blood).
+
+Let the second crossing be of h and B, the blood of the issue will be h/2 + B/2
+or substituting for h/2 its equivalent, it will be a/4 + A/4 + B/2, call it q
+(quarteroon) being 1/4 negro blood.57This is important to note because
+Jefferson was an intellectual and if he could find a mathematical justification
+for slavery, then it is not surprising that southern white slave owners were
+doing the same. Northup himself remarks how,
+
+It is not the fault of the slaveholder that he is cruel, so much as it is the fault of the
+system under which he lives. He cannot withstand the influence of habit and associations
+that surround him. Taught from earliest childhood, by all that he sees and hears, that the
+rod is for the slave's back, he will not be apt to change his opinions in maturer years.58
+Thus Northup highlights how the indoctrination of the system of slavery was not solely from
+master to slave, but also the system and society itself teaching white children the expectations of
+them with their treatment of African Americans.
+Garnering Sympathy From an Unsympathetic Audience
+Solomon Northup acknowledges from the start of his narrative that his experience of
+slavery is limited solely to the twelve years he spent in its cruel clutches. He also recognizes the
+importance of commenting on the topic of slavery, both in the fictional manor in which poets,
+artists and authors are pursuing as well as personal narratives. However, he makes a key
+57
+
+Clark, The Strange History of the American, 1.
+
+58
+
+Northup, Twelve Years a Slave: Narrative of Solomon Northup, 206.
+
+Omarshah !32
+observation: Northup argues that although art does not have to be so faithfully founded in truth,
+readers of his narrative should consider “whether even the pages of fiction present a picture of
+more cruel wrong or severer bondage.”59 Northup’s post-liberation recognition that slavery has
+become a phenomenon amongst artists and authors, highlights his awareness that people of all
+walks of life are engaging in a discussion about the conditions of slavery. This is important to
+note as then one can analyze Northup’s narrative for devices that can be classified as
+‘advertisements for abolition’. In what ways does Northup shape his story so that a northern
+white reader can empathize with a slave’s suffering?
+Northup’s first Chapter describes his life as a free man prior to his kidnapping. He
+emphasizes his close relationships with white men in New York, often commenting on how kind
+and accepting they were of his and his wife’s business and personal endeavors. Whether it was
+promoting his violin playing in local restaurants or hiring his wife to cater at banquets of
+wealthy, well known families, he describes how he “entertained feelings of strong regard” for
+many of his fellow, white citizens.60 Northup uses his strong founded relationships with white
+northerners as a way of constructing an identity to which a white reader can relate. So we might
+ask: If a man of color is treated as an equal by white men in the north, why does this not exist in
+the South? Also, by expressing understanding for white men even after being enslaved, Northup
+is showing his ability to separate his anger at white slave owners and traders from white
+Northerners who do not have slaves. In doing this, the narrative reads as a criticism of the system
+and not a force of guilt for white northerners. Guilt is a powerful emotion that can quickly harden
+
+59
+
+Northup, Twelve Years a Slave: Narrative of Solomon Northup, 19.
+
+60
+
+Northup, Twelve Years a Slave: Narrative of Solomon Northup, 25.
+
+Omarshah !33
+the hearts of those experiencing it, Northup recognizes the value in harboring supporters of
+abolition on both sides of the color line.
+Northup describes how he was aware of his “intelligence [as] equal to that of some men,
+at least, with a fairer skin.” 61 This is an important comment to make as it counters notions of
+racial superiority as a man who was not born under the conditions of slavery was able to be just
+as educated and intellectually capable as a white man. Such a notion might register with a white
+audience and would advertise the notion that it is the system of slavery and oppression that limits
+a group of individuals from progressing in the world - not that they are biologically lacking.
+Similarly to Frederick Douglass, Solomon Northup dwelled, understandably, on the grief
+experienced from the separation of families within the slave trade. He describes his own struggle
+from the moment he was falsely imprisoned as a runaway slave. His depression included
+dreaming he was back in New York and that he could “see their faces, and hear their voices
+calling me.” This dream soon ended when he awoke and realized the “bitter realities around me”
+and could not “but groan and weep.”62 As a father and a husband, his depression and anguish at
+the separation from his family strikes a chord for any reader - both freed and unfree people have
+families.
+In the case that an audience may not be able to relate to this anguish, perhaps due to
+Northup being a man and a father as opposed to a woman and a mother, Northup includes a
+moving testimony of a female slave named Eliza. Not unlike Northup, Eliza had lived a
+
+61
+
+Northup, Twelve Years a Slave: Narrative of Solomon Northup, 27.
+
+62
+
+Northup, Twelve Years a Slave: Narrative of Solomon Northup, 47.
+
+Omarshah !34
+comfortable life prior to her being sold. Although she was born a slave, she was a favorite of her
+masters and had been described by Northup as:
+
+on condition of her living with him (her master), she and her children were to be
+emancipated. She resided with him there nine years, with servants to attend upon her,
+and provided with every comfort and luxury of life. 63
+
+Eliza had been given an education and “her air and manners, the correctness and propriety of her
+language - all showed, evidently, that she had sometime stood above the common level of a
+slave.”64 The vivid description of Eliza’s comfortable upbringing juxtaposed with her eventual
+separation from her children as her owner does not fulfill his promise to free her family, is a
+devastation that evokes a visceral response. Eliza’s love for her children shows as Northup hears
+her telling her children how “It would break her hear, God knew…if they were taken from her.”65
+Northup would eventually encounter Eliza later in his time enslaved and he described how:
+
+She had sunk beneath the weight of an excessive grief. Her drooping form and hollow
+cheeks too plainly indicated that she had well nigh reached the end of her weary road.66
+Northup's description of Eliza’s emotional trauma due to her barbaric working conditions and her
+depression from being separated from her children, garners sympathy as one is able to recognize
+the emotional as well as physical toll slavery took on those oppressed by it. It is important to
+63
+
+Northup, Twelve Years a Slave: Narrative of Solomon Northup, 53.
+
+64
+
+Northup, Twelve Years a Slave: Narrative of Solomon Northup, 50.
+
+65
+
+Northup, Twelve Years a Slave: Narrative of Solomon Northup, 51.
+
+66
+
+Northup, Twelve Years a Slave: Narrative of Solomon Northup, 107.
+
+Omarshah !35
+note that these slave narratives were important because they provided a medium to express an
+individuals history. In a sense, the narratives acted as family trees, testaments of existence,
+personal, social and cultural histories. They acted as markers of the passage of time in an
+individuals life. In many narratives, including Douglass’, the narrator expresses confusion
+regarding where and when they were born and who their parents were. Thus the narrative as a
+book symbolizes a personal archive of the individual who wrote it. The medium itself is an act of
+rebellion against notions of a denied history as the reader is forced to physically hold the
+contents of a slave’s life. It also forces the reader to acknowledge a past of a slave that was
+denied by slave owners. Thus the narratives were personal archives for slaves as well as a tool of
+rebellion against the systematic denial of the histories of slaves.
+
+Transition From Freedom to Slavery
+The transition from being a free man to being enslaved is particularly unique as Northup
+had been raised with an acceptance of his humanity. Northup’s father had earned his freedom
+through purchasing property, and thus his children were born free. They were educated and they
+were taught that through hard work, one can live comfortably alongside white Americans.
+African Americans like Frederick Douglass were born into slavery and experienced at a young
+age the projected identity of being less than human by their white oppressors. Northup had to be
+convinced of a lesser personhood.
+The word convinced is purposefully used here because Northup had sense of his own
+identity that he had built for himself. This identity included being a family man, a violinist, a
+timber trader and in many circumstances, an intellectual equal (and in many ways superior) to
+
+Omarshah !36
+the white northerners he encountered. When he was sold into slavery, he expressed how “I had
+reached a turning point in my existence - reached the threshold of unutterable wrong, and sorrow,
+and despair.”67 Northup expresses a change in his ‘existence’ which reveals, at least within the
+context of slavery, that Northup felt his existence rejected as soon as he was enslaved.
+Furthermore, Northup uses weather imagery to illuminate feelings of a loss of identity when he
+describes approaching a:
+
+shadow of the cloud, into the thick darkness whereof I was soon to disappear,
+thenceforward to be hidden from the eyes of all my kindred, and shut out from the sweet
+light of liberty, for many a weary year.68
+
+The words ‘shadow’, ‘darkness’, ‘disappear’, ‘hidden’ and ‘shut out’ juxtapose against the image
+of “the sweet light of liberty”. They also create notions of invisibility and a lack of recognition or
+human acknowledgement, notions that Northup struggled to absorb coming from the life of
+freedom and fulfillment he had in New York.
+
+Language of Runaway Slave Advertisements
+Runaway Slave Advertisements were narratives in and of themselves. They are especially
+interesting to compare to the narratives of Frederick Douglass and Solomon Northup as they
+‘reverse the gaze’. The phrase ‘the gaze’ refers to W.E.B. Du Bois’ theory of double
+
+67
+
+Northup, Twelve Years a Slave: Narrative of Solomon Northup, 27.
+
+68
+
+Northup, Twelve Years a Slave: Narrative of Solomon Northup, 27.
+
+Omarshah !37
+consciousness or “looking at oneself through the eyes others.”69 In considering the
+advertisements written by white slave owners, one is able to see the slaves through the eyes of
+their owners. Notions of projected identities become apparent as the clear disconnection of
+understanding between slave owner and slave is revealed. The advertisements were written to aid
+in the identification and recapturing of escaped slaves. Slave owners wrote detailed physical
+descriptions of the individuals and in these descriptions they projected personality traits that
+might be “recognizable” by a stranger. This is where such a disconnect between slave and owner
+becomes apparent. Many positive qualities of the people described are often twisted and used as
+criticisms due to the fact of their successful escape. The advertisements become narratives of
+undeservedly demonized individuals. A perhaps not surprising outcome arises when comparing
+these two sets of documents: the words chosen by the former slaves to describe their white
+oppressors is the same as the words chosen by their white oppressors to describe them. Thus an
+identity is projected onto the slaves by slave owners.
+The archives of the regions Washington D.C., Virginia and Maryland are the most
+extensive in the country and thus have a significant number of original runaway advertisements
+that are digitized for public access. For this reason, the advertisements considered will be taken
+from The Geography of Slavery in Virginia project facilitated by the University of Virginia.70 As
+it so happens, Henry “Box” Brown and Solomon Northup were enslaved in Virginia and
+Frederick Douglass was born and lived during his time in slavery in Maryland. An example of a
+Runaway Slave Advertisement where a projected identity can be seen is one published on May
+69
+70
+
+Du Bois, The Souls of Black Folk, 8.
+
+"District of Columbia Daily Advertiser (J. and J. D. Westcott), District of Columbia, May 27, 1800."
+Virginia Center for Digital History. U of Virginia, 2005. Web. 10 Apr. 2016. <http://
+www2.vcdh.virginia.edu/gos/search/relatedAd.php?adFile=vg1800.xml&adId=v1800050009>.
+
+Omarshah !38
+27th, 1800 by the District of Columbia Daily Advertiser. Below is the transcript of the full
+advertisement:
+Stop the villain! RAN away from the subscriber the 12th of May, 1800, a likely negro
+man, named HARRY. 5 feet 8 or 9 inches high, aged 36 or 37 years; he has generally a
+down look; his complexion is of a brown, his hair longer than negroes usually wear it,
+and he is bowlegged, though active and well made. For some years past he lived at the
+Occoquan Mills. He has lived in Alexandria, and was there in January, February, and
+March, 1799, working with one Turner, a carpenter, or house joiner--His trade is that of a
+carpenter, though he has worked frequently at the House joyner's, ship carpenter's & mill
+right's business, and from his understanding and ingenuity, is capable of doing good
+work at either, when attended to. I expect he will forge pass and go off and hire himself,
+as he can write an indifferent hand. He calls himself Henry Brown. All persons, and
+particularly tradesmen with masters and owners of vessels, are cautioned against
+harboring, employing, taking on board, or carrying off said negro, and will prosecute all
+such with the utmost rigour. Any person who will apprehend the said Negro Harry, shall
+receive the following rewards, to wit, TEN DOLLARS if taken up within 20 miles of the
+town of Dumfries, in the county of Prince William, and state of Virginia, and either
+secured in the prison of the said county, so that I get him, or delivered to me at my place
+of residence in the said county and state; TWENTY DOLLARS, if taken up more than
+twenty, and within thirty miles of the aforesaid town, and secured in the prison of the
+county where taken, so that I get him, or delivered to me as aforesaid, FIFTY
+DOLLARS if taken out of the state or more than thirty miles from the aforesaid town,
+within the state, to be secured in prison, so that I get him, or delivered to me. Bertrand
+Ewell. May 27, 1800.71
+
+71
+
+"District of Columbia Daily Advertiser (J. and J. D. Westcott), District of
+Columbia, May 27, 1800." Virginia Center for Digital History. U of
+Virginia, 2005. Web. 10 Apr. 2016. <http://www2.vcdh.virginia.edu/gos/
+search/relatedAd.php?adFile=vg1800.xml&adId=v1800050009>.
+
+Omarshah !39
+The advertisement begins with the line “Stop the villain!”, immediately drawing attention to the
+urgent tone. The use of the word ‘villain’ is purposefully chosen to create an unnerving feeling
+amongst the people reading the section of the daily advertiser. The imperative voice also unifies
+those reading to take a stand against said ‘villain’. Towards the end, there is even a word of
+caution to tradesmen from ‘harboring’ the runaway slave, invoking images of a fugitive who
+could turn on those who attempt to hide him at any moment. The advertisement continues by
+describing the physical and personality traits of the individual, describing how, “He has generally
+a down look; his complexion is of a brown, his hair longer than negroes usually wear it, and he is
+bowlegged, though active and well made.”72 The description is loaded with projections and
+insight into the relationship between slave and owner. The owner describes the individual as
+having ‘a down look’, as if it is particularly shocking for a slave to look depressed at the
+condition he is forced to live in. This highlights the disconnect between slaveowners and their
+slaves as the author of this advertisements believes that a slave who looks sad or depressed
+would be particularly remarkable. The comparison of the man’s hair as being “longer than
+negroes usually wear it”, shows some form of recognition that the owner could distinguish the
+man described from his other slaves. The phrase ‘well made’ conjures notions of property and
+the projected objectified identity slave owners placed on their slaves. Instead of describing a
+man, the owner is describing a ‘villain’, instead of describing a human being, the owner is
+describing a ‘well made’ object. This is furthered when the advertisement states, “he calls
+himself Henry Brown.” as opposed to his name is Henry Brown, (Not to be confused with Henry
+“Box” Brown). The recognition of the name and therefore identity of “Henry Brown” shows a
+72
+
+"Explore Advertisements." The Geography of Slavery in Virginia. The Rector and Visitors of the
+University of Virginia, n.d. Web. 7 Mar. 2016. <http://www2.vcdh.virginia.edu/gos/index.html>.
+
+Omarshah !40
+victory for the runaway, as his owner is forced to acknowledge his former slaves’ own sense of
+self in order to best be able to recapture him. The advertisements considered here are evidence of
+just how peculiar an institution of slavery was in that these details reveal the at time intimate and
+human knowledge that slaveholders would have about their slaves. The details indicate a care for
+another being, at least for their appearance if not for their status as equal or as property.
+The word ‘active’, as becomes apparent upon reading various advertisements, shows a
+direct correlation to the value of the slave in question. The more hard working and ‘active’ the
+person is described, the higher the reward value for the returning of the slave to the owner. Thus
+there was another identity projected onto slaves; their monetary value to their owners. If
+individuals such as, “Henry Brown’ were to have read their own advertisements, they firstly
+would most likely avoid trying to match the descriptions, however vague, of their
+advertisements, and secondly, would be able to see inside the minds of their former owners with
+regard to how they were viewed.
+Henry Brown’s former owner provides increased reward amounts based on where Brown
+is captured; the further away he is captured, the more money rewarded. This shows how valuable
+Brown is to his owner. The advertisement forces slave owners to publicly express how much the
+runaway individuals’ are worth to them. Although it is with the intention of recapturing and reenslaving the people described, there has to be a certain amount of ‘give’ expressed by the owner
+in order for people to feel motivated to look for said individuals. Furthermore, the demonization
+of the individuals, for example calling Henry Brown a ‘villain’, is a way of incentivizing the
+capture of the individuals without having to directly recognize that the runaways were
+impressively able to escape their dire conditions. Three questions are raised in response to these
+
+Omarshah !41
+notions, at least by a reader in the time period who may consider searching for the individuals
+described; the first is, if the runaway slave is such a ‘villain’ and should be treated with ‘caution’,
+then why would an owner want him or her back? The advertisement uses the phrases “so that I
+get him” and “delivered to me” a total of six times, highlighting the desire for said runaway to be
+returned. Secondly, if the ‘active’ individual does do ‘good work’ and is so educated for his
+situation, then what would drive him/her to runaway? Finally, in what ways does the
+manipulation of physical detailed description and discrediting of impressive talents and skills of
+the slaves by their owners reveal the unstable grounding of the justification of racial superiority?
+These questions are important because they show how the advertisements, when considered as
+narratives themselves, reveal hypocrisies and projected identities that empower instead of
+discredit the escaped slaves described.
+The authors of the advertisements do not consider the possibility that such detailed
+advertisements could lead to the further disguising and disappearing of the runaway in question.
+Brown’s advertisement reads, “I expect he will forge pass and go off and hire himself, as he can
+write an indifferent hand” as well as includes other somewhat complimentary skills such as
+having “understanding and ingenuity”. The mention of impressive qualities, such as being able to
+read and write, are often twisted to form an image of someone deceptive and conniving, rather
+than clever and capable of success as a free man. The tone is so dismissive and hateful, both of
+the slave’s escape and of their having developed faculties that might indeed aid in their lives
+away from their owner. For example, Brown is already being accused of forging another man’s
+handwriting, solely because he has the ability to write. To use a phrase from historian David
+Waldstreicher, the author’s of the advertisements twisted the talents of the runaways to become
+
+Omarshah !42
+‘profitable contradictions’. 73 What was profitable was to demonize the particularly educated and
+talented runways as if they would become a problem to society. Once again, this can be seen as a
+success as the mere acknowledgement by the owner of the skills of his former slave, uplifts the
+individual’s self-forged identity.
+An advertisement such as this could have been used to describe Frederick Douglass or
+Solomon Northup. Both gentleman were ‘active’, hardworking, intelligent and talented in many
+ways other than in their ability to perform physical labor. Had either of these individuals seen the
+descriptions of themselves by their former owners, they would have experienced a rather literal
+form of Du Boisian double consciousness having seen themselves through the eyes of another.74
+Douglass, having managed to step out of the circle of slavery and experienced what it was like to
+be a free man, would be able to separate the projected identity imposed by the slaveholding ads
+from the one is he creating and gathering for himself. Northup would see the projections of
+descriptions he would have used to describe his particularly harsh masters, rather than himself.
+The story of slavery had, up until slave narratives, been expressed solely through the eyes of the
+slave-owners. If former slaves were able to write, a new perspective and therefore a new
+narrative of slavery could be told.75 The voice of the oppressed would garner a visceral and
+sympathetic response from a reader who had not considered their perspective.
+Perhaps Northup did see runaway slave advertisements, and thus inspired the language
+used in his narrative. In fact, Northup’s descriptions of his owners have similar structures and
+
+73
+
+Waldstreicher, "Reading the Runaways: Self-Fashioning.” 247.
+
+74
+
+Du Bois, The Souls of Black Folk, 8.
+
+75
+
+Williams, Heather Andrea. Self-taught: African American Education in Slavery and
+Freedom. Chapel Hill: University of North Carolina Press, 2005. 7.
+
+Omarshah !43
+language to the runaway slave advertisements. However, Northup’s descriptions are much more
+detailed and therefore more convincing than the poorly portrayed runaway advertisements. An
+example can be seen in his description of his second owner, Edwin Epps, whose erratic behaviors
+due to his constantly drunk state, lead him to take pleasure in the beating of his slaves. Northup
+reveals:
+Edwin Epps, of whom much will be said during the remainder of this history, is a large,
+portly, heavy-bodied man with light hair, high cheek bones, and a Roman nose of
+extraordinary dimensions. He has blue eyes, a fair complexion, and is, as I should say,
+full six feet high. He has the sharp, inquisitive expression of a jockey. His manners are
+repulsive and coarse, and his language gives speedy and unequivocal evidence that he
+has never enjoyed the advantages of an education. He has the faculty of saying most
+provoking things, in that respect even excelling old Peter Tanner. At the time I came into
+his possession. 76
+
+The detailed descriptions of Epps’ physical features, such as he is ‘heavy-bodied’ and has ‘a
+Roman nose’ highlights the perceptive nature of Northup to read people. In many ways, although
+the runaway slave advertisements were attempting to be accurate, they were not half as specific
+and clear as Northup’s of his owners. Unlike the advertisements, Northup’s portrayal of the cruel
+and uneducated nature of Epps is eloquent and impressive. It raises the question of if a former
+slave can recount such an exact description of his owner years after being separated, why could
+not a slave owner, who has incentive to recapture his slave, recount notable features of a slave
+who has only escaped for a few days? Furthermore, Northup’s narrative transforms into a fact-
+
+76
+
+Northup, Twelve Years a Slave: Narrative of Solomon Northup, 162-163.
+
+Omarshah !44
+ridden advertisement for abolition as he accounts for the unjustified acts of cruelty performed by
+his owners. Northup even quotes his former masters, describing how:
+
+When "in his cups," Master Epps was a roystering, blustering, noisy fellow, whose chief
+delight was in dancing with his "niggers," or lashing them about the yard with his long
+whip, just for the pleasure of hearing them screech and scream, as the great welts were
+planted on their backs. When sober, he was silent, reserved and cunning, not beating us
+indiscriminately, as in his drunken moments, but sending the end of his rawhide to some
+tender spot of a lagging slave, with a sly dexterity peculiar to himself. 77
+
+By directly quote Epps, Northup is not only highlighting the cruelty of a master who is a cruel,
+drunkard, but also that he remembers so vividly his time in slavery. The words ‘sly’, ‘silent,
+reserved, and cunning’ are all highly common words that appear in the runaway slave
+advertisements to describe slaves. Yet the advertisements reveal no evidence for these
+characteristics other than assumptions made from vaguely described physical features and the
+fact that the slaves successfully escaped. Runaway slave advertisements consisted of a few
+common elements: “a description of the runaway information to hasten the runaway’s capture,
+the reward offered, and the name of the person placing the ad (“subscriber”)”. 78 A white reader of
+Northup’s narrative will most definitely have encountered runaway advertisements.
+Northup describes his feelings of viewing himself through the eyes of his white
+oppressors on many occasions. During negotiations of the buying and selling of slaves, slaves
+77
+
+Northup, Twelve Years a Slave: Narrative of Solomon Northup, 163.
+
+78
+
+"Run away from the Subscriber." National Humanities Resource Toolbox. Accessed
+May 1, 2016. http://nationalhumanitiescenter.org/pds/maai/enslavement/text8/
+virginiarunawayads.pdf.
+
+Omarshah !45
+were ‘showcased’ and put on display, with their positive qualities highlighted by their owners so
+as to attract a higher price for them. In some cases, companies would create mass showrooms to
+present the slaves. As described by the scholar Walter Johnson:
+
+As it became clear that there was a great deal of money to be made buying, transporting,
+and reselling slaves, a set of highly organized firms emerged to compete with the
+footloose speculators. Their firms maintained offices, complete with high walled jails
+that could house as many as a hundred slaves at a time, large yards where the human
+property could be exercised, and showrooms where interested buyers could question and
+examine the people they hoped to purchase. 79
+
+Northup describes a similar scene where his master Edwin Epps puts him on display for another
+man and speaks of him as if he was not standing right next to him. Epps takes hold of Northup’s
+arm and lists all of Northup’s talents, emphasizing how “he isn’t like others” and how he
+“doesn’t look like ‘em - don’t act like ‘em.”80 Epps uses phrases such as “have him”, “put
+together” and “got the muscle in him” emphasizing the way in which Epps viewed Northup as
+property and not a human being. Northup in the eyes of Epps was ‘made’ well, as if he were
+created in a factory, rather born into the world with a family. In reducing a man to an
+accumulation of parts and skills, it becomes simpler to almost calculate the man’s worth. The
+viewing of slaves as solely a sum of their parts and not for the complexities as human beings
+becomes apparent in the runaway advertisements, too. The advertisements jump from physical
+trait to physical trait, from personality assumption to future action guess. The advertisements, in
+79
+
+Johnson, River of Dark Dreams: Slavery and Empire in the Cotton Kingdom, 41.
+
+80
+
+Northup, Twelve Years a Slave: Narrative of Solomon Northup, 283.
+
+Omarshah !46
+this way, cannot be seen as narratives as they themselves are merely a sum of unconnected parts.
+Whereas Northup’s description of Epps is a series of observations that match actions that
+Northup has witnessed. However, based on the definition of advertisement given at the start of
+the paper, Northup’s narrative can be seen as an advertisement as he is drawing attention to a
+cause and experience with the hopes of informing and motivating his reader to support abolition.
+The man, Bass, responds to Epps that he cannot see the talents that Epps describes, at
+least physically. Epps then encourages Bass to feel Northup, as if this this would indicate
+Northup’s worth. Bass, perhaps unintentionally, highlights the limitation of a physical
+appearance as a representation of a human being.
+The runaway advertisements act as narratives for the projected and limited view slave
+owners had of their slaves as complex individuals. Northup’s description of Bass furthers this
+notion of the limitations of representing an individual completely through a written account of
+another person’s observations. Even Northup’s narrative, despite being written by Northup
+himself, cannot be considered a full account of Northup’s layers of identities.
+Northup's account of Epps compared to his account of Bass is completely different and
+thus reveals how Northup valued Bass as someone who’s “true heart overflowed with noble and
+generous emotions.” Northup expresses how he owes “an immeasurable debt of gratitude” to
+Bass and that “Only for him, in all probability, I should have ended my days in slavery.”
+Northup’s observations regarding Bass’ physical appearance is minimal where Northup
+recognizes “It will be difficult to convey a correct impression of his appearance or character.”81
+This implies that those who were kind and valued by Northup are given the respect of not even
+
+81
+
+Northup, Twelve Years a Slave: Narrative of Solomon Northup, 264.
+
+Omarshah !47
+attempted description of their physical attributes. In a way, Northup honors their identities by not
+writing a ‘runaway advertisement’ for them. Northup carries with him years later the “look of
+recognition and significance” given to him by Bass. 82
+Northup's narrative where he describes both his white oppressors and white allies shows
+striking similarities and important differences to runaway slave advertisements. He recognizes
+the limiting nature of trying to encapsulate an entire being in one short description when he
+discusses his allies. When comparing his narrative to the advertisements, it becomes apparent
+that the information and personality traits described in the runaway advertisements are based on
+assumptions and unjustified leaps made by disgruntled slave owners.
+
+82
+
+Northup, Twelve Years a Slave: Narrative of Solomon Northup, 284.
+
+Omarshah !48
+
+Chapter 3: Coding and Reading Texts with Python
+While performing a frequency analysis on a document as historically rich and
+emotionally moving as a slave narrative, there is much of information that cannot be gleaned
+from the narratives. Just as the runaway advertisements attempt to portray a ‘full’ account of the
+people they describe and fail, the authors of slave narratives purposefully resist fully revealing
+their experiences and parts of their identities. They keep stories to themselves that the reader will
+never know and this prevents the reduction of humans to an object — in this case a book.
+Whether it was keeping information out of the narratives for the protection of future slaves
+escaping in the same way or whether it was for the sake of guarding an identity that was so often
+minimized, Frederick Douglass and Solomon Northup’s narratives can be seen as literary
+arguments against quantification of the human body. The conversion of human being to value
+cannot draw meaning and similarly, the performance of a frequency analysis cannot represent the
+identities of Douglass and Northup. For this reason, I argue that the two narratives considered
+can be seen as ‘resistance narratives’ as they reflect the parts of the identities that cannot be
+quantified and therefore reduced. There are also parts of a written form narrative that are limiting
+in the sense that due to the low literacy rate amongst slaves, many slaves perfected the art of oral
+tradition. Slaves had, at least according to historian Robert B. Stepto, “a fairly well developed
+version of his or her tale either memorized or (more likely) sufficiently patterned for effective
+presentation, even before the question of written composition was entertained”.83 This adds
+
+83
+
+Stepto, Robert B. From behind the Veil: A Study of Afro-American Narrative.
+Urbana: U of Illinois P, 1979. 9
+
+Omarshah !49
+another layer of potentially lost information, experience and emotion when a former slave
+presents his/her story in written form.
+It is important to address the procedure used for analyzing both texts, The Narrative of
+the Life of Frederick Douglass, An American Slave and Twelve Years a Slave: Narrative of
+Solomon Northup through a computer program. In the same way that reading a narrative about a
+person’s life or experiences being enslaved does not encapsulate the entire identity of said
+person, running a text through a machine that spits out numbers does not either. Frederick
+Douglass and Solomon Northup had lives outside of the narratives they wrote about their lives.
+The purpose of performing this ‘experiment’ of using code to calculate the frequency of and
+association with certain words, is to analyze the moments where Douglass and Northup
+recognize themselves as human beings. In teaching a computer how to ‘close read’ a text,
+important information is gleaned regarding a layer of the identity of Douglass and Northup.
+Through the close reading of the Runaway Slave Advertisements, disconnects between master
+and slave understanding becomes apparent.
+Slavery was a reduction of human voices into numbers and values. It is important to note
+that this is not the intention of the project nor is it the intention to make claims regarding fully
+understanding Frederick Douglass and Solomon Northup as individuals. This experiment
+stemmed from curiosity of the potential of the digital humanities and computer generated
+analyses to reveal further information from the texts, that could be missed through manual close
+reading. Although close reading of a key passage ‘manually’ can be telling in terms of rhetorical
+devices such as metaphors, imagery, repetition etc, there are certain patterns that are missed from
+this method of analyzing. There are characteristics of the voices performing their narratives that
+
+Omarshah !50
+the program cannot read, and it is these characteristics that add to the complex identities of
+Frederick Douglass and Solomon Northup.84
+There is significant stigma surrounding the idea of using technology to analyze literature.
+As described by Alan Liu, Professor in the Department of English at UC Santa Barbara, the
+stigma arises not from mining texts for word frequencies and associations, but rather what to do
+with such information and how to extract meaning from this information. Liu considers Ryan
+Heuser and Long Le- Khac’s A Quantitative Literary History of 2,958 NineteenthCentury British
+Novels: he Semantic Cohort Method (2012) 85, where Heuser and Le-Khac ask major questions
+within the field of the digital humanities:
+
+The general methodological problem of the digital humanities can be bluntly stated:
+How do we get from numbers to meaning? The objects being tracked, the evidence
+collected, the ways they’re analyzed—all of these are quantitative. How to move from
+this kind of evidence and object to qualitative arguments and insights about humanistic
+subjects—culture, literature, art, etc.—is not clear. 86
+
+Thus, various challenges arise from using technology to ‘read’ a text for meaning. One of the
+first challenges encountered when using Python to mine the narratives by Douglass and Northup
+
+84
+
+For more on slave narratives as performance see:
+Stepto, Robert B. From behind the Veil: A Study of Afro-American Narrative.
+Urbana: U of Illinois P, 1979.
+85
+
+86
+
+Liu, Alan. "What is the Meaning of the Digital Humanities to the Humanities?"
+Modern Language Association International Bibliography on InfoTrac. Last
+modified 2013. Accessed April 22, 2016. http://www.mlajournals.org/doi/pdf/
+10.1632/pmla.2013.128.2.409.
+Liu, "What is the Meaning.” 411.
+
+Omarshah !51
+was looking for figurative language. How does one ask a computer to locate each moment an
+author refers to the concept of ‘self’ or ‘identity’, for example, when the majority of such
+references are through imagery, symbols and metaphors. The next challenge was how to analyze
+information that was provided in such vast amounts. For example, the word ‘self’ appeared over
+125 times in Frederick Douglass’ narrative, and that was including words such as ‘himself’,
+‘herself’ and ‘myself’. Thus specific programming had to be put into place to search for the word
+‘self’, but only when there was a space before the letter ’s’ and after the final letter ‘f’. Finally,
+the selection process of the words that the program was asked to find had a sense of an ‘observer
+affect’. Almost as if the text was read differently because I was finding exactly what I was
+looking for.
+Alan Liu referred to the phrase ‘distant reading’ which, in the case of the narratives
+considered through the eyes of a computer program, seemed applicable. When one ‘manually’
+close reads a text, various themes and rhetorical devices are extracted. Simultaneously, before
+one even begins the novel, there are no specific expectations of words that would most
+frequently appear together. Perhaps the reader has heard of the author and has a sense of the
+genre, a few general themes and the first name of the main character in mind from prior
+discussion. However, generally speaking the initial engagement with the text is ‘pure’. When you
+perform frequency analyses to mine a text for specific words, there is a possibility for
+information to be missed. At the same time, there are possibilities with technology which could
+also be ‘missed’ when reading manually. For example, it is difficult to keep track of sentence
+structure, in particular, the usage of prepositions when you are reading a text manually. With a
+
+Omarshah !52
+program such as Python, you can command for the computer to consider the number of words
+that surround prepositions such as ‘for’ and ‘after’.
+The experiment that I conducted with the help of a computer science student87 involved
+programming Python to calculate the number of times a list of words was used in the narratives
+of Frederick Douglass and Solomon Northup and the Runaway Slave Advertisements. The
+‘programming’ itself involved teaching the computer how to ‘read’ a text. The first step was to
+ask it to ‘clean’ the text of punctuation by commanding for it to replace apostrophes, exclamation
+marks, periods…etc in each ‘string’ (word) with a blank space. Next, I wrote out a list of words
+that the program would count appeared in each of the texts.88 The first experiment split the
+Frederick Douglass’ and Solomon Northup’s narratives in half, and calculated the number of
+times the word (and variants of the word) ‘I’ appeared in the first half of the narrative as
+compared to the second half. The second experiment calculated the number of times a list of
+words appeared in the Runaway Advertisements as compared to the two narratives each as a
+whole.
+The process of word selection to create a list to mine the narratives was based on W.E.B.
+Du Bois’ theory of double consciousness which, as mentioned in previous chapters, describes the
+viewing of oneself through the eyes of an other.89 I was interested in comparing the words used
+to describe the runaway slaves in the advertisements by white oppressors to those used by
+Frederick Douglass and Solomon Northup to describe themselves. In this way, I would consider
+87
+
+Alexander Goodlad was my coding expert. It was particularly telling explaining how I wanted the
+computer to ‘sort’ through the texts and then having Alex translate this into Python (a computer
+language).
+88
+89
+
+See Figure 2 in Appendix
+Du Bois, The Souls of Black, 8.
+
+Omarshah !53
+if the projection of the slave identity by ‘an other’ onto a slave was internalized by slaves such as
+Douglass and Northup. I also kept in mind David Waldstreicher phrase of ‘profitable
+contradictions’90, where talents that slaves developed that would help them in their escape of
+their masters clutches were manipulated by slaveowners in the advertisements to seem like
+negative traits. For example, a slave who could read and write would be described as capable of
+forging a signature. The words that were selected were an accumulation of adjectives, ad-verbs
+and verbs which were projected onto runaway slaves from a series of advertisements. 91 They
+were: smooth, cunning, clever, active, changed, disguise, alter, attempt, artful, imposter, good,
+bad, abscond, lying, lie, remarkable, lurking, sly, tolerable, existence, identity, expect, believe,
+suspect and likely. The words ‘believe’, ‘suspect’, and ‘likely’ were chosen because many of the
+descriptions of slaves in the advertisements were unjustified and mostly guesses at characteristics
+many of the individuals did not actually possess. Furthermore, due to the notion of ‘profitable
+contradiction’92 occurring, positive attributes were manipulated to sound villainous.
+The results of the first experiment revealed important information regarding when in the
+plot of the narratives both Douglass and Northup began believing themselves to be people. This
+was tested by calculating the quantity of times the word ‘I’ was used in each section of the
+narratives. Douglass, who was born into slavery, was taught from young that he was considered
+less than human compared to his white counterparts. The first half of his narrative describes his
+time in slavery. The latter half describes his time post emancipation. Thus, the expected results
+would be that Douglass would refer to himself as ‘I’ less times in the first half of his narrative in
+90
+
+Waldstreicher, "Reading the Runaways: Self-Fashioning.” 247.
+
+91
+
+See Figures 3 - 8 in Appendix
+
+92
+
+Waldstreicher, "Reading the Runaways: Self-Fashioning.” 247.
+
+Omarshah !54
+comparison to the second half. This in fact proved to be true. In the first half of Douglass’
+narrative, the word ‘I’ appeared 358 times and in the second half it appeared 671 times. That
+means Douglass referred to himself as ‘I’ almost twice the number of times in the latter half of
+his narrative than in the first part.93 This outcome reflects the plot and the theory of Double
+Consciousness94 as Douglass was viewing himself through the eyes of his white oppressors
+during his time in slavery. The slave identity projected onto him consisted of notions of
+dehumanization and racial inferiority. If Douglass viewed himself as less than human then that
+would mean he would seldom use ‘I’ to express himself. In using ‘I’ almost double the number of
+times when he was free, Douglass is acknowledging himself as not only a human but also a voice
+worth hearing in the writing world.
+However, it is neither fair nor accurate to portray Douglass as someone who internalized
+the slave identity projected onto him solely because he was born into slavery. What led to
+Douglass’ desire to seek freedom was his restlessness at the fact that he was given less than what
+he was owed, in both in terms of treatment and payment for his labors for his owners. He
+portrays how:
+I could see no reason why I should, at the end of each week, pour the reward of my toil
+into the purse of my master….The fact that he gave me any part of my wages was proof,
+to my mind, that he believed me entitled to the whole of them. 95
+
+93
+
+See Figure 9 in Appendix
+
+94
+
+Du Bois, The Souls of Black, 8.
+
+95
+
+Douglass, Narrative of the Life of Frederick Douglass, 57.
+
+Omarshah !55
+Douglass felt entitled to more in his life even while he was still a slave. His feelings of
+uneasiness at receiving just a part of his own wage reveals that individuals who were born into
+slavery did not internalize their subjected roles. Douglass will go on to describe how he was told
+to set “aside my intellectual nature, in order to contentment in slavery” by a slave owner who
+suspected him of trying to escape.96 In other words, even white slaveowners at the time admitted
+that in order to find peace with slavery as a system, one had to ignore one’s intellectual nature.
+Expectations regarding Northup’s usage of the word ‘I’ can be considered differently
+because he was born a free man. Northup’s time in slavery was over twelve years in his adult
+life. The majority of the first half of his narrative Northup is discussing his life as a free man and
+the history of his family. For this reason I predicted that the use of the word ‘I’ would be
+significantly greater than the second half of the narrative where he is discussing his experiences
+in slavery. This hypothesis matched the results, however not with a significant difference
+between the values. Northup used ‘I’ 751 times in the first half of his narrative and 628 times in
+the second half. Northup resisted many of his masters’ attempts at projecting an inferior identity
+onto him and in many ways used skills he learned as a free man as a means to better his life in
+chains. Therefore, Northup’s use of the word ‘I’ consistently throughout his narrative reflects
+how he did not internalize the projected slave identity during his time in slavery. In other words,
+if the reference of oneself as ‘I’ is a reflection of a belief in one’s own ‘humanness’, then
+Northup maintained the belief that he was a person and not property.
+With regard to the results of the words used in the runaway advertisements to describe the
+slaves as compared to the words chosen by Northup and Douglass to describe their masters as
+
+96
+
+Douglass, Narrative of the Life of Frederick Douglass, 58.
+
+Omarshah !56
+well as their own identities, there were a few important findings. The words that most appeared
+in Douglass narrative which were shared amongst the runaway advertisements were ‘clever’,
+‘believe’,’bad’ and ‘suspect’. The circumstances in which the word ‘suspect’ appears in Douglass
+narrative as compared to the runaway advertisements are particularly powerful as Douglass uses
+it to describe his owners’ potential behaviors. The first time it appears, Douglass references how
+the wives of owners who have children with their slaves are suspicious of their husbands
+showing favor to the children.97 The next time, Douglass portrays how his one owner, Anthony,
+was never suspected of being a virtuous man.98 The third appearance of the word ‘suspect’
+revealed how Colonel Lloyd, Douglass’ other owner, only had to ‘suspect’ a slave of neglecting
+his horses and they would receive “the severest punishment; no excuse could shield them” 99 All
+three of these interactions describe the lack of humaneness white slave owners had at the time,
+but more than this, it reveals the lack of Christian values that the owners were displaying. The
+word ‘suspect’ is particularly triggering with regard to the runaway slave narratives as many of
+there traits that the writers of the ads would ‘suspect’ the slaves of having were assumptions
+based on admirable qualities. For example, one advertisement goes so far as to suggest that a
+slave who “generally smiles when he speaks” is ‘suspected’ of “lurking about a plantation” as he
+is so “dissembling” and “artful”.100 Thus, a slave who has mustered up what little joy he has left
+in him to even smile when spoken to, is suspected of manipulating those he encounters. Thus the
+
+97
+
+Douglass, Narrative of the Life of Frederick Douglass, 13.
+
+98
+
+Douglass, Narrative of the Life of Frederick Douglass, 14.
+
+99
+
+Douglass, Narrative of the Life of Frederick Douglass, 19.
+
+100
+
+Virginia Gazette (Purdie & Dixon),
+Williamsburg, March 9, 1769. http://www2.vcdh.virginia.edu/saxon/servlet/SaxonServlet?source=/
+xml_docs/slavery/ads/rg69.xml&style=/xml_docs/slavery/ads/display_ad.xsl&ad=v1769030329
+
+Omarshah !57
+use of the word on both sides of the racial divide was very different. For Douglass, ‘suspect’ is
+used to describe the lack of Christian values and general morality in his cruel masters’ treatment
+of himself and other slaves. In contrast, the word ‘suspect’ used in runaway slave advertisements
+is used to project inaccurate assumptions based on positive attributes held by the slaves in
+question. In many ways, this occurs for the other words found in both texts.
+In Northup’s narrative, the word that most dominates in common with the slave narratives
+is the word ‘lie’, and its variations (lying, liar, lied). The kidnapping and then enslavement of
+Northup was an enormous tragedy and highlighted the grave potential of whites to ruin a free
+black man’s life. Northup’s narrative acts as evidence that he was lied to on many accounts for
+the sake of his captures earning money through his price. Even when he was faced with near
+death injuries, Northup himself “could not force from [his] lips the foul lie that [he] was a
+slave.”101 In contrast, the authors of the runaway slave advertisements do not shy away from
+making bold assumptions regarding their former slaves. The frequent use of the words ‘likely’,
+‘expect’, ‘believe’, ‘may attempt’ and ‘suspect’ are reflections of the hedged guesses as to the
+future deceitful actions of the individuals in question. The word ‘lie’ and its variations are found
+in the runaway slave advertisements in abundance and are often associated with younger
+individuals. The young people who were able to escape their dire circumstances are often
+accused of theft and committing other deceitful crimes, but in many of these cases, the monetary
+reward amount for returning the individuals is extremely high. One narrative is so abruptly
+contradictory, its first line is “Stop Thief and Runaway!! TEN DOLLARS REWARD”.102 If an
+101
+102
+
+Northup, Twelve Years a Slave: Narrative of Solomon Northup, 45.
+
+Norfolk Herald (Willett and O'Connor),
+Norfolk, September 22, 1796. http://www2.vcdh.virginia.edu/saxon/servlet/SaxonServlet?source=/
+xml_docs/slavery/ads/vg1796.xml&style=/xml_docs/slavery/ads/display_ad.xsl&ad=v1796090132
+
+Omarshah !58
+individual is so deceitful and a compulsive liar, why would a slave owner desire for them to be
+returned?
+As an escaped slave, it must have been eye-opening to read a runaway advertisement
+about oneself. The literal seeing of yourself through the eyes of your oppressor could spark many
+reactions. The first could be a change in one’s appearance and actions. If you were to be
+recognized for your clothing, accent or overall mannerisms, it would be understandable if a slave
+would change their behavior/appearance. The second reaction, could be of shock at the
+realization of how much a person who oppressed you valued you and your skills. The forced
+recognition of talents and abilities from a person who had treated you as inferior is particularly
+powerful. Finally, to be able to see a document that recognized your existence in a world which
+classified you as less than human, would be a striking way to start your life as now a free
+individual.
+This experiment brought to light the differences in circumstance in language was used by
+Solomon Northup and Frederick Douglass in comparison to runaway slave advertisements.
+Where Douglass and Northup used their words purposefully to identify the injustices in their
+lives, the authors of the runaway advertisements projected character-assumptions based on
+physical traits of individuals they did not fully understand. It becomes immediately apparent the
+disconnect of understanding slave owners had for the individuals that they enslaved.
+Furthermore, although there were some parallels in language used in the runaway advertisements
+considered and the narratives of Frederick Douglass and Solomon Northup, these connections
+was not reflected in the descriptions of identity in the narratives. Although the increase in the use
+of the word ‘I’ occurred post-emancipation, the language chosen by Douglass and Northup to
+
+Omarshah !59
+describe their views of themselves was not reflected in the language of the advertisements.
+Douglass describes his desire to keep his first name given to him by his mother as a way “to
+preserve a sense of my identity.”103 Names and oral histories were important parts of the
+identities many slaves carried with them post-emancipation. Thus the language of ‘self’ as seen
+in the use of words in the two narratives developed separately to the language projected onto
+slaves by slave owners in runaway advertisements.
+
+103
+
+Douglass, Narrative of the Life of Frederick Douglass, 62.
+
+Omarshah !60
+
+Conclusion
+Ran away, Glenn Ligon. He’s a shortish broad-shouldered black man, pretty darkskinned, with glasses. Kind of stocky, tends to look down and turn in when he walks.
+Real short hair, almost none. Clothes nondescript, something button-down and plaid,
+maybe, and shorts and sandals. Wide lower face and narrow upper face. Nice teeth.104
+
+Glenn Ligon is a modern day visual artist who presented an exhibition entitled Runaways
+at the Metropolitan Museum of Art in 1993. Ligon asked ten of his close friends to describe him
+as if they were filing a missing person’s report, however they were instructed to use what he
+called ‘police language’. Ligon was concerned with the experience many slaves had of having
+one’s identity projected onto them through a runaway advertisement. Through imagery, language
+and the experience of being ‘watched’ by ‘an other’, Ligon asks the viewers of his own
+‘advertisements’ to consider more than just the racial divide but also the complex relationship
+between master and slave. Ligon concerns himself with “bringing the notion of slavery into the
+present.”105
+Ligon was also moved by the narrative of Henry “Box” Brown, the example of a slave
+narrative with which I opened the project. Brown’s creative use of a box to mail himself to
+freedom inspired Ligon to explore the symbol of a confined, cubed space as a mode of resilience
+and freedom. He describes how he “became fascinated with the idea of this box as the container
+
+104
+
+Metropolitan Museum of Art. "Glenn Ligon Runaways." Metropolitan Museum of Art.
+Accessed April 22, 2016. http://www.metmuseum.org/art/collection/search/
+490240.
+
+105
+
+Hansen, Liane. "Glenn Ligon Reframes History In The Art Of 'America.'" NPR. Last
+modified May 8, 2011. Accessed April 23, 2016. http://www.npr.org/2011/05/
+08/136022514/glenn-ligon-reframes-history-in-the-art-of-america.
+
+Omarshah !61
+for the body, but also the idea that if he had spoken, it would have been the thing that would have
+given him away.”106 The box, although it creates notions of being cramped and confined, it was
+used as a mechanism of liberation for Brown. Ligon presented an exhibition entitled To
+Disembark which consisted of crates in a room with projections emanating from within. He uses
+sounds like Billie Holidays “Strange Fruit” and KRS-One singing “Sound of Da Police”, which
+barely resonate out of the crates, to symbolize the restriction of voices in the time of slavery. It
+also renders contemporary the struggle of slavery by referencing surveillance, control and raceinduced police brutality.107
+The image of the ‘box’ as confinement mirrors the physical limitations of the slave
+narratives. Just as the box that Henry Brown was shut into forced him to remain silent in order to
+maintain his freedom, there are parts of the lives of the people behind slave narratives like
+Frederick Douglass’ and Solomon Northup’s that will remain forever silenced. For example,
+Douglass refused to relay his means of escape for the sake of other slaves at the time potentially
+escaping the same way. This is but one of many examples of stories and experiences we as
+readers and scholars will never fully know. Although it was telling and informative to analyze the
+texts discussed through a computer program and through manual close reading, there will be
+information that cannot be tapped into just by the nature of the atmosphere of when the
+narratives were written.
+Furthermore, it is misleading to draw the conclusion that because Solomon Northup was
+born a free man, when he was being indoctrinated with the belief that slaves were not human
+106
+
+Hansen, "Glenn Ligon Reframes History."
+
+107
+
+Hansen, "Glenn Ligon Reframes History."
+
+Omarshah !62
+beings by his white oppressors, or thats he did not feel a burden on his soul. This was not the
+case. The narratives themselves are a presentation of a self that is not complete. Both Douglass
+and Northup had lives outside of their narratives, which solely represented their experiences in
+slavery and the identities they choose to portray in their books. In many ways the ‘characters’ of
+Douglass and Northup have freedom inside the framework of a slave narrative that they did not
+have in their worlds post-emancipation. Thus, although the slave narratives are a means of
+writing oneself into existence, that self has its own persona and identity beyond the pages of the
+books.
+Many of the arguments made in this project explain how slave narratives can be seen as
+advertisements for abolition and that runaway slave advertisements can be seen as forms of
+narratives. Often times the history of slavery is taught and described as if it is no longer relevant.
+The climate of inequality and systematic oppression are present today in different forms. A form
+of runaway advertisements was recreated easily by Glenn Ligon, all through the lens of using
+‘police-language’. It is particularly telling that the language used by enforcers of the law to
+locate missing criminals matches the language used by slave-owners to describe escaped slaves.
+The history of police departments themselves is closely linked to what was once known as ‘Slave
+Patrols’ which were a “law enforcement system existed in America before the Civil War for the
+express purpose of controlling the slave population and protecting the interests of slave
+owners.”108 As historian Victor E. Kappeler, Ph.D writes in his article entitled, “A Brief History
+of Slavery and the Origins of American Policing”:
+
+108
+
+David, M. "Police Originated From ‘Slave Catching Patrols’." Counter
+Current News. Last modified April 15, 2015. Accessed May 1, 2016.
+http://countercurrentnews.com/2015/04/ police-originated-from-slave-catching-patrols/.
+
+Omarshah !63
+Slave patrols and Night Watches, which later became modern police departments, were
+both designed to control the behaviors of minorities. For example, New England settlers
+appointed Indian Constables to police Native Americans (National Constable Association,
+1995), the St. Louis police were founded to protect residents from Native Americans in
+that frontier city, and many southern police departments began as slave patrols. In 1704,
+the colony of Carolina developed the nation’s first slave patrol. Slave patrols helped to
+maintain the economic order and to assist the wealthy landowners in recovering and
+punishing slaves who essentially were considered property.109
+
+In a time when law enforcement targets not criminals, but stereotypical notions of what are
+deemed ‘criminal characteristics’, many parallels can be drawn to the many who hunted for
+runaway slaves. What does it mean for our society that the language of documents describing
+escaped slaves from two centuries ago, matches the language used to describe wanted criminals?
+The ever-present news stories of police-brutality against minorities, in particular, young African
+American males, are proof that the demonization of minorities through projected identities is still
+relevant today. Moreover, the history of communities self-policing through the hunt for runaway
+slaves is the foundation on which the American legal enforcement system was built. In this way,
+we are still steeped in a history that has been deemed irrelevant.
+
+109
+
+David, "Police Originated From ‘Slave," Counter Current News.
+
+Omarshah !64
+Appendix
+Figure 1: Opening image of Solomon Northup’s narrative with his signature beneath it. Northup,
+Solomon. "Twelve Years a Slave Narrative of Solomon Northup, a Citizen of New-York,
+Kidnapped in Washington City in 1841, and Rescued in 1853, from a Cotton Plantation near the
+Red River in Louisiana." Edited by David Wilson. Gutenberg-e. Last modified May 11, 2014.
+Accessed March 26, 2016. http://www.gutenberg.org/files/45631/45631-h/45631h.htm#CHAPTER_I.
+
+Omarshah !65
+Figure 2: Python Coding with breakdown of steps
+
+Omarshah !66
+Sample original Runaway Slave Advertisements used in Chapter 3 experiment, taken from:
+"Explore Advertisements." The Geography of Slavery in Virginia. The Rector and Visitors of the
+University of Virginia, n.d. Web. 7 Mar. 2016. <http://www2.vcdh.virginia.edu/gos/index.html>.
+
+Figure 3: Virginia Gazette (Parks), Williamsburg, May 2 to May 9, 1745.
+
+Figure 4: Virginia Gazette (Rind),Williamsburg, April 26th, 1770.
+
+Omarshah !67
+Figure 5: Virginia Gazette (Purdie & Dixon), Williamsburg, November 5, 1772.
+
+Figure 6: Virginia Gazette (Purdie & Dixon),Williamsburg, July 28, 1768.
+
+Omarshah !68
+Figure 7: Virginia Gazette (Purdie & Dixon), Williamsburg, March 9, 1769.
+
+Figure 8: Virginia Gazette (Purdie & Dixon), Williamsburg, March 19, 1772.
+
+Omarshah !69
+
+Figure 9: Output results for ‘I’ and variants summation. The first two rows starting from ‘358’
+shows the ‘I’ counts of the first half and second half of Frederick Douglass’ narrative
+consecutively. The row where it says’31’ reflects the ‘I’ counts in the Runaway Slave
+Advertisements considered. The final two rows starting with ‘751’ reflects the first half of
+Solomon Northup’s narrative ‘I’ count followed by the second half results.110
+
+Omarshah !70
+Bibliography
+"Advertisment." Business Dictrionary. Accessed May 1, 2016.
+http://www.businessdictionary.com/definition/advertisement-ad.html.
+Baptist, Edward E. The Half Has Never Been Told: Slavery and the Making of American
+Capitalism. New York: Basic Books, a member of the Perseus Books Group, 2014.
+Blight, David W. A Slave No More: Two Men Who Escaped to Freedom : including Their Own
+Narratives of Emancipation. Orlando: Harcourt, 2007.
+Brown, Henry Box. The Narrative of the Life of Henry Box Brown. Oxford: Oxford UP, 2002.
+Clark, Emily. The Strange History of the American Quadroon: Free Women of Color in the
+Revolutionary Atlantic World. Chapel Hill: University of North Carolina Press, 2013.
+David, M. "Police Originated From ‘Slave Catching Patrols’." Counter
+Current News. Last modified April 15, 2015. Accessed May 1, 2016.
+http://countercurrentnews.com/2015/04/police-originated-from-slave-catching-patrols/.
+Davis, David Brion. Inhuman Bondage: The Rise and Fall of Slavery in the New World. Oxford,
+England: Oxford UP, 2006.
+"District of Columbia Daily Advertiser (J. and J. D. Westcott), District of Columbia, May 27,
+1800." Virginia Center for Digital History. Last modified 2005. Accessed April 10, 2016.
+http://www2.vcdh.virginia.edu/gos/search/relatedAd.php?
+adFile=vg1800.xml&adId=v1800050009.
+Douglass, Frederick. Narrative of the Life of Frederick Douglass. New York: Dover, 1995.
+Du Bois, W. E. B. The Souls of Black Folk: Authoritative Text, Contexts, Criticism. Edited by
+Henry Louis Gates and Terri Hume Oliver. New York: W.W. Norton, 1999.
+Gates, Henry Louis, Jr. "12 Years a Slave: Trek From Slave to Screen." The Root. Last modified
+March 3, 2014. Accessed April 22, 2016. http://www.theroot.com/articles/history/
+2013/10/solomon_northup_trek_of_his_book_12_years_a_slave_to_the_big_screen.html.
+Genovese, Eugene D. The World the Slaveholders Made: Two Essays in Interpretation. New
+York: Vintage, 1971.
+
+Omarshah !71
+Hansen, Liane. "Glenn Ligon Reframes History In The Art Of 'America.'" NPR. Last modified
+May 8, 2011. Accessed April 23, 2016. http://www.npr.org/2011/05/08/136022514/glennligon-reframes-history-in-the-art-of-america.
+Johnson, Walter. River of Dark Dreams: Slavery and Empire in the Cotton Kingdom. Cambridge,
+MA: Belknap Press of Harvard UP, 2013.
+Johnson, Walter. Soul by Soul: Life inside the Antebellum Slave Market. Cambridge: Harvard UP,
+1999.
+Liu, Alan. "What is the Meaning of the Digital Humanities to the Humanities?" Modern
+Language Association International Bibliography on InfoTrac. Last modified 2013.
+Accessed April 22, 2016. http://www.mlajournals.org/doi/pdf/10.1632/pmla.
+2013.128.2.409.
+McNamara, Robert. "Wendell Phillips." About Education. Accessed December 1, 2015. http://
+history1800s.about.com/od/abolitionmovement/a/Wendell-Phillips-biography.htm.
+Metropolitan Museum of Art. "Glenn Ligon Runaways." Metropolitan Museum of Art. Accessed
+April 22, 2016. http://www.metmuseum.org/art/collection/search/490240.
+Northup, Solomon. "Twelve Years a Slave Narrative of Solomon Northup, a Citizen of NewYork, Kidnapped in Washington City in 1841, and Rescued in 1853, from a Cotton
+Plantation near the Red River in Louisiana." Edited by David Wilson. Gutenberg-e. Last
+modified May 11, 2014. Accessed March 26, 2016. http://www.gutenberg.org/files/
+45631/45631-h/45631-h.htm#CHAPTER_I.
+"Run away from the Subscriber." National Humanities Resource Toolbox. Accessed
+May 1, 2016. http://nationalhumanitiescenter.org/pds/maai/enslavement/text8/
+virginiarunawayads.pdf.
+The Rector and Visitors of the University of Virginia. "Explore Advertisements." The Geography
+of Slavery in Virginia. Accessed March 7, 2016. http://www2.vcdh.virginia.edu/gos/
+index.html.
+Stepto, Robert B. From behind the Veil: A Study of Afro-American Narrative. Urbana: U of
+Illinois P, 1979.
+"The Stono Rebellion." Public Broadcasting Services. Accessed April 22, 2016. http://
+www.pbs.org/wgbh/aia/part1/1p284.html.
+
+Omarshah !72
+Waldstreicher, David. "Reading the Runaways: Self-Fashioning, Print Culture, and Confidence
+in Slavery in the Eighteenth-Century Mid-Atlantic." JSTOR. Last modified April 1999.
+Accessed April 22, 2016. http://www.jstor.org/stable/2674119.
+Walls, Bryan, Dr. "Freedom Marker: Courage and Creativity." PBS. Accessed November 4,
+2015. http://www.pbs.org/black-culture/shows/list/underground-railroad/stories-freedom/
+henry-box-brown/.
+Warren, Kim. "Literacy and Liberation." Project MUSE. Last modified December 2005.
+Accessed April 22, 2016. https://muse.jhu.edu/article/190829.
+Wiethoff, William E. The Insolent Slave. Columbia: U of South Carolina P, 2002.
+Williams, Heather Andrea. Self-taught: African American Education in Slavery and Freedom.
+Chapel Hill: University of North Carolina Press, 2005.
+Yetman, Norman R. "An Introduction to the WPA Slave Narratives." In Library of Congress.
+Accessed December 1, 2015. http://memory.loc.gov/ammem/snhtml/snintro00.html.
+
+

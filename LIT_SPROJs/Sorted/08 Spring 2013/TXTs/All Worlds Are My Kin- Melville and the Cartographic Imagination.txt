@@ -1,0 +1,1735 @@
+Bard College
+
+Bard Digital Commons
+Senior Projects Spring 2013
+
+Bard Undergraduate Senior Projects
+
+2013
+
+All Worlds Are My Kin: Melville and the
+Cartographic Imagination
+Nikolas Prescott Jaeger
+Bard College
+
+Recommended Citation
+Jaeger, Nikolas Prescott, "All Worlds Are My Kin: Melville and the Cartographic Imagination" (2013). Senior Projects Spring 2013.
+Paper 377.
+http://digitalcommons.bard.edu/senproj_s2013/377
+
+This Access restricted to On-Campus only is brought to you for free and
+open access by the Bard Undergraduate Senior Projects at Bard Digital
+Commons. It has been accepted for inclusion in Senior Projects Spring
+2013 by an authorized administrator of Bard Digital Commons. For more
+information, please contact digitalcommons@bard.edu.
+
+All Worlds Are My Kin
+Melville and the Cartographic Imagination
+
+Senior Project submitted to
+the Division of Languages and Literature
+of Bard College
+by
+Nikolas Jaeger
+
+Annandale-on-Hudson, New York
+May 2013
+
+Acknowledgements
+
+I owe an enormous debt of gratitude to Geoff Sanborn, an outstanding professor and
+advisor, who helped lay much of this project’s foundation over the past several years.
+Wyatt Mason has been an excellent project advisor and lively conversationalist, with
+whom it has been both an honor and a pleasure to work.
+Additionally, Cole Heinowitz and Matt Mutter have provided valuable advice and
+feedback during the writing process.
+Lastly, I’d like to thank my family and friends—including, of course, my parents,
+Carolyn and Ralf.
+
+Who hath laid the measures thereof, if thou knowest?
+or who hath stretched the line upon it?
+Job 38:5
+
+Introduction ....................................................................................................................... 1
+
+I. A Plurality of Worlds ..................................................................................................... 4
+
+II. Journeys, Maps, Empires ............................................................................................ 24
+
+III. Mare Fecunditatis ..................................................................................................... 48
+
+Bibliography ................................................................................................................... 63
+
+1
+
+Introduction
+
+“Herman! we are once more all together & I pray God that we may never be seperated
+more —.” So wrote Allan Melville to his older brother in 1844, after the latter had sent
+word of his arrival in Boston on the frigate United States, aboard which he was kept for
+two weeks before being formally discharged. This was the slightly anti-climactic
+conclusion to a voyage begun four years previously, during which Herman, in his early
+twenties, had deserted two ships and lived for a month among reputed cannibals before
+making his way to Hawaii. Enlisting as a sailor in the navy, he finally made his way
+home (Correspondence 567; Parker 289).
+Melville’s stories of this time enthralled his family, and at their suggestion, he
+began writing (Parker 354). In the next five years, he would publish six novels. Though
+he would write several more, it is in these early books that we find a particularly clear-cut
+progression—evident, most of all, through the comparison of the first and last in this
+group.
+Typee, published in 1846, is a straightforward account of the narrator’s desertion
+of a whaling ship and life among a Polynesian tribe—embellished and exaggerated in
+some ways, but otherwise largely factual. More tellingly, it was the most successful book
+Melville would publish, gaining him instant recognition—and dubious fame, as the man
+who had “lived among cannibals.” Its arresting subject aside, however, it stands as the
+
+2
+
+book that conformed most readily to the popular taste of the time. Moby-Dick, on the
+other hand, obeys no easy categorization: “it is of the horrible texture of a fabric that
+should be woven of ships’ cables and hausers,” wrote Melville to his neighbor (206). In
+place of the single protagonist of his early books, it has, at minimum two, and arguably
+more. Its pages are divided not into the 34 of Typee, but 135 chapters dealing with
+equally numerous topics, along with two prologues—the “Etymology” and “Extracts”—
+and an epilogue. Its reception was decidedly mixed.
+To immediately classify one work as more characteristic or true to an author who
+later wrote that “the very fingers that now guide this pen are not precisely the same that
+just took it up and put it on this paper” would be just as presumptuous as refusing to
+recognize the inherent similarities between both novels, and the prefigurations of one in
+another (Correspondence 213). And yet, a kind of broadening or expansion recognizably
+takes place between the two. The questioning impulse that, in Typee, attempts to
+understand an utterly foreign culture and language as much as it does the actions of
+American missionaries, manifests in Moby-Dick on a far greater scale. “Give me a
+condor’s quill! Give me Vesuvius’ crater for an inkstand!” exclaims Ishmael. If Typee has
+much to say about the Marquesas, and the Pacific in general, it is Moby-Dick that takes us
+to far more distant places, “as if to include the whole circle of the sciences, and all the
+generations of whales, and men, and mastodons, past, present, and to come, with all the
+revolving panoramas of empire on earth, and throughout the whole universe” (ch. 104).
+The extraordinary, varied language that Melville brings forth throughout, and his
+adept mining of sources from the King James Bible to contemporary American
+
+3
+
+magazines, might lead us to separate this prowess from the lived experience of these
+formative years. And yet, the quality that repeatedly comes to the forefront of his work is
+a sense of geographical space, of the wider world. “You must have plenty of sea-room to
+tell the Truth in,” he writes (“Hawthorne” 1162), and it is in the navigation of such
+expanses that his prose seems to reach its greatest sweep.
+But though the ocean itself has a timeless quality, seeming to bring us back to the
+time of the Flood, or the eons of geologic time, it has already been delineated by, and
+suffused with, the structures of Melville’s world. It is in Moby-Dick, above all, that
+formerly aimless movements come to be warped, by both these constraints and by the
+larger malignancy underlying them.
+
+4
+
+I
+A Plurality of Worlds
+
+The imagination of this cosmos is as immediate to me as the imagination of my household
+or my self, for I have taken my being in what I know of the sun, and of the magnitude of
+the cosmos, as I have taken my being in what I know of domestic things.
+Robert Duncan, “Towards an Open Universe”
+
+In 1835, the French engineer and statesman Michel Chevalier wrote a letter to his
+compatriots from Lancaster, Pennsylvania—a place we might now consider the sleepiest
+in America, its daily life still measured by the movements of the draft horse—in which he
+remarked with incredulity on the wanderlust, the evident nomadism, of the young
+nation’s inhabitants:
+[The American] is always in the mood to move on, always ready to start in
+the first steamer that comes along from the place where he had just now
+landed. He is devoured with a passion for movement, he cannot stay in
+one place; he must go and come... He always has something to do, he is
+always in a terrible hurry. He is fit for all sorts of work except those which
+require a careful slowness. Those fill him with horror; it is his idea of hell.
+(qtd. in Schivelbusch 112)
+At the beginning of Call Me Ishmael, his free-form exegesis of Moby-Dick, Charles
+Olson declares: “I take SPACE to be the central fact to man born in America... I spell it
+large because it comes large here. Large, and without mercy” (11).* Later, he adds that
+“space has a stubborn way of sticking to Americans, penetrating all the way in,
+
+* An
+
+echo of Moby-Dick, where Ishmael jokes that “unconsciously my chirography expands into placard
+capitals... in the mere act of penning my thoughts of this Leviathan” (ch. 104).
+
+5
+
+accompanying them. ... Trajectory. We must go over space, or we wither” (114). It is by
+their movements through space, first and foremost, that Melville’s characters are defined:
+the sailors and whalemen of his early work; the boat passengers in The Confidence-Man;
+Israel Potter’s years of exile; Clarel’s young pilgrim. In Ishmael’s words, they are
+“tormented with an everlasting itch for things remote” (ch. 1)—a longing that perpetuates
+itself without end, less of an incidental feeling than something akin to fate itself. Mardi’s
+protagonist reaches the end of his quest only to move onward still, taking flight “over an
+endless sea” (ch. 195).
+The background for this questing is a moment in American history defined by
+such movements. The 19th-century frontier has been mythologized endlessly—unlike
+geographical boundaries such as coastlines or rivers, its manmade, expanding contours
+lend it an immutability, requiring the invention of imagined spaces to compete with it.
+Melville does this in a sense—but instead of creating a fictional topography (as, say,
+Faulkner does, in Yoknapatawpha County), he turns to the ocean, to ships moving
+through endless seascapes. Leaving the geography of American expansion on the
+mainland, he instead taps into its underlying kinetic urge, and in doing so anticipates its
+future: beyond the transient Western frontier, and into the “eternal swells” of the sea
+(Moby-Dick ch. 111). This would hardly be singular—the American presence in the
+Pacific having preceded him by several decades—but Melville refuses to stop there. In
+this literal space, he sees a portal to far broader ones, to vast imagined worlds, where “my
+soul sinks down the depths, and soars to the skies; and comet-like reels on through such
+boundless expanses, that methinks all the worlds are my kin” (Mardi ch. 119)—not “the
+
+6
+
+world,” but “the worlds,” the plural alluding to infinite space and variety. Such
+intimations of a larger cosmos bring into play questions of its extent in the imagination of
+the time—questions, in other words, of the geography of the world that Melville lived
+and worked in.
+As Typee, Omoo, and Mardi were being written in New York, the United States
+officially became a transcontinental nation, with the acquisition of Texas in 1845, the
+Oregon Territory in 1846, and the Mexican cession of 1848. This was no mere formality
+—particularly the last of the three had immediate ramifications: the discovery of gold less
+than ten days after the war’s end, then the admission of California, two years later, into
+the Union as a free state. Already, these places find their way into Melville’s work:
+Redburn compares “the melancholy state of his wardrobe” to that of the “Texian
+Rangers” (ch. 15); Mardi includes a satirical version of the California Gold Rush (ch.
+166); Ishmael speaks of the “black bisons of distant Oregon” (ch. 42). Even as this
+expansion was underway, however, the time when the country ended at the Mississippi
+remained in living memory—and, especially to the inhabitants of Eastern cities such as
+New York and Boston, what we now would refer to as the “wild West” constituted the
+greater half of the continent.
+Melville’s personal acquaintance with this broadly defined frontier is scant,
+having only visited it once, going down the Erie Canal and onward to Illinois in 1840,
+looking for possible job prospects but returning soon afterward (Parker 167). The
+presence of a quintessentially American wilderness in the imagination of the time,
+however, is undeniable, and such imagery is indeed present in his work. In “Hawthorne
+
+7
+
+and his Mosses,” Melville writes that “the smell of your beeches and hemlocks is upon
+[Hawthorne]; your own broad prairies are in his soul; and if you travel away inland into
+his deep and noble nature, you will hear the far roar of his Niagara” (1165),
+demonstrating, in his metaphors, a currency to that wilderness, whether drawing on the
+imagination of upstate New York or of areas further to the west. Kentucky is invoked
+repeatedly as the home of a particularly hardy breed of frontiersmen—most memorably
+when the penis of a sperm whale, in Moby-Dick, is said to be “longer than a Kentuckian
+is tall” (ch. 95).
+There is a sense, however, of the continental American landscape as aesthetically
+subordinate to the seas on either side. “Go visit the Prairies in June,” Ishmael tells us,
+“when for scores on scores of miles you wade knee-deep among Tiger-lilies—what is the
+one charm wanting?—Water—there is not a drop of water there!” (ch. 1). Going
+westward with the spirit of the times, Melville had not stopped, but continued past the
+coast, straight into the other ocean. Even while writing Moby-Dick in 1850, he remarked
+in a letter that “I have a sort of sea-feeling here in the country, now that the ground is all
+covered with snow. I look out my window in the morning when I rise as I would out of a
+port-hole of a ship” (173).
+Amidst sprawling concepts like nature and wilderness, however, we risk
+neglecting another space of equal importance to the young nation. This is, of course, the
+city—exemplified most of all in New York, a burgeoning metropolis of over half a
+million people by the time Melville set out on his first voyage in the early 1840s.*
+
+* At
+
+the time of Melville’s death in 1891, the city’s population numbered one and a half million—ten years
+later, it had grown to over twice that amount.
+
+8
+
+Ishmael’s description of it emphasizes not its edifices or monumentality, but movement
+and conglomeration: “breezes, which a few hours previous were out of sight of land,”
+“ships from China,” “crowds of water-gazers,” “thousands upon thousands of mortal men
+fixed in ocean reveries” (ch. 1). In its constant motion, the city comes to resemble the sea,
+and the burgeoning attempts to describe its currents stand in analogy to the emerging
+science of oceanography (touched on in the second chapter below).
+Urban, industrial spaces bring with them not only new patterns of movement, but
+—tied to these—new forms of sight and experience as well. Particularly the railroad, as
+Wolfgang Schivelbusch writes, “created its own new spatiality,” and with that a new way
+of seeing (10). Seemingly freed, by the power of steam, from the natural constraints of
+draught animals, even of topography itself, the railway seemed to present a strange
+landscape to the eyes of travelers, as if “the railroad and the landscape through which it
+ran were in two separate worlds” (23). Its effect, in other words, was to create a space of
+experience that differed not only from earlier forms of transportation, but that seemed to
+separate itself even from the physical landscape through which it moved. In America,
+where the railroad “was not the industrial successor to a fully-fledged pre-industrial
+transportation system,” but “served to open up, for the first time, vast regions of
+previously unsettled wilderness” (89), much of the country’s expanse came to be known
+primarily through mediated forms of perception.
+With this in mind, we arrive at another facet of Melville’s experience: a vastly
+increased awareness of the world brought on by the print culture of the time. In Redburn,
+we read about the young protagonist’s family home, dominated by depictions of faraway
+
+9
+
+places: “Versailles... rural scenes... pictures of natural history, representing rhinoceroses
+and elephants and spotted tigers,” and a library of “long rows of old books, that had been
+printed in Paris, and London, and Leipsic [sic]” (ch. 1). In his recollection, these bring
+about in him the desire to travel—but more directly, they serve to turn the faraway and
+exotic into familiar aspects of his vocabulary: in other words, they make him a
+cosmopolitan before he is even aware of the fact.
+In July of 1851, in the New York Literary World, an interested person could read
+about “Steamboats and Steamboating in the Southwest,” “Studies of the Spanish Drama,”
+“Scenes on the Amazon,” “Professor Pfitzmaier and the Japanese Language,”
+“Superstitions of the Australians” and “How to Purchase a Diamond, &c.”—while a
+perusal of Harper’s might shed light on somnambulism, giraffes, bison, an impending
+solar eclipse, Lapland and “The Worship of Gold.” Melville not only read a number of
+contemporary periodicals (Sealts 46, 86), but began to publish in them as well. “The
+Town-Ho’s Story,” Moby-Dick’s longest chapter, was to be found in the October 1851
+issue of Harper’s—accompanied, in turn, by a serialized life of Napoleon, an account of
+“Lima and the Limanians,” an article on crickets, and, rather appropriately to the times,
+the parodic “Natural History of the Bookworm.”*
+Even if far less noteworthy, for the most part, than the much-feted expeditions
+that had opened the way for them, magazine articles and other accounts continued to
+bring new places into the vocabulary of the time, serving as continual reminders of the
+
+*
+
+Perhaps tellingly, this issue also contained the obituary of James Fenimore Cooper. Melville, though
+unable to attend a commemorative ceremony in December of that year, replied to the invitation with the
+remark that Cooper’s works were “among the earliest I remember, as in my boyhood producing a vivid, and
+awakning power upon my mind” (216).
+
+10
+
+wider world. Apparent in all of these—whether geographical, scientific, or otherwise—is
+a particular optimism, an exaltation of knowledge and, by extension, of the cultivated
+reader. Mary Louise Pratt sees this print culture as integral to the formation, in the new
+democratic republic, of an imperial subject, understood to be “European, male, secular,
+and lettered” (30). The concurrent presentation of various places and important
+developments finds its analog in another 19th-century technology: that of the panorama,
+which meant “to surround the observer with a totalizing image” and simultaneously place
+them “in a superior position over the represented landscape:” what effectively amounted
+to “at once a technology, an art form, and a complex instrument of power” (Aguirre
+40-41; 36). The accumulation of popular entertainment into a cumulative view of the
+world, in other words, placed the reader in a position of power and control. John Keats
+provides a paradigmatic example of this dynamic when, to describe his sense of
+revelation at reading Homer, he famously invokes both scientific discovery and imperial
+conquest, placing the two side by side: “Then felt I like some watcher of the skies / When
+a new planet swims into his ken; / Or like stout Cortez, when, with eagle eyes / He star’d
+at the Pacific...” (32).*
+The effects of this rich substratum among cosmopolitan writers are readily
+apparent. Edgar Allen Poe drew from the newly discovered Mount Erebus in “Ulalume”
+to create the exotically named “Mount Yaanek,” belching out “scoriac rivers” (89). With
+“scoriac,” Poe uses a geological term, even as he elsewhere holds its originators
+responsible for having “torn the Naiad from her flood” and demystifying the world (38).
+*
+
+He alludes on the one hand to Sir William Herschel’s discovery of the planet Uranus in 1781, and on the
+other to Vasco Núñez de Balboa’s arrival at the Pacific coast in 1513—famously conflating the latter with
+Hernando Cortéz (32n11).
+
+11
+
+In “Salut au Monde,” Walt Whitman broadens his consciousness to include the entire
+earth: “Within me latitude widens, longitude lengthens... Within me zones seas, cataracts,
+forests, volcanoes, groups, / Malaysia, Polynesia, and the great West Indian islands,” “I
+see plainly the Himalayas, Chian Shahs, Altays, Ghauts, / I see the giant pinnacles of
+Elbruz, Kazbek, Bazardjusi” (287, 289). Melville presents a similar vision in Mardi:
+“Andes on Andes, rooted on Alps; and all round me, long rushing oceans, roll Amazons
+and Orinocos” (ch. 119). What is at play is not the mere fact of knowledge of distant
+places—Milton, in the 17th century, could speak of “Chineses” and the Spice Islands
+(3.438; 2.639)—but their increasingly ubiquitous presence in the popular sources of the
+time, so that a strangely telescoped perspective of the world, like those found above,
+comes as second nature. A Quarterly Review article in 1839 noted “the gradual
+annihilation, approaching almost to the final extinction, of that space and those distances
+which have hitherto been supposed unalterably to separate the various nations of the
+globe,” postulating, as the result of such shrinkage, precisely the image of “one immense
+city” (qtd. in Schivelbusch 34). The exciting tension in Melville’s work, and what gives it
+resonance towards both the distant past and the technologically-inclined present, is the
+confluence of older forms of experience—the sailing ship, the overpowering forces of the
+ocean—with a newfound mental geography, in which vast tracts of space can be
+navigated at ease.*
+Astronomy, too, did not escape Melville’s attention: not only the close
+observations of stars or nebulae, but tantalizing ideas, widely discussed at the time, of the
+*
+
+Nor is this spread of knowledge limited to mere geography: the piercing baptismal incantation that
+Melville referred to as Moby-Dick’s “secret motto” comes not from his reading of Shakespeare, as was long
+surmised, but from an 1823 article in the Quarterly Review (Sanborn 217).
+
+12
+
+plurality of inhabited worlds. Ishmael compares the land experienced by a sailor to how
+“the Moon would appear to an Earthsman” (ch. 14), while Mardi draws extensively on
+astronomical imagery: “the voyagers who have circumnavigated the Ecliptic; who
+rounded the Polar Star as Cape Horn” (ch. 13). Following a broader pattern in Melville’s
+work, these mental wanderings proceeded from lived experience—the “long nightwatches in the remotest waters... beneath constellations never seen here at the
+north” (Moby-Dick ch. 16). “To study the stars upon the wide, boundless sea,” he writes
+in White-Jacket, “is divine as it was to the Chaldean Magi” (ch. 19). Even back in New
+York, he talks in a letter of having “strolled down to the Battery to study the stars” (159).
+If a particular 19th-century space could be said to correspond most meaningfully
+with the peak of Melville’s career, however, it is the Pacific Ocean, movements over the
+surface of which form the contours of all his early novels. Olson writes that “Melville...
+was long-eyed enough to understand the Pacific as part of our geography” (13)—an
+ocean that stands in for all, “the Indian Ocean and Atlantic being but its arms” (MobyDick ch. 111). His first encounter with this immense space came on April 15th, 1841,
+when the Acushnet rounded Cape Horn amid “thick and hazy weather” perhaps akin to
+the grisaille, “peculiar to that coast,” that opens “Benito Cereno” (Parker 193; “Benito
+Cereno” 161). In Moby-Dick, we get some sense of his accompanying excitement: “now
+the long supplication of my youth was answered; that serene ocean rolled eastwards from
+me a thousand leagues of blue” (ch. 111)—a seemingly accurate recollection coming
+from the writer who, as a younger man, had walked around New York with a copy of
+Richard Henry Dana’s Two Years Before the Mast (Parker 181). Unlike the Acushnet, the
+
+13
+
+Pequod only reaches the Pacific after sailing through two other oceans—certainly a
+plausible whaling route, but one that endows the voyage, in the process, with a particular
+finality and grandeur.
+Melville “had a pull to the origin of things,” Olson writes, “the first day, the first
+man, the unknown sea, Betelguese, the buried continent” (15). The spatial experience of
+the Pacific—a combination of literal sensation and imaginative extrapolation: “a
+thousand leagues of blue”—gives way, for Melville, to vast tracts of time, “for here,
+millions of mixed shades and shadows, drowned dreams, somnambulisms, reveries; all
+that we call lives and souls, lie dreaming” (ch. 111). In the chapter before this, we read of
+the sea burials of Queequeg’s Polynesian kin, who believe not only “that the stars are
+isles, but that far beyond all visible horizons, their own mild, uncontinented seas,
+interflow with the blue heavens; and so form the white breakers of the Milky Way” (ch.
+110). In this manner, the ocean carries us not through geographical space, but in other,
+more surprising directions—and though its “gently awful stirrings seem to speak of some
+hidden soul beneath” (ch. 111), its nature is not easily divulged.
+In Chapter 58, Ishmael asks, referring to a Biblical account (Num. 16:32) of the
+earth opening up to swallow several men, "wherein differ the sea and the land, that a
+miracle upon one is not a miracle upon the other?". The answer, it would seem, lies in a
+kind of inherent unknowability of the ocean: its "infinite perspectives" (ch. 69); "eternal
+blue noon" (ch. 81); “bottomless profundities” (ch. 86); "infinite blueness" (ch. 134). "It
+is the ungraspable phantom of life," he writes, "and this is the key to it all" (ch. 1). This is
+a breed of experience different from the mock Transcendentalism of “The Mast-Head”
+
+14
+
+that it resembles—it is not a loss of self in one’s surroundings, but an inscrutability that is
+all the more striking for being mundane.
+As he goes aboard the Pequod for the first time, Ishmael meets Peleg, one of its
+owners, who, upon his expression of a desire to “see the world,” orders him to “take a
+peep over the weather-bow” and come back:
+Going forward and glancing over the weather bow, I perceived that the
+ship swinging to her anchor with the flood-tide, was now obliquely
+pointing towards the open ocean. The prospect was unlimited, but
+exceedingly monotonous and forbidding; not the slightest variety that I
+could see.
+"Well, what's the report?" said Peleg when I came back; "what did
+ye see?"
+"Not much," I replied—"nothing but water; considerable horizon
+though, and there's a squall coming up, I think."
+"Well, what does thou think then of seeing the world? Do ye wish
+to go round Cape Horn to see any more of it, eh? Can't ye see the world
+where you stand?" (ch. 16)
+Ishmael understates his own observation, displaying a reasonable awareness of the ship’s
+position, and of the tides and weather, picked up, we might infer, in his time as a
+merchant seaman. The sense of monotony remains, however, as any discernible qualities
+of the ocean, apparent to the trained eye, arise out of an initial blankness and uniformity.
+At another point in time, however, on the threshold of the Pacific described
+earlier, we find a vastly different set of images:
+The same waves wash the moles of the new-built Californian towns, but
+yesterday planted by the recentest race of men, and lave the faded but still
+gorgeous skirts of Asiatic lands, older than Abraham; while all between
+float milky-ways of coral isles, and low-lying, endless, unknown
+Archipelagoes, and impenetrable Japans. (ch. 111)
+The uniform sea has been replaced with an exuberant, compounded multiplicity:
+“endless, unknown archipelagoes.” It should be noted that this occurs some hundred
+
+15
+
+chapters later in the book, but isn’t necessarily the product of a linear progression. In
+another early chapter, we find a similar apprehension of vast space—“the wide and
+endless waters, only bounded by the far-off Eastern Continents”—only shortly before the
+ship “blindly [plunges] into the lone Atlantic” (ch. 22).
+What comes to the forefront here is a surprising heterogeneity to the book—a
+rapid shifting across registers of perception and thought. If initially indicative of a writer
+who, as D. H. Lawrence writes, “with sheer physical vibrational sensitiveness, like a
+marvelous wire-station... registers the effects of the outer world” (378), these disparities
+come to form larger trajectories, taking shape as they course through the novel. That the
+ostensibly blank space of the sea—akin to the whiteness which “shadows forth the
+heartless voids and immensities of the universe” (ch. 42)—should give rise to such
+kaleidoscopic pontifications, if unsurprising, is undoubtedly pertinent.
+Edward Mendelson includes Moby-Dick in his study of what he terms
+“encyclopedic narratives”: works that “occupy a special historical position in their
+cultures, a fulcrum... between periods that later readers consider national pre-history and
+national history” (1267), and distinguished, as implied, “not by a single plot or structure,
+but by encompassing a broad set of qualities” that result in a “peculiar indeterminacy of
+form” (1270).* Though indebted to the tropes of the epic (1269)—either explicitly, as in
+Dante’s allegiance to Virgil, or not—this form has reached a point where it “identifies
+itself not by a single plot or structure, but by encompassing a broad set of
+
+*
+
+Moby-Dick, Mendelson writes, “occupies the American seat in the encyclopedic pantheon” (1271).
+Melville himself was familiar with the other proposed members: Dante’s Divine Comedy, Rabelais’s
+Gargantua and Pantagruel, Cervantes’s Don Quixote, and Goethe’s Faust—excepting those from later
+points in time: Joyce’s Ulysses and Pynchon’s Gravity’s Rainbow (1268).
+
+16
+
+qualities” (1270). Particularly interesting is Mendelson’s assertion that “these are
+imperial works, [that] assert the claims of a grander imperium than love or the family—
+just as their publication (or more accurately, their reception) asserts the national
+imperium of their cultures” (1271).
+Edward Said sees the theme of empire played out in Moby-Dick through a new
+conception of Americans as a people of the sea: “whereas other empires control land,
+America seeks sovereignty over water... only the Americans, and the Nantucketer in
+particular, live on and derive a living from the sea” (363)—an act of redefinition, placed
+against the frontier-set gaze of the time, that can only occur through a similarly
+adventurous encapsulation of a culture in its full breadth. Thus, “each encyclopedic
+narrative is an encyclopedia of literary styles, ranging from the most primitive and
+anonymous levels of proverb-lore to the most esoteric heights of euphuism” (1271). No
+better example exists in Melville’s novel than the “Extracts” that precede the narrative
+itself, which, in roughly chronological order, present quotations on whales ranging from
+the Bible to contemporary newspaper articles. The section ends with Darwin, and two
+vernacular whaling songs. These sources serve, on the one hand, as a kind of divestment
+from previous authority—think of Emerson’s “American Scholar,” or Melville himself in
+“Hawthorne and his Mosses”—but without denying affinity. In other words, Melville
+recognizes them as integral to his own work, even while setting them apart.
+Though hardly belonging to the ranks of great discoverers, Melville resembles
+such figures insofar as he straddles two realms: an urban, intellectual print culture, and
+the practical, vernacular knowledge—the unwritten undercurrent of higher learning—of
+
+17
+
+seamen and whalers. Even while at sea, he read frequently—the frigate United States, on
+which Melville returned to Boston in 1844, contained a sizable library (Parker 267).
+Considering the young American writer, unsure of his literary heritage or calling, he
+proclaims: “let him write like a man, for then he will be sure to write like an
+American” (“Hawthorne” 1164). Here is some lingering aspect of the frontiersman,
+except—like Ishmael, who speaks of having “swam through libraries and sailed through
+oceans” (ch. 32)—the movement described is one traversing vast realms of knowledge
+just as much as topographical space. “Aye, many, many souls are in me,” Melville writes
+in Mardi, “many worthies recline and converse” (ch. 119).
+Echoing Ishmael’s pronouncement that “writers... rise and swell with their
+subject” (ch. 104), Mendelson notes that “all encyclopedias provide an image of their
+own scale by including giants or gigantism” (1271). There is a strong affinity between the
+vastness of Moby-Dick’s subjects—whales, the Whale, the sea, variously manifested
+“heartless voids and immensities of the universe” (ch. 42)—and its size and breadth of
+focus. “In its vast spaces and in Melville’s blazingly original style,” writes Edward Said,
+“Moby-Dick is about (it seems silly to say it this way) the whole world; it willingly
+incorporates everything, leaving such small matters as resolution, inconsistency, and
+indeed evaluating the consequences of so tremendous and shattering an experience to
+lesser natures” (369). The key here is not to dwell on supposed inconsistencies, but to
+embrace them, following them not back to their source, but forward to wherever they
+might lead.
+
+18
+
+Playing on the botanical meaning of his impending subject, a whaling implement
+known as the “crotch,” Ishmael introduces the eponymous chapter by stating that “out of
+the trunk, the branches grow; out of them, the twigs. So, in productive subjects, grow the
+chapters” (ch. 63)—an organic metaphor that in some sense seeks to explain his own
+effulgence. This isn’t entirely satisfactory—after all, can any one character describe the
+totality of the work they find themselves in? It defines some of it, to be sure, particularly
+those chapters in which Ishmael continuously digresses on whaling, but seems too
+simplistic. Robert Burton could preface each partition of his mammoth Anatomy of
+Melancholy with a tree-like array of braces and section headings, but Moby-Dick obeys
+no such structure—the chronological table of contents, marking the Pequod’s forward
+motion as well as the linearity of reading, is the only guideline given. To follow a more
+arborescent model would ultimately—like Ishmael’s similar attempt at categorization and
+sorting in “Cetology” (ch. 32)—end in exasperation, leading one to the realization that
+“this whole book is but a draught”—an imperfect attempt at formulating a complete
+whole.
+Instead, we might conceive of the novel in terms of space and volume—not a
+single path, but a wide expanse. To read Moby-Dick is to find oneself in, and attempt to
+navigate, staggeringly vast spaces. Echoing Olson’s emphasis on trajectory, Edward Said
+notes that “Melville’s prose... tells of someone always moving away from the expected or
+the known... in some very profound and affecting way the voyage of the Pequod in
+Moby-Dick is something like Melville’s own voyage in language and form away from
+domestic life, into an alternative realm of visionary imagination and entirely novel
+
+19
+
+striving” (359). This is the exciting aspect of exploring a book of seemingly oceanic
+proportions: the movement towards the new and unexplored.
+The most obvious of these trajectories is that through physical space: the voyage
+of the Pequod itself. This strongly follows the geographical emphasis of Melville’s work,
+from Typee onwards to Moby-Dick: novels marked, at times in complete independence
+from the narrative events of each chapter, by a movement in space. If initially a matter of
+veracity with regard to Melville’s own experience, this tendency becomes more
+deliberate: first in Mardi, in which the protagonist’s travels altogether cease to follow the
+author’s real experience, and later in Moby-Dick, in which the Pequod, like “the circusrunning Sun... within his fiery ring” (ch. 87), not once touches land, being perpetually in
+motion. The reluctance to stop on land has some basis in practices of the time: Melville
+himself knew the widespread propensity of whalers to abandon their ship, having done so
+himself in the Marquesas (Parker 214)—but it is perhaps fortuitous that this authentic
+basis for remaining at sea overlaps with a more mythic concept of the voyage, allowing
+that of the Pequod to be aligned with anything from the wanderings of Odysseus to the
+movement of planetary and lunar bodies through a far greater ocean.
+But like the rings of Saturn—the innumerable fragments of which feign to a
+distant eye contiguity and wholeness—the ostensibly unified journey of Moby-Dick is, in
+fact, one carefully grafted together from individual experiences persisting even amid
+Ahab’s attempt to “weld” them together in an oath (ch. 41). If the ship comes to stand for
+a kind of polity—a community, certainly, and a metaphor, not unreasonably, for a
+burgeoning nation—it is wildly disparate as well. Despite the manmade order that seems
+
+20
+
+to separate it from the fluid ocean, it is itself susceptible to processes of entropy. In
+describing the crew’s search of the Pequod’s hold, Ishmael writes that “so deep did they
+go; and so ancient, and corroded, and weedy the aspect of the lowermost puncheons, that
+you almost looked next for some mouldy corner-stone cask containing coins of Captain
+Noah...” (ch. 110). Ahab’s “dusky phantoms” remain similarly hidden until called forth at
+the first lowering, unknown to the rest of the crew until their sudden appearance (ch. 47).
+That writers may divide their own thoughts, dealing them to multiple characters, is
+understood—but it is particularly here that this is played with, as the ship and its crew
+oscillate between seamless conglomeration and disparate, individual voices. In Mardi, we
+find a similar divergence of the writer into a multitude: “like a frigate,” we read, “I am
+full with a thousand souls; and as on, on, on, I scud before the wind, many mariners rush
+up from the orlop below, like miners from caves; running shouting across my decks” (ch.
+119). In Whitman’s poetry, the most obvious analog, this occurs explicitly, as the
+landmarks of the outside world—places, people, things—are called up in succession.
+What Melville implies here, however, is that such registers are, in fact, omnipresent,
+existing in prose as a hidden undercurrent.
+Out of this multitude, Ishmael is nonetheless firmly marked as our guide, and the
+initial path we follow through the book is his own. Defined in the first chapters by his
+stark individuation, he gradually opens up, his searching, inquiring gaze increasingly on
+display. Previously, he has been “lording it as a country schoolmaster” (ch. 1)—a detail
+that would seem to account for his educated opinion on many topics. More importantly,
+though, the move “from a schoolmaster to a sailor” parallels the relinquishment of a
+
+21
+
+certain idea of narrative authority. Rather than “making the tallest boys stand in awe of
+[him]” through superior insight (ch. 1), Ishmael in his new incarnation assumes a position
+that is less secure—not outright ignorance, but a continuous questioning and observation:
+a kind of investigation that probes in many different directions instead of reaching for a
+singular conclusion.
+That this kind of effulgence should occur in direct proximity to incomprehensible
+vastnesses of space—floating on the sea’s surface—is no accident. In its wide range, the
+type of discourse that Ishmael—and Melville’s other protagonists, to a lesser extent—
+engage in constitutes a kind of “mapping” of novelistic space, akin to the similar
+imaginative organization of physical expanse occurring within it: an act that proceeds out
+of the insufficiency of more conventional forms. “This whole book is but a draught—nay,
+but the draught of a draught,” writes Ishmael in “Cetology” (ch. 32). Pierre’s eponymous
+protagonist slaves away at “two books... of which the world shall only see one... the
+larger book, and the infinitely better, is for [his] own private shelf” (304). Implied in
+works such as Mardi or Moby-Dick are structures more far-reaching than can be grasped
+or held in linear sequence—and to consider these, we must move outward to spatial
+terms.
+At the “thought-engendering altitude” of the mast-head, writes Ishmael, “every
+strange, half-seen, gliding, beautiful thing... every dimly-discovered, uprising fin of some
+undiscernible form, seems... the embodiment of those elusive thoughts that only people
+the soul by continuously flitting through it” (ch. 35). Here are two equally pervasive, and
+equally boundless, spaces, and the attempt to grasp them, to some extent, is the task of all
+
+22
+
+writers. Though Melville sometimes despairs at the futility of this venture—writing in
+Pierre that “all the great books in the world are but the mutilated shadowings-forth of
+invisible and eternally disembodied images in the soul” (284)—it is more often that this
+fact is not denied or lamented, but manifested actively, creatively. “For in this world of
+lies,” he writes in “Hawthorne and his Mosses,” “Truth is forced to fly like a scared white
+doe in the woodlands, and only by cunning glimpses will she reveal herself” (1160).
+Though this flight constitutes an escape or elusion on the one hand, we can also read it as
+a generative movement: the most rewarding, if difficult path to take:
+When I stand among these mighty Leviathan skeletons... I am, by a flood,
+borne back to that wondrous period, ere time itself can be said to have
+begun, for time began with man. Here Saturn's grey chaos rolls over me,
+and I obtain dim, shuddering glimpses into those Polar eternities; when
+wedged bastions of ice pressed hard upon what are now the Tropics; and
+in all the 25,000 miles of this world's circumference, not an inhabitable
+hand's breadth of land was visible. Then the whole world was the whale's;
+and, king of creation, he left his wake along the present lines of the Andes
+and the Himmalehs... (ch. 104)
+Here, Ishmael ventures forth into entirely alien realms of experience: “Saturn’s grey
+chaos;” “Polar eternities;” “the whole world was the whale’s.” Note the image of a flood
+as bearer of these images, suggesting both its biblical antecedent and the oceanic
+explorations of the Pequod. What ultimately occurs here, as in the geographic movements
+of the latter, is the creation, or the mapping, of spaces. Initially, Ishmael stands “among”
+the whale skeletons, dwarfed by them—several sentences later, he has become a creator
+of vast worlds.
+There is a crucial difference, however, between Moby-Dick and the works that
+precede it: the presence of an overpowering malevolent force in the form of Ahab. Mardi
+
+23
+
+has as its antagonist a largely absent sorceress, while White-Jacket skillfully explores the
+abuses of power among officers of the navy—but only now do we find a frighteningly
+real, imperial power that threatens to engulf everything around it. Like the relentless push
+westward, and the printed dominion over nature and remote peoples, this plays out
+through expanse. “I could be bounded in a nutshell, and count myself a king of infinite
+space,” says Hamlet— “were it not that I have bad dreams” (2.2).
+
+24
+
+II
+Journeys, Maps, Empires
+
+Even if this land is only made up of trees and water... we will conquer it.
+Lope de Aguirre (Klaus Kinski), Aguirre, the Wrath of God
+
+If a narrative form, broadly defined, could be assigned to Moby-Dick, it would be that of
+the travel narrative—both in itself and as a logical continuation of the form that
+predominates in Melville’s earlier novels. As in Typee and Omoo, he drew from several
+sources in this vein: the Arctic whaling journals of William Scoresby (Sealts 60), the
+voyages compiled by Richard Hakluyt, and others. In the manner of Ishmael’s tangents
+from the delineated space of the ship to imaginative ones, both below and beyond, we
+must broaden our view from a single, charted course, and towards the larger spaces that
+surround it; the histories in which Melville’s novel is situated.
+In this vein, it would be naive to consider the kind of written cartography
+discussed above as being an end in itself. Where, after all, does it lead—for Ishmael,
+Ahab, Melville, the reader? To ask these questions, we should first of all consider where
+this kind of cartography might come from, and to do this, in turn, is to turn from a
+narrower context to a broader one. What is at play here is not merely the act of making
+maps—metaphorically or literally—but the history of how we conceive of the larger
+world.
+
+25
+
+We can begin by going far back indeed—to Homer’s Odyssey, the middle part of
+which—the eight books comprising the wanderings of Odysseus—constitutes what might
+be called the first extant travel narrative: no tale divorced from subjective experience, but
+one given by a wanderer to his audience. The Odyssey, of course, is interesting in that it
+takes place in a largely unknown geographical space. Mariners in ancient times largely
+stayed close to the shore; Hesiod, in the Works and Days, advises his brother to avoid the
+ocean altogether. As Father Mapple observes in Moby-Dick, Jonah’s flight from Joppa to
+Tarshish—from Syria to the Straits of Gibraltar—is a “world-wide” one (ch. 9). All this
+makes Odysseus’s venture out into the open ocean, to unknown islands, unusual to the
+extent that his geography should be regarded as imaginative rather than indicative. The
+space he travels through is more temporal than physical, a vast uncharted sea of time that
+separates him from home.
+It is rather in Dante’s Inferno that Odysseus, now the “cruel Ulysses” of Virgil’s
+Aeneid, is taken up in a new context. No longer a prisoner of space become time, he
+appears here as an explorer in the modern sense, exhorting his men to a final voyage on
+the “open deep” (26.100), past the Pillars of Hercules, driven by a “fervor... / to gain
+experience of the world / and learn about man’s vices, and his worth” (26.97-99). After
+heading far to the west and south, in sight of “the stars that light / the other
+pole” (26.127), the ship is met with a divine whirlwind and sinks.
+Dante would seem to see, in Ulysses’ final voyage, an act of hubris, but we might
+detect something else in the desire “to gain experience of the world”—if not a
+fundamental change in human nature, then certainly a burgeoning historical shift, and one
+
+26
+
+that the poet was undoubtedly aware of. It has been surmised that this story is based on a
+vanished voyage undertaken by the Vivaldi brothers, two mariners who sought to find a
+way to India in 1291 (Inferno 26.110n). That this was undertaken by ship, even to reach a
+known destination, is highly important. Untried sea routes, far more than their
+counterparts on land, lead to the truly new and unknown—not simply strange kingdoms,
+but a more fundamental novelty, present in the weather, landmasses and currents. It is not
+by chance that this coincides with the rise of the portolan chart—a map that drew its
+details from direct observation and the use of the newly adopted compass, a very different
+method from that of earlier cartographers—with which much of the Mediterranean and
+Atlantic coastline would be mapped with unprecedented accuracy (Crone 29). The
+reasons are such ventures are largely economic, but what is inaugurated here is a new,
+outward perspective that reaches its height two centuries later.
+Consider, too, the beginning of a precedence, broadly stated, of space over time.
+If earlier geographical knowledge comes in the form of the chronicle, in which
+knowledge of distant peoples is intrinsically tied to historical events, we now reach a
+point at which this relationship is reversed. The travels of Marco Polo or John
+Mandeville, though bound to an ostensibly real journey, consistently turn toward the
+broadest scale: the histories of kings, armies, countries:
+Let us now pass on to talk of another province, whose name is Bengal.
+This also lies towards the south on the confines of India. In the year 1290,
+when I, Marco, was at the court of the Great Khan, it had not yet been
+conquered; but the Khan’s armies were already there and engaged in the
+conquest. This province has a king and a language of its own. The people
+are grossly idolatrous. ... The oxen here are as high as elephants, though
+not so stout. The people live on meat, milk, and rice. They have cotton in
+plenty. (189)
+
+27
+
+Polo’s presence is briefly stated, but only as an indicator of larger events. Two centuries
+later, however, the larger picture has receded in favor of the actuality and strangeness of
+the voyage or encounter itself.
+
+A section of the Psalter world map, from the late 13th century. The Garden of Eden stands at the world’s
+easternmost edge, with the Red Sea recognizable on the right.
+
+This newer form—evident in the accounts of Christopher Columbus or Bernal
+Díaz—is based far more in the experience of an individual subject, taking the form of
+tendril-like forays into a vast unknown. Unlike the broad surveys of before, single
+encounters possess a seismic importance, and the scope of description is accordingly
+limited to the immediate surroundings. Bernal Díaz writes that “canoes came close to our
+ships, and we made signs of peace, waving our hands and our cloaks as an invitation to
+them to come and speak to us. For at that time we had not interpreters who knew the
+languages of Yucatan and Mexico...” (18). What is, above all, in question here is the
+
+28
+
+relation of the individual to a larger totality. As the latter increases in size and complexity,
+the prospect of knowing it in its entirety diminishes. The world has become far larger
+than previously conceived, and a single work can hardly hope to encompass it. Schedel’s
+Chronicle of the World, published in 1476, thought nothing of combining Biblical
+paraphrase—the Creation and Last Judgement begin and end the work—classical and
+contemporary history, and engravings of major cities and countries. The decisive change
+taking place—that which would render the former obsolete—isn’t a literal expansion of
+known space as it is a redefinition, or redrawing, of the very categories at play. Marco
+Polo goes through many different realms, but describes them in terms that seem to render
+them all as permutations of the same.* The seismic change that then occurs doesn’t result
+from such discoveries themselves as it does from the realization that these newfound
+landmasses aren’t simply mirrors of old ones. Instead of an array of foreign kings—
+perhaps Christian—ready to inaugurate trade, explorers encountered peoples they found
+utterly strange, for which their notions of culture and sovereignty did not account.†
+With these discoveries, cartographic representations of the earth undergo a shift
+from the encapsulatory—the map as an idealized picture of the world: Europe, Asia and
+Africa radiating outwards from Jerusalem—to the fragmentary—coastlines that stop
+abruptly, blank interiors, the ubiquitous terra incognita. And yet, there is always a
+movement back towards the unified whole. While new discoveries had unexpectedly
+distended and burst a formerly complete image of the world, efforts began immediately to
+* As
+
+Italo Calvino writes: “Marco Polo’s cities resembled one another, as if the passage from one to another
+involved not a journey but a change of elements.” (43).
+
+†
+
+This is not to say, of course, that attempts were not made to incorporate the new into a present system:
+Bernal Díaz speaks of “the great Montezuma,” recording that, when Cortes approached the latter, “each
+bowed deeply to the other” (217).
+
+29
+
+grasp it anew. This blankness in the image of the world “stabs us from behind with the
+thought of annihilation” (ch. 42), as Ishmael writes, hence the steadfast belief that “some
+certain significance lurks in all things, else all things are little worth, and the round world
+
+A section of Martin Waldseemüller’s Universalis Cosmographia of 1507, showing a part of South America—
+the continent that the map famously named.
+
+itself but an empty cipher.” When several characters thus examine and attempt to
+decipher Ahab’s doubloon, the captain himself remarks that “there’s another rendering
+now, but still one text” (ch. 99).
+The sphericity of the earth, and renderings of latitude and longitude, had been
+known since antiquity, but only now, with ships venturing onto the Atlantic with
+regularity, were attempts made to accurately utilize these principles. The first recorded
+use of the quadrant, by which a ship’s latitude can be accurate ascertained, dates to 1460
+(Crone 17; 78). On Mercator’s world map of 1569, a steady compass bearing would, for
+
+30
+
+the first time, produce a continuously straight line—thus achieving a concordance of
+magnetic details with the aforementioned celestial ones (114). This forms only one part,
+of course, of a long process—the accurate measurement of longitude, for example,
+remained an impossibility until the 18th century (142). A gap exists, with constant
+attempts at bridging it, between successively perfected models of the world and the
+perpetually incomplete task of applying them to actual movements.
+Out of this, a notion emerges of geographical space as such, where any point on a
+map corresponds to one on the surface of the earth. This is decisive, and its consequences
+are unexpected. For just as it opens the way to large-scale trade, and the commodification
+of land and populations, it also creates, in place of the broader categories by which the
+world was known before, a virtual infinitude of localities. The world-picture is less
+complete than ever, and its blank spaces harbor any number of marvels: El Dorado, the
+Northwest Passage, the kingdom of Prester John.
+Instead of fencing in or schematizing the unknown, imagined conceptions of the
+world are freighted with growth and complexity, and with that, a newfound sense of
+possibility. Fictions of the era hardly restrict themselves to literal discovery, but invent
+any number of hypothetical islands and countries. Even in the 19th century, the idea of
+uncharted seas still holds a certain plausibility: thus Mardi’s protagonist can sail from the
+real Pacific into a mythical archipelago.
+This manifests, more simply, in the way that narratives of exploration possess a
+generative quality. Alexander von Humboldt, writing of his first sight of the Southern
+Cross in 1799, remarks that “when we first glance at geographical maps, and read the
+
+31
+
+narratives of navigators, we feel a special charm for certain countries and climates, which
+we cannot explain when older... [which] exercise a considerable hold over what we do in
+life...” (Personal Narrative 42). Ishmael describes being enthralled by “the undeliverable,
+nameless perils of the whale,” and “the wild and distant seas where he rolled his island
+bulk” (ch. 1).
+As noted above, the proposed “encyclopedic mode” that Moby-Dick exemplifies
+involves, as one of its primary characteristics, the successive encapsulation of a previous
+culture, its “whole social and linguistic range” (Mendelson 1268), in its near-entirety.
+While the world that Ishmael explores is very much that of his time, the way in which it
+is recorded or filled brings together the vestiges of everything before. A contemporary of
+Lyell and Darwin, Melville still describes the fossilized remains of whales as
+“antediluvian,” “pre-Adamite” (Moby-Dick ch. 104). In what Guy Davenport terms the
+“geography of the imagination,” his Atlantic and Pacific are thoroughly haunted by the
+ancient Mediterranean, precisely “because its imaginative authority refuses to
+abdicate” (11). Ahab hunts the biblical Leviathan, just as Ishmael thinks in Greek terms
+when he speaks of having “boarded the Argo-Navis, and joined the chase against the
+starry Cetus” (ch. 57). In the “eternal swells” of the Pacific, the seas of Odysseus’s
+wanderings, in which space becomes time, come back to haunt the Pequod.
+And, amid the continuing precision in geography and navigation, there is a still a
+constant turn towards the blank and unmapped: “seas and archipelagoes which had no
+chart,” “numberless unknown worlds” beneath the surface of the ocean (ch. 24; ch. 58).
+Queequeg’s island of Rokovoko “is not down on any map; true places never are” (ch. 12).
+
+32
+
+At the same time, the limiting qualities of comprehensive geography make themselves
+apparent: “Were this world an endless plain,” imagines Ishmael, “we could forever reach
+new distances, and discover sights more strange than any Cyclades or Islands of King
+Solomon... but in pursuit of those far mysteries we dream of... they either lead us on in
+barren mazes or midway leave us whelmed” (ch. 53).
+Ishmael’s position is complicated, as discussed before, by the disparate types of
+experience that come to interact both within the novel and on the level of the text itself:
+the closeness to the sea, the larger trajectory of the narrative—both anticipated and
+recalled in writing—and the myriad of cultural contexts that comprise the larger world in
+which he resides. Ishmael’s subordinate position as a member of the crew, as well as the
+fact that the world he sails on has largely been mapped, lose importance when we
+recognize that his explorations take on a more subtle form than the mere venture into
+unknown territory. Taking the last phrase figuratively, though, we can indeed reduce the
+act of exploration to the unexpectedly simple form of individual moments of discovery.
+At the same time, however, ways of the seeing the world move on and develop, a
+trend that also “correlates with an expanding search for commercially exploitable
+resources” (Pratt 30). Out of the newly expanded globe, and empty spaces described
+before, come new schemes of classification and knowledge. These are tied, in particular,
+to the rise of the natural sciences, with which the world is apprehended by radically new
+methods. “For three centuries,” writes Mary-Louise Pratt, “European knowledge-making
+apparatuses had been construing the planet above all in navigational terms... [giving] rise
+to two totalizing or planetary projects:” circumnavigation, completed early on, and the
+
+33
+
+mapping of the earth’s coastlines (29). Unlike these two, however, both concerned with
+the broader contours of the earth, the new sciences go beyond that, wrenching meaning
+from the entirety of nature. Being drawn here is “not the thin track of a route taken, nor
+the lines where land and water meet, but the internal “contents” of those land and water
+masses whose spread made up the surface of the planet,” in what constitutes a
+‘mapping’... of every visible square, or even cubic, inch of the world’s surface” (30). This
+bears witness not only to scientific sophistication—as its own narrative would assert—
+but to the increasingly complex networks of exchange that underlie any such endeavor:
+measuring, accumulating, synthesizing the forms of nature into concrete representations.
+Forays into remote territories are gradually refashioned for these purposes. Alexander von
+Humboldt includes in his Personal Narrative an exhaustive list of scientific instruments
+brought along on the journey (17n).
+As discussed before, the spatializing function of cartography is particularly suited
+to the representation of complex systems or arrays—the organic currents of an
+archipelago, or the extensive body of statements concerning a subject of knowledge. This
+is precisely achieved, however, through a simultaneous equalization of disparate objects.
+Just as an actual landscape is “flattened” in order to render it in two dimensions, disparate
+objects and categories are rewritten in a unifying language.
+Hence comes the central position of the map in Bruno Latour’s understanding of
+the scientific culture that emerges at this time. The term that Latour uses for these
+notations—the basic unit, in other words, of the world’s scientific conception—is the
+inscription. The production of these—through “bearings, clocks, diaries, labels,
+
+34
+
+dictionaries, specimens, herbaries” and more—comes to form the goal of every
+expedition sent out from Europe (218). Out of these inscriptions, and by a longer process,
+“immutable and combinable mobiles” are formed, with which information about the
+world comes to be circulated and utilized (227). Through this steady accumulation, the
+traveler in a foreign land—ostensibly in the weaker position—becomes the more
+powerful, even if visiting a place for the very first time (220-221). Alongside the
+conceptual shift discussed above—the change in images of the world—we can identify a
+functional one as well, in which such representations move from merely being
+byproducts of a given time, or symbols of dominion, to the actual tools of conquest and
+subjugation.
+In this vein, we can turn to a particular episode of Melville’s novel. Soon after
+Ahab has declared to the crew his intent to find and kill Moby Dick, we read the
+following passages:
+Had you followed Captain Ahab down into his cabin… you would have
+seen him go to a locker in the transom, and bringing out a large wrinkled
+roll of yellowish sea charts, spread them before him on his screwed-down
+table. Then seating himself before it, you would have seen him intently
+study the various lines and shadings which there met his eye; and with
+slow but steady pencil trace additional courses over spaces that before
+were blank…
+...with the charts of all four oceans before him, Ahab was threading a
+maze of currents and eddies, with a view to the more certain
+accomplishment of that monomaniac thought of his soul. (ch. 44)
+This scene provides a glimpse into the literal mapping out of the Pequod's voyage, in
+opposition to the more abstract forces—"that monomaniac thought of his soul" or the
+more distant powers Ahab himself ponders—that, in a broadly poetic reading of the
+novel, seem to guide the ship. Despite the apparent madness of his intent, Ahab’s method
+
+35
+
+is rational, scientific. Even “in that broad madness,” writes Ishmael, “not one jot of his
+great natural intellect had perished” (ch. 41), and it is with this that apprehends the sea
+and its creatures in their inner workings, as a system to be deciphered (“you would have
+seen him intently study the various lines and shadings...”). This is something of a
+revelation, writes D. Graham Burnett: “Ahab, despite his surging, demonic passions, is a
+creature of incisive rationality, of methodical and empirical mind... a practitioner of some
+of the most sophisticated natural science of his day” (113). What appears, at first, to be a
+unified action—the clear line of the ship’s course, the singular driving force of Ahab’s
+will—is in fact far more complicated. Ahab’s act of plotting (“with slow but steady pencil
+[tracing] additional courses over spaces that before were blank”) encompasses several
+different elements and stages: grasping information from logs and previous records,
+synthesizing them, charting the ship’s course, and relaying the relevant information to the
+crew—in other words, precisely the kind of knowledge creation, through mobile sources
+of information and newly created inscriptions, that Latour describes. Mapping the ship’s
+course, then, occurs not only through its nominal act, but in the confluence of any number
+of other elements.
+Nor is this broader perspective limited to later criticism, being instead
+acknowledged implicitly by Melville himself. In the same chapter, we read that “attempts
+have been made to construct elaborate migratory charts of the sperm whale,” a statement
+accompanied by a brief footnote explaining that “since the above was written, the
+statement is happily borne out by an official circular, issued by Lieutenant Maury, of the
+National Observatory, Washington, April 16th, 1851. By that circular, it appears that
+
+36
+
+precisely such a chart is in course of completion...” (ch. 44). “Lieutenant Maury” refers to
+Matthew Fontaine Maury—a figure less known today but recognized in his time as an
+eminent oceanographer.
+Pratt writes that “unlike navigational mapping... natural history conceived of the
+world as a chaos out of which the scientist produced an order” (30). From this comes a
+tendency toward grandly synthetic projects: a “planetary consciousness,” suggesting both
+the substrate of such endeavors as well as the view of the world they engendered (29). In
+the 1830s, Alexander von Humboldt conceived of his magnum opus, Cosmos, as a
+“physical description of the universe, embracing all created things in the regions of space
+and earth... the remotest double stars in the regions of space, no less than the telluric
+phenomena included under the department of the geography of organic forms” (x).
+Within this grandiose rhetoric is a profound belief in the scientific method as the means
+by which this grandest scheme is revealed: only “considered rationally, that is, submitted
+to the process of thought,” is nature grasped in its “unity in diversity of phenomena; a
+harmony, blending together all created things, however dissimilar in form and attributes;
+one great whole (τὸ πᾶν)* animated by the breath of life” (24). This is the sentiment of
+the day, under which Melville writes and Ahab operates. As late as 1870, an article in
+Harper’s, written by one T. B. Maury † about Atlantic currents, reads as follows:
+Above all, we behold the wheels of the terrestrial machinery in motion—
+every breeze that blows, every wave that rolls, even the volcanic fire
+beneath the sea, conspiring to make good to man the dominion of the
+earth, and to instate him in the possession of every inch of his Heavengiven heritage, from pole to pole. (81)
+*
+
+Greek for “the total,” “the whole,” or as Melville would put it: “the all.”
+
+†
+
+Whether or not both Maurys are related is unclear—if not, the coincidence is striking.
+
+37
+
+The religious invocation might be distinctly American—or suiting a popular publication
+—but more important is the conception of nature—not only is it a “terrestrial machinery,”
+but one serving a single purpose.
+
+Maury’s 1851 chart, indicating the presence of sperm and right (Greenland) whales according to season
+and geographical location.
+
+Like Maury, Ahab approaches the “formless, empty, recalcitrant space” of the sea
+“with the intention of showing that it was a precisely calibrated and complex
+machine” (Burnett 128). The two share a vertiginous urge to link together, to interpret,
+during the process of which the mechanisms and reasoning of scientific practice are
+placed in the service of unified goals. In both cases, these conclusions lie in a
+transcendent realm. “For Maury,” writes D. Graham Burnett, “teleology and biblical
+apologetics retained a central place in the proper investigation of nature. As he put it in
+
+38
+
+The Physical Geography of the Sea: ‘The theory upon which this work is conducted is
+that the earth was made for man,’ and it followed from this that nature manifested divine
+intelligence in all its elements, from the stem of a snowdrop flower to the meridian transit
+of a bright star” (128). It is tempting, then, to see Ahab as Maury’s demonic counterpart,
+obsessed not with “divine intelligence” but with what Ishmael terms “the subtle
+demonisms of life and thought” (ch. 41). In the vein of Pratt’s “planetary consciousness,”
+we can consider Melville’s aim as the similar creation of a microcosmic world out of
+wildly disparate particularities. Ishmael and Ahab both share this, albeit in different ways.
+Here is Moby-Dick’s immediate political dimension, coming out of a certain
+moment in history. In ascertaining the dominant ideologies of this time, we often speak of
+“empire” or “imperialism.” These words both come from Latin: imperare, to command—
+and it is in this sense that we can view Melville in a broader context once again. Rather
+than restricting ourselves, we might consider how he deals more abstractly with power—
+speaking not in the language of history or politics, but about gravity, cohesion and
+dispersal. Olson goes so far as to talk about “magic,” which “has one purpose: compel
+man or non-human forces to do one’s will” (13). Ahab’s plotting of a singular course in a
+world of ceaseless fluxion, itself an act of unforeseen complexity, requires as its
+antecedent a mastery of the forces—human and otherwise—surrounding him.
+Launched out onto the sea, he expounds on whaling with the proverbial zeal of a
+new convert. The Nantucketer, he writes, “launching a navy of great ships on the sea,
+explored this watery world; put an incessant belt of circumnavigations round it” (ch. 14).
+In humorously polemical dialogue—repeating each mock question incredulously, and
+
+39
+
+following it with an indignant retort: “No dignity in whaling? The dignity of our calling
+the very heavens attest...”—he sets out to “prospectively ascribe all the honor and the
+glory to whaling” (ch. 24), positing it as the secret undercurrent to any and all triumphs of
+Western civilization. In this and other places, Melville’s depiction of whaling is by no
+means unequivocally negative—a perceived inadequacy that has led to his exclusion, at
+times, from the American environmentalist canon that includes Thoreau, Muir, and
+others. It is precisely this ambiguity, however, that conveys the hold whaling might have
+on the imagination: the prospect of “honor and glory” (ch. 24); “the attending marvels of
+a thousand Patagonian sights and sounds” (ch. 1). And, as Ahab takes over not only the
+Pequod, but—it seems—the narrative itself, Ishmael threatens to turn, in our mind—from
+the kind of manic tour guide of before—to something more sinister: a passive enabler of
+Ahab’s endeavor.
+In part, this comes out of the unusually grand scale at which Ishmael often seems
+to regard the world. To what extent could the death of one whale, or many, hold particular
+significance or stand as a calamity to a narrator who seeks out the broadest possible
+moral perspective—“the scales of the New Testament” (ch. 1)—or who describes the sea
+in terms of its “universal cannibalism,” an “eternal war since the world began?” (ch. 58).
+Debating whether or not the whale “will perish,” he concludes that it is impossible, that
+“if ever the world is to be again flooded... the eternal whale will still survive (ch. 105). It
+is this tacit acceptance of violence—not only of the novel, but of the world at large—that
+seems problematic at times.
+
+40
+
+This is somewhat predicated by Ishmael’s entrance into a realm of vastly different
+social class.* Charles Olson notes that unlike “the days when [sailors] knew the fathers of
+every man in their crew... [whaling] was already a sweated industry by the time Melville
+was a hand,” and that “the crews were the bottom dogs of all nations and all races” (21).
+Ishmael’s exuberant defense of whaling is to some extent a worthy cause, even a
+necessary one, as it goes against the view, common at the time, of whaling as the most
+demeaning and lowest of all professions. What this prejudice amounts to, given the very
+dependence of 19th-century Americans on this dirtiest of professions—an indebtedness
+apparent in “all the tapers, lamps, and candles that burn round the globe” (ch. 24), as well
+as in its less visible economic dimensions—is a hypocritical consignment of barbarism,
+and scapegoating of moral responsibility, onto the lower classes.
+But there is a broader point being made here. Human violence, like its animal
+counterpart below the hull, is natural, immemorial: its stage, as the Old Manx Sailor says,
+is “the ringed horizon” where “Cain struck Abel” (ch. 40). Ahab’s dismembering
+encounter with Moby-Dick stands in similar antecedent to the events of the novel. To
+condemn strife that seems thus preordained would be to miss the book’s “larger, deeper,
+darker” center (ch. 41). The same patterns that reign on deck are manifested in the sea:
+the “subtleness” of its “most dreaded creatures” (ch. 58), the predation that is perpetual
+yet unseen, turns from an undertone to a vertiginous center when sufficiently galvanized.
+Sharks, normally out of sight, congregate in the “thousands and thousands” around a
+whale carcass, as urges particular in themselves accumulate into a vast, unidirectional
+*
+
+This has its basis in Melville’s own middle-class background, from which going to sea as a whaler
+constituted a notable break. In Typee, he surmises that his traveling companion Toby, “like myself, had
+evidently moved in a different sphere of life” (ch. 5).
+
+41
+
+force.* The Pequod’s cook, maintaining first in his sermon to these creatures, that “if you
+gobern de shark in you, why den you be angel; for all angel is not’ing more dan de shark
+well goberned,” soon gives up this endeavor (ch. 64). If this futility makes a comic point
+about the impossibility of human-shark communication, we can see another, more general
+one within it: the inscrutability, and seeming opacity, of individuals—animal or human—
+drawn into spheres of power.
+Violent acts, inert by themselves, suddenly accumulate in the presence of a
+catalyst: a vertiginous force that rigorously commands attention, steering all drives
+towards itself. What stands, in Melville’s cosmos, as the center of gravity, is the kind of
+power, embodied in Ahab, that might impose its will on the actions of many individuals
+—not simply through ordering them around “to scrub the decks,” as Ishmael speculates
+dismissively in the first chapter—adding, simply, “who ain’t a slave? Tell me that” (ch.
+1), but by welding many disparate volitions into one:
+They were one man, not thirty. For as the one ship that held them all;
+though it was put together of all contrasting things—oak, and maple, and
+pine wood; iron, and pitch, and help—yet all these ran into each other in
+the one concrete hull... even so, all the individualities of the crew, this
+man’s valor, that man’s fear; guilt and guiltiness, all varieties were welded
+into oneness, and were all directed to that fatal goal which Ahab their one
+lord and keel did point to. (ch. 134)
+In Olson’s words, Ahab “invokes his own evil world... uses black magic to achieve his
+own vengeful ends. With the very words ‘in nomine diaboli’ he believes he utters a Spell
+and performs a Rite of magic,” the purpose of which is to “compel men or non-human
+forces to do one’s will” (53; 13).
+*
+
+“If you have never seen that sight,” remarks Ishmael, “then suspend your decision about the propriety of
+devil-worship, and the expediency of conciliating the devil” (ch. 64).
+
+42
+
+Ahab shares his name with an apostate ruler in the Old Testament—and though
+Peleg strongly rebukes Ishmael for his mention of “that wicked king,” insisting that the
+captain “did not name himself,” he acknowledges that “yet the old squaw Tistig, at
+Gayhead, said that the name would somehow prove prophetic” (ch. 16). Of the same
+figure, we later read that “though nominally included in the census of Christendom, he
+was still an alien to it” (ch. 34); an observation that, if initially inferred, is later confirmed
+unmistakably, perhaps most notably in the Satanic baptism of his harpoon and final cry of
+“from hell’s heart I stab at thee...!” (ch. 135).
+Through his “dark characters,” Melville writes in “Hawthorne and his Mosses,”
+Shakespeare “craftily says, or sometimes insinuates the things, which we feel to be so
+terrifically true, that it were all but madness for any good man, in his own proper
+character, to utter, or even hint of them” (1160). King Lear, writes Charles Olson, “was
+most kin to Melville,” with Ahab and Pip standing in a similar relationship to Lear and
+the Fool, and “Ishmael at the end to tell the tale of Ahab’s tragedy as Kent remained to
+speak these last words of Lear” (51; 63). Just as Hawthorne’s “great, deep intellect...
+drops down into the universe like a plummet” (“Hawthorne” 1158), “dark characters”
+such as Lear—or Ahab—possess a mysterious weight or force that plunges down beneath
+everyday life, pulling along everything in the vicinity, illuminating their surroundings, as
+Milton writes in Paradise Lost, with “no light, but rather darkness visible” (1.63).
+Ishmael, for all his silent anticipation of the sea’s “attending marvels” (ch. 1),
+finds himself strangely inarticulate even before Peleg and Bildad’s relatively benevolent
+authority: unconsciously mimicking the Quaker “I dost,” and understating, as discussed
+
+43
+
+above, his apprehension of the sea (ch. 16). Ahab is different: his rhetorical powers lie not
+in the art of writing, but in oratory,* enabling him, with incantatory power, to bend the
+crew, even the narrative itself, to his ends. Even the silence prefiguring his speech
+becomes weighted with portent. The novel, ostensibly written by Ishmael about his
+experiences, becomes dominated, in its broad structure, by Ahab’s struggle.
+Ishmael shrinks back from claims of divine will or knowledge: “the awful
+tauntings in Job might well appall me” (ch. 32). This is not so with Ahab, however, who
+sets himself apart by implying his status as an equal, or even antagonist, of the divine. He
+acts as a usurper, akin to the Gnostic demiurge, in place of the actual, unseen God, and
+herein lies his power. Charles Olson implies a similar falsehood in such invocation: “this
+is the Ahab-world,” he writes, “and it is wicked” (54). The central struggle of Moby-Dick,
+then, is between Ishmael and Ahab—or rather, between Melville and the vertiginous
+presence—called “evil” by some, but more than simply that at the same time—that he
+sets out to represent.
+This is one way of conceiving the book, but a strange one, precisely because it
+casts the dynamic in terms of a struggle or antagonism that, though useful, isn’t entirely
+there. Ahab and Ishmael never speak or confront each other, and—rather than moving
+away from Ahab as the narrative progresses—Ishmael only inches ever closer, finally
+serving in the same boat, as an oarsman in the final chase. How can we refer to two
+characters—two worlds—when they seem to be intrinsically enmeshed, with Ishmael
+fully complicit in Ahab’s venture?
+
+*
+
+It should be noted that the two were less separate in the 19th century—members of the Melville family,
+for example, often read aloud to each other in the evenings (Parker 806).
+
+44
+
+The recognition of this unity is key, and, moving away from the earlier emphasis
+on opposition, leads us to a view of the novel in terms of its different affinities. Initially,
+the outcast Ishmael befriends Queequeg, at which point, he writes, “no more my
+splintered heart and maddened hand were turned against the wolfish world” (ch. 10). This
+is, in fact, a pattern characteristic to Melville—every protagonist from Typee to WhiteJacket finds a similar “bosom friend.” “For Melville,” writes Guy Davenport, “the alter
+ego was male and complementary” (216). Unlike the relative constancy of his earlier
+works, however, the pattern here is complicated by a larger constellation of figures.
+Most notable among these is Ahab, whose almost mesmeric appeal resembles a
+strange, inverted version of the warm friendship of before. “A wild, mystical,
+sympathetical feeling was in me,” says Ishmael in retrospect, “Ahab’s quenchless feud
+seemed mine” (ch. 41). At the root of this is a propensity towards similar feelings of unity
+that occur in Melville’s work, often described in terms of synchronized movement or
+motion: “...beneath me, at the Equator, the earth pulses and beats like a warrior’s heart,
+till I know not, whether it be not myself” (Mardi ch. 119). These are extreme states, to be
+sure, always transitory. To Hawthorne, Melville writes that “this all feeling, though, there
+is some truth in... But what plays the mischief with the truth is that men will insist upon
+the universal application of a temporary feeling or opinion” (194). The feelings are there,
+however, and we are continually drawn to them.
+“To evoke night and day or the ancient hypnosis of the sea,” writes Robert
+Duncan, “is to evoke our powerful longing to fall back into periodic structure, into the
+inertia of uncomplicated matter” (2). At the mast-head, Ishmael tells us, “there is no life
+
+45
+
+in thee, now, except that rocking life imparted by a gently rolling ship; by her, borrowed
+from the sea; by the sea, from the inscrutable tides of God” (ch. 35). Far from being the
+indulgence of “absent-minded philosophers,” these sensations constitute the fulfillment of
+deep, primal urges. Such mystical correspondences, at their most rudimentary, are
+intensely physical. As Duncan writes, “tide-flow under the sun and moon of the sea,
+systole and diastole of the heart, these rhythms lie deep in our experience” (2)—a
+yearning towards a being in concordance with that of the outer world.
+This is particularly interesting, and especially appropriate, when described in
+astronomical terms: “the tinglings of life... that are felt in the planets Saturn and Venus,
+and the Fixed Stars” (to Hawthorne; Correspondence 193). In Redburn, we read of “a
+wonderful thing in me, that responded to all the wild commotion of the outer world; and
+went reeling on and on with the planets in their orbits” (ch. 13). In Mardi, the image is
+externalized, with the protagonist and the “many souls” that reside in him conceived of as
+a planetary system within yet another, akin to Jupiter or Saturn and their moons: “though
+many satellites revolve around me, I and all mine revolve round the great central Truth,
+sun-like, fixed and luminous forever in the foundationless firmament” (ch. 119).
+This is a compelling register of images, and one that readily carries over to MobyDick. The crucial difference—the “dark center” remarked on earlier—is that the central
+position here is occupied by Ahab, who confronts the central star directly: “These eyes of
+mine look into the very eye that is even now beholding [Moby Dick]; aye, and into the
+eye that is even now equally beholding the objects on the unknown, thither side of thee,
+thou sun!” (ch. 118). In the manner of an eclipse, Ahab’s ascendance constitutes an
+
+46
+
+occlusion or occultation of the divine. His influence on the crew is gravitational,
+successively pulling them, like smaller planets and moons, into his malignant orbit. And
+if, for a moment, we abandon the Newtonian model for Einstein’s—in which successively
+larger bodies sink more deeply into the planar fabric of space-time—the manner in which
+he “drops down into the universe like a plummet” becomes newly apparent. Like a black
+hole, the “larger, deeper, darker part” of which allows nothing to escape (Moby-Dick ch.
+41), not even light, he remains mysterious even to those who revolve around him.
+With this in mind, we arrive at another view of “The Chart,” this time not in the
+literal implications discussed above, but as the point at which multiple strands of
+determination intertwine, and where Ahab’s chart, besides the physical and geographical
+function discussed above, also serves as a means of confronting the similarly uncharted
+space of the novel. Ahab seeks to find the whale, at the same time that Melville attempts
+to render plausible the idea that Ahab should even be able to do so, in all the “unhooped
+oceans of this planet” (ch. 44).
+The schematization of the sea, or the plotting of a course, find an appropriate
+analogy in the novel, as the mapping of celestial latitudes and meridians onto the earth’s
+surface comes to mimic the fixture of a sprawling, disparate text onto a “starred” fate or
+doom. Just as the contours of a map belie the heterogeneity beneath, the concept of a
+fated voyage is strangely at odds with the bulk and variety of Melville’s novel. In the
+same manner in which he draws the disparities of the sea together to form a unified
+course, and makes the Pequod’s crew an extension of his own volition, Ahab binds the
+unbound space of the novel itself.
+
+47
+
+In a letter to his brother in 1850—a year before the novel was published—the
+editor Evert Duyckinck noted that “Melville has a new book mostly done, a romantic,
+fanciful & most literal & most enjoyable presentment of the Whale Fishery” (qtd. in
+Olson 35). Setting out to write a romance, perhaps in the manner of his earlier Mardi,
+Melville found at the center of his preoccupations the malignancy of Ahab. “Now
+revolving in the troubled orbit of his book” (Pierre 298), his sojourns in language and
+space, like those of Ishmael, would be dictated by those of the Pequod’s captain.
+But Ahab, though he strives for totality, or absolute power, is only one part of a
+larger cosmos—one that includes much more. It is easy to neglect this, for Ahab’s power
+extends to readers of Moby-Dick, who mistake his pursuit for the entirety of the novel,
+and his usurpation for legitimate sovereignty. The central question, then, becomes the
+way in which Ishmael subverts Ahab, recounting the narrative of his quest for vengeance
+without letting its retelling subsume him once again. Here, the idea of mapping comes in
+once more: not simply in the sense of plotting out a chart or course, but of depicting the
+broader world. The idea, present here, of “elsewhere”—the myriad of other things in the
+world that demand attention—is key.
+
+48
+
+III
+Mare Fecunditatis
+
+...powered not by physical strength but by a momentum of mind, of wonder and joy,
+movement driven by movement itself, by the sun and heat and cold on his neck, the
+astonishment of the natural world unfolding.
+Daniel Mason, “The Ecstasy of Alfred Russell Wallace”
+
+In Terrence Malick’s The Thin Red Line, we return to the Pacific, continuing the
+American fascination with that sea begun with Melville’s own Polynesian romances a
+century and a half before.* Now, however, the ostensible island paradise is dotted with
+bunkers, the sounds of birds mingled with those of artillery, as we find ourselves amidst
+the Battle of Guadalcanal during the Second World War. Beyond this geographical
+affinity, however, we can observe familiar processes at work. Disparate individuals are
+collected together, made into one entity. Territorial ambitions are narrowed down to halfmad fixations—this island, that ridge. We have seen these patterns before: on the deck of
+the Pequod. And in both works, all of this occurs in the midst of an infinitely wider
+world, one that never ceases to present itself.
+In one scene in Malick’s film, two soldiers, sent ahead as scouts, are shot
+unexpectedly by unseen enemies. Then a cloud moves, and the entire hill, covered in
+waving grass, is suddenly illuminated. The two events are worlds apart, even if joined in
+
+*
+
+It should be noted, however, that both islands are not only separated by considerable geographical
+distance, but belong to different cultural groups: the Marquesas to the Polynesian, Guadalcanal to the
+Melanesian.
+
+49
+
+narrative sequence. “What’s this war at the heart of nature?” asks Witt, the film’s narrator,
+“why does nature vie with itself?” The second question seems to answer the first: how
+different, after all, is that nature from the violence that occurs within it—have we not
+simply made arbitrary distinctions, drawn false lines, from the very beginning? But to
+abandon these, it seems, would be to leave behind something of ourselves as well. If
+Witt’s language is run through with such questions, his physical existence answers them
+with a kind of quiet astonishment: “through... a distancing from [the world]; an evenness
+of witnessing” (Bersani 158). Like the conviviality of Ishmael, who seeks to be “on
+friendly terms with all the inmates of the place one lodges in” (ch. 1), Witt’s equanimity
+is one that threatens to turn into outright passivity. The problem that confronts us in
+Malick’s film is the same we face in Melville’s novel: how to open oneself fully to the
+world and, at the same time, avoid being devoured by its vertiginous centers of power.
+The path that Malick takes, as Leo Bersani suggests, involves a decisive embrace
+of the film’s aesthetic dimension—that which necessarily lies outside of narrative events.
+The very act of looking—through characters that, by the camera apparatus, are
+“individuated not as personalities but as perspectives on the world” (146)—becomes here
+“a mode of implication, of connectedness” (159). Questioned in a brig for his erstwhile
+desertion, Witt claims to have “seen another world”—a weighty claim, and one we
+initially assume to refer to the Melanesian village we find him in at the film’s beginning
+(set, no less, to Fauré’s “In Paradisum”). But as the film moves on—and with it, the
+constant accumulation of images that look outward from the violence of the narrative
+events themselves—it becomes clear that the “other world” is, in fact, manifest in this
+
+50
+
+one. Bersani speaks of the emergence of an “ontology of universal immanence: the
+surfaces of all things ‘quiver’ from the presence within them of all the other things to
+which they relate” (169).
+
+Interconnectedness, in this sense, suggests not the immediate apprehension of
+things in a totality, or the sudden dissolution of the individual. Rather, it involves, as its
+necessary antecedent, the recognition of all objects, of the world’s localities, as grounded
+in their actual existences: the thing-ness that exists before and beyond the grasp of any
+“totalizing classificatory schemas” (Pratt 28). This infinite, teeming variety in all its
+concrete particulars, Melville suggests, is what lies at nature’s deepest, most
+unfathomable level—a fact that even Ahab comes to surmise.
+Then gazing at his quadrant, and handling, one after the other, its
+numerous cabalistical contrivances, he pondered again, and muttered:
+"Foolish toy! babies' plaything of haughty Admirals, and Commodores,
+and Captains; the world brags of thee, of thy cunning and might; but what
+after all canst thou do, but tell the poor, pitiful point, where thou thyself
+happenest to be on this wide planet, and the hand that holds thee: no! not
+one jot more! Thou canst not tell where one drop of water or one grain of
+sand will be to-morrow noon; and yet with thy impotence thou insultest
+the sun! Science! Curse thee, thou vain toy; and cursed be all the things
+that cast man's eyes aloft to that heaven, whose live vividness but scorches
+him... Curse thee, thou quadrant!" dashing it to the deck, "no longer will I
+
+51
+
+guide my earthly way by thee; the level ship's compass, and the level
+deadreckoning, by log and by line; these shall conduct me, and show me
+my place on the sea. Aye," lighting from the boat to the deck, "thus I
+trample on thee, thou paltry thing that feebly pointest on high; thus I split
+and destroy thee!" (ch. 118).
+This oration occurs right before “The Candles”—the chapter that Olson identifies as a
+turning point after which Ahab’s “tone, from this moment, is richer, quieter, less angry
+and strident,” akin to “Macbeth in his soliloquy of tomorrow, before Macduff will meet
+and match him” (60; 62). On the one hand, this moment would seem to be an entry into a
+realm of pure madness or intent—the point where Ahab gives himself wholly over to fate.
+But something else happens as well: Ahab seems to extricate himself from the set of
+mechanical devices that have enabled his progress (“thus I split and destroy thee!”) and
+thus reveals their separate natures. Like the quadrant, hurled not into the sea but,
+viscerally, upon the deck, Ahab’s network of “contrivances,” carefully assembled for the
+purpose of finding the whale, suddenly bursts apart.
+“Be a man’s intellectual superiority what it will,” writes Ishmael, “it can never
+assume the practical, available supremacy over other men without the aid of some sort of
+external arts and entrenchments, always, in themselves, more or less paltry and base” (ch.
+33). Like Matthew Fontaine Maury, Ahab has depended on “allies, standardized delegates
+that were faithful, true and subservient,” either human or, more interestingly, nonhuman
+(Crawford 2). Included here, in true Latourian fashion, are not only the “cabalistic
+contrivances” by which he practices his navigational craft, but a far broader panoply—
+whales, ocean currents; in short, “the wheels of the terrestrial machinery in motion”—that
+he has depended on. And if up to now, he has regarded “all visible objects... as pasteboard
+
+52
+
+masks” behind which “some unknown but still reasoning thing puts forth the mouldings
+of its features” (ch. 36), what now flashes forth is a radically different conception of the
+world: one where, instead of being seen in drastically reductive schemata, each and every
+individual once again stands apart. We have previously considered the map as particularly
+suited to the apprehension of such a world, but now this itself has to be called into
+question: the map’s bringing-together of disparate forces, in a way that always seems
+somehow synthesizing and teleological—even in the guise of greater space and freedom
+than its written counterparts—runs counter to what remains perpetually heterogenous and
+fragmentary: the thing-ness of the world.
+The act of mapping thus always threatens to deny the ceaseless flux of the
+landscape it seeks to describe. In Redburn, the young protagonist attempts to find his way
+around the city of Liverpool with an old guidebook of his deceased father, but finds it to
+be hopelessly out of date. He tells himself that “as your father's guidebook is no guide for
+you, neither would yours (could you afford to buy a modern one to-day) be a true guide
+to those who come after you. Guide-books... are the least reliable books in all literature;
+and nearly all literature, in one sense, is made up of guide-books.” (ch. 31). The problem
+lies not with the city itself, but with the persistent attempts to catalogue it. And though the
+sea would seem exempt from this—an “everlasting terra incognita” (Moby-Dick ch. 58)
+—this has already changed by Melville’s time, having begun with the emergence of the
+world’s oceans as a crucial new stage for conflict and trade, and more decisively with the
+advent of sciences, described above, allowing one to locate and classify the movements
+and patterns of the sea, along with the living organisms whose “hidden ways... remain, in
+
+53
+
+great part, unaccountable to [their] pursuers” (ch. 41). But even if the danger posed by
+imperial ambitions to the “empty” sea is very real—a fact more easily grasped in
+hindsight, as we recognize, in the factory-like Pequod, a harbinger of various distended
+industries to come—it is also here, on the open ocean, that its ultimate failure becomes
+clear.
+Ishmael, at first, loudly trumpets the explorations of whalers, writing that “thus
+have these naked Nantucketers... overrun and conquered the watery world like so many
+Alexanders; parcelling out among them the Atlantic, Pacific, and Indian oceans” (ch. 14),
+and that "for many years past the whale-ship has been the pioneer in ferreting out the
+remotest and least known parts of the earth… seas and archipelagoes which had no chart,
+where no Cook or Vancouver had ever sailed" (ch. 24). The possessive nature of
+cartography is made clear here: not only does it involve apprehending a space, but
+“ferreting [it] out,” placing boundaries and names on “archipelagoes which had no chart.”
+Going onward from here, however, he arrives at an admission of the futility of such
+endeavors amid the unknowability of the sea, “so that Columbus sailed over numberless
+unknown worlds to discover his one superficial western one” (ch. 58). Our attention
+moves, in other words, from singular, “pioneering” achievements—discovery, conquest
+and possession, geographical and otherwise—to the myriad, tangential outgrowths that
+surround the singular on all sides.
+This should already be familiar to us through the narrative structures that Melville
+first explores in his earlier work, moving not strictly from one narrative event to the next,
+but from point to point of interest or fascination—narrative as a navigational act. In
+
+54
+
+Mardi, a chapter is devoted to describing “the Chondropterygii, and Other Uncouth
+Hordes Infesting The South Seas” (ch. 8), another to “Time and Temples” (ch. 75)—
+while White-Jacket takes this furthest, moving with complete freedom through the
+various echelons of a man-of-war, and ending only with the ship’s arrival in Boston, at
+the end of its journey.
+Some of Ishmael’s more ecstatic tangents come to sound almost parodic, as when
+he imagines “long rows of angels in Paradise, each with his hands in a jar of
+spermaceti” (ch. 94). Edward Said notes the novel’s frequent “exaggerations, its
+elephantine humor, and its often grotesque rhetoric,” writing that they “suggest not the
+learned scholar but a writer trying relentlessly to impress his audience” (360). This need
+not be a drawback—instead, it is indicative of a relentlessly searching state of mind,
+seeking through infinitely articulated space for the island of expression that will give a
+reader imaginative purchase. Melville’s exaggerations in rhetoric, his sometimes gleeful
+pursuit of the seemingly extraneous, points to a mode of inquiry much like that of
+Thomas Browne, who habitually and rapidly moves between subjects. Browne compiles,
+in Pseudodoxia Epidemica, a collection of “Common Errors” ranging from elephants,
+griffins and lampreys to Egyptian hieroglyphs and the “cessation of Oracles” (Major
+Works 169; 164), and invents, in his Musæum Clausum, a fictional array of curiosities:
+lost works by Ovid and Cicero; various artifacts that include “the Skin of a Snake bred
+out of the Spinal Marrow of a Man” and “the Homerican Battel between Frogs and Mice,
+neatly described upon the Chizel Bone of a large Pike’s Jaw” (109-111; 118-119). Like
+the cabinets of curiosities maintained in the same period, Browne’s work depicts—or
+
+55
+
+rather intimates—the world through successive fragments, “one irreducibly individual
+object after another, the brute singularity of each resisting all attempts at generalization or
+categorization” (Daston 266; 272). We think here of prodigies and wonders, but this
+“brute singularity,” if sought after, exists everywhere. It was in insects and rodents, writes
+Browne, that “Solomon chose the object of his admiration, indeed what reason may not
+goe to Schoole on the wisedome of Bees, Aunts, and Spiders?” (Major Works 77-78). If
+still grounded firmly in Aristotelian cosmology, he anticipates later thought in this regard.
+The achievement of Hume, writes Gilles Deleuze, was to conceive of a “world of
+exteriority... in which the conjunction ‘and’ dethrones the interiority of the verb ‘is’; a
+harlequin world of multicolored patterns and non-totalizable fragments” (38). The
+contemplation of any one fragment leads only to another fragment, and so on.
+Here we return to the lines and courses of the map, which, in Melville’s hands,
+aren’t an attempt to wrench tangible things out of a recalcitrant outer world so much as a
+representational space that—through its structure and language (recall here the “peculiar
+indeterminacy of form” that Mendelson ascribes to the encyclopedic mode)—opens itself
+fully to that world’s complexity. Consider Borges’ story, “On Exactitude in Science,”
+about an empire in which “the Cartographers Guilds struck a Map of the Empire whose
+size was that of the Empire, and which coincided point for point with it” (325). Within
+this reductio ad absurdum, there is a broader point being made about the nature of
+cartography. Where does the map end and the world begin (or vice-versa)? The
+boundaries are indistinguishable and obscure. A notion of mapping emerges here that,
+rather than subordinating complexity to abstraction, meets it halfway, so to speak,
+
+56
+
+working through innumerable points of interest. This image of the world, then, is as
+thoroughly teeming as its external counterpart.
+To conceive of the world in this way is to abandon attempts at quantifying,
+reducing, totalizing—even including metaphysical categories: the self, the world,
+divinity. In a letter to Nathaniel Hawthorne, Melville hypothesizes that “perhaps, after all,
+there is no secret”—no ultimate mystery, akin to “the Freemason’s mighty secret, so
+terrible to all children,” being withheld by divine powers. He adds: “as soon as you say
+Me, a God, a Nature, so soon you jump off from your stool and hang from the
+beam” (186). The very inevitability of these categories would seem to make defeat a
+certainty. But even “in this world of lies” (“Hawthorne” 1160), the infinite fragments
+beneath shudder forth, are glimpsed, if for a moment. Pip, in “The Castaway,” has such a
+vision:
+...strange shapes of the unwarped primal world glided to and fro before his
+passive eyes; and the miser-merman, Wisdom, revealed his hoarded heaps;
+and among the joyous, heartless, ever-juvenile eternities, Pip saw the
+multitudinous, God-omnipresent, coral insects, that out of the firmament
+of waters heaved the colossal orbs. He saw God's foot upon the treadle of
+the loom, and spoke it; and therefore his shipmates called him mad. (ch.
+93)
+To warp means to bend or deform, but also to wind a thread around a loom to create the
+horizontal framework, or warp (the vertical threads being the weft or woof)—hence the
+double meaning here: rather than an uncorrupted, ideal realm, Pip finds himself at the
+fulcrum of a world being created continuously. He is witness to a constant generative
+motion, one akin to the “pantheistic vitality” that Ishmael observes in sharks surrounding
+a whale carcass (ch. 66). Here too, there is an eventual move to the divine—“God’s foot
+
+57
+
+upon the treadle of the loom”—but immediately before this apotheosis, a world of infinite
+particularity is revealed: “the multitudinous, God-omnipresent coral insects, that out of
+the firmament of waters heaved the colossal orbs.” This is not the “abortive gulf” of
+Milton’s chaos, “the void profound / of unessential night” (2.441; 2.438-9),* but its
+opposite, bottomlessly fecund.
+The “strange shapes” that Pip glimpses above are nothing less than those of the
+world’s inchoate origins, separated from the quotidian not by time but by our failure to
+perceive them. “The world is as young today, as when it was created,” writes Melville in
+“Hawthorne and his Mosses,” “and this Vermont morning dew is as wet to my feet, as
+Eden’s dew to Adam’s” (1162). Amid these “ever-juvenile eternities,” we cannot help
+think of Charles Darwin—the last figure to appear in Melville’s own “Extracts”—who,
+eight years after the publication of Moby-Dick, would postulate that “whilst this planet
+has gone cycling on according to the fixed law of gravity, from so simple a beginning
+endless forms most beautiful and most wonderful have been, and are being
+evolved” (131). Finding the classificatory systems laid out by Linnaeus and Cuvier
+insufficient for his task (ch. 32), Ishmael, in his language and thought, anticipates these
+“endless forms.”
+Who is Ishmael, and where is he writing from? “Call me Ishmael,” the opening
+imperative, serves not only a first volley, but a kind of invitation—not merely informing
+the reader but asking, implicitly, for a response. A command, it precludes the questioning
+
+*
+
+These are Satan’s words, and Milton, it should be noted, later describes this realm as “the womb of
+Nature” (2.911). But while his “embryon atoms” remain in disarray until “th’ Almighty Maker them
+ordain / ...to create more worlds” (2.900; 2.915-6), Melville’s “unwarped primal world” is a place of
+constant generation.
+
+58
+
+of the narrator’s identity. Of the biblical Ishmael, we read that “he will be a wild man;
+his hand will be against every man, and every man’s hand will be against him” (Gen.
+16:12). The use of such a significant name suggests purposefulness: not an alias—there is
+no “real” Ishmael—but an identity carefully constructed from the outset. The strange
+subsumption into and resurfacing from the narrative to which Ishmael is periodically
+subject—“my shouts had gone up with the rest; my oath had been welded with theirs,” he
+writes (ch. 41)—is a compelling indicator that the character we might mistake for a
+unified figure might be better considered as two different incarnations: the young sailor
+of the novel, and the writer, reconstructing his experiences years after the fact.
+Significantly displaced in time by the strange circumstances of the epilogue, Ishmael’s
+survival can simultaneously be read as a kind of death—after all, does he really outlive
+the crew, or are they actually bereft of him? It is from beyond the grave that Witt, in The
+Thin Red Line, speaks in voice-over for the last time: “Look out through my eyes, look
+out at the things you made. All things shining... .”
+Central to this doubleness is a shift in the way we understand the novel’s
+timeframe. Instead of regarding the book’s ending as the final cataclysm towards which
+all events move, we can see the sinking of the Pequod—and the demise of its crew—as a
+fulcrum between one set of movements and the rest. The evocations of death are striking
+—the “great shroud of the sea,” the “dirge-like main” and coffin life-buoy (ch. 135)—but
+so are broader implications of eschatology, and more importantly, of a kind of cosmic
+renewal. This is present elsewhere: a whale’s bulk revolves “like a waning world,” thus
+implying a waxing to come (ch. 81); “the world goes round, and the other side comes
+
+59
+
+up” (Correspondence 212). Ishmael himself is no stranger to cosmologies of repetition,
+writing that “for the millionth time we say amen with Solomon—Verily there is nothing
+new under the sun” (ch. 45). Disaster, for Melville, always implicates its afterlife, in
+which the fragments are redrawn, seen in new arrangements, relived along new paths.
+In the final, epistolary chapter of Edward P. Jones’ The Known World, the letter’s
+author comes face-to-face with a large tapestry, created by one of the novel’s characters,
+that depicts the town and plantation of her former life, “all in one exquisite
+Creation” (384):
+The dead in the cemetery have risen from there and they, too, stand at the
+cabins where they once lived. So the slave cemetery is just plain ground
+now, grass and nothing else. It is empty, even of the tiniest infants, who
+rest alive and well in their mothers’ arms. (385)
+This retrieval of the lost, the reshaping of the world, profoundly affects its beholder, who
+writes that “there are matters in my memory that I did know not were there until I saw
+them on that wall” (385). Moby-Dick, too, can be seen as such an imaginative
+reconstitution—what Thomas Browne, writing of the Resurrection, describes as “that one
+day, that shall include and comprehend all that went before it, wherein as in the last
+scene, all the Actors must enter to compleate and make up the Catastrophe of this great
+peece” (Major Works 119).
+In a letter to Nathaniel Hawthorne in June of 1851, Melville entertains the thought
+of “how shall we pleasantly discourse of all the things manifold which now so distress us,
+— when all the earth shall be but a reminiscence, yea, its final dissolution an antiquity.
+Then shall songs be composed as when wars are over; humorous, comic songs...” (192).
+If this desire first manifests itself as a strictly narrative impulse—the retelling of
+
+60
+
+catastrophic events—it also gives rise to something else, akin to the “comic songs” that
+Melville imagines. The word comedy itself comes from the Greek kōmos: revelry or
+carousal, and it is in this sense that we should imagine the movements of thought that
+Melville displays: acting not out of irreverence, but in ecstatic freedom. “Left to itself,”
+writes Deleuze on Hume, “the mind has the capacity to move from one idea to another,
+but it does so at random, in a delirium that runs through the universe” (41)—and though
+this delirium is normally tamed through the structures of everyday life and language, it
+remains there as an ever-present substrate. In November of 1851, Melville writes to
+Hawthorne again, this time after Moby-Dick has been finished, and Hawthorne—in a
+letter now lost—has expressed his thoughts on it. Herman seems exhilarated: “ineffable
+socialities are in me... It is a strange feeling — no hopefulness is in it, no despair. Content
+— that is it; and irresponsibility; but without licentious inclination. I speak now of my
+profoundest sense of being, not of an incidental feeling” (212). Here is Thomas Browne,
+moving excitedly between “vulgar errors,” and Ishmael, going from the whale’s
+etymology to its anatomy to its antediluvian forebears—a movement that reveals the
+author’s “profoundest sense of being.” It is a feeling of peace, defined not by stasis, but
+what we might describe as the purest motion. Melville continues:
+I can’t stop yet. If the world was entirely made up of Magians, I’ll tell you
+what I should do. I should have a paper-mill established at one end of the
+house, and so have an endless riband of foolscap rolling in upon my desk;
+and upon that endless riband I should write a thousand — a million —
+billion thoughts, all under the form of a letter to you. (213)
+That “Moby-Dick was two books” is a familiar idea: the whaling adventure that
+Melville began writing in 1850, and what it became: the vertiginous story of Ahab’s
+
+61
+
+obsession with the whale (Olson 35). By analogy, we can suggest a different pair of
+Moby-Dicks: the narrative of the Pequod’s voyage, and its imaginative rearrangement, in
+which Ishmael is left to pick up the pieces—to “come to fish up this old mast, and find a
+doubloon lodged in it, with bedded oysters for the bark” (ch. 99). Far from being easily
+discernible by chapter or style, the two flow into one another, constantly interpenetrating.
+The Iliad and Odyssey make for compelling parallels, the two constituting a movement
+from a narrative of shifting alliances and companionships to a far emptier world in which
+the protagonist attempts to navigate back to a kind of completeness or understanding.
+The extra-narrative recollections that Ishmael litters throughout the novel—telling
+the Town-Ho’s story “at Lima, to a lounging circle of my Spanish friends” (ch. 54),
+referring to a wide variety of literary texts, such as those of the “Extracts”—indicate
+precisely such an afterlife. “In the wake of his survival,” writes Elizabeth Schultz,
+“Ishmael begins to travel—geographically, culturally, and literarily—to learn what he can
+about life and nature, whales and human beings” (110). This journey, unlike that of the
+Pequod, shoots its tendrils over the entire earth.
+This occurs, most tellingly, through a kind of attentiveness to phenomena that
+stand apart in their strangeness, seeming to point infinitely outward—a stone harpoon
+head “might have been darted by some Nor'West Indian long before America was
+discovered” (ch. 81); the whale, “having been before all time, must needs exist after all
+humane ages are over” (ch. 104). In literal events, this takes place through the recognition
+of natural phenomena that seem to beckon from a state of existence completely alien: the
+“unearthly, formless, chance-like apparition” of a giant squid (ch. 59); the suggestion
+
+62
+
+that, by the movements of its tail, the whale “intelligently conversed with the world” (ch.
+86); the glimpse, “far beneath this wondrous world upon the surface... suspended in those
+watery vaults,” of “the forms of the nursing mothers of the whales” (ch. 87).
+Following Ahab’s ruthless conquest, the ruins of his final voyage are left for
+Ishmael to rediscover and create anew. Like the whale skeleton in the Arsacides, “every
+month assuming greener, fresher verdure” until “Life folded Death; Death trellised Life;
+the grim god wived with youthful Life, and begat him curly-headed glories” (ch. 102),
+Ishmael’s narrative occupies this indeterminate space between death and life, past and
+future, a narrative defined by inevitable ruin and ceaseless fecundity.
+
+63
+
+Bibliography
+
+Aguirre, Robert D.. Informal Empire: Mexico and Central America in Victorian Culture.
+Minneapolis: University of Minnesota Press, 2005. Print.
+Bersani, Leo and Ulysse Dutoit. Forms of Being: Cinema, Aesthetics, Subjectivity.
+London: British Film Institute, 2004. Print.
+Borges, Jorge Luis. Collected Fictions. Trans. Andrew Hurley. New York: Penguin, 1998.
+Browne, Sir Thomas. The Major Works. Ed. C. A. Patrides. London: Penguin, 1977.
+Print.
+———. “Musæum Clausum.” The Works of Sir Thomas Browne. vol. III. Ed. Geoffrey
+Keynes. Chicago: University of Chicago Press, 1964. Print.
+Burnett, D. Graham. “Matthew Fontaine Maury’s ‘Sea of Fire’: Hydrography,
+Biogeography, and Providence in the Tropics.” Tropical Visions in an Age of
+Empire. Ed Felix Driver and Luciana Martins. Chicago: Univ. of Chicago Press,
+2005. 113-137. Print.
+Calvino, Italo. Invisible Cities. Trans. William Weaver. New York: Harcourt Brace, 1972.
+Print.
+Crawford, T. Hugh. “Networking the (Non) Human: Moby-Dick, Matthew Fontaine
+Maury, and Bruno Latour.” Configurations 5.1 (1997): 1-21. Web.
+Crone. G. R.. Maps and their Makers. New York: Capricorn, 1966. Print.
+Dante Alighieri. Inferno. Trans. Robert & Jean Hollander. New York: Random House,
+2000. Print.
+Darwin, Charles. “The Origin of Species.” Darwin. Ed. Philip Appleman. New York:
+Norton, 1979. 35-132. Print.
+Daston, Lorraine and Katherine Park. Wonders and the Order of Nature: 1150-1750. New
+York: Zone, 1998. Print.
+
+64
+
+Davenport, Guy. The Geography of the Imagination. Boston: Nonpareil, 1997. Print.
+Deleuze, Gilles. “Hume.” Pure Immanence: Essays on a Life. Trans. Anne Boyman. New
+York: Zone, 2001. 35-52. Print.
+Díaz, Bernal. The Conquest of New Spain. Trans. J. M. Cohen. London: Penguin, 1963.
+Print.
+Duncan, Robert. “Towards an Open Universe.” A Selected Prose. Ed. Robert J. Bertholf.
+New York: New Directions, 1995. 1-12. Print.
+Harper’s New Monthly Magazine 3.14 (1851). Print.
+———. 3.18 (1851). Print.
+Herzog, Werner. Aguirre, der Zorn Gottes. New Yorker Films, 1972. Film.
+Jones, Edward P.. The Known World. New York: Amistad, 2003. Print.
+Keats, John. The Major Works. Ed. Elizabeth Cook. Oxford: Oxford Univ. Press, 2008.
+Print.
+Latour, Bruno. Science in Action. Cambridge, MA: Harvard Univ. Press, 1987. Print.
+Lawrence, D. H.. “On Moby-Dick.” Selected Literary Criticism. Ed. Anthony Beal. New
+York, Viking, 1956. Print.
+The Literary World: A Journal of American and Foreign Literature, Science, and Art
+9.231 (1851). Web.
+Malick, Terrence, dir. The Thin Red Line. Twentieth Century Fox, 1998. Film.
+Maury, Matthew Fontaine. Whale Chart. 1851. Norman B. Leventhal Map Center,
+Boston. Web.
+Melville, Herman. “Benito Cereno.” Billy Budd and Other Stories. New York: Penguin,
+1986. 159-258. Print.
+———. Correspondence. Ed. Lynn Horth. Chicago: Northwestern Univ. Press, 1993.
+Print.
+
+65
+
+———. “Hawthorne and his Mosses.” Pierre, Israel Potter, The Confidence-Man,
+Uncollected Prose. Chicago: Library of America, 1984. 1154-71. Print.
+———. Mardi. Chicago: Northwestern Univ. Press, 1998. Print.
+———. Moby-Dick. New York: Penguin, 1992. Print.
+———. Pierre. New York: Penguin, 1996. Print.
+———. Redburn. New York: Penguin, 1986. Print.
+———. Typee. Chicago: New York: Penguin, 1996. Print.
+———. White-Jacket. Chicago: Northwestern Univ. Press, 1970. Print.
+Mendelson, Edward. “Encyclopedic Narrative: From Dante to Pynchon.” MLN 91
+(1976): 1267-75. Web.
+Milton, John. Paradise Lost. New York: Norton, 1993. Print.
+Olson, Charles. Call Me Ishmael. San Francisco: City Lights, 1947. Print.
+Parker, Hershel. Herman Melville: A Biography. Vol. 1. Baltimore: Johns Hopkins Univ.
+Press, 1996. Print.
+Poe, Edgar Allan. The Portable Edgar Allan Poe. Ed. J. Gerald Kennedy. New York:
+Penguin, 2006. Print.
+Pratt, Mary Louise. Imperial Eyes: Travel Writing and Transculturation. New York:
+Routledge, 1992. Print.
+Psalter World Map. c1265. British Library, London. Web.
+Said, Edward W. “Introduction to Moby-Dick.” Reflections on Exile and Other Essays.
+Cambridge, MA: Harvard Univ. Press, 2006. 356-71. Print.
+Sanborn, Geoffrey. “The Name of the Devil: Melville’s Other ‘Extracts’ for Moby-Dick.”
+Nineteenth-Century Literature 47.2 (1992): 212-35. Web.
+Schivelbusch, Wolfgang. The Railway Journey. Trans. Anselm Hollo. Berkeley: Univ. of
+California Press, 1986. Print.
+
+66
+
+Schultz, Elizabeth. “Melville’s Environmental Vision in Moby-Dick.” ISLE 7.1 (2000):
+97-113. Web.
+Sealts, Morton M. Melville’s Reading. Columbia: Univ. of South Carolina Press, 1988.
+Print.
+Shakespeare, William. Tragedies. Ed. Sylvan Barnet. Vol. 1. New York: Everyman’s
+Library, 1992.
+The Travels of Marco Polo. Trans. Ronald Latham. London: Penguin, 1958. Print.
+Von Humboldt, Alexander. Cosmos. Trans. E. C. Otté. Vol. 1. New York: Harper, 1859.
+Print.
+———. Personal Narrative of a Journey to the Equinoctial Regions of the New
+Continent. Trans. Jason Wilson. New York: Penguin, 1995. Print.
+Waldseemüller, Martin. Universalis Cosmographia Secundum Ptholomai Traditionem et
+Americi Vespucii Alioruque Lustrationes. 1507. Library of Congress, Washington.
+Web.
+Whitman, Walt. Leaves of Grass: The Complete 1855 and 1891-92 Editions. New York:
+Library of America, 2011. Print.
+
+

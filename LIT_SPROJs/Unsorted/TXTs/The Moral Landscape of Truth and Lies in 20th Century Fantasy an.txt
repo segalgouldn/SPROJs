@@ -1,0 +1,2201 @@
+Bard College
+
+Bard Digital Commons
+Senior Projects Spring 2014
+
+Bard Undergraduate Senior Projects
+
+2014
+
+The Moral Landscape of Truth and Lies in 20th
+Century Fantasy, and the Lies Used to Tell It
+Michael Scott Sullivan
+Bard College
+
+Recommended Citation
+Sullivan, Michael Scott, "The Moral Landscape of Truth and Lies in 20th Century Fantasy, and the Lies Used to Tell It" (2014). Senior
+Projects Spring 2014. Paper 101.
+http://digitalcommons.bard.edu/senproj_s2014/101
+
+This On-Campus only is brought to you for free and open access by the
+Bard Undergraduate Senior Projects at Bard Digital Commons. It has been
+accepted for inclusion in Senior Projects Spring 2014 by an authorized
+administrator of Bard Digital Commons. For more information, please
+contact digitalcommons@bard.edu.
+
+Sullivan 1
+
+Introduction
+“[Fantasy]… does not does not destroy or even insult reason … On the contrary. The
+keener and clearer is the reason, the better fantasy it will make”
+—J.R.R. Tolkien, “On Fairy-Stories”
+Thus is fantasy’s power. Able to creatively play with the circumstances of real
+life, fantasy is able to make the abstract, the metaphorical, real, so that it can be examined
+and disturbed. Or, to pull a page out of Nietzsche’s notebook, fantasy seeks to explore
+truth by literalizing the abused metaphor, forcing its audience to confront the mundane
+with fresh eyes. As many critics have argued, Viktor Schlovski perhaps most
+convincingly, the role of art in society is to defamiliarize its audience with the everyday,
+asking them to look at an object or occurrence or individual as if for the first time. To
+Tolkien, this was a matter of what he called “Recovery,” and something he believed
+fantasy, or the fairy story, did particularly well. Unlike realistic fiction, which presented
+its readers with scenarios that, even if incredibly unlikely, were still acknowledged to
+exist within the realm of possibility as it was currently understood, fantasy took it to the
+next level, making the impossible, not just the unlikely, the cornerstone of its selfconception. No longer committed to portraying the world as it actually existed, the
+authors of fantasy found themselves simultaneously liberated and attacked, gifted with
+the power to reinvent the world with a pen stroke while being told their inventions were
+nothing but the bastard children of lying minds.
+But fantasy, particularly in Tolkienian mold, had an answer for this. As Saler
+suggests, the creation of Tolkien’s secondary worlds was not a slapdash and flippant
+affair, but rigorous and exact, as Tolkien dedicated himself to the creation of a world
+which could look and feel as real as anything within the sphere of Primary Creation. For
+
+Sullivan 2
+Tolkien, the attempt to foster a sense of realism was so much more than weaving a
+convincing illusion: it was an attempt to illuminate reality, or Primary Creation as he
+called it, with fiction. The realistic mode, while indicative of a certain unease with the
+liminal place fantasy holds within the literary canon, could therefore also point to
+fantasy’s uneasy position on the spectrum between truth and lies as it tries to access truth
+through a fictional framework. Intrinsic to fantasy, it seems, is the desire to say
+something worth saying; to answer the question “Is it true?” with an unrepentant and
+impossible “yes.” (Fairy-Stories 155). Unable to claim absolute truth, but resolute in the
+belief that their fictions maintained a connection to truth, the creative enterprises of
+Milton, Tolkien, and Pullman defy easy classification within the moral dichotomy of
+truth and lies, and maintain a critical self-awareness of the liminal, or even contradictory,
+status this assigns them. In other words, the authorship of high fantasy, at least in the
+Tolkienian sense, implies an extensive duality of consciousness; its writers and readers
+asked to simultaneously regard the claims of the fantastic as completely impossible and
+deeply real.
+But such a duality of consciousness concerning one’s work is hardly without
+precedent, especially in the modern era. As Michael Saler observes, this phenomena in
+works of literary fiction picked up during the fin de siècle and proliferated throughout the
+20th and 21st centuries as both authors and readers adopted a more ironic stance to works
+of fantasy. Developing a sense that Saler terms the “ironic imagination,” the readers and
+writers of fantasy during the turn of the century began, as Saler contends, to see their
+works as simultaneously true and false, “understood to be explicitly fictional, [yet] . . .
+also taken to be real” (Saler 28). As Saler argues, this impressive duality was
+
+Sullivan 3
+accomplished primarily by presenting “fantasy realms … in a realist mode, cohesively
+structured, empirically detailed, and logically based;” allowing fantastic spaces to adopt
+the trappings of realism (25). Yet “Despite their apparent realism, they were marketed as
+fictions” (25) with no real claim to truth, such stories engaging the ironic imagination by
+asking their audience to “willingly believe in them with the double-minded awareness
+that they were engaging in pretense” (30).
+What Saler’s concept of ironic imagination does not account for, however, is the
+similar frame of mind accessed by Milton who, despite living and writing two-hundred
+years before the turn of the 19th century, also sought to reconcile the tension between the
+fictional nature of his work and the latent truth it claims to access. By linking the ironic
+imagination to an idea of modern thought characterized by rationality and secularism,
+Saler strengthens his argument for a modern genesis of the concept but neglects its older
+roots in the religious tradition, a gloss that requires him to treat the religious leanings of
+Tolkien as a divergent, but important strain of the largely secular New Romance
+movement. While such an assumption is not technically inaccurate, especially since New
+Romance, as Saler defines it, is marked by an appeal to rationality and secularism to
+retain credibility, his theories do not give full credit to the competing duality of
+consciousness established in Paradise Lost, exemplified in The Lord of the Rings, and
+complicated in His Dark Materials. Thus it will be the task of my argument to address
+this gap by examining the tension between truth and lies in Christian storytelling from
+Milton and his sources through Tolkien and Pullman, thereby linking the primarily
+secular concept of ironic imagination to a more religious context.
+
+Sullivan 4
+Such an examination cannot and will not claim to be a comprehensive review of
+the available literature, nor can it claim to trace have traced the complex duality of the
+ironic imagination back to its source in its analysis of Paradise Lost. Instead, the goal of
+my project will be to bring the concept of the ironic imagination into fuller contact with
+the realm of religiously motivated fiction in order to determine the change of its stakes.
+For if the goal of secularized ironic imagination is to “steer a fine course between the
+Scylla of fantasy and the Charybides of realism, or risk alienating [the] audience,” then in
+a religious context the stakes become considerably higher as a Christian writer is asked
+not only to steer between fantasy and realism, but between blasphemous falsehood and
+the Truth (61). Instead of straddling a line between a self-reflexive admission of fiction
+and a commitment to the creation of a realistically viable world, the Christian author is
+forced to walk the tightrope of admitting their own propensity for human error while
+simultaneously claiming to represent some facet of divine Truth, unable to escape either
+the implication that their work reflects some truth about Creation or that their own fallen
+condition is prone to error. In short, the truth-value of the Christian fiction takes on an
+explicitly moral tone; truth being associated with divinity and nearness to God while
+falsehood is equated with evil and ultimate spiritual error.
+Serving essentially as a counterpoint to Saler’s notion that the ironic imagination
+is a primarily secular drive that originates in the modern era, Milton is an ideal way to
+demonstrate that the problem of fantasy’s liminal status between truth and lie has roots
+that run far deeper than the 19th century. It would be improper to imply that Milton was
+fantasy writer, or at least that he conceived of himself in such a way, yet at the same time
+he shares much with Tolkien and Pullman, especially in his attempt to justify his
+
+Sullivan 5
+excursion into fiction with the fiction that he writes. Torn between the belief in his own
+divine inspiration and the awareness of his own fallen condition, Milton was left rewriting and supplementing a biblical (and therefore, in his mind, true) story with his own
+imagination. It was his hope that such a re-writing would further clarify the story,
+“justifying the ways of God to men” and bringing what was previously located solidly
+within the realm of faith into the realm of experiential truth, but he was nevertheless
+aware of the potential for failure located in such a direct interaction with a biblical text.
+Forever unable to be certain of truth and of God in the fallen state of mankind, Milton
+was all too conscious of how readily his work could transform into sin and error, as the
+tendency towards self-aggrandizement (the self as a source of truth) could easily lead
+towards the lie. It was then Milton’s task to walk the tightrope between his divinely
+inspired task to reveal the ultimate truth of God and the supreme sin located in selfaggrandizement and delusion.
+To compensate for this unease, Milton not only deploys a rigorous logical frame
+for the interpretation of Genesis, but also imbeds it within a story that he admits is, if not
+false, at least subject to error. It is not a lie, since as Augustine maintains even in error
+one can only lie by giving voice to and presenting as true what one believes to be false,
+but even with the assistance of divine inspiration – with access to what is, in his mind,
+manifestly true – the possibility of human error and misinterpretation exists, and Milton
+openly admits it. It is this admission that leads him to an understanding of his story as
+both true and false; true in its divine inspiration but potentially false in its human
+manifestation. Equipped with the power to explain the ineffable framework of creation
+and the humility necessary to avoid any outright declaration of inaccessible truth, and
+
+Sullivan 6
+therefore sin, Milton finds himself perfectly located to write Paradise Lost. And as the
+reader is made aware through the characters of Raphael and the narrator, telling a story
+about the divine is no easy task, forced as the author/speaker is to translate the
+indescribable sphere of heaven into earthly terms, or in other words, utilize the metaphor.
+This is, after all, what fantasy is all about. Sourcing truthful observations from the
+real world and translating them into the realm of fiction, fantasy is able to do the
+impossible and literalize the metaphors that allow humans to make sense of their
+existence, thereby forcing them to be re-evaluated. As Milton is the first to admit, these
+metaphors are not perfect, subject as they are to human interpretation and distanced from
+a sense of ultimate truth in God, but they are the best we have; the only thing with the
+power of infusing meaning back into a world which, after the fall, was lost. The story,
+therefore, is in some way redeemed, as Milton decides to use its fictional premise (like
+the narrator, like Raphael, and even, to a certain extent, like Satan) to bring a matter of
+faith into the realm of experience. If God and truth cannot be accessed directly, then
+perhaps they can be accessed obliquely through the metaphor, and through story. It is
+impossible to confirm a story’s success in such regard since God and truth are ultimately
+unknowable entities, but that does not mean that such attempts are to be forbidden. On
+the contrary, by attempting to rigorously justify the ways of God to men through the
+means of the story, Milton is taking the only path he knows towards divine truth,
+remaining certain in his belief that his task is divinely inspired but uncertain in the
+fulfillment of his task. This will be the argument presented in Chapter 1.
+Although it is difficult to say whether or not such a reading of Milton directly
+influenced Tolkien’s conception of his own project, it is relatively easy to observe a
+
+Sullivan 7
+similarity in their concerns as writers. Sharing Milton’s own problematic relationship
+with truth as a Catholic, Tolkien also turned towards the realm of fiction to communicate
+its tenuous connection to truth, certain as he was of a Truth sourced in God that was both
+existent and unknowable. Not only did his faith require a belief in the God and truth, but
+it also made clear that such a truth was inaccessible to the fallen human mind. Therefore,
+like Milton, Tolkien adopted sub-creative fantasy as a path towards God, reading in the
+stories of his youth part facets of a single “truth incalculably rich” (“Fairy-Stories” 155)
+that he could one day participate in.
+But even such a statement – that truth could be found in stories – was itself a
+claim to truth with which Tolkien was uncomfortable. If truth itself was inherently
+unknowable, how could he possibly claim that the truth was knowable through stories?
+Not only would the statement be blatantly contradictory, with stories literally claiming to
+do the impossible, but also subtly so, since such an assertion would imply that although
+the truth is in large part unknowable, it is accessible only to confirm that stories are
+assured vehicles to larger truths. This left Tolkien, like Milton, in the unfortunate position
+of trying to communicate truth in a world where truth is unknowable. It is perhaps
+unsurprising, then, to see Tolkien take a similar tact, utilizing the liminal status of the
+fictional story to communicate the uncertainty involved in using a fictional medium to
+covey real truth.
+As the bridge between the chiefly religious concerns of Milton in the past and the
+primarily secular trends of what Saler identifies with modern fantasy and Pullman,
+Tolkien’s influence on my conception of this project is difficult to underestimate. He is
+also the critic with the most influence on how I view the question of fantasy’s truth-value,
+
+Sullivan 8
+since it is upon his conception of secondary creation and the ability of fantasy to
+participate with/reveal aspects of Primary Creation that I base my conception of fantasy’s
+project. Because even though Pullman in many ways confirms the secular trend that Saler
+reads in modern fantasy, Tolkien is very easily able to adapt the model of realistically
+structured fantasy to the religious mode. By drawing on aspects of the observable world,
+what Tolkien referred to as Primary Creation, he believed he was drawing himself closer
+to a realization of truth in the accurate portrayal of God’s own truth through the mimicry
+of secondary creation. Of course Tolkien would never claim that worlds of secondary
+creation were simple replicas of the world as it appears under the sun. In fact a huge part
+of the power of secondary worlds arose from the engagement of human imagination and
+creativity. But in the attempt to bring something new into the world, to shed light on a
+new facet of God’s ineffable truth, an author would be forced to create something new,
+something that had never been seen before on the world as it stands under the sun. In
+other words, Tolkien had to turn to the realm of fantasy to express his truth, even though
+he had no guarantee such truths could be communicated.
+When he did finally turn to fantasy, however, he was sure to create a secondary
+world in which the story had real power and literal connection to truth. After all, in
+Middle-Earth there are little to no distinctions between ancient stories and ancient
+history, as even in a fallen world where the value of the mythological has fallen into
+doubt, the stories of old hold very real value. Ents, hobbits, and almost-forgotten heirs
+pop out of the grass, constantly reaffirming the fact that old wives tales and stories told
+around the fire to children are remembered for a reason. Stories become a means of
+navigating the biggest problems of the age, and they play a critical role in Frodo’s
+
+Sullivan 9
+achievement of his own quest. The flip side of this, however, is the power that the lie also
+gains. For in a world in which even the most outlandish of stories are reaffirmed as true,
+even the most insidious of lies can be believed, especially when they seem more realistic
+than the actual truth. Wormtongue is the primary example of such a tendency, playing not
+only Theoden’s deepest insecurities to sway him, but also the seemingly impossible
+nature of the truth. After all, it is far easier to believe in the unassailable might of an evil
+sitting on your doorstep than in tree people no living man has ever seen, or in elves that
+dwell isolated from the contact of men. This will be the argument presented in Chapter 2.
+Like Milton, Pullman doesn’t necessarily fit into the sphere of the Christian
+fantasy writer, but also like Milton, his inclusion complicates and informs a wider
+understanding of fantasy that is fundamental to my project. Grounding himself solidly
+within the realm of fantasy, he in many ways takes the opposite tack of Milton, which is
+only appropriate when considering his project consists primarily of rewriting the story of
+Genesis that Milton rewrote. But much has been written about Pullman’s re-appropriation
+of Paradise Lost, and little needs to be said here to expand on the subject. What is much
+more interesting, in my own opinion, is the way in which Pullman re-appropriates the
+entire tradition of religiously motivated fantasy while continuing to maintain an uneasy
+relationship with the truth. In essence, he cuts God entirely out of the equation, letting go
+the notion of an absolute, unfathomable truth rooted in the divine in preference of a truth
+found through human understanding. But at its core, his belief in the revelatory powers of
+fantasy remain the same, since Pullman continues to hold out the fantasy story as a path
+to truth through fiction in a world where truth is otherwise uncertain. The only difference
+seems to be that instead of revealing something about the nature of the divine, the truth
+
+Sullivan 10
+that Pullman’s story tries to access is divorced from any connection to God, blossoming
+in human understanding and experience rather than any link to divine grace.
+This tension between a connection to inexplicable truth and a full human
+understanding is given voice in Pullman’s His Dark Materials, especially in the
+experience of its protagonist. For although it could be said the trilogy is about many
+things, it also is intimately concerned with the question of grace and wisdom, or between
+an unconscious understanding of the truth and a fully conscious one. By the trilogy’s
+conclusion, the main character moves from one state to another, but most importantly,
+she does so by telling stories. Or, for the sake of accuracy, she tells lies, living up to her
+namesake by becoming one of the most accomplished liars the story has to offer. But
+unlike Milton and Tolkien, who resolutely condemn liars as those who offend truth, and
+therefore God, for Pullman the lie becomes a mean to the ultimate end: a fuller,
+independent understanding of the truth.
+But such claim comes with one important exception. The lies of protagonist Lyra
+Silvertongue are only permissible, and indeed only powerful, because she also maintains
+a direct relationship with the truth, her lies gaining power and meaning through her
+ability to make them stories. Like Pullman himself, Lyra is not initially a liar, but a
+storyteller, and she remains a storyteller until she is split from her inexplicable state of
+grace and connection to truth and thrust into experience. But as Pullman makes plain,
+such a loss of truth, grace, and moral certitude is not to be lamented, but celebrated. Now
+that Lyra’s unconscious connection to truth has been lost, a conscious one can begin to
+develop. For although a conscious understanding of truth is founded upon a lifetime of
+hard work, experience, and suffering, the wisdom it promises is reliant on nothing but
+
+Sullivan 11
+human capacity and hard work, instead of a magical/divine understanding that finds its
+source in something ineffable and external to the individual.
+In Lyra’s case, this instinctual and mysterious connection to truth is made literal
+through her serendipitous understanding of the alethiometer, a fictional golden compass
+that points to truth instead of North. As she grows older and loses connection with the
+state of grace that allowed her to effortlessly read a device that usually requires years of
+intense study, so too do her lies lose their potency. Not only that, but as her lies lose their
+serendipitous connection to truth, they also stop functioning as stories, instead being
+condemned by a myriad of figures within HDM as the meaningless and manipulative lies
+they are. Thus unable to access the truth either through grace or through experience in her
+transitory state between the two, Lyra seems to no longer be capable of telling stories. In
+this way it can be seen that Pullman, for all of his criticism of the fantastic, understands
+that to tell a fictional story there must be some grounding in the truth, lest it become as
+meaningless as the lies Lyra tells to the harpies in the world of the dead. This will be the
+argument presented in Chapter 3.
+Thus it will be the goal of my project to demonstrate how these three authors of
+fantasy, despite their vastly different worldviews, all agreed on one thing: that fantasy
+maintained a connection to truth in spite of its fictional pretense. For even though they
+did not agree as to what sort of truth fantasy was able to access, or indeed how it
+performed such a prodigious feat, Milton, Tolkien, and Pullman all agreed that fantasy
+had a purpose; that it was more than just the sum of its fictitious parts.
+
+Sullivan 12
+
+Chapter 1: To Justify God
+Under the sixth entry in the Oxford English Dictionary for “justify” reads one of
+the most famous examples of the word in the English language: “That..I may assert th'
+Eternal Providence, And justifie the wayes of God to men” (OED). Defined as “Of a
+person or body: to show or maintain the justice or reasonableness of (an action, claim,
+etc.); to give justification for; to defend as right,” the term “justify” is literally
+exemplified by the above quote from Paradise Lost, as John Milton sets himself the
+impossible task of demonstrating the justice or reasonableness of God, a being that was,
+at least in Milton’s conception, beyond reason (OED). As Stanley Fish persuasively
+argues, “In the world as [Milton] perceived it, truth and certainty are achieved not by
+moving from evidence … to general conclusions, but by putting in place general
+conclusions … [that] will be a function of belief … rather than confirming or
+disconfirming [it] (23). In less abstruse terms, Fish sees Milton building worldview, what
+Fish calls “the external landscape,” as a function of belief, the truth of which cannot be
+confirmed through independently gathered evidence (23). Forever uncertain of God’s
+will, purpose, and Truth, Milton fervently believed in the ineffability of the Christian
+God, and the inability of post-lapsarian humanity to grasp Him through any facility
+besides belief that was, if not blind, than also not founded on reason and evidence. And
+yet as this chapter will suggest, such a belief did not deter him from trying, in a way that
+Milton believed to be unprecedented, to “give justification for; to defend as right” the
+“wayes of God to men,” nor did it prevent him from “assert[ing] Eternal Providence” in
+the attempt. Refusing to admit that Paradise Lost is a work of heretical fiction, but also
+unable to claim that he, as a member of a fallen humanity, had direct access to Truth
+
+Sullivan 13
+through God, Milton therefore takes a middle road, carefully negotiating between a
+heretical claim to lying on the one hand and a heretical claim to the truth on the other. In
+other words, Milton employs a fictive mode, simultaneously allowing him invoke the
+truth of Eternal Providence and avoid the sin located in self-aggrandizement and
+delusion.
+As the narrator makes plain in the opening stanza, she harbors no illusions as to
+how her task, to “justify the ways of God to men,” opens her song to incredible potential
+(Milton I. 26). Invoking the Holy Ghost to:
+… aid [in] my advent’rous song
+That with no middle flight intends to soar
+Above the Aonian mount while it pursues
+Things unattempted yet in prose or rhyme, (I. 13-6)
+she makes a clear claim to “the heighth of this great argument” (I. 24) upon which she
+intends to embark. In the pursuit of “things unattempted yet in prose or rhyme;” things
+that “intend to soar/ Above the Aonian mount,” the home of the Muses in classical
+mythology, the narrator makes the claim that, if aided by the Holy Ghost, her poem holds
+the potential to surpass even the greatness of the classical epics. With historical hindsight
+we can see she her claim was not entirely unfounded, as over the course of more than
+three centuries interest in Paradise Lost has waxed and waned, but has never wholly
+dissipated, but the proviso that she attaches to her success is at least as important to her
+conception of her work as her prophetic insight. For even as the narrator expresses
+confidence in her ability to fulfill the task at hand and justify the ways of God to men, she
+
+Sullivan 14
+is equally confident that she cannot do so alone, her own condition as a member of fallen
+humanity prohibiting her from access to the truth without divine intervention.
+Indeed, interspersed within what might easily be called the hubris of this opening
+stanza are also the hints of humility, the inclusion of which Milton believed was essential
+in avoiding the sin of self-aggrandizement. As the narrator requests of the Holy Ghost,
+“What in me is dark,/ Illumine, what is low raise and support,” the acknowledgment of
+her own darkness and deficiency serving to distance herself from any direct claim to a
+rational understanding of God (I. 22-3). If she claims to assert the truth of Eternal
+Providence and justify the ways of God to men in the opening stanza, therefore, the
+opening stanza also makes clear that the narrator will not do so under her own power, her
+access to Eternal Providence resting solely on the guidance and inspiration of the Holy
+Ghost and her belief in God. Given the well-documented classical roots of the text, it is
+possible to read such a proviso as an insincere statement of humility – as nothing more
+than a nod to the epic form upon which the structure of Paradise Lost is framed – but
+given the equally well-documented strength of Milton’s religious belief, as well as the
+inclusion of two additional invocations of the Muse in Books VII and IX outside the
+formulaic expectations of the genre, this seems increasingly unlikely. Instead, when
+coupled with the formulation of the internal narratives woven by Raphael and Satan, such
+an admission of deficiency on the part of the narrator seems to indicate a complex
+conception of how Milton understood truth in a fallen world, and how one might be able
+to access it in the fallen state.
+The answer that Milton arrived at, it will be argued, will be essentially the same
+answer that Tolkien and Pullman arrived at nearly three-centuries later: the fantastic
+
+Sullivan 15
+mode of storytelling. For although he would have never conceptualized it this way
+himself, the tension inherent in trying to access the truth in a world defined by the truth’s
+inaccessibility was something that all three authors felt acutely, and described in their
+own works of fiction. Milton, Tolkien, and Pullman never came to a mutual
+understanding of how the fantastic mode achieved such an impossible task, nor did they
+even share a common conception of what “truth” fantasy actually achieved, yet they all
+seemed to believe in its power to do so. In Paradise Lost, Milton’s only standard for truth
+is the Word of God, his unshakable belief in the Bible forming the inviolable construct in
+which his epic takes form. With truth thus reductively and resolutely defined, it is
+tempting to say Milton’s conceptualization lacks the complexity of Tolkien’s or
+Pullman’s, the illusion of simplicity arising from the unity of thought such conviction
+provides. But for anyone familiar with the actual text of Genesis, it is obvious how freely
+Milton has played with the original story as he draws heavily from the extra-canonical
+sources of Christian doctrine and his own imagination. Indeed, very little of what takes
+place in Paradise Lost finds its sources in biblical text, the story of Genesis making no
+mention of Satan, Jesus, Heaven’s hosts, or the fall of the rebel angels. And although the
+accumulated weight of more than 1,600 years of Christian interpretation and doctrine
+play a huge part in defining the shape of Milton’s narrative, there is much that arises from
+Milton, his ingenuity playing a large part in his attempt to weave a cogent narrative from
+the tangled strands of Christian thought. Almost necessitated by his stated goal of
+“justify[ing] the ways of God to men,” his creative liberties with the strictly canonical
+source material allow him to try and “justify” that which could previously be understood
+only through faith, attempting to clarify and flesh out a story that had been building
+
+Sullivan 16
+momentum for generations. In this way, Milton’s story is simultaneously true and not
+true, deviating from the strict truth of its doctrinal sources for the sake of clarity and
+hoping to “justify” what was previously held to be knowable through faith alone. For
+even as he digresses from doctrine, Milton continues to hope that his writings might be
+divinely inspired, guided by his own faith towards an alternate yet compatible truth to the
+ultimate truth of Word of God.
+
+Milton’s Narrator
+
+As has already been demonstrated, in the opening stanza of Paradise Lost the
+narrator assumes a complex position in relation to her story and its claim to truth. But in
+order to demonstrate that such an admission of humility is not merely lip service, or blind
+homage paid to the traditional invocation of the Muses in classical epics, Milton’s two
+other invocations of the Muses must be called into question. For despite the narrator’s
+initial confidence in the guidance of “Eternal Providence,” by the beginning of Book VII
+that confidence can be seen to waiver. Invoking Urania, the Greek muse of heavens, the
+narrator claims that she has been “Up led by thee/ Into the Heav’n of Heav’ns I have
+presumed/ An earthly guest and drawn the empyreal air,/ Thy tempering,” in order to sing
+her song (VII. 12-5). Through Urania’s tempering, it seems, the earthly narrator has
+found it possible to “drawn the empyreal air” and depict in song what she as seen of the
+“Heav’n of Heav’ns” in order to rationally justify God. But instead of harping on what
+she considers to be the success of poem’s first half, the narrator quickly turns her
+attention to how the second half might fail, preoccupied as she is with the precarious
+
+Sullivan 17
+nature of her argument. Beseechingly she requests of Urania “With like safety guided
+down/ Return me to my native element/ Lest …/ … I fall/ Erroneous there to wander and
+forlorn (15-9).
+And yet the narrator gives her audience no clue as to why such fears are so
+prevalent, especially since she acknowledges that Urania “Still governs … my song”
+(VII. 30). Stanley Fish does, however, provide some valuable insight on the matter when
+he argues convincingly that, as far as Milton was concerned, “a person’s conviction that
+he is on [the true path towards God and truth] … can never be supported by independent
+evidence and can always become a matter of doubt” (5). Before the fall, Milton portrays
+humans as able to, at least to some extent, accurately perceive the truth through God not
+only through belief, but also through “discursive” intellect, a point that will be expanded
+upon later in this chapter (V. 488). As Fish maintains, however, “This clarity … stands in
+marked … contrast to the postlapsarian condition, which is burdened by … difficulties,”
+the chief of which, in a telling choice of words, is concerned with the fact that “the vision
+of those who would rediscover [this clarity] is irredeemably darkened” (4-5). So when the
+narrator requests that the Heavenly Muse “What in me is dark/ Illumine,” it takes only a
+small stretch of the imagination to read into this petition a genuine concern on Milton’s
+part for humanity’s inability to access and portray the true path towards God. Always in
+doubt, since it is impossible to confirm empirically that one is on the path towards God
+and truth, the narrator is therefore forced to adopt a liminal stance between a claim to
+Eternal Providence and human error, certain as she is of her divine inspiration, but
+uncertain in her own human fulfillment of the task assigned.
+
+Sullivan 18
+A relatively minor, but important example of this uncertainty reveals itself in
+Book VII as well, in which the narrator tries to negotiate between the conception of her
+patron as Urania, the Greek muse of the heavens, and the Holy Ghost of Christian
+theology. “Descend from Heav’n, Urania,” the narrator requests:
+by that name
+If rightly thou art called …
+……………………………
+The meaning not the name I call for thou
+Nor of the Muses nine nor on the top
+Of old Olympus dwell’st but Heav’nly born. (1-7)
+Uncertain as to whether Urania is the name by which she should praise her, the narrator
+confesses her uncertainty in the second line of the Book, but at the same time claims that
+it is “the meaning not the name” by which Urania is called. Making clear that when she
+calls to Urania, the narrator does not imagine that she is summoning one “of the Muses
+nine” who, according to myth, “on the top/ Of old Olympus dwell’st,” the narrator
+instead appeals to a patron “Heav’nly born.” But unable to claim that she has a perfect
+access to the way in which the “Heavenly Muse,” or “Spirit” as she is referred to in Book
+I. 17, inspires her song, the narrator creates an imperfect metaphorical equation to explain
+their interaction, liking the Holy Spirit’s illumination of her theme to the way the
+classical Muses were said to illuminate the classical epic. In this way the narrator
+endeavors to justify the ways of God to men in some small way, her admittedly imperfect
+metaphor attempting to relate the unknowable mechanics of divine inspiration to the
+slightly more grounded, comprehensible theme of classical inspiration.
+
+Sullivan 19
+In the third and final invocation of the muse in Book IX, however, the narrator’s
+doubts in her own project reach their zenith as she calls into question not the small matter
+of a single name or metaphor, but the whole poem itself. Claiming that Paradise Lost’s
+“argument/ Not less but more heroic than” (IX. 13-4) the three great epics of antiquity –
+Homer’s Iliad, Odyssey, and Virgil’s Aeneid – and a wide variety of more contemporary
+romance, the narrator seems to have unshakable faith in the:
+… celestial patroness who deigns
+Her nightly visitation unimplored
+And dictates to me slumb’ring or inspires
+Easy my unpremeditated verse” (IX. 21-4).
+There is, however, one proviso. Despite the “nightly visitations” and “inspir[ation]” the
+“celestial patroness” deigns to bestow, the narrator seems to understand that Paradise
+Lost’s heroic argument is wasted unless an “answerable style … can [be] obtain[ed]” by
+its author (IX. 19). Indeed, the narrator claims this is the only way that the argument
+could fail, if “an age too late or cold/ Climate or years damp my intended wing” and the
+narrator fails to suitably convey the message of her patroness. Susceptible to the mortal
+conditions of cultural milieu, cold weather, and old age, the narrator makes clear that her
+story could easily be “Depressed … if all where mine;” the narrator’s own necessary, but
+flawed modifications designed to justify the story of Genesis giving it the potential for
+mortal flaw despite its divine origins (IX. 45). Thus it seems the success of Paradise Lost
+hangs on a sophisticated balance between the ultimate Truth of raw, divine inspiration
+and the comprehensible rationality of the tempered human interpretation, with the
+yawning abyss of what is unknowable and what is false on either side.
+
+Sullivan 20
+Whether or not Paradise Lost achieves this delicate balance is a moot point, just
+as it is far from certain whether such a balance would necessarily guarantee successfully
+legible justification of the ways of God to men. C.S Lewis1 believed that such a task was
+impossible, writing in his now-famous preface to Paradise Lost that “A God,
+theologically speaking, much worse than Milton’s, would escape criticism if only he had
+been made sufficiently awful, mysterious, and vague” (437). In other words, Milton’s
+God only seems cruel because he tries to justify the unjustifiable and refuses to leave
+God, in Lewis’ opinion, in his appropriately mysterious and vague state. At the same
+time, William Empson describes Milton as having been at least moderately successful in
+his attempt “to make his God appear less wicked, as he tells us he will do from the start
+[I.25]2, and he does succeed in making him noticeably less wicked than the traditional
+Christian one” (10). The distinction his critics make, therefore, seem not to find their
+source in Milton’s effectiveness as a writer, but in their own personal beliefs. If, like
+Lewis suggests, “those who say the dislike Milton’s God only mean the dislike God” in
+general, than God benefits from Milton’s justification, as can be seen in Empson (437).
+But if, as Empson suggests, one already believes wholeheartedly in a the inherent justice
+of God’s Christian conceptualization, then Milton’s attempt to justify Him risks only
+“describ[ing] God ‘imprudently,’” as can be seen in Lewis (9). One believed God could
+not be rationally justified, only believed, and the other refused to believe unless God was
+rationally justified, but Milton’s curse was that he was stuck in the middle. Believing
+1
+
+Highly influential as not only a 20th century Christian thinker and Milton critic, Lewis was also fantasy
+writer contemporary with Tolkien.
+2
+Line-references given by Empson “Are to the nearest factor of five,” who feels that “The show of
+scientific accuracy about literary quotations has reached a point which feels odd to anyone who knows how
+numbers are really used in the sciences” (“Preface”). Although I feel as though my grasp of how numbers
+are really used in the sciences is perfectly adequate, I have chosen to quote the same line, “And justify the
+ways of God to men,” as I. 26.
+
+Sullivan 21
+wholeheartedly not only in God, but also that God could be rationalized, at least
+imperfectly, Milton was compelled to try and justify Him, and used the fictive mode to
+do so.
+
+Milton’s Raphael
+
+If an examination of Milton’s narrator gives us an adequate sense of how Milton
+conceives the benefits and risks of his task, than an examination of Milton’s Raphael
+gives us a sense of how Milton thought the justification of God to men might be
+achieved. Tasked by God with warning Adam and Eve of Satan’s intent to seduce them,
+“Lest willfully transgressing [they] pretend/ Suprisal unadmonished, unforewarned,”
+Raphael is sent to Earth to impart divine knowledge (V. 244-5). In other words, God
+wishes to “fulfill/ All justice” (246-7) by ensuring the only factor in man’s fall from
+grace is his own disobedience, and thus sends Raphael as the agent of His justice so that
+the pair cannot claim ignorance if they succumb to the “deceit and lies” (243) of Satan.
+But just like the narrator, Raphael finds this divinely appointed task more difficult than
+expected. On his first attempt, Raphael tries to speak to Adam and Eve as if they were
+angels, assuming as standard the “intuitive” mode of angelic thought (488):
+Attend! That thou art happy owe to God.
+That thou continuest such owe to thyself,
+That is, to thy obedience: therein stand!
+This was the caution giv’n thee. (520-523)
+
+Sullivan 22
+Indeed, if the consciousness of man had been shaped in the angelic mode, Raphael would
+have needed only four lines to complete his divinely appointed task, having successfully
+communicated to Adam and Eve that their happiness, given by God, is only maintained
+by obedience to Him. An angel, “act[ing] by intuition or immediate apprehension3,”
+would have immediately grasped the truth of such a statement and moved on (OED). But
+as Raphael himself admits, “discourse/ is oftest” man’s path to reason, and so the
+completion of his task requires not four lines, but almost three Books (488-9).
+Unable to even comprehend disobedience to God before the arrival of Raphael,
+Adam is perplexed by Raphael’s emphasis on obedience, since Adam is in his “constant
+thoughts/ Assured” (V. 552-3) that “we will never forget to love/ Our Maker and obey
+Him” (550-1). Therefore Adam presses Raphael to explain fully the unprecedented
+concept of a Satanic individual who would actively seek to rebel against God, a
+discursive task for which Raphael is desperately underprepared. For although Raphael
+refuses to rule out the possibility that “[Man’s] body may at last turn all to spirit,/
+Improved by tracts of time, and winged ascend/ Ethereal as we,” there is clearly a
+fundamental difference between the two races that runs deeper than the physical
+substance of their form for which Raphael has difficulty compensating (497-9). As
+Raphael suggests to the couple, they should “Meanwhile enjoy/ [Their] fill of what
+happiness this happy state/ Can comprehend, incapable of more,” implying that although
+Adam and Eve might one day attain the superior awareness and joy of the angelic
+consciousness, such a mode of thought is currently beyond their reach (503-5). So when
+Adam asks Raphael to explain the fall of Satan and the rebel hosts; to clarify for him why
+3
+
+It is interesting to note the OED again uses Milton as a primary example of this usage, citing the same
+line in Paradise Lost, V.488.
+
+Sullivan 23
+an angel would forsake God and choose to pass from the angelic “high state of bliss into
+what woe,” Raphael is at a loss, initially taken aback by Adam’s discursive interest in the
+subject and the difficulty inherent to satiating it (543).
+Raphael does not, however, doubt that the human pair might reach some
+understanding of the truth through their discursive mode, since the angel acknowledges
+that the reasoning of angels and men “differ(s) but in degree, of kind the same” (490).
+Therefore Raphael must still try and find a way to fulfill God’s justice, despite Adam and
+Eve’s lack of angelic intuition. “After a short pause,” as if in hesitation, Raphael explains
+to Adam that what he is about to hear– the only way Raphael can make him understand
+the affairs of heaven – will be the first story in human history:
+High matter thou enjoin’st me O Prime of Men,
+Sad task and hard, for how shall I relate
+To human sense th’ invisible explóits
+Of warring spirits, …
+… perhaps
+Not lawful to reveal? Yet for thy good
+This is dispensed, and what surmounts the reach
+Of human sense I shall delineate so
+By lik’ning spiritual to corporeal forms
+As may express them best. Though what if Earth
+Be but the shadow of Heaven and things therein
+Each to other like more than on Earth is thought? (V. 562-73)
+
+Sullivan 24
+It is in this lengthy preamble that Raphael’s unease is most explicitly described. For
+although he intersperses other such disclaimers throughout his narration, reminding
+Adam of the “Unspeakable” (VI. 297) nature of the angelic battle, and that the story thus
+far is nothing more than an extended metaphor, “measuring things in Heav’n by things on
+Earth” (VI. 893), in the moment of Raphael’s indecision the audience is given the clearest
+glimpse into the “High matter …/ Sad task and hard” of relating the events of Heaven to
+men. Addressing himself rhetorically with questions like “how shall I relate/ To human
+sense th’ invisible explóits/ of warring spirits,” Raphael shows his reluctance to engage in
+such a subject, going so far as to wonder aloud if such an attempt might “perhaps/ not
+[be] lawful,” humanity’s limited understanding forcing Raphael to consciously
+misrepresent Heaven. For despite Raphael’s admission that things on Heaven and Earth
+might be “Each to other like more than … is thought,” he is nevertheless constrained by
+“what surmounts the reach/ Of human sense,” unable as he is to convey the affairs of
+Heaven directly. Instead, he is forced to resort to metaphor, “lik’ning spiritual to
+corporeal forms/ As may express them best;” forced to sacrifice a perfectly accurate
+depiction of events for one his audience can comprehend. In other words, Raphael does
+not, in the strictest sense of the term, tell the truth, his human audience lacking the
+powers of perception necessary to comprehend it. But because “for thy good/ This [story]
+is dispensed,” Raphael has little choice but to try, creatively yet inaccurately comparing
+“spiritual to corporeal forms” in order to prepare Adam and Eve for their temptation.
+It must be said, however, that despite the inaccuracies in comparing the affairs of
+Heaven to the affairs of Earth, the imperfect metaphorical equations Raphael is forced to
+construct in his story are never considered lies. Such distinction is critical, since to imply
+
+Sullivan 25
+otherwise would be to suggest that Raphael, an archangel on dispatch from God, would
+be sinning against ultimate Truth and therefore God. Instead, as a reading of Augustine
+might suggest, Raphael’s story, while inaccurate, still maintains a claim to truth because
+he does not tell it with a “double heart” (qtd. Griffiths 27). Instead of “keep[ing] one
+thing concealed in the heart and … hav[ing] another ready on the tongue” (qtd. 26) which
+was for Augustine was the lie’s chief characteristic, Raphael does his best to truthfully
+“relate/ To human sense th’ invisible explóits/ Of warring spirits” and reveal the contents
+of his heart. Human sense prevents him from achieving a perfect degree of accuracy in
+his revelation of Heaven’s invisible exploits, but it does not prevent him from trying to
+represent what actually occurred, the fictitious mode allowing Raphael to reveal the
+contents of his heart to the greatest extent possible. So when Raphael makes the conceit
+that the host of Heaven drink “… rubied nectar…/ In pearl, in diamond, in massy gold4,”
+during their feasts, he does not mean for himself to be taken literally (Milton V. 634-5).
+Instead he means only to try and illustrate to his human audience what it might mean to
+“Quaff immortality and joy,” in the presence of God, the full comprehension of which is
+fundamentally beyond their comprehension (638). Inaccurate throughout, but never once
+guilty of lying, therefore, Raphael proceeds with his story, utilizing the imperfect
+metaphorical equations of fiction to try and truthfully relay the matters of his heart to
+those who otherwise could not understand them.
+It is in this moment that Raphael finds himself in the place of Paradise Lost’s
+narrator, tasked by Eternal Providence with explaining the affairs of Heaven and of God
+to a human audience that is fundamentally unable to comprehend them. For the sake of
+4
+
+C.S. Lewis makes much of this line, citing it as a primary example of the “displeasure” Milton evokes
+from the devout in his attempt to add “anthropomorphic details” to a description of the Divine (437-8).
+
+Sullivan 26
+fairness, it must be said that their respective audiences are fundamentally different, since
+the narrator’s audience (the reader of Paradise Lost) has already fallen, while Raphael’s
+has not yet eaten of the forbidden fruit. But in Milton’s conception, it seems as if humans
+both pre- and post-lapsarian lack the ability to directly understand what occurs in Heaven,
+their mode of reasoning relying primarily on discourse, not intuition. Therefore if
+Raphael is to complete his task, he must first, like the narrator, find a way of
+communicating heavenly matters to those who cannot comprehend them. Unsurprisingly,
+he chooses to follow the narrator’s example once more, resorting to the fictive mode to
+relate a comparable, yet fundamentally inaccurate story that humanity “Can comprehend,
+incapable of more.”
+
+Milton’s Satan
+
+And yet C.S. Lewis’ point still stands. An examination the narrator acquaints the
+reader with the difficulties inherent to justifying the ways of God to men, just as
+Raphael’s story provides an example of how such difficulties can be subverted through
+the fictive mode, but the question remains: why attempt to rationalize God at all? As
+Lewis suggests, “A God, theologically speaking, much worse than Milton’s, would
+escape criticism if only he had been made sufficiently awful, mysterious, and vague,” and
+yet Milton, risking criticism and blasphemy, defiantly resists such a relatively easy
+solution in his attempt to do the impossible and clarify what is by its very nature vague.
+In Milton’s conception of Satan, however, such an impossible task becomes a necessity,
+as the “Artificer of fraud, … the first/ That practiced falsehood,” shatters the perfect
+
+Sullivan 27
+prelapsarian confidence in belief with the invention of the lie, and Milton’s narrator is
+forced to defend her God by the new, postlapsarian rules (IV. 121-2). For even though the
+story of Paradise Lost is diametrically opposed to the perverting influence of Satan’s
+“glozing lies,” when examined closely the story and the lie share much in common as
+products of a world fallen from grace (III. 93). Cut off from God, truth, and certainty in a
+world where belief has been called into doubt, each actively seeks to interpret the truth of
+the world around them, employing the same creative practices to translate unknowable,
+divine truth into a narrative that can be easily grasped. Where they differ, then, is in
+intention; the narrative of Paradise Lost seeking to justify and confirm the abstruse ways
+of God to men while the lies of Satan seek to drive a wedge between God and His
+subjects by exploiting the abstruse nature of His will. In this ambiguity, both Satan and
+Milton’s narrator seem to thrive, each finding in God’s obscurity the space to provide
+their own input by creatively recombining the elements of indisputable, divine truth. But
+where the narrator tries only to glorify God and perhaps succeeds, Satan tries only to tear
+Him down and absolutely fails, his lies in Paradise Lost framed not only as grossly
+inaccurate, but also absolutely vain as his attempts to disparage God do nothing more
+than inadvertently glorify Him.
+“With calumnious art/ Of counterfeited truth” Satan begins his war with Heaven,
+seducing the once-loyal angels away from their divine purpose with the first lie ever told
+(V. 770). For while it is not presented as an alternative to Genesis at its onset, Satan’s lie
+does suggest a completely different way of looking at the world, recasting God as a tyrant
+and his subjects as oppressed beings of near-infinite physical and mental power. And
+although such a classification might seem redundant, each aspect is important for Satan’s
+
+Sullivan 28
+argument, the redundancy allowing him slip his own interpretation of events
+surreptitiously in between. For God to be a tyrant, Satan argues, His subjects must be
+oppressed, and if His subjects are oppressed, then God must be a tyrant. God is never
+portrayed in Paradise Lost as a tyrant, but Satan feels repressed, allowing Satan to
+creatively equate his feelings of repression with God’s tyrannical nature. In this way
+Satan does not have to completely contradict what is believed to be true, only put a
+different spin on it, misconstruing and misinterpreting the benevolent actions of God as
+restricting. But as Abdiel, the only loyal angel among Satan’s host, states clearly in his
+rebuttal to Satan’s lie,
+. . . by experience taught we know how good
+And of our good and of our dignity
+How provident He is, how far from thought
+To make us less. (826-9)
+To Abdiel, the falsity of Satan’s story is self- evident, the “experience” of angelic bliss
+providing vivid proof to the claim that the “good and . . . dignity” of the angels are high
+priorities of God. If Satan wants to secede and bring the question of God into the realm of
+experience, therefore, he must find a way to do the impossible and establish malcontent
+in the blissful seat of Heaven.
+But in this respect Satan’s creative powers do not desert him. Having previously
+been “… of the first,/ If not the first archangel in pow’r,/ In favor, and preeminence” (V.
+659-661), Satan finds an excuse to feel robbed of his importance by the ascension of
+Jesus to the right hand of God, “deep malice thence conceiving and disdain” in response
+to a perceived wrong (666). Armed now “With envy against the Son of God,” Satan finds
+
+Sullivan 29
+he “… could not bear/ Through pride that sight [of Jesus] and thought himself impaired,”
+his imagined impairment allowing him to conceive of the malice and disdain necessary to
+cast God as a tyrant (662-665). As Abdiel later points out, there can be no grounding for
+such resentment, since “all honor to [Jesus] done/ Returns our own,” but for Satan this
+hardly matters, since now he has an excuse, no matter how flimsy, to feel maligned (8445). But by naming God a tyrant and inventing an entirely different way to look at the
+world, Satan finds himself, at least at first, utterly alone. If his lie is to gain any credence
+in a world that only values truth, he must make everyone else believe it, replacing the
+unifying knowledge of divine truth with a unifying belief in his own falsehood. In this
+respect he is only partially successful, his alternate narrative seducing only a third of
+heaven’s host away from God, but when examined more closely, his achievement is
+nothing less than remarkable. Having recently conceived the of malice and distain in a
+place defined by its perfect bliss, Satan then proceeds to instill it in others, convincing
+some of them that their bliss is nothing of the sort. Instead, Satan argues, the lot of the
+angels is that of servitude; their blind trust in and obedience to God allowing them to be
+tricked into thinking theirs is a world of bliss. Now it is up to the “better councils” of
+Satan to “erect/ Our minds and teach us to cast off this yoke,” freeing themselves from
+belief in God’s authority in preference of their own (785-6).
+Sufficiently motivated by his inventions malice and despair, all Satan now
+requires is an argument where his “better councils” can shine; a chink in the divine logic
+where the belief and consensus of the heavenly host can be challenged and called into the
+realm of experience. And ironically, it is Abdiel, the only loyal angel in all of Satan’s
+assemble host, that gives Satan exactly what he needs. When Abdiel asks Satan “… shalt
+
+Sullivan 30
+thou dispute/ With [God] the points of liberty who made/Thee what thou art,” he does so
+in a rhetorical fashion, meaning to call attention to the absurdity of disputing allegiance
+owed to He that gave you being to begin with (V. 821-3). But Satan, realizing his
+opportunity has come, seizes the moment to ask Abdiel spitefully:
+… who saw
+When this Creation was? Remember’st thou
+Thy making while the Maker gave thee being?
+We know no time when we were not as now,
+Know none before us, self-begot, self-raised (856-60).
+As Satan understands all too well, such direct evidence is impossible to obtain As Gordon
+Teskey observes in a footnote to the passage quoted above, “there is no evidence for,
+because there is no angelic witness of, what Abdiel affirms: the Son’s creation of the
+angels. But such evidence is by definition impossible to obtain: Abdiel cannot witness his
+own creation as he is not there to be a witness until he is made” (Milton 130). Abdiel
+cannot, therefore, affirm or deny Satan’s claim that the angels could have been selfbegotten, forced as he is to rely on and espouse what he believes instead of relying on his
+own experience, since he could not have been present to witness his own creation. The
+same holds true of Satan’s argument, his own claim proving to be nothing but speculation
+by the same logic he uses to disprove Abdiel’s, but for Satan’s purposes the evident
+logical fallacy hardly matters. For although he has not won a victory in debate, Satan has
+uncovered an angelic assumption that rests entirely on faith in God, which allows him to
+ask that God and the loyal angels to do the impossible: to engage Satan on an experiential
+level and prove empirically it was so.
+
+Sullivan 31
+Unable to meet Satan’s rhetorical challenge, Abdiel is forced to retreat, but not
+before he fires one last parting shot back at the rebel host: “soon expect to feel/ [God’s]
+thunder on thy head, devouring fire!/ Then who created thee lamenting learn/ When who
+can uncreate thee thou shalt know!” (V. 892-5) It is here that critics like William Blake,
+Empson, and even Pullman sink their teeth, reading in Abdiel’s threat an
+acknowledgement that Satan has won his debate and now must be silenced through the
+physical violence of a tyrannical God. Thus they are able to take Satan at face value when
+he, in the pits of Hell, claims that He “who overcomes/ By force hath overcome but half
+His foe” (I. 638-9), just as they are able to read a kind of tyrannical suppression in Jesus’
+refusal to “vouchsafe” any “strife with [the rebels]” (VI. 823) besides martial. In this
+context Satan becomes a hero, alternately exemplified for his “courage and majesty and
+firm and patient opposition to an omnipotent force” (Shelley 393) and his “desire,” which
+is so strong that “Reason [cannot] usurp its place & govern the unwilling” (Blake 389),
+and such a reading of Paradise Lost is by no means invalid. In fact, just such reading is
+the cornerstone of Pullman’s His Dark Materials, the likes of which will be explored in
+depth in Chapter 3. But whereas these critics celebrate the transition from a worldview
+defined by belief to one defined by experience as a triumph of intellectual independence
+over slavery, it seems relatively clear that Milton does not take the same tact. In fact,
+instead of being “of the Devil’s party without knowing it,” as both Blake and Pullman
+suggest, it seems far more likely that Milton wrote expressly against the Devil’s party as
+he sought, through his story, to undo the damage done by Satan’s lie and reclaim the
+fallen world for God (389).
+
+Sullivan 32
+Milton’s Rebuttal
+
+The confusion arises, on both the atheistic (Blake, Empson) and devout (Lewis)
+sides of the debate, from the fact that Milton engages the Devil in his own game. Instead
+of following Lewis’ advice and citing Eternal Providence and belief as glosses necessary
+for writing about the ineffable, Milton attempts to fully engage with his own conception
+of Satan and the fall by engaging with the uncertainty of the experiential mode. Such an
+attempt might be ill-advised, just as it might be unsuccessful, but by examining the
+characters of Milton’s Raphael and narrator it can be shown that he did try, in no
+uncertain terms, to justify the ways of God to men, and that he was intimately aware of
+the difficulties inherent in such a task. Therefore, instead of quoting Scripture at Satan to
+lay the matter at rest, the experiential equivalent of allowing God one (or many) grand,
+vague, and mysterious “I told you so”(’s), Milton seeks to rationally reincorporate the
+fallen world, catalyzed by Satan and the lie, back into the folds of God’s divine plan,
+thereby glorifying Satan’s role in shattering the blissful realm of belief. This is not to say
+that the loss of a direct connection to God and truth through belief is not to be lamented,
+only that such a loss does not constitute a victory on the part of Satan. On the contrary:
+even though it becomes the Satanic creed “to do ill our sole delight/ As being contrary to
+His high will/ Whom we resist” (I.160-3), Milton makes clear that he “Who seeks/ To
+lessen [God] against his purpose serves” (VII. 613-4).
+For as even Satan acknowledges, God’s omnipotence makes it almost impossible
+to evil – to exist “contrary to His high will” – in a world that finds its source in Him.
+
+Sullivan 33
+writes characters like Raphael and his narrator that are tasked with justifying truths which
+are, by their very nature, unjustifiable, and watches them struggle in the world which
+defines its connection to truth not through belief in God, but through experience. “If then
+[God’s] providence/ Out of evil seek to bring forth good,” Satan admits, “Our labor must
+be to pervert that end/ And out of good still to find means of evil,” the task of the Satanic
+hosts becoming more complex as they try to outmaneuver and confound the will of an
+omniscient God (I. 162-5). As to what good God will bring forth from evil, Satan cannot
+guess, but the choirs of angels glorifying the new-made Earth seem to have a better idea.
+“Who seeks/ To lessen Thee against his purpose” sing the loyal angels, “serves/ To
+manifest the more thy might, his evil/ Thou usest and from thence creat’st more good,”
+thereby confirming Satan’s suspicion that even in seeking to foil God’s plans, he is
+actually serving them (VII. 613-6). As to how Satan’s evil acts turn to good, however, the
+angels are frustratingly vague, pointing only to “this new-made world, another Heav’n …
+the happy seat of men,/ Earth,” as if it in some way explains Satan’s role in inadvertently
+creating more good (VII. 617-8, 623-4). But while God certainly creates the Earth and its
+human inhabitants in response to Satan’s uprising, “lest [Satan’s] heart exalt him in the
+harm/ Already done to have dispeopled Heav’n,” His reasoning goes deeper, using the
+Satanic invention of doubt and the lie to test His followers and give meaning to their
+obedience (VII. 150-1).
+As God explains to His followers, “under long obedience tried,/ … Earth be made
+changed into Heav’n and Heav’n to Earth,/ One Kingdom, joy and union without end”
+(VII. 159-61), emphasizing like Raphael “[the angel’s] happy state/ Hold as you yours
+while our obedience holds,/ On other surety none” (V. 536-8). Only “under long
+
+Sullivan 34
+obedience,” it seems, can humans be proven worthy to join the ranks of Heaven, holding
+their happy state, like the angels, “On other surety none.” And while this commitment to
+and emphasis on obedience may seem arbitrary, it is important to keep in mind what this
+steadfast obedience also represents: resisting temptation. As Raphael explains to Adam
+and Eve:
+Our volunteer service [God] requires,
+Not our necessitated: such with Him
+Finds no acceptance, nor can find. For how
+Can hearts, not free, be tried whether they serve
+Willingly or no, who will but what they must
+By destiny and no other choose? (V. 529-534)
+illustrating just how important willing obedience is to God. Without free will, or a
+freedom from the necessities of destiny, there can be no choice but to serve, as Raphael
+makes plain: if destiny had control over humans and angels, they would be limited to
+“what they must/ By destiny and no other choose.” Equipped with free will, however,
+angels and humans are given the opportunity to “volunteer service,” choosing with free
+hearts to “serve/ willingly or no;” their decision based off of nothing more than their love
+of God. This is the only service God requires; the entire reason behind God’s decision to
+make his creations “just and right,/ Sufficient to have stood though free to fall:” without
+the ability to fall and choose incorrectly, all obedience done to Him would be rendered
+the meaningless lip-service of slaves (III. 98-9).
+There is, however, one thing missing in God’s grand scheme to grant freedom of
+choice to and receive worthy praise from His subjects. For although Adam, Eve, and the
+
+Sullivan 35
+angels do not lack the free will necessary to disobey God, they lack the motivation, their
+paradisal and perfect state providing no impetus for change, until the fall of Satan. Until
+Raphael relates to Adam the story of Satan’s fall, he is completely unaware that he is
+“both will and deed created free,” since his “constant thoughts/ Assure me and still
+assure” that to worship God is “so just” (V. 548-53). So evident is the justice of Adam’s
+love for God that it never even crosses his mind to disobey, confirmed in his “constant
+thoughts” that God deserves to be glorified. It is only when Raphael “tell’st/ [what] Hath
+passed in Heaven,” does “some doubt within [him] move,” his mind opening to the
+possibility that there could be a conceivable reason for rebelling against God and
+rejecting the gift of His bliss (V. 553-4). Thus it can be seen that Raphael’s story and
+Satan’s lie are, in this case, unified in their purpose, designed to open Adam’s mind and
+give him the ability to choose between belief in God and belief in the self.
+This is the singular ingenuity of Satan’s lie, since through its utilization he is able
+to provide a viable alternative to unwavering belief and eternal bliss. By positing that the
+angels are “self-begot, self-raised,” and therefore self-reliant, Satan commits the sin of
+self-aggrandizement in suggesting that truth is somehow existent outside of God;
+accessible through independent experience, not belief in Him. But despite the fact that
+such a claim is framed as an outright lie in the context of Paradise Lost, the temptation to
+conceive of the individual, independent from God, as a source of certainty and truth is,
+for some, too much to bear. It is certainly too much for Eve, who upon tasting the
+forbidden fruit, thanks the Tree of Knowledge for “Experience … to thee I owe/ Best
+guide” (IX. 807-8), just as it is too much for the rebel angels, who believe their “own
+right hand(s)/ Shall teach us by highest deeds by proof” (V. 864-5). It is even too much,
+
+Sullivan 36
+as Milton might suggest, for those who read Satan as a hero of empirical thought and
+truth independent from God, as they are themselves tempted by Milton’s Satan into
+believing in an experiential access to truth. As to precisely what such a persuasive ability
+on the part of Milton says about his allegiance, as it were, is difficult to pinpoint, but to
+suggest that as a “true Poet” he is unequivocally “of the Devil’s party” is to completely
+ignore Raphael and the narrator of Paradise Lost, whose projects seek to actively engage
+and challenge the lies of Satan (Blake 389).
+But as pious individuals, both Raphael and the narrator must needs ensure that
+when they do engage and challenge the lies of Satan in the experiential, they do not fall
+into the sin of self-aggrandizement themselves. Thus they employ what Saler would
+describe as the “ironic imagination” and a fantastic mode of storytelling, claiming that the
+stories they use to justify the ways of God to men are “understood to be explicitly
+fictional, [yet] . . . also taken to be real” (Saler 28). As uncertainty arises in the fallen
+state “not to the identification of the imperative—do God’s will—but to the identification
+of the stance or course of action that is its local fulfillment,” both Raphael and the
+narrator are certain only that they desire to do God’s will, not that they will actually
+achieve it (Fish 5). Therefore when they make a claim to truth, which in both of their
+minds is synonymous with claiming access to the divine, they do so in an “explicitly
+fictional” framework that acknowledges their own potential for failure and
+miscommunication of the Divine Truth, or what is “taken to be real”. In this way they can
+safely claim to justify God while also avoiding Satan’s sin of self-aggrandizement, since
+they do not ever argue that truth in some way originates from them. Instead, in Milton’s
+conception it is the duty of creative fiction to reinterpret Divine Truth into a format that
+
+Sullivan 37
+can be understood by the fallen, experiential world, serving as the ultimate check on
+Satan’s tempting lies.
+
+Sullivan 38
+
+Chapter 2: The Bridge that Tolkien Built
+Near the end of their quest to save Middle-Earth by destroying the Ring of Power,
+the hobbits Frodo and Sam encounter Faramir, who claims to be none other than the
+“Captain of Gondor” (Tolkien, TT 643). In Middle-Earth, Gondor is often identified as
+the chief bulwark of resistance to the evil embodied by the Ring of Power and its master,
+Sauron, and as Faramir informs the two of them, the land in which they currently reside
+has become a battle ground in which “only the servants of the Dark Tower [Sauron], or
+the White [Gondor]” roam freely (643). So when Sam and Frodo claim that they are
+“neither,” simply “travelers” in this land, Faramir’s suspicion is immediately aroused,
+and he wastes no time in demanding the two Hobbits “to make haste and declare
+yourselves and you errand” (643). But Frodo has learned to be wary of men, his trust in
+them having been betrayed when Boromir, Faramir’s brother, the former “High Warden
+of the White Tower, and [Gondor’s] Captain-General,” tries to steal the Ring in order to
+wield its evil power rather than help destroy it (643). So when “four tall Men” spring out
+of the forest, all of which “were like [Boromir] in stature and bearing, and in their matter
+of speech,” it comes as no surprise that Frodo is reluctant to reveal his identity as the
+Ring Bearer (642). Indeed, the next few chapters are all marked by a strange tension as
+two parties who should be natural allies against Sauron try to determine if the other is
+worthy of their trust, both aware that to misplace their faith at this critical juncture could
+have disastrous consequences. They are correct, of course, for there are few instances in
+Tolkien’s fictional works where misplaced trust does not lead to disaster, but what they
+do not know is how groundless their mistrust of one another actually is.
+
+Sullivan 39
+There is, however, a clue early in their conversation as to the content of Faramir’s
+character that Frodo misses. As Faramir presses him harder and harder to reveal the truth
+of his journey and its goal, Frodo snaps, asking “You have been trying to trap me in
+words, playing with me? Or are you now trying to snare me with a falsehood?” But
+Faramir is offended by such an accusation, responding simply “I would not snare even an
+orc with a falsehood” (TT 649). Frodo doesn’t know it yet, but he could hardly have
+found a nobler man in all of Middle Earth. Faramir’s rejection of lies marks him more
+firmly as an enemy of Sauron than any banner ever could. Unlike Phillip Pullman, whose
+works will be examined in the next chapter, the lie in LOTR is a device used exclusively
+by Sauron and the agents of evil, consistently rejected by those identified with good and
+adopted by those who practice evil. But Tolkien does not clarify why in his novels the lie
+is so wholeheartedly condemned as a means to power, instead taking it as a point of fact
+that to lie is a fundamentally malevolent act. And while the validity of such an
+assumption might seem natural and self-evident to Tolkien, it is not: his belief in truth’s
+unmitigated superiority to falsehood finding deep roots in his Catholic faith and his
+passion for pagan literature. For although it might seem ironic for a man so dedicated to
+truth in general and “Truth” with a capital “T” to be reading pagan and writing secular
+fiction, for Tolkien there was no contradiction, his complex understanding of fantasy
+writing through the Christian faith allowing him to address the question of “the sacred
+and the profane” as well as the “real and the fictional” simultaneously (Saler 27).
+Like Milton, Tolkien’s religious convictions forced him to wrestle with the
+implications of “the sacred and the profane” as well as the “real and the fictional,” the
+man and his stories trying to navigate between the real, sacred Truth and the profane,
+
+Sullivan 40
+fictional lie. Heavily invested in storytelling as not only an art form, but as a way to
+actively participate in the divine act of creation, Tolkien saw storytelling as a supremely
+powerful force that could swing one of two ways. When done correctly (a loaded term),
+Tolkien believed storytelling had the power of secondary creation, allowing its
+participants (reader and writer alike) to glorify and add to the beauty of the created world
+by recombining pre-existing elements into new and fantastic forms. These fantasy worlds
+of secondary creation did not exist in any literal sense, but as Michael Saler suggests, the
+duality of consciousness cultivated by the ironic imagination made them believable
+nonetheless, their rootedness in the real world allows the reader and writer to explore a
+world of Secondary Creation that achieves an “inner consistency of reality” (Tolkien,
+“On Fairy-Stories 139) through a “willing activation of pretense” (Saler 28). But whereas
+Saler predominantly connects this concept of rootedness to a desire on Tolkien’s part to
+foster a sense of realism in his imagined world, it was at least equally important for
+Tolkien to foster a relationship with divine truth – a relationship he thought to be
+impossible without a deep understanding of and connection with Primary Creation.
+Otherwise, all attempts to use the narrative arts to glorify and add to Primary Creation, or
+the world as created by God, would be in vain, such rootless tales providing nothing but
+pointless flights of fancy at their best and malicious misrepresentations of reality, and
+therefore God, at their worst. Thus it is against these misrepresentations of reality – these
+lies against the Primary Creation of God – that Tolkien rallies, casting the stories he
+loved and wrote as glorifications of God and truth though their fictional, yet accurate
+representations of Secondary Worlds.
+
+Sullivan 41
+But lest it be suggested that the projects of Tolkien and Milton are analogous, it is
+critical to point out that although both Milton and Tolkien share certain similarities,
+Tolkien also serves as a bridge between the religious concerns of Milton and the secular
+concerns of Pullman. For although Tolkien held, like Milton, that truth in its purest form
+was only accessible through an impossible understanding of God, he also held great stock
+in the powers of human creativity, so much so that he wrote man “may now, perhaps,
+fairly guess to guess that in Fantasy he may actually assist in the effoliation and multiple
+enrichment of creation” (“Fairy-Stories” 156). Thereby balancing himself between the
+“dimensions of the sacred and profane,” which Saler identifies with the past, and the “real
+and the fictional” which Saler identifies with the modern era, Tolkien seems to selfconsciously straddle the divide between the fiction of the past and the fantasy of the 20th
+century. This is only appropriate, since the genre seems often to be defined, as Brian
+Attebery suggests “not by boundaries but by a center,” with “The Lord of the Rings being
+that centre by which we judge other fantasies” (12). But as it will be demonstrated, the
+fantasy of J.R.R. Tolkien serves not only as a center of gravity for the genre, but the point
+of its inception, as its claim to truth reaches back to writers like Milton and sets the stage
+for writers like Pullman and beyond.
+
+Tolkien’s Path to Truth
+
+And yet Tolkien is frustratingly vague when it comes to defining what constitutes
+a story “done correctly”, since he also maintained that it “could not be caught in a net of
+words; for it is one of its qualities to be indescribable, though not imperceptible” (“Fairy-
+
+Sullivan 42
+Stories” 114). In his essay “Works Rooted and Uprooted,” however, Thomas Shippey
+attempts to create just such a net by linking Tolkien’s well-documented appreciation of
+certain stories to Tolkien’s conception of a tale’s “rootedness,” a term mentioned only
+briefly in Tolkien’s published lecture “Sir Gawain and the Green Knight” (henceforth
+“Sir Gawain”). In a passage that Shippey himself quotes, Tolkien seems just as perplexed
+as any of his readers, admitting that “It is [not only] an interesting question: what is this
+flavour, this atmosphere, this virtue that such rooted works have,” but also “not the kind
+of thing about which I wish to speak today” (Tolkien 72). Indeed, Shippey laments that
+“it was not [Tolkien’s] business to answer [such a question] that day —or alas, any other”
+(145), but it is precisely this ambiguity that gives Shippey the space to write, setting
+himself the task of “searching for this unknown quality that Tolkien saw and admired”
+(146) in various other (primarily) ancient stories. But while Shippey is correct in his
+assertion that rootedness as a self-contained concept does not resurface again in Tolkien’s
+writings, it also seems unlikely that Tolkien, as a man so deeply committed to the truthvalue of the story, would have resigned the “distinction between the genuine and phony,
+which . . . [he was] so sure of,” to a purely “inner quality” of a work outside of any
+“objective criteria” (148). What seems more likely, then, is the concept of the
+mythologically rooted changing and expanding over time, evolving along with the mind
+that coined the term. In other words, while it might have been possible for Tolkien to
+abandon the term, the concept of rootedness – “the distinction between [the] genuine and
+phony” story – could never be far from Tolkien’s thoughts, manifesting themselves both
+in his fictional and scholarly works.
+
+Sullivan 43
+In addition to Sir Gawain and the Green Knight, Tolkien’s understanding of
+Beowulf was critical to his understanding of the rooted story, the old English poem
+providing an important example of the rooted story’s power. As Tolkien writes:
+“The illusion of historical truth and perspective, that has made Beowulf such an
+attractive quarry [of historical fact], is largely the product art. . . The lovers of
+poetry can safely study the art, but the seekers after history must beware lest the
+glamour of Poesis overcome them.” (“Beowulf” 7)
+Tolkien mentions this semi-magical glamour of art only once over the course of
+“Beowulf,” utilizing it only to steer his peers away from a reading of Beowulf as a purely
+historical/ linguistic text. But in a lecture written three years later called “On FairyStories,” Tolkien is able to turn away from his defense of Beowulf’s value as a
+mythologically rooted work of art towards a defense of the rooted fairy-story in general.
+Expanding on the artistic principles that allow stories like Beowulf and Sir Gawain to
+assume the “illusion of historical truth and perspective” that serves the artist better than
+the historian, “On Fairy-Stories” attempts to define exactly what allows fiction to access
+this mode of truth. For although the vocabulary of the “rooted” tale drops out of “On
+Fairy-Stories,” Tolkien’s concern with the “virtue . . . that such rooted works have” does
+not flag. In other words, the rooted story uses ancient myth to create an “inner
+consistency of reality;” a sense that what is depicted in fantasy is not only true of the
+interior world of the story, but the exterior realm of reality (“On Fairy-Stories” 139).
+Although Saler would not categorize Beowulf as New Romance, it is striking to
+compare what Tolkien referred to as an “illusion of historical fact” to Saler’s conception
+of enchantment and the ironic imagination. As Saler writes, the “inherently ambivalent
+
+Sullivan 44
+properties of enchantment: the capacity to delight and to delude,” is what makes it so
+dangerous, “the price of living with enchantment was always the possibility of being
+captivated by it” (20). For although in his introduction Saler clearly excludes from his
+discussion ‘“Mythological’ and ‘legendary”’ stories and characters, which possess “a
+more ambiguous ontological status” compared to those that are “unambiguously marked
+at the outset as ‘fictional,’” there seems to be a way in which Tolkien’s understanding of
+Beowulf’s appeal is connected to Saler’s modern understanding of enchantment (6). Just
+like authors that Saler equates with the proprietors of New Romance, Tolkien might
+argues that the Beowulf poet presents her “fantasy realms … in a realist mode,” the
+thought and deep emotion giving it the semblance of historical accuracy. Not to quote
+Saler out of context, it is a much less sustainable argument to suggest that the Beowulf
+poet’s fantasy realm is “cohesively structured, empirically detailed, and logically based”
+to the same extent that Saler claims is indicative to writers of New Romance. The poet
+did not, after all, feel compelled to include detailed maps of the North Sea, complex
+genealogies for Beowulf and Hrothgar, or expansive appendices detailing the parameters
+of Northern Christianity, but she did, according to Tolkien, include aspects of the real
+world, as she perceived them, in her fantastic realm.
+At the heart of such a claim is the rigid belief on Tolkien’s part that the genuine
+fairy-story – the rooted fairy-story – was inextricably connected to the real; its fantasy
+drawing power from a connection to the world at large. As far as Tolkien was concerned,
+“History often resembled ‘Myth,’ because they are both ultimately of the same stuff,” the
+mythical doing nothing more than borrowing the elements of history to suit its own
+purposes (“On Fairy-Stories” 127). The magic of fantasy, therefore, was nothing more
+
+Sullivan 45
+than the recombination and re-handling of disparate historical, factual elements into a
+cohesive whole, whether those elements be simple adjectives or motifs as ancient as the
+human race. “The mind that conceived of light, heavy, grey, yellow, still, swift, also
+conceived of the magic that would make heavy things light and able to fly, turn grey lead
+into yellow gold, and the still stone into swift water” and in Tolkien’s mind it was in
+“such ‘fantasy’, as it is called, new form is made; Faërie begins; Man becomes a subcreator” (122). Fantasy as Tolkien conceived it, therefore, was not the product of creation
+proper, but that of “sub-creation;” the human ability to perceive and understand the world
+around us while recombining its elements into shapes wonderful and, most importantly,
+based in truth.
+
+Tolkien’s Truth
+
+As to what kind of truth such fictional worlds convey, the question becomes a
+little thornier as Tolkien’s secular and religious investments in the story begin to merge.
+For although he seems to have a clear sense of what sort of truth is captured in the story
+done correctly, Tolkien never sees fit to address it in any kind of comprehensive manner.
+Believing that the rooted story reflected not only the truth of the world around us but also
+true aspects of the Divine, Tolkien was of the mind that by participating in the act of subcreation, human beings interacted with the Primary Creation, or the world as created by
+God. As one “may now … fairly dare to guess,” Tolkien writes, “in Fantasy [one] may
+actually assist in the effoliation and multiple enrichment of creation,” the recombination
+of elements found in the divine work of Primary Creation actually enriching creation
+
+Sullivan 46
+itself (“Fairy-Stories” 156). Thus framed, rooted storytelling participates not only in the
+truth of the real world upon which it is based, but also in the Truth of the divine Will that
+created it, its convincing emulation of and creative play with the forms found in the
+primary world signifying to Tolkien a deep understanding of God and his works. But
+because he also believed as a Roman Catholic “that individuals could never fathom the
+Lord’s ultimate intentions,” Tolkien “was wary of asserting conclusive interpretations”
+about the nature of Primary Creation or the divine will that shaped it (Saler 163). Thus
+his conditions for a story’s rootedness are not contingent upon the author’s Catholic faith,
+or on the factual accuracy of her depiction of historic events, but upon the “keen … and
+… clear … reason” of her artistry that allows her to cast the illusion of historical accuracy
+found in stories like Beowulf, Sir Gawain, and, if Tolkien had his way, LOTR (“FairyStories” 144).
+Tolkien did not, however, develop such an understanding in a vacuum. Indeed,
+such an understanding of the story’s access to truth within the Christian framework goes
+as far back as St. Augustine, one of the great Fathers of the Catholic Church. For
+although Tolkien develops his own vocabulary of secondary worlds and Primary Creation
+to address the issue, the unity of sentiment between himself and Augustine is striking, as
+each attempts to incorporate secular storytelling into a Christian worldview.
+Acknowledging Jesus’ extensive use of the fictional parable in the Scriptures, Augustine
+suggests, “many pretenses are undertaken in order to truly signify one thing by means of
+another” (Griffiths qtd. 103). Through the fictional story, therefore, Augustine maintains
+that truth might be conveyed, since Jesus often employed “pretense … to truly signify
+one thing by means of another.” Jesus is, of course, a unique case for Augustine, since as
+
+Sullivan 47
+the Son of God “what he intends to signify by his fictions [are factually] true in addition
+to not being a lie,” but this by no means precludes mortal storytellers from accessing
+pieces of truth through their art (103). In fact, Griffiths goes so far as to suggest that for
+Augustine, “the greater [the story’s] ordered harmony, the deeper its participation in
+God’s ordered harmony and the greater its merit;” the “beautiful” ordered harmony
+present in stories providing nothing more than a mirror in which the ordered harmony of
+God’s Creation can be accurately reflected in a fictional context (105). “For a Christian,”
+or at the very least for Tolkien, “this is what all those who write good literature are doing
+whether they know it or not,” their ability to realistically portray the world as she
+understands it through the story placing the author in direct contact with God, whose act
+of Primary Creation she is imitating (108).
+But the proper handling (or re-handling) of such elements requires an immense
+degree of artistry, lest any structure seeking to achieve the “inner consistency of reality”
+of sub-creation collapse under its own weight. This is something that Tolkien understood
+all too well, but by skimming only lightly over the surface of mythopoeia, or the right to
+sub-create, it is something that Shippey fails to address. For although Shippey correctly
+links Tolkien’s attraction to rooted fantasy with his appreciation of literary worlds with a
+certain internal consistency, he does not follow the concept of rootedness to Tolkien’s
+final conclusion:
+“Fantasy can, of course, be carried to excess. It can be ill done. It can be put to
+evil uses. It may even delude the mind out of which it came. But . . . the keener
+and the clearer . . . the reason, the better fantasy it will make. . . For creative
+Fantasy is founded upon the hard recognition that things are so in the world as it
+
+Sullivan 48
+appears under the sun; on a recognition of that fact, but not a slavery to it.”
+(“Fairy-Stories” 144)
+Thus the stakes of the rooted story are raised. Improperly done, the re-appropriation of
+elements “as [they] appear under the sun” can lead to “evil,” as even “the mind out of
+which it came” can be “delude[d]” by their pretenses of fact. But when the reason behind
+such rooted stories is “keen and . . . clear,” “founded upon the hard recognition” of things
+as they actually are, fantasy can achieve the opposite effect. Instead of leading its
+participants, both reader and writer, into delusion, the sub-creative Fantasy founded upon
+the recognition of fact can, according to Tolkien, generate its own truth, moving beyond
+the recognition of fact to the revelation that its recombination is also in some way true.
+This is the point where Tolkien diverges from Milton, in that he saw real value in
+even secular works of fiction, looking to the convincing recombination of elements from
+the Primary World as the sign of a work’s connection to God, not its religious stance. For
+although Tolkien is a long way from penning the phrase “God is dead,” there is a way
+that his celebration of the new is closely linked with Nietzsche’s conception of the artist.
+“A painter without hands,” writes Nietzsche in “On Truth and Lies in a Nonmoral
+Sense,” “who wished to express in song the picture before his mind would, by means of
+this substitution of the spheres, reveals more about the essence of things than does the
+empirical world” (893), especially since for Nietzsche the empirical world was composed
+primarily of a “movable host of metaphors” (891). For Tolkien to parrot such a doubt in
+the universe’s lack of meaning would be akin to blasphemy, since Tolkien believed
+resolutely that the world of Primary Creation gained credence and truth from its
+relationship to God. But since such divine truth was, in the end, inaccessible to the human
+
+Sullivan 49
+mind, Tolkien found it much easier to praise a subjective, inventive form of truth while
+simultaneously maintaining the hope that such invented Secondary Worlds might actually
+reflect a more permanent truth. In other words, it was Tolkien’s uncertain hope that each
+sphere of Secondary Creation revealed “one facet of a truth incalculably rich: finite only
+because the capacity of Man … is finite,” humanity’s ability to enrich creation hinging on
+their ability to think creatively and reveal another “facet of a truth incalculably rich”
+through works of rooted fantasy (“Fairy-Stories” 155).
+Such a claim – that the truth of rooted sub-creation is greater than the sum of its
+parts – is not one to be made lightly, but at the center of “On Fairy-Stories” is the deepseated conviction that there was more at stake in the fairy-story than a convincing flight
+of fancy. Understanding that “it [was] presumptuous of [him] to touch upon such a
+theme,” particularly in the strictly academic setting of a lecture hall, Tolkien nevertheless
+holds nothing back: as he conceived it, the writing of a rooted fairy-story was nothing
+less than the creation of a Secondary World. “When the story-maker’s art” of reappropriating the elements of reality is “good enough, . . . the story-maker proves a
+successful ‘sub-creator’” (132), fashioning “a Secondary World into which both designer
+and spectator can enter” without suspending their disbelief or losing connection to the
+world as it exists under the sun (143). This Secondary World, built by the author through
+his story-maker’s art but cohabitated by himself and his audience, “does not seek
+delusion, nor bewitchment or domination,” but rather “seeks shared enrichment” as the
+elements of the world under the sun are recombined and re-examined in their new,
+fantastic shapes (143). But because building blocks of these new shapes are rooted in
+reality and mythology, Tolkien believed they transcend the realm of the strictly fictitious,
+
+Sullivan 50
+enriching the minds of the designer and the spectator through their contemplation. For
+while these products of Secondary Worlds almost certainly did not in truth exist, the
+rootedness of its elements could not be denied. Thus Tolkien believed that if the real
+elements of the “Primary World” (142) could be convincingly re-combined within the
+fictional framework of a Secondary World, it must be significant, the rootedness of a text
+evidencing its inherent, if not absolute, truth.
+
+Tolkien’s Story
+
+As a product of the modern age, Tolkien seems to have maintained a keen
+awareness that truth, as human’s could understand it, was of an inherently fractal affair;
+even in fantasy one could do little better than reveal one subjective “facet of a truth
+incalculably rich.” But such a choice of words belies Tolkien’s deep belief as a devout
+Roman Catholic that there was such a thing as “a truth,” objective, divine, and sourced in
+God, even if such a truth was beyond the comprehension of mortal man. Fantasy thus
+became, for Tolkien, the only way of accessing the certainty of divine truth; the only way
+of positing a subjective truth as an objective one without claiming an impossible
+understanding of God. “Unlike the messy contingencies of ordinary experience,” writes
+Saler, “imaginary worlds, for all their exoticism, are manageable and safe,” in that they
+can establish within their fictional context a solid connection to truth that was otherwise
+impossible, utilizing the power of the author to claim that if a truth was subjective truth
+was subjective in the realm of Primary Creation, in Secondary Creation the author could
+establish it as fact (51). Indeed, if an author of fantasy has done her job correctly, argues
+
+Sullivan 51
+Tolkien, than the subjective truths she posits as objective will illicit Secondary Belief in
+her reader, the fictional frame of the narrative permitting the belief of the author to claim
+connection to the divine and applicability outside the realm of the self.
+This is why the lie is so vilified, as seen in the example with Faramir and Frodo
+above, in Tolkien’s conception of storytelling. The distinction between the lie and the
+story – between disparaging God through a willful misrepresentation of Primary Creation
+and glorifying him through a thoughtful and accurate re-representation – was so thin in a
+fallen world as to be non-existent. “Especially in a fallen world of fallible humanity,”
+Saler argues, “ The ideal form of enchantment would delight without deluding, but
+Tolkien knew the balance was difficult to maintain,” since in a fallen world there was no
+easy way to differentiate between subjective truths and utter lies (184). And yet Tolkien
+still maintained that such a distinction existed, even if it was almost impossible to
+recognize in the real world of Primary Creation. In order to examine the difference
+between the lie and the story, therefore, Tolkien needed a way to establish firmly the
+boundary between truth and lie without claiming a divine access to God, or an
+understanding of Primary Creation that was simply inaccessible. The answer he found,
+perhaps unsurprisingly, was the story itself. In the world of Secondary Creation, such
+limitations on human knowledge did not necessarily apply, since as the author of a
+Secondary World Tolkien could establish any connection to the truth that he desired. In
+other words, when asked “Is it true,” Tolkien could make his necessary claim to piety
+with the answer “yes: it is true in that world” while simultaneously claiming that in a
+stories ability to reflect the truth of Primary creation, it had the potential to be true of this
+world as well.
+
+Sullivan 52
+Returning to the example of Frodo and Faramir, however, reveals further
+complexities of Tolkien’s idea of rootedness and his commitment to the truth. As Faramir
+accurately observes and communicates to Frodo after his first round of interrogations,
+“you were not wholly frank with me,” Frodo’s reluctance to trust Faramir leading him to
+tell what may be considered lies by omission in another context (654). “[Telling] no lies,
+and all the truth that [he] could” (654) Frodo spins numerous half-truths around Faramir,
+“[making] no answer” (648) to Faramir’s question as to Boromir’s involvement with the
+Ring, just as when asked “What is Isildur’s Bane?” Frodo answers that it “is hidden”
+(644), knowing full well that Isildur’s Bane is nothing less than the Ring itself. But far
+from being condemned for his concealment of the truth, Faramir applauds it. The same
+man that “would not snare even an orc with a falsehood” on page 646 seems to
+completely reverse his position on lying over the course of eight pages, congratulating
+Frodo for “[speaking] with skill in a hard place, and wisely” in his efforts to deflect his
+own line of questioning (654). In other words, Frodo seeks to keep Faramir from the
+truth, but far from being deemed a servant of evil, Frodo is called wise, his subtly of
+speech and taciturnity evaluated as virtues, not vices.
+Again, Augustine can be called in to help explain what might otherwise be
+considered a contradiction in the way in which Tolkien has conceptualized the problem
+of the lie. For although Griffiths makes clear that he does not wholly subscribe to
+Augustine’s reasoning on the matter, he also makes clear that Augustine firmly believed
+that silence could not be considered a lie. “Perhaps implausibly,” writes Griffiths,
+Augustine thinks that since “Silence is … a nonverbal action, … [it] ought not to be taken
+as making public what you take to be the case … [and] is therefore not duplicitous,”
+
+Sullivan 53
+unable to communicate, or “make public,” one thing with the voice and hide another in
+the heart (33). In his own words, Augustine claims “It is … not a lie when the truth is
+hidden by silence, but rather when what is false is expressed in speech” (qtd. 34), “the
+evil proper to lying” (qtd. 26) consisting not of withholding of truth, but in bringing
+falsehood to life by expressing it in an explicitly verbal act. Augustine even goes so far as
+to maintain this conviction “even when it is counterintuitive to do so,” his stance on the
+issue making perfectly clear that even in a case like Frodo’s, in which hiding the truth is
+specifically meant to deceive the audience, the lie of omission is no lie at all (33). As was
+mentioned earlier, for Augustine the lie is contingent solely on the idea of duplicity’s
+double-heart, and is completely independent from of the statement’s factual accuracy or
+the speaker’s intent to deceive the listener. By refusing to make public a statement that
+one believes to be false, one is therefore able to avoid lying, the speaker’s intention to
+deceive through omission holding no significance to a Augustinian definition of the lie.
+Indeed, the conversation between Faramir and Frodo also places a heavy
+emphasis on the inherent truth-value of stories, not only in the figurative, metaphorical
+sense outlined by Tolkien in “On Fairy-Stories,” but also in terms of the unique, literal
+sense of stories brought to life by the magic of Middle-Earth. When Frodo is able to
+accurately quote the “riddling words … that Boromir brought to Rivendell,” one of the
+chief cities of the Elves, Faramir is forced to admit that “It is some token of your truth
+that you … know them,” the riddling words brought by Boromir not only signifying a
+connection to Faramir’s brother, but a connection to the Elves, their knowledge of lore,
+and their fascination with the truth (643-4). Later, after Faramir has extracted an
+admission of Frodo’s omission, he also cites ancient lore to explain his own clarity of
+
+Sullivan 54
+insight, reminding Frodo that “a mighty heirloom” like Isildur’s Bane “do[es] not breed
+peace among confederates, not if aught might be learned from ancient tales” (654). As
+Faramir and Frodo are well-aware, the history of Middle-Earth, which is almost the same
+thing as its stories, is fraught with legends of mighty heirlooms leading to unrest and
+strife between allies, the most famous of which being the titular Silmarils of The
+Silmarillion. In reference to the very same story, Frodo cautions Faramir that “ancient
+tales teach us also the peril of rash words concerning such things as – heirlooms,” citing
+Fëanor’s rash oath to reclaim the Silmarils at any cost, which leads to the utter
+destruction of his family (654). But obscure references to the textual Silmarillion to aside,
+it is clear that Faramir and Frodo both are well-versed in “ancient lore by long tradition,”
+especially since they have both been tutored by the “lore-master” Gandalf, and that this
+lore does not occupy the place of a fictional, frivolous story in their world, but rather
+points to some element of truth in their world, the story of the Silmarils helping the
+Faramir and Frodo to gain context and understanding of their own situation (655).
+But Frodo and Faramir are far from the only ones in Middle-Earth that recognize
+the power of stories to help explain the truth around them. As Éomer, a member of
+nobility in the horse kingdom of Rohan, he chances upon three travelers so unlikely he is
+forced to call into question his own understanding of the world. Confronted for the first
+time not only by Aragon, the last heir of a line thought to have perished long ago, but also
+by Gimli the dwarf and Legolas the elf, members of two different races which typically
+harbor deep hatred against one another, Éomer is taken aback. “‘These are indeed strange
+days,’ he muttered. ‘Dreams and legends spring to life out of the grass,’” and he is
+absolutely right (423). For when he asks Aragon “‘Do we walk in legends or on the green
+
+Sullivan 55
+earth in the daylight?’” Aragon correctly answers “‘A man may do both,’” since in
+Middle-Earth the “‘green earth … is a mighty matter of legend’” in and of itself (424).
+For even though the matter of lore has fallen into a state of disrepair in the world of men,
+and doubt has begun to creep over the myths and legends once held to be true, the stories
+of Middle-Earth ar still, in essence, histories, as they can be relied upon time and time
+again to reflect the real nature of the world in which they exist.
+But such a certainty in stories comes with a price, as Éomer is also quick to point
+out. ‘“It is hard to be sure of anything among so many marvels,”’ Éomer observes:
+The world has grown strange. Elf and Dwarf in company walk in our daily fields;
+… and the Sword [of the king] comes back to war that was broken in the long
+ages ere the fathers of our fathers rode into the Mark! How shall a man judge
+what to do in such times? (427)
+And although Aragon once again gives Éomer sound advice, counseling him to judge
+‘“As he has ever judged,’” it is far easier said than done (428). For while it is true that the
+world has not changed, just Éomer’s perception of it, it becomes easy for men to doubt in
+a time of such uncertainty, the revelation that even what was thought to be impossible
+might in fact be true casting the whole world of Middle-Earth in doubt, especially for
+those who cannot easily distinguish between truth and lies.
+
+Tolkien’s Conceit
+
+This, then is Tolkien’s conceit. Even in a world where empirical truth is readily
+accessible through stories, it is still difficult for fallen man to differentiate between true
+
+Sullivan 56
+stories and false lies, since to live in a world where “legends spring out of the grass”
+means that anything, even what seems impossible, can be true. Nowhere in the Lord of
+the Rings is this more apparent then in the battle of wills between Gandalf, who has
+previously been identified as a “lore-master” and therefore, at least in the context of
+Middle-Earth, a steward of the truth, and between Grima Wormtongue, who, as his name
+might suggest, is a master of treachery and lies. But even though Gandalf is a powerful
+wizard and warrior in his own right, Tolkien makes it clear that it is not his own strength
+that allows him to defeat Wormtongue, but his commitment to truth above all things, as
+Gandalf trusts to the power of truth to dispel lies to win the day.
+One of the greatest examples of this form of evil deception takes shape in Grima
+Wormtongue, advisor to King Théoden of Rohan. Under his malicious influence the
+kingdom beings to fall apart, the lies that he spins around Théoden causing the king to act
+and make decisions based not off the world around him, but the world as Wormtongue
+portrays it through his false speech. Naming Gandalf “Láthspell,” or “Ill-news” (TT 502),
+he seeks to send Gandalf away, recognizing in him one who might break the spells of
+deceit he has put around Théoden, reversing all that his “whisperings” and “leechcraft”
+have accomplished (508). As Gandalf explains to Théoden:
+“Ever Wormtongue’s whispering was in your ears, poisoning your thoughts,
+chilling your heart, weakening your limbs … Wormtongue played dangerously …
+[and] craft[ily]: dulling men’s wariness, or working on their fears, as served the
+occasion.
+
+Sullivan 57
+Poisoning his thoughts and chilling his heart, Wormtongue turned Théoden against his
+own beloved nephew5, counseling caution and delay even while the enemies of Rohan
+move openly across its lands. Wormtongue’s lies seem to have even weakened Théoden
+physically, convincing Théoden that he has entered “his failing years;” that “old [as] he
+be,” he should not “weary [him]self, or tax too heavily [his] strength” (508). Thus slowly
+but surely Wormtongue plied his art, worming his way so deep into Théoden’s
+confidence that he begins to trust the word of Wormtongue over his own judgment,
+dulling men’s wariness or working on their fears to create a viable lie that might eclipse
+by placing a higher emphasis on his words than perceived truth.
+Indeed, the most insidious part of Wormtongue’s power over Théoden is just how
+highly the king regards his council, favoring his lies to the truth of others, even so far as
+to prefer the opinions of Wormtongue to the observable world around him. “Wearing the
+mask of friendship,” Wormtongue served as councilor, feinting to serve the best interest
+of the kingdom while in actually working only to weaken Théoden’s mind and ability to
+rule. “But when [Gandalf] … warned [Théoden], then the mask was torn, for those who
+could see,” showing to many of those closest to Théoden just how twisted and devious
+Wormtongue’s council had become (510). Unfortunately, Wormtongue’s net was too
+tightly woven, forcing “others [to] watch and … do nothing” while their king was fed
+lies, unable to speak against the false council of Wormtongue “for [his] will was
+[already] in his keeping” (510). This is the root cause of Théoden’s conflict with his
+nephew, Éomer having “defied Wormtongue’s voice speaking with [Théoden’s] mouth”
+that so clearly could spout nothing but lies (510). For although the text makes clear that
+5
+
+It is no coincidence that Théoden’s nephew is none other than Éomer, the prince that meets Aragon,
+Legolas, and Gimli in the fields of Rohan. For although all men in Middle-Earth are susceptible to doubting
+of the old stories, the men of Rohan seem particularly susceptible to such doubt.
+
+Sullivan 58
+Éomer’s council is the correct one, “to crooked eyes truth may wear a wry face,” and
+under Wormtongue’s spell Théoden freely admits “my eyes were almost blind” (510).
+Thus unable to distinguish fact from fiction in Grima’s councils, it is not until Gandalf
+returns once more to Théoden’s halls that Wormtongue’s evil could be undone, Gandalf’s
+wisdom and truthfulness proving to be the only effective weapons against so potent and
+entrenched a liar.
+Unlike Peter Jackson’s adaptation of the scene, there is no vague, magic mind
+control on the part of Saruman with which only Gandalf can contend. Instead there is
+only Grima and his seductive lies, which Gandalf must combat using nothing more than
+the truth. For although Gandalf succeeds in tearing off Grima’s mask and transforming
+Théoden from a man “left crouching in his chair or leaning on a stick” into one who
+inspires “wonder … standing now proud and erect,” his ability to do so has little to do
+with the power of wizardry, the restorative power of truth being fully responsible for the
+recovery of Rohan (506). Having sat “too long … in shadows and trusted to twisted tales
+and crooked promptings,” Gandalf “bid[s Théoden] come out before [his] doors and look
+abroad,” asking him to trust his own powers of perception over the lies of Wormtongue
+(503). Upon looking out on his kingdom, Théoden realizes that “It is not so dark here . . .
+nor does age lie so heavily on [my] shoulders as some would have [me] think,” the veil of
+Grima’s lies being torn away in the face of undeniable truth (504). Gandalf then precedes
+to use a similar tact, despite the grim prospects of the present situation, daring to tell a
+man used to honeyed lies that “If we fail [in the coming battle], we fall. If we succeed –
+then we will face the next task,” in the conviction that the truth should be delivered
+plainly, even if it is harsh (507). Gandalf, like Faramir, “do[es] not lie,” even though the
+
+Sullivan 59
+truth might be difficult to hear, and because he chooses to do so he wins Théoden as an
+ally, breaking through the spells of despair Grima has woven around the king to keep him
+immobilized (509).
+But Grima too has his explanation for Théoden’s rapid transformation, unwilling
+as he is to so easily relinquish the stranglehold on the court of Rohan that he has spent so
+much time cultivating and maintaining. Instead of attributing it to the powers to the
+powers of truth dispelling that of lies, Wormtongue claims “This wizard has bewitched
+you,” implying that it is Gandalf’s magic that has won Théoden, not the righteousness of
+his cause (508). But before Gandalf has a chance to defend himself, Théoden steps in,
+replying “If this is bewitchment … it seems to me more wholesome than your
+whisperings. Your leechcraft ere long would have me walking on all-fours like a beast”
+(508). Unlike Gandalf, who wishes for nothing more than the willing aid of Théoden in
+doing what is right, Grima thinks only in terms of domination, seeking to manipulate
+Théoden into doing what Grima desires, but not what Théoden intends. In this way,
+Grima is able to trick Théoden into doing what he believes is best for his people and his
+health, but is actually to his detriment, the cloak that Grima casts over reality making it
+seem that to Théoden he is still acting like a noble king while he is actually acting only
+for Grima’s benefit. Indeed, the accusation “You lie … comes too oft and easy from [his]
+lips,” deception seeming to be the only method of persuasion Wormtongue understands
+(509). But in his wisdom and moral rectitude, Gandalf seems to understand that the truth
+is, in the end, more powerful, the reaffirmation of what is true and real lending hope and
+confidence, while the acceptance of a lie leads to despair and folly.
+
+Sullivan 60
+Just like Tolkien, it seems Gandalf does not wish for the domination of his
+audience, preferring them as his ally and compatriot in the telling of his stories. And
+although it would be unfair to suggest that Gandalf represents Tolkien in some allegorical
+sense, especially given Tolkien’s well-documented dislike of allegory, the similarity of
+opinion expressed in Gandalf’s struggle with Wormtongue and Tolkien’s struggle with
+writing fantasy in a fallen world is too strong to be ignored. Like Gandalf, Tolkien seems
+to have believed that the truth could speak for itself, even if it could not be communicated
+directly within the sphere of Primary Creation. The truth could “be advanced with
+humility and accepted as provisional” through stories, however, their fictional framework
+serving as an ideal location to posit subjective truths as objective without claiming divine
+knowledge or an understanding of Primary Creation that was, for Tolkien, impossible.
+Gandalf has an easier time of it, of course, since the stories he tells are literally true of the
+world in which he is a part, but he must also contend with stronger lies in Middle-Earth,
+where anything, it seems, is possible (Saler 187). In other words, the stories in MiddleEarth, being literally true, required no ironic imagination, no suspension of disbelief, or
+willing activation of pretense. They were simply true. But for Tolkien, confined to the
+realm of Primary Creation, could only hope that his stories were in some way true, the
+willingness on the part of his readers to engage with his fantastic pretense encouraging
+Tolkien to believe that even subjectively, his stories came in contact with truth and the
+divine.
+
+Sullivan 61
+
+Chapter 3: Grace Without God
+
+Curious as to the creative impetus behind what have undoubtedly become Philip
+Pullman’s most famous works, Claudia Fitzherbert asked the author a rather telling
+question: “How much were you itching to invent alternate worlds before embarking on
+Northern Lights,” the UK title for the first book of the His Dark Materials Trilogy, The
+Golden Compass (“Claudia Fitzherbert)? For although the question seems innocuous
+enough, it is couched in the very same language that Tolkien used to describe his own
+efforts to establish Secondary Worlds, a language of world-building which has become,
+for better or for worse, and to greater or lesser degrees, standard in the discussion of
+fantasy and science fiction. Having written fantasy and studied a curriculum at Oxford
+shaped in large part by Tolkien and his contemporaries, Pullman could hardly be unaware
+of such implication. Replying in kind, Pullman explicitly links the world-building
+impulse with a “Tolkien tradition” that, for the most part, was “trash.” “I wasn't itching at
+all,” remarks Pullman candidly:
+It took me entirely by surprise. I always took a dim view of fantasy - still do in
+fact. Most of it is trash, but then most of everything is trash. It seemed to me
+writers of fantasy in the Tolkien tradition had this wonderful tool that could do
+anything and they did very little with it. They were rather like the inventors of the
+subtle knife who used it to steal candy when they could have done much more.
+This then begs the question, why adopt a fantastic style at all?
+In another interview, this time with Helena de Bertodano, Pullman chalks his
+improbable choice of the fantastic mode up to doing “what you’re good at” (“Devil’s
+
+Sullivan 62
+Party”). As he freely admits, “To my dismay, I’m not good at the sort of story that’s set
+in everyday life. My imagination only starts to fire when talking bears come into it,” and
+so he brings talking bears into the universe of His Dark Materials, the significance of
+which has become much greater than his flippant remark might suggest. Because despite
+his dismay in an inability to “do realism,” Pullman is forced to admit that fantasy in the
+Tolkien tradition is a wonderful tool, even if very few know how to utilize it, utilizing it
+himself to tell a story and “say what I thought would be true and interesting about what
+it’s like to be a human being.” But as to how Pullman performs such a feat, or why
+fantasy is helpful, perhaps even necessary, in his process remains unexplained, unable to
+be satisfactorily conveyed in the terse, quirky format conducive to interview responses.
+Like Tolkien and Milton, Pullman turns to his own fiction to describe how his own
+fiction functions, utilizing the near-limitless potential of fantasy to establish a world in
+which the lines between fiction and reality are examined, blurred, and redrawn. As a
+committed atheist, he inevitably does not arrive at the same conclusions as Milton or
+Tolkien, whose thoughts about the connection between fiction and truth were invariably
+linked to an expression of the Divine, but Pullman does nevertheless maintain the faith
+that between logical, rigorous fantasy and reality, a connection continues to exist. Indeed,
+by removing an ineffable God from his conception of empirical truth, Pullman’s fantasies
+are actually able to make a stronger claim to truth than that of his two predecessors, his
+belief in the human potential to accurately perceive the world allowing him to claim that
+his fantasy does the same.
+This does not mean, however, that Pullman was unaware of the fictional nature of
+his stories. Dismayed by his inability to write a story “set in everyday life” and even “a
+
+Sullivan 63
+little bit ashamed” by his proclivity towards fantasy, Pullman is clearly aware of the
+stigmas attached to spinning impossible lies for a living, even going so far as to criticize
+the practice himself, as has been demonstrated above (“Devil’s Party”). But at the same
+time, Pullman also seems to admit that fantasy in the Tolkien tradition holds enormous
+potential, liking it to the subtle knife which, through its ability to cut through anything,
+including the fabric of space-time, is the most powerful device ever created by human
+hands in the world of HDM. As to what separates the rare subtle knives of fantasy from
+the far more common trash, Pullman does not explicitly say, but by examining how his
+own fantasy worlds handle the problems of fictionalization, one gets the sense that
+Pullman’s thoughts on the matter are far from inchoate. On the contrary, the story of
+HDM is in one sense the story of its protagonist’s developing relationship with stories
+themselves, learning over the course of the trilogy to negotiate the complex relationship
+storytelling maintains not only to truth, but also to lies.
+Lyra Belequa, later renamed Lyra Silvertongue, is a twelve year-old girl raised in
+the Oxford of another world to be bold, adventurous, clever, and extremely loyal. She is
+also a terrific liar, and debatably the central protagonist of Pullman’s entire trilogy.
+Because unlike Milton and Tolkien, whose Augustinian leanings necessitate a flat
+condemnation of lies in every and all situation(s), Pullman’s atheistic sensibilities are
+divorced from such strictures, a break which allows him to come to his own
+understanding of the value of truth and lies. Ironically enough, by the end of HDM
+Pullman seems to echo a similarly hard-line condemnation of lies in favor of the truth,
+but at least initially, the lies of Lyra (pun most certainly intended) are treated, if not
+favorably, than at least as a forgivable necessity. As Lyra herself admits at the conclusion
+
+Sullivan 64
+of The Amber Spyglass, “I know I haven’t always told the truth, and I could only survive
+in some places by telling lies and making up stories. So I know that’s what I’ve been like,
+and I know you know it,” the complex mixture of apology and pragmatism in her
+confession serving as a useful starting point in understanding the tension between truth
+and lies in the text as a whole (542). For although it might seem from the above excerpt
+that the distinction between acceptable and unacceptable lies is one of pure pragmatics –
+acceptable when necessary for survival, unacceptable in all other cases – it is also
+inextricably linked with the questions of self-awareness, grace, and an instinctual/
+experiential understanding of absolute truth that Lyra must negotiate as she enters
+adulthood.
+
+Pullman’s Pretend
+
+As one might expect, the last ten pages of the trilogy do not constitute the first
+time Lyra is confronted by her proclivity towards lying. It is, however, the first time she
+is able to acknowledge it herself, and the first time she is able to do so with such tact.
+Near the very beginning of her journey, Ma Costa, a river gypsy who also served as
+Lyra’s nurse while she was a baby, calls Lyra out for her lies, telling her she’s “got witch
+oil in her soul. Deceptive, that’s what you are child” (Golden Compass 112). Perhaps
+understandably, “Lyra [is] hurt” by such an accusation, especially coming from someone
+whom she holds in such high regards, but she responds immediately with another lie,
+claiming “I en’t never deceived anyone! You ask …” (112). As the narrator makes plain,
+“There was no one to ask, of course,” since such a claim is beyond ridiculous, causing
+
+Sullivan 65
+“Ma Costa [to] laugh, but kindly. ‘Can’t you see I’m paying you a compliment, you
+gosling?’ she said, and Lyra was pacified, though she didn’t understand” (112). The
+reader too is given no hint as to what Ma Costa means by her “compliment,” at least in
+the immediately surrounding text, but an examination of how lying is formulated in the
+text as a whole reveals how critical such a passage is to understanding Lyra’s relationship
+with her own lies. As this passage demonstrates, Lyra is completely unaware of herself as
+a liar, not only unable to understand her own deceptive nature, but also unaware of the
+power she wields over her world through such deception.
+As the older, more self-conscious Lyra of The Amber Spyglass is able to admit,
+there are many instances over the course of her journey in which she had to choose
+between deceit and death. But in the moment, Lyra does not and cannot conceive of her
+circumstances in those terms. In the grips of the General Oblation Board and, perhaps
+even more dangerously, her own mother, Lyra has to lie to save her skin, but this is not
+how she understands it. “Lyra clenched herself, but relaxed almost at once, as [her
+dæmon6] thought to her: We’re safe as long as we pretend” (Golden Compass 280). In
+this specific instance, Lyra sees pretending, not lying, as her only defense, and pretend
+she does, “pretend[ing] harder than she’d ever done in her life” (281). Having come
+within inches of having her dæmon surgically severed from her body only to realize her
+mother is behind the organization sponsoring the procedure, Lyra’s whole world is
+
+6
+
+Often glossed as a “soul” in any critical discussions of HDM without the luxury of 1,300 pages to slowly
+develop the concept, a dæmon is a sentient component of all intelligent life, but one that is, in Lyra’s world,
+made manifest in the form of an animal intrinsically linked to its individual human. Unfortunately, Pullman
+never makes clear exactly which component of intelligent life the dæmon is meant to represent, but the
+gloss of “soul” has always felt deeply inadequate. It is of course possible that Pullman never had a direct
+connection to a more conventional part of human consciousness in mind while developing the concept, but
+in opinion of this writer “nature” might serve as a more accurate gloss, conveying something of the
+ambiguous position occupied by dæmons in Pullman’s invented worlds, especially when considering Mrs.
+Coulter’s interaction with her dæmon in the cave during The Amber Spyglass (8, 55).
+
+Sullivan 66
+flipped upside down, forced as she is to navigate between her dangers of the General
+Oblation Board on the one hand and her mother, Mrs. Coulter, on the other. But by
+pretending to be nothing more than the naïve, helpless child Mrs. Coulter expects her to
+be, Lyra is able to regain control over the situation by manipulating her own mother and
+playing off of her warped, but deep-rooted maternal instincts.
+To be perfectly clear: as both an older Lyra and the omniscient narrator
+understand, Lyra is lying to her mother in order to protect herself. It is only a younger
+Lyra that names her actions “pretend,” since she lacks the self-awareness to see her
+actions for what they truly are. “With every second that went past,” the narrator explains,
+“with every sentence she spoke, [Lyra] felt a little strength flowing back. And now that
+she was doing something difficult and familiar and never quite predictable, namely lying,
+she felt a sort of mastery again,” falling into the pattern of what she does best (Golden
+Compass 1281). But far from being condemned for her proclivity towards falsehood, it is
+positively reinforced, as Lyra’s ability to spin a story is portrayed not only as a situational
+necessity, but also a form of art. “She had to be careful not to say anything obviously
+impossible;” glosses the narrator once again, “she had to be vague in some places and
+invent plausible details in others; she had to be an artist, in short,” the narrator’s aside
+directly connecting Lyra’s ability to deceive with artistic creativity (281). The creative
+license to tell a story cannot, of course, be presumed to be a good thing, but when it is
+framed as a survival instinct within the meta-narrative of Pullman’s own foray into
+creative fiction, the claim becomes increasingly hard to deny, especially if Pullman can
+be seen to believe that his story also maintains a connection to truth.
+
+Sullivan 67
+For not only is Lyra’s impulse to lie initially portrayed as an almost unconscious
+survival instinct, nor is it only a kind of errant creative impulse: it is also directly
+connected to a complex understanding of the truth. As the narrator once again makes
+plain, the “sort of mastery” that Lyra feels while lying or, in her own terms, pretending, is
+“the same sense of complexity and control that the alethiometer gave her,” the ability to
+lie and the ability to read the alethiometer both equated to feelings of mastery, control,
+and artistry (Golden Compass 281). The alethiometer, or “symbol reader” as it is often
+called, is a fictional (and the titular7) golden compass that seems to magically point
+towards truth instead of north, but reading it is nearly impossible, requiring a lifetime of
+intense and diligent study before one is even able to ask a question, let alone understand
+its response. And yet Lyra is able to access the truth the alethiometer offers almost
+without effort, unconsciously understanding its complex patterns in the same way she
+unconsciously understands the complex patterns of storytelling involved in lying. Being
+instinctually vague in certain places, and inventing plausible details in the others, Lyra
+successfully creates the illusion of truth in the same way she instinctually finds truth in
+the alethiometer, and in doing so demonstrates the unconscious mastery of both empirical
+truth and fictive storytelling. But while Lyra’s lies and her understanding of the truth
+might seem at odds with one another, in Pullman’s world they are integrally connected,
+as her ineffable understanding of truth ground her lies in the real world, allowing her lies
+to gain credence and avoid condemnation.
+
+7
+
+Only in the U.S. The title of the first book in the trilogy is Northern Lights in the UK
+
+Sullivan 68
+Seducing a Bear
+
+Nowhere is this connection between the unconscious understanding of truth
+through the alethiometer and Lyra’s “playing pretend” more evident than when captured
+by Iofur, the King of the Svalbard armored bears. It is here that she earns the name
+Silvertongue, as her lies allow her to do the impossible and deceive an armored bear. As
+mentioned earlier, the armored bears are different from their naked counterparts in that
+they possess intelligence, the capacity for speech, and opposable claws that give them
+incredible dexterity, especially with metal, but one of their most distinguishing features –
+and one of the main reasons “talking bears come into [HDM]” at all – is that they cannot
+be tricked. The importance of such an immunity to deceit in Pullman’s created world will
+be discussed at length, but for now it serves primarily to frame the near-impossibility of
+the task Lyra sets herself in attempting to beguile one. Or at least, such a task would be
+impossible, if Iofur, the bear in question, acted like a bear. As Serafina Pekkala, a witch
+queen of three-hundred years who often acts as a repository of knowledge and a guide to
+Lyra on he quest, suggests, “When bears act like people, perhaps they can be tricked …
+When bears act like bears, perhaps they can’t” (Golden Compass 317). But while such a
+conceit is also important to Pullman’s fantasy world, it is also important that Lyra
+understands the veracity of this suggestion, utilizing her instinctual understanding of the
+truth to weave the most potent lie possible.
+And yet it must again be re-emphasized that Lyra is frighteningly ignorant of her
+own power, her childish innocence and barring her from a full understanding of the
+brilliance and, ultimately, power of her own lie. For even as “Everything she’d heard
+
+Sullivan 69
+about the bear king added up” and she realizes that “the mighty Iofur Raknison wanted
+nothing more than to be a human being,” she is unable to use such information to
+consciously construct the plan and the lie she will use to exert her will (Golden Compass
+353). Because even though she is able to arrive at an instinctual understanding of the
+situation at the palace, Lyra is unable to fully grasp its implications:
+… a plan came to her: a way of making Iofur Raknison do what he would
+normally never have done …
+The idea hovered and shimmered delicately, like a soap bubble, and she
+dared not even look at it directly in case it burst. But she was familiar with the
+way of ideas, and she let it shimmer, looking away, thinking about something
+else. (334)
+The plan comes to her, rather than being the result of conscious effort and experience,
+and it refuses to be scrutinized, threatening to burst if Lyra “even look[s] at it directly.”
+This does not detract from the extreme courage she must employ in order to see the plan
+to its conclusion or the wit employed in forming an accurate conception of Iofur, just as it
+has no effect on the plan’s effectiveness in manipulating the bear-king and his court.
+What it does do, however, is force Lyra to rely on grace rather than understanding to
+form her lying masterpiece, asking her to walk blindly into the teeth of death without any
+solid conception of how she will extricate herself.
+There is, however, a moment of doubt that Lyra entertains as she meets Iofur for
+the first time, stunned by his incredible power. “She quail[s]” in the face of “the biggest
+bear she had ever seen,” and “suddenly her idea [to deceive him] seemed too feeble for
+words” (Golden Compass 336). It is in this moment that her frail soap bubble threatens to
+
+Sullivan 70
+pop, as a consciousness of what she is about to attempt almost dawns on her and
+threatens to overwhelm the fragile, innate confidence upon which the success of her task
+will rest. “But [as] she moved a little closer,” she sees that “He was pretending to have a
+dæmon. Then she knew that she was safe” (336). Recognizing in Iofur a state she so
+comfortably inhabits, her confidence is immediately restored, as she is able to
+unselfconsciously meet Iofur on his level and engage him in pretense. As we see, Iofur is
+no match for Lyra at her best, as she uses the same unconscious command to truth and
+lies to weave an irresistible story around Iofur as she does for Mrs. Coulter, but by the
+end of her tale we see the act of playing pretend slip dangerously into the realm of lying
+as her innocent command of pretend almost becomes something more sinister.
+
+Pullman’s Lies
+
+By the end of her encounter with Iofur, Lyra’s ability to spin a story takes almost
+a haunting turn as she feels the massive bear sway under her power. “The great bear was
+helpless. Lyra found her power over him almost intoxicating, and if [her dæmon] hadn’t
+nipped her hand sharply . . . she might have lost all her sense of proportion” (Golden
+Compass 343). If there was a dark side to lying, a darker side to the manipulation of
+others, we catch a glimpse of it here in Lyra who, instead of lying to save herself and
+exert some control over an otherwise hostile environment, is tempted to lie for lying’s
+sake. Or, perhaps more accurately, for the thrill of holding someone else under one’s
+sway by consciously manipulating their own understanding of truth.
+
+Sullivan 71
+To become a conscious liar, and not an unconscious manipulator through pretend,
+seems to have drastic moral repercussions within the realm of HDM. Indeed, If HDM
+were to have a villain outside the hosts of heaven, Mrs. Coulter would be a fair candidate
+for the job, as both her actions and other characters’ evaluations of her leads readers to
+suspect, especially early on, that Mrs. Coulter is every inch the “cesspit of moral filth”
+she is made out to be (Amber Spyglass 419). She is the head of the General Oblation
+Board, charged with kidnapping children and performing experiments on them to cut
+away their dæmons, deeply immersed within the power structures of a church that seeks
+to stifle and suppress every human instinct towards love and understanding, and drugs her
+own daughter to keep her prisoner. But even while she performs all these heinous crimes
+without a shred of remorse, she is simultaneously and repeatedly paralleled to her
+daughter Lyra, arguably the strongest candidate for HDM’s protagonist. Thus in Mrs.
+Coulter lies an interesting dichotomy: torn between her inexcusably evil actions on the
+one hand and her close association with Lyra, HDM’s brave, independent, and ultimately
+loving leading lady, her character defies easy definitions, forcing the reader to reconsider
+just how close to wickedness Lyra actually walks.
+For in addition to her skillful deception, she seems to take delight in acts of
+cruelty and deception, unable or unwilling as she is to alter the course her corrupt life has
+taken thus far. Even her subordinates in the General Oblation Board seem to pick up on
+her cruelty, their own coldness towards the act of dissecting children seeming to be
+nothing in comparison to Mrs. Coulter’s barely-concealed delight:
+‘Her attitude worries me….’
+‘Not philosophical, you mean?’
+
+Sullivan 72
+‘Exactly. A personal interest. I don’t like to use the word, but it’s almost
+ghoulish.”
+‘That’s a bit strong.’
+‘But do you remember the first experiments, when she was so keen to see them
+pulled apart—’ (Golden Compass 274)
+If Lyra’s experience with the procedure known as Intercision is any indication, Mrs.
+Coulter’s “personal interest” in watching the children being torn apart from their dæmon
+cannot be construed as anything other than cruelty, characterized as it is by “the panting
+of men . . . [Lyra’s] own sobs, . . . [and] the wild howl of her own dæmon” (278). What is
+more, the process seems to have been made less-traumatic for the children over time, “the
+first model … [having] never entirely overcome the risk of the patient dying of shock, but
+[having been] improved [to] no end” as the scientists of the General Oblation Board
+refined their surgical techniques with practice (272). And although her proclivity towards
+cruelty is evidenced in many places throughout the trilogy, it is at Bolvanger that the
+reader is given the first real glimpse under her skin, revealing a much darker and crueler
+person than her glimmering exterior might belie.
+For although Mrs. Coulter is in some part redeemed by the end of The Amber
+Spyglass, there is no avoiding the truth of Metatron’s accusation that Coulter is a “cesspit of moral filth” who, among many other crimes, has “betrayed and intrigued and
+gloried in [her] treachery” (Amber Spyglass 419). Indeed, as a person who “felt a little
+quiver of laughter” at the “novel” idea of “tell[ing] the truth,” Mrs. Coulter is resolutely
+condemned as a liar, using her almost natural proclivity towards manipulating the truth to
+manipulate the world around her (3). But the question still remains: why is it that Mrs.
+
+Sullivan 73
+Coulter is hated and condemned so unanimously throughout HDM, and Lyra is not? At
+the end of Amber Spyglass, Mrs. Coulter’s penchant for lying is even called into direct
+contact with Lyra’s, as the narrator notes that in lying to Iofur, “Lyra had lied … with her
+words: her mother was lying with her whole life” (418). Besides a difference in
+magnitude, therefore, there seems to be very little difference between the lies she tells to
+survive and the lies her mother tells to succeed, except that when Lyra lies, she is loved
+and when Mrs. Coulter lies, she is condemned.
+The distinction is revealed, as answers classically are, in the land of the dead.
+Asked to “tell [the harpy] a story . . . Lyra [feels] like she’d just been dealt the ace of
+trumps,” her “mind . . . racing . . . through the story she’d told the night before, shaping
+and cutting and improving and adding” to the architecture of a story that has already
+proven successful (Amber Spyglass 307). But as she “settle[s] in to her story-telling frame
+of mind,” the harpy somehow senses her lie, attacking Lyra with words and talons in
+outrage at her attempted deceit (307). Feeling that one of her only gifts has been robbed
+from her, Lyra begins to despair, since her ability to lie has on multiple occasions saved
+her from destruction, but as to why her powers of storytelling have suddenly failed, or
+why they are now being so flatly condemned, Lyra cannot understand. But by trying to
+consciously “shape and cut and improve and add” on a story she has told before, Lyra
+makes the critical mistake of consciously lying without any connection to truth, just like
+her mother. In the past her lies could be dismissed as stories, since through her
+serendipitous grace she had access to a truth that gave her lies meaning. Yet in the land of
+the dead, on the cusp of puberty and surrendering the grace she had attained
+inadvertently, she tries to access truth through experience that simply has not yet formed.
+
+Sullivan 74
+Therefore, when in the world of the dead Lyra finds herself lying self-consciously – like
+Mrs. Coulter – she also finds herself being condemned, since her stories, without any
+connection to truth, have finally become proper lies.
+Pullman’s Grace
+But such a momentary revelation on Lyra’s part does not explain the large
+contexts in which Pullman sees the larger tension between unconscious grace and
+knowledgeable self-awareness. Directly acknowledging his debt to Heinrich von Kleist’s
+“On the Marionette Theatre” in the back matter of The Amber Spyglass, Pullman borrows
+heavily from the short story in the writing of his trilogy, the clearest example being that
+of Lyra’s duel with Iorek. ‘“You cannot trick a bear,’” Iorek tells Lyra one night while
+sitting around the fire, and when he asks if ‘“[she] want[s] to see proof,’” he asks her to
+‘“take a stick and fence with [him]”’ (Golden Compass 225). What follows is a scene
+deliberately and unapologetically lifted from “On the Marionette Theatre,” in which a
+friend of the narrator tells a story about his fencing match with and eventual defeat at the
+hands of a bear. Lyra, like this unnamed friend, finds that the Iorek “seemed to know
+what she intended before she did, and when she lunged at his head, [he] . . . swept the
+stick aside harmlessly, and when she feinted, he didn’t move at all” (226). There is, of
+course, a distinction to be made, since Iorek is an armored, sentient polar bear with
+opposable thumbs and a peerless sense of metallurgy while the bear of von Kleist’s story
+is, aside from his fencing ability, completely ordinary, but nevertheless their inhuman
+skill arises from the same source. “How do you do that?” asks Lyra in frustration, her
+inability to land a blow on or deceive the bear bringing her temper to a boil (226). With
+
+Sullivan 75
+his usual terseness, Iorek responds simply that it’s cause is rooted in ‘“. . . not being
+human. . . . That’s why you could never trick a bear. We see tricks and deceit as plain as
+arms and legs. We can see in a way humans have forgotten. But you know about this; you
+can understand the symbol reader”’ (226).
+The “symbol reader” to which Iorek refers is none other than the alethiometer, the
+titular golden compass that seems to magically point towards truth instead of north, for
+those who have the capacity to read it. But whereas this is the clearest explanation Iorek
+(and, incidentally, Pullman) offers for his uncanny ability to see through deception, von
+Kleist is not nearly so withholding. Once he has established the narrator’s belief in his
+story, the narrator’s friend in “On the Marionette Theatre” explains ‘“that in the organic
+world, as thought grows dimmer and weaker, grace emerges more brilliantly and
+decisively,”’ and it is in this grace that the bear finds his skill (“Marionette Theater”). For
+as the narrator’s companion makes clear, ‘“It wasn’t merely that [the bear] parried my
+thrusts like the finest fencer in the world; when I feinted to deceive him he made no move
+at all. No human could equal his perception in that respect,”’ the bear’s brilliant, decisive,
+and ultimately inhuman grace making him impossible to deceive and, therefore, defeat. In
+other words, the bear of “On the Marionette Theatre,” like Iorek and, as Iorek suggests,
+Lyra, maintain access to a kind of truth through grace that is otherwise inaccessible to
+humans in their fallen, self-aware state of consciousness. But unlike Milton, who laments
+the loss of human innocence and the certainty he associates with a direct connection to
+God, Pullman rejects unconscious grace in His Dark Materials, unable as he is to
+condone a state of being entirely dependant on God. However, Pullman is not Nietzsche.
+Far from embracing the instability of humanity’s fallen state and its precarious
+
+Sullivan 76
+relationship to truth, Pullman only rallies against an unconscious assumption of it, again
+borrowing from von Kleist when he suggests, in no uncertain terms, that “Grace appears
+most purely in that human form which either has no consciousness or an infinite
+consciousness. That is, in the puppet or in the god.”
+It is hard to underestimate the influence of von Kleist on HDM, an admission that
+Pullman readily makes. “Everything I say in 1,300 pages,” Pullman confesses in an
+interview with Claudia Fitzherbert, “is in that essay,” and indeed, in the
+acknowledgements at the end of The Amber Spyglass, his debt to “On the Marionette
+Theatre” in writing the trilogy is the first to be listed, even before Paradise Lost
+(“Claudia Fitzherbert”). For although the fictional framework of the text is, in many
+ways, a re-writing of or counter-narrative to the story of Paradise Lost, von Kleist is
+essential in renegotiating that framework, especially where grace is concerned. Having
+“pinched this … from ‘On the Marionette Theatre,’” Pullman explains “Kleist says we
+exist on a spectrum that goes from the unconscious to the fully conscious, and once
+we’ve left unconscious grace behind we can’t go back,” forced by our fallen human
+nature to “go on – through life, through education, through suffering, through experience
+to … wisdom.” What is more, Pullman also directly connects this insistence with forward
+motion towards independent wisdom to Lyra’s own trajectory through the trilogy, citing
+the loss of “her instinctive way [of reading the alethiometer] at puberty” and the “long,
+painful process” of re-learning what came to her most naturally as an example of
+unconscious grace lost and, eventually, regained through wisdom. “In the end,” says
+Pullman, “she will do it better,” and although the reader of HDM is never made privy to
+
+Sullivan 77
+such an end state, Pullman leaves little doubt that Lyra will, like the rest of humanity,
+come to wisdom after falling from grace.
+Like Milton, Pullman links the concept of grace to an unshakable understanding
+of empirical truth. But unlike Milton, such an understanding of truth is not connected to
+an understanding of God and his will, but directly opposed to it. As Will’s father explains
+to him before he dies:
+There are two great powers … and they’ve been fighting since time began …
+Every increase in human freedom has been fought over ferociously between those
+who want us to know more and be wiser and stronger, and those who want us to
+obey and be humble and submit. (Pullman, Subtle Knife 320)
+Given the repeated insistence of the “cruelties and horrors all committed in the name of
+the Authority8, all designed to destroy the joys and truthfulness of life” within the trilogy,
+such an explanation on the part of Will’s father leaves little doubt as to which of the “two
+great powers” seeks the subjugation of humanity (272). Those who believe in God –
+those that believe humans should “obey and be humble and submit” in the face of an
+ultimate and omnipotent Authority – are cast as the ultimate opponents of the realization
+of human potential, committed as they are to the idea of reclaiming grace through a
+resumption of a prelapsarian state of unconsciousness. Every step towards human
+knowledge, wisdom, and strength therefore represents a step away from that initial state
+of grace which is completely dependent on God, and so such people are willing to fight
+“ferociously” to suppress the potential for human greatness and independence. But as
+8
+
+The Authority is, for all intents and purposes, the “God” of HDM, although he is never referred to by this
+title, except by himself, and indirectly. Indeed, it is significant to Pullman’s world building that he is not
+God in the traditional Judeo-Christian sense of the Creator of All, but rather an imposter, merely the first
+and most powerful angel to spontaneously “condense” who tells all the other angels that he is their creator
+(AS 34).
+
+Sullivan 78
+Pullman suggests in his interview, such a desire, at the very least within the world of
+HDM, is misguided at best and crippling at worst, as a connection with truth can never be
+reclaimed after mankind’s initial fall. For sentient life in HDM, the only course is
+forward, through the opposition of those who would suppress human potential towards
+the realization of grace in full consciousness.
+Such a rejection of unconscious grace does not come without cost, however.
+When Lyra loses her command of the alethiometer at puberty, she is understandably
+distraught, since she considers reading the alethiometer “the one thing [she] could do
+really well,” and her ability to do so simply “vanish[es] as if it had never come” after her
+fall from grace (AS 520). But as the angel Xaphania explains, “You read [the
+alethiometer] by grace … and you can regain it by hard work” over the course of “A
+lifetime” (520). At first, such a proviso hardly seems like consolation at all: indeed, there
+are few who would claim that it is better to achieve a goal through hard work if the exact
+same result can be produced without effort, and Lyra initially baulks at the commitment
+of a lifetime to the study of something that once came naturally to her. As Xaphania
+makes clear, however, this new state of affairs is to be infinitely preferred:
+your reading will be even better then, after a lifetime of thought and effort,
+because it will come from conscious understanding. Grace attained like that is
+deeper and fuller that the grace that comes freely, and furthermore, once you’ve
+gained it, it will never leave you. (520)
+Deeper, fuller, and more permanent than the “grace that comes freely,” the grace attained
+“after a lifetime of thought and effort” seems in every way superior to Lyra’s initial state.
+No longer beholden to an ineffable power beyond herself, Lyra is free to choose
+
+Sullivan 79
+independence; free to choose a path of hard-won knowledge rather than accept the course
+of blind faith in a gift beyond her comprehension. And as only befits “Eve. Mother of all!
+Eve, again! Mother Eve” (Subtle Knife 314), Lyra does not disappoint, resolving to study
+“the books that would tell her how to read the alethiometer again” and follow the path of
+wisdom to grace by rejecting innocence (Amber Spyglass 547).
+But as von Kleist makes clear in his essay, the path from unconsciousness to full
+consciousness – the path from puppet to god – does not lie on a linear spectrum, but on a
+circle, whose beginning and end is grace. “Where grace is concerned,” writes von Kleist,
+“it is impossible for man to come anywhere near a puppet. Only a god can equal
+inanimate matter in this respect. This is the point where the two ends of the circular world
+meet” (“Marionette Theater”). Unable to retreat backwards towards the state of
+unconscious innocence as depicted in the book of Genesis, in “On the Marionette
+Theatre” von Kleist depicts a humanity forced to move forward to rediscover grace, its
+hopes resting in the conviction that although the eastern gates of Paradise – the gates of
+innocence – are closed, the western gates of wisdom might permit humanity to re-enter
+its lost seat. In von Kleist’s even more poetic terms, “now that we’ve eaten of the tree of
+knowledge … Paradise is locked and bolted, and the cherubim stands behind us. We have
+to go on and make the journey round the world to see if it is perhaps open somewhere at
+the back,” and it is upon just such a formulation of grace that Pullman builds his world.
+Despite his professed admiration for the essay, however, Pullman’s conception of
+attaining grace through wisdom is not a carbon copy of von Kleist’s, as even his
+interview with Fitzherbert will show. For although Xaphania demonstrates that the grace
+that comes freely and the grace that comes from conscious understanding are both, in
+
+Sullivan 80
+fact, states of grace, the angel also maintains that these states are not created entirely
+equal. In this way Pullman introduces a parameter into the formulation of grace that is not
+found in von Kleist, his insistence that grace found through wisdom is superior to that
+found unconsciously leading Pullman to the conclusion that the circular path towards and
+away from grace is not entirely a closed circuit. Rather, the end point is superior to the
+beginning; the effort expended to achieve independent grace at “the final chapter in the
+history of the world” adding a linear element to von Kleist’s vision of a circular path back
+to Paradise.
+Such a conception of the path towards grace, as a combination of both circular
+and linear tendencies, is not easy to visualize, as any attempt to represent such a paradox
+would look like a creation out of the mind of M.C. Escher. Both progressive and cyclical,
+it defies easy definition, but by examining it in terms of the cyclical and progressive
+traditions to which it responds, Pullman’s concept of grace begins to pull into sharper
+focus. Torn between the cyclical reaffirmation of inscrutable, divine truth in Milton and
+the linear, revelatory truth advocated in Tolkien’s effoliation of creation, Pullman draws
+from elements of both traditions to articulate his claim to truth. For although he does not
+acknowledge Tolkien’s influence on his work as directly as he does Milton’s, Pullman
+certainly does see himself as a fantasy writer engaged in the Tolkienian tradition.
+Claiming “most fantasy writers in the Tolkien tradition had this wonderful tool that could
+do anything and they did very little with” when asked about his proclivity towards the
+“invent[ion] of alternate worlds,” Pullman casts his own world building in Tolkien’s
+mold (“Claudia Fitzherbert”). Interestingly, in the same interview he calls Paradise Lost
+into the same tradition, as it is “The first book [that] … really did what fantasy can do.”
+
+Sullivan 81
+In this sense Pullman borrows from both Tolkien and Milton, seeking in his fiction not to
+access a more communicable facet of truth, like Tolkien, but to tap into the truth that
+Milton believed existed, but could not be known or transmitted.
+Borrowing from writers like Tolkien and Milton, however, is problematic for
+Pullman, a self-declared atheist attempting to write in the style of two profoundly
+religious men. Indeed, as Stanley Fish convincingly argues, Milton would have almost
+certainly found himself on the side of “those who want [humans] to obey and be humble
+and submit” in the face of an omnipotent God, a rigorous proponent of exactly what
+HDM maintains is the largest remaining stumbling block to human ascension and
+reclamation of grace. “For Milton,” writes Fish:
+circuitous paths are vehicles of either redemption or damnation. Where a path
+leads to depends on whether those who are on it believe they are striking out in
+new and adventurous directions … or whether … they are trying to get back
+home—that is, to a place where their strivings are unnecessary because the goals
+towards which they move … are achieved in the perfect dependence of union with
+the center of all being. (3)
+In other words, the only path back to grace was, for Milton, through the achievement of
+“the perfect dependence of union with the center of all being,” or God. “Those who set
+out in the spirit of independence and adventure” like Lyra, Asriel, and the entire host of
+rebels in HDM, “only assure that they will forever be displaced wanderers” condemned in
+a world like that formulated in Paradise Lost to endless wandering and eventual
+damnation (3). Unlike von Kleist, Milton saw the path back to grace as one of abnegation
+and self-denial, not the expansion of human capacity, and unlike Pullman, Milton thought
+
+Sullivan 82
+the path back to grace would be a perfect circle as humanity finds itself redeemed and
+standing in the exact same place as Adam and Eve before the fall. The question then
+becomes, to what end does Pullman incorporate Milton’s concept of truth into his own?
+In Tolkien the connection is perhaps easier to understand. Believing that through
+the act of storytelling, particularly in the fantastic mode, “one may actually assist in the
+effoliation and multiple enrichment of creation,” Tolkien saw his work as an expression
+of divine, empirical truth, or at least one facet of it (“Fairy-Stories”156). This differs
+drastically from Milton who, as it has been shown, possessed a much more uneasy
+relationship with the truth-value of his own fiction in a fallen world. For although both
+Milton and Tolkien saw their fiction as an attempt by fallen man to access God and
+absolute truth, only Tolkien believed he had actually done so, his faith in the construct of
+a properly rooted, Secondary World and its connection to some aspect of Primary
+Creation allowing him to establish a solid, but pluralistically modern relationship with the
+truth. Milton, for whom a connection to truth was founded on nothing more than an
+impossible understanding of God’s divine will, was not so fortunate, forced as he was by
+his own belief in a single, ineffable truth to admit that he could never be absolutely
+certain he had achieved it. As Fish remarks, to Milton “one result of [the initial]
+disobedience is that the center [of the circular path] is no longer readily identifiable,” (4)
+since “the vision of those who would rediscover it is irremediably darkened, so that a
+person’s conviction that he is on it and others … are not can never be supported by
+independent evidence and can always become the matter of doubt” (5). Thus unable to
+support “by independent evidence” that one’s fiction has any connection with truth and
+therefore the path back to God and grace, Milton’s work “can always become a matter of
+
+Sullivan 83
+doubt,” especially for the author, as she can never be sure she is accessing the unified
+truth that cannot be absent, but cannot be perceived.
+To make my circuitous point: Pullman, in conception of his own work’s
+connection to truth, combines the strengths of both Tolkien’s and Milton’s ideas. By
+removing God from his own atheistic worldview, he is able to eradicate the doubts of
+both his forerunners, Pullman’s lack of faith in any kind of divine truth ironically making
+his own claim to truth that much stronger. In his belief that ultimate understanding is
+hard-won – that “every advance in human life, every scrap of knowledge and wisdom and
+decency have been torn by one side from the teeth of the other” – Pullman aligns himself
+with Tolkien and the idea that truth is revealed slowly, one facet at a time (Subtle Knife
+320). But unlike Tolkien, Pullman seems to see these individual truths as adding up to
+something larger, each facet that is revealed adding to human knowledge and wisdom and
+decency until, in the final chapter of history, the sum of the parts equal a whole. This is
+where Milton, supplemented by von Kleist, re-enters the picture; the place where
+Milton’s faith in an end goal (which is was also the initial starting point) is rewarded as
+humanity finally re-enters the state of grace it left behind at its inception. Von Kleist
+suggests that this will only come about through the continued expansion of human
+knowledge, whereas Milton maintains firmly that such a belief is only selfaggrandizement and ultimately sinful, but where they both agree is that the path back to
+grace is circular, the goal of mankind being to re-establish what was lost. It is here that
+Pullman disagrees. Seizing on his own resolute atheism and Tolkien’s tradition of
+fantasy, Pullman maintains that re-claiming grace through the slow but determined effort
+to reveal truth will make it even better than before, especially since it no longer has any
+
+Sullivan 84
+connection to God. Thus truth for Pullman becomes knowable, not only in its many
+facets, but also in its eventual entirety, the belief that grace can be reclaimed through
+ignorance and faith in God being the only thing keeping humans from becoming gods
+themselves.
+
+Sullivan 85
+
+Conclusion
+
+If fantasy is not a lie, what is? At the heart of my project lies this fundamental question
+and all the assumptions that go with it, taking from its very onset the defensive position
+that fantasy stories are more than the sum of their fictitious parts. It is a conviction that I
+have held reluctantly in the past and am currently reluctant to let go, and so I have chosen
+my primary texts accordingly, seeking to find in their own works some kind of
+confirmation that the stories I have swallowed since my childhood are not, in fact,
+worthless. But this, of course, is easier said than done, since it seems that even those most
+dedicated to the propagation of these stories are not entirely certain of their own value,
+the most skilled storytellers possessing an acuity of thought that forbids them from either
+fully endorsing or condemning their work as a whole. Instead, these storytellers, unable
+as they are to fit their works into the rough dichotomy between truth and lie, are forced to
+take a third path. For although such fantasies cannot be wholly true because they are not,
+in the strictest sense, depictions of actual events, they are also not lies, since buried
+within their hollow exteriors lie truths that cannot be denied.
+And yet fantasy is not true. Everyone knows this, especially the authors that churn
+it out for a living. As Tolkien once so eloquently put it in On Fairy-Stories, “If men
+really could not tell the difference between frogs and men, fairy-stories about frog-kings
+would not have arisen” (“Fairy-Stories” 144). Instead of “Morbid Delusion,” which
+might include the work of people crazy or twisted enough to believe that the impossible
+scenarios they write or espouse are in some way verifiably true, fantasy in the Tolkienian
+sense is the product of a powerfully rational mind, one which can simultaneously believe
+
+Sullivan 86
+in the importance of its writing while acknowledging its fictional nature. But of course,
+such an assumption only begs the question, what is the importance of such writing? Why
+on God’s green earth is it necessary to write in the fantastic mode when non-fiction can
+make such a stronger claim to truth?
+A friend of mine (who’s friendship is now under serious consideration) told me
+once while drunk that fantasy was a pointless endeavor. Well, to be fair, she said that
+fiction was a pointless endeavor, since there was no point delving into imagined worlds
+while the real one still held so many things to offer. Why watch Star Trek, she said, when
+one can simply go to a planetarium and learn something relevant about the space around
+us? Why enjoy the way in which people interact in The Lord of the Flies when you can
+watch Survivor and enjoy how real people on a real island interact? As I sputtered and
+choked on my own drink, I realized I was at a loss for words. An indignant “Just
+because” or “You’re stupid” clearly would not win me the argument here, and yet I had
+no real response besides incredulousness.
+How could I have explained to her that fantasy and fiction are so much more than
+the sum of their fictitious parts; how could I have made her understand that fantasy offers
+us a so much more than an enthralling diversion or escape from a world that is already so
+interesting? The answer, as it turns out, was delightfully simple, and if I do say so myself,
+deliciously ironic: I should have told her a story. I could have told her the story of a blind
+man who, despite his belief that it was unequivocally true, decided to re-write the biblical
+story of Genesis, casting it into the frame of an ancient epic in order to “justify the ways
+of God to men” and bring into the realm of logic and experience what had previously
+been a matter of faith (I. 26). I could have told her the story of a man at the end of a war
+
+Sullivan 87
+and the dawn of a new era who believed so resolutely in the truth the greatest stories told
+that he simply had to write one himself, using a story to make literal his claim that stories
+could help humanity interpret and make sense of the world around it. I could have even
+told her, if by this point she had not run away in terror or fallen asleep in boredom, the
+story of a crotchety atheist who, near the end of the 20th century, once again rewrote the
+story of Genesis in order to expose God as a tyrant and a fraud, tearing down the old
+order only to replace true, experiential storytelling as the path to salvation and grace. In
+all three of these stories my protagonists would have been venerable, well-educated
+English gentlemen, and all three of them would have been convinced that their
+storytelling conveyed a truth that no other mode of writing could hope to convey.
+
+Sullivan 88
+Works Cited
+Attebery, Brian. Strategies of Fantasy. Bloomington: Indiana UP, 1992. Print.
+Blake, William. “The Marriage of Heaven and Hell.” Teskey 389.
+Carpenter, Humphrey. J.R.R. Tolkien: A Biography. Boston: Houghton, 2000. Print.
+Empson, William Empson. Milton's God. Norfolk: New Directions, 1961. Print.
+Fish, Stanley Eugene. How Milton Works. Cambridge: Belknap Press of Harvard UP,
+2001. Print.
+Griffiths, Paul J. Lying: An Augustinian Theology of Duplicity. Grand Rapids: Brazos,
+2004. Print.
+"intuitive, adj. and n." OED Online. Oxford University Press, March 2014. Web. 26 April
+2014.
+"justify, v." OED Online. Oxford University Press, March 2014. Web. 26 April 2014.
+Lewis, C.S. “A Preface to Paradise Lost.” Teskey 437-438.
+Milton, John. Paradise Lost: Authoritative Text, Sources and Backgrounds, Criticism.
+Ed. Gordon Teskey. New York: W.W. Norton, 2005. Print.
+Nietzsche, Friedrich. "On Truth and Lies in a Nonmoral Sense." Trans. Daniel Breazeale.
+1979. The Rhetorical Tradition: Readings from Classical Times to the Present.
+Ed. Patricia Bizzell and Bruce Herzberg. Boston: Bedford Books of St. Martin's,
+1990. 888-96. Print.
+Pullman, Philip. The Amber Spyglass. London: Scholastic, 2001. Print.
+- - -. "Claudia Fitzherbert Talks to Philip Pullman." Interview by Claudia Fitzherbert.
+Literary Review: n. pag. Literary Review. Web. 25 Apr. 2014.
+
+Sullivan 89
+- - -. The Golden Compass. Rev. Knopf trade pbk. ed. New York: Alfred A. Knopf, 2002.
+Print.
+- - -. "I am of the Devil's party." Interview by Helena De Bertodano. The Telegraph. N.p.,
+29 Jan. 2002. Web. 25 Apr. 2014.
+- - -. The Subtle Knife. New York: Knopf, 1997. Print.
+Shelley, Percy Bysshe. “Prometheus Unbound.” Teskey 393.
+Shippey, Thomas. J.R.R. Tolkien: Author of the Century. Boston: Houghton, 2002. Print.
+Shippey, Tom. "Tolkien and the Appeal of the Pagan: Edda and the Kalevala." Tolkien
+and the Invention of Myth: A Reader. Ed. Jane Chance. Lexington: UP of
+Kentucky, 2004. 145-62. Print.
+Tolkien, J. R. R. "Beowulf: Monsters and the Critics." 1936. The Monsters and the
+Critics, and Other Essays. Ed. Christopher Tolkien. London: Allen & Unwin,
+1983. 5-48. Print.
+- - -. "Interview with J.R.R. Tolkien." Interview by Dennis Gerrolt. News from Bree. Ed.
+Hartley Patterson. 12 Sept. 2010. Web. 26 Apr. 2014.
+- - -. The Letters of J.R.R. Tolkien: A Selection. Ed. Humphrey Carpenter and Christopher
+Tolkien. Boston: Houghton, 2000. Print.
+- - -. The Lord of the Rings. Comp. Douglas A. Anderson. One volume ed. Boston:
+Houghton, 1994. Print.
+- - -. "On Fairy-Stories." 1939. The Monsters and the Critics, and Other Essays. Ed.
+Christopher Tolkien. London: Allen & Unwin, 1983. 109-61. Print.
+- - -. The Silmarillion. New York: Ballantine, 1979. Print.
+
+Sullivan 90
+- - -. "Sir Gawain and the Green Knight." 1953. The Monsters and the Critics, and Other
+Essays. Ed. Christopher Tolkien. London: Allen & Unwin, 1983. 72-108. Print.
+Von Kleist, Heinrich. "On the Marionette Theater." Trans. Idris Parry. Southern Cross
+Review. Web. 30 Apr. 2014.
+
+

@@ -1,0 +1,1747 @@
+Bard College
+
+Bard Digital Commons
+Senior Projects Spring 2014
+
+Bard Undergraduate Senior Projects
+
+2014
+
+Solving for Nonsense: Mathematics and Lewis
+Carroll's Linguistic Play in the Alice Books
+Kathleen M. Jump
+Bard College
+
+Recommended Citation
+Jump, Kathleen M., "Solving for Nonsense: Mathematics and Lewis Carroll's Linguistic Play in the Alice Books" (2014). Senior Projects
+Spring 2014. Paper 304.
+http://digitalcommons.bard.edu/senproj_s2014/304
+
+This On-Campus only is brought to you for free and open access by the
+Bard Undergraduate Senior Projects at Bard Digital Commons. It has been
+accepted for inclusion in Senior Projects Spring 2014 by an authorized
+administrator of Bard Digital Commons. For more information, please
+contact digitalcommons@bard.edu.
+
+Solving for Nonsense:
+
+Mathematics and Lewis Carroll’s Linguistic Play in the Alice Books
+
+Senior Project submitted to
+The Division of Languages and Literature
+of Bard College
+
+By
+Kathleen Jump
+
+Annandale-on-Hudson, New York
+May 2014
+
+Thank you
+To my advisor Professor Stephen Graham for his magical ability to find all the sources I
+could not and for his constant patience and support,
+To Professor John Cullinan for helping me in my Alice related mathematical explorations,
+To my Senior Project Board for reading this senior thesis,
+To my family for all the love and support they have given to me my entire life,
+To Christina Baal for not only helping me edit this senior project, but for editing so many of
+my papers during the past four years,
+And to my friends for tolerating my madness and over use of the word “nonsense” during
+this process.
+
+How doth the little mathematician
+Improve his silly rhymes,
+And prove himself a true logician
+A half a dozen times.
+
+How carefully he seems to write,
+How neatly crafts his poems,
+And weaves his tales with such delight
+With deftly hidden sums!
+
+Table of Contents
+Introduction……………………………………………………………………………………1
+Chapter I: How Doth the Little Mathematician……………………………………………….8
+i. Mabel Math………………………………………………………………………….9
+ii. Parodic Poems………………………………………………………………….…11
+iii. Serpentine Syllogisms……………………………………………………………21
+iv. Preposterous Puss’s Proofs………………………………………………….……24
+v. Alice………………………………………………………………………….……27
+Chapter II: The Mad Adder…………………………………………………………….…….30
+i. I x what I y, I y what I x……………………………………………………………31
+ii. Commutative Cats (and Bats)………………………………………………..……34
+iii. Variables without Time………………………………………………………..…36
+Chapter III: Mirror Math……………………………………………………………………..41
+i. Beware the what?……………………………………………………………..……42
+ii. The Egghead………………………………………………………………………47
+iii. Queenly Math Test…………………………………………………………….…51
+iv. The Problem of Negative Numbers………………………………………………53
+v. The Final Feast……………………………………………………………….……56
+Final Thoughts………………………………………………………………………….……59
+Works Cited………………………………………………………………………….………61
+
+1
+Introduction
+
+Alice climbs through the looking-glass.
+
+Lewis Carroll wrote the following letter to his fourteen-year-old child friend Wilton
+Rix:
+Honoured Sir,
+Understanding you to be a distinguished algebraist (i.e. distinguished from other
+algebraists by different face, different height, etc.), I beg to submit to you a difficulty
+which distresses me much.
+If x and y are each equal to “1,” it is plain that 2 × (x2 – y2) = 0,
+and also that 5 × (x – y) = 0.
+Hence 2 × (x2 – y2) = 5 × (x – y).
+Now divide each side of this equation by (x – y).
+Then 2 × (x + y) = 5.
+But (x + y) = (1+1), i.e. = 2.
+So that 2 × 2 = 5.
+
+2
+Ever since this painful fact has been forced upon me, I have not slept more than 8
+hours a night, and have not been able to eat more than 3 meals a day.
+I trust you will pity me and will kindly explain the difficulty to
+Your obliged, Lewis Carroll. (Wilson 108)
+Why would a famed writer of children’s literature send a letter primarily concerning a
+mathematical proof to one of his child friends? It seems odd that an author would not send a
+poem or short story instead, but Carroll was not just an author. His trade of choice was
+mathematics, which he taught at Christ’s Church, Oxford. In addition to his playful works of
+fiction he also published many works on mathematics and logic, though most of these were
+produced under his real name, Charles Lutwidge Dodgson.
+Let me take a moment to assure you that two times two does not equal five. At first
+glance (and, in my case at least, second, and third), this logic looks sound. Carroll appears to
+be following the rules of mathematics, but in reality he cheats. By dividing by (x – y) he is
+dividing by (1-1), meaning he is dividing by zero. This is an illegal move in mathematics.
+Dividing by zero causes a function to become undefined. Carroll, who was unquestionably
+very familiar with this rule, plays with the way in which he arranges his proof in order to
+perplex and amuse his young friend. This trick slips by undetected because Carroll first
+assigns values to x and y, and then allows them to return to being arbitrary values, thus side
+stepping the division issue.
+Unsurprisingly, I am hardly the first to consider Carroll’s most famous works, Alice’s
+Adventures in Wonderland and Through the Looking-glass and What Alice Found There,
+with respect to mathematics. Though my research has only reinforced my presumption that it
+
+3
+has hardly been a popular topic of study1, two critics stand out for their mathematical
+interpretations: Helena Pycior and Melanie Bayley. Both women propose similar theories.
+Pycior claims that the Alice books embody Carroll’s “misgivings about symbolic algebra, the
+major British contribution to mathematics of the first half of the nineteenth century” (Pycior
+149). She theorizes that “the roots of his nonsense verse may also be in symbolic algebra,
+which stressed in mathematics structure over meaning” (149). While this may be an apt
+description of Carroll’s nonsense, Pycior fails to sufficiently explain how symbolic algebra
+differed from the math commonly practiced before its creation. Much of her description of
+symbolic algebra can also serve as a description for much older areas of mathematics.
+Pycior’s focus is not on how Carroll’s mathematical background helps shape his nonsense,
+but rather how his nonsense serves as mathematical critique by showing how emphasizing
+structure over meaning leads to confusion. She introduces her paper with a quote from
+Augustus De Morgan’s précis of symbolic algebra. It is unclear exactly how much of his
+work and the new mathematics Carroll was really at odds with. For De Morgan “the symbols
+represented numbers, but unspecified numbers, so that reasoning about them applied to any
+particular numbers” (Cooke 543). This was not an approach Carroll was uncomfortable with,
+as seen by his notes on Euler2. I will not wholly dispute Pycior’s claim that Carroll was a
+rather conservative mathematician, but I will point out that this may be caused not entirely by
+discomfort with the contemporary advances in mathematics, but because he was primarily a
+teacher, not a researcher, and preferred to pursue his “mathematical interests in a solitary
+
+1
+
+As Bayley says, “the critical literature focused mainly on Freudian interpretations of the
+book as a wild descent into the dark world of the subconscious.”
+2
+For example, see page 70, Proposition A of The Pamphlets of Lewis Carroll: Volume 2.
+
+4
+fashion” (Dodgson 3). Most of his mathematical publications concerned “the teaching of
+students” or reflected “his personal interests” (3).
+Bayley also makes claims about Carroll’s nonsense and new theories of mathematics.
+However, she does not lean heavily on the presumption that symbolic algebra is being
+critiqued throughout Wonderland and Looking-glass. She quotes more specific mathematical
+theories she believes are being critiqued. She ventures that Alice in Wonderland contains
+“satire of [Carroll’s] contemporary mathematicians” (Bayley), and believes that this criticism
+is part of what inspired the addition of some of the scenes added to Alice’s Adventures
+Underground3 for mass publication. Whether Carroll inserted any intentional criticism of
+contemporary mathematical advances in the Alice books cannot be determined with certainty,
+but Carroll himself admitted he might have put much in these books without realizing it. As
+he said, “Words mean more than we mean to express when we use them: so a whole book
+ought to mean a great deal more than the writer meant” (Nonsense, Sense, and Meaning 18).
+Important to this thesis is not just a discussion of criticisms of mathematics and the
+Alice books, but also examinations of Nonsense literature in general. In my research the three
+critical sources that have stood out as authorities on the subject are Susan Stewart’s
+Nonsense, Jean-Jacques Lecercle’s Philosophy of Nonsense, and Elizabeth Sewell’s The
+Field of Nonsense. Stewart defines nonsense against “common sense” and claims the
+operations that transform common sense into nonsense “stand in a paradoxical relationship to
+common sense” (Stewart viii). She stresses that nonsense deals with inversion. Lecercle
+claims that nonsense is a “conservative-revolutionary genre” (Lecercle 2). It is “respectful of
+
+3
+
+Alice’s Adventures Underground was the version that Carroll wrote and presented to Alice
+Liddell. Some of the scenes missing from Underground that appear in Wonderland include
+the Cheshire Cat, Mad Tea Party, and the Duchess.
+
+5
+authority in all forms: rules of grammar, maxims of conversation...,” but it is “inextricably
+mixed with the opposite aspect…where rules and maxims appear to be joyously subverted”
+(2-3). He says, “the genre is structured by the contradiction… between over-structuring and
+destructuring, subversion and support” (3). Sewell says that nonsense can be described as “a
+collection of words or events which in their arrangement do not fit into some recognized
+system in a particular mind” (Sewell 3). She proposes a reading of nonsense as a type of play
+and compares nonsense to a game that “is an enclosed whole, with its own rigid laws which
+cannot be questioned within the game itself; if you put yourself inside the system which is
+the game, you bind yourself by that system’s laws....” (25-26).
+So nonsense depends on recognized structure, but then contradicts the expected
+outcome of following that structure. Carroll often chooses structures that can be linked to his
+relationship with mathematics and logic. The ways in which he contradicts the expected
+outcomes of those structures can also be linked to mathematics. Even though Carroll’s letter
+to Wilton Rix does not contain quite the same level of playful nonsense that the author is
+known for, it still serves as a good example of how Carroll approaches the formation of his
+nonsense. The letter has two forms of nonsensical play. The first is in the proof. The proof is
+nonsense because while it follows acceptable mathematical rules, the result contradicts one
+of our most basic mathematical assumptions (that two times two always equals four ) and
+therefore seems to result in paradox, or it does unless you catch Carroll’s trick. He breaks the
+rules of the game and does not tell anybody. It is also paradoxical because this method of
+mathematical deduction would hold true for other numbers that didn’t require one to divide
+by zero, but this is the exception.
+
+6
+Linguistically this is nonsense too. The concluding sentence is set up to prompt the
+reader to expect that Carroll got little sleep and ate little after he learned that two times two
+equaled five. This is easier to see if one removes the words that contradict this expectation. If
+one removes these the sentence will look like this: “Ever since this painful fact has been
+forced upon me, I have not slept more than x hours a night, and have not been able to eat
+more than y meals a day.” The meaning of the words surrounding the numbers imply that
+Carroll has slept and ate little, but the numbers he supplies imply that he has been sleeping
+and eating a healthy amount. The structure of the sentence makes the reader anticipate one
+thing, but the numbers Carroll plugs in implies the opposite, thus creating a paradox or a
+result that contradicts our expectations.
+The point of this thesis is not to define how Carrollian nonsense is formed or
+functions, or to argue that Carroll’s nonsense serves as mathematical critique. It is merely a
+humble exploration of how his mathematical background affected the formation of his
+nonsense. “Chapter I: How doth the little mathematician” will dive into a study of some of
+the more general structures Carroll leans on in the formation of his nonsense, namely
+multiplication tables, poems, syllogisms, and proofs. “Chapter II: The Mad Adder” explores
+some of the more specific mathematical structures Carroll employs in the construction of his
+nonsense; specifically, several examples of his use of the commutative property and an
+example Bayley proposes called quaternions. In “Chapter III: Mirror Math” I will discuss
+Through the Looking-glass and What Alice Found There in consideration to my explorations
+in Chapters I and II, and as its own entity where Carroll’s mathematic side shows not only in
+borrowed structure, but also in his treatment of words and his play with the referential value
+of words and numbers.
+
+7
+Before we delve into nonsense, mathematics, and logic, I must share one final
+thought. In writing about mathematics and the Alice books, one has to choose between
+referring to the author as Lewis Carroll or as Charles Dodgson. After great amounts of silent
+debate within my head I chose Carroll for the simple reason that I was writing primarily
+about his literature, not his mathematics. When I came across Carroll’s letter to Wilton Rix I
+also discovered a more justifiable reason. Carroll signs this mathematically playful letter with
+his pen name: the name of the author, not the name of the mathematician. By putting his
+authorial name on a piece of mathematics he is aligning Lewis Carroll the author with
+Charles Dodgson the mathematics professor. They are one and the same. No silly pseudonym
+could ever strip him of his love of mathematics and logic. By signing this letter with his nom
+de plume, Carroll merges Carroll and Dodgson4, declaring them to be one, and exposes
+himself as a lover of nonsense, logic, word play, and mathematics.
+
+4
+
+Carroll first used his pseudonym when publishing the poem “Solitude”. He manufactured it
+“based on a Latinized reversal of his first two names, Charles Lutwidge” (Cohen 72).
+Lutwidge=Ludovic=Lewis and Charles=Carolus=Carroll.
+
+8
+Chapter I: How doth the little mathematician
+
+The Cheshire Cat, surveying Alice from its perch in a tree, proves that it is mad.5
+
+The King of Hearts says to “Begin at the beginning…and go on till you come to the
+end” (Annotated Alice6 121). This seems to be decent advice (and is in fact advice someone
+once offered me), and so it seems a somewhat logical decision to start by discussing the first
+truly obvious example of mathematics in Alice’s Adventure’s in Wonderland - Alice’s
+famous attempt at reciting multiplication facts - and proceed somewhat chronologically from
+there. After exploring Alice’s multiplication, we will move on to a dissection of two of
+Carroll’s parody poems, “Twinkle, twinkle, little bat” and “How doth the little crocodile.”
+Following this will be a focus on the author’s use of syllogisms and proofs in the Pigeon and
+Cheshire Cat scenes. All of these examples follow a relatively familiar structure (basic
+arithmetic, well known poetry, common logical techniques), but provide confusing and
+
+5
+
+All images in this project are the illustrations by John Tenniel for the original Alice’s
+Adventures in Wonderland and Through the Looking-glass and What Alice Found There. For
+reasons of practicality I have taken them from this website: <http://www.alice-inwonderland.net>.
+6
+From here on out The Annotated Alice: The Definitive Edition will be denoted by the
+abbreviation AA.
+
+9
+unexpected results. Additionally, all these instances of nonsense contribute to the unsettling
+conclusion that Carroll is manipulating Alice in a similar manner by maintaining her basic
+form yet simultaneously fiddling with the contents of her mind.
+i. Mabel Math
+Shortly after she tumbles down the rabbit hole, Alice is subjected to many unexpected
+changes in size. The transformations cause her to wonder if she has been “been changed in
+the night” (AA 22) for one of the little girls her age she knows. Her biggest concern is that
+she has been turned into Mabel, so she attempts to test herself. She reasons that Mabel
+knows so very little and if she, Alice, knows everything she used to know she must still
+retain her original identity. She turns first to mathematics7 and tries to recite her
+multiplication table. As she attempts to do this Alice says, “Let me see: four times five is
+twelve, and four times six is thirteen, and four times seven is—oh dear! I shall never get to
+twenty at this rate!“(23)8. There are two explanations as to why she will never reach twenty.
+The first, as Martin Gardener tells us, is the simpler one. Most multiplication tables stop with
+twelve. If this is the case with Alice’s, then, in the pattern she is following, her recitation will
+end with four times twelve, which will equal nineteen (23 note 4).
+The other explanation for why Alice will never reach twenty involves the
+mathematical principle of bases. A. L. Taylor points out that four times five does equal
+twelve in a number system of base eighteen, and four times six equals thirteen in a number
+system of base twenty-one. If one follows the patter of increasing the base by three, the
+
+7
+
+It is interesting to note that Alice turns to mathematics first. She chooses academic
+knowledge as a determiner of identity rather than knowledge such as her own name, the
+names of her family members, her address, or her favorite foods.
+8
+Food for thought: why is Alice’s goal to reach twenty? Is it because her initial
+multiplication sum, four times five, was supposed to equal twenty?
+
+10
+products produced increase by one. Thus four times five equals twelve base eighteen, four
+times six equals thirteen base twenty-one, four times seven equals fourteen base twenty-four,
+etc. However the pattern ends when it reaches four times thirteen. Four times thirteen does
+not equal twenty base forty-two as it would if the scheme held. Therefore, Alice really never
+will get to twenty (Abeles 183)9.
+While we cannot tell for sure if Carroll thought of any of this while writing Alice’s
+Adventures in Wonderland, it seems impossible that an experienced mathematician would
+accidently create such a coincidence. In considering this, one must also consider that Carroll
+chose to start specifically with “four times five.” If he was not having Alice multiply
+numbers in a base other than ten, why not start with one times one, or two times two? Both of
+these seem to be more practical or natural places to start when reciting a multiplication table.
+It seems indescribably more likely that Carroll wrote Alice reciting multiplication facts using
+different bases, than accidently writing in such a coincidence.
+This is perhaps the best example of what Peter Hunt calls “remorseless logic
+masquerading as nonsense”(Hunt 37). The multiplication recitation appears to be complete
+unmathematical absurdity, but proves to be fact. Alice’s arithmetic “still makes sense, but
+only to a relatively sophisticated mind” (“Alice’s Journey” 315). To the average reader
+working in base ten, Alice has simply made a silly mistake, but to the clever mathematician
+(like Carroll), this is a mathematical mind game. While this looks like nonsense, it follows its
+own structure and rules to the letter. Just as Wonderland must seem to one of its residents, to
+those well versed in mathematics and in the know, the multiplication table makes perfect
+9
+
+Francine Abeles points out that by using this theory, one can create a multiplication table
+for multiplication in changing bases, that is commutative (e.g. a+b=b+a and a×b=b×a), but
+not associative (e.g. a+(b+c)=(a+b)+c and a×(b×c)=(a×b)×c) (Abeles 183).
+
+11
+sense. However, to the normal reader, and to poor confused Alice who has no idea why her
+words are being “ventriloquially altered” (Knoepflmacher 198), this is still nonsense. The
+multiplication table follows a structure familiar to anyone who has ever been taught
+arithmetic. The problem occurs when the expected answer is removed and replaced with an
+answer that seems to be entirely wrong. Carroll changes the rules of the game without telling
+the reader. The audience sees a pile of mathematical gibberish because the reader and the
+author are now playing the same game, but each with a different set of rules.
+In addition to this, the oddity of this multiplication table is increased by its
+presentation. Firstly, a little girl of seven years old is reciting math that is far too advanced to
+be within her realm of comprehension. Secondly, she has no idea of what this information is
+or how she came to recite it. It is as if someone scooped the expected answers or
+mathematical structure (the structure that working in base ten provides) out of her brain and
+replaced them with something entirely different.
+ii. Parodic Poems
+It is not only mathematics that Carroll turns to in order to find suitable structures for
+his nonsense. Several of Carroll’s most notable poems turn to popular poems from the
+eighteen hundreds for their framework. Just as a mathematician follows a formula and plugs
+in numbers or variables to get a result, Carroll follows the basic form (or formula) of the
+original poem, and then swaps out key words that help determine meaning in order to create
+nonsense. I will discuss two of these parodic poems: “Twinkle, Twinkle, little bat” and “How
+doth the little crocodile.” Though “How doth the little crocodile” occurs first in Wonderland
+I will address “Twinkle, Twinkle, little bat” first as it is simpler and will serve as a clearer
+introduction to the method I will use to analyze both poems.
+
+12
+The Mad Hatter introduces Alice and the reader to “Twinkle, Twinkle, little bat” by
+recounting his recital of it for the Queen of Hearts, which ended in the Queen demanding that
+his head be removed. It is a parody of Jane Taylor’s “The Star,” a poem that to this day
+remains a popular children’s song. Both “Twinkle, twinkle, little bat” (on the left) and “The
+Star” (on the right) are side by side below for comparison.
+Twinkle, Twinkle, little bat!
+
+Twinkle, Twinkle, little star,
+
+How I wonder what you’re at!
+
+How I wonder what you are!
+
+Up above the world you fly
+
+Up above the world so high
+
+Like a tea-tray in the sky.
+
+Like a diamond in the sky
+
+AA 73-74
+
+AA 74, note 8
+
+Carroll prioritizes the form of the poem, preserving the structure in respect to rhyme, number
+of syllables, and, for the most part, which part of speech each word is (noun, adjective, etc),
+and punctuation. He treats words as arbitrary variables and plugs them into the poem, the
+meaning of which he considers (or allows his readers to ponder) later.
+If one were to break down these two poems linguistically in terms of differences, they
+would look like this:
+Twinkle, Twinkle, little Noun!
+
+Twinkle, Twinkle, little Noun(1),
+
+How I wonder what Pronoun/verb(1)
+
+How I wonder what Pronoun(1)
+
+Preposition(1)!
+
+Verb(1)!
+
+Up above the world Pronoun(1)
+
+Up above the world Adverb(1)
+
+Verb(1)
+
+Adjective(1),
+
+Like a Noun(2) in the sky.
+
+Like a Noun(2) in the sky
+
+(“Twinkle, Twinkle, little bat”)
+
+(“The Star”)
+
+13
+The words that have been taken out have been replaced by their part of speech in bold and
+their syllable count in parenthesis. While there are some minor differences between the parts
+of speech used, these poems are clearly very similar. However, they become identical if one
+applies the definitions of word types Carroll laid out in his book Symbolic Logic10. I will not
+bore you with a summary of all the terms Carroll defines, but will instead constrain myself to
+the ones that are necessary.
+Firstly, “the Universe contains ‘Things’ (For Example, ‘I’, ‘London…)”(Symbolic
+Logic 1). ‘Things’ are essentially nouns. ‘Things’ have ‘Attributes’, that describe them. An
+‘Adjunct’ is “any Attribute, or any Set of Attributes” (1). For example, ‘red’ is an attribute,
+but can also be called an adjunct. Additionally, any set of attributes such as “red, scented and
+full-blown” (1) may be called an adjunct. A ‘Class’ is a group of things. Carroll says, “the
+formation of Classes, is a Mental Process, in which we imagine that we have put together, in
+a group, certain Things.” (2). A class can be divided into smaller classes by considering
+attributes (for example, “books” is a class, as is ‘old books’ and ‘new books’). Finally, a
+‘Name’ is a “word (or phrase) which conveys the idea of a Thing, with the idea of an
+Adjunct” (5). Carroll provides many examples of this: “the words ‘Thing’, ‘Treasure,’
+‘Town’, and the phrases ‘valuable thing’, ‘material artificial thing consisting of houses and
+streets’…’Town paved with gold,’ ‘old English Book’” (5).
+In the original linguistic breakdown, the phrases “you’re at” and “you are,” as well as
+“you fly” and “so high,” forced the analysis to look a little different. However, in a Carrollian
+logic breakdown, all four phrases can be considered adjuncts allowing the analysis to be
+10
+
+Braithwaite points out the following: “Whereas the works on Trigonometry, Geometry, and
+Determinants were published over the name of Charles L. Dodgson…the two small works on
+Logic—The Game of Logic and Symbolic Logic, Part I—and the two interesting logical notes
+in Mind appeared over the signature of the creator of Alice” (174).
+
+14
+identical. As “you’re at” and “you are” are being used in a more descriptive sense, they can
+be seen as adjuncts. Similarly, “you fly” is describing the action of the bat, and so high is
+describing the position of the star. Thus, “you fly” and “so high” are also adjuncts. Therefore,
+the “Twinkle” poems can now be broken down as identical linguistic formulas:
+Twinkle, Twinkle, little Thing(1)!
+
+Twinkle, Twinkle, little Thing(1)!
+
+How I wonder what Adjunct(2)!
+
+How I wonder what Adjunct(2)!
+
+Up above the world Adjunct(2)
+
+Up above the world Adjunct(2)
+
+Like a Name(2) in the sky.
+
+Like a Name(2) in the sky
+
+(“Twinkle, Twinkle, little bat”)
+
+(“The Star”)
+
+Carroll’s definitions also allow for a clearer understanding of why this poem feels so
+nonsensical. In “Twinkle, Twinkle, little bat,” the ‘things’ have been allocated ‘attributes’
+that do not belong. The “bat” is given the attribute “twinkle” and the “tea-tray” is assigned
+the attribute “in the sky.” While it would be natural and understandable for a “bat” to be “in
+the sky” and for a “tea-tray” to “twinkle,” the assignment of attributes in Carroll’s poem
+makes no sense (unless tea-trays grow wings and some cruel force feels it fit to bedazzle a
+bunch of bats), which, of course, results in nonsense.
+There is one more minor mathematically related thought that may have crossed
+Carroll’s mind when writing “Twinkle, Twinkle, little bat.” Gardner explains it on page
+seventy-two in note eight of The Annotated Alice: The Definitive Edition. He writes,
+“Carroll’s burlesque may contain what professional comics call an ‘inside joke’.
+Bartholomew Price, a distinguished professor of mathematics at Oxford and a good friend of
+Carroll’s, was known among his students by the nickname ‘The Bat’.” Certainly a tea tray,
+even a flying one, can be more easily linked to a math professor than a bat.
+
+15
+While “The Star” is arguably more popular today than “Twinkle, Twinkle, little bat,”
+the same cannot be said for the parent poem of “How doth the little crocodile.” When Alice’s
+recitation of the multiplication table ultimately fails to help her prove to herself that she is not
+Mabel, she turns to other types of recitation. She attempts to recall the poem “Against
+Idleness and Mischief,” a poem intended for children by Isaac Watts. Somehow Alice’s
+“memorized poems” are coming out “ventriloquially altered” (Knoepflmacher 198). She
+repeats a poem that is structurally similar, but that is strikingly different in content and
+meaning. Out of Alice’s mouth mysteriously and unwittingly spills Carroll’s famous parody
+of “Against Idleness and Mischief”: “How doth the little crocodile.” This poem is frequently
+described as a nonsense poem, but why? It is certainly silly, potentially metaphoric, and
+definitely more fun that its didactic predecessor, but it doesn’t employ gibberish words like
+“Jabberwocky” (which will be addressed in Chapter III) or pair attributes with things they do
+not belong with as in “Twinkle, Twinkle, little bat.” So why is it nonsense? The reason is
+perhaps not immediately clear. Elizabeth Sewell describes “nonsense as a collection of words
+or events which in their arrangement do not fit into some recognized system in a particular
+mind” (Sewell 3). This definition implies that different people identify nonsense as different
+things. Everyone’s view on what nonsense involves is unique and depends on their particular
+system of how they view the world. Therefore, what is usually defined as nonsense may not
+be considered nonsense by all.
+When “How doth the little crocodile” is placed next to the other children’s poetry of
+Victorian England, the reason it is a nonsense poem becomes apparent. Other children’s
+poems of the 1800’s, especially “Against Idleness and Mischief,” were strictly moral and
+didactic. Carroll’s crocodile poem is not. It “uses a series of inversions to change didactic
+
+16
+poetry into nonsense poetry” (Stewart 76) and therefore does its best to subvert the moralist
+messages. At least according to the imagined Victorian mindset, Carroll’s poem does not fit
+into the recognized system of moralist didacticism as the reader might expect it would.
+However, this poem does fit into a recognizable structure. The structure of “How doth
+the little crocodile” is the same as “Against Idleness and Mischief.” The syllable count and
+rhyme scheme are the same in both poems, as are the general placement types of words
+(verbs, nouns, adjectives, etc.). Similarly to “Twinkle, Twinkle, little bat” and “The Star,”
+“How doth the little crocodile” and “Against Idleness and Mischief” can be broken down
+using the definitions of Things, Attributes, Adjuncts, and Names that Carroll created for his
+Symbolic Logic. Using these definitions we can break down “How doth the little Crocodile”
+and “Against Idleness and Mischief” structurally and thus provide a kind of formula for these
+poems. This formula using Carroll’s logical terms is helpful to have because it shows how
+these two poems are identical in a way that a regular linguistic breakdown cannot.
+Below I have include the full version of “How doth the little crocodile” (on the left)
+and the first two verses of its “parent poem” (on the right) because it will be useful to have
+read both verses for the remainder of this section. For the sake of simplicity, I will only break
+down the first verse of each. The numbers in parentheses after a word type will be how many
+syllables it needs to be. The exponents at the end of each line represent the rhyme scheme.
+How doth the little crocodile
+
+How doth the little busy bee
+
+Improve his shining tail,
+
+Improve each shining hour,
+
+And pour the waters of the Nile
+
+And gather honey all the day
+
+On every golden scale!
+
+From every opening flower!
+
+17
+How cheerfully he seems to grin,
+
+How skillfully she builds her cell!
+
+How neatly spreads his claws,
+
+How neat she spreads the wax!
+
+And welcomes little fishes in,
+
+And labors hard to store it well
+
+With gently smiling jaws!
+
+With the sweet food she makes.
+
+AA 23
+
+AA 23, note 5
+
+How doth the Attribute (2) Name(3)A
+
+How doth the Attribute (2) Name(3)A
+
+Improve Adjunct(2) Thing(1)B,
+
+Improve Adjunct(2) Thing(1)B,
+
+And Verb(1) Thing(3) Adjunct(3)A
+
+And Verb(2) Thing(2) Adjunct(3)A
+
+Preposition(1) every Attribute(2)
+
+Preposition(1) every Attribute(2)
+
+Thing(1)B!
+
+Thing(1)B!
+
+(“How doth little crocodile”)
+
+(“Against Idleness and Mischief”)
+
+In both poems, the first line is not challenging to break down: “little” is an Attribute, and
+“crocodile” and “busy bee” are both Names. In the next line, both “his shining” and “each
+shining” can be seen as Adjuncts because both words are being used to describe the thing in
+each sentence (“tail” and “hour”). The third line is more difficult to dissect using Carroll’s
+terms. The words “pour” and “gather” not only have different numbers of syllables, but are
+also verbs and are thus trickier to sort into Carroll’s categories. However, the verbs, in this
+case at least, can be seen as Attributes because they are being used to describe what is being
+done with “the waters” and “honey” and can therefore, by definition, be incorporated into the
+Name. The process becomes slightly problematic when working with the last line when one
+is forced to ask how to characterize a preposition using Carroll’s language. However, if we
+approach the prepositions in conjunction with the word “every” that follows them, “On
+
+18
+every” and “From every” become attributes or adjuncts because they are used in the process
+of describing a thing.
+By using Carroll’s language, we can combine Adjuncts, Attributes, Things, and
+Names to further simplify the poems. While the first breakdown showed that these poems are
+structurally similar, simplifying if further with Carroll’s definitions shows how these poems
+can be seen as identical and formulaic.
+How doth the Name(5)A
+
+How doth the Name(5)A
+
+Improve Name(3)B,
+
+Improve Name(3)B,
+
+And Name(4) Adjunct(3)A
+
+And Name(4) Adjunct(3)A
+
+Adjunct(2) Name(3)!B
+
+Adjunct(2) Name(3)!B
+
+(“How doth little crocodile”)
+
+(“Against Idleness and Mischief”)
+
+By keeping certain words and phrasing, as well as preserving syllabic content, type of rhyme
+scheme, and general placement of word types, “How doth the little crocodile” allows itself to
+be easily recognizable as a parody of “Against Idleness and Mischief.”
+The words Carroll chooses to create his new poem contrast with the old one in many
+ways. The most obviously contrasting terms are in the subjects of the poems: the bee and the
+crocodile. The bee is not an uncommon animal in England. It is plain and familiar. The
+crocodile, on the other hand, is exotic, from a far away land, and, in the cold damp country
+that is England, essentially mythical. The bee’s actions are recorded as seen and then
+personified slightly. The crocodile’s actions must be imagined by Carroll, unless he visited
+Egypt (because this a Nile crocodile he is writing about) before writing this poem. It is also
+worth noting that a crocodile is not covered in “golden scales.” The creature being written
+
+19
+about is not just unfamiliar to England, but also unfamiliar to all of Alice’s world (though
+perhaps Wonderland has a Nile River full of shiny golden crocodiles).
+While the bee labors to improve things in a more general sense (if one allows that
+time is far less specific than tail), the crocodile’s exertions are focused on himself and his
+individual and physical improvement. In her close reading of these poems, my friend
+Amanda Benowitz points out that in the first stanza of “Against Idleness and Mischief” the
+busy bee focuses on work to improve society, whereas in the second she focuses on the more
+individual task of “build[ing] her cell” (AA 23 note 5). The crocodile focuses on selfimprovement first, and then takes care of its other physical needs, namely hunger. Its
+physical attributes, such as its smile and neatly spread claws, allow for it to be successful in
+getting food. The messages of these two poems are thus very different. The busy bee works
+primarily for the community and fulfills her responsibilities before taking up a more personal
+task, whereas the crocodile labors only for himself. The moralist and didactic message of
+“Against Idleness and Mischief” is the type of knowledge that adults frequently try to impose
+upon children. The crocodile provides a much more recognizable model of behavior.
+Carroll preserves the structure of “Against Idleness and Mischief,” but drains it of its
+original didactic message. He then proceeds to fill in the holes with golden crocodiles,
+stuffing new, very different meaning into the old structure. A poem set entirely in the known
+world, about familiar creatures, is transformed into one with mythical creatures who do not
+exist in Alice’s world. A mathematician can plug new numerals into a formula and get a
+result that is different in value, but still categorically the same. For example, if a
+mathematician changes the value of the variables in an equation to find the area of a triangle,
+he will end up with the area of a triangle, but it will be different from whatever the original
+
+20
+area was. Comparably, when Carroll plugs new words into the poem’s linguistic formula, the
+result is still a poem, but it is a poem with a very different meaning.
+Similarly to the multiplication table that precedes it, the manner in which this poem is
+presented adds to the strangeness of it. Alice is reciting a poem about a creature she has
+probably never seen, who lives in a place she has likely never visited. Someone has removed
+the original poem from her brain, but left its structure in place to be refilled with new words
+and meaning by the mysterious force that removed it or by Alice’s clever mind.
+Admittedly, it cannot be proven if Carroll consciously took a mathematical or logical
+approach to his parody poetry. At the very least, it is clear that numbers and verse are
+compatible in Carroll’s mind. In his book The Universe in a Handkerchief, Martin Gardner
+states, “Carroll’s system of mnemonics…allows one to translate numbers into easily
+remembered words. To help recall the words, Carroll composed two-line rhymes in which
+the word was prominent, and the couplet described in some way the number it symbolized”
+(The Universe in a Handkerchief 31). An example of this can be found in Carroll’s Memoria
+Technica, where he wrote a short four-line poem, to help him remember the dates 1495 and
+1455:
+“Shout again! We are free!”
+Says the loud voice of glee.
+“Nestle home like a dove,”
+Says the low voice of love.
+32
+By the code that Carroll sets up, the phrase “voice of glee” can be translated to the number
+1495. Each consonant corresponds to one of the ten numbers that are used to represent all
+
+21
+numbers (e.g. 0, 1, 2, …, 8, 9). Carroll assigned two letters to each number. His method of
+assignment varies from letter to letter. For example, “b” and “c” both correspond to 1
+because they are the first consonants. For 2, he takes “d from ‘deux’” and “w from ‘two’”
+(32). He assigns “g” to nine for its shape, “z” and “r” to 0 because they are the two
+consonants in the word zero, and he allows “j” to be 3 simply because it was the last
+consonant unappropriated and 3 only had one other letter assigned to it. In this case, “v” is
+dropped, “c” is 1, “f” is 4, “g” is 9, and “l” is 5. Similarly, “voice of love” represents the
+number 1455. I do not think that Carroll encoded his poetry in the Alices with hidden
+numbers, but it is nonetheless interesting to note the fluidity that exists between numbers and
+letters in Carroll’s mind. He allows letters to function as symbols that stand for some other
+thing or value, and then, by extension, for words to mean more than their previously assigned
+definitions and exactly what he wants them to.
+iii. Serpentine Syllogisms
+In addition to arithmetic and poetry, logic11 and proofs also serve as structures for
+Carroll to graft his nonsense onto. When she attempts to adjust her size, Alice nibbles on the
+Caterpillar’s mushroom. She grows a ridiculously long neck and terrifys a poor bird while
+attempting to get her head back down to her arms. The Pigeon is convinced that Alice is a
+serpent who desires nothing more than to eat the bird’s eggs. The bird and Alice have the
+following exchange:
+“I’ve seen a good many little girls in my time, but never one with such
+a neck as that! No, no! You’re a serpent; and there’s no use denying it. I
+suppose you’ll be telling me next that you never tasted an egg!”
+11
+
+Logic and mathematics share a very close relationship. In mathematics logic is a frequently
+used tool, especially in the construction of proofs.
+
+22
+“I have tasted eggs, certainly,” said Alice, who was a very truthful
+child; “but little girls eat eggs quite as much as serpents do, you know.”
+“I don’t believe it,” said the Pigeon; but if they do, why, then they’re a
+kind of serpent: that’s all I can say.” (AA 55)
+The Pigeon is using logic to prove Alice is a serpent. The Pigeon knows from experience that
+serpents have long necks, but little girls do not. Since little girls do not have long necks, but
+Alice does, she cannot be a little girl. The set of attributes associated with “little girls” does
+not include “long neck.” Alice possesses this attribute, which places her outside the class
+“little girls.” Serpents however have long necks. They also, like Alice, like eggs. Alice
+possesses the two attributes that the bird uses to define the class “serpents,” which allows her
+to be placed in this class. Therefore, by the bird’s logic, Alice must be a serpent.
+The bird’s proof follows the form of a type of logical argument called a syllogism. In
+a syllogism, the first two statements imply the third. Carroll discusses this concept in his
+Symbolic Logic. However, similarly to Humpty Dumpty, he explains it in words that mean
+exactly what he wants them to mean and which one would have to spend time carefully
+reading his book to understand. However, he does provide several very helpful examples.
+One is “All cats understand French, Some chickens are cats. Some chickens understand
+French” (Symbolic Logic 57). It is clear from Carroll’s example that syllogisms have to the
+potential to be incredibly faulty. In much of mathematics they hold true, but the same cannot
+always be said for real life situations. His example can be simplified to “All c is f. Some k are
+c. Therefore, some k are f.” Another example using variables would be “All a are c. All b are
+c. Therefore, all a are b,” or, even more concisely, “A equals C, B equals C, therefore A
+equals B.”
+
+23
+To rewrite the Pigeon’s syllogism in simpler terms, let Alice be “A,” serpents be “S,”
+and eggs be “E.” Therefore, Alice liking eggs can be written as A equals E. Similarly, S
+equals E. Since A equals E and S equals E, A equals S. The Pigeon’s other assumptions can
+be written this way as well. Little girls do not have long necks, Alice has a long neck, and
+therefore Alice is not a little girl. In slightly more simplified and mathematical variables, G
+does not equal N, but A equals N. Therefore, G does not equal A. Similarly, serpents have
+long necks, Alice has a long neck, and therefore Alice is a serpent. Thus, S equals N, and A
+equals N. Therefore, A equals S.
+Despite the fact that the Pigeon is using a logical method of deduction, her proof that
+Alice is a serpent seems like obvious nonsense. “This argument is formally valid” (Buchalter
+332), but the result seems entirely implausible. Alice, despite her many changes is still a little
+girl. Or is she? Alice herself expresses some doubt over this fact when she “remembered the
+number of changes she had gone through, that day” (AA 55). From the view of the reader,
+who comes from Alice’s world where little girls cannot change into serpents, the logic must
+be nonsense because this type of transformation exists outside their mental scheme and this
+seems impossible. It exists outside of Alice’s too; or rather it did before she tumbled down
+the rabbit hole. Alice is starting to doubt her old set of rules and starting to adjust to and
+adopt the laws of Wonderland. The idea that she may have been changed into a serpent is not
+as improbable as it was before.
+The Pigeon’s is not the only syllogism in Wonderland: the Cheshire Cat utters one as
+well. Before its preposterous proof that it is not sane, the Cat tells Alice, “we’re all mad here.
+I’m mad. You’re mad…you must be…or you wouldn’t have come here” (AA 66). All beings
+in Wonderland are mad, Alice is a being and she is in Wonderland, therefore Alice must be
+
+24
+mad. Once again, logical structure is maintained, but as we will soon discuss, the
+disappearing cat is a little confused by what madness is. So despite the seemingly sturdy
+syllogism, the Cat’s claim loses all weight.
+iv. Preposterous Puss’s Proofs
+Equally nonsensical to the syllogisms is the Cheshire Cat’s “proof” that it is mad.
+When Alice tells the Cat that she does not wish to “go among mad people,” the Cat famously
+tells her “Oh, you can’t help that…we’re all mad here. I’m mad. You’re mad” (AA 66).
+Alice inquires as to how the Cat knows it’s mad, leading to the following exchange:
+'To begin with,' said the Cat, 'a dog's not mad. You grant that?'
+'I suppose so,' said Alice.
+'Well, then,' the Cat went on, 'you see, a dog growls when it's angry,
+and wags its tail when it's pleased. Now I growl when I'm pleased, and wag
+my tail when I'm angry. Therefore I'm mad.'
+'I call it purring, not growling,' said Alice.
+'Call it what you like,' said the Cat. (AA 66)
+I include the entire quotation because there is much to be said about it. Firstly, it
+contains an example of Carroll’s play with language that is quite similar to the
+commutative property. The Cat presents Alice with the statements “a dog growls
+when it's angry, and wags its tail when it's pleased” and “I growl when I'm pleased,
+and wag my tail when I'm angry.” These can be rewritten using variables as “x when
+y, and s when t” and “x when t, and s when y.” In this form, “y” and “t” are switched.
+The rearrangement of these variables has a similar purpose of the previous example.
+
+25
+The Cheshire Cat is using the rearrangement to highlight the differences between it
+and a dog in order to “prove” his insanity.
+This passage is also interesting because it is reminiscent of a proof12. In mathematics,
+a proof is an argument used to show an initial statement or proposition is true. Proofs are
+usually written in paragraph form and depend heavily on logic. In his book The Universe in a
+Handkerchief, Martin Gardner says, “In logic and mathematics you cannot prove a theorem
+except within a formal system based on a set of posits or assumptions” (72). This formal
+system is that of proofs. He also summarizes a problem with proofs that Carroll discussed in
+“What the Tortoise Said to Achilles.” Gardner begins by questioning the verity of the
+assumptions proofs are based on. He says that:
+To prove them you have to make additional assumptions, and to prove those
+assumption requires still further posits. You thus seem to be trapped in an
+infinite regress. Deductions can never reach absolute certainty. You are forces
+to stop at some point and accept a set of posits as true by an act of faith. (The
+Universe in a Handkerchief 72)
+In the study of literature, the closest equivalent of a proof in purpose may be an
+analytical essay, though proofs are perhaps more rigorous. However, in his essay
+“Mathematics and Narrative: Why Are Stories and Proofs Interesting?,” Bernard Teisser
+compares proofs to narration. He states that narration “provides vicariously the experience of
+a path in a set (or a graph) of interactions among characters” (Teisser 232). He continues
+“proofs are also…paths in a graph of logical interactions between statements,” but that the
+
+12
+
+The Cheshire Cat’s argument is also similar to a technique often employed in the bible
+called chiasmus (Quinn 95). Though the two techniques are still quite different, it is
+interesting to note this especially considering Carroll’s religious studies.
+
+26
+mathematician “has more difficulty identifying with the ‘characters’ of the proof…while the
+understanding of a narration is usually direct, the understanding of a proof is more often in
+the nature of a sudden illumination” (Teisser 233).
+There are many different types of proofs, or rather different tactics that
+mathematicians use to prove something. The Cat’s argument is most similar to a proof by
+contradiction. Using this approach, a statement is validated by showing that if it were false, a
+logical contradiction would occur. According to the Cheshire Puss’s proof, if the Cat was
+sane, it would growl when angry and wag its tail when pleased. However, it does not. This
+contradiction must mean that it is mad. The problem here is of course the Cat’s definition of
+sanity13. By its definition, most animals with tails are mad. Additionally, this may imply that
+all humans and animals who do not possess a tail would be considered mad, simply because
+they cannot wag their nonexistent tail when pleased. The Cat groups itself in the same class
+as a dog. The entire argument is based on the initial assumption that cats and dogs belong in
+the same class and thus can be diagnosed by the same definition of madness. However, while
+cats and dogs do share some attributes, they do not have enough in common to belong to the
+same class when it comes to defining sanity. The Cat’s faulty initial assumption causes the
+entire proof to loose its validity. Once again, structure is maintained while meaning is
+missing.
+Both the Cheshire Cat and the Pigeon base their proofs on a single assumption: that
+their definition, of sanity and serpents respectively, is the correct one. They take their
+assumptions on faith just as, as Gardener points out in The Universe in a Handkerchief, any
+mathematician must at some point do. To these two creatures their posits are fact and so their
+13
+
+George Hubbell points out that, “we are not mad. We have saved ourselves from any such
+calamity by a definition; by defining madness relatively” (Hubbell 387).
+
+27
+proofs hold true. However, to Alice and the reader, both of who function with an entirely
+different set of basic assumptions and posits, the conclusions of the Cat and Pigeon are utter
+nonsense.
+v. Alice
+Before allowing this chapter to conclude, I must discuss one more structure Carroll
+employs to create confusion: Alice herself. It has occurred to many a reader of Alice’s
+Adventures in Wonderland that something about Alice seems a little off. She unknowingly
+recites multiplication facts in a base that is not ten, cannot recite the poems she used to know,
+and frequently tries to treat words as variables. In addition to being able to recite
+multiplication facts in bases other than ten, Alice seems to be aware of contemporary
+mathematical treatises. During the trial of the Knave of Hearts, Alice says, “I don’t believe
+there’s an atom of meaning in it” (AA 122). It seems rather odd that a seven year old child
+would know such a word such as “atom” well enough to be comfortable using it, not to
+mention using it correctly. In addition to this, Helena Pycior points out that mathematician
+Augustus De Morgan introduced a chapter of his 1849 work Trigonometry and Double
+Algebra with the sentence, “With one exception, no word nor sign of arithmetic or algebra
+has one atom of meaning throughout this chapter…” (Pycior 149). Whether this was a
+conscious or unconscious reference on Carroll’s part cannot be said. The significance is that
+now Alice has made the reference. Carroll has created a paradox: a little girl who knows
+advanced mathematics.
+As a seven-year old girl, Alice begins as a familiar concept in the reader’s mind.
+However, this is entirely undermined throughout her adventures in Wonderland. Alice is
+constantly forced to question her own identity. She wonders if she has “been changed in the
+
+28
+night” (AA 23) and when the Caterpillar asks her who she is Alice replies, “I hardly know”
+(47). Then there are the unsettling implications of the Pigeon’s syllogism. Alice has been
+changed so dramatically that the structure we cling to define her is threatened and we must
+ask which has failed: logic or our conception of Alice? The failure of logical reasoning is in
+itself unsettling, but the idea that Alice may not just be the little girl of seven we perceived
+her to be is perhaps an even less approachable idea. The Cheshire Cat’s syllogism and proof
+raises similar concerns as well. Though they are easily debunked, these issues cause us to
+question Alice’s sanity, and this leads to queries about her identity.
+The way in which Carroll manipulates Alice is reminiscent of the way in which he
+alters “Against Idleness and Mischief. ” He maintains the form of each, but empties them of
+their original meaning while gives them new ones. He maintains the structure of Alice, but
+changes some key elements. She remains a little girl of seven who has had to memorize
+boring, generic lessons all her life and turns to them as her primary form of knowledge and
+identity, but Carroll removes key components of these lessons. He fiddles with the structure
+of the multiplication she has learned and strips words and didactic meaning from the poems
+she has memorized. He replaces what he has removed with new words, meaning, and his own
+mathematical inclinations. Alice maintains her general understanding of the universe, even
+when the way in which she interacts with it is changed and sits outside her own realm of
+comprehension. Her structure is still secure, but her contents are changed. Alice, therefore,
+becomes a parody of herself.
+Alice’s altered multiplication facts and poems, and the problematic proofs of the
+Pigeon and Cheshire Cat are all classic examples of how Lewis Carroll borrows well known
+or familiar structures to graft his nonsense onto. However, they also serve another function.
+
+29
+The alterations to the knowledge stored in Alice’s mind and the unsettling implications of the
+Pigeon and Cheshire Cat using logic to question the fundamentals of her identity lead to the
+conclusion that Alice herself is a paradox and a parody, and therefore is an element of
+Carrollian nonsense.
+
+A grin without a cat.
+
+30
+Chapter II: The Mad Adder
+
+Alice joins the Hatter, Hare, and Dormouse for tea.
+
+Gardner informs us that Ellis Hillman suggested that if one drops the H from “Mad
+Hatter” it sounds like “Mad Adder.” Such a description could be used to describe a
+mathematician, “perhaps Charles Babbage, a Cambridge mathematician widely regarded as
+slightly mad in his efforts to build a complicated mechanical calculating machine” (AA 70
+note 1). Even if the Mad Hatter did not prove to be the Mad Adder, the nickname could be a
+very appropriate description for Lewis Carroll himself. While we have already seen from his
+proof that two times two equals five that his actual arithmetic can be a little mad, what really
+makes Carroll a mad adder is his addition of mathematical structure to his linguist play. The
+result of this addition is that the author treats words, and characters, as variables in a formula.
+The most common mathematical form he applies to his language is the commutative
+property. This application can be seen many times throughout the Alice’s Adventures in
+Wonderland with several different results. However, it is not the only mathematical theory
+Carroll leans upon. As Bayley proposes, Carroll modeled the entire Mad Tea Party scene on
+a concept called quaternions. By allowing mathematics to serve as structure for his linguistic
+
+31
+play and narration Carroll points out paradox, creates perplexing situations and character
+behaviors, and strips sentences of meaning.
+i. I x what I y, I y what I x
+There are several instances throughout Alice’s Adventures in Wonderland in which
+Carroll applies the commutative property to language. However, the most memorable occurs
+in an exchange between Alice, the Hatter, Hare, and Dormouse (the other instances will be
+discussed in the next chapter). The Commutative property states that when adding or
+multiplying a numeral or variable you can change the order in which the values occur within
+the operation and still have the same result. For example14, a plus b is equal to b plus a.
+Similarly15, a times b equals b times a. In other words, an equation is commutative if a plus b
+is equal to b plus a. This property always holds true for everyday addition and multiplication.
+However, in more complex and more abstract areas of mathematics (such as quaternions
+which will be discussed later in this chapter) the commutative property does not always hold
+true.
+Carroll frequently uses the commutative property in his linguist play. In their
+discussion of the Hatter’s riddle (“Why is a raven like a writing-desk"), the March Hare tells
+Alice, “you should say what you mean.” Alice responds, “I do…At least—at least I mean
+what I say—that’s the same thing you know” (AA 70-71)16. The Hatter, beginning a series of
+linguistic examples of the commutative property, tells her, “you might as well say that ‘I see
+
+14
+
+a+b=b+a
+a×b=b×a
+16
+David Nelson alerted me to the refrain that runs through Horton Hatches the Egg by Dr.
+Seuss, which is “I meant what I said/And I said what I meant…/An elephant’s faithful/One
+hundred per cent!” Whether Dr. Seuss was making specific references to Carroll I cannot say,
+but it seems likely that the Mad Tea Party was floating around somewhere in Dr. Seuss’s
+subconscious while writing.
+15
+
+32
+what I eat’ is the same thing as ‘I eat what I see’!” (AA 71). In her statement, Alice allows
+“what” to be the operation and “I mean” and “I say” to be the variables that she rearranges
+the order of. The other members of the tea party use the same method of rearrangement on
+their sentences to prove by contradiction that language is not universally commutative. The
+Hatter, Hare, and Dormouse’s sentences become formulaic. All three follow the same pattern
+in their responses: ‘I a what I b’ equals ‘I b what I a’. In each of their examples, as well as
+Alice’s initial statement, a and b are verbs. Unlike many mathematical formulas, in the
+English language order plays a key role in determining meaning; “language is not reversible
+like mathematical equations” (“Alice’s Journey” 317). Mathematics and language function
+with different rules. When the order of words is altered in a sentence, the meaning of the
+original sentence is stripped from it and entirely altered, whereas in mathematics the meaning
+(usually) remains constant.
+Interestingly enough, Alice’s two statements are not all that different. ‘I mean what I
+say’ and ‘I say what I mean’ are perhaps more different in tone than actual meaning. As
+Lecercle says, “the speaker is always torn apart between the two poles of the contradiction of
+language, ‘language speaks’…and ‘I speak language’” (Lecercle 3). “I say what I mean”
+implies “full control” of an utterance, where as “I mean what I say” gives more agency to the
+language itself. While technically these two statements may be slightly different, colloquially
+they are the same, as Alice knows, but the Hatter, Hare, and Dormouse refuse to accept. As
+George Hubbell says, “in a particular case…her statement of identity of meaning might very
+well be true. It is only when one generalizes the statement into a rule that it obviously
+becomes false” (Hubbell 395). Sometimes the commutative property actually does work
+when applied to language, but it frequently does not. This is very similar to advanced
+
+33
+mathematics. At some point in every modern mathematician’s career comes the mildly
+upsetting lesson that the commutative property doesn’t hold for all systems of math (such as
+matrices and quaternions). In math this is simply fact, sad but true. In language, it is an odd,
+paradoxical quirk, which when pointed out by example makes nonsensical linguistic play.
+According to Lecercle, nonsense often deals in paradox. It follows the structure of
+language, or in this case math, but at the same time subverts meaning. Alice’s two
+statements, ‘I mean what I say’ and ‘I say what I mean’, are essentially the same, but the
+statements of the Hare, Hatter, and Dormouse are not. The same structure, or linguistic
+formula, is followed, but it results in paradox. Carroll applies the structure of the
+commutative property to language, gives one case where it holds true, where the original
+meaning remains intact, and then three more where it does not. In the cases where it does not,
+the significance of the original statement is violently stripped and replaced with meaning that
+is far less applicable to Alice’s understanding of the world (the phrase ‘I see what I eat’ is far
+more applicable in general, and has a very different meaning, than ‘I eat what I see,’ which is
+a phrase that would imply the speaker eats many inedible things). This paradox creates
+nonsense.
+In applying the commutative property to language, Carroll treats words as arbitrary
+variables that can be plugged into a linguistic formula. The ‘I say what I mean’ and ‘I mean
+what I say’ incident is not the only time Carroll treats words as variables in the “Mad Tea
+Party” chapter. In her article “At the Intersection of Mathematics and Humor: Lewis Carroll's
+"Alices" and Symbolical Algebra,” Helena Pycior points out another example. During the
+Dormouse’s attempt to tell a story about three little girls who lived at the bottom of a well
+and live on treacle, Alice, who finds the entire story very confusing, inquires as to what the
+
+34
+little girls drew from the well. Upon receiving the answer “treacle,” she says, “But I don’t
+understand. Where did they draw the treacle from?” The Mad Hatter replies, “You can draw
+water out of a water-well…so I should think you could draw treacle out of a treacle well—
+eh, stupid?” (AA 76). As Pycior explains, “The structure of the two sentences is the same
+(you can draw b out of a b-well), but the content is different.” She explains that there are
+nouns that when plugged in for b “leave the sentence with no empirical significance”17. She
+argues that, “emphasis on structure over meaning…can lead to nonsense” (Pycior, 167). Poor
+Alice would most certainly agree.
+ii. Commutative Cats (and Bats)
+The “Mad Tea Party” is not the only occasion where Carroll plays with language by
+applying the commutative property to a sentence or where he treats words as arbitrary
+variables to be played with. While falling down the rabbit hole, Alice wonders to herself,
+“'Do cats eat bats? Do cats eat bats?' and sometimes, 'Do bats eat cats?'” Since she could not
+answer either question, Alice felt that “it didn’t much matter which way she put it” (AA 14).
+The reversal here is clear. By applying the commutative property to this sentence Carroll
+changes “do x eat y?” to “do y eat x?” Similarly to equations, these questions both have
+answers. With the commutative property x+y equals y+x and vise versa, but both must also
+equal some other single number. Since “do cats eat bats?” and its counterpart are questions,
+like x+y and y+x, they also have answers. “Do cats eat bats” may actually equal “do bats eat
+cats?” if the answers to each question are the same. However, even if the answers are
+
+17
+
+As Peter Hunt says on page 43 of The Oxford Handbook of Children’s Literature “the
+treacle well is not a nonsense invention: an early meaning of treacle was “balm” or
+“medicine/medicinal,” and there are several medicinal or treacle wells in Oxfordshire. Alice
+would probably have known of such a well.” While this is perhaps true of Alice Liddell, the
+book’s Alice vehemently declares that “There’s no such thing!” (AA 75).
+
+35
+identical, the meaning of each query will still differ. The answer to one will lend insight into
+the dietary preferences of cats and the other of bats. Following the same structure in forming
+a question may allow for a consistency of answers, but it does not allow for consistency of
+meaning.
+Alice’s repetition of her initial query adds another level of nonsense to this scene. She
+repeats “do cats eat bats” so many times that the answer and meaning becomes entirely
+irrelevant. Structure is maintained, but multiplied so many times it looses significance.
+Lecercle says that “this compulsive repetition contributes to the meaninglessness of the
+stanza” and that “Carroll himself noted the ‘curious phenomenon…that if you repeat a word
+a great many times in succession…you will end by divesting it of every shred of meaning,
+and almost wondering you could ever have meant anything by it” (Lecercle 23). Alice’s
+repetition makes the answer of her query entirely irrelevant, thus undermining the entire
+purpose of a question. By the time she asks, “Do bats eat cats?” the meaning of a question is
+general is no longer a factor in the equation. Both questions are thus stripped of meaning.
+Cats and commutativity come up again when Alice encounters the Cheshire Cat.
+After having a conversation with Alice, the Cheshire Cat takes its time disappearing, and
+eventually is entirely gone except for its grin. Alice remarks, “'Well! I've often seen a cat
+without a grin…but a grin without a cat! It's the most curious thing I ever saw in my
+life!'”(AA 67)18. In this case, “cat” and “grin” can be treated as arbitrary variables. If we allow
+“cat” to be represented by x and “grin” by y, we can rewrite the sentence “a x without a y...a y
+without a x.” This example is different from Alice’s word play when tumbling down the
+rabbit hole and the Hatter, Hare, and Dormouse’s linguistic lesson in “The Mad Tea Party.”
+18
+
+Interestingly enough, Gardner remarks in a footnote in The Annotated Alice that “the
+phrase ‘a grin without a cat’ is not a bad description of pure mathematics”(68 note 11).
+
+36
+Alice is not playing with language for play’s sake, and she is not making the assumption that
+these two phrases equate to the same thing. Rather, she is using the commutative property to
+emphasize the difference between her understanding of how her world is supposed to work
+and the rules that govern Wonderland. In Wonderland a grin doesn’t need a cat; it can exist
+independently. By the rules of the world above ground, this is an entirely nonsensical
+concept. In Alice’s world a grin is an attribute that is always attached to a thing, but in
+Wonderland “an attribute without a subject” (“Alice’s Journey” 320) is an acceptable
+occurrence.
+Alice’s Adventures in Wonderland is not the only place in which Carroll has a
+character treat words as arbitrary variables to create nonsense, or to prove a point. In his play
+Euclid’s Modern Rivals, two mathematicians are discussing a new mathematical proposition
+they disagree with. The play’s main character, Minas, says, “So far as I can make it out, Mr.
+Cooley quietly assumes that a Pair of Lines, which make equal angles with one Line, do so
+with all Lines. He might just as well say that a young lady, who was inclined to one young
+man, was ‘equally and similarly inclined’ to all young men!” (Euclid and His Modern Rivals
+3). This is remarkably similar to the technique that the Hatter, March Hare, and Dormouse
+employ in Alice’s Adventure’s in Wonderland to show Alice that the English language is not
+commutative. In both cases, structure is maintained and meaning is twisted or changed.
+iii. Variables without Time
+The commutative property is not the only mathematical structure that helps form
+Carroll’s nonsense. As Melanie Bayley proposes in her article “Alice’s Adventures in
+Algebra: Wonderland Solved,” it is possible that the entire Mad Tea Party is an analogy of a
+mathematical concept called quaternions. In her article, Bayley explains that the Mad Tea
+
+37
+Party (as well as the trial, Cheshire Cat, and the Duchess’s baby) were all absent from
+Carroll’s original manuscript of Alice’s Adventures in Wonderland (originally called Alice’s
+Adventures Under Ground). During the nineteenth century, “many new and controversial
+concepts, like imaginary numbers, [were] becoming widely accepted in the mathematical
+community” (Bayley). Bayley argues that in the scenes added post-Alice’s Adventures Under
+Ground, Carroll, who was a rather conservative mathematician, aimed “fierce satire”
+(Bayley) at his colleagues and the new mathematics they had begun to embrace.
+During her article, Bayley proposes that the Mad Tea Party is based on a concept
+discovered by Irish mathematician William Rowan Hamilton in 1843 called quaternions.
+This concept “was being hailed as an important milestone in abstract algebra, since they
+allowed rotations to be calculated algebraically” (Bayley). Quaternions, Bayley explains, are
+members of a number system based on four terms. Hamilton apparently spent several years
+working with only three terms, “but could only make them rotate in a plane19. When he added
+the fourth, he got the three-dimensional rotation he was looking for” (Bayley). He connected
+this “extra-spatial unit with the conception of time” (Bayley).
+As Bayley states, “the parallels between Hamilton's maths and the Hatter's tea party
+are uncanny” (Bayley) (she also suggests that perhaps tea party should be read as “t-party”
+since “t” is the variable usually assigned to time in math. This seems a bit of a stretch, though
+Carroll would have probably enjoyed the pun). When one reads this scene with quaternions
+in mind, the Hatter, Hare, and Dormouse become the three terms in a quaternion. The fourth
+term is of course Time, who is absent because he has had a falling out with (or has perhaps
+been murdered by) the Hatter. Just as the three variables of an incomplete quaternion can
+19
+
+A plane is a flat, two-dimensional surface that is often used in geometry. They are most
+frequently represented as rectangles.
+
+38
+only rotate around a plane without time, the three members of the tea party are stuck at their
+table, perpetually rotating around it in order to find clean cups. If Time was to return they
+would be able to move in three-dimensions, rather than just two, and therefore would no
+longer be condemned to circle their table.
+The prospect of the Mad Tea Party being based on quaternions provides an additional
+twist to the Hare, Hatter, and Dormouse’s insistence that language is not commutative.
+Quaternions are non-commutative20. Bayley theorizes that the idea of this, “must have grated
+on a conservative mathematician like Dodgson, since non-commutative algebras contradicted
+the basic laws of arithmetic” (Bayley). Alice’s statement that “I say what I mean” is the same
+as “I mean what I say” is not as non-commutative as the members of the tea party claim it is.
+The meanings, while slightly different, are really rather similar. Possibly, because the Hatter,
+Hare, and Dormouse are the personification of quaternions, commutativity simply does not
+exist in their world in any form. While they are correct that language is not usually
+commutative, they are not necessarily correct that Alice’s statement is entirely false.
+However, to them, order always determines meaning and switching that order will always
+change the meaning.
+Quaternions serve as a macrostructure for the general nonsense of the Mad Tea Party.
+Carroll bases his characters and their actions on this concept, personifying arbitrary variables
+and imagining what would happen to their sanity if they were really trapped rotating around a
+flat plane. Carroll makes math, or what may have been nonsense math in his opinion, come
+
+20
+
+Howard Eves says, “Hamilton was forced…to invent an algebra in which the commutative
+law of multiplication does not hold. The radical step of abandoning the commutative law did
+not come easily to Hamilton; it dawned on him only after years of cogitation on a particular
+problem” (Eves 505).
+
+39
+to life. He even seems to give Time a personality. The situation is mad, the characters are
+mad, and the entire chapter is simply soaked in silliness.
+This scene is nonsensical for several reasons. Firstly, the antics of the Hatter, Hare,
+and Dormouse is disarming and confusing. It is unlikely the reader has ever encountered
+people who act as these characters do, and therefore the mad behavior sits outside of the
+reader’s mental scheme. Furthermore, the parody of a well-known social custom adds to this
+confusion. Instead of getting up and leaving the table after finishing their tea, the Hatter,
+Hare, and Dormouse rotate around to the next set of dishes and have teatime all over again.
+Just as the repetition of “do cats eat bats” causes the answer to Alice’s queries to become
+irrelevant, the endless of tea time and (as a result) the nonstop repetition of tea parties causes
+all purpose and meaning to be stripped from the practice in general, as well as it being
+ascribed a daily time.
+Bayley notes that when Alice leaves the party, the Hatter and the Hare are attempting
+to stuff the Dormouse into the teapot. “This could be their route to freedom,” Bayley says. “If
+they could loose the Dormouse, they could exist independently, as a complex number with
+two terms. Still mad, according to Dodgson, but free from an endless rotation around the
+table” (Bayley). Perhaps they do manage to eventually lose the Dormouse: both the Hatter
+and the Hare appear in Through the Looking-glass, but the Dormouse does not.
+By modeling the “Mad Tea Party” on quaternions Carroll inevitably ends up treating
+his characters as variables. As we have seen, he approaches sentences this way as well. He
+uses the commutative property as the structural force, and then, disregarding semantic
+meaning, treats words as variables that can be reordered with in the sentence. However, these
+are not the only instances or ways in which he treats words as variables. As we will see in
+
+40
+“Chapter III: Mirror Math,” Carroll continues to approach words as a mathematician
+approaches in Through the Looking-glass and What Alice Found There.
+
+Two variables attempt to gain freedom from their endless rotation by
+removing the third from the picture.
+
+41
+Chapter III: Mirror Math
+
+The Queens quiz Alice.
+
+It is important when studying the Alice books to distinguish Alice’s Adventures in
+Wonderland and Through the Looking-glass and What Alice Found There as separate texts.
+They often are grouped together in the popular consciousness (as in Disney’s Alice in
+Wonderland which borrows characters and narratives from both books), but the sequel to
+Alice’s Adventures is different from its predecessor in many ways. Looking-glass borrows its
+underlying structure from a chess problem, which provides the narration with a more
+“systematic progression” (Knoepflmacher 224) than Wonderland. They also differ in the
+method of and intent behind their creation. While Wonderland was fabricated partly on the
+spot for one particular little girl and then added to and edited for publishing, its sequel was
+conceived with the intent to publish. Additionally, Alice herself is a very different character.
+She does not change size or shape in Looking-glass: rather, the creatures around her (such as
+the chess pieces and the Gnat) change and her “memorized poems” no longer come out
+“ventriloquially altered” (198). These differences allow Alice to feel secure in her identity.
+She is “less of a pawn” (196) than she was in Wonderland and thus no longer a structure
+
+42
+Carroll can use to graft his nonsense onto. The mathematical influence on the author’s
+linguistic play also proves to be quite different in the sequel. In Wonderland, Carroll leans
+heavily on previously defined structures, such as arithmetic, popular poetry, logic, and
+proofs. In Looking-glass the mathematics are often more subtle, such as in the case of the
+poem “Jabberwocky” and Alice’s interaction with Humpty Dumpty. In these instances the
+author’s mathematical influence can be seen in the way in which words are treated as
+variables with no or flexible referential values. Even in the more obvious occurrences of
+mathematical linguistic play, such as when Carroll parodies simple arithmetic problems and
+slips an equation into a poem in the chapter “Queen Alice,” the author fiddles with the
+referentality of numbers and words. The result of this play is the denial of clear meaning and
+the creation of perplexing situations.
+i. Beware the what?
+Any discussion of Lewis Carroll’s linguistic play would not be complete without
+touching upon “Jabberwocky.” This poem certainly is not expressed in “terms of our world
+experience” (Teisser 233) and requires a reader to pick it apart to come even vaguely close to
+a “scheme that is” in terms of “our world experience” (233). The first stanza21 of what is
+perhaps Carroll’s most famous nonsense poem appeared in 1855 in Mischmasch, which was
+a part of a series of “periodicals” that Carroll wrote when he was young (AA 148 note 16).
+“Jabberwocky” is strikingly different from “How doth the little crocodile” and “Twinkle,
+Twinkle, little bat” in two key ways. Firstly, it is not a parody poem; it is an original poem by
+Carroll. Secondly, it employs a different form of linguistic play. In “How doth the little
+crocodile” Carroll changes important words of “Against Idleness and Mischief” in order to
+
+21
+
+The stanza was originally presented as a “Stanza of Anglo-Saxon Poetry.”
+
+43
+distort the original meaning and create nonsense. In his parody of “The Star” he replaces key
+words with new names that do not fit with the attributes they are paired with. “Jabberwocky”
+does not aim to alter meaning or employ mismatched attributes. Instead, the author creates
+original verbs, nouns, and adjectives and then, with the use of traditional sentence
+construction and these new words, fashions a poem.
+As Susan Stewart says, “the conjunctions and prepositions are ‘spared’ being turned
+into nonsense” and “the result is an exposure of metonymic relationships as purely
+systematic, as having no context outside of their own conventions” (Stewart 33). In his
+Philosophy of Nonsense Jean-Jacques Lecercle notes “the text is eminently readable…All the
+words can be pronounced, even the coined ones, because they all conform to the phonotactics
+of English” (Lecercle 21). He says that the syntax is also coherent, and that “we can ascribe a
+part of speech to every word” (21). It is semantics where “we draw a blank” (22). The poem
+is nonsense because Carroll’s linguistic play makes it impossible to determine meaning even
+though he follows entirely correct linguistic structure.
+It is possible to analyze this poem the same way we broke down the parody poems in
+“Chapter I”; however, it is unnecessary. In our analysis of “Jabberwocky” our goal is not to
+show that it is logically or formulaically identical to another poem. Rather the goal is to study
+the linguistic structure itself as a type of formula into which the author can plug his nonsense
+words. It is just as useful in this case, if not more so, to break it down linguistically. To
+illustrate this, we shall turn to the first two lines of “Jabberwocky.” These lines state, “Twas
+brillig, and the slithy toves/Did gyre and gimble in the wabe” (AA 148). The nonsense words
+Carroll created for these lines are brillig, slithy, toves, gyre, gimble, and wabe. Let us first
+look at “It was brillig” (I use “It was” as it is the expanded version of “Twas”). Clearly
+
+44
+“brillig” is being used to describe “It,” therefore brillig is most likely an adjective or a noun
+like summer or Tuesday which describes a time. “The slithy” is describing “toves,” so slithy
+must be an adjective and toves a noun. As “gyre” and “gimble” are describing what the
+“toves” did, they must be verbs. Finally, “wabe” is a noun as implied by the fact that it is
+preceded by the preposition “in.” In addition to allowing the supporting words to help us
+determine the parts of speech, Carroll provides various hints in the formation of some of the
+nonsense terms themselves. For instance, it is easy to guess that the word “slithy” is an
+adjective even out of context because of its ending. Adjectives frequently end in “y” (for
+example, nicely, tidy, mighty, etc), whereas verbs and nouns do not. In some ways this makes
+the poem even more confusing. As fluent users of the English language, we can identify the
+parts of speech of these fabricated words, but we cannot determine their meaning. This is an
+odd sort of paradox. They fit into our perception of the English language structurally, but
+carry no referential meaning.
+By employing the methods used in the previous paragraph, one can make a little more
+sense of “Jabberwocky” by analyzing it using traditional linguistic terms, which I have done
+for the first two stanzas of “Jabberwocky” below. The original stanzas are on the left and the
+linguistic breakdown on the right.
+
+45
+'Twas brillig, and the slithy toves
+
+'Twas adjective(2), and the adjective(2)
+
+Did gyre and gimble in the wabe;
+
+noun(1)
+
+All mimsy were the borogoves,
+
+Did verb(1) and verb(2) in the noun(1);
+
+And the mome raths outgrabe.
+
+All adjective(2) were the noun(3),
+
+"Beware the Jabberwock, my son!
+
+And the adjective(1) noun(1) verb(2).
+
+The jaws that bite, the claws that catch!
+
+"Beware the Proper Noun(3), my son!
+
+Beware the Jubjub bird, and shun
+
+The jaws that bite, the claws that catch!
+
+The frumious Bandersnatch!"
+
+Beware the Proper Noun(2) bird, and shun
+The adjective(3) Proper Noun(3)!"
+
+AA 148
+Carroll treats the English language as a type of formula. Structure is maintained, but
+key variables are treated as arbitrary. Mathematicians can use any variable they prefer,
+whether it’s x, y, z, k, etc22, and determine its meaning. It is not against any rule for them to
+borrow symbols from other alphabets or create a symbol to use as a variable. They can apply
+any meaning they wish to their variables, as long as it fits within the structure of their
+formula. For example, let us take the Pythagorean theorem. This states that a squared plus b
+squared is equal to c squared23 where a and b are the short sides of a right triangle and c is its
+
+22
+23
+
+I even once had a teacher who used symbols such as stars and spirals as variables.
+a2+b2=c2
+
+46
+hypotenuse24. One can assign any numerical value to a and b with the result that c represents
+the hypothetical hypotenuse of an imagined right triangle with a and b as sides. However, it
+must be kept in mind that any values applied to a and b must represent the leg of a right
+triangle. While the value for a may be swapped with the value of b, the value of c cannot be
+substituted for either a or b because it is the wrong type of variable. Carroll treats language in
+a similar way. He puts adjectives where he should put adjectives, and nouns where he should
+put nouns. The result is a poem that follows an entirely valid linguistic formula. However,
+while mathematical formulas like the Pythagorean theorem gain value from their result,
+linguistic formulas gain meaning from the implications of their variables. As our poet uses
+words only he knows the meanings of25 it is difficult for us to glean the significance of
+“Jabberwocky.” While the nouns and adjectives he provides are identifiable as their
+respective parts of speech, their referential significance is nearly indeterminable.
+Like a mathematician using arbitrary variables (or Humpty Dumpty who we will
+discuss soon) Carroll can make his nonsense words refer to whatever he wants them to and
+does. He does supply meanings to some of these words (though not all of them), but since he
+24
+
+A right triangle is a triangle that has a ninety-degree angle made up by the two legs of the
+triangle (a and b). The hypotenuse (c) is the third and longest side.
+
+Image From “Pythagorean Theorem”
+<http://mathworld.wolfram.com/PythagoreanTheorem.html>.
+25
+It is entirely possible that these nonsense words were created with no intended meaning at
+all. The Hatter’s famous riddle, “Why is a raven like a writing-desk?,” was originally created
+with no particular answer in mind. It would not be out of Carroll’s character to also create
+words with no meaning.
+
+47
+is free to assign whatever value he wishes, he is also free to change that value if it suits him.
+When he printed the first stanza in Mischmasch he informed his readers that “gyre” means
+“to scratch like a dog,” “gymble” to “screw out holes in anything,” and “wabe” the “side of a
+hill” (AA 149 note 16). In Through the Looking-glass Carroll defines these terms again, this
+time through his character Humpty Dumpty, who Alice asks to help her understand
+“Jabberwocky.” Humpty, who claims that he “can explain all the poems that were invented—
+and a good many that haven’t been invented just yet” (214), tells Alice that “gyre” means “to
+go round and round like a gyroscope,” “gymble” to “make holes like a gimblet,” and “wabe”
+refers to the “grass-plot around a sun-dial” (215).
+ii. The Egghead
+Critics have much to say on Humpty Dumpty. Braithwaite calls him the “masterpiece
+of Lewis Carroll as unconscious logician” and says that the character “is spiritually in
+agreement with those mathematical logicians who insist that the meaning of a mathematical
+proposition is its proof. But it is his uncompromising attitude to words that makes him such a
+logical prophet” (Braithwaite 178). The egghead who helps Alice to understand
+“Jabberwocky” has a unique approach to language. Humpty Dumpty states, “When I use a
+word…it means just what I choose it to mean—neither more nor less.” On this Buchalter
+says, “If he meant by this that he had the right to attach a word to whatever object he pleased,
+he was correct” (Buchalter 332). He continues that “This is the very essence of symbolic
+mathematics where calculations are carried out in symbols, and it does not matter what we
+call them so long as we are consistent” (332). Pycior, who seems to be of a similar mind,
+points out, “Humpty Dumpty makes two points: words (like algebraic symbols) can have
+multiple meanings and he (like the symbolic algebraist) gets to determine those meanings.”
+
+48
+Humpty Dumpty treats words like arbitrary variables and applies whatever meaning
+he wants to them. Arguably, this is not just something done by symbolic algebraists.
+Humpty’s approach to words mimics a mathematician’s approach to variables in general. In
+the world of mathematics, a mathematician gets to choose what a variable stands for. For
+instance, the variable “c” is frequently used to represent the hypotenuse of a right triangle,
+but it is also often used to denote a constant. However, if a mathematician chooses it could
+also refer to a vector, the number forty-two, or anything else that suits the mathematician’s
+fancy, as long as he or she initially inform their reader of what the symbol stands for. Carroll
+believed that logicians had this power too. As Gardner points out, Carroll writes in his
+Symbolic Logic “I maintain that any writer of a book is fully authorized in attaching any
+meaning he likes to any word of phrase he intends to use…every writer may adopt his own
+rules, provided of course that it is consistent with itself and with the accepted facts of Logic”
+(Symbolic Logic 166).
+In his assignment of meaning to words Humpty does not inform his reader of their
+new connotations before using them, and therefore, like a mathematician who forgets to
+define his variables before embarking on a proof, he fails to ensure his readers can follow his
+argument logically. Additionally, as Carroll shows time and time again, words are not
+variables. While a mathematician or logician may assign new significance to words or
+variables, there is no such accepted practice in language. The effect of this is that Humpty
+Dumpty cannot possibly make sense to anyone (at least not anyone from Alice’s side of the
+mirror), but himself. Gardner says, “if we wish to communicate accurately we are under a
+kind of moral obligation to avoid Humpty’s practice of giving private meanings to commonly
+
+49
+used words” (AA 215 note 11). As Peter Hunt says, “It takes a genuine adult egghead to have
+the confidence that his interpretations are the correct ones” (Hunt 41).
+While “Jabberwocky” denies the reader any form of semantic reference by using
+nonsense words, Humpty undermines the referential meaning of words by changing their
+meanings to something entirely unexpected with no warning. When Alice asks Humpty
+Dumpty to explain what he meant by “impenetrability,” which is one of the words he applies
+his own personal meaning to, he says, “I meant by ‘impenetrability’ that we’ve had enough
+of that subject, and it would be just as well if you’d mention what you mean to do next, as I
+suppose you don’t mean to stop here all the rest of your life.” Alice replies, “That’s a great
+deal to make one word mean” (AA 213). She is, of course, quite right. Humpty Dumpty is
+taking several words and phrases and grouping them under one word. This is arguably
+similar to grouping constants, or allowing a variable to equal an equation of other variables
+(for example, x = ab+c) which is a method sometimes used to simplify complex formulas.
+However, while mathematicians define and group variables howsoever they choose, they do
+so in the pursuit of clarity. Their goal is to solve a problem. Carroll’s goal here is entirely the
+opposite: to confuse, baffle, bewilder, entertain, and complicate. Humpty’s needless grouping
+of definitions does not simplify his sentence and allow his audience to see the bigger picture
+as a mathematician’s grouping of variables often does. Rather, it creates confusion by
+stripping meaning from his words and thus rendering his formally constructed sentences
+meaningless. While his language may make perfect sense to the egghead (and perhaps to all
+the other occupants of the looking-glass world), from the view of Alice and the reader, he is
+speaking total nonsense.
+
+50
+Though Humpty follows the rules of mathematics in his approach to language, he
+finds simple arithmetic quite difficult. We see this when the egghead is trying to explain the
+concept of unbirthdays to Alice. Their conversation starts off rather like a lesson might.
+Humpty assumes the role of the teacher and attempts to lead Alice to comprehend the subject
+by asking her a series of questions. He asks her first, “How many days are there in a year?”
+and then how many birthdays she has, and then, as Alice has answered first “three hundred
+and sixty-five” and then “one,” he asks, “if you take one from three hundred and sixty-five,
+what remains?” (AA 212). Alice tells him “three hundred and sixty-four, of course” (212). It
+is at this point that the traditional child-adult, or student-teacher, roles switch. Humpty
+(clearly struggling) “requires the figuring of the sum as well as its expression in words, so
+that he may the better verify the arithmetic” (Sewell 62). Alice humors him and “worked the
+sum for him” (AA 212). This is the only mathematical problem written using numbers instead
+of words in either book. Humpty remains perplexed, finding it to seem “to be done right”
+(212) when he initially holds it upside down and when he finally turns it the right way up. He
+is rather childishly willing to unquestionably accept her as an authority on this basic
+arithmetic. Humpty starts the conversation in the role of the teacher and adult, but ends the
+lesson as the child student with Alice, the child, filling the role of the adult teacher. The
+general structure of a lesson is maintained, but the “inversion of hierarchical relationships”
+(Stewart 68) creates a rather nonsensical situation. Sewell says that nonsense is a collection
+of “events which in their arrangement do not fit into some recognized system in a particular
+mind” (Sewell 3). This role reversal undermines the general scheme of adult teachers and
+child students.
+
+51
+It is also interesting that these numbers all have defined referential values, something
+Carroll frequently denies numbers in the Alice books. The number “365” refers to the days of
+the year and “1” refers to the number of birthdays a year. However, “364” is more
+problematic. It refers to “unbirthdays.” While Carroll does not deny the number a reference,
+he provides one of his own creation. Normally, in this subtraction problem “364” would refer
+to the number of days a year when it is not one’s birthday, but Humpty has redefined this.
+Those 364 days are now not the ordinary, boring, not birthdays, but “unbirthdays” which are
+special and celebratory occasions. By changing the expected referential value of 364, the
+egghead inverts the popular view of birthdays and regular days and created a parody of a
+popular social convention (not dissimilarly to the Mad Tea Party).
+iii. Queenly Math Test
+While Humpty Dumpty’s subtraction sum is perhaps the easiest bit of mathematics to
+spot in both the Alice books, several of the most obvious examples of mathematics in
+Through the Looking-glass occur in the chapter “Queen Alice.” Alice has finally made it to
+the Eighth Square and has been crowned Queen. However, she cannot be Queen until she has
+“passed the proper examination” (AA 251). The Red and White Queen begin her test by
+presenting Alice with several “math” questions. It is perhaps good to pause here and note that
+in both Wonderland and Looking-glass the first subject that is turned to in order to test
+knowledge is mathematics. In Wonderland Alice used the multiplication table to test her
+identity. Here, the Queens primarily ask the girl questions of Addition, Subtraction, and
+Division, or rather the Queens’ versions of each. The White Queen begins the test by
+providing Alice with the addition problem, “What’s one and one and one and one and one
+and one and one and one and one and one” (253). Alice’s response to this query is “I don’t
+
+52
+know…I lost count” (253). Like Alice’s seemingly misspoken multiplication facts in
+Wonderland, this problem is an example of what Hunt would identify as “remorseless logic
+masquerading as nonsense” (Hunt 37). Even though the equation is created by using the
+linguistic equivalent of an addition sign (“and”), as well as the written form of the number
+“one” (rather than the numeral “1”), this is an entirely valid arithmetic problem. However, its
+presentation is confusing. Elizabeth Sewell has this to say on the matter:
+Alice cannot answer, and this is not just an accident…the sum-total is
+unimportant; it is the composition of it that matters for this is to be the
+composition of the universe of Nonsense, a collection of ones which can be
+summed together into a whole but which can always fall back into separate
+ones again. (Sewell 54)
+Here, Sewell takes this one relatively simple arithmetic problem, and connects it the concept
+of literary Nonsense as a whole. However, her phrase “a collection of ones which can be
+summed together into a whole” also describes mathematics, or at least arithmetic, very well.
+At its core, this is perhaps what mathematics is. This is also why this relatively simple sum
+(which amounts to ten) is so nonsensical. While math is a collection of ones, we usually
+approach it in a form where the many ones have been summed into two or three groups, i.e.
+larger numbers. In the White Queen’s problem they have fallen “back into separate ones”
+making the problem technically accurate, but otherwise confusing. By choosing a small sum
+and repeating it “a great many times in succession” (Lecercle 23) Carroll denies the reader
+the knowledge of what the numbers refer to, in other words their sum, thus making the
+problem confusing and nearly incomprehensible.
+
+53
+Later in the exam, the Red Queen asks Alice “Take a bone from a dog: what
+remains?” (AA 253). If one replaces “a bone” and “a dog” with the variables x and y, the
+problem looks like this: Take x from y. What remains?26 This is pretty standard mathematical
+language and not a complicated problem if one knows the values of x and y. Carroll uses
+basic mathematical language, but instead of variables he uses real things, in this case “a dog”
+and “a bone.” He follows the structure of a math problem, but creates nonsense by swapping
+variables or numbers out in preference of nouns. The Red Queen informs Alice that the
+answer to the problem is that “the dog’s temper would remain…the dog would lose its
+temper” (254). She treats the dogs temper as if it is a physical thing, not something abstract.
+She follows the form of the expression “lose your temper,” but allows a temper to be a real
+physical thing that one could misplace. The Red Queen treats “temper” as a word that does
+not refer to something abstract, but as an attribute that can exist without a thing (like a grin
+without a cat), therefore changing “temper’s” referential value. Even Alice thinks they are
+talking “dreadful nonsense” (254).
+iv. The Problem of Negative Numbers
+There is one more example of nonsense math for Alice’s Queen Test that must be
+discussed. Upon deciding Alice is incapable of addition, the Red Queen asks, “Can you do
+Subtraction? Take nine from eight,” to which Alice replies, “Nine from eight I ca’n’t, you
+know” (AA 253). This problem employs the mathematical language we see in “take a bone
+from a dog,” but uses real numbers instead. So why is this nonsense? To any modern adult
+reader the answer to the subtraction sum is negative one. However, to a child or the Victorian
+reader, the answer is not so simple. Carroll made quips about negative numbers in Alice’s
+
+26
+
+In equation form, this would be “y-x=?.”
+
+54
+Adventures in Wonderland as well as in Through the Looking-glass. In explaining the
+history behind her argument in “Mathematics and Humor,” Pycior states the following:
+Although regarded as somewhat questionable when introduced into
+European mathematics during the Renaissance, the negative and imaginary
+numbers emerged as a clearly defined problem only in the late eighteenth
+century, when critics declared that they could form no clear concept of
+either kind of number, and that the standard definitions of both were
+nonsensical. Textbooks of the period defined a negative number as a
+“quantity less than nothing…” (Pycior 151)
+It seems Carroll found the logical paradox of a “quantity less than nothing” rather
+problematic because, as Pycior also points out, he seems to slip in many subtle “quips” about
+negative numbers throughout Alice’s Adventures in Wonderland and Through the Lookingglass.
+In Wonderland, Carroll points out the logically problematic side of negative numbers.
+How can you have less than nothing? The first example of this occurs at the Mad Tea Party.
+The Mad Hatter says in response to Alice’s statement that she cannot take any more as she
+has not had any yet, “You mean you can’t take less [than nothing]…it’s very easy to take
+more than nothing” (AA 75). The Hatter “proclaims the impossibility of subtracting
+something from nothing” (Pycior 164) and forces readers to consider the concept of “less tea
+than contained in an empty cup” (165).
+The concept of negative numbers comes up again when the Mock Turtle discusses his
+lessons with Alice. When Alice asks how many hours of lessons the Mock Turtle had a day,
+he replies “Ten hours the first day…nine the next, and so on” (AA 99). Alice inquires, “how
+
+55
+did you manage on the twelfth?” (99), but the Gryphon, possibly unwilling to address or
+acknowledge the concept of less than zero hours of lessons, quickly changes the subject. In
+both the case of the Mock Turtle’s lessons and the case of Alice’s lack of tea, Carroll points
+out the logical paradox of having a “quantity less than nothing” by presenting physical,
+nonmathematical situations where the concept proves to be nonsensical. Even though
+negative numbers are now common place and do not seen to be problematic at all, these
+instances are still moments of nonsense, and they are still cases of mathematic paradox, albeit
+now historical ones.
+In her book on nonsense, Elizabeth Sewell says, “In logic, nonsense takes the form of
+contradiction, the breaking of the rules of the game” (Sewell 2). By this definition, negative
+numbers can be seen as nonsense, purely by the definition assigned to them in the 1800s. The
+definition breaks the simply rule that ‘you can’t have less than nothing’. This rule is of
+course dependent on how ‘nothing’ is defined. Carroll probably found this definition
+logically problematic or contradictory, though I doubt that he found the concept of negative
+numbers so as their practical application in the idea of debt has been prevalent in economic
+structures for centuries. It is only when one insists that numbers are referential to things, such
+as cups of tea or lessons, that negative numbers becomes problematic. It is interesting that he,
+at least in the Mad Tea Party scene, mentions the definition of negative numbers, but does
+not address the concept itself.
+This brings us back to the Red Queen’s query, “take nine from eight.” This is
+problematic and nonsensical on multiple levels. The fact that the answer is a negative number
+once again brings up the nonsensical, paradoxical definition of negative numbers. There is a
+certain amount of absurdity in such a subtraction sum being presented to a child Alice’s age.
+
+56
+To any seven-and-a-half year old child, whether Victorian or modern, negative numbers exist
+outside the realm of comprehension. At such an age, numbers are still viewed as primarily
+referential to things. The language is what they have come to expect from a subtraction
+problem, and the numbers on their own make sense, but the order is “not quite right” (AA
+52). The correct structure is followed, but meaning is lost because, similarly to the Hatter’s
+statement “I eat what I see” (71), in subtraction sums order determines meaning, and this one,
+in Alice’s young eyes, can have none.
+v. The Final Feast
+Alice’s test is not the last instance of easily noticeable arithmetic. After Alice
+becomes Queen a great feast is thrown for her. It is the point in the book where all pretence
+of order is abandoned in favor of chaos. Knoepflmacher says that when Alice takes the Red
+Queen, and thus wins the game, in her eleventh move, “the victor is not Alice, but an
+invisible opponent who reasserts the Wonderland anarchy he has for so long kept in
+abeyance” (Knoepflmacher 219). He further states that the “systematic progression of the
+first eight chapters is brought to an abrupt halt” at the beginning of “Queen Alice” and that
+“anarchy now returns…the narrator reassumes his Wonderland persona” (Knoepflmacher
+223-224). In the feast scene a song is sung for Alice, the final verse of which is:
+Then fill up the glasses with treacle and ink,
+Or anything else that is pleasant to drink:
+Mix sand with the cider, and wool with the wine—
+And welcome Queen Alice with ninety-times-nine! (AA 254)
+There is a certain amount of absurdity in including an arithmetic problem in a poem. On this
+Sewell says, “two separate series are touched off in the mind. The second, the series of whole
+
+57
+numbers, is not in any way related, by reference, to the first which is a series of things”
+(Sewell 67). Similarly to the twinkling bats and flying tea trays of “Twinkle, Twinkle little
+bat,” none of the things in this poem seem to relate or have enough attributes in common to
+be paired together. The attributes that the things are paired with are entirely outside our
+perception of the world. Ink is not pleasant to drink, or rather it is not something that is
+drunk, and it would be more fitting to welcome a Queen with a cheer or raised glasses than
+an arithmetic problem. Additionally, “ninety-times-nine” does not fit in with the other
+“things” or subjects of the poem. While sand, cider, wool, and wine are all physical objects
+(either liquid or solid), the equation is a mental process. For it to fit in this poem it would
+need to be ascribed to something, be made an attribute of a thing, rather than a thing itself.
+Instead it is merely a collection of numbers with no referential value. Once again the Mad
+Adder has added math and literature and produced nonsense.
+As Alice journeys across the chessboard landscape of the looking-glass world she
+comes across many instances of Carrollian nonsense. These occurrences demonstrate
+mathematical influence in both obvious and subtle ways. In her interaction with Humpty
+Dumpty and her encounter with “Jabberwocky” the nature of the referentiality of variables is
+reflected in the lack of known or consistent referential values of words and numbers. When
+she reaches her goal of crossing the entire chess board and being crowned queen, she
+encounters more examples of this. In this case, the forms of mathematical language and
+numbers are used to create mathematical queries with no logical, referential conclusions or
+purposes. Alice herself, as a little girl of seven-and-a-half, a pawn on the looking-glass
+chessboard, and a queen, is a figure whose referential value is toyed with, changed, and
+added to. While Alice is not a structure that nonsense is grafted onto as she was in
+
+58
+Wonderland, she is a variable in Carroll’s game whose value is dependent upon the author’s
+whims. It is a true combination of mathematics and literature in which the characters
+themselves are treated as variables.
+
+The Red and White Queen take a nap after testing the newly crowned Queen Alice.
+
+59
+Final Thoughts
+I started this project intending to answer the question “How does Lewis Carroll’s
+mathematical background effect his nonsense in the Alice books?” This text is incredibly
+unique in many ways, but its most unique quality is the blend of mathematics and literature
+that form the majority of Carroll’s nonsense. In Alice’s Adventures in Wonderland Carroll
+treats words as variables he can interchange and rearrange to create new semantic meaning.
+He borrows the structure of mathematical properties as a form for his nonsense, and mimics
+proofs and logic to lead his readers to seemingly impossible conclusions. In Through the
+Looking-glass he continues to treat words as variables, but in a very different manner. He
+strips sentences of meaning by changing the definitions of words or providing nonsense
+words with no referential value, and creates arithmetic problems that have no other purpose
+than to confuse and entertain.
+My original question led me down a rabbit hole of discovery in both a mathematical
+and nonmathematical sense. I originally expected Carroll’s linguistic play to rely on many
+more distinct mathematical properties or theorems. While I did find many instances of
+mathematical properties, such as the multiplication table, proofs, commutative property,
+quaternions, and basic arithmetic language, I found that the most extraordinary instances of
+mathematical influence came from a general mathematical mindset in Carroll’s approach to
+words as variables and referential meaning as something to be assigned by the author.
+What led me to my initial question were the books themselves. I turned to them for
+the simple reason that they lie at the intersection of mathematics and literature. These texts
+exist in that intersection not just because Carroll’s mathematics affected his works so much,
+but also because the Alice books have had an impact on the sciences (an area of study which
+
+60
+shares a close relationship with math). It seems that these books, so nonsensical, fanciful, and
+seemingly entirely unscientific, have inspired many a scientist and mathematician, or been
+cited in order to explain a scientific or mathematic concept. Despite my curiosity about it, the
+scientific aspect was never a topic I was able to explore. Gardner added several notes to his
+Annotated Alice mentioning this topic. It is interesting to consider the possibility that these
+books, so heavily influenced by mathematics, may have gone on to have an impact on
+science, though I would not pretend to know what that impact is.
+My curiosity about the Alice books’ potential impact on science and mathematics is
+not the reason I bring this topic up. I mention it because it emphasizes the Alice books’
+unique position as an intersection between two areas of academics that are often entirely
+alien to each other. It is this that drew me to study the Alice books and it is the under
+appreciation of such rare intersection that committed me to these stories. I have a deep love
+and respect for both mathematics and literature, and, not unlike Lewis Carroll himself
+perhaps, I enjoy explorations of both topics. It is the “Mad Adder’s” addition of these two
+seemingly unrelated subjects that makes Alice’s Adventures in Wonderland and Through the
+Looking-glass so wonderful.
+
+Alice emerges in the looking-glass world.
+
+61
+Works Cited
+Abeles, Francine. "Multiplication in Changing Bases: A Note on Lewis Carroll." Historia
+Mathematica 3 (1976): 183-84. Print.
+Bayley, Melanie. "Alice's Adventures in Algebra: Wonderland Solved." New Scientist. Reed
+Business Information Ltd., 16 Dec. 2009. Web. 25 Apr. 2014.
+<http://www.newscientist.com/article/mg20427391.600-alices-adventures-in-algebrawonderland-solved.html?page=3#.U1bGPMfc1DE>.
+Braithwaite, R. B. "Lewis Carroll as Logician." The Mathematical Gazette 16.219 (1932):
+174-78. JSTOR. Web. <http://www.jstor.org/stable/3607745>.
+Buchalter, Barbara Elpern. "The Logic of Nonsense." The Mathematics Teacher 55.5 (1962):
+330-33. JSTOR. Web. <http://www.jstor.org/stable/27956612>.
+Carroll, Lewis. The Annotated Alice: Alice's Adventures in Wonderland & through the
+Looking-glass. Illus. John Tenniel. Comp. Martin Gardner. Definitive ed. New York:
+Norton, 2000. Print.
+- - -. Euclid and His Modern Rivals. New York: Dover, 1973. Print.
+- - -. Symbolic Logic: And, the Game of Logic. New York: Dover Publications and Berkeley
+Enterprises, 1958. Print.
+Cohen, Morton Norton. Lewis Carroll: A Biography. New York: A.A. Knopf, 1995. Print.
+Cooke, Roger. The History of Mathematics: A Brief Course. 3rd ed. Hoboken: John Wiley &
+Sons, 2013. Print.
+Dodgson, Charles Lutwidge, and Francine F. Abeles. The Mathematical Pamphlets of
+Charles Lutwidge Dodgson and Related Pieces. New York: Lewis Carroll Society of
+North America, 1994. Print.
+
+62
+Eves, Howard Whitley. An Introduction to the History of Mathematics. 6th ed. Philadelphia:
+Saunders College, 1990. Print.
+Gardner, Martin. The Universe in a Handkerchief: Lewis Carroll's Mathematical
+Recreations, Games, Puzzles, and Word Plays. New York: Copernicus, 1996. Print.
+Hubbell, George Shelton. "The Sanity of Wonderland." The Sewanee Review 35.4 (1927):
+387-98. JSTOR. Web. <http://www.jstor.org/stable/27534201>.
+Hunt, Peter. "The Fundamentals of Children's Literature Criticism: Alice's Adventures in
+Wonderland and Through the Looking-glass." The Oxford Handbook of Children's
+Literature. By Julia L. Mickenberg and Lynne Vallone. Oxford: Oxford UP, 2011.
+35-51. Print.
+Knoepflmacher, U. C. Ventures into Childland: Victorians, Fairy Tales, and Femninty.
+Chicago: The University of Chicago Press, n.d. Print.
+Lecercle, Jean-Jacques. Philosophy of Nonsense: The Intuitions of Victorian Nonsense
+Literature. London: Routledge, 1994. Print.
+Pycior, Helena M. "At the Intersection of Mathematics and Humor: Lewis Carroll's 'Alices'
+and Symbolical Algebra." Victorian Studies 28.1 (1984): 149-70. JSTOR. Web.
+<http://www.jstor.org/stable/3826762>.
+"Pythagorean Theorem." MathWorld--A Wolfram Web Resource. N.p., n.d. Web. 28 Apr.
+2014. <http://mathworld.wolfram.com/PythagoreanTheorem.html>.
+Quinn, Arthur. Figures of Speech: 60 Ways to Turn a Phrase. Davis: Hermagoras, 1993.
+Print.
+Rackin, Donald. Alice's Adventures in Wonderland and through the Looking Glass:
+Nonsense, Sense, and Meaning. New York: Twayne, 1991. Print.
+
+63
+- - -. "Alice's Journey to the End of Night." PMLA 81.5 (1966): 313-26. JSTOR. Web. 22
+Apr. 2014. <http://www.jstor.org/stable/460819>.
+Seuss. Horton Hatches the Egg. New York: Random, 1968. Print.
+Sewell, Elizabeth. The Field of Nonsense. London: Chatto and Windus, 1952. Print.
+Stewart, Susan. Nonsense: Aspects of Intertextuality in Folklore and Literature. Baltimore:
+Johns Hopkins UP, 1979. Print.
+Teissier, Bernard. "Mathematics and Narrative: Why Are Stories and Proofs Interesting?"
+Circles Disturbed: The Interplay of Mathematics and Narrative. By Apostolos
+Doxiadis and Barry Mazur. Princeton: Princeton UP, 2012. 232-43. Print.
+Tenniel, John. Original illustrations from Alice's Adventures in Wonderland and Through the
+Looking-glass and What Alice Found There. N.d. Lenny's Alice in Wonderland Site.
+Web. <http://www.alice-in-wonderland.net/alice2a.html>.
+Wilson, Robin J. Lewis Carroll in Numberland: His Fantastical Mathematical Logical Life :
+an Agony in Eight Fits. New York: W.W. Norton, 2008. Print.
+
+

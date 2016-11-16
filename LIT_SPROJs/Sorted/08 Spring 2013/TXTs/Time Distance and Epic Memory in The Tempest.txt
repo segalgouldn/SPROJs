@@ -1,0 +1,2752 @@
+Bard College
+
+Bard Digital Commons
+Senior Projects Spring 2013
+
+Bard Undergraduate Senior Projects
+
+2013
+
+Time, Distance, and Epic Memory in The Tempest
+Andrew Nathan Kaplan
+Bard College
+
+Recommended Citation
+Kaplan, Andrew Nathan, "Time, Distance, and Epic Memory in The Tempest" (2013). Senior Projects Spring 2013. Paper 32.
+http://digitalcommons.bard.edu/senproj_s2013/32
+
+This Access restricted to On-Campus only is brought to you for free and
+open access by the Bard Undergraduate Senior Projects at Bard Digital
+Commons. It has been accepted for inclusion in Senior Projects Spring
+2013 by an authorized administrator of Bard Digital Commons. For more
+information, please contact digitalcommons@bard.edu.
+
+i
+
+Time, Distance, and Epic Memory in The Tempest
+
+Senior Project submitted to
+the Division of Languages & Literature
+of Bard College
+
+by
+Andrew N. Kaplan
+
+Annandale-on-Hudson, New York
+May 2013
+
+ii
+
+Thanks to family, friends, professors, everyone who plays a part—
+“Gentle breath of yours my sails
+Must fill, or else my project fails…”
+
+iii
+
+Contents
+
+Preface
+
+1
+
+Chapter 1
+“As over a vast”
+
+4
+
+Chapter 2
+“You taught me language”
+
+32
+
+Chapter 3
+“The voice o’ th’ oracle”
+
+54
+
+Bibliography
+
+84
+
+iv
+
+I speak amazedly, and it becomes
+My marvel and my message.
+The Winter’s Tale V.i.189-90
+
+interea medium Aeneas iam classe tenebat
+certus iter fluctusque atros Aquilone secabat
+moenia respiciens, quae iam infelicis Elissae
+conlucent flammis. quae tantum accenderit ignem
+causa latet.
+Aeneid 5.1-5
+
+1
+
+Preface
+Even the briefest survey of Shakespeare’s canon will show that the playwright’s methods of
+representing time are nearly as great in number as the plays themselves—if not even greater, as a
+single play might have multiple apparent systems of time: for example, Othello, the most
+commonly cited of these, has been described as possessing a “double time-structure,” split
+between what is necessary for the action and what is implied by the dialogue.1 Each particular
+representation of time carries with it generic expectations alongside the possibility for the
+deferral of those expectations, what Katharine Maus calls “troubling departures from the norm.”2
+As early in the canon as Love’s Labor’s Lost, (written sometime before 1598), Shakespeare was
+experimenting with his audience’s perception of the time-scale of the action they are witnesses to.
+As the play comes to a close, the lords of Navarre abruptly find themselves dealing with
+deferred expectations—narratological as well as erotic. In a strikingly self-aware exchange, Lord
+Biron (in a rare public display of sincerity) expresses his sense of denial in a metatheatrical
+complaint.
+BIRON
+
+Our wooing doth not end like an old play:
+Jack hath not Jill; these ladies’ courtesy
+Might well have made our sport a comedy.
+
+KING
+
+Come, sir; it wants a twelvemonth and a day,
+And then ‘twill end.
+
+BIRON
+
+That’s too long for a play.
+V.ii.2817-21
+
+Biron connects the fulfillment of generic expectations, as well as validation of the time spent
+attending (or being a character in) a play, to the attaining of certain foreseen goals. Upon
+
+1
+
+Sproule, Albert Frederick. “A Time Scheme for Othello,” in Shakespeare Quarterly, 7.2 (1956), 217-226.
+
+2
+
+Maus, Katharine Eisaman. “Shakespearean Comedy,” in The Norton Shakespeare, 2009. 106-7.
+
+2
+knowing that we are going to see a comedy, we will expect to witness (according to Biron) both
+the separation of “Jack” and “Jill” figures and their reunion. Both the origin of the situation and
+its resolution must be timely; we have neither the patience nor the theatrical resources to
+represent “a twelvemonth and a day.” King Ferdinand, replying in the context of actual life
+outside the theater, is seemingly much less aware than Biron of his own status as an actor, who
+senses that if his desires’ fulfillment are deferred beyond the limits of theatrical representation,
+they are in effect lost to him entirely.
+What happened between the years of 1598 and 1611 to account for the tectonic shift in timestructures from comedies such as Biron’s to late plays such as The Winter’s Tale? In the latter
+work, Time Personified enters after the drama has run half its course, and asks for our
+cooperation.
+Impute it not a crime
+To me or my swift passage that I slide
+O’er sixteen years and leave the growth untried
+Of that wide gap, since it is in my power
+To o’erthrow law, and in one self-born hour
+To plant and o’erwhelm custom…
+I turn my glass, and give my scene such growing
+As you had slept between.
+IV.i.4-17
+
+As spectators of Love’s Labor’s Lost we found ourselves thwarted by the limits of theatrical
+representation; here in this later play, we are asked to suspend our disbelief during a leap of not
+only Ferdinand’s “twelvemonth and a day” but a full sixteen years. Ricardo Quinones writes that
+comedy has a way of constantly thwarting our expectations of time-structure, noting
+aphoristically that “there is no clock in the forest of Arden.”3 But the later plays, commonly
+dubbed romance, do not adopt their time-forms out of carelessness for their characters or
+spectators, as Quinones seems to imply about the earlier comedies. Indeed, Time is a principal
+
+3
+
+Quinones, Ricardo J. The Renaissance Discovery of Time. Cambridge: Harvard University Press, 1972. p. 413.
+
+3
+theme among the last plays, and each one is carefully planned to reflect differing aspects of its
+passage. The Tempest is particularly eloquent in this respect, as it says the most about time and
+how we perceive it while taking up the least temporal space—by far—of any play in the canon.
+The Tempest is a play with many voices. Every play is comprised of voices, but the texture of
+the exchanges in The Tempest gives it a unique and inimitable style. The play does not silence
+the dissonance that arises from its many contending voices and contending accounts of the play’s
+hidden past. Out of its peculiar situation in time, the play can be analyzed in ways which others
+in the canon either could not stand up to or through which they could not yield anything of note.
+Viewing The Tempest through the lens of epic poetry, with an eye on the operation of time in and
+around the play can yield insights into the play’s antecedents, the perspectives of its characters,
+and its outlook on the world.
+This project, concerned with memory, storytelling, narration, and language, is divided into
+three parts. First, we examine the nature of epic narratives, storytelling across distance, and both
+the characteristics and the complications present in the form as represented in The Tempest and
+one of its models, Virgil’s Aeneid. Second, we examine language, the fundamental building
+block of storytelling, and its significance as a microcosm of the whole system of narrative in the
+play. Third, we examine the point towards which these aspects of storytelling tend as well as
+alternatives to oral retelling in the last plays. In conclusion, we take all these forms of accounts
+together and look with a widening perspective on memory in the canon, inside and outside of
+The Tempest.
+
+4
+Chapter 1
+“As over a vast”
+
+The presentation of time in The Tempest stands alone in the Shakespearean canon. No other
+play takes place in one single day besides The Comedy of Errors, and despite this exception The
+Tempest still stands alone since its time-structure is not, as Errors’ is, intended to conform to a
+theory of unity or some measure of theatrical decorum.4 The Tempest, having certainly no
+theatrical example to pattern itself after, is a much different matter. About four hours are said to
+elapse during the play, between I.ii.41, which is “at least two glasses [past the mid season]” and
+V.i.4, “on the sixth hour.” Although the acting of the play takes approximately two hours,5 The
+Tempest is as close as Shakespeare ever comes to presenting an entire five acts in real time. It is
+not, strictly speaking, real time, since we are shown events that must be occurring
+simultaneously or that require a small amount of intervening time; nor is it real space, since we
+must move, from scene to scene, around various spots on the island. But nonetheless it can be
+said (though perhaps surprising at first) that in The Tempest, among the most fantastic of plays in
+the canon, Shakespeare requires our suspension of disbelief as little as possible. Spectators might
+reasonably be requested to “eke out [the] performance with your mind” when the stage presents a
+Harpy (as in III.iii), or to honor Henry V’s chorus and imagine “the vasty fields of France”
+confined within the theater. To request these things of an audience is to request suspension of
+visual disbelief, which entails the self-conscious production of an illusion, whether undertaken
+by the players or by each of the spectators for him- or herself. It is another thing entirely to
+4
+
+Moreover, the unity of The Comedy of Errors does not represent a dramatic decision or judgment on
+Shakespeare’s part, as the play is an imitation of Plautus and the setting and duration are thus the responsibility of
+the earlier playwright. While episodes in Shakespeare’s adaptation are developed in original ways—for example,
+Errors does not take place in a single location as the Menaechmi does—the concept of the play is indebted so deeply
+to Plautus that its presentation of time (which unlike the setting is “unified”) cannot be stated unequivocally as
+Shakespeare’s invention.
+5
+Corroboration: the BBC’s 1980 video version is 124 minutes long: just over “two hours’ traffic.” Alonso
+offers an estimate of “three hours” at V.i.189.
+
+5
+present spectators with a set of actions within the “two hours’ traffic” of the stage and request an
+audience to believe that they have been occurring over two weeks, one month, one year, sixteen
+years, or what you will. The Tempest does not require this of us. Though it may be among the
+most dreamlike of plays, its sense of time is the most real, and the most immediately sensible to
+us as recipients of the text or of the performance. What I mean by this is that the mindset of one
+attending a performance of (or otherwise experiencing) the Tempest is that of the present, in
+many respects—most importantly as the play interacts with its past and with its future.
+The Tempest shares with us, men and women living in time, the remoteness of our past and
+the mystery of our future. The outlook on past and future within the play is the same as our own,
+at any given moment. We cannot compress the time between events, nor can we relive the past
+tangibly, through our senses. For these reasons, The Tempest is uniquely structured to engage
+issues of memory, re-narration, and expectations. In a world (our world) where the past is
+invisible yet shapes who we are and what we do, memory assumes a position of the utmost
+importance. It is the foundation of the play and the interactions within it. The action we witness
+(comparable to the tip of the proverbial iceberg) is the product of all the accumulated past action
+that has culminated in the present moment, when “project[s] gather to a head.” This
+accumulation is true of every moment in any drama, but the difference is that in The Tempest, as
+in life, we do not see the deep past (and the causes of later events, which it contains) juxtaposed
+with the event of the present. In our natural perception, we do not see Iago’s temptation and its
+disastrous effects within the same two hours. Time Personified does not encounter us at a
+convenient moment to announce a gap of sixteen years. All things must develop as they will, and
+in any two- or four-hour span much will have to be recalled and retold if our actions are to make
+any sense. There is no other way than to recall those many causes; there never will be.
+
+6
+These concerns (or rather, these conditions arising from the structure of the work) are not
+unique to Shakespeare or even to drama; they have much in common with classical epic. Of
+course, the time-scale of epic is not comparable to the play (that is, in epic’s much vaster scope,
+not in its representation), but the preoccupation with memory, recall, re-narration, and the past
+causes of present events is characteristic of the genre, and especially of Virgil’s Aeneid. To say
+that Virgil’s poem is a nearly constant presence in The Tempest is nothing new. Much has
+already been written about the relation of the two works in terms of their dramatic and thematic
+elements, their characterization, and episodes similar in each. Geographically, the shipwrecked
+Neapolitan characters themselves are aware of the fact that they are retracing Aeneas’ route from
+the old site of Dido’s city to Naples, near the site of Aeneas’ first landfall on the Italian peninsula.
+Their awareness of the poem surfaces most visibly in II.i but is present throughout the entire play.
+Jan Kott writes that both the characters and the playwright know that the poem is a “key” to the
+play, a source of light to throw the heart of The Tempest into relief.6
+The insistent allusions to “widow Dido” seem to be what Roman Jakobson would call a
+“metalingual” sign, supplying the receiver with the code in which a message is to be
+encoded. Shakespeare is telling us: “Remember the Aeneid.” (424)
+
+The sign is undeniable. However, Kott and other writers on the comparison focus mostly on plot
+points, dialogue, or the similarity of repeated or imitated episodes (such as Ariel’s portrayal of
+the Harpy and his speech, patterned on the ominous prophecy of Celaeno in Virgil’s third book).
+What I intend to do is focus on another dimension of the relationship: the time-structures of epic
+and the play and the consequences for memory, storytelling, and expectation. The fact that the
+
+6
+
+Kott, Jan. “The Aeneid and The Tempest.” Arion 3.4 (1976): 424-51. Kott also reminds us that the route
+traveled by Alonso’s party is not exactly the same, as Aeneas landed on Sicily “where rites of purification were
+performed” and funeral games held, as told in Book 5. Both journeys, then, while not identical, are interrupted by
+island landings. However, as I will address below, the island of The Tempest has much more in common with
+Carthage than any other location in the poem.
+
+7
+play seems so inspired by Virgil may offer insight into how the play sees the world, how it sees
+its own past, and how it shapes—with that vision—its own future.
+The Tempest, situated in a “present moment” as explained above, consists of a series of
+retellings and a set of expectations. The retellings fill out (and condition) the play’s image of the
+past, and the expectations color its image of the future. Neither past nor future is visible; yet the
+present action of the play is made up of the tension between these elements.7 This is not to say
+that the play is responsible for fulfilling these expectations; rather, fulfilling them is the
+characters’ motivation for retelling. The intangible past and the intangible future are woven
+exclusively out of spoken words. Between all sorts of characters in the play, across all varieties
+of relationships, is this same pattern of memory leading to prediction, or more simply, from
+Experience to Expectation. First and foremost is the relationship of Prospero and Miranda, but
+Prospero’s other several foils as well as the Neapolitan party all follow these patterns,
+characteristic as they are of the “present-time” orientation of the play. Even if the play lacked the
+overshadowing presence of Prospero, its structure would nonetheless remain a constant
+interwoven series of retellings and expectations. That said, the world at large does not always
+align with expectation, nor is the future responsible for doing so. Indeed, The Tempest contains
+several sets of conflicting expectations which cannot, by their nature, come to be simultaneously.
+But the desire for the future to align with one’s prediction (as conditioned by memory) is what
+matters, and is universal. This desire shapes thought, speech, and action. But there are vast
+distances between the present and both the past as recalled and the future as envisioned. It is
+these gaps that grant the play its resonance with classical epic. The ways in which they are
+encountered and bridged shed light on memory and retelling in the play and the poem.
+7
+
+“Tension” might not be as suitable a term as ‘interaction’, since, as we shall see, the overriding motivation of
+characters is to bring the two elements, memory of origins and expectation of ends, into harmony, or “consonance,”
+with each other.
+
+8
+While describing the decline of “epic forms” in the face of more modern modes of narration,
+Walter Benjamin takes the opportunity to write of the characteristics of those forms in his essay
+“The Storyteller.” 8 (The following delineation and definitions are a combination of several
+strands from this essay and “The Work of Art in the Age of Mechanical Reproduction.”) He
+posits two defining features of epic as pertains to its contents: Memory and Distance.
+These are not entirely separate concepts. In fact, they might be better classified under the
+single heading of Distance and given the distinctions of Distance Temporal and Distance Spatial.
+The common denominator is far-ness, in all dimensions and directions. To introduce two more
+helpful terms, memory across temporal distance is “remembrance;” memory across spatial
+distance is “transmission.”
+Memory is described by Benjamin as “the epic faculty par excellence.” Indeed, the memory
+is not only an indispensable faculty of the epic poet but an integral part of the poem he sings. The
+unique ability of the poet is to call up an ancient account from times long past, days removed
+from his own time. It is from this distance that the epic gains “authority,” an interest to (and thus
+a measure of power over) its audience. Inside the text, it is also why the most revered of epic
+characters are the rememberers: they who must recount their stories of the past, they who must
+provide the foregrounding for the events of the poem since we are forbidden from actually
+witnessing such things by the epic convention of beginning in medias res. Memory is not just a
+means to virtuosity, a method through which to recite voluminous catalogs of warriors or, say,
+sea-nymphs; it is a vital and mandatory faculty for a structure in which we do not know how
+
+8
+
+Benjamin, Walter. Illuminations. trans. Harry Zohn. ed. Hannah Arendt. New York: Schocken Books, 1962.
+The essay’s subtitle is “Some Reflections on the Work of Nikolai Leskov.”
+
+9
+things began sooner than we know how they are.9 This is the situation of The Tempest, in which
+we witness primarily results and reactions, not catalysts, and furthermore, this situation is true of
+our own sense of time. It is the result of what Lady Macbeth calls “this ignorant present”—
+ignorant, that is, of origins.10 It is a reason why the epic form (or at least the outset of the epic) is
+so attractive—because as men and women born into time, unable to empirically witness causes
+but to retell and thus become familiar with the present and then forecast results, our perception
+approximates that form.
+Frank Kermode puts this idea forward, in slightly different terms, in The Sense of an Ending.
+His argument is set up as a commentary on apocalyptic fiction and myth, but is nonetheless
+applicable here as the limits of perception (and our storytelling tendencies) persist across genres.
+In fact, he uses epic terminology; his initial premise is that the natural perspective on life and
+time is that of the medias res narrative.
+Men, like poets, rush ‘into the middest,’ in medias res, when they are born; they also die in mediis
+rebus, and to make sense of their span they need fictive concords with origins and ends, such as
+11
+give meaning to lives and to poems.
+
+Men and women are born at an essentially arbitrary point in time at which the action on the
+world-stage is already underway. Kermode hypothesizes a human desire to make sense of our
+lifespan, to cast our time as “significant.” The resulting tendency, he argues, is to frame our
+lifetime with reference to a beginning and an end (that is, a beginning before we were born, and
+an end at some point in the future, perhaps during one’s lifetime and perhaps not). But even
+though both relatable events are outside our empirical perception, Kermode writes that we
+
+9
+
+Of any process longer than instantaneous, the cause lies hidden. Thus the epic preoccupation with causes: the
+effect is empirically observable in the present, whereas the cause is not and must be revealed by memory, aided or
+unaided by extra-human assistance.
+10
+Macbeth, I.v.59.
+11
+Kermode, Frank. The Sense of an Ending: studies in the theory of fiction. London: Oxford University Press,
+1967. p.7. Kermode’s phrasing echoes Paradise Lost 9.40-1,“that which justly gives heroic name / To person or to
+poem.”
+
+10
+nonetheless profess to know a great deal about them. If we are to know their nature, the
+beginning (essentially a creation story or origin myth) must be remembered or revealed; likewise,
+the end must be foretold. He identifies a desire that the end be in “consonance” with the retold or
+received beginning and the “middle” which we are presently experiencing. Before “significance”
+there must be “a concord of imaginatively recorded past and imaginatively predicted future,
+achieved on behalf of us, who remain ‘in the middest.’” Consequently, with the new revelation
+of a beginning or end our “middle” must be adapted so as to achieve that desired agreement.12
+Ultimately all these literary, historical, or prophetic efforts are intended to impart meaning to a
+span of time which without real or imagined “consonance” would seem an arbitrary or
+unprivileged vantage point.
+Temporal and spatial distance, which separate us from past and future, and necessitate
+memory, cannot be fully disentangled. Changes in the physical landscape over time, for instance,
+make the setting of an epic physically remote at the same time as they make the tale temporally
+remote. The inaccessibility of epic locations (a memorable example being the classical
+underworld) provides another sort of distance. All these varieties of “far-ness” are intertwined in
+Benjamin’s discussion of what he terms “information” and the “verifiable.” He writes that the
+decline in the popularity and relevance of the epic was brought about by an increase in readily
+transmissible information—although he clarifies that these shifts did not, could not, happen
+
+12
+
+An example: Miranda, her origin-story revealed, feels she must make up in the present the awareness she
+lacked in the past:
+Alack, for pity!
+I, not remembering how I cried out then,
+Will cry it o’er again; it is a hint
+That wrings my eyes to’t.
+I.ii.133-5
+In order to make sense of her present state, she must supply the part of her origin that she cannot recall, and feels she
+lacks.
+
+11
+overnight, and that this particular change occurred with all the speediness of geological time.13
+With the advent of printing and of rapid circulation of printed materials, information presented
+communities with facts of a situation, and led to our notion of the state of being “informed.” No
+longer having to rely on outmoded accounts of truth, or on received versions of events in other
+places, narratives from (or purporting to be from) distant places and times lost their appeal.
+Information is what is easily verifiable; facts can be proven or disproven. It is the nature of the
+epic, however, to resist verification; it concerns the distant past and distant settings, and its truth
+cannot be ascertained—or even tested—firsthand.
+Benjamin’s point is that it is their very lack of verifiability that granted epics “authority” in
+their prime. Narratives that had traveled vast distances of space and time, and survived the
+journey, fascinated listeners not only because of their strangeness but because they were in effect
+incontrovertible. Who can say he has been to Troy while it stood? In the absence of any
+(impossible) contrary evidence, the epic assumed a mysterious, revelatory, and unassailable
+position. Yet as Benjamin notes, a shift in attitude over time—and an increase in ease of
+transmission—caused verifiability to become the main criterion of authority. Lack of
+corroboration became a flaw instead of a proof of mysterious uniqueness. Listeners became more
+concerned with their immediate surroundings (the things able to be readily ascertained) and less
+with the deeds of a distant time and place. Even if they did not lose “interest” in epic forms,
+audiences began to place epic and “information” in separate categories, differentiating spaces
+where there had before been no distinction. The survival of a narrative did not vouch for its
+accuracy, though listeners forgot that accuracy was never the primary concern of the epic, and
+that epic and what Benjamin calls “information” do not serve the same ends. Considering Virgil
+in this light is especially valuable, as he positioned himself at the crossroads of oral tradition and
+13
+
+Benjamin, 88.
+
+12
+literature; his mode of transmission is not oral but literary, yet he casts himself as an oral
+rememberer—and, more relevant to the purpose of this comparison, the characters within the
+poem function in the old epic mode.14
+In “The Work of Art in the Age of Mechanical Reproduction,” Benjamin writes of the “aura”
+of a work of art, its singularity and uniqueness, the quality which is lost when the work is
+reproduced mechanically or inorganically. To appropriate this term from him for my own uses, I
+identify this “aura” with the sense of authority once accorded to epic forms, and the sense of awe
+accorded to the epic as a result of the distance it contains. Spatial distance and temporal distance
+combine to create the epic aura, a mysterious yet incontrovertible account of the distant past. Can
+such a sense of aura be forward- as well as backward-looking? If we derive expectation of the
+future from a retelling of the past, does an account of the distant future (perhaps in a spatially
+removed setting as well) possess the same aura as the past-oriented epic? Perhaps not the same
+authority, as the future has not yet occurred. But our expectations of the future—often we
+compose and tell their stories before they occur—can have just as aweful an effect on our present
+as the epic does.
+All these elements of time in narrative lead back to the similarity between the play’s structure
+and the epic form that both serve to simulate the mindset and experience of the present. Because
+of the limits of the present’s perspective as described above, these structures, by their nature,
+necessitate oral renarration. Furthermore, these features of the present moment are made concrete
+in the form of what I will call “sites of retelling.” The qualities that define the perspective of the
+present are represented physically in significant locations in both play and poem. These locations
+are where the major acts of renarration take place: in The Tempest, Prospero’s island and
+
+14
+
+On the tendency for literature to cast itself as an imitation, or descendant, of oral tradition, see, for example,
+Robert Kellogg, “Oral Literature” in New Literary History 5.1 (1973), 55.
+
+13
+specifically Prospero’s cell; in the Aeneid, the city of Carthage where Books 2 and 3 are dictated
+by Aeneas. What makes these locations “sites of retelling” is not simply the fact that they
+provide a setting for the storyteller, but that certain physical properties identify them as
+representations of the present moment.
+The primary quality of The Tempest’s island is its Distance from all else—with all the
+associations of that term as used by Benjamin and outlined above. Spatially, we cannot be
+positive of the Island’s exact location but know it is closer to the coast of Africa than Italy
+(I.ii.269-70), and that the nearby city of Tunis is “ten leagues beyond man’s life,” (II.i.247) that
+is, farther than a life-long voyage. Yet it is far enough from shore to be an intentional site of
+banishment (namely Sycorax’s by the Algerians, I.ii.269, in which the Island seems to be a sort
+of penal colony) and unknown entirely to the king’s party. Its solitude and isolation in the sea
+echoes Virgil’s description of the ocean as Aeneas departs from Carthage, passing the area in
+which the island ostensibly rises: maria undique et undique caelum: “water at all points, at all
+points the sky.”15 Especially in Antonio’s speech “She that is queen of Tunis” (II.i.246-54), the
+difficulty of physically bridging the gap between the outside (European) world and that of Tunis
+(and the Island) is put in terms that rule out all contact from the spatially distant. And like
+Carthage, it is only found accidentally. None of the island’s inhabitants or visitors intentionally
+finds their way there: Sycorax, Ariel and the unborn Caliban by banishment, Prospero and
+Miranda by exile, the king’s party by shipwreck. Aware of this, Gonzalo’s references to
+Carthage remind us that though the Island is technically along Aeneas’ route to Italy, its situation
+in the work, and its temporal situation, is that of Carthage.
+The incomplete city of Carthage is a particularly striking representation of the present. By
+this I mean that not only is it the first setting in the epic’s in medias res format, it is also packed
+15
+
+5.9. Fagles’ translation.
+
+14
+full of symbols that give it a progressive aspect (in the grammatical sense of the word). It is
+unfinished, composed of memory of the past (Tyre, which its settlers have left behind) and plans
+for the future, being drawn up as Aeneas arrives—a city literally depicted as “in progress.”
+The entire poem begins in Carthage—not just Aeneas’ landing, which does not occur until
+1.172, but the very first descriptive content after the proem, from line 12 onward, is of the city:
+urbs antiqua fuit (Tyrii tenuere coloni) / Karthago, etc.16 We come to learn that it is built out of
+the memory of the past and predicts an expansion into the future, most often signified by the
+frequent references to the not-yet-completed walls rising around the city and Dido’s various
+other construction projects. Both tangible and intangible futures are expected for Carthage: on a
+physical level, the walls and buildings will be completed, the temples fully constructed, the laws
+drawn up (1.423-9). On a less physical level, Dido foresees from Carthage in Book 4 the
+narrative future of her city and Rome, culminating in the invocation of the “unknown avenger”
+(4.625) and the violent history prophesied in her curses.
+The walls themselves seem to symbolize most strongly the present moment, which is never
+complete, always in progress. They seem to rise almost independently of their builders. Aeneas
+exclaims upon seeing them (remembering the promissa Lauini moenia, his own promised Roman
+walls): o fortunati quorum iam moenia surgunt! “O happy men, whose walls are rising at this
+moment!” The walls are the subject of this action, the process shown occurring before Aeneas’
+eyes. They are not “being built” (i.e., aedificantur) but are “rising” themselves, and serve as an
+
+16
+
+Before we even know the identity of this ancient city, we know that it was established by settlers, coloni,
+from someplace else. Regardless of the city’s name, we can be sure before we know it that its inhabitants have
+undergone a journey to someplace other than where they originated to establish it. Thus the nature of Carthage as
+both a backward- and forward-looking city is established before we even know what to call it.
+
+15
+excellent metaphor for time and the state of Carthage, the city of present time—as opposed to
+Rome, the city of the future, and Troy and Tyre, the cities of the past.17
+It is in these locations, the Island and Carthage, that the great acts of renarration take place.
+They are necessary not only because of the requirements of form but because of the locations’
+physical orientation. These are sites that are only reached by chance after the loss of a physical
+connection with the past—after the surrender of Claribel, the loss of the king’s ship, or the death
+of Anchises. There is an element of chance in the nature of the present; as Kermode writes, the
+moment at which our life-story begins is arbitrary—though somewhat more arbitrary, perhaps,
+than the outset of a deliberate narrative. It is the strangeness of these unfamiliar places (locos
+nouos, 1.306-7) and the separation from the familiar and the tangible that necessitates oral
+renarration. For the very same reasons, these locations engender expectation as well, the
+counterpart to memory, and as sites of retelling provide the opportunities for both. The physical
+circumstances demand it, and the time demands it (“The very minute bids thee ope thine ear”).18
+The several forms of distance, as we’ve seen above, are partly what makes oral retelling
+necessary in these locations. The epic quality of these retellings derives from this distance, and
+the seeming resistance to verification that Benjamin identifies. If Prospero had recounted
+Miranda’s origin story to her at any other time than I.ii of The Tempest, there would be no means
+by which to ascertain the truth of his account. Miranda cannot recall the events described, and
+the few other inhabitants of the island did not witness it. Barring supernatural revelation, the
+story is uncorroborated; the other players involved are a long ways from the island in distance
+17
+
+Because of the importance of the walls, among the most striking images in Book 4 is that of the construction
+coming to a halt once Dido becomes preoccupied with Aeneas (4.86)—that is, once the time for retelling is over,
+and focus shifts to the future.
+18
+
+Greene, Roland. “Island Logic,” in. The Tempest and Its Travels, ed. Hulme, Peter and William H. Sherman.
+Philadelphia: University of Pennsylvania Press, 2000. pp. 138-41.
+
+16
+and in travel-time. But in both the play and the Aeneid, these distances are bridged, setting up
+what I will call “unexpected encounters” between characters of the present and those who (to
+their counterparts) embody the past.19 That is, one character unexpectedly meets another who can
+provide the verification otherwise lacking in an epic recounting or remembrance. Upon hearing
+of Gonzalo’s kindnesses to her and her father which proved to be the difference between her life
+and death, Miranda exclaims “Would I might / But ever see that man!” (I.ii.168-9) Desiring
+verification, Miranda is still at that point unaware that she will encounter the man himself.
+Meeting such a man verifies her origin-story; and with that story proven true, she must undergo a
+subsequent change in herself. I will discuss at length below a powerful unexpected encounter in
+Carthage in Aeneid 1: Dido’s encounter with Aeneas as he stands at the temple wall, gazing at
+the mural which includes his own image. The epic account of Troy, here in visual form, is
+proven to be extraordinarily accurate by the appearance of Aeneas, who seems to step out of the
+distances, a living piece of evidence, a story embodied.
+These unexpected encounters abound in The Tempest, given the situations of the various
+characters, and provide tension between the epic nature of memory and retelling and the
+predicaments the players actually find themselves in: to name a few, the encounter of Caliban
+with Stephano, who comes down “out of the moon, I assure you;” of Miranda and Ferdinand,
+19
+
+While this formulation is my own, it is supported by Roland Greene’s discussion of islands in early modern
+imaginations being the primary sites of encounters that are “discontinuous in time” (139) and in which “something
+happens, and then it is counted, recounted, interpreted.” He goes on to speak of the island encounter’s “palpable
+investment in alterity” and foreignness, which “factitious opposition establishes identity on both sides.” My
+definitions, while original, owe something to Greene’s creative—and correct—descriptions. It is worth quoting
+another excerpt from “Island Logic:”
+Islands make possible the observation of their own constructedness, and the constructedness of
+other measures of the world, because they enforce a certain clarity: they have definable borders,
+they are conceptually autonomous from the world at large, and they encourage attention to the
+conditions of indigineity and importation. (140)
+It is the perspective afforded by “conceptual autonomy” that grants Prospero’s island its status as a prime
+location for retelling; all is outside and easily divided from the self for observation, while the associations
+which implicate the observer in the world at large are discerned as well.
+
+17
+and (most self-aware of all) of the Neapolitans with the “strange shapes” and “islanders” before
+the false feast in III.iii. This final unexpected encounter culminates in Antonio’s remark that
+summarizes the phenomenon perfectly:
+What does else want credit, come to me
+And I’ll be sworn ‘tis true. Travelers ne’er did lie,
+Though fools at home condemn ‘em.
+III.iii.25-7
+
+The questions of “credit,” “warrant” (III.iii.49), and verification are as immediate to us as
+spectators and readers as they are to Alonso, Sebastian, and Antonio. We know no more of the
+truth of the mysterious “islanders” and “mountaineers” than they do; we know no more of the
+truth of our received notions of the past than Miranda does. And even when we create a
+representation of that supposed past, as Dido does in Carthage, its accuracy is unknowable—
+until someone steps out of distant space or time to tell us.
+
+Having established the above concepts as background, we can proceed to discuss the play on
+these terms. I.ii is the first great scene of memory in the play. The segments of the scene present
+issues that remain at the forefront for the rest of the play and can serve as keys to the function of
+memory and renarration as it works throughout all subsequent episodes. This marathon scene
+presents to us four sequences of remembrance with Prospero as interlocutor in all but one of
+them. The first, with Miranda, demonstrates Prospero’s concept of the operation of memory. The
+second, with Ariel, demonstrates the potential of retelling as ritual, and the problem of multiple
+resulting expectations in conflict. The third, with Caliban, demonstrates the ability of retelling to
+solidify hierarchy. The fourth is somewhat different, as Ariel, unseen by Ferdinand, leads him
+around the island with a song that, deceptively, “remember[s his] drowned father.” (I.ii.406)
+
+18
+Miranda rightly takes her place at the center of the play’s presentation of memory. The great
+narration that begins I.ii originates in Prospero’s response to her pleas to “allay” the storm. The
+storm is not what it seems, he assures her; neither are herself and her father. Surely some
+revelation is at hand. In reminding his daughter that she is “ignorant of what [she is]” it becomes
+clear that this is nothing new to her. Prospero has thought better, several times, of revealing her
+origin-story.
+You have oft
+Begun to tell me what I am, but stopped
+And left me to a bootless inquisition,
+Concluding: “Stay. Not yet.”
+I.ii.33-6
+
+But the “very minute” requires that Miranda no longer be ignorant. She is after all the
+centerpiece of Prospero’s great “project,” which to use familiar terms is his great exercise in
+bringing about a future consonance—a new union strong enough to match the dissension of the
+past. The desire for this consonance resonates with the Aeneid, where the only compensation
+Venus will accept for the exile and tribulations of her descendants is a return to power. The final
+complaint in her plea to Jupiter in Book 1 is sic nos in sceptra reponis? “Is this how you restore
+my kin to power?”20 Likewise, Gonzalo will proclaim at the end of the drama, “Was Milan thrust
+from Milan, that his issue / Should become kings of Naples?” (V.i.205-6). This is the foundation
+of Prospero’s project, and the reason why Miranda, though not as ignorant as some have thought
+her, must hear his account.
+We are not as interested in the contents of Prospero’s story as in the way it works. By this I
+mean the way in which he primes Miranda’s memory for his narration, the way he decides to
+sound her mind to see how it functions and what it contains or retains, is the most significant
+
+20
+
+Kott notes the similarity in the representation of this scene—a father with power over the weather and his
+fearful daughter watching a storm at sea from a someplace above—to the dialogue of Venus and Jupiter quoted here,
+Aeneid 1.223-296. See Chapter 3 for a longer discussion on this point.
+
+19
+element. He begins, instead of speaking himself, by trying to elicit speech from her. Memory in
+both epic and drama is a source of speech; that is, in epic, memory produces the materials out of
+which his account is formed, or the poem is crafted or reconstructed. It provides as well the
+impetus to do so, the desire to memorialize through speech (as opposed to some other way). In
+drama the characters’ individual or collective memory produces the speech which informs us of
+their past or pasts. And yet although memory is productive of speech in these cases, in The
+Tempest it is, to Prospero, conceived of as a primarily visual faculty. This is demonstrated
+immediately in this sequence of recollection. His question, which elicits Miranda’s recall of her
+“four or five women,” is especially important.
+Prospero
+
+Miranda
+
+Canst thou remember
+A time before we came unto this cell?
+I do not think thou canst, for then thou wast not
+Out three years old.
+Certainly, sir, I can.
+
+Prospero
+
+By what? By any other house or person?
+Of anything the image tell me that
+Hath kept with thy remembrance.
+
+Miranda
+
+‘Tis far off,
+And rather like a dream than an assurance
+That my remembrance warrants. Had I not
+Four or five women once that tended me?
+
+Prospero
+
+Thou hadst, and more, Miranda. But how is it
+That this lives in thy mind? What seest thou else
+In the dark backward and abysm of time?
+I.ii.38-50
+
+To determine what Miranda has retained and what she has lost, Prospero asks her to tell images.
+When she recalls the image of the women, he asks further: “What seest thou else?” Prospero
+recognizes that the material of memory, its most fundamental component, is visual and not
+verbal. These remembered “images” can serve to incite retelling, but he realizes that the retelling
+is a degree removed from the raw matter of memory itself, and thus must undergo a sort of
+translation. As in any translation, especially in one which moves from one medium to another
+
+20
+(visual to verbal) instead of simply across languages (say, English to Spanish), there will be
+certain things which simply cannot be carried across.
+Prospero’s request to Miranda consists, then, of three parts: “Of anything the image tell me.”
+The past event occurs, then is remembered (or “kept”) as an image, and is finally related as
+speech. Not insignificantly, Prospero’s syntax puts the request in this chronological order
+(event—image—relation), and “the image” is both central in the line and the subject of the
+sentence.
+But as for the specific image itself, it cannot be made completely certain that the women
+Miranda remembers are in fact the more-than-five maids that once tended her in Milan. Her
+confession to Ferdinand that she is “skilless of” the way of the world abroad is especially telling,
+with its emphasis on the image—and illusion—that forms the basis of memory. She approaches
+Ferdinand in III.i while he is piling up “some thousands of these logs,” the “mean task” that
+Prospero has set him to. His recall of the “several women” he has known before prompts this rich
+response from Miranda:
+I do not know
+One of my sex, no woman’s face remember
+Save from my glass mine own; nor have I seen
+More that I may call men than you, good friend,
+And my dear father. How features are abroad
+I am skilless of; but, by my modesty,
+The jewel in my dower, I would not wish
+Any companion in the world but you;
+Nor can imagination form a shape
+Besides yourself to like of. But I prattle
+Something too wildly.
+III.i.48-58
+
+Considered side-by-side to her initial exchange with Prospero, the operation of memory here
+seems much more dubious. What remains constant in both scenes, however, is the importance of
+the image, the knowledge that memory is made of “shapes” and “features” rather than words. Of
+course, we are surprised by Miranda’s admission that she does not remember another woman’s
+
+21
+face, which seems to erase the image of the women she had called to mind in I.ii.21 In any case,
+memory and experience are collected through vision, especially vision of other people, and
+stored as such; Miranda subscribes to this view even as she forgets what she had recalled earlier.
+Yet Miranda indicates that her expected future is in some way constrained by the raw visual
+material of her memory. “Nor can imagination form a shape / Besides yourself to like of.”
+Recalling Kermode’s conjecture that the predicted future is crafted out of consonances with the
+past (or vice versa), Miranda cannot form the shape of a human male face besides Prospero’s and
+Ferdinand’s—or rather, the shape that she does form is Ferdinand’s, and in the scarcity of
+alternatives, she has no choice but to be attracted to it.
+Her admission (and specifically the language she makes it with) at the beginning of the
+speech raises the possibility that her recall of the women is on some level a recall of herself. The
+“image” of the women that she related to Prospero may indeed be her “glass.” Suddenly, the
+word “image” as Prospero used it in I.ii.43 becomes very unstable. As above, he ostensibly refers
+to the way in which events are stored in the memory as images. In that case, the “image” is true
+memory, photographic at the best of times, and it is the relation, the translation into speech,
+which may distort it somewhat. But in Miranda’s speech, “image” takes on shades of meaning
+more in line with its original Latinate usage. Imago, imaginis: a dream, shadow, phantom, shade,
+an immaterial reflection. Prompted by Prospero to reveal “the image” that has kept with her
+remembrance, Miranda prefaces her response, “‘tis...rather like a dream than an assurance”
+before relating the memory of the four or five women.
+
+21
+
+There are several explanations for the discrepancy: Miranda is not being truthful in order to appear modest
+(“prompt me, plain and holy innocence!” 82); her prior recall of the women in I.ii was elicited in some way by her
+father’s art; her recall of the women was unstable from the beginning, “rather like a dream, than an assurance,” and
+thus not worth mentioning; or, to split hairs, she does not remember the women’s faces.
+
+22
+The same word for her recalled image might just as well be applied to the faces she sees “in
+my glass” (they are both imagines), and perhaps most unsettlingly, the process of shape-forming
+she describes at the speech’s end is given the same name of “imagination.” She states, more or
+less explicitly, that it is the function of “imagination” to “form a shape” out of the visual material
+of memory. It seems much more likely, in this light, that Miranda is being honest with Ferdinand
+here and that her image of the women is in fact her own reflection.22
+Miranda, as above, is a valuable character for examining the operation of memory—and yet
+it is destabilizing when she mixes the vocabulary of memory with the vocabulary of imagination.
+Prospero is responsible in some sense for this, asking his daughter “the image tell me” when
+what that question means to her is likely very different than what we as spectators take it to mean.
+We might interpret: “Tell me the picture, as you have it, of that past event,” whereas Miranda
+might hear: “Tell me the picture, as you have assembled it from your observations—mostly of
+your own self.”23
+22
+
+A couple practical considerations: we can assume that Miranda has been educated in the differences between
+women and men, in appearance and anatomically, enough to allow her to distinguish between the images of one and
+the other. In I.ii she speaks of her grandmother and clearly knows how the sexes interact, that women give birth to
+children while men do not. Additionally, the incident with Caliban (as remembered in I.ii.346-52) may have made
+that lesson necessary. At any rate, she knows enough to recognize the similarities between the images of Prospero
+and Ferdinand to realize that they are one of a kind, and that any third man (“a shape / Besides yourself to like of”)
+will have certain common features with these two previous men.
+22
+It is also significant to note that Miranda’s speech is prompted by Ferdinand’s anatomizing of the “several
+women” he has previously “liked” into their constituent features. This sets an example for her to divide up the
+“features” she stores in her memory after observation and conceive of the “shape-forming” process of imagination
+as she does. The Arden edition cites many precedents for this cataloging of independently remembered features,
+among them As You Like It III.ii.145-6 (“Thus Rosalind of many parts / By heavenly synod was devised”); I would
+add to this list Olivia’s itemization of her body in Twelfth Night I.v (“I shall give out divers schedules of my
+beauty”). This pattern belongs to a conceit common in Renaissance poetry (cf. Sonnet 130).
+23
+This terminology calls to mind Adam’s explanation to Eve of the difference between Reason and Fancy in
+Paradise Lost 5, in which Milton uses these same terms in an analogous way. Shakespeare’s memory is to Milton
+Reason as Shakespeare’s “imagination” is to Milton’s Fancy:
+Of all external things,
+Which the five watchful senses represent,
+She [Fancy] forms imaginations, airy shapes,
+Which reason joining or disjoining, frames
+All what we affirm or what deny, and call
+Our knowledge or opinion.
+
+23
+In Virgil, imago is Aeneas’ word for the shade of Creusa, insubstantial as he tries to embrace
+it in his flight from Troy.
+ter conatus ibi collo dare bracchia circum;
+ter frustra comprensa manus effugit imago.
+Three times I tried to throw my arms around [her] neck;
+three times the shadow, grasped in vain, fled my hands.
+2.792-3
+
+These lines are themselves part of a recollection—Aeneas’ tale to Dido—and thus an “image” of
+an image. And just as Miranda suggested about her own “imagination,” these lines are repeated
+(or rather reflected) verbatim by the epic’s narrator when Aeneas encounters the shade of
+Anchises in the underworld (6.700-1). The words can be repeated exactly as they appear in Book
+2—no changing of feminine to masculine is required, since imago is always feminine, whether it
+denotes Anchises’ shade or Creusa’s. The most important feature is that an imago is immaterial,
+whether it be the shades of the underworld or Miranda’s reflection.
+This relation between image, imagination, and memory as expressed by Prospero and
+Miranda finds an interesting comparison in Aeneid 1.441-93, the first and perhaps most powerful
+of the “unexpected encounters” described above, in which Aeneas comes across the depiction of
+the war at Troy painted on the wall of the temple of Juno at Carthage. The hero finds the image
+of his memory materialized in an unexpected place. The illustration is so accurate (or rather, so
+consonant with his own memory) that he recognizes all of the major players in the scene—
+including himself.
+What is the depiction of Troy doing of Juno’s temple in Carthage to begin with? The war was,
+in a sense, “won” by Juno, though that can hardly be the reason;24 Carthage is impartial in regard
+
+5.103-8
+Despite the complete devastation of Troy, she still resents the war’s memory, as in 1.23ff., id metuens
+ueterisque memor Saturnia belli / prima quod ad Troiam pro caris gesserat Argis…
+24
+
+24
+to the war; if anything, the Carthaginians’ predicament is similar to that of the Trojan refugees. I
+think rather that the fascination the story held for Carthage has to do with the reasons epic is
+attractive, the “distance” in Benjamin’s theory of storytelling. (It should be remembered as well
+that the scene of the war is hardly laudatory of the Achaians and their allies.) As accounts of the
+war made their way out from Troy over its duration, the geographical distance gave the story the
+features of epic Benjamin has identified.25
+Aeneas, then, to put it in familiar terms, encounters an image (i.e. an imago, a shadow) from
+his own memory depicted materially. He feels he must “cry it o’er again” (as Miranda feels at
+I.ii.134), since viewing the images serve the same purpose as recalling the images mentally—
+perhaps even more intensely, as this reiteration was so unlooked for. It prompts him to exclaim,
+“quis iam locus...Achate, / quae regio in terris nostris non plena laboris?” (“What place is there
+now, o Achates, what country on earth that is not full of [the story of] our suffering?”) The
+significance of this moment becomes clearer when we realize that this is the first real glimpse we
+are given (in Aeneas’ eyes) of the hero’s own history. His first speech in the storm hinted at the
+prior experience of the war (1.94-101), yet we do not have a definite picture of his past, or of
+where exactly he is coming from. Suddenly, coming ashore in a foreign land, he finds his own
+prologue depicted by the artists of an alien people. Within the in medias res structure of epic, this
+moment is extraordinarily powerful. Even before Aeneas’ own account of the events depicted
+(Book 2), we see the hero’s prior experience as it abides (according to Prospero) in his own
+memory—as a series of images.
+It is indeed a series; he proceeds down the mural, viewing each section episodically. Just as
+Miranda does, he recognizes himself among the images of his memory, although of course he
+
+25
+
+Even if the Carthaginians had taken the story with them from Tyre, the distance covered in such a “far-off”
+transmission of a narrative would have served the same effect.
+
+25
+knows the appearance, the “features” of both men and women, Trojans and Achaians, Amazons
+and Ethiopians.
+se quoque principibus permixtum adnouit Achiuis
+Eoasque acies et nigri Memnonis arma.
+He even recognized himself, there in the midst of the Achaian chiefs; he recognized the
+hordes of the East, and the arms of black Memnon.
+1.488-9
+
+He realizes that he is himself an image in not only his own memory but in what might be called
+the “cultural memory” of Carthage itself. Although he has never met a Carthaginian in his life,
+his image on the temple is so recognizable to himself and to the rest of the city that Venus must
+shroud him in a mist so that “he will be recognized by no one” (1.400, neque cernitur ulli). The
+defining feature of Carthage, as noted above, is that it is constantly under construction,
+incomplete—yet on these unfinished walls Aeneas encounters the image of his own memory. Of
+all the parts of the the unfinished city, the mural seems remarkably complete. The temple it
+belongs to is itself in progress (hic templum Iunoni ingens Sidonia Dido / condebat, in the
+imperfect tense: “here Dido of Sidon was in the middle of constructing a massive temple to
+Juno”), yet the mural is, strangely, finished, rich in detail and uncannily accurate. That this
+representation of memory is present in this completed form even in the unfinished city of
+Carthage demonstrates not only the city’s nature as a representation of the present but of the
+potential self-reflection that Aeneas might, in fact, be seeing instead.
+
+Although Prospero’s theory of the operation of memory as he states it to Miranda (and as
+Miranda seemingly absorbs) is visual by nature, the intensely verbal nature of recollection comes
+to the fore in Prospero’s other encounters in I.ii. Most importantly he demonstrates the possible
+functions of renarration, and its power as a recurring ritual. His account to Miranda is a unique
+
+26
+event, without precedent in their relationship; it could be specifically called a revelation or
+transmission. But Prospero’s subsequent encounters with Ariel and Caliban could in contrast be
+called “transactions” of recollection.
+Confronted with Ariel’s request that Prospero remember his promise to release him from
+Prospero’s service (I.ii.242-50; the terms of the his promise are not completely clear, only that
+Prospero pledged to remit “a full year” of Ariel’s servitude) Prospero begins a sequence of
+recollection which, he states in frustration, he must periodically repeat to remind Ariel of the
+spirit’s past condition—and consequently, his debt to Prospero. Ariel tries to do the same thing
+first, however, to recall Prospero’s own promise. The exchange is full of multiple conflicting
+expectations, derived from each character’s respective version of the past. It is worth quoting at
+length to examine the patterns in their dialogue.
+ARIEL
+
+Is there more toil? Since thou dost give me pains
+Let me remember thee what thou hast promised,
+Which is not yet performed me.
+
+PROSPERO
+
+How now? Moody?
+What is’t thou canst demand?
+
+ARIEL
+
+My liberty.
+
+PROSPERO
+
+Before the time be out? No more!
+
+ARIEL
+
+I prithee
+Remember I have done thee worthy service,
+Told thee no lies, made thee no mistakings, served
+Without or grudge or grumblings. Thou didst promise
+To bate me a full year.
+
+PROSPERO
+
+Dost thou forget
+From what a torment I did free thee?
+
+ARIEL
+
+No.
+
+PROSPERO
+
+Thou dost. . .hast thou forgot
+The foul witch Sycorax? . .Hast thou forgot her?
+
+ARIEL
+
+No, sir.
+
+PROSPERO
+
+Thou hast! Where was she born? Speak. Tell me.
+
+ARIEL
+
+Sir, in Argier.
+
+PROSPERO
+
+O, was she so? I must
+Once in a month recount what thou hast been
+Which thou forget’st. . .Is not this true?
+
+27
+ARIEL
+
+Ay, sir.
+I.ii.242-68
+
+Prospero’s questions are certainly not meant to elicit “imagination,” as with Miranda. This is an
+interrogation, but one with a set of expected answers. The dialogue is almost didactic, a ritual
+enacted at predictable times in which the questions and answers are never in doubt. Prospero
+must have Ariel speak the responses in his own voice, and even as he responds correctly is still
+subject to Prospero’s sarcasm: “O, was she so?” In its formulaic nature the dialogue could even
+be said to be similar to liturgy or catechism, learned by rote and solidifying roles. It is a wellknown script they both adhere to—and furthermore, the adherence to it presupposes, and
+confirms, the power dynamic between master and servant.
+Notice that Ariel’s key word in the exchange is “remember,” while Prospero’s is “forgot.”
+Perceiving his role as the arbiter of memory, the holder of the books, and the recounter of history
+to Miranda, Prospero chastises Ariel for his inadequate memory, while Ariel, recalling promises
+made, is all prediction and expectation. It becomes clear how much Prospero takes the offensive
+when Ariel attempts to cast himself in Prospero’s role as the keeper of memory. Ariel’s
+remembrance of the virtues of his service, and of the words of Prospero’s promise, is countered
+by his master’s even more distant remembrance, of Ariel’s torment by Sycorax, which he goes
+on to recount at length even though he did not witness it firsthand—essentially appropriating
+Ariel’s memory for his own uses.
+Lina Perkins Wilder also notices the difference in the “mnemonic methods” Prospero uses
+in dialogue with Miranda, Ariel, and Caliban. To Wilder, however, most instances of originstories, whether Miranda’s or Ariel’s, have models in the anatomical language of birth. Wilder
+identifies the “dark backward and abysm” of Prospero’s conception of time as mirroring “a birth
+
+28
+canal,” and that Prospero’s questions to her suggest she is “searching for her own birth.”26 The
+fear of Sycorax that Prospero seeks to re-instill in Ariel derives, for Wilder, from the witch’s
+“sexual aberrance,” and the “gaping” of the cloven pine suggests to her another birth sequence.
+Finally, with Caliban she writes that Prospero’s control is actually physical and not symbolically
+physical (the torments Caliban is subjected to involve real pain). All this said, I agree in the
+latent imagery of birth-origins, but do not agree with Wilder that the imagery of memory owes so
+heavily to human anatomy—unless, as demonstrated above, the empirical observation of
+“features,” which Miranda is deprived of, can be included under this category.
+But anatomically (in a different sort of way), the terminology of the senses is of the utmost
+importance in the processes of renarration, namely the sense of hearing. We have seen that in
+Prospero’s view, a retelling consists of three parts: the experience, the preserved image, and the
+translation into speech. For the receiver of the story, the experience is entirely aural. Any image
+that might be called to mind as a result of hearing the retelling is never verifiably accurate.
+Especially when the retelling does not just remind or reinforce, as Prospero’s recurring sessions
+with Ariel and Caliban do, the sense of hearing takes on an imposing role. Nowhere in the play is
+this better demonstrated than in Ariel’s speech as the Harpy in III.iii (“You are three men of sin”),
+the central scene of the play and not coincidentally the single episode most literally adapted from
+Virgil. Considering the details of this scene, specifically the physical effects of speech on its
+hearers, gives us a perspective on one of the most important potencies of Prospero’s art of
+memory.
+To begin with the speech’s aftermath, consider Alonso’s stunned response to Ariel’s speech
+and sudden disappearance, spoken as he stands in a “strange stare.”
+
+26
+
+Wilder, Lina Perkins. “Mnemonic control and watery disorder in The Tempest,” in Shakespeare’s Memory
+Theater. New York: Cambridge University Press, 2010. p.178ff.
+
+29
+O it is monstrous, monstrous!
+Methought the billows spoke and told me of it,
+The winds did sing it to me, and the thunder,
+That deep and dreadful organ-pipe, pronounced
+The name of Prosper. It did bass my trespass.
+III.iii.95-9
+
+This is one of the most vivid sensory descriptions in the play, and this short scene is packed with
+sensual information (appropriate to an episode in which the travelers are confronted with
+previously unexperienced sights, sounds, and smells). But all other faculties seem to melt away
+and give place to the single unrelenting force of hearing. Ariel states that his Harpy form is
+intangible and impervious to swords, and that the Neapolitans’ physical power to lift their
+swords has disappeared. This deadening of motion seems to be characteristic of Prospero’s
+powers; the same effect appears at I.ii.467 when Ferdinand is “charmed from moving.” But this
+particular capability is of great significance. The loss of other sensory power or motion
+necessitates that the victim be still, and hear. The Neapolitans are subject to the same transfixing
+in V.i when they are “spell-stopped,” enforced to listen to Prospero’s great reckoning. Even the
+sight of the Harpy does not register in Alonso’s memory; only the sound of Ariel’s doom-laden
+voice, it seems, has permeated nature to deliver only the words (or more exactly, the word: “the
+name of Prosper”) and nothing else.
+In contrast to the unexpected encounters that lend credence to accounts of the past elsewhere
+(Prospero as he will encounter the king in his ducal robes, the revelation of Ferdinand, Miranda’s
+meeting Gonzalo), Ariel presents no evidence of his account. His only medium is the words
+themselves. The image of the “trespass” still exists, but only in the memory of Alonso and
+Antonio. This is all because Ariel is not speaking from his own recollection, but from
+Prospero’s—just as in I.ii, Prospero recounted Ariel’s memory of Sycorax for him. Ariel is
+explicitly presenting a “performance,” and Prospero makes it clear that Ariel is speaking only
+from his script. He praises the spirit for his strict adherence to it (“Of my instruction hast thou
+
+30
+nothing bated / In what thou hadst to say,” 85-6). To bring this into line with Prospero’s
+conception of memory, Ariel’s purpose is to supply the final, verbal, component to the image
+that the “men of sin” already possess. When the contents of their memory, however latent or
+suppressed, are linked with Ariel’s announcement, the entire world appears to have heard and
+understood. Gonzalo identifies the guilty memory as a “poison given to work a great time after,”
+but such a poison has no effect until the retelling of it is complete; that is, until it is given verbal
+form.
+The Harpies in both the play and the Aeneid are entirely impervious to wounds from human
+weapons. They cannot be warded off or defended against, and those to whom they appear must
+endure the message they have to deliver.
+The elements
+Of whom your swords are tempered may as well
+Wound the loud winds or with bemocked-at stabs
+Kill the still-closing waters, as diminish
+One dowl that’s in my plume. My fellow ministers
+Are like invulnerable.
+III.iii.61-6
+sed neque uim plumis ullam nec uulnera tergo
+accipiunt.
+(But their feathers are not subject to physical force, nor their backs to wounds.)
+3.241-2
+
+In the Harpies’ immunity from material weapons, I read them as signifying the terrifying potency
+of oral delivery. “But remember, / For that’s my business to you,” Ariel announces at the heart of
+his speech. It is not his intention to harm the travelers with physical violence (only by hunger,
+through causing the feast to vanish) but to force them to listen. The charm of heaviness on their
+swords, recalling the spell on Ferdinand in I.ii, is the hallmark of Prospero’s art, the “spellstopping” that all the Neapolitans experience at some point in the play. Wilder and Tribble define
+
+31
+this spell as the primary capability of Prospero’s magic.27 But the corollary to this observation
+must be that it relates directly to his mastery of retelling and recollection. Those who are spellstopped are rendered passive and cannot choose but hear what is being told them. Wilder tries to
+cast this as an example of his “colonial” uses of memory, his efforts to dominantly direct
+recollection instead of solicit it from and independent subject, as the dialogues with Ariel and
+Caliban in I.ii provide evidence for. Yet the uses of this power, not always so overpowering or
+dominating, rather reflect most of all the great power inherent in oral renarration that is so central
+to the play in both content and structure.
+The power we’ve seen to be inherent in speech and all the varieties of orality and storytelling
+we’ve encountered are crucial to Prospero’s art and the role he performs in the play. His
+relationships with Miranda, Ariel, and Caliban are constructed out of the fundamental elements
+of language—and not simply because what we have of them are pieces of dramatic speech. His
+relationships are built on the teaching and repetition of words, and out of words, broader
+narratives and larger narrative exchanges. For this reason, the following chapter will take a
+somewhat different approach and focus on the specific situations—and paradoxes—of both
+Miranda’s and Caliban’s education by Prospero. The education he gives them both in language
+(and which they later exchange with each other) allows them to participate in the exchange of
+narratives out of which the play is crafted, in the process of concealment and revelation so
+prevalent in the last plays, and in the exercise of recall and expectation characteristic of the
+Island, the ultimate site of retelling.
+
+27
+
+This is true, if we only count those elements of his art that we witness on stage and not through his own
+report, i.e., the capabilities listed in V.i.33-50, “Ye elves of hills.”
+
+32
+
+Chapter 2
+“You taught me language”
+
+“I have done nothing but in care of thee,” Prospero calmly declares at the outset of I.ii, to
+allay Miranda’s fears over the storm which, he assures her, was only perilous to her perception,
+not in fact.1 This is Prospero’s second full line of verse in the play, and the first which contains a
+single thought coextensive with the line. Experiencing it performed we may not notice its
+extreme significance, nor apply it, as Prospero himself instructs us to, as a standard by which to
+measure all his subsequent (and reported prior) action in the play. What does this care consist of,
+in relation to our question of memory and retelling? There is only one scene in the play that
+features Prospero and Miranda alone together—the fundamental and programmatic I.ii, centered
+on Prospero’s narrative of Miranda’s origin story. Because, owing to this perspective, the
+clearest insight we have of Prospero’s care is in the narration of his great narrative, the nature of
+his care seems to be more linguistic, verbal. All he has done is in the service, ultimately, of the
+narrative he chooses to reveal to her—and through that, for her.
+That even the titular tempest is placed, by Prospero himself, under the category of his “care”
+for Miranda underscores the significance of the central act of retelling in I.ii, to which this
+opening exchange is (at first glance) a short preface. What Prospero calls his “care” is
+demonstrated most clearly in the exchange. The fact that he refers to it as such reminds us that
+his raising of Miranda is, as much as that which he refers to in the Epilogue, a “project” of his.
+1
+
+He makes sure she knows her senses are sound; they have not misled her. Rather the truth of the ship’s fate
+(that it is completely unharmed) lies beyond what she may perceive.
+[There is] not so much perdition as an hair
+Betid to any creature in the vessel
+Which thou heard’st cry, which thou saw’st sink.
+I.ii.30-32 (Italics mine.)
+
+33
+The revelation to Miranda of her past, and the information he grants her in the course of the
+scene, is honest but not entirely forthcoming; it is one of many steps—probably the most
+important, and perhaps the last—in her upbringing, centered upon the retelling of words,
+narratives, and ultimately causes from father to daughter. The “care” he mentions is, at its most
+essential, the ongoing transaction between the two of them, not just of words but about words, a
+constant re-narration which, as Prospero implies in a single line, contains not just the crisis of the
+tempest, but the sum of his actions, and all of The Tempest itself.
+In raising Miranda, Prospero serves several different functions: guardian, teacher, ally,
+adversary. None of these are unusual or surprising, but what they respectively entail becomes
+more interesting under the unique circumstances of their exile. In the absence of any other
+human contact, Miranda must learn all she knows from Prospero’s lessons, or from unexpected
+crises (such as Caliban’s attempted rape) which elude Prospero’s close watch over her education.
+The role he seems to identify the most with himself is that of teacher. “The last of our seasorrow,” the end of the great tale in I.ii, is the following:
+Here in this island we arrived, and here
+Have I thy schoolmaster made thee more profit
+Than other princes can, that have more time
+For vainer hours and tutors not so careful.
+I.ii.172-5
+
+The key word “care,” charged from the first by Prospero’s statement of dedication, reappears
+here at the conclusion of the story, emphasizing (though in a negative construction) the role
+Prospero most sees himself playing.2 The part he plays in her care is, primarily, that of
+schoolmaster and tutor.3 He decides what she must know, and how she comes to know it.
+
+2
+
+In a certain way the use of the negative (“tutors not so careful”) emphasizes the word further, allowing it to be
+placed emphatically at the end of the line, and of the speech as a whole. The Norton’s gloss on “careful” as “caring”
+certainly conveys the point but pushes to the side the complementary sense of “care” as a Latin derivative of cura: a
+troubling concern due to a personal responsibility. Prospero’s burden of raising Miranda in the way he chooses to
+
+34
+This instruction, we come to learn in the scene, takes the form of a repeating question-andanswer ritual between the two of them. Miranda, who if anything is not dedicated to “closeness”
+for the “bettering of [her] mind” (I.ii.90) is not one to learn from the “secret studies” that
+consumed her father’s attention as duke. In other words, the secret—and most importantly,
+silent—mode of book-reading and learning through print is explicitly Prospero’s domain—or at
+least, that of Duke Prospero, never of his daughter. Miranda’s mode is the oral and aural, the
+listening and responding that make up her recurring didactic exchanges with her father.
+Of course, as many commentators have noticed, we never see Prospero’s books or witness
+him reading them. They are kept, we learn, so deep within the cell that when Prospero is “hard at
+study” (III.i.20) he can be counted on to be completely absent for “these two hours” out of the
+play’s six. As will be demonstrated below, although Prospero is the nexus at the center of the
+world of speech in the play, he to some extent represents the world of print. But the
+overwhelming importance (not quite power) of speech in the play ensure his shift from that
+former function to his climactic statement, “I’ll drown my book.”
+If indeed we are to determine the nature of Miranda’s education and the extent to which it
+prepares her to receive the epic revelation of her past in I.ii, we might consider at this point the
+question of her literacy. Oral retelling is the epic mode, yet the hidden books lurk in the play’s
+background—and in Miranda’s awareness. Interestingly, the play offers no definite information
+on Miranda’s literacy. Perhaps Prospero has learned from his exclusive obsession with the
+written word, which demands “closeness,” secrecy, and most of all silence, that his daughter
+
+can certainly be called one. Thus the final word of the speech conveys both his duty owing to love as well as the
+“vexation,” as he will call it at IV.i.158, of such service.
+3
+
+“Tutor” in turn has the Latinate meaning of “protector.”
+
+35
+must be—if she is to complete his project—turned outward, and ready to speak and receive
+speech. Prospero describes his own engrossment in the word:
+I, thus neglecting worldly ends, all dedicated
+To closeness and the bettering of my mind
+With that which but by being so retired
+O’er-priced all popular rate, in my false brother
+Awaked an evil nature.
+I.ii.89-93
+
+His closeness becomes the active agent of his demise. This does not argue for or against his
+support of Miranda’s literacy; but her education, if anything, constitutes an opening, a greater
+apprehension, in contrast to Prospero’s experience and symbolized most clearly by her
+emergence from the space “within” in the play’s final scene. This increased awareness is both
+practical (a revelation of the number and diversity of human forms) and, more importantly for
+the question at hand, temporal (a coming to be familiar with her own past, “what I am”). But
+even taking all this into account, there are no references to her having been taught to read, and
+her instruction of Caliban (“I taught thee each day / Some thing or other”) is a course in spoken
+language, learned not from writing but from speaking and repeating lessons. She is never shown
+reading in the play, nor mentions having read anything. She only refers to the action, “study,” as
+the reason for her father’s periodic absence, deep and distracted.
+But her literacy may bear a broader definition. Miranda reads, if not texts, symbols. She
+knows the game of chess, if not exactly what its pieces stand for (V.i.174-8); that is, being raised
+in her circumstances, she may not understand, for example, the distinctions between the pieces
+on the board, but realizes that nevertheless there is a hierarchy among them as well as a set of
+rules (line 174) which can, but should not be, transgressed—the same attitude she took with the
+prescriptive grammar she had once attempted to teach Caliban. And even though Caliban, though
+certainly illiterate (“a sot, as I am,” without the written word), cannot use the contents of
+
+36
+Prospero’s books, he nevertheless exhorts Stephano to seize them, using their power in a
+negative capacity even while unable to make positive use of them himself. Indeed, the possession
+of the books seems to become a metonym for proficiency in language—and the control of
+narrative accounts that comes along with it, which Prospero attempts so fervently to achieve and
+maintain.
+Remember
+First to possess his books, for without them
+He’s but a sot as I am, nor hath not
+One spirit to command—they all do hate him
+As rootedly as I. Burn but his books.
+III.ii.86-90
+
+This power is acquired by Prospero through the use of the books, but it is transmitted—spoken—
+to Miranda and in turn to Caliban (though each subsequent recipient receives progressively less
+and less of the original wealth of wisdom they contain). Radiating out from the mysterious books
+are the oral modes which become so crucial in learning to speak and then putting that speech to
+use on the island, where oral retelling is the only medium for history, the only outlet for memory.
+In contrast to the way language is controlled and disseminated by Prospero, the Neapolitans
+are certainly literate. Of course, taking the setting into account, no other character besides
+Prospero is actually in possession of books because of the condition of their arrival on the island.
+Yet besides the simple (but extraneous) social reason that the nobles would have to be bookreaders, the king’s party shows their literacy through their allusive language. In II.i.75-81
+Antonio, Sebastian, and Gonzalo show their familiarity with Virgil, until 82 in which Gonzalo
+corrects Adrian with an equally informed example from historical geography (“This Tunis, sir,
+was Carthage”). But entrance into the world of the island, which as argued in Chapter 1 is
+defined by its Distances, necessitates a shift to oral modes of communication because of the very
+nature of those Distances. The king’s party even receives, aurally, the prophecy of their doom
+
+37
+with all its spell-stopping force, even if they cannot quite understand what it was they heard—as
+in Alonso’s dazed “Methought the billows spoke and told me of it,” (III.iii.96ff.)
+We return to our previous question. Even if Miranda’s literacy remains a question, the effect
+of that ambiguity is itself instructive and should be paid more attention that the question itself.
+Prospero’s intentions, his uses of language, and Miranda’s own expanding self-awareness
+interact around it. Miranda’s greater awareness of her past (not necessarily her memory of it)
+illuminates the space held before by Prospero’s retelling, and the expansion of her perspective,
+certainly including the revelation of human forms, may help to revise her earlier confusion about
+whether (as discussed in Chapter 1) the women she recalls from her childhood, the only image
+salvaged from the “dark backward and abysm” were distinct forms or reflections of her own
+image. Perhaps in this widening of perspective she is intended to achieve what Prospero could
+not by his former “close” dependence on the written word.
+The name she gives to her ongoing didactic exchange with her father is “inquisition,” or a
+rigorous inquiry. While such a description places great importance on her curiosity, at the same
+time it reinforces Prospero’s position as the island’s regulator of memory—or at least his attempt
+to be so. When granting Miranda knowledge of things from elsewhere than on the island, the
+scope and depth of such revelations is entirely under his control. He is in command, both in the
+basic language he teaches to his daughter (there are no other ‘linguistic’ influences on the island)
+and in the narratives he tells her. But all these things are invisible and intangible, or at least not
+observable on the island, and her education takes the form mostly of learning that which cannot
+be gained through empirical observation on the island itself.
+In the very first exchange of I.ii, Prospero’s art supersedes even Miranda’s own senses; that
+is, the information she seems to gather herself, her unaided perception, is disproved by Prospero.
+
+38
+The pattern that becomes apparent is that real knowledge is of that which cannot be seen—due
+its Distance as described above, or because its usage has been appropriated by one more
+powerful. In fewer words, Prospero controls (by disproving) even what Miranda sees and hears,
+all as a component of her “care,” her education. However much this is motivated by love, his
+language is still—always—imperative, giving commands for control, gentle as they may seem:
+Be collected.
+No more amazement. Tell your piteous heart
+There’s no harm done. . .
+Wipe thou thine eyes, have comfort…
+…Sit down,
+For thou must now know further.
+I.ii.13-33
+
+There is no denying what she has heard and seen; as perceptions they are true, but as truths they
+are false. The position of importance given in the play to transmission across Distances seems
+here, at the very beginning, to supersede even the information one has at hand. Likewise, even
+Prospero’s knowledge that the ship is safe, the “provision in [his] art,” is communicated to him
+indirectly through Ariel’s report. Messages are constantly concealed, transplanted, carried from
+far off. This only intensifies the concluding face-to-face encounter of all the players, when, with
+Prospero’s rough magic abjured, the men (and woman) can at last trust to the “sensible and true
+avouch” of their own eyes.
+
+Miranda’s “inquisition,” in context, raises questions not only about how she comes to know
+what she knows of the past, but also about what constitutes that knowledge. The most interesting
+aspect of Miranda's education is her knowledge that what she knows is incomplete, and this
+demands a question—which we will pose precisely later—of what may be called positive and
+negative knowledge. Active memory and recall, with which we have mainly been concerned,
+demand an object—yet what is the effect on the student, the novice (as Miranda might be said to
+
+39
+be) when a blank becomes part of an account of the past? What if this gap conceals the most
+fundamental part of the story? The complications are many, especially since in Miranda’s case
+the negative space is learned and maintained in the same way as the positive.
+As we have seen, Miranda's education seems to have taken the form of a repeated questionand answer (as repeated in the education of Caliban).4 But Prospero, we know, has concealed
+answers from his daughter, constructing gaps in the most fundamental regions of her memory;
+and yet the concealment of an answer is almost an answer in itself. Here is Miranda's reminder
+before the narration begins:
+You have often
+Begun to tell me what I am, but stopped
+And left me to a bootless inquisition,
+Concluding, “Stay: not yet.”
+
+She is as aware of the lacuna in her memory as of any other piece of information that Prospero
+has seen fit to transfer to her in his role as “schoolmaster” and keeper of books. Moreover, she
+knows that what he has kept from her ears is the answer to the fundamental question “What am
+I?” She is unaware (or at least relatively unaware) of the temporal and spatial distance that make
+the responsibility for answering lie solely on Prospero, yet her uncertainty as to what she is—
+while she goes on being whatever she is—testifies to the epic situation of the play and Miranda's
+role as its epic center.5 As one would expect, the unanswered question becomes the most
+intriguing.6 Miranda can hardly be blamed for seeking it out, if Prospero's epithet for her is more
+than coined on the spot: “thee, my daughter, who / Art ignorant of what thou art.”
+
+4
+
+Repeated, that is, by Prospero or Miranda. The speech prefix at I.ii.354 has been the center of debate as the
+Folio assigns it to Miranda but as in Greenblatt’s note to the line, many editors “believe it to be out of character” for
+her. Whether Prospero endows Caliban’s purposes “with words that made them known,” or whether Miranda does
+so as his surrogate, is not really within the scope of this question (nor is Miranda’s “character,” whatever it may be).
+5
+Her being herself does not require her knowledge—but her satisfaction, her sense of authenticity or fulfillment
+in being that self does, by standards not universal.
+6
+
+This situation may be reflected in the Folio reading of line 35:
+
+40
+Because she is so aware that her knowledge is incomplete, she is also aware that her
+education, Prospero's “care” of her, has a specific duration—that at some point it will be
+completed, similarly to his other “projects.” She senses—and he confirms—that this “doom and
+date”7 is bound up with the revelation of this story, the answer to the question “What am I?”
+Consider Prospero's reported deferral of the answer: "Stay: not yet." They both wait for a time
+when “the very minute bids thee ope thine ear,” though Miranda's ears are open already,
+specifically for this answer. Prospero, however, knows the exact nature of this crisis and
+culmination, and why it necessitates his narration. Miranda, constantly delayed by the concise
+but impossibly dense reply of “Stay: not yet” knows both that she lacks knowledge and that her
+process of revelation is bound up with time.
+Miranda’s statement on her bootless inquisition is, like so much of the opening of this scene,
+compact and worthy of the closest readings. But we cannot quite get a sense, from her words, of
+how she came to know what she does not know. As she puts it, Prospero himself took the
+initiative (“You have oft begun...”); it seems that his careful construction of narratives, and
+Miranda’s origin-story among them, is so involuted that to tell of one cause leads to another, all
+the while realizing that his great project requires restraint and control. This interweaving is
+present in the narratives he rehearses with both Ariel and Caliban as well—stories bleed into
+parallel stories, and the nature of his relationship with one depends on the relationship with the
+other. Ariel’s responses in I.ii, seemingly from rote, cover Caliban’s origin as well, as their two
+
+and left me to the bootelesse Inquisition.
+In every modern edition, ‘the’ is the undeserving victim of emendation to ‘a.’ But the sudden precision and
+detail of “the bootelesse Inquisition” shows the central space this mysterious question holds in Miranda's awareness.
+Didactic exchanges have occurred between father and daughter on several topics, but inquiry into this one, the
+greatest question of all (“How did I come to be?” “How did I come to be here?”) is given a definite, and entirely
+accurate, name.
+7
+
+Sonnet XIV.14.
+
+41
+situations are inextricably linked by the figure of Sycorax, whose presence looms over the play’s
+past (and the memory of it) like a shadow.
+Returning to the original question, I propose that the distinction between Miranda’s “positive”
+knowledge and “negative” knowledge is not as clear as it seems.8 Miranda’s education has been
+in everything but what she herself is, and this (lack of) knowledge informs her character as much
+as anything positive that she has learned. Her situation is unique in that she is, to herself, a
+“blank” (to use Viola’s phrase connoting both an emptiness as well as a vacuum attracting
+whatever presents itself to its pull), while at the same time she is completely unique to herself. “I
+do not know / One of my sex,” she confides to Ferdinand in her crucial speech on memory and
+imagination, and yet she does not know what that identity signifies in relation to the world at
+large.
+What Miranda rehearses with Prospero, then, is the fact that she does not know who she is—
+and this becomes as much a fixture of her identity as the rehearsal of Ariel’s story becomes to the
+spirit, or as the repetition of Caliban’s history becomes to him. As referenced above (in Chapter
+1), Prospero’s memory sessions with Ariel and Caliban are periodic events; they recur with
+predictable regularity, and through their repetition the participants learn the proceedings by rote.
+Long after the practical purpose of remembering has been achieved and maintained (however
+much Prospero believes his foils need “reminding”), the interactions take on the feeling of ritual.
+“I must / Once in a month recount what thou hast been / Which thou forget’st,” says Prospero to
+Ariel, notifying us of the period; Prospero and Miranda’s visits to Caliban are regular, for he,
+habitually, never yields kind answer. Having previously discussed the ritual, almost liturgical,
+nature of the proceedings between Prospero and Ariel, I would like to extend the focus to
+
+8
+
+Just to be clear: “positive” meaning actual recall or teaching, “negative” meaning awareness of a gap in
+knowledge, as in “You have oft / Begun to tell me what I am, but stopped...”
+
+42
+Caliban, specifically as his “education” (or domestication) by Prospero contrasts with that of
+Miranda.
+Called forth by Prospero in I.ii, Caliban assumes while still offstage that physical labor is the
+purpose of his summons. But Prospero has other plans, as he speaks one of the play’s most subtle
+lines:
+
+PROSPERO
+
+What ho, slave! Caliban!
+Thou earth, thou, speak!
+
+CALIBAN
+
+There’s wood enough within.
+
+PROSPERO
+
+Come forth, I say! There’s other business for thee.
+I.ii.316-8
+
+This “other business” is the ritualized exchange of narratives, which the two presumably engage
+in at every meeting, just as Caliban curses at every mention of Prospero’s name, even when
+speaking to himself (as in II.ii, “All the infections”), with as formulaic a regularity as that of the
+Homeric epithet.
+Prospero’s command, his first imperative to Caliban, is not “Fetch us in fuel” (line 369) but
+“Speak!” Read in this light, several of Prospero’s remarks about what exactly Caliban does take
+on a new significance. After his role of log-bearer (which will be assumed by Ferdinand),
+Prospero tells us only that “he...serves in offices / That profit us” before his command to speak.
+The narrative exchange, as one of the many “offices” Caliban performs, profits Prospero in
+solidifying the dynamic of power between the two, regardless of the historicity, or accuracy, of
+
+43
+the events described. Caliban himself admits that the truth of their contending accounts is largely
+irrelevant— “I must obey: his art is of such power,” he concedes.9
+In fact, it is not as fitting as it seems to call this episode an exchange (an event in which two
+distinct things are offered between parties and the outcome may be uncertain when the exchange
+begins). The outcome is not in doubt, nor does the accuracy of the retelling matter: due to the
+force of Prospero’s art, the official “recorded” history will be what he says it will be; but as we
+have seen, this authority derives from threats of violence rather than from the superiority of
+Prospero’s account.10 The same distance that makes retelling necessary also makes differences of
+opinion difficult or impossible to resolve—impossible, that is, in the absence of objects enduring
+from the past (generally speaking, artifacts, such as the “stuffs and necessaries” Prospero
+received from Gonzalo) or entities bridging that distance (those involved in the unexpected
+encounters described above). Thus the power to retell and the dynamic of who is speaking and
+9
+
+The rest of this line may be useful to consider: “—his art is of such power / It would control my dam's god,
+Setebos, / And make a vassal of him.” The power within Prospero's speech, given a life of its own in Caliban's
+phrasing, is strong enough to dominate Setebos who, we can perhaps infer from Caliban at II.ii.133, was introduced
+to Caliban in a similarly “distant” act of retelling and conflated with the man in the moon. His conception of the god
+is vindicated when he perceives Stephano to be Setebos (“the man i'th' moon”), come down to the earth to verify the
+story in an unexpected encounter. Ironically, the man in the moon is also invoked by Antonio to illustrate the
+difficulty of transmission across spatial distance between Tunis and Naples:
+[Claribel] from Naples
+Can have no note, unless the sun were post—
+The man i’th’moon's too slow— till newborn chins
+Be rough and razorable. . .
+II.i.243-6
+The pair of sun and moon also figure into Caliban's idea of speech as they are the first (or an example of the
+first) things that Prospero taught him how to refer to by name (I.ii.337-9 and above). It was either Sycorax or
+Miranda who taught Caliban about the man in the moon. (The answer depends on whom Caliban means by “my
+mistress” at II.ii.133.)
+9
+
+Sycorax herself is excised from memory as mediated by Prospero since, in his words, her deeds are “terrible /
+To enter human hearing” (I.ii.266-7), thus shut out of the oral/aural exchange. Even if they could be tolerated by
+human hearing, only Ariel, as Sycorax’s former servant, could give an account from memory; not just a witness,
+Ariel’s “affections,” as he states pensively at V.i.19, are not human, and he is certainly not bound by limitations on
+“human hearing.” But he never speaks a word about what provoked Sycorax’s banishment from Argier.
+10
+
+Certainly no authority derives from the “majority rule” argument that Prospero and Miranda vs. Caliban is
+two-on-one.
+
+44
+who is commanding speech lie above the real or imagined accuracy of the speaker’s recollection.
+In a way, that dynamic (with its attendant consequences) is already decided beforehand, as the
+very terms on which the interaction takes place is Prospero's territory.
+I have discussed above Prospero's scheme of recollection, how he understands our process of
+retelling from memory; he shares it with us when he says to Miranda
+Of anything the image tell me that
+Hath kept with thy remembrance,
+
+making the process clear both in sense and in syntax (as discussed in Chapter 1). These are three
+consecutive translations; and I have already noted that in any translation from one medium to
+another, something will be lost or, at the very least, imperfectly altered. Yet up to this point I
+have gone without mentioning the obvious truth that the final step of Prospero's process, the
+translation from image to speech, must take place in language—and thus on terms not entirely
+belonging to the speaker. Prospero did not himself create the English that he speaks in and that
+he teaches Caliban, yet the terms on which his dialogues with Caliban occur are his own, given
+by him even if no longer controlled by him. Caliban famously insists that his own will has
+trumped the intended effect of his education in language:
+You taught me language, and my profit on't
+Is: I know how to curse. The red plague rid you
+For learning me your language!
+I.ii.366-8
+
+yet he does not realize that his cursing only furthers the exchange of narratives, which was never
+on his own terms. Moreover, his education in language has been—similarly to Miranda's—
+rooted in causes, in aetiology, in learning how things came to be. Language is given through
+teaching causes, and becomes the medium for retelling them, a system congruent on its several
+levels and on both large and small scales.
+
+45
+In her chapter on The Tempest in Shakespeare’s Memory Theater, Lina Perkins Wilder
+approaches Caliban and Ariel as subjects of what she terms Prospero’s “mnemonic colonization,”
+bringing postcolonial readings into contact with the present question of the power of retelling
+and Wilder’s own project of exploring Renaissance memory arts in the late plays. Her reading
+casts Prospero’s representative interaction with Caliban in I.ii not as an exchange but as an
+aggressive act on Prospero’s part of clearing Caliban’s memory and refocusing it to suit his ends.
+The end he aims at is what she calls a “fantasy of executive control,” Prospero’s self-casting as
+the ultimate arbiter of memory in the play. (We shall return to his attempts to play this role
+below.) Arguing that all of the late plays form around a conflict between this fantasy and
+“divergent or dissonant voices,” her analysis of Caliban rightly acknowledges that even though
+the medium of language in which Caliban gives voice to his curses is not his own, he holds the
+power to turn it, reflexively, inward upon itself. His is a dissonant ‘voice’ in multiple senses—
+both the perspective belonging to him as well as his literal voice, the words to which he gives
+breath.
+Yet what she casts as a refocusing or erasing of Caliban’s memory she also calls, more
+rightly, a “conflict of rememberers.” Though we have seen that verbal and physical power may
+nullify the superiority of one account over another on grounds of its ‘accuracy,’ the encounter is
+nonetheless a conflict as both opposing recollections do indeed exist. The difference is not
+necessarily in facts but in what I will call “past expectations” or “extrapolations.” Neither
+Prospero nor Caliban deny that the latter predates Prospero on the island, yet whether that makes
+him “king on’t” or subject to Prospero’s ‘colonizing’ power is the real dispute. More clearly,
+none denies the fact of Caliban’s intention in the incident with Miranda. Although intentions are
+not so easily proved as physical facts, neither denies that Caliban aimed at rape. The conflict,
+
+46
+then, is between expectations held at the time of the event recalled. For Prospero it would have
+been a violation of “the honor of [his] child;” for Caliban:
+Would’t had been done!
+Thou didst prevent me; I had peopled else
+This isle with Calibans.
+I.ii.352-4
+
+The narrative encounter is not an erasing or, as Wilder might have us believe, an indoctrination
+with a colonial agenda. Caliban’s “office” as a rememberer is one that profits Prospero, but both
+narratives are recalled and brought to light; the dominating power does not silence Caliban, but
+only makes him surrender (only temporarily, only until the next encounter) after both accounts
+are drawn out and spoken, and the dynamic between the two is renewed in the synthesis of
+narratives.11
+If this seems like splitting hairs, it is important to realize that Prospero’s “pedagogy” has
+allowed Caliban to rehearse a narrative that Prospero has not taught him, even as the medium of
+that narrative derives from Prospero himself. He is granted—even exhorted to use—his freedom
+to speak. The encounter between the two takes place on Prospero’s terms, in the English blank
+verse which he speaks, yet Caliban’s recollection and his conflicting “past expectations” are his
+own—not introduced by Prospero, as Caliban’s holding them are not profitable to his master.
+Only once both accounts are laid out in the “conflict of rememberers” does Prospero’s verbal art
+assert its power. Nor could this relationship be maintained if Caliban actually did internalize and
+accept what Prospero casts as historical fact. What he does internalize (and become just as much
+a master of) is the scene that they rehearse over and over, a number of repetitions beyond
+count—not the truth of one or the other, but the conflict between them. Miranda says as much
+when she recalls that she taught Caliban to speak not so that he might repeat Prospero’s precepts
+11
+
+It is also worth noting that, so far as we can tell, Prospero never makes good on his threats of violence. (The
+closest we come are the “inward pinches” which Sebastian and Antonio suffer while immobilized onstage in V.i.)
+The threats to Caliban are, within the parameters of the play, another part of the verbal routine they rehearse.
+
+47
+as dogma, but that he might make his own “purposes” intelligible to them. It is hard to overstate
+the importance of this distinction. In this way, Wilder’s theory of Prospero’s “mnemonic
+colonization” must be revised to consider that the conflict of the two is the steady state towards
+which the process tends—not an ongoing battle in which the dominating magus will eventually
+triumph. It is not Prospero’s prescribed accounts of the past but the conflict itself which becomes
+liturgy.
+Jonathan Baldo interprets the dynamic of memory between Prospero and Caliban as
+sometimes mirroring and sometimes opposing known colonial practices.12 Baldo writes that
+colonial powers, functioning under the assumption of native peoples as “of weak remembrance,”
+attempted, through the erasure of the memory of the colonized population, to “export oblivion”
+to the colonies and supplant local memory with authoritative history, often in the form of
+writing—which was seen to symbolize the indelible, incontrovertible account of the colonizing
+culture. His argument is compelling as he suggests that Prospero is in effect “going native” (123)
+in his insistence on the importance and primacy of oral narration over the written texts that he
+owns (namely, his books). Prospero simply acts as circumstances demand and as the Island
+necessitates. Whether this constitutes a choice on his part is debatable, but it is insightful of
+Baldo to notice that Prospero’s adoption of oral—native—modes does not elevate or claim to
+legitimize his accounts over those of Caliban on grounds of accuracy. Caliban is subdued
+through the verbal power of Prospero’s art, but his voice (though “dissonant and divergent,” in
+Wilder’s terms) is hardly silenced. The dynamic is a sort of static conflict, not an overbearing
+domination on either part.
+
+12
+
+41.
+
+Baldo, “Exporting Oblivion in The Tempest” in Modern Language Quarterly, Vol. 56 No. 2, 1995. pp. 111-
+
+48
+Once we realize this, we can acknowledge that the interaction between the two is never onesided, overpowering though Prospero may be and given whatever qualitative differences may
+exist between what each of them offers the other. Consider Caliban’s speech “This island’s mine,”
+in which he describes the initial exchange between them, and their mutual instruction of each
+other.
+When thou camest first,
+Thou stroked’st me and mad’st much of me, wouldst give me
+Water with berries in't, and teach me how
+To name the bigger light, and how the less,
+That burn by day and night: and then I loved thee
+And showed thee all the qualities o’th’ isle,
+The fresh springs, brine-pits, barren place and fertile:
+Cursed be I that did so!
+I.ii.335-42
+
+Here an opposition is set up between what Prospero teaches and what Caliban teaches. Prospero
+teaches language—namely, how to name—and Caliban teaches experiential knowledge, things
+known by intuition or observation in a way that language is not. One teaches names, the other
+“qualities.” Names are completely bound by speech, while knowledge of qualities does not
+require it. It can be complemented by language, but is not dependent on it, as Caliban makes
+clear in his promises to provide services to Stephano similar to those he once did to Prospero:
+“Let me bring thee where...”, “I will dig thee...”, “[I will] instruct thee how to snare...” When
+Miranda maintains that she “endowed [Caliban’s] purposes / With words that made them known,”
+she means that she gave him the ability to complement these demonstrative actions and intuition
+with the ability to describe them. We must disagree with her, however, when she prefaces that
+line by telling Caliban that “thou didst not, savage / Know thine own meaning.” He knows his
+meaning, but the separation between meaning and expression was alien to Caliban and was only
+realized when he was introduced to Prospero’s language. The introduction of such a rift is
+necessary for the “conflict of rememberers” to take place, since the rememberers must be able to
+
+49
+understand each other. A “side effect” of Caliban’s new power of speech is his usage of it to
+describe his former way of life as a forager—the very service for which Prospero loved Caliban
+and took him in. In a passage second in its music only to “Be not afeard: the isle is full of noises,”
+Caliban offers his services to Stephano:
+I pray thee, let me bring thee where crabs grow
+And I with my long nails will dig thee pig-nuts,
+Show thee a jay’s nest, and instruct thee how
+To snare the nimble marmoset. I’ll bring thee
+To clust’ring filberts, and sometimes I’ll get thee
+Young scamels from the rock. Wilt thou go with me?
+II.ii.159-164
+
+In the passage, the beauty and euphony of the language he has learned shines through, rare for
+Caliban in that the sound of what he says, the exact thing that Prospero and Miranda have tried to
+reform in him, takes precedence. The sound of his “gabbling” was what marked him in the
+newcomers’ eyes as a thing most brutish, yet here sound dominates meaning—to the point that
+(for example) “scamels” is a hapax legomenon: it is not used anywhere else in English, nor is a
+definition attested anywhere.13 He has at once both achieved and defied what Prospero has taught
+him to be: he speaks their language—and well—but to such an extent that the exact meaning is
+lost. Even if the sense is not lost, it becomes somewhat irrelevant; and Caliban reverts to his
+former state of showing, not telling, all the qualities o’th’ isle. Stephano ensures as much in his
+reply to Caliban’s euphony: “I prithee now, lead the way without any more talking.”
+
+By acting both as a speech instructor as well as the holder of the mysterious books, Prospero
+casts himself as the regulator of speech in the play’s world, a role which seems to make sense
+when we witness his ability to “spell-stop” and his dialogues with Miranda, Ariel, and Caliban.
+Yet his desire to be so also seems at times as much of a “fantasy” as Wilder makes it out to be.
+13
+
+Greenblatt et al. emend F’s reading of Scamels to “seamews,” and then gloss the word as “seagulls.” This is
+unnecessary, disrupts the music of the line, and very much defeats the purpose of the passage.
+
+50
+Indeed, as his project gathers to a head and the play nears its conclusion, he feels his power over
+memory—if not over speech—weakening, leaving him primed for a new round of realizations
+and a different sort of awareness.
+While indulging, somewhat unlike himself, in a “vanity of mine art” to present the pageant of
+Ceres and Juno to Miranda and Ferdinand, Prospero breaks off the masque with a striking
+realization that something, despite all his attempts at control, has slipped his mind.
+I had forgot that foul conspiracy
+Of the beast Caliban and his confederates
+Against my life. The minute of their plot
+Is almost come.
+IV.i.139-41
+
+This situation seems to be strangely inverse to the great retelling in I.ii in that remembrance in
+both is crucial to explain and avoid crisis—the present moment is of the utmost importance. As
+Prospero tells Miranda, “the time’s now come. The very minute bids thee ope thine ear.” This
+failure of memory is deeply unsettling, even disturbing, for Prospero, perhaps compounded with
+regret over using his art in pursuit of “vanity” and nearly suffering for it. Caliban’s foul
+conspiracy has only been percolating for no more than two hours, and thus Prospero’s failure to
+remember might seem of a different sort than the long-term recall of I.ii. Yet given the periodic
+nature of his encounters with “the beast,” his lapse in memory is lapse in the process they have
+maintained since Caliban was enslaved.
+But we cannot ignore the fact—especially not when considering this moment—that
+Prospero’s mastery of memory, or his attempt to master the memory of the environment in which
+he operates, is made possible because he does not act alone. With Ariel attending on him, he can
+retain and perform more than any man could do on his own. This is a primary reason why the
+decision to release Ariel at the play’s conclusion is as momentous an occasion as drowning the
+books or breaking the staff. By using Ariel as a sort of external memory (at least partially),
+
+51
+Prospero also opens the door for Ariel himself to formulate his own desires, his own expectations
+out of that memory. Even while aiding Prospero in his great project, Ariel remembers his
+promise of freedom; that which enables Prospero also gives rise to the desire to be freed from
+that role. I consider this aspect of Ariel’s service to Prospero a more fitting application of
+Wilder’s idea of “divergent and dissonant voices” among Prospero’s subjects, in that Ariel
+comes to be at cross-purposes with himself.
+Furthermore, it is at this moment of forgetting in IV.i that Prospero’s dependence on Ariel,
+even over-dependence, becomes clear.
+PROSPERO
+
+Spirit,
+We must prepare to meet with Caliban.
+
+ARIEL
+
+Ay, my commander. When I presented Ceres
+I thought to have told thee of it, but I feared
+Lest I might anger thee.
+IV.i.165-9.
+
+Ariel has placed his role within the “vanity” of his master’s art above his role as memory agent,
+and has actively withheld something which Prospero has forgot. Ariel’s admission is fascinating
+in that Ariel omits information from Prospero in much the same way as Prospero had earlier
+withheld the secret of “what I am” from Miranda. The magus has assumed that this authority, the
+position of deciding what information must be brought forth and recalled and what must lie
+hidden, is his alone. But due to whatever factor it may be, he no longer holds the monopoly over
+memory he professed to hold. The realization of his own dependence is startling and disturbing
+to him, especially because it comes on so suddenly and the consequences (should he have
+forgotten entirely) would have been so dire.14
+
+14
+
+That is, if we really believe that the conspirators pose a threat to Prospero’s life. They would definitely not
+have found in sleeping in the afternoon, as Caliban had proposed as the ideal time to murder him.
+
+52
+Perhaps it is Ariel’s impending freedom that makes him aware of his weakening grasp over
+his memory and others’; his loss of control, Miranda tells us, is unprecedented—
+Never till this day
+Saw I him touched with anger so distempered
+IV.i.144-5
+
+—and it provokes from Prospero himself an honest admission of his condition:
+Sir, I am vexed.
+Bear with my weakness. My old brain is troubled.
+Be not disturbed with my infirmity...
+...A turn or two I’ll walk
+To still my beating mind.
+IV.i.158-63
+
+When Miranda realizes and acknowledges the gaps in her own memory and recollection, it
+serves as an instigation to inquire more, to learn more. Prospero, much older, sees it as a
+reflection of his own “infirmity.”
+Caliban declares that without his books (that is, without aids to memory), Prospero is “a sot,
+as I am.” We need not go so far as to agree with him, but it is clear that Prospero’s casting of
+himself as the arbiter (judging what is appropriate to be known and recounted and when) and
+controller of memory is based on factors not innate to himself—his books, the service provided
+to him by Ariel, even Sycorax and Caliban who gave him mastery of the island and the island’s
+history. He makes sure to qualify the elves of hills and brooks of his great speech in V.i (“by
+whose aid, weak masters though ye be...”) as both feeble and as assisting him in physical tasks
+rather than memorial, but his dominance is based on external factors to which he gives the
+general name of “charms” (Epilogue.1). When these are overthrown—by none other than
+himself—the importance of memory and oral retelling reasserts itself, both in Prospero
+newfound realization of the difficulty of the task, and in the knowledge that the burden of it will
+
+53
+now be placed on the younger generation, for which he has prepared Miranda the whole time,
+and for whom his entire project was designed long before the tempest began.
+Having examined the role of education, language, and speech as they relate to oral
+retelling—having considered our questions on a small scale—we can proceed to expand the
+discussion to a greater scope. The following chapter will first take a step back from the text of
+the plays to discuss early modern conceptions of the passage of time; secondly, it will consider
+alternatives to human memory in the last plays, specifically the presence of oracular figures;
+lastly, it will apply these terms to our discussion of The Tempest, most importantly the “head”
+towards which Prospero’s project gathers: the climactic scene V.i.
+
+54
+
+Chapter 3
+“The voice o’ th’ oracle”
+
+Like as the waves make towards the pebbled shore
+So do our minutes hasten to their end,
+Each changing place with that which goes before:
+In sequent toil all forwards do contend.
+Nativity, once in the main of light,
+Crawls to maturity, wherewith being crowned
+Crooked eclipses ‘gainst his glory fight,
+And time that gave doth now his gift confound.
+Time doth transfix the flourish set on youth
+And delves the parallels in beauty's brow,
+Feeds on the rarities of nature's truth,
+And nothing stands but for his scythe to mow.
+And yet to times in hope my verse shall stand,
+Praising thy worth despite his cruel hand.
+Sonnet LX
+
+The speaker of Sonnet LX gives voice to what Ricardo Quinones identifies, in his opening
+chapter of The Renaissance Discovery of Time, as a pervasive metaphor for the newly redefined
+experience of time by individuals in the early modern period. Quinones catalogs several
+medieval conceptions of time that would become outmoded by the Renaissance and play a large
+role in defining the nature of the era and the sentiments of its individuals.42 In Quinones’ account,
+Time to the medieval mind was not a personal possession in the modern sense, not a commodity
+in short supply capable of being hoarded or squandered like currency or put to effective or
+ineffective use. Largely because they were dominated (or at least governed) by the organizing
+and regulating power of the Church, communities operated in a frame of “communal time,”
+attending to the lifespan of the group rather than those of its individual members.
+Magnificent and costly building projects could extend over several lifetimes before the effort
+was completed because time, while easily exhaustible by single men, was not seen as such;
+rather, it was conceived as being almost infinitely abundant on the grand scale of the world. Even
+
+42
+
+Quinones 3-27.
+
+55
+the newly-invented mechanical clock was slow to supersede the old devotional methods of
+telling time, which cast the day and its hours as a cycle of recurring but ultimately static periods.
+Bells would ring out time-divisions during the day, the same for all alike in the community. Such
+a regular cycle had repeated itself innumerable times before any given man's birth, and would do
+so long after his death.
+Mutability was not regarded in this outlook as the principal attendant on Time. If there was
+any goal, any teleological end towards which time and its use tended, that goal was an endpoint
+of the grand line of world history, an eschatological theory of end times and final judgment. The
+individual end of each man was subordinated to this larger design. This doctrine, when received
+from authorities in the community, leads by an alternate road to the tendency which Kermode
+writes of: the sense that true significance lies not in the frame of one man's life but in a broader
+span of history, and man's subsequent desire for consonance in his actions with an invisible past
+and future—actions which include, most notably, the making and valuing of narratives and
+fictions.43
+But to arrive at that desire by the constrictions of a society or the precepts of dogma is an
+alternate road to the one Kermode describes. As he writes of it, that desire (and the impulse
+towards storytelling) is innate, intuited by every man or woman. To clarify, I would add to his
+argument one condition: that the men and women who feel the storyteller's desire do not live in
+total isolation. The sense of a large-scale design among events on a vaster scale than one's own
+life is only felt when one comes into contact with others: other people, other forms, other objects
+elsewhere along the trajectory from origin to decay (or the eternal, off that trajectory altogether).
+In the absence of these encounters, which to some degree are always comparisons, there would
+be none of Kermode's sense that one's birth or death is temporally arbitrary (an entrance or exit
+43
+
+Kermode, 4.
+
+56
+in medias res); that is to say, purely hypothetically, that in total isolation, both social and sensory,
+one would have no reason to believe that his birth was not the origin of the world (or of
+everything perceptible) and that his exit from that world (if conceivable) would likewise be its
+end. This imaginary situation, of course, does not take into account the possibility of revelation
+from outside or from above. To use terms familiar from the preceding sections of this discussion,
+if we cannot perceive otherness or distance we will lack the desire for storytelling, let alone retelling or aetiology. Likewise, if we cannot understand our limitations—and believe that all
+things are observable to us—there will be no desire to narrate, to transmit.
+Quinones pauses in his account of shifting early-modern attitudes to draw our attention to the
+metaphor of the process of time as the movement of waves. He locates it first in Ovid’s
+Metamorphoses 15 and in Golding’s corresponding translation, and traces its development
+through Dante and Shakespeare, including (though he does not cite it explicitly) Sonnet 60. The
+innovation of the wave-metaphor, to Quinones, lies in the distinction it draws between
+individual-time and world-time (or the eternal: the time of divinity). Every minute of human life
+is both pursuer and pursued, occupying the same physical space (the body of the man or woman,
+and their physical environment) but replacing the previous minute and to be replaced in turn. The
+process is completely natural and requires no effort on anyone’s part, yet at the same time is
+described as “sequent toil,” aggressively harming the body with such actions as “transfixing,”
+“delving,” “feeding.” The waves are transient, rising and falling in the same motion, like a breath,
+and at the same time permanently damaging in the harm they inflict upon youth, beauty, and “the
+rarities of nature’s truth.” As Quinones writes, “this essentially natural process...is also one of
+exclusion and thrusting out.”44
+
+44
+
+Quinones, 14.
+
+57
+The metaphor, especially as it works in this Sonnet, is much more than a pretense for the
+speaker to set up an opponent for his “eternizing conceit” in the final couplet. The waves-as-time
+are not established from the outset of the poem as the enemy of record and memory, as they are
+(for example) in another prime example of the conceit, Spenser’s Amoretti 75 (“One day I wrote
+her name upon the strand”), in which the waves-as-time figure is intertwined with the timeversus-memory theme. The eroding, destructive power of the waves themselves is not even a
+subject treated in Shakespeare’s poem. The sea does not threaten to efface the memory of the
+poet’s beloved, but the sequent toil of the waves, self-destructive, will confound them all
+amongst themselves.45
+Yet the desire given voice by the eternizing conceit is not only for the preservation of the
+beloved’s virtues, to forestall the “lines” in the addressee’s aging face with the “lines” of the
+speaker’s poetry, to make memory as permanent as Spenser imagined it might be. It is also a
+desire for a certain type of perspective, something to be wished not for the beloved and his or her
+memory but for the speaker himself. This perspective is not eternal life but what we might call a
+constant present, informed by everything we have considered thus far about the nature of the
+present, and its relation to past and future. Just as in the “sites of retelling” detailed in Chapter 1
+above (and including both Prospero’s island and Dido’s Carthage), a defining trait of the present
+is its dependence on relation and retelling across distance in both time and space. The poet
+desires to exist in that moment, regardless of (and often, resigned to) the fate of the beloved. In
+the “age to come,” which the poet will not see but wishes to see, his words (in his place) will
+45
+
+Quinones notes that in the terminology of Augustine and Boethius (in whose writings he finds the origin of
+the conceit), the minutes and years of mortal lifetimes are distinguished from those which measure eternity and
+divine time by the fact that they ‘unmake’ or ‘undo’ themselves. He draws special attention to the verb deficere,
+which describes earthly life-spans in the Vulgate Psalms: “like deficere, verbs of ‘undoing’...are frequently used to
+describe the temporal process. And in Shakespeare, too, time is recorded by the withering of the flesh,” both the
+physical remnants of time’s effects as well as the record, as if a book, in which his passage is recorded. (Quinones
+14)
+
+58
+recount memory of the past: unverifiable, not subject to the criteria of what the present calls, in
+Benjamin’s terms, “information.”46 The eternizing conceit, then, gives voice to the poet’s desire
+to become the epic speaker, the storyteller who continues to sing “when all the breathers of this
+world are dead,”47 a Nestor, or an Odysseus, a sole survivor.48
+Each minute “changing place with that which goes before” is a constant exchange of
+perspective for perspective, each one distinguished from its followers by the relation of the
+viewer to the circumstances around him. We have seen this to be true in the requirement that
+distance and otherness be perceived in order for storytelling to take place. The sequent toil of
+minute after minute wears down words, accounts, narratives. The desire to be above that toil, or
+to create a “livelong monument” immune to that toil, is thus at the same time a desire to be
+removed from the significance of circumstances. The peculiarities of each moment, for lack of a
+better term, are the mutable elements upon which time exerts its eroding force. The story that
+survives is retold in a locus nouus, a strange new setting where its power is assured by the
+distance and dissimilarity between the event recounted and the site of the recounting.
+The search for this type of perspective is a dream of immunity from time and its changes
+both for the speaker and his words. However much this is a goal to be strived for, it is of course
+unattainable (for mortal storytellers). We might call it the ultimate epic perspective, an endpoint
+to be sought and never crossed—but the desire for which animates narration and renarration.
+46
+
+Verification can be provided, as we’ve seen in very different situations, by an unexpected encounter bridging
+spatial or temporal distance. This bridging of a gap is, under the surface, a major element of the “procreation”
+sonnets (1- 17), as in 17: “were some child of yours alive that time / You should live twice...” The speaker’s
+recorded words will offer no more than a story, but the child (or descendant, however many generations removed)
+will provide living proof, Benjamin’s elusive “verification”—even if he is not the Fair Youth himself—that the Fair
+Youth once existed.
+47
+
+Sonnet LXXXI.12. The speaker of Shakespeare’s sonnets realizes this as his own concern in a number of very
+self-aware poems (e.g. XVI, “When in the chronicle of wasted time,” and LIX, “If there be nothing new, but that
+which is”) which recognize this pattern of desire and storytelling repeating itself over time.
+48
+
+Both outlive their contemporaries (and their accounts of the past thereby gain authority): Nestor simply by
+age, Odysseus by ‘craft.’ They are themselves lone means of transmission.
+
+59
+Quinones suggests that “in his attempts to manage time, Renaissance man strives to achieve by
+means of process what eternity possesses in stasis;” the storyteller, achieving what eternity
+possesses, is both present and distant from both his subject and his audience.49 In speaking
+generally about the tendencies of Renaissance writers to deal with time, he goes on to describe
+this dream of a constant present, not one of many waves but above the system altogether and
+lacking the dependence on circumstances:
+[M]an's greater desire is to savor the present wholeness and being that he has always conceived to
+be the properties of divinity. Of course, as long as man is involved in time this is impossible.
+Yet...two ways emerge by which man's experience can break through the condition of change and
+simulate the qualities of being. A sense of presentness and a sense of contraction are recurring
+means by which [Renaissance writers] attest to their experience of wholeness... Even Montaigne,
+on a decidedly less lofty plane, will sense the lines of his own life coming together in the fullness
+of the present moment, where past and future are annihilated. 50
+
+This is both entirely in line with epic and contrary to it. As attaining that “fullness of the present
+moment” is an approachable but unreachable ideal, what it implies is not actually the situation of
+the storytellers who strive for it. Quinones’ supposed “annihilation” of past and future does away
+with the need for memory, as from such a perspective there are no causes, only correspondences;
+there are consonances between events, but no sequences in which, as Virgil reminds his readers,
+the effect is visible but the origin is not,51 no situation in which the roots of the tree are hidden
+while what grows out of them is plainly apparent. The survival of the poet (and his words) in the
+function of a messenger to “the age to come” is consistent with what we’ve found about epic
+speakers, and yet the desire to be outside of time, even to master time, eliminates the elements
+that defines such speakers.
+It is striking, as Jan Kott observes, that the great scene of retelling in I.ii of The Tempest is (if
+not modeled on) an echo of an exchange similar in all but that the participants are themselves
+
+49
+
+Quinones 26.
+Quinones 27.
+51
+See, for example, the opening of Aeneid 5 (“quae tantum accenderit ignem / causa latet...”).
+50
+
+60
+divine. Noting that the father-daughter pair would likely be observing the first scene’s tempest
+from above the stage in the gallery, Kott writes that comparisons to the dialogue of Jupiter and
+Venus in Aeneid 1 would have been clear, if not inescapable.52 Venus in Aeneid 1 is, of course,
+not ignorant like Miranda of who is aboard the ship she sees wrecked. In fact, the dialogue is an
+exchange of conflicting expectations which brings together aspects of both Miranda’s and Ariel’s
+initial scenes with Prospero. The daughter questions the father’s motive for raising the storm, yet
+the basis of her complaint is that he has turned aside from what he had promised.53
+Casting Jupiter as an epic storyteller (and Venus as his audience) highlights the problems we
+have just encountered with Quinones’ theory that storytellers strive towards the divine. He is at
+once distant from the action he relates in that the action does not require his agency to come into
+being; fata (literally, what he has spoken) drives the tale he tells and, as he tells Venus, it
+“remains unshaken (manent immota tuorum / fata).” Yet, aware of all that has happened and all
+that will be, his narration at once sets up expectation and fulfills it. Despite the objection that
+there can be no “temporal distance” aspect of epic in regard to a character to whom time is a
+non-factor, Jupiter’s speech is always both recall and prediction. In more general terms, divine
+storytelling (removed from the particulars of time and circumstance) is always a retelling, for
+what it relates has either already occurred is bound to occur with such certainty that it is in a
+
+52
+
+Kott 1976, 427.
+
+53
+
+Venus’s questions quae te, genitor, sententia vertit? (237) and quem das finem, rex magne, laborum? (241)
+are like Ariel’s:
+Is there more toil? Since thou dost give me pains
+Let me remember thee what thou hast promised
+Which is not yet performed me.
+I.ii.243-5
+
+61
+sense already done. We might take this one step further: the act of divine narration itself, as
+much as anything else, causes what it retells.54
+Our previous problem cannot (and does not need to be) resolved, because Quinones’ ideal of
+the narrator assuming the traits of divinity is never really attained on a human level. But to
+attempt some sort of compromise, it seems that there are two time-scales involved in the
+character of the mortal epic narrator: that of the story and that of the telling of the story. Both
+must be distinct from each other, but not any more, necessarily, than the two physical settings
+and the spatial distance between the two. This is crucial for the possibility of the “unexpected
+encounter,” the metalepsis, between the worlds of the narrator and the narrated. Such encounters
+make epic narration possible, and also give a sense of the disparate scales and distances of the
+past being brought together towards the “promised end.” In fact, what is most surprising is when
+the two disparate regions appear to be operating on the same time-scale.
+Kermode refers to his own notion of the sense of “fullness,” of coming-together, as “crisis.”
+What Quinones supposes about Renaissance longing to be in control of time, Kermode suggests
+about human storytelling tendencies in general. Kermode’s hypothesis, as we’ve seen in Chapter
+54
+
+Another example from Virgil will help to illustrate the qualities of divine storytellers. Later in Book 1, Venus
+appears to Aeneas in the disguise of a virgo Tyria, a Tyrian maiden among the emigrants of Carthage, and narrates
+to him an account of Dido’s flight from Pygmalion out of Sidon (in which she supposedly was involved). In order to
+play the part of a human more convincingly, she prefaces her story by emphasizing the difficulty of the task and the
+labor involved in holding all the details in memory:
+longa est iniuria, longae
+ambages; sed summa sequar fastigia rerum.
+1.341-2
+She cannot hold all the intricacies of the tale in mind accurately, and will have to follow only the most significant
+and memorable portions along the path, as the figurative ambages suggests. If one possesses divine memory it
+should follow that there are no fastigia, that is, that no one event is more memorable than any other since all are
+equally preserved and able to be recalled. The metaphor of a mnemonic point of reference as a fastigium (a high
+point or summit) is a characteristically human figure of speech, the same (though inverted) as that of the most
+momentous events leaving the deepest imprints in the memory. It is like one looking back and discerning only the
+highest points of a landscape—though we know from the earlier dialogue of Venus and Jupiter that to immortals
+there is no real retrospection and time presents itself, to Jupiter at least, as a more or less flat plain, or a scroll
+unrolled.
+
+62
+1, is based on the sense that all men are born and die in medias res, that one lifespan is not
+inherently more privileged in its place on the time-scale than any other. Though the resulting
+urge is to frame one’s life in consonance with a retold origin and a foretold end, there is
+nonetheless a desire to see one’s lifetime as (if not more privileged) more advanced in history,
+more “late,” closer to the point at which all disparate threads will gather together to bring on the
+eschatological event. His universalizing tone notwithstanding, this is what Kermode gets at when
+he writes of both narratives and worldviews that “we think in terms of crisis rather than temporal
+ends” (Kermode 30). 55
+The crisis, then, is always imminent to the storyteller, and, as a moment of great unity
+between past and present, necessitates the retelling and in doing so grants the audience a sense of
+“the future in the instant.”56 To the ideal storyteller, the present is, in Quinones’ words, “not
+merely the moment at hand; it is summary and all-embracing, compressing in the depth of its
+vision a completed and rounded-out picture.”57 Prospero, nearing the end of the narration to
+Miranda, makes clear that there is no motivation for his storytelling without some apparent telos,
+that to recall the past is useless unless it is bound up immediately into “the present business /
+Which now’s upon’s, without the which this story / Were most impertinent” (I.ii.136-8). It is in
+his linking of “the present business” to the end of his tale that he gives voice to the immediacy of
+the crisis and the convolution of the past and expected futures in the present moment:
+Know thus far forth:
+By accident most strange, bountiful Fortune,
+Now my dear lady, hath mine enemies
+Brought to this shore; and by my prescience
+I find my zenith doth depend upon
+A most auspicious star, whose influence
+55
+
+Or perhaps in other words: our nearness to, or distance from, the “end” is more certain or sensible, innately,
+than time measured in other units or in recurring cycles (minutes, days, years).
+56
+
+Macbeth I.v.56.
+
+57
+
+Quinones, 27.
+
+63
+If now I court not, but omit, my fortunes
+Will ever after droop. Here cease more questions.
+I.ii.178-85
+
+Baldo notices Prospero’s turn, after the great narration is complete, to a nearly absolute fixation
+on the present, so intense that it is to blame for the crucial memory lapse in IV.i. The passages in
+which the attractive force of the culminating present is expressed by Prospero are noted, justly,
+by Baldo as “the moment’s finest moments in the play.”58 Yet at what seems to be the moment of
+greatest expectation, Prospero decides to conceal something from Miranda, as he has done
+innumerable times before. As the professed arbiter of memory and “inquisition,” it is in his
+power as well to state in the imperative, “Here cease more questions,” and in saying so become
+once more the concealer of truth.
+
+Characters in the last plays have a certain awareness of the presence of concealed truth, and
+are told of it—or tell it themselves—in ways aligned with epic. Even if the source of this new
+knowledge is not divine or is only perceived to be, characters receiving stories seem to assume
+the presence of a larger memory, almost a world-memory, which unlike that of individuals is
+limitless and can choose to reveal or conceal what it holds. The truth of these accounts, just like
+the truth of the tellers’ divinity, is uncertain and sometimes known to the audience to be false
+altogether—as in Ariel’s speech as the Harpy in which he not only gives misinformation (“thee
+of thy son, Alonso, [the powers] have bereft”) but appears in a false costume, professing to be a
+“minister of Fate.” Indeed, Prospero plays upon the Neapolitans’ newfound belief that such
+oracles and prophecies might exist.
+But these revelations must be distant. To the Neapolitans, they are unique to the island, many
+“leagues beyond man’s life,” sure to be as unbelievable and wonderful at home as all the other
+58
+
+Baldo, 123.
+
+64
+travelers’ tales Gonzalo has heard. In The Winter’s Tale the oracle at Delphi, and the message
+received from Apollo, is a twenty-three day’s journey from Leontes’ court, which the king
+himself remarks is “good speed.” The messages themselves, as well, are as distant to the sense as
+they are in space, though characters may try to interpret them. Ariel’s speech seems to Alonso to
+be the rumble of thunder pronouncing Prospero’s name. And we, as spectators, are still removed;
+we do not hear what Alonso hears, and we do not hear the voice of the oracle.
+All these intimations of supernatural truth point to an end, a crisis at which the uncertainty
+will be resolved, what Dion, Leontes’ messenger, calls “th’event o’th’journey.” That does not
+mean the end is providential or beneficial to those involved. Alonso’s shipwreck seems suddenly,
+with his new revelation and remembrance of Prospero, to be the work of fate hurrying him
+towards his own death in retribution. Ferdinand’s apparent death completes the illusion. The
+terrible remembrance of the past points towards what appears, to him, to be the imminent crisis.
+The thunder,
+That deep and dreadful organ-pipe, pronounced
+The name of Prosper. It did bass my trespass.
+Therefore my son i’ th’ ooze is bedded, and
+I’ll seek him deeper than ever plummet sounded,
+And with him there lie mudded.
+
+In fact, the only element of his revelation that is true is that which he has held within his own
+memory since the beginning—the fact of the usurpation—although even that memory is flawed,
+thinking as he does that Prospero and Miranda are, undoubtedly, long dead.59 It is difficult to tell
+whether Ariel exploits the credulous nature of the Neapolitans by casting himself and his fellow
+59
+
+Real solid proof for this only comes later in his question to Prospero in V.1: “How should Prospero / Be
+living and be here?” The harpy does not indict the three men of sin as murderers, only as those who “exposed unto
+the sea (which hath requit it) / Him and his innocent child.”
+On another note, the memory of the usurpation itself seems to be buried deep for the Neapolitans; none of them,
+perhaps simply out of reverence for the royalty, notice the parallels between their situation of misadventure by sea
+with that of Prospero. It is only when Sebastian and Antonio are plotting alone that the memory of it resurfaces, as
+Sebastian searches for—and Antonio freely offers—a “precedent” by which to justify and pattern his actions. Later,
+the parallel is drawn explicitly by the harpy: the king’s shipwreck is the “requital” of Prospero’s “exposure unto the
+sea.” The underlying notion is that the sea can destroy in two ways—by taking its victims in or by casting victims
+out—and that each action is exactly the equivalent of the other, so as to be a balanced, eye-for-an-eye exchange.
+
+65
+spirits as a ministers of fate, or whether they are left completely without a point of reference after
+their encounters with the strange denizens of the island and are bewildered into believing. The
+most terrifying thing, however, about the annunciation of the Harpy is that the king and his party
+are suddenly confronted with (what appears to be) a memory that does not forget, an intelligence
+to which all men and events are accountable, not subject to “man’s infirmities” or the selective
+recall they all practice (see note 14 above). Even if this too is only an effect of the illusion which
+Ariel presents, it works as it does because it forces the Neapolitans to acknowledge the
+weaknesses in their memories, whether inadvertent (simple forgetting) or willed (intentional
+repression)—if such distinctions can even be drawn.
+Adding to this terrible aspect of the harpy figure is its insistence that, as regards this
+concealed and unfading truth, time is not a factor. In the notion of time that the harpy intimates
+as belonging to the mysterious “powers,” the past, present, and future crisis are all inevitably
+linked, and as far as the powers are concerned, simultaneous.
+But remember,
+For that’s my business to you, that you three
+From Milan did supplant good Prospero;
+Exposed unto the sea, which hath requit it,
+Him and his innocent child, for which foul deed,
+The powers, delaying not forgetting, have
+Incensed the seas and shores, yea, all the creatures,
+Against your peace.
+III.iii.69-74
+
+We know from lines 85-6 that Ariel is speaking from Prospero’s script. If these are indeed the
+magus’s actual words, his crafting of them is masterly. “Delaying, not forgetting:” the speech
+Prospero has given Ariel hints at a memory which is as solid and infallible as that of objects and
+physical traces—only more aweful and threatening because it is immune to deterioration over
+time unlike physical objects and, more terribly, it has both agency and will.
+
+66
+The physical remains of the past may be lasting: Prospero’s books and robes are proof of
+Gonzalo’s aid; Antonio’s ducal robes testify to the fact of the usurpation. But these artifacts, as
+we could call them, do not proclaim their own interpretation; they are susceptible to being
+construed (or misconstrued) according to individual memories, as the distance in time between
+the rememberer and the deed in question makes verification impossible. But the terror of the
+harpy’s supposed curse is that the mysterious “powers” retain knowledge of both fact and
+intention. Antonio shows off his robes to Sebastian (II.i.268-9, “look how well my garments sit
+upon me: / Much feater than before”) which bear no indication in themselves of the deed done to
+obtain them.
+Thus physical traces are susceptible to being construed in various and perhaps contradictory
+ways dependent on individual memories; how much more the memories themselves! Yet
+ironically, the harpy’s speech as composed by Prospero raises the possibility of a higher,
+unforgetting memory. At the false feast, the effect is achieved because Ariel assumes what he
+knows his mortal audience will perceive as the “properties of divinity:” knowledge of facts60 as
+well as intentions, agency, and indifference to time. The fact that this possibility is suggested
+(essentially, pretended) by means of artifice is only secondary to the demonstrated power that it
+holds over its audience.
+The fascination of the harpy and its prophecy, although both its “figure” and its words are
+feigned, is part of a larger fascination in this play and The Winter’s Tale with the oracular, in
+truth concealed and revealed. This is no surprise given what we’ve already examined about the
+time-scale of The Tempest, in which the reception of all information about the past is in some
+way a revelation—though its truth may be in doubt. The characters’ search for ‘historical’
+accuracy and the divergent opinions about that history testify to the uncertainty of authority,
+60
+
+—In the literal sense of “deeds.”
+
+67
+while Prospero’s narration above all testifies to his assumed role as both the revealer and
+concealer of truth. Yet even in The Winter’s Tale, which in contrast to the later play requires
+suspension of our disbelief at its representation of time, an oracular voice plays a central role in
+(not quite the action, but) the world of the play. The work’s expressions of wonder at strangeness
+and distance are most notably given by Cleomenes and Dion in a scene that seems to foreshadow
+The Tempest and the situation of its characters. Read in comparison to the later play, The
+Winter’s Tale can make clear the function and fascination of a larger and less human memory (as
+feigned by the Harpy, and as represented by the oracle), as well as show what The Tempest gains
+in its much different presentation of time.
+After Leontes’ imprisonment of Hermione and Camillo’s flight from court, Leontes admits
+that he could use more than only circumstantial evidence to proceed in his accusations. He tells
+us that he has sent Cleomenes and Dion to Delphos for the purpose of obtaining “a greater
+confirmation.” Upon the coming revelation hangs “th’event o’th’journey:”
+Now from the oracle
+They will bring all, whose spiritual counsel had
+Shall stop or spur me.
+II.i.187-9
+
+The impartiality of these lines is feigned, however, and the king is arrogant enough to suppose
+that the oracle’s judgment will second his own. Though at first he does not project his own
+prejudice onto the oracle and tries to at least appear as though he is rationally proceeding in his
+accusation of his queen, deferring to a more expansive knowledge before his own, immediately
+after he asserts that the journey is being made only to persuade certain skeptics, not himself: “I
+am satisfied, and need no more / Than what I know.” He at once draws our attention to the
+crucial power of the oracle’s “spiritual counsel” and declares it irrelevant to him.
+
+68
+Cleomenes and Dion are absent for twenty-three days; we never witness their encounter with
+the oracle or the dwellers on Delphos, and only hear of it second-hand, in a brief, remarkable
+scene which is the direct precursor of The Tempest II.i and III.iii. That the encounter on Delphos
+is not explicitly shown is key to the significance of the scene; the strangeness and wonder in
+what the two have witnessed can only be relayed to us in the form of a traveler’s tale, a
+transmission across distance just as the oracle’s message is ostensibly relayed to her from
+someplace else, farther removed.
+CLEOMENES
+
+The climate’s delicate, the air most sweet;
+Fertile the isle, the temple much surpassing
+The common praise it bears.
+
+DION
+
+I shall report,
+For most it caught me, the celestial habits—
+Methinks I so should term them—and the reverence
+Of the grave wearers. O, the sacrifice—
+ceremonious, solemn, and unearthly
+It was i’th’off’ring!
+
+CLEOMENES
+
+But of all, the burst
+And the ear-deaf’ning voice o’th’oracle,
+Kin to Jove’s thunder, so surprised my sense
+I was nothing.
+III.i.1-11
+
+The temple of Delphos, on its distant island, is already the subject of travelers’ tales before we
+hear of it ourselves; its “common praise” is known in Sicilia, but the two messengers find
+something about it which is not done justice by those reports. To begin on a comparative level,
+the observations which Cleomenes opens with are the same with which Gonzalo, in his genuine
+but perhaps overblown optimism, will praise Prospero’s island. The climate is delicate: “though
+this island seem to be desert—uninhabitable, and almost inaccessible—it needs must be of subtle,
+tender, and delicate temperance;” and the air is sweet: “the air breathes upon us here most
+sweetly.” There is no skeptic Sebastian or Antonio present to mock Cleomenes and Dion’s
+wonder, which increases its effect on us, the audience; we are not distracted by the statements of
+wonder being used as the butt of jokes and can weigh them ourselves. For that matter, Gonzalo’s
+
+69
+declarations, however overzealous, are no less earnest or marvelous than his counterparts’ in The
+Winter’s Tale; he is indeed the witness to miracles, not least of which is the preservation of the
+lives of himself and his fellows.
+Next, the inhabitants of the island are recalled in a way that intriguingly masks their nature.
+What catches Dion is not the figures themselves, but aspects of them: what they wear, and their
+reverence. The wonder is compounded by what is not said: there is no mention of what these
+ministers of Delphos actually are. The recollection is segmented into “features” which have
+individually made an imprint in memory, similar to Miranda’s anatomization of her memory in
+III.i. Phrased the way it is, Dion’s recollection seems to be of nonhuman beings: their habits are
+celestial, their sacrifice unearthly; the ceremony is strange and not completely intelligible while
+hinting at a greater intelligence, awesome and alien and worthy of such reverence. The
+Neapolitans feel a similar sense of awe at the apparition of the “several strange shapes” which
+bring in the false feast, which they take without question to be native inhabitants: “certes, these
+are people of the island.” (III.iii.30)
+As we’ve seen, this unexpected encounter serves to verify, to Antonio at least, all other
+fantastic travelers’ tales. The figures themselves, if not “solemn” as the inhabitants of Delphos,
+nonetheless seem to communicate without “the use of tongue,” producing what Alonso
+remarkably terms “a kind / Of excellent dumb discourse.” Both parties feel, in their wonder, the
+impulse to storytell; they frame their experience in terms of relating it to the inexperienced: “If in
+Naples / I should report this now...” begins Gonzalo, as Dion’s first words are the resolute “I
+shall report...” There is a constant process of “furthering;” we can see how the temple’s
+description is distanced from us as we are shown everything in reverent detail except the
+“wearers” themselves.
+
+70
+Lastly, what are we to make of Cleomenes’ account of hearing the voice of the oracle? Like a
+clap of thunder, it overpowers his faculties just as Alonso stands dumbstruck by the voice of the
+Harpy, which he interprets as thunder itself. To the king, the voice is a natural force intoning
+human words, namely “the name of Prosper.” To Cleomenes, the voice is, by its power to
+stupefy and amaze, akin to an element of the divine and imbued with a similar sort of wisdom.
+The effect of the voice on its hearers is related to that characteristic power of Prospero’s art, that
+of “spell-stopping,” of rendering the victim immobile through the power of speech. Cleomenes’
+admission that the oracle “so surprised my sense / That I was nothing” is a more compact
+summary of this phenomenon that anything in The Tempest. To Leontes’ messengers, the entity
+they have gone to consult is not inimical to them, though it is certainly terrifying; they do not
+discover its power through willfully raising their swords against it and finding themselves
+“charmed,” as Ferdinand, Alonso, and the others do. They submit to its power, which
+overwhelms them both physically (acting upon their “sense”) as well as metaphysically (by the
+revelation of its divine nature). When Semon writes of the minor characters in The Winter’s Tale
+that “their wonder is our wonder”61 it is because we, as audience, stand as far removed from
+Cleomenes and Dion as they do from the miraculous things they describe.
+The awe of the oracle lies in the sense that its memory is more expansive, less earthly than
+that of man, perhaps the memory of the gods themselves. Its authority derives at the very first
+from the strangeness of its revelation. It approximates the effect of the “unexpected encounters”
+we have discussed, except the gap that it bridges is not spatial or temporal but seemingly from
+one plane to another—all the more striking because unlike a transmission across earthly
+boundaries of space and time, the properties and function of memory are different on either end
+
+61
+
+Semon 1974, 99.
+
+71
+of the exchange. The transaction is so disturbing in its effect on human memory because human
+memory itself is not a factor, not applicable, to whatever power lies behind the oracle.
+Yet the immense knowledge it possesses is not immediately accessible. The great store of
+memory (if memory is even the right term) the oracle contains is sealed, not only in its cryptic
+nature but more practically, in the means of its transmission. Cleomenes has heard the voice of
+the oracle but does not know the message that he has been entrusted to carry. Like Miranda, he is
+aware that some truth lies behind the gap in his knowledge, and that a time will come about
+suitable for that information to be revealed. The revelation will be strange and new: “rare” is the
+word reiterated in the scene. Dion concludes:
+When the oracle,
+Thus by Apollo’s great divine sealed up,
+Shall the contents discover, something rare
+Even then will rush to knowledge.
+III.i.18-21
+
+The oracular message, literally sealed, is not the voice that issued from the temple and surprised
+Cleomenes’ sense but rather the written judgment sealed and soon to be opened which will make
+sense of the voice.62 Indeed, the phenomenon of concealed knowledge in these last plays is
+linked closely with writing, both figuratively or in fact.
+We have considered how storytellers (and any figure with a message to transmit) command
+attention and authority by the power of their voice, even if the account they give is lacking in
+external verification or corroboration. Yet written accounts and messages in print seem to
+fascinate characters in the last plays because they are separated from individual men and women
+in a way that speech cannot be, and because of that separation suggest a connection to the idea of
+a higher and greater memory, a memory that in Ariel’s words will delay, not forget. Because
+62
+
+Judging solely from evidence within the play (not on historical accounts of the Delphic oracle) we can
+assume the process of the recording of the message is that the oracle’s inspired voice is unintelligible to outsiders
+but able to be interpreted by the ministers of the temple, who translate it into writing in language the inquiring party
+can understand, and then seal the message for delivery to the inquirer.
+
+72
+print is not subject to the forces that affect human speakers, it holds an appearance of greater
+durability; out of that real or imagined strength, what it lacks in vocal power it makes up for in
+its appearance of authority and objectivity even if it has neither.63 The originator of a message in
+print is not as instantly apparent in, not as bound up in, the message itself as is the speaker of
+words. Because of this degree of distance between source and text, the source is sometimes
+presumed to be of greater authority than the recipient, or any other figure. This tendency is
+demonstrated clearly in an exchange from Richard III (which Wilson Knight uses as his preface
+to his essay on Cymbeline):
+PRINCE
+
+Did Julius Caesar build [the Tower], my lord?
+
+BUCKINGHAM He did, my gracious lord, begin that place,
+Which since succeeding ages have re-edified.
+PRINCE
+
+Is it upon record, or else reported
+Successively from age to age, he built it?
+
+BUCKINGHAM Upon record, my gracious liege.
+III.i.69-74
+
+Whether or not due to the immaturity of the young prince, he perceives a real distinction between
+“report” and “record,” written history and oral legend, verification and “aura.” The
+misconception is that documentation is simply another form of report, though its possible
+longevity, greater than that of speech, makes it possible for a written document to step out of
+time and confront the present as a physical trace of the past. In this tradition, it is not surprising
+that in the same dialogue in Aeneid 1 which we have already considered (and in Kott’s judgment
+is a model for The Tempest), Jupiter declares to Venus before calming her anxieties about the
+predestined future uoluens fatorum arcana mouebo, “I will bring about the secrets of fate,
+
+63
+
+—keeping in mind that the true authority (or semblance thereof) of the oracle’s message comes from the fact
+that it was first spoken.
+
+73
+unrolling (as if a scroll).” The secret but somehow intelligible record of what is to come is itself
+illustrated as a scroll.64
+Both written and spoken information can be concealed, but the hiding of “oral” information
+is dependent on the concealer. Prospero contains within himself the answers to Miranda’s
+bootless inquisition, the question of “What I am,” whereas Antigonus’ scroll which answers the
+question of what Perdita is must, by its physical nature, be hid outside of the self. It is too
+simplistic, however, to claim that The Winter’s Tale is concerned with written messages and The
+Tempest with oral/aural information, although the former play depends more heavily on the
+device in the course of its action, be it the oracle’s “rare” message or Perdita’s “marvelous”
+scroll.
+Writing goes hand in hand with concealment—and revelation, perhaps because concealing
+print is a physical action and thus more tangible—and of more utility in metaphor—than
+“holding one’s tongue” or guarding one’s words against inquisition as Prospero does.65 The
+written message revealing a hidden cause is of utmost importance to the problems at hand, as
+they provide both an alternative to oral retelling in the last plays as well as a contrast by which
+we may see the unique perspectives of each. The impersonal nature of writing, as we’ve said,
+gives it a seeming advantage in “truth” over oral accounts of the past, even if only an illusion,
+but the act of reading is applied in the plays, and particularly The Winter’s Tale, to describe an
+
+64
+
+Notes to this line debate the exact sense of uoluens and mouebo. James Henry argued in the late 19th century
+that the ‘rolling’ and ‘moving’ involved are figurative or refer to the action of speech, complementing the preceding
+verb fabor; R. D. Williams, one hundred years later, interprets uoluens as more clearly referring to the action of
+unscrolling. To side with the latter interpretation and to pursue the comparison further (if only for the sake of
+argument): we might keep in mind that the scroll is a different sort of model from the book, as the scroll is able to be
+unrolled and revealed in its entirety at once, even if it is never practical to do so in the process of reading it. The
+book, on the other hand, is never entirely open; every revelation is also an act of concealing, and a book which lies
+open to one thing always lies closed to another.
+65
+On a figurative level, Bassanio, Lady Macbeth; Sidney
+
+74
+alternative to discerning the past in oral accounts, that of reading hidden or apparent messages as
+texts.
+For characters intent on reading rather than hearing, the search for the truth of the past is a
+search for “proof,” for the verification which Benjamin states marks epic accounts by its absence
+or seeming impossibility. But characters that search for “information” rather than “tales,” over
+distances perhaps impassable and perhaps not, are concerned with proof rather than with the
+“aura” which surrounds and distinguishes epic accounts. If the unexpected encounter validates a
+narrative of the past, it is (because unexpected) unintentional and unforeseen. Yet in
+circumstances marked not by spatial or temporal distance from the matter at hand (as in The
+Tempest) but by other barriers, “verification” assumes new importance—and the burden of proof,
+so to speak, weighs heavier on the would-be discoverer of that truth.
+“Be sure of it; give me the ocular proof,” demands Othello, because the means by which his
+suspicion may be proven or disproven are more or less readily available. As a contrast to the
+figures in our later two plays, he insists on viewing physical traces not because they are held over
+from a now distant past but because they in part constitute the suspected action itself. What
+under different circumstances commands such power among late-play characters is in the tragedy
+only hearsay, not least because of the differences in the presentation of time. The two modes may
+be combined: for example, in Act II of Cymbeline, the “ocular proof” of Imogen’s bracelet when
+presented to Posthumus verifies a false report but is, unlike Desdemona’s handkerchief,
+transported across a great expanse of space. In turn, the handkerchief itself does not on its own
+prove or disprove Othello’s mysterious tale of its origin; the object itself is not corroboration of
+any account, and the story’s veracity remains uncertain, even as the object’s wonder and the
+story’s strangeness are magnified.
+
+75
+The significance of all these objects-as-texts to the characters who would, through them,
+discern the truth of the past lies in the degree to which the message they bear is concealed or
+disclosed. Prospero’s robes, when considered in context, bear within themselves an account of
+his past; his decision to “discase me and myself present / As I was sometime Milan” makes clear
+to his audience his identity and, at least in part, the narrative of how both he and the robes came
+to be where they are. But the significance is only apparent to an audience that has the necessary
+knowledge to receive it, as the Neapolitans do. Some other physical artifact of the past, for
+instance one of Prospero’s books, may not inherently proclaim the narrative one might ascribe to
+it. Of course, objects that consist of actual writing, and their degrees of “transparency,” are much
+easier to classify in this scheme, as they are quite literally either sealed or open. But all these
+objects are important because they are at least perceived to be authoritative by being part of what
+we might call the “memory of things” or the memory of the world an inhuman, inanimate record
+not subject to the failures or deficiencies of human memory and, though able to decay in some
+ways, more in line with the “properties of divinity” than any human record. In the dialogue from
+Richard III cited above, Prince Edward goes on to hypothesize a type of this greater inhuman
+record in which things proclaim their own truth of themselves—and in which the message is
+easily legible:
+But say, my lord, it were not registered,
+Methinks the truth should live from age to age,
+As ‘twere retailed to all posterity
+Even to the general all-ending day.
+III.i.75-8
+
+But yet another possible misconception on the prince’s part is the assumption that the truth,
+while present, is easily interpreted—that all truths in objects are recorded in like terms and
+translated with facility from one medium to the next.
+
+76
+If the world of objects is supposed to possess this “memory of nature,” The Winter’s Tale, in
+conjunction with the Sonnets, offers an interesting perspective on the human body as one of
+these objects, encoding a message. (The external, tangible aspect of the body is what we are
+dealing with here, not the internal faculties of memory and recall.) In II.iii, Paulina fights her
+way into Leontes’ court with the newborn (and as yet unnamed) Perdita to make the case that the
+child is indeed legitimate. Her evidence, the ocular proof, is Perdita’s features which resemble
+the king’s so closely. As Macbeth does to Sweno, she “confront[s] him with self-comparisons.”
+(I.ii.81) Her metaphor is that of a written message, which will come to the fore in the following
+scene featuring Cleomenes and Dion which we have already considered.
+Behold, my lords,
+Although the print be little, the whole matter
+And copy of the father: eye, nose, lip,
+The trick of’s frown, his forehead, nay, the valley,
+The pretty dimples of his chin and cheek, his smiles,
+The very mould and frame of hand, nail, finger.66
+II.iii.98-103
+
+Paulina’s language carries the metaphor of the body-as-text: Perdita’s collective features are the
+“matter” of the text, and its content is a copy, an exact tracing of her father’s features. Not only is
+Perdita figured as a text in the metaphor, her presence as evidence is an invitation to “read” her.
+She, though human, personifies what we have tentatively called the memory of nature, as
+completely spontaneously, unwilled, she proclaims of herself her own origin, like one’s own
+signature proclaims itself by the fact of its existence.
+
+66
+
+Paulina is not finished with her metaphor; she continues, shifting the figure into an opportunity to attack
+Leontes’ jealousy:
+And thou, good goddess Nature, which hast made it [Perdita’s appearance]
+So like to him that got it, if thou hast
+The ordering of the mind too, ‘mongst all colors
+No yellow in’t!
+
+77
+The comparison becomes more interesting in epic terms when we realize that one’s own birth
+is the ultimate hidden cause, the absolute point past which one cannot observe but the results of
+which enable the present to come to be. It is not a coincidence that, as we’ve seen in Chapter 2,
+Wilder associates The Tempest’s “backward and abysm” with Miranda’s conception (consciously
+or not) of her own birth and the darkness that preceded it.67
+Paulina’s method in her scene before Leontes is similar in both rhetoric and metaphor to that
+of the “procreation sonnets” (1-17). The addressee is begged to produce an heir, whose features
+will “call back” those of the Fair Youth, both physically and in memory. Not only will the child
+exist to preserve what the speaker admires in the addressee, the child’s features will serve as a
+proof of his parentage and a record of the past; the truth of his origin will be recorded, as in a text,
+in the child’s face, a better mode of recording than the poet’s lines since it is imitative (even
+photographic, as Sonnets such as 4 would have us believe) and not descriptive.
+Indeed, the child will be living “verification.” It will perform the function of recording not
+just as well as but better than the poem itself. “You should live twice,” writes the speaker of
+Sonnet 17, “in [some child of yours], and in my rhyme,” while his words unassisted are subject
+to the scorn of skeptics and liable to be “termed a poet’s rage.” In the expected devaluing of
+words by “the age to come” we can see a difference between actually or seemingly divinely
+inspired words-as-text (i.e. the voice of the oracle) and words that, unconnected to higher
+authority, can be held to have little or no value.68 This latter sort are those of “the lunatic, the
+lover, and the poet,” whose characteristic function is to break down and combine “features”
+under the guidance of Fancy rather than of Reason (see Chapter 1, note 23). Even if the poet’s
+67
+
+Wilder, 178.
+This is the potential fate that awaits the words of Sonnet 60’s speaker as quoted above, though the scorn of
+unbelievers is not an element of the poem, which includes the metapoetic reference to “my verse” only at the couplet
+and does not, as Sonnet 17 does, propose it at the outset (“Who will believe my verse in time to come?”) and then
+alternate between idea and revision (“But were some child…”)
+68
+
+78
+aspiration is like the storyteller’s to strive for the goal of universal perspective that Quinones
+describes, the body as physical evidence provides the desired validation. The desired ability to
+see what was within what is prevalent among many more of the sonnets than just the set
+mentioned here (e.g. LIX and LXV), even if the tone becomes ironic as the speaker draws the
+line between the record of “former days” (59.14) and the observable evidence that confronts him
+now.
+Is this idea of an oracular voice a sort of solution to the problems of conflicting memories
+and expectations in the last plays? Can it bring light to the “dark backward and abysm?” More
+specifically to The Tempest, can we find this sort of a presence in a play with no unambiguous
+representation of supernatural intervention or revelation? Prospero deals only with “weak
+masters” who, after all, report to him; he does not commune with higher forces or the terrifying
+“powers” that he instructs Ariel to speak of as the harpy. There are no scenes, or reported scenes,
+of revelation by a figure in contact with the gods (and the only deity referred to in more than
+generic oath-terms is Setebos, by Caliban only). The latent “record of things,” if not impossibly
+concealed, seems to hold a key to determining the nature of the truth of the past. Yet perhaps that
+presence of an authoritative voice in contact with “the properties of divinity” is simply the
+dominating figure in this play and others—that is, the figure by whose conditions all the others
+must operate. If the island has become a grounds on which Prospero exercises both desired and
+realized domination, then his voice, as much as any other, will provide the terms on which the
+past is remembered—and beyond which any definition of historical accuracy means little. This
+situation would be in accord with the nature of the island as distant and thus unreachable by
+external influence; it would also mean that any figure with sufficient power relative to his
+
+79
+fellows to appear oracular or in control of revealed knowledge would fulfill that function within
+the world of the play just as well as an authentic oracle (provided that one is a possibility at all).
+Prospero, then, aspires to be the oracle of the world of his play, to link himself to the sort of
+proposed higher system of memory that is the desire of storytellers—if not to possess or embody
+that memory himself. Such lapses in his recall as the nearly catastrophic one in Act IV hinder his
+attempts to profess such authority, yet Semon has noted that he comes to hold an accordingly
+exalted position at least in relation to the play’s other characters. Semon rightly notes that
+Prospero “functions as the visions and oracles of the preceding plays had,” and plays the same
+part as the oracle in The Winter’s Tale, who is, for all the weight accorded to its voice, absent
+from the action. (The absence is the penultimate play is not problematic, however; it is simply a
+difference in technique and structure. The Winter’s Tale stages its distances by absence from the
+stage, while in The Tempest the action takes place, strange though it may sound, at the heart of
+distance. Drawing a sharp distinction between the two is not entirely necessary, though, as the
+vast differences in the presentation and usage of space between the two plays turn any such
+consideration into a comparison of dissimilar terms.)
+To return to Semon’s theory, Prospero appears to his several foils, particularly the king’s
+party, to have the status of the oracle even if he does not possess such status in fact (disregarding
+the question, as we’ve discovered above, of the possibility or existence of that status to begin
+with). Such an appearance is more easily attained due to the belief of the less skeptical
+Neapolitans, most notably Gonzalo, in the existence of such an authority. When Prospero reveals
+what he knows of each member of the king’s party while they stand spell-stopped in V.i, the
+skeptics Sebastian and Antonio are forced to confront the possibility of this miraculous
+knowledge, though they respond by muttering “The devil speaks in him” (131) rather than
+
+80
+calling, as Alonso and Gonzalo do, upon “some heavenly power” (107). Echoing the wonder of
+Cleomenes and Dion at a marvelous message both imminent and concealed, Prospero plays his
+part as arbiter of memory and history by assuring Alonso that he holds the answers, but will
+delay their revelation. In fact, he holds the king’s party to the same anticipating ignorance in
+which Miranda dwelt (though content) for so long, desiring that “more to know...[not] meddle
+with [their] thoughts:”
+No more yet of this,
+For ‘tis a chronicle of day by day,
+Not a relation for a breakfast, nor
+Befitting this first meeting.
+V.i.164-7
+
+This is the same response as his terse breaking-off of his narrative to Miranda, “Here cease more
+questions.” Later in V.i, as Semon notes, Prospero answers directly in the voice of an oracle
+when Alonso calls for one:
+ALONSO
+
+Some oracle
+Must rectify our knowledge.
+
+PROSPERO
+
+Sir, my liege,
+Do not infest your mind with beating on
+The strangeness of this business. At picked leisure,
+Which shall be shortly, single I’ll resolve you,
+Which to you shall seem probable, of every
+These happened accidents: till when, be cheerful
+And think of each thing well.
+V.i.247-254
+
+And as befits such a role, Prospero’s response in the voice of the oracle is to defer revelation to
+another later moment, not far off and fast approaching, when what now would seem strange will
+make sense and appear “probable” in the context of both the past and the crisis together. It is in
+the context, and under the sway, of such seemingly absolute memories that the Harpy’s
+characterization of the “powers”—“delaying, not forgetting”—takes on its terrifying force, and
+through which Prospero at last exerts his power over the Neapolitans, even if the exchange
+
+81
+appears amicable on the surface.69 Antonio, as we’ve noticed, mutters that Prospero’s “oracular”
+power is diabolical—even as Prospero withholds the information he could disclose about the
+attempt on Alonso’s life, yet another act of concealment by the figure who has the potential to
+reveal all:
+But you, my brace of lords, were I so minded,
+I here could pluck his highness’ frown upon you
+And justify you traitors. At this time
+I will tell no tales.
+V.i.128-31
+
+Prospero follows the advice of Lear’s fool to “have more than thou showest” and “speak less
+than thou knowest,” in part to maintain the upper hand in his relationship with Antonio,
+essentially using the latter’s seeming fellowship with Alonso as a hostage. But apart from those
+considerations of his political motives, he maintains his authoritative status by appearing to be
+able to reveal the truth and yet not making it known. This is a boon to those whom the truth once
+revealed would put on the wrong side of power, but it is also a tactic of the magus to intimidate
+and prompt in the conspirators the question of what else he holds mentally concealed but is not
+inclined to disclose.
+Prospero’s great act of revelation in the final scene is his “discovery” of Ferdinand and
+Miranda, which enacts spatially, and demonstrates visually, his attempt at playing the master of
+memory, the man who “brings forth wonders.” The physical revelation of the lovers is in perfect
+69
+
+Some might object to this statement by asserting that the deferral of the recapitulation of Prospero’s account
+is simply a device to conclude the play since we as spectators have already heard the tale in I.ii and, at any rate, the
+action is nearing its end. One taking this view would point to the large number of other plays in the canon, especially
+the other late plays, in which similar passages are spoken near the conclusion of the final scene. These are the same
+sort of skeptics who would deny the importance accorded to the scenes of retelling in I.ii as no more than an excuse
+for exposition. But however common a type of passage seems to be to other plays of similar genre, it must be judged
+in its own context. The unique time-scale of The Tempest is more than enough to grant this passage its own
+significance, different from the seemingly similar concluding speeches in Pericles, Cymbeline, The Winter’s Tale,
+The Comedy of Errors, and so on.
+On another note, one might recall by way of this passage the awe, under the pretense of lightheartedness,
+experienced by the ladies of Cleopatra’s court when Charmian encounters the oracular Soothsayer with the
+wonderfully understated question, “Is it you, sir, that know things?” (Antony and Cleopatra, I.ii.7)
+
+82
+opposition to the concealment of self-knowledge from Miranda that Prospero had perpetuated
+since she was able to conceive the relevant questions. This unveiling is a late step in the process
+Prospero has undertaken over the play’s duration; he transitions from playing a concealer and
+revealer simply of knowledge and language to performing the same functions but with regard to
+human interactions. From the perspective of Alonso and the Neapolitans, the rediscovery of
+Ferdinand is, at least at first, a resurrection from the dead, a seeming instance of the “rough
+magic” that Prospero had pledged to abjure just one hundred lines before.
+Like Paulina, who before she reveals the false statue of Hermione attempts to deceive her
+audience into believing that she is practicing necromancy, Prospero maintains an appearance. He
+keeps up a disguise, aided by the wonder and terror of those he is trying to convince. It works
+well in Act V of The Tempest, but as a condition of the play’s extraordinary time-structure we
+cannot see beyond its end, no more than we can see beyond our own present. There is no telling
+what will become of Prospero after the return to Milan, and he seems himself to harbor no high
+hopes about an existence in which “every third though shall be [his] grave.” The properties of his
+domain on the island—its distances—that allow him to maintain the semblance of an arbiter of
+memory will no longer accompany him—a change symbolized, most clearly, by the departure of
+Ariel, the penultimate action in the play. All that remains is a final speech-act, one not of
+retelling or recalling, but of uncertainty in the future—a plea. The final action of the drama is,
+finally, an opening to the spectators of the play’s world, or the opening of the world of the
+spectators to Prospero—it can be phrased either way, because over the course of the drama, its
+characters who retell and remember have made it clear to us that the two worlds are in the end
+the same. The illusion of the play will dissolve, and we will be left, as Prospero reminds us,
+without a trace—able only to recall it through equally insubstantial images of memory, unless,
+
+83
+like Aeneas, we have recognized ourselves on the temple wall, and seen ourselves reflected in a
+substance more enduring.
+
+84
+
+Bibliography
+
+Primary texts
+Shakespeare, William. The Norton Shakespeare, ed. Greenblatt et al. New York: W. W. Norton,
+2009.
+Virgil, Aeneid. ed. R. Deryck Williams. London: Duckworth Publishers, 1998.
+
+Books
+Benjamin, Walter, ed. Hannah Arendt, trans. Harry Zohn. “The Storyteller” and “The Work of
+Art in the Age of Mechanical Reproduction” in Illuminations. New York: Schocken
+Books, 1969.
+Brockbank, Philip. “The Tempest: Conventions of Art and Empire” in Later Shakespeare. New
+York: St. Martin’s Press, 1967.
+Greenblatt, Stephen. Renaissance Self-Fashioning: from More to Shakespeare. Chicago:
+University of Chicago Press, 1980.
+—
+
+Marvelous Possessions: the Wonder of the New World. Chicago: University of Chicago
+Press, 1992.
+
+Hulme, Peter and William H. Sherman. The Tempest and Its Travels. Philadelphia: University of
+Pennsylvania Press, 2000.
+Kermode, Frank. The Sense of an Ending: Studies in the Theory of Fiction. London: Oxford
+University Press, 1968.
+Lord, Albert Bates. The Singer of Tales, ed. Stephen Mitchell and Gregory Nagy. Cambridge:
+Harvard University Press, 2000 (2nd ed).
+Marlowe, Christopher. Dido, Queen of Carthage in The Plays of Christopher Marlowe, ed.
+Edward Thomas. New York: Everyman’s Library, 1912.
+Quinones, Ricardo J. The Renaissance Discovery of Time. Cambridge: Harvard University Press,
+1972.
+Ricoeur, Paul. Transl. Kathleen McLaughlin and David Pellauer. Time and Narrative. Chicago:
+University of Chicago Press, 1984.
+
+85
+—
+
+Memory, History, Forgetting. Chicago: University of Chicago Press, 2004.
+
+Scholes, Robert E., James Phelan, and Robert Kellogg. The Nature of Narrative. Oxford: Oxford
+University Press, 2006.
+Heinze, Richard. Virgil’s Epic Technique, trans. Hazel and David Harvey, and Fred Robertson.
+Berkeley: University of California Press, 1993.
+Wilder, Lina Perkins. Shakespeare’s Memory Theater: Recollection, Properties, and Character.
+New York: Cambridge University Press, 2010.
+Wilson Knight, George. “Virgil, Shakespeare, and the Seraphic” in Shakespearean Dimensions.
+Brighton: Harvester Press, 1984.
+Wilson Knight, George. The Crown of Life: Essays in Interpretation of Shakespeare’s Final
+Plays. New York: Barnes & Noble, 1966
+Wood, David Houston. “Time, Narrative, and Emotion in Early Modern England.” London:
+Ashgate, 2009.
+
+Articles
+Baldo, Jonathan. “Exporting Oblivion in The Tempest” in Modern Language Quarterly 56:2,
+1995.
+Frey, Charles. “Interpreting The Winter’s Tale” in Studies in English Literature, 1500-1900, 18:2
+(1978), 207-329.
+Gale, Monica R. “Poetry and the Backward Glance in Virgil’s Georgics and Aeneid” in
+Transactions of the American Philological Association, Vol. 133, No. 2 (Autumn 2003),
+pp. 323-352.
+Greene, Roland. “Island Logic” in The Tempest and Its Travels. See citation above.
+Hieatt, Charles W. “The Function of Structure in The Winter’s Tale” in The Yearbook of English
+Studies, 8 (1978), 238-248.
+Kellogg, Robert. “Oral Literature” in New Literary History 5.1 (1973), 55.
+Kott, Jan. “The Aeneid and The Tempest” in Arion, Vol. 3, No. 4 (1976), 424-451.
+Maus, Katharine Eisaman. “Shakespearean Comedy,” in The Norton Shakespeare, 2009. 106-7.
+
+86
+Orgel, Stephen. “Prospero’s Wife” in Representations, 8; University of California Press (1984),
+1-13.
+Scott-Okamura, David Wilson. “Virgilian Models of Colonization in Shakespeare’s Tempest,” in
+ELH, Vol. 70, No. 3 (2003), 709-737.
+Semon, Kenneth J. “Fantasy and Wonder in Shakespeare’s Last Plays” in Shakespeare
+Quarterly, 25:1 (1974), 89-102.
+Sproule, Albert Frederick. “A Time Scheme for Othello,” in Shakespeare Quarterly, 7.2 (1956), 217-226.
+
+Tribble, Evelyn. “The Dark Backward and Abysm of Time: The Tempest and Memory,” in
+College Literature, Vol. 33, No.1 (2006), 151-168.
+Wasson, D. A. “Epic Philosophy” in The North American Review, 1868. 501-542.
+Weimann, Robert. “Threshholds to Memory and Commodity in Shakespeare’s Endings,” in
+Representations, No. 53 (1996), 1-20.
+Haarhoff, T. J. “The Gates of Sleep” in Greece & Rome, 17:50 (1948), 88-90.
+Starobinski, Jean. “Memory of Troy” in The Hudson Review, 59:1 (2006), 15-41.
+
+

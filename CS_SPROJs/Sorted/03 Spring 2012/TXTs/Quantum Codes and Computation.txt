@@ -1,0 +1,5490 @@
+Bard College
+
+Bard Digital Commons
+Senior Projects Spring 2012
+
+Bard Undergraduate Senior Projects
+
+2012
+
+Quantum Codes and Computation
+Sankalpa Khadka
+Bard College
+
+Recommended Citation
+Khadka, Sankalpa, "Quantum Codes and Computation" (2012). Senior Projects Spring 2012. Paper 124.
+http://digitalcommons.bard.edu/senproj_s2012/124
+
+This Access restricted to On-Campus only is brought to you for free and
+open access by the Bard Undergraduate Senior Projects at Bard Digital
+Commons. It has been accepted for inclusion in Senior Projects Spring
+2012 by an authorized administrator of Bard Digital Commons. For more
+information, please contact digitalcommons@bard.edu.
+
+Quantum Codes and Computation
+
+A Senior Project submitted to
+The Division of Science, Mathematics, and Computing
+of
+Bard College
+by
+Sankalpa Dhoj Khadka
+
+Annandale-on-Hudson, New York
+May, 2012
+
+Abstract
+
+In 1982, Richard Feynman first suggested that in order to simulate quantum mechanical
+system one needs quantum computer. In classical computer, data are store in the form
+of binary digits called bits. In quantum computer, information is stored in the form of
+quantum bit or qubit which lives in two dimensional complex vector space. Similarly, a
+classical computer uses logical gates to manipulate bits. Quantum analog of classical gates
+are unitary transformations which manipulate qubits.
+The project presents quantum codes and computation process for error correction and
+quantum algorithms. The project focuses especially on Deutsch’s algorithm which was
+proposed by David Deutsch in 1985 as an example of quantum algorithm that is significantly faster than classical algorithm for a system involving single qubit. Deutsch’s
+Problem determines whether a function is constant or not for a single qubit system. The
+project extends Deutsch’s algorithm for multiple qubits and explores properties of various
+unitary transformations and information they encode.
+
+Contents
+
+Abstract
+
+1
+
+Dedication
+
+5
+
+Acknowledgments
+
+6
+
+1 Introduction
+
+7
+
+2 Background
+10
+2.1 Linear Algebra . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10
+3 Quantum Computing
+3.1 Classical Computing: Bits and Logical Operations
+3.2 Qubits . . . . . . . . . . . . . . . . . . . . . . . . .
+3.3 Quantum Gates . . . . . . . . . . . . . . . . . . . .
+3.4 Quantum Entanglement . . . . . . . . . . . . . . .
+
+.
+.
+.
+.
+
+.
+.
+.
+.
+
+.
+.
+.
+.
+
+.
+.
+.
+.
+
+.
+.
+.
+.
+
+.
+.
+.
+.
+
+.
+.
+.
+.
+
+.
+.
+.
+.
+
+.
+.
+.
+.
+
+.
+.
+.
+.
+
+.
+.
+.
+.
+
+.
+.
+.
+.
+
+.
+.
+.
+.
+
+.
+.
+.
+.
+
+12
+12
+13
+13
+15
+
+4 Quantum Error Correction
+4.1 Introduction . . . . . . . . . . . . . . . . .
+4.2 Theory of Quantum Error-Correction . . .
+4.3 Condition for Quantum Error Correction .
+4.4 Stabilizer Formalism . . . . . . . . . . . .
+
+.
+.
+.
+.
+
+.
+.
+.
+.
+
+.
+.
+.
+.
+
+.
+.
+.
+.
+
+.
+.
+.
+.
+
+.
+.
+.
+.
+
+.
+.
+.
+.
+
+.
+.
+.
+.
+
+.
+.
+.
+.
+
+.
+.
+.
+.
+
+.
+.
+.
+.
+
+.
+.
+.
+.
+
+.
+.
+.
+.
+
+.
+.
+.
+.
+
+.
+.
+.
+.
+
+.
+.
+.
+.
+
+.
+.
+.
+.
+
+.
+.
+.
+.
+
+.
+.
+.
+.
+
+16
+16
+17
+17
+19
+
+5 Quantum Algorithms
+5.1 Introduction . . . . . . . . . . . . . . .
+5.2 Deutsch’s Problem . . . . . . . . . . .
+5.3 Extension of Deutsch’s Problem . . . .
+5.4 Deutsch’s Problem with 2 qubits input
+
+.
+.
+.
+.
+
+.
+.
+.
+.
+
+.
+.
+.
+.
+
+.
+.
+.
+.
+
+.
+.
+.
+.
+
+.
+.
+.
+.
+
+.
+.
+.
+.
+
+.
+.
+.
+.
+
+.
+.
+.
+.
+
+.
+.
+.
+.
+
+.
+.
+.
+.
+
+.
+.
+.
+.
+
+.
+.
+.
+.
+
+.
+.
+.
+.
+
+.
+.
+.
+.
+
+.
+.
+.
+.
+
+.
+.
+.
+.
+
+.
+.
+.
+.
+
+.
+.
+.
+.
+
+21
+21
+22
+25
+26
+
+.
+.
+.
+.
+
+.
+.
+.
+.
+
+Contents
+5.5
+5.6
+5.7
+5.8
+5.9
+5.10
+
+Some Important Observations on the 2 qubit Deutsch’s Problem .
+Deutsch’s Problem with 3 qubits input . . . . . . . . . . . . . . . .
+Some Important Observations on the 3 qubit Deutsch’s Problem .
+Functions which have all but one output values equal to each other
+Deutsch’s Problem with n qubits input . . . . . . . . . . . . . . . .
+Conclusion . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Bibliography
+
+3
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+
+32
+37
+42
+44
+47
+55
+57
+
+List of Figures
+
+5.2.1 Circuit Diagram of Deutsch’s Problem . . . . . . . . . . . . . . . . . . . . . 22
+5.2.2 Schema of Deutsch’s Algorithm . . . . . . . . . . . . . . . . . . . . . . . . . 25
+
+Dedication
+
+To my grandmothers, Ganga Devi Khadka and Ram Maya Shrestha.
+I have tried to emulate hard work and perseverance you have shown all your lives.
+
+Acknowledgments
+
+I would like to thank my research advisors, Professor Matthew Deady and Professor Greg
+Landweber, for providing excellent guidance for this project. I am very thankful for their
+tremendous support and enthusiasm in my research. I would also like to thank Professor
+Deady for his great advices over the years and Professor Landweber for inspiring me to
+become a Physics and Mathematics major.
+The completion of this project marks an end of a journey which started four years ago.
+I would like to thank everyone who has enriched these four years of my life. I would like to
+thank Professor Christian Bracher for invigorating my interest in Physics through his lively
+lectures. I would like to thank Professor Sven Anderson for his important contribution
+towards my Computer Science education. I would also like to thank Dr. Abhay Deshpande
+and Dr. Robert Lourie for the opportunity of participation in cutting edge research at
+Brookehaven National Laboratory in the summer of 2010.
+I would like to express my deepest gratitude to my Mom and Dad for all the sacrifices
+they have made for my education. I would like to thank my two wonderful sisters, Bhabana
+and Namuna, for their love and encouragement. I would also like to thank my aunt Vijaya
+for her support in the last four years. I would like to thank all my friends for a great
+learning experience at Bard.
+
+1
+Introduction
+
+In 1965 Gordon Moore made the prediction that the number of transistors in integrated
+circuit doubles every two years [7]. This prediction, known as Moore’s law, has hold for
+more than 40 years. According to Moore’s law as time increases the number of atoms to
+implement bits decreases. If Moore’s law were to hold then in future the number of atoms
+per bit will reach a level where quantum mechanics rather than classical mechanics will be
+needed to explain computational processes. In 1982, Richard Feynman suggested that a
+classical computer is incapable of efficiently simulating a quantum mechanical system and
+proposed the need of quantum computers based on principles of quantum mechanics [8]. A
+classical computer uses bits, {0,1}, to represent data. In quntum computer, information is
+stored in the form of quantum bit or qubit which lives in two dimensional complex vector
+space. Similarly, a classical computer uses logical gates to manipulate bits. Quantum
+analog of classical gates are unitary transformations which manipulate qubits.
+In 1985, David Deutsch laid out the first quantum algorithm that outperforms classical
+algorithms [9]. Deutsch’s Problem uses quantum computation to determine if a function
+is constant or not for a single qubit input system. This project extends Deutsch’s problem
+
+1. INTRODUCTION
+
+8
+
+for the 2 qubit input system and the 3 qubit input system. The project concludes with
+a generalized solution to the problem of discriminating functions which have all but one
+output values equal to each other for the n qubit input system.
+The project begins with background information on linear algebra in Chapter 2. Here
+I introduce the definitions of vector space, tensor product and unitary transformation. In
+Chapter 3, I present essential tools for understading quantum computations such qubits,
+quantum gates and quantum entanglement. Chapters 2 and Chapter 3 build the conceptual
+framework for understanding the remaining chapters of the project.
+In Chapter 4, I briefly present Quantum Error Correction. I have included this expository chapter for two reasons. First of all, during the research period, I spent a good amount
+of time learning about quantum error correction. Secondly, Quantum Error Correction is
+an important component in quantum computation which needs discussion in any quantum
+computation related works. I present groundbreaking works in quantum error correction
+such as Stablizer formalism developed by Daniel Gottesman [6].
+In Chapter 5, I introduce quantum algorithms. The research has mostly focused on
+quantum algorithms, and more specifically on Deutsch’s algorithm. Deutsch’s algorithm
+predicts if a function is constant or not in fewer number of steps than classical algorithm
+for the 1 qubit input system. After learning the original Deutsch’s problem, the first
+reseach question that I got interested in was how Deutsch’s Algorithm behaved for the 2
+qubit input system. For the 1 qubit system, there are two kinds of functions, one which
+have both output equal to each other and other which has two different outputs. The
+single qubit is simple since the standard Hadamard gate can discriminate both kinds
+of function. However, in the two qubit input problem, the Hadamard gate discriminates
+functions which have two output value equal to each other. The other kind of functions
+which have three out of four output value equal to each other are not distinguished by
+the Hadamard gate. Finding a gate which can discriminate these functions was my first
+
+1. INTRODUCTION
+
+9
+
+major challenge in the research. After making observations of the gates and functions, I
+was able to find relationship between entries of the gate and outputs of the functions. This
+information helped me find a new gate called the GregMatt1 gate, which discriminates
+the functions which have all but one output equal to each other.
+After expanding Duestch’s Problem for the 2 qubit system and completely solving it,
+my natural instinct was to expand the problem for the 3 qubit input system. In the 3 qubit
+input too, the Hadamard gate can discriminate the funtions that have half of the output
+values equal to each other. One of the important result that I discovered here was that the
+functions which have half of the output values equal to each other and which also form
+a group structure under mod 2 addition can be discriminated by a Hadamard-like gate
+whose entries has a direct relation with the value of the functions. However, for the 3 qubit
+input system, there are other kinds of functions such as the ones which have all but one
+output values equal, ones which have two outputs equal to each other and remaining six
+equal to each other, and ones which have three outputs equal to each other and remaining
+five equal to each other. The functions which have all but one value equal is simple enough
+to tackle because there are only 8 such functions for the 3 qubit system. Therefore, I set
+out to find a gate that can discriminate the functions which have all but one value equal
+to each other. This challenge seemed bigger than what I first thought. However, I found a
+method to discriminate these function by using the GregMatt gate with slight modification
+in the algorithm. This finding is a great trumph of the research because I could expand
+the same method for a general n qubit input problem to discriminate the functions which
+have all but one value equal to each other.
+
+1 The
+
+gate is named after my advisors Greg Landweber and Matthew Deady.
+
+2
+Background
+
+2.1 Linear Algebra
+The following standard definitions from Linear Algebra are taken from [3].
+Definition 2.1.1. Let F be a field, whose elements are referred to as scalars. A
+vector space over F is a nonempty set V , whose elements are referred to as vectors
+together with addition and scalar multiplication. Addition assigns to each pair (u, v) of
+vectors in V a vector u+v in V and scalar multiplication assigns to each pair (r, u) ∈ F ×V
+a vector ru in V. In addition, elements of vector space forms abelian group under addi4
+
+tion.
+
+Definition 2.1.2. Let V be a vector space over F = R or F = C. An inner product on
+V is a function h, i : V × V −
+→ F with the following properties:
+1. (Positive definiteness) For all v ∈ V , the inner product hv, vi is real and
+hv, vi ≥ 0
+
+and hv, vi = 0 ⇔ 0
+
+2. For F = C : (Conjugate symmetry)
+hu, vi = hv, ui
+
+2. BACKGROUND
+
+11
+
+For F = R : (Symmetry)
+hu, vi = hv, ui
+3. (Linearity in the first coordinate) For all u, v ∈ V and r, s ∈ F
+hru + sv, wi = rhu, wi + shv, wi
+A real (or complex) vector space V , together with an inner product, is called a real(or
+4
+
+complex) inner product space.
+
+Definition 2.1.3. A inner product space that is complete under the metric induced by
+the inner product is said to be a Hilbert space.
+
+4
+
+Definition 2.1.4. Let V and W be a vector spaces over F and let {v1 , v2 , ...vn } be basis
+for V and {w1 , w2 , ...wm } be basis for W , then the tensor product of V and W , denoted
+by V ⊗ W , is the vector space spanned by {vi ⊗ wj : 1 ≤ i ≤ n, 1 ≤ j ≤ m}.
+
+4
+
+Let A = (ai,j ) be a matrix with respect to the ordered basis A = (u1 , ..., un ) and
+B = (bi,j ) be a matrix with respect to the ordered basis B = (v1 , ..., vm ). Consider the
+ordered basis C = (ui ⊗ vj ) ordered by lexicographic order, that is ui ⊗ vj ≤ ul ⊗ vk if if
+i < l or i = l and j < k. The matrix of A ⊗ B with respect to C is :
+
+
+a1,1 B a1,2 B ... a1,n B
+ a2,1 B a2,2 B ... a2,n B 
+.
+A⊗B =
+ .
+.
+...
+. 
+an,1 B an,2 B ... an,n B
+This matrix is called the tensor product of the matrix A with the matrix B.
+Definition 2.1.5. A unitary transformation is an isomorphism between two Hilbert
+spaces such that it preserves the inner product. Let H1 and H2 be Hilbert spaces, then a
+unitary transformation is a bijective function U : H1 −
+→ H2 such that
+hU x, U yi = hx, yi.
+4
+
+3
+Quantum Computing
+
+3.1 Classical Computing: Bits and Logical Operations
+In classical computing, data are stored in the form of binary digits or bits. Bit is the basic
+unit of information stored in a computer which in one of the two possible distinct states.
+For example: two distinct voltages, on and off state of electric switch, two direction of
+magnetization etc. The two possible values/states of a system are represented as binary
+digits, 0 and 1.
+A Logical operation is an instruction that takes input bit/s and return an output bit
+under certain rule. Logical operations, also known as logical gates, are the basis of computation in classical computers. Computers are built with circuit that is made up of logical
+gates. The examples of logical gates are AND, OR, NOT, NOR, XOR etc.
+
+AND
+0 1
+0 0 0
+1 0 1
+
+OR
+0 1
+0 0 1
+1 1 1
+
+XOR
+0 1
+0 0 1
+1 1 0
+
+NOR
+0 1
+0 1 0
+1 0 0
+
+3. QUANTUM COMPUTING
+
+13
+
+3.2 Qubits
+In a quantum computer, data are stored in the form of qubits or quantum bits. A qubit is
+the unit of information in quatum computation. A quantum system with n-qubits has a
+Hilbert space of 2n dimensions, and therefore has 2n mutually orthogonal quantum states
+which can be written as {|ii} where i is an n bit binary number.
+
+For example: A 3 qubit system has 8 orthogonal states represented as
+{|000i, |001i, |010i, |011i, |100i, |101i, |110i, |111i}.
+
+A classical bit has only two states, either 0 or 1. Similarly a qubit has states |0i and
+|1i, or any linear combination of states also known as a superposition. Hence, a qubit can
+have an infinitely many states,
+
+|φi = α|0i + β|1i,
+
+where α and β are complex numbers.
+
+A single qubit lives in vector space over complex number, C2 . An n-qubit lives in C2 ⊗
+· · · ⊗ C2 = C2n .
+
+3.3 Quantum Gates
+A quantum gate is an operation which is a unitary transformation on qubits. The quantum
+gates are represented by matrices, and a gate acts on n qubits is represented by 2n × 2n
+unitary matrix. Analogous to the classical computer which is built from an electrical circuit
+containing wires and logic gates, quantum computers are built from quantum circuits
+containing “wires”(mostly photons) and quantum gates to carry out the computation.
+
+3. QUANTUM COMPUTING
+
+14
+
+Pauli Operators
+The Pauli operators are the special single qubit gates which are represented by the Pauli
+matrices {I, X, Y, Z} as follows
+
+I=
+
+1 0
+0 1
+
+
+
+
+
+0 1
+1 0
+
+X=
+
+
+
+
+
+1 0
+0 −1
+
+Z=
+
+
+
+
+Y =
+
+0 −i
+i 0
+
+
+.
+
+For example, the application of X causes bit-flip in following ways:
+
+X|0i =
+
+X|1i =
+
+0 1
+1 0
+
+
+
+0 1
+1 0
+
+
+
+1
+0
+
+
+
+0
+1
+
+
+
+
+
+0
+1
+
+
+
+1
+0
+
+
+
+=
+
+=
+
+= |1i
+
+= |0i.
+
+Hadamard Gate
+The Hadamard gate is defined by the matrix:
+1
+H=√
+2
+
+
+
+1 1
+1 −1
+
+
+.
+
+The Hadamard gate maps the computational basis states into superpostion of states,
+which are anti-symmetric. The Hadamard gate is significant since it produces maximally
+entangled states from basis states in the following ways:
+1
+H|0i = √ (|0i + |1i)
+2
+
+1
+H|1i = √ (|0i − |1i).
+2
+
+Controlled-U Gates
+A controlled-U gate is the quantum gate in which the U operator acts on the nth qubit n
+qubit only if the value of the preceeding qubit is 1.
+For example: In a Controlled-NOT gate, the NOT operator flips the second qubit if the
+first qubit is 1.
+
+1
+0
+CN OT = 
+0
+0
+
+0
+1
+0
+0
+
+0
+0
+0
+1
+
+
+0
+0
+
+1
+0
+
+3. QUANTUM COMPUTING
+
+15
+
+CN OT |00i = |00i
+CN OT |01i = |01i
+CN OT |10i = |11i
+CN OT |11i = |10i.
+
+3.4 Quantum Entanglement
+Entanglement is a purely quantum mechanical property not exhibited by classical system.
+Entanglement occurs when subsystems interact in such a way that the resulting state of
+the whole system cannot be expressed as the direct product of states for its parts. When
+a quantum system is in such an entangled state, actions performed on one sub-system will
+have a side effect on another sub-system even though that sub-system is not acted upon
+directly.
+If a pure state, |Ψ(AB) i, of a composite quantum system defined on a Hilbert Space
+HA ⊗ HB can be written as |Ψ(AB) i = |ΨA i ⊗ |ΨB i, then |Ψ(AB) i is said to be separable
+state.
+A state, |Ψ(AB) i, of a composite quantum system defined on a Hilbert Space HA ⊗ HB
+is not a separable state, it is called an entangled state.
+For example: Consider the state
+
+√1 (|01i
+2
+
+− |10i). If this state were separable, it could
+
+be written in the form of |ΨA i ⊗ |ΨB i where |ΨA i = a0 |0i + a1 |1i |ΨA i = b0 |0i + b1 |1i
+1
+|ΨA i ⊗ |ΨB i = a0 b0 |00i + a0 b1 |01i + a1 b0 |10i + a1 b1 |11i = √ (|01i − |10i)
+2
+which implies, a0 b0 = 0, a0 b1 =
+possible. Hence, the state
+
+√1 , a1 b0
+2
+
+√1 (|01i
+2
+
+= − √12 , a1 b1 = 0. However, this solution is not
+
+− |10i) is an entangled state.
+
+4
+Quantum Error Correction
+
+4.1 Introduction
+Quantum computers have extraordinary potential compared to its classical counterpart
+because some quantum algorithms are incredibly faster than classical algorithms. However,
+one of the main challenges for building reliable quantum computers would be to protect
+quantum information from errors. A quantum computer will interact with the environment causing decoherence and hence loss of quantum information stored in the system.
+One of the primary goals of quantum error correction is to prevent interaction with the
+environment. Furthermore, quantum gates are unitary transformations, which cannot be
+implemented perfectly. The effects of such imperfections in the gates can build up resulting
+in a failure in the computation. Therefore, quantum error correction aims at preventing
+the error in the quantum information by protecting it against error in the quantum circuit
+as well as from the surrounding environment.
+The main idea in error correction is that in order to protect a message, it is first
+encoded by addition of some redundant information so that if an error occurs in the
+encoded message, there will be sufficient information left in the encoded message that
+
+4. QUANTUM ERROR CORRECTION
+
+17
+
+will enable recovery of the original message by decoding the error afflicted message. In
+quantum computation, error is prevented in the quantum information with the help of
+quantum error correcting codes.
+
+4.2 Theory of Quantum Error-Correction
+A quantum error-correcting code is a mapping of k qubits (a Hilbert space of dimension
+2k ) into n qubits (a Hilbert space of dimension 2n ), where n > k and n − k are ancillae
+qubits. The general idea of Quantum Error Correcting Codes is to encode k qubits whose
+state we want to protect within a set of n qubit( i.e. within 2n dimensional Hilbert space)
+such that there is a special sub-space C, called the codespace, that is spaced by a set of
+quantum states, span({|ψi i}), i.e. the quantum codewords. The codewords are carefully
+chosen so that we can guarantee, for a given set of error operators, E, that the error is
+detectable and the error correctability criteria is met. The key idea is to entangle k logical
+qubits we want to protect with n − k ancillae qubits such that a subsequent measurement
+of just the n − k ancillae qubits will project the (n) qubit state into a different orthogonal
+subspace depending on which type of error has afflicted which of the n qubits.
+
+4.3 Condition for Quantum Error Correction
+Consider a single qubit initially in a pure state |ψi = α|0i + β|1i interacting with its
+environment in the state |Ei in an arbitary manner. As the qubit and the environment
+start off independently, they are in separable states which is represented as:
+|ψi ⊗ |Ei = (α|0i + β|1i) ⊗ |Ei.
+
+(4.3.1)
+
+The evolution of the qubit and its environment under a unitary transformation can be
+described as follows:
+U (|0i ⊗ |Ei) = |0i ⊗ |E00 i + |1i ⊗ |E01 i
+
+and U (|1i ⊗ |Ei) = |0i ⊗ |E10 i + |1i ⊗ |E11 i.
+
+4. QUANTUM ERROR CORRECTION
+
+18
+
+Hence, a qubit in state |ψi = α|0i + β|1i evolves as:
+U ((α|0i + β|1i) ⊗ |Ei)) = α(|0i ⊗ |E00 i + |1i ⊗ |E01 i) + β(|0i ⊗ |E10 i + |1i ⊗ |E11 i)
+|E00 i + |E11 i
+(no error)
+2
+|E00 i − |E11 i
++ (α|0i − β|1i) ⊗
+(phase flip)
+2
+|E01 i + |E10 i
++ (α|1i + β|0i) ⊗
+(bit flip)
+2
+|E01 i − |E10 i
++ (α|1i − β|0i) ⊗
+(phase and bit flip).
+2
+= (α|0i + β|1i) ⊗
+
+The action of U can be expanded in terms of the Pauli operators {I, X, Y, Z} since these
+are the basis for the vector space of 2 × 2 matrices. One can extend this error model to
+multiple qubits by assuming the various error types that afflict each qubit independently.
+Thus, the operators which describes all the independent errors that might afflict n qubits
+are the elements of the Pauli group, P n ={I, X, Y, Z}⊗n , which is the group consisting of
+all direct products of the Pauli operators {I, X, Y, Z} having overall phase 1 or i.
+In devising quantum error-correcting codes, we identify a subset E of all the Pauli group,
+E ⊂ {Eα } = {I, X, Y, Z}⊗n
+It is our aim to perform a collective measurement of the n qubits in the code block that
+will enable us to diagnose which error Eα ∈ E occured.
+
+Criterion of Errors to be Detectable
+For an error Ea ∈ E that afflicts a quantum codeword to be detectable, every pair of valid
+quantum codewords |ψi i and |ψj i that span the encoding space, need to be meet following
+criterion:
+hψj |Eα |ψi i = cα δij .
+
+(4.3.2)
+
+This will guarantee that an error afflicted codeword Eα |ψi i will be distinguishable from
+all the other valid codewords |ψj i
+
+4. QUANTUM ERROR CORRECTION
+
+19
+
+Criterion for Errors to be Correctable
+For an error Ea ∈ E that afflicts a quantum codeword to be correctable, it needs to be
+distinguishable from all the error afflicting all other codewords. That is if |ψi i and |ψj i
+are codewords, the following criterion needs to be met:
+hψj |Eβ Eα |ψi i = cα βδij
+
+Eα , Eβ ∈ E.
+
+(4.3.3)
+
+This will guarantee that an error Eα afflicting one codeword will be distinguishable from
+an error Eβ afflicting a different codeword.
+
+4.4 Stabilizer Formalism
+The following discussion on Stabilizer has been taken from [1].
+A stablilizer S={S1 , S2 , ....Sk } is a subgroup of tensor products of the Pauli operator,
+Si ∈ {1, X, Z}⊗n whose elements are required to have a simultaneous eigenvalue of +1.
+Hence, the stabilizer is a finite Abelian sub-group of the Pauli group.
+
+Stabilizer for the 5 qubit code
+The set of tensor product that satisfy the properties of the stablizer for a 5 qubit system
+is as follows:
+S1 = X ⊗ X ⊗ Z ⊗ X ⊗ 1
+S2 = X ⊗ Z ⊗ X ⊗ 1 ⊗ X
+S3 = Z ⊗ 1 ⊗ X ⊗ X ⊗ Z
+S4 = Z ⊗ X ⊗ 1 ⊗ Z ⊗ X
+S5 = 1 ⊗ Z ⊗ Z ⊗ Z ⊗ Z
+S6 = 1 ⊗ 1 ⊗ 1 ⊗ 1 ⊗ 1.
+
+4. QUANTUM ERROR CORRECTION
+
+20
+
+It is sufficient to define the stabilizer only with the generator of the group. Here, we
+can drop S5 and S6 since the square of any element of the stabilizer is S6 and similarly,
+S1 · S2 · S3 · S4 = S5 . Therefore, the group created by {S1 , S2 , S3 , S4 } meets all the criteria
+to be a stabilizer.
+
+Relation between Error Operator and Stabilizer
+The stabilizer is choosen in such a way that every error operator we want to protect
+against, Eα ∈ E, commutes with an element of the stabilizer, Si ∈ S and hence has an
+eigenvalue of +1 and hence:
+Si · Eα = Eα · Si ,
+Si · Eα |ψiL = Eα · Si |ψiL = +1Eα |ψiL .
+However, this means that when we measure the eigenvalue of the operator Si , whether
+the input is error afflicted or not, they both have eigenvalue of +1. So, a error afflicted
+state is not distinguishable from the pure state. However, if the error operator Eα ∈ E
+anti-commutes with an element of the stabilizer Si ∈ S, and it will have an eigenvalue of
+−1 and hence:
+Si · Eα = −Eα · Si ,
+Si · Eα |ψiL = −Eα · Si |ψiL = −1Eα |ψiL .
+In this way, the affliction of the error on the pure state is indicated by the fact that
+the eigenvalue of the operator Si has become −1. Hence, for a 5 qubit state, the are 16
+possible error operator that afflict one of the 5 qubits. Therefore, 4 stabilizers with two
+distinct eigenvalues on each error afflicted state, guarantees us that each error is distinct
+and distinguishable.
+
+5
+Quantum Algorithms
+
+5.1 Introduction
+A quantum Algorithm is a computation process that exploits quantum computing to
+solve a problem. The representation of a quantum computation process requires an input
+register, output register and unitary transformation that takes a computational basis
+states into linear combination of computational basis states. If x represents an n qubit
+input register and y represents an m qubit output register, then the effect of a unitary
+transformation Uf on the computational basis |xin |yim is represented as follows:
+
+Uf (|xin |yim ) = |xin |y ⊕ f (x)im ,
+
+(5.1.1)
+
+where f is a function that takes an n qubit input register and returns an m qubit output
+and ⊕ represents mod-2 bitwise addition. If the initial state of the output register is |0i
+then we get,
+Uf (|xin |0im ) = |xin |f (x)im .
+
+(5.1.2)
+
+The input register remains in its initial state |xin and output register gives |f (x)im .
+
+5. QUANTUM ALGORITHMS
+
+22
+
+5.2 Deutsch’s Problem
+Deutsch’s Problem is an example of a quantum algorithm that performs computation in
+fewer steps than a classical computer. In 1985, David Deutsch first proposed a quantum
+algorithm that outperform a classical computer. The following derivation of Deutsch’s
+problem is taken from [4].
+Let’s consider that both input and output registers contain a single qubit, and there is
+some function f that takes a single bit into a single bit such that
+Uf (|xi|yi) = |xi|y ⊕ f (x)i.
+
+(5.2.1)
+
+Figure 5.2.1. Circuit Diagram of Deutsch’s Problem
+
+Suppose that we are given a box which executes the unitary transformation Uf . There
+are four possibilities for what Uf can be depending on values of f (x) for x = 0 and x = 1.
+This can observed in the table below:
+f
+f0
+f1
+f2
+f3
+
+x=0
+0
+0
+1
+1
+
+x=1
+0
+1
+.
+0
+1
+
+Suppose that the box executes Uf once for one of the four funtions but we are not told
+which one of the four operations it performed. Classically, we can have the box act on
+one of the four computational basis elements and find out value of either f (0) or f (1). If
+we let the box act on |0i|0i or |0i|1i, we can find out the value of f (0), and similarly if
+we let the box act on |1i|0i or |1i|1i, we can find out the value of f (1). If we find that
+
+5. QUANTUM ALGORITHMS
+
+23
+
+f (0) = 0 then the function could be f0 or f1 , and likewise if f (0) = 1, then the function
+could be f2 or f3 . Hence, in one operation, it is inconclusive which Uf the box executed.
+In order to tell precisely which one of the four functions it is, we need to perform the
+unitary tranformation Uf at least twice, once for x = 0 and for x = 1 and compare the
+results with the table above.
+However, suppose we are interested to find out the relation between f (0) and f (1),
+whether f (0) = f (1) which is true for f0 and f3 or f (0) 6= f (1) which is true for f1 and
+f2 . With a classical computer, we need to perform Uf twice for x = 0 and x = 1 and
+compare the results. Quite significantly with a quantum computer it can be determined
+by performing Uf only once. A quantum computer gets this privilege due to an important
+property called superpostion which says that a qubit can exist in superposition of all
+possible states or simply stated, a qubit can exist as a linear combination of |0i and |1i
+states instead of purely one of them. One way to obtain superpostion is by applying the
+Hadamard transformation to input and output registers before apply Uf . The Hadamard
+gate produces maximally a entangled state or a superposition of all possible states from a
+pure state.
+1
+H=√
+2
+
+
+
+1
+1
+1 −1
+
+
+
+1
+1
+1
+1
+(H ⊗ H)(|1i|1i) = ( √ |0i − √ |1i)( √ |0i − √ |1i)
+2
+2
+2
+2
+1
+= (|0i|0i − |1i|0i − |0i|1i + |1i|1i).
+2
+After achieving the superposition of all possible states, we apply Uf to get
+1
+(Uf |0i|0i − Uf |1i|0i − Uf |0i|1i + Uf |1i|1i).
+2
+From 4.2.1, it follows that application of Uf leads to following state.
+1
+(|0i|0 ⊕ f (0)i − |1i|0 ⊕ f (1)i − |0i|1 ⊕ f (0)i + |1i|1 ⊕ f (1)i).
+2
+
+(5.2.2)
+
+5. QUANTUM ALGORITHMS
+
+24
+
+We know that x = 1 ⊕ x since 1 = 0 and 0 = 1. Hence f (x) = 1 ⊕ f (x)
+1
+(|0i|f (0)i − |1i|f (1)i − |0i|f (0)i + |1i|f (1)i).
+2
+On applying the condition, f (0) = f (1) and f (0) = f (1), we get
+1
+(|0i − |1i)(|f (0)i − |f (0)i).
+2
+
+(5.2.3)
+
+Similarly, if f (0) 6= f (1) then f (1) = f (0) f (1) = f (0)
+1
+(|0i + |1i)(|f (0)i − |f (0)i).
+2
+
+(5.2.4)
+
+Hence on applying H back on input register, we get
+1
+|1i √ (|f (0)i − |f (0)i), when f (0) = f (1),
+2
+1
+|0i √ (|f (0)i − |f (0)i), when f (0) 6= f (1).
+2
+
+(5.2.5)
+(5.2.6)
+
+Therefore, we get either |0i or |1i in the input register depending on whether or not
+f (0) = f (1). In the output register, we get entangled state,
+
+√1 (|f (0)i
+2
+
+− |f (0)i) for both
+
+cases. Therefore, the output register does not give us any useful information about the
+function.
+However, there is an important aspect of this computation that needs some discussion.
+As we have observed that even though we were able to deduce if the function is constant
+(f (0) = f (1)) or not, we are not able to tell precisely values of f (0) and f (1), since
+f (0) = f (1) for both f0 and f3 . In order words, we are not able to pin-point which one of
+the two functions it is. This is an important feature of quantum computation, where there
+is a tradeoff between a specific information and relational information. For the Deutsch’s
+problem, to determine the specific information, both classical and quantum compuatation
+take two different operations whereas for relational information, quantum computation
+takes one unitary transformation.
+
+5. QUANTUM ALGORITHMS
+
+25
+
+Schema of Deutsch’s Algorithm
+Deutsch’s Algorithm can be summarized in three steps.
+Step 1 Prepare a maximally entangled state from pure states using the Hadamard gate.
+(H ⊗ H)|1i|1i
+
+Step 2 Apply Uf on the maximally entangled state.
+Uf ((H ⊗ H)|1i|1i)
+Step 3 Apply a Hadamard transformation on input register.
+(H ⊗ I)Uf ((H ⊗ H)|1i|1i)
+
+Figure 5.2.2. Schema of Deutsch’s Algorithm
+
+5.3 Extension of Deutsch’s Problem
+In Deutsch’s problem involving one qubit input and one qubit output, to obtain relational
+information, the computational steps are reduced by half. Instead of two applications of
+Uf , which is the required for a classical computer, simply one computation is sufficient to
+find if f (0) = f (1) or not. I have found the extension of Deutsch’s Algorithm for multiple
+
+5. QUANTUM ALGORITHMS
+
+26
+
+qubits input a surprisingly interesting problem to investigate. My original contribution to
+this project begins with extension of Deutsch’s problem for multiple qubits.
+
+5.4 Deutsch’s Problem with 2 qubits input
+Let |xyi be a two qubit input register and |zi be a one qubit output register. Suppose Uf
+is a unitary transformation on the output register defined as follows:
+Uf (|xyi|zi) = |xyi|z ⊕ f (xy)i.
+
+(5.4.1)
+
+Suppose we are given a box that executes unitary transformation Uf . There are altogether
+16 possibilities for what Uf can be depending on value of f (xy) for each computational
+basis |xyi(|00i, |01i, |10i and |11i). All 16 possible cases are shown in the table below.
+f
+f0
+f1
+f2
+f3
+f4
+f5
+f6
+f7
+f8
+f9
+f10
+f11
+f12
+f13
+f14
+f15
+
+xy=00
+0
+1
+0
+0
+0
+1
+0
+0
+1
+1
+0
+1
+0
+1
+1
+1
+
+xy=01
+0
+0
+1
+0
+0
+1
+1
+0
+0
+0
+1
+1
+1
+0
+1
+1
+
+xy=10
+0
+0
+0
+1
+0
+0
+1
+1
+0
+1
+0
+1
+1
+1
+0
+1
+
+xy=11
+0
+0
+0
+0
+1
+0
+0
+1
+1
+0
+1
+0
+1
+1
+1
+1
+
+Suppose that the box executes Uf for one of 16 functions but we are not told which one
+of the 16 operations it performed. If we let the box act on any composite state with input
+register |00i then we can find out value of f (00) which has two possible values, 0 and 1.
+But, there are in total eight functions f which have f (00) = 0 while the other eight have
+f (00) = 1. The same is true for all the composite states with input state |01i, |10i and
+
+5. QUANTUM ALGORITHMS
+
+27
+
+|11i. Hence, one action of the box on a initial composite state cuts total possibilities in
+half for what Uf is. Clearly, we need to perform Uf on initial state when the input state
+is |00i, |01i, |10i, and |11i and compare all values in order to deduce which one of the 16
+operations the box executes.
+However, suppose we are interested in the relation between f (00), f (01), f (10), f (11).
+For example, we are interested to know whether f (00) = f (01) = f (10) = f (11) (true for
+f0 and f15 ) or f (00) = f (01) and f (10) = f (11) (true for f5 and f7 )or f (00) = f (11)
+and f (01) = f (10) (true for f6 and f8 ), etc. With a classical computer, we need to
+perform the unitary transformation, Uf on initial states with input register in states
+|00i, |01i, |10i, |11i and compare their values. However, with a quantum computer, we can
+determine such relational information in only one action of Uf . In order to do this, we need
+to prepare states entangling of all 3 qubits. One way of obtaining such entangled state is
+by applying the Hadamard transformation. Before applying Uf , we apply the Hadamard
+transformation in order to produce such entangled state. The Hadamard gate for 2 qubits
+is simply the tensor product of two Hadmard gates for single qubit:
+
+
+
+1
+1
+1
+1
+1  1 −1
+1 −1 
+.
+H2 = H1 ⊗ H1 = 
+1 −1 −1 
+2 1
+1 −1 −1
+1
+
+1
+1
+(H2 ⊗ H1 )(|11i|1i) = (|00i − |01i − |10i + |11i) √ (|0i − |1i)
+2
+2
+1
+= √ (|00i|0i − |00i|1i − |01i|0i + |01i|1i
+2 2
+− |10i|0i + |10i|1i + |11i|0i − |11i|1i).
+After we have superposition of all possible state, we apply Uf ,
+
+1
+(Uf |0i|0i − Uf |1i|0i − Uf |0i|1i + Uf |1i|1i).
+2
+
+(5.4.2)
+
+5. QUANTUM ALGORITHMS
+
+28
+
+From 4.4.1, it follows that application of Uf leads to following state:
+1
+√ (|00i|f (00)i − |00i|1 ⊕ f (00)i − |01i|f (01)i + |01i|1 ⊕ f (01)i
+2 2
+−|10i|f (10)i + |10i|1 ⊕ f (10)i + |11i|f (11)i − |11i|1 ⊕ f (11)i).
+We know x = 1 ⊕ x and f (xy) = 1 ⊕ f (xy).
+1
+√ (|00i|f (00)i − |00i|f (00)i − |01i|f (01)i + |01i|f (01)i−
+2 2
+
+(5.4.3)
+
+|10i|f (10)i + |10i|f (10)i + |11i|f (11)i − |11i|f (11)i).
+Condition I, f (00) = f (01) = f (10) = f (11).
+f (00) = f (01) = f (10) = f (11).
+
+1
+√ (|00i − |01i − |10i + |11i)(|f (00)i − |f (00)i)
+2 2
+
+(5.4.4)
+
+Condition II,f (00) = f (10) = f (01) = f (11).
+f (01) = f (11) = f (00) = f (10).
+
+1
+√ (|00i + |01i − |10i − |11i)(|f (00)i − |f (00)i)
+2 2
+
+(5.4.5)
+
+Condition III,f (00) = f (01) = f (10) = f (11).
+f (10) = f (11) = f (00) = f (01).
+
+1
+√ (|00i − |01i + |10i − |11i)(|f (00)i − |f (00)i)
+2 2
+
+(5.4.6)
+
+Condition IV,f (00) = f (11) = f (01) = f (10).
+f (01) = f (10) = f (00) = f (11).
+
+1
+√ (|00i + |01i + |10i + |11i)(|f (00)i − |f (00)i
+2 2
+
+(5.4.7)
+
+5. QUANTUM ALGORITHMS
+
+29
+
+On applying H back on the input register for each condition we obtain:
+1
+|11i √ (|f (00)i − |f (00)i), when f (00) = f (01) = f (10) = f (11),
+2
+1
+|10i √ (|f (00)i − |f (00)i), when f (00) = f (10) and f (01) = f (11),
+2
+1
+|01i √ (|f (00)i − |f (00)i), when f (00) = f (01) and f (10) = f (11),
+2
+1
+|00i √ (|f (00)i − |f (00)i), when f (00) = f (11) and f (01) = f (10).
+2
+
+(5.4.8)
+(5.4.9)
+(5.4.10)
+(5.4.11)
+
+Hence we get either |00i, |01i, |10i, or |11i in the input register depending on the
+relation between f (00), f (01), f (10) and f (11). In the output register, we get entangled
+state,
+
+√1 (|f (00)i
+2
+
+− |f (00)i) in all cases. Therefore, the output register does not give us
+
+useful information about the function.
+In the one qubit problem, broadly speaking there are two kinds of functions: one where
+f (0) = f (1) and another where f (0) 6= f (1). More importantly, the Hadamard gate is
+able to discriminate between these functions. In the two qubit problem, there are four
+functions alone for which two out of four output values are equal. Using the Hadamard
+gate, we are able to discriminate all four such functions. In addition to that, there are
+four other functions for which three out of four output are equal namely f1 , f2 , f3 , and f4 .
+Note that there are four other functions f11 , f12 , f13 , f14 , but they also represent the same
+information.
+f
+f1
+f2
+f3
+f4
+
+xy=00
+1
+0
+0
+0
+
+xy=01
+0
+1
+0
+0
+
+xy=10
+0
+0
+1
+0
+
+xy=11
+0
+0
+0
+1
+
+First, let’s see what happens if we try to apply conditions for f1 on the entangled state
+prepared using the Hadamard gate in 4.4.4.
+Conditions f (00) = f (01) = f (10) = f (11).
+f (00) = f (01) = f (10) = f (11).
+
+5. QUANTUM ALGORITHMS
+
+30
+
+1
+√ (|00i + |01i + |10i − |11i)(|f (00)i − |f (00)i).
+2 2
+On applying H2 on the input register, we get
+
+
+1
+1
+1
+1
+
+1
+1 −1 
+ 1 −1
+
+
+
+1
+1 −1 −1 
+2
+1 −1 −1
+1
+
+ 
+1
+1
+
+
+1   1
+=
+1   1
+−1
+1
+
+(5.4.12)
+
+
+
+.
+
+
+On applying, H2 we get an entangled state, which means that following the schema of
+Deutsch’s algorithm we cannot discriminate functions that are like f1 . In fact, we cannot
+discriminate all four functions f1 , f2 , f3 and f4 since we cannot get a pure state on applying
+H2 on the input register as we found for f1 . Therefore we need a different gate for step 1
+to prepare entangled state so that in step 3, it can also give pure state. Incidently, there
+is one such gate which fulfills the above conditions, the GregMatt1 gate.
+
+
+1
+1
+1
+1
+1  −1 −1
+1
+1 
+
+GM = 
+1 −1
+1 
+2  −1
+−1
+1
+1 −1
+Again, we follow the same schema where we first prepare the entangled state using the
+GregMatt gate.
+1
+1
+(GM ⊗ H1 )(|11i|1i) = (|00i + |01i + |10i − |11i) √ (|0i − |1i)
+2
+2
+1
+= √ (|00i|0i − |00i|1i + |01i|0i − |01i|1i
+2 2
+
+(5.4.13)
+
++ |10i|0i − |10i|1i − |11i|0i + |11i|1i)
+After we have superposition of all possible state, we can apply Uf on the qubits,
+1
+√ (|00i|f (00)i − |00i|1 ⊕ f (00)i + |01i|f (01)i − |01i|1 ⊕ f (01)i
+2 2
++|10i|f (10)i − |10i|1 ⊕ f (10)i − |11i|f (11)i + |11i|1 ⊕ f (11)i)
+We know x = 1 ⊕ x and f (xy) = 1 ⊕ f (xy).
+1
+√ (|00i|f (00)i − |00i|f (00)i + |01i|f (01)i − |01i|f (01)i+
+2 2
+|10i|f (10)i − |10i|f (10)i − |11i|f (11)i + |11i|f (11)i)
+1 The
+
+gate is named after my advisors Greg Landweber and Matthew Deady.
+
+(5.4.14)
+
+5. QUANTUM ALGORITHMS
+
+31
+
+Condition I, f (01) = f (10) = f (11) = f (00).
+f (01) = f (10) = f (11) = f (00).
+
+1
+√ (|00i − |01i − |10i + |11i)(|f (00)i − |f (00)i)
+2 2
+
+(5.4.15)
+
+Condition II, f (00) = f (01) = f (10) = f (11).
+f (00) = f (01) = f (10) = f (11).
+
+1
+√ (|00i − |01i + |10i − |11i)(|f (00)i − |f (00)i)
+2 2
+
+(5.4.16)
+
+Condition III,f (00) = f (01) = f (10) = f (11).
+f (00) = f (01) = f (10) = f (01).
+
+1
+√ (|00i + |01i − |10i − |11i)(|f (00)i − |f (00)i)
+2 2
+
+(5.4.17)
+
+Condition IV,f (00) = f (01) = f (10) = f (11).
+f (00) = f (01) = f (10) = f (11).
+
+1
+√ (|00i + |01i + |10i + |11i)(|f (00)i − |f (00)i
+2 2
+
+(5.4.18)
+
+On applying GM back on the input register for each condition we obtain:
+1
+|11i √ (|f (00)i − |f (00)i),
+2
+1
+|10i √ (|f (00)i − |f (00)i),
+2
+1
+|01i √ (|f (00)i − |f (00)i),
+2
+1
+|00i √ (|f (00)i − |f (00)i),
+2
+
+when f (00) 6= f (01) = f (10) = f (11),
+
+(5.4.19)
+
+when f (00) = f (10) = f (11) 6= f (01),
+
+(5.4.20)
+
+when f (00) = f (01) = f (11) 6= f (10),
+
+(5.4.21)
+
+when f (00) = f (01) = f (10) 6= f (11).
+
+(5.4.22)
+
+5. QUANTUM ALGORITHMS
+
+32
+
+Hence we get either |00i, |01i, |10i, or |11i in the input register depending on the
+relation between f (00), f (01), f (10) and f (11). In the output register, we get entangled
+state,
+
+√1 (|f (00)i
+2
+
+− |f (00)i) in all cases.
+
+Therefore, we are able to completely solve the two qubit Deutsch’s problem. We have
+found that for relational information we can distinguish functions in one application of
+Uf . This is a significant improvement from classical computing, where at least four computations are required to find such relational information.
+
+5.5 Some Important Observations on the 2 qubit Deutsch’s Problem
+We have observed that in the 2 qubit problem, there are broadly two kinds of functions. The
+first kind has two out of four output equal and second kind has three out of four outputs
+equal. In order to discriminate first kind, we need the Hadamard gate for entanglement
+and to discriminate second kind, we need the GregMatt gate. Therefore, there must be
+some kind of relationship between the gate that is used for entanglement and the functions
+which the gate can discriminate. In this section, we will make observations regarding the
+properties of entangling gates.
+
+Entangling gate contains information about the functions it discriminates
+There is an interesting relationship between the entries in the entangling gate and values
+for functions that are identifiable using such gate. When we look at the entries of the
+Hadamard gate and table of functions with their values, we can observe a direct correspondence between each function’s values and entries of Hadamard gate.
+
+f
+f0
+f10
+f7
+f6
+
+xy=00
+0
+0
+0
+0
+
+xy=01
+0
+1
+0
+1
+
+xy=10
+0
+0
+1
+1
+
+xy=11
+0
+1
+1
+0
+
+
+
+
+1
+1
+1
+1
+1  1 −1
+1 −1 
+
+H2 = 
+1 −1 −1 
+2 1
+1 −1 −1
+1
+
+5. QUANTUM ALGORITHMS
+
+33
+
+For each 0 in the table of function’s values, the Hadamard gate has 1 and for 1 it has −1
+in corresponding positions. Hence, the Hadamard gate (H2 ) holds information about the
+functions that it can identify.
+Interestingly, there is no such direct relationship between functions which have three
+output values equal and the entangling gate.
+f
+f1
+f2
+f3
+f4
+
+xy=00
+1
+0
+0
+0
+
+xy=01
+0
+1
+0
+0
+
+xy=10
+0
+0
+1
+0
+
+xy=11
+0
+0
+0
+1
+
+
+
+
+1
+1
+1
+1
+1  −1 −1
+1
+1 
+.
+GM = 
+1 −1
+1 
+2  −1
+−1
+1
+1 −1
+
+However, the relationship between the functional values and GM gate is indirect. If we
+suppose that f1 corresponds with first the row of the GM gate then change in the output
+values for each function corresponds to change in the GM gate from 1 to −1. For example,
+function f0 has output values 1, 0, 0, 0 which corresponds to first row of the GregMatt
+gate which are all 1’s. The second function f1 has output values 0, 1, 0, 0 which means
+there are two places where they differ, one at f (00) and another at f (01). As a result, the
+second row in the GM gate has −1 at first two entries. Similar patterns follow for third
+and fourth rows of the GM gate.
+
+An Example
+The following example can shed some light on the properties of entangling gates:
+
+
+
+−1
+1
+1
+1
+1  1 −1
+1
+1 
+.
+MS = 
+
+1
+1 −1
+1 
+2
+1
+1
+1 −1
+The M S gate is another example of an entangling gate that can distinguish functions that
+for which two out of four output values are equal. We can show this by using the schema of
+Deutsch’s Algorithm that we have used in earlier problems. First, we begin by entangling
+
+5. QUANTUM ALGORITHMS
+
+34
+
+the initial state using the M S gate.
+1
+1
+(M S ⊗ H1 )(|11i|1i) = (|00i + |01i + |10i − |11i) √ (|0i − |1i)
+2
+2
+1
+= √ (|00i|0i − |00i|1i + |01i|0i − |01i|1i
+2 2
+
+(5.5.1)
+
++ |10i|0i − |10i|1i − |11i|0i + |11i|1i).
+After we have superposition of all possible state, we can apply Uf to get,
+1
+√ (|00i|f (00)i − |00i|1 ⊕ f (00)i + |01i|f (01)i − |01i|1 ⊕ f (01)i
+2 2
++|10i|f (10)i − |10i|1 ⊕ f (10)i − |11i|f (11)i + |11i|1 ⊕ f (11)i)
+We know x = 1 ⊕ x and f (xy) = 1 ⊕ f (xy), so
+1
+√ (|00i|f (00)i − |00i|f (00)i + |01i|f (01)i − |01i|f (01)i+
+2 2
+|10i|f (10)i − |10i|f (10)i − |11i|f (11)i + |11i|f (11)i).
+We will use a tabular representation which simply our algebraic manipulations.
+Uf (M S ⊗ H1 )(|11i|1i)
+|00i|f (00)i − |00i|f (00)i
+|01i|f (01)i − |01i|f (01)i
+|10i|f (10)i − |10i|f (10)i
+−|11i|f (11)i + |11i|f (11)i
+
+0000
+1
+1
+1
+−1
+
+0011
+1
+1
+−1
+1
+
+0101
+1
+−1
+1
+1
+
+0110
+1
+−1
+−1
+−1
+
+The left most column of the table is the entangled state Uf (M S ⊗ H1 )(|11i|1i). The
+column on the right of it are the coefficient of |00i, |01i, |10i, and |11i for functions which
+has values on top of the column. The column on the right also represents the entangled
+state on the input register after applying Uf . For example: On top of the second column
+we have 0000 which represents the case when f (00) = f (01) = f (10) = f (11) and when
+this condition is applied on the entangled state, we get
+(|00i + |01i + |10i − |11i)(f (00) − f (00)).
+Following the schema of Deutsch’s Algorithm, we apply the M S transformation back
+on the input register. Therefore, we can apply the M S gate to all the different functions.
+
+5. QUANTUM ALGORITHMS
+
+
+−1 1
+1
+1
+ 1 −1 1
+1
+
+ 1
+1 −1 1
+1
+1
+1 −1
+
+−1 1
+1
+1
+ 1 −1 1
+1
+
+ 1
+1 −1 1
+1
+1
+1 −1
+
+−1 1
+1
+1
+ 1 −1 1
+1
+
+ 1
+1 −1 1
+1
+1
+1 −1
+
+−1 1
+1
+1
+ 1 −1 1
+1
+
+ 1
+1 −1 1
+1
+1
+1 −1
+
+35
+
+
+ 
+1
+0
+ 1   0
+
+ 
+ 1  =  0
+−1
+4
+
+ 
+1
+0
+ 1   0
+
+ 
+  −1  =  4
+1
+0
+
+ 
+1
+0
+  −1   4
+
+ 
+ 1  =  0
+1
+0
+ 
+
+4
+1
+  −1   0
+ 
+
+  −1  =  0
+0
+−1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Therefore, we obtain a pure state on applying the M S on the input register. This confirm
+that the M S can be another gate that discriminates functions which have two out of four
+values equal. The result is not quite surprising if we look at that M S gate and functions
+with their values.
+
+
+−1 1
+1
+1
+1  1 −1 1
+1 
+
+MS = 
+1 −1 1 
+2 1
+1
+1
+1 −1
+
+
+f
+f0
+f10
+f7
+f6
+
+xy=00
+0
+1
+1
+1
+
+xy=01
+0
+1
+0
+0
+
+xy=10
+0
+0
+1
+0
+
+xy=11
+0
+0
+0
+1
+
+We can observe that the M S gate in fact holds information about the functions it
+distinguishes even though it might not be as direct as it appeared in the Hadamard gate.
+If we consider that the first row of the M S gate corresponds with the first function, then
+change in the functional values from 0 to 1 along each column corresponds with the change
+in the sign of the entries in the M S gate along same column. For example: In the first
+column of the function’s values changes from 0 in first row to 1 in second, third and fourth
+row which corresponds to change in the first column where there −1 in the first row and
+
+5. QUANTUM ALGORITHMS
+
+36
+
+1 in second, third and fourth row of the M S gate. Thus, the M S gate holds information
+about all the functions.
+
+An entangling gate cannot discriminate two different kinds of functions
+The 2 qubit problem has broadly two kinds of functions. The first kind which have two out
+of four output values equal are distinguished using the Hadamard gate and second kind
+which have three out of four output values equal are distinguished using the GregMatt
+gate. We found out earlier that the Hadamard gate cannot discriminate functions which
+have three output values equal. The same rule applies for the GregMatt gate. It cannot
+discriminate functions which have two output values equal. However, it turns out that
+GregMatt gate also represents functions which have two output values equal.
+
+
+
+
+1
+1
+1
+1
+1  −1 −1 1
+1 
+
+GM = 
+2  −1 1 −1 1 
+−1 1
+1 −1
+
+f
+f0
+f10
+f7
+f6
+
+xy=00
+0
+1
+1
+1
+
+xy=01
+0
+1
+0
+0
+
+xy=10
+0
+0
+1
+0
+
+xy=11
+0
+0
+0
+1
+
+Clearly, the GM gate contains information about these four functions. There is direct
+relationship between the entries in the gate and output of the functions in the table. All
+the 0’s and 1’s in the functional table corresponds to 1 and −1 in the GM gate. We will
+again follow the schema of Deutsch’s algorith and use tabluar representation to write the
+entangled states and coefficient of the input register for each functions.
+Uf (GM ⊗ H1 )(|11i|1i)
+|00i|f (00)i − |00i|f (00)i
+|01i|f (01)i − |01i|f (01)i
+|10i|f (10)i − |10i|f (10)i
+−|11i|f (11)i + |11i|f (11)i
+
+0000
+1
+1
+1
+−1
+
+1100
+1
+1
+−1
+1
+
+1010
+1
+−1
+1
+1
+
+1001
+1
+−1
+−1
+−1
+
+For each functions, we have listed the coefficient for |00i, |01i, |10i, and |11i, which the
+state of the input register after applying Uf . Following the final step of the schema, we
+apply GM back on the input register.
+
+5. QUANTUM ALGORITHMS
+
+
+37
+
+1
+1
+1
+1
+ −1 −1 1
+1
+
+ −1 1 −1 1
+−1 1
+1 −1
+
+1
+1
+1
+1
+ −1 −1 1
+1
+
+ −1 1 −1 1
+−1 1
+1 −1
+
+1
+1
+1
+1
+ −1 −1 1
+1
+
+ −1 1 −1 1
+−1 1
+1 −1
+
+1
+1
+1
+1
+ −1 −1 1
+1
+
+ −1 1 −1 1
+−1 1
+1 −1
+
+
+
+ 
+1
+2
+ 1   2
+
+ 
+ 1  =  2
+−1
+2
+ 
+
+2
+1
+ 1   2
+ 
+
+  −1  =  2
+2
+1
+
+ 
+1
+2
+  −1   2
+
+ 
+ 1  =  2
+1
+2
+
+ 
+1
+2
+  −1   2
+
+ 
+  −1  =  2
+−1
+2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Therefore on applying the GM transformation, we do not get pure state, which means
+GM can not discriminate the functions. Although, the GM gate contains relational information about the functions, it can not distinguish between the functions.
+
+Group Structure
+One important observation that can be made about the functions that are encoded by
+the Hadamard gate is that they form a group under modulo-2 addition. Specifically, the
+functions form a Klein-4 group.
+f
+f0
+f10
+f7
+f6
+
+xy=00
+1
+0
+0
+0
+
+xy=01
+0
+1
+0
+0
+
+xy=10
+0
+0
+1
+0
+
+xy=11
+0
+1
+0
+1
+
+5.6 Deutsch’s Problem with 3 qubits input
+Deutsch’s problem can be extended to 3 qubits input. In order to do this, first consider
+a input register containing three qubits and an output register containing one qubit.
+
+5. QUANTUM ALGORITHMS
+
+38
+
+Consider a function f that takes 3 bits input into a single bit,
+Uf (|xyzi|wi) = |xyzi|w ⊕ f (xyz)i.
+
+(5.6.1)
+
+There are altogether 256 possibilities for what Uf can be depending on the value of
+f (x, y, z) for each computational basis of |xyzi. It is convenient to divide the total possibilities into cases depending on the number of 1 and 0 each class of functions have. So,
+the problem can be broken down into nine cases.
+0
+1
+1
+1
+1
+1
+1
+1
+1
+
+0
+0
+1
+1
+1
+1
+1
+1
+1
+
+0
+0
+0
+1
+1
+1
+1
+1
+1
+
+0
+0
+0
+0
+1
+1
+1
+1
+1
+
+0
+0
+0
+0
+0
+1
+1
+1
+1
+
+0
+0
+0
+0
+0
+0
+1
+1
+1
+
+0
+0
+0
+0
+0
+0
+0
+1
+1
+
+0
+0
+0
+0
+0
+0
+0
+0
+1
+
+There is 1 function which has all eight outputs 0. Similarly, there are 8 functions with
+one output 1, there are 28 functions with two outputs 1, there are 56 functions with
+three outputs 1, there are 70 functions with four outputs 1, there are 56 functions with
+five output 1, there are 28 functions with six outputs 1, there are 8 functions with seven
+outputs 1 and there is 1 function with all eight outputs 1. However, as we discussed earlier,
+the scope of Deutsch’s Problem is to determine the relationship information rather than
+specific information. As such a function that has all eight outputs 0 and a function that
+has all eight outputs 1 are essential same since both represent conditions,
+f (000) = f (001) = f (010) = f (011) = f (100) = f (101) = f (110) = f (111).
+The same notion is true for functions that have 2 outputs 1 or 2 output 0 and so on. In
+both 1 qubit and 2 qubits cases, the first thing we were interested was to determine what
+the tranformation (Uf ) represent for functions where half of the output values are equal to
+each other. In order to do we used the Hadamard Gate, H1 for 1 qubit and H2 for 2 qubits.
+
+5. QUANTUM ALGORITHMS
+
+39
+
+Therefore, our initial guess would be to used a H3 , which is simply H1 ⊗H1 ⊗H1 to deduce
+the functions where 4 out of 8 outputs are equal to each other. There are essentially 36
+functions which have half of the output values equal to each other which are listed below:
+xyz=000
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+
+xyz=001
+0
+0
+0
+0
+1
+0
+0
+1
+0
+1
+1
+0
+0
+1
+0
+1
+1
+0
+1
+1
+1
+0
+0
+1
+0
+1
+1
+0
+1
+1
+1
+0
+1
+1
+1
+1
+
+xyz=010
+0
+0
+0
+1
+0
+0
+1
+0
+1
+0
+1
+0
+1
+0
+1
+0
+1
+1
+0
+1
+1
+0
+1
+0
+1
+0
+1
+1
+0
+1
+1
+1
+0
+1
+1
+1
+
+xyz=011
+0
+0
+1
+0
+0
+1
+0
+0
+1
+1
+0
+1
+0
+0
+1
+1
+0
+1
+1
+0
+1
+1
+0
+0
+1
+1
+0
+1
+1
+0
+1
+1
+1
+0
+1
+1
+
+xyz=100
+0
+1
+0
+0
+0
+1
+1
+1
+0
+0
+0
+1
+1
+1
+0
+0
+0
+1
+1
+1
+0
+1
+1
+1
+0
+0
+0
+1
+1
+1
+0
+1
+1
+1
+0
+1
+
+xyz=101
+0
+1
+1
+1
+1
+0
+0
+0
+0
+0
+0
+1
+1
+1
+1
+1
+1
+0
+0
+0
+0
+1
+1
+1
+1
+1
+1
+0
+0
+0
+0
+1
+1
+1
+1
+0
+
+xyz=110
+0
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+0
+0
+0
+0
+0
+
+xyz=111
+0
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+.
+1
+1
+1
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+
+The 3 qubit Hadamard gate, H3 , is one of the candidates for gates that can entangle and
+disentangle the functions for which half of the outputs are equal to each other. However,
+
+5. QUANTUM ALGORITHMS
+
+40
+
+it can at most deduce 8 such functions. One way to find those eight functions is to first
+entangle the input and output registers and apply each of 36 conditions and pick the
+ones that give back a pure state on apply H3 . There is an easier way to come up with
+the functions that H3 can deduce. If we recall our observations in the 2 qubit Deutsch’s
+problem, we found that for H2 , there is a direct correspondence between 1 and −1 with
+0 and 1 in the table of the output values of the functions. Therefore, by looking at the
+entries of H3 , we can find the functions which are deduced by it. For each 1 appearing in
+H3 which put 0 and for each −1 we put 1 in the corresponding position in the table of
+function’s values.
+
+
+
+
+
+
+1 
+H3 = √ 
+2 2
+
+
+
+
+
+xyz=000
+0
+0
+0
+0
+0
+0
+0
+0
+
+xyz=001
+0
+1
+0
+1
+0
+1
+0
+1
+
+1
+1
+1
+1
+1
+1
+1
+1
+
+xyz=010
+0
+0
+1
+1
+0
+0
+1
+1
+
+1
+−1
+1
+−1
+1
+−1
+1
+−1
+
+1
+1
+−1
+−1
+1
+1
+−1
+−1
+
+xyz=011
+0
+1
+1
+0
+0
+1
+1
+0
+
+1
+−1
+−1
+1
+1
+−1
+−1
+1
+
+1
+1
+1
+1
+−1
+−1
+−1
+−1
+
+xyz=100
+0
+0
+0
+0
+1
+1
+1
+1
+
+1
+−1
+1
+−1
+−1
+1
+−1
+1
+
+1
+1
+−1
+−1
+−1
+−1
+1
+1
+
+1
+−1
+−1
+1
+−1
+1
+1
+−1
+
+xyz=101
+0
+1
+0
+1
+1
+0
+1
+0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+xyz=110
+0
+0
+1
+1
+1
+1
+0
+0
+
+xyz=111
+0
+1
+1
+0
+1
+0
+0
+1
+
+5. QUANTUM ALGORITHMS
+
+41
+
+We can confirm that the above 8 functions are deduced by H3 by carrying the detailed
+calculation in tabular form as we did in the 2 qubit problem.
+1
+(H3 ⊗ H1 )(|111i|1i) = √ (|000i − |001i − |010i + |011i
+2 2
+1
+− |100i + |101i + |110i − |111i) √ (|0i − |1i)
+2
+1
+= (|000i|0i − |000i|1i − |001i|0i + |001i|1i − |010i|0i + |010i|1i
+4
++ |011i|0i − |011i|1i − |100i|0i + |100i|1i + |101i|0i − |101i|1i
++ |110i|0i − |110i|1i − |111i|0i + |111i|1i).
+(5.6.2)
+On applying Uf and conditions, x = 1 ⊕ x and f (x, y, z) = 1 ⊕ f (x, y, z) we get,
+1
+(|000i|f (000)i − |000i|f (000)i − |001i|f (001)i + |001i|f (001)i
+4
+−|010i|f (010)i + |010i|f (010)i + |011i|f (011)i − |011i|f (011)i
+−|100i|f (100)i + |100i|f (100)i + |101i|f (101)i − |101i|f (101)i
++|110i|f (110)i − |110i|f (110)i − |111i|f (111)i + |111i|f (111)i).
+
+Uf (H3 ⊗ H1 )(|111i|1i)
+|000i|f (000)i − |000i|f (000)i
+−|001i|f (001)i + |001i|f (001)i
+−|010i|f (010)i + |010i|f (010)i
+|011i|f (011)i − |011i|f (011)i
+−|100i|f (100)i + |100i|f (100)i
+−|101i|f (101)i + |101i|f (101)i
+|110i|f (110)i − |110i|f (110)i
+|111i|f (111)i − |111i|f (111)i
+H3 Uf (H3 ⊗ H1 )(|111i|1i)
+
+00000000
+1
+−1
+−1
+1
+−1
+−1
+1
+−1
+|111i
+
+01010101
+1
+1
+−1
+−1
+−1
+−1
+1
+1
+|110i
+
+00110011
+1
+−1
+1
+−1
+−1
+−1
+−1
+1
+|101i
+
+01100110
+1
+1
+1
+1
+−1
+−1
+−1
+−1
+|100i
+
+00001111
+1
+−1
+−1
+1
+1
+1
+−1
+1
+|011i
+
+01011010
+1
+1
+−1
+−1
+1
+1
+−1
+−1
+|010i
+
+00111100
+1
+−1
+1
+−1
+1
+1
+1
+−1
+|001i
+
+01101001
+1
+1
+1
+1
+1
+1
+1
+1
+|000i
+
+The leftmost column of the above table contains the entangled state Uf (H3 ⊗
+H1 )(|111i|1i) and each column to its right contains the coeffiecient of each pure state
+for the functions on top of the column. The bottom of the table has the distinct pure state
+that is obtained on applying H3 back on the entangled state for each function.
+We have found 8 functions that the Hadamard gates encodes and decodes. However, we
+do not know the gates that can encode and decode the remaining 28 functions.
+
+5. QUANTUM ALGORITHMS
+
+42
+
+5.7 Some Important Observations on the 3 qubit Deutsch’s Problem
+In the 2 qubit problem we have noticed that H2 encodes the information about the functions and is also self adjoint. In the 3 qubit problem too, H3 encodes information about the
+functions that it deduces and is self adjoint. There is another important observation that
+we made about the functions that H2 encoded and decoded, it was the function group a
+Klein-4 group under modulo 2 addition. In the problem too, it turns out that the functions
+that H3 encodes form a Klein-4 group under modulo 2 addition. In fact, this property of
+the functions plays an important role in determining the gates that we need to encode
+and decode the remaining 28 functions that H3 is not able to encode.
+
+Group Structure
+Let’s look back at the functions that H3 was able to encode.
+
+xyz=000
+0
+0
+0
+0
+0
+0
+0
+0
+
+xyz=001
+0
+1
+0
+1
+0
+1
+0
+1
+
+xyz=010
+0
+0
+1
+1
+0
+0
+1
+1
+
+xyz=011
+0
+1
+1
+0
+0
+1
+1
+0
+
+xyz=100
+0
+0
+0
+0
+1
+1
+1
+1
+
+xyz=101
+0
+1
+0
+1
+1
+0
+1
+0
+
+xyz=110
+0
+0
+1
+1
+1
+1
+0
+0
+
+xyz=111
+0
+1
+1
+0
+1
+0
+0
+1
+
+It turns out that the functions here form a group structure under mod 2 addition. This
+information is key for finding the gates that can encode and decode functions. In order to
+figure out the gates other than H3 that can encode and decode the remaining 28 functions
+we need to follow two rules. 1. The functions that we want to encode must altogether form
+a group structure. 2. The entries of the gate that encodes such group of functions has one
+to one relatoinship with the functional values. More precisely, the 0 in the functional table
+corresponds to 1 in the gate and 1 in the functional table corresponds to −1 in the gate.
+
+5. QUANTUM ALGORITHMS
+
+43
+
+Let’s take an example of the functions that form a group and find the gate that encodes
+the information about the function.
+
+0 0
+ 0 1
+
+ 0 1
+
+ 0 0
+
+ 0 0
+
+ 0 1
+
+ 0 0
+0 1
+
+0
+1
+0
+0
+1
+1
+1
+0
+
+0
+0
+0
+1
+1
+1
+0
+1
+
+0
+0
+1
+1
+0
+1
+1
+0
+
+0
+1
+1
+1
+1
+0
+0
+0
+
+0
+0
+1
+0
+1
+0
+1
+1
+
+0
+1
+0
+1
+0
+0
+1
+1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The gate that encodes these functions follows the two rules that mentioned earlier.
+
+
+1
+1
+1
+1
+1
+1
+1
+1
+ 1 −1 −1
+1
+1 −1
+1 −1 
+
+
+
+ 1 −1
+1
+1
+−1
+−1
+−1
+1
+
+
+
+1
+1
+1
+1 −1 −1 −1
+1 −1 
+.
+AD = √ 
+1 −1 −1
+1 −1 −1
+1 
+2 2
+
+ 1
+ 1 −1 −1 −1 −1
+1
+1
+1 
+
+
+ 1
+1 −1
+1 −1
+1 −1 −1 
+1 −1
+1 −1
+1
+1 −1 −1
+We can confirm that the above 8 functions are deduced by H3 by carrying the detailed
+calculation in tabular form as we did in the 2 qubit problem.
+1
+(AD ⊗ H1 )(|111i|1i) = √ (|000i − |001i + |010i − |011i
+2 2
+1
++ |100i + |101i − |110i − |111i) √ (|0i − |1i)
+2
+1
+= (|000i|0i − |000i|1i − |001i|0i + |001i|1i + |010i|0i − |010i|1i
+4
+− |011i|0i + |011i|1i + |100i|0i − |100i|1i + |101i|0i − |101i|1i
+− |110i|0i + |110i|1i − |111i|0i + |111i|1i).
+(5.7.1)
+On applying Uf and conditions, x = 1 ⊕ x and f (x, y, z) = 1 ⊕ f (x, y, z) we get,
+1
+(|000i|f (000)i − |000i|f (000)i − |001i|f (001)i + |001i|f (001)i
+4
++|010i|f (010)i − |010i|f (010)i − |011i|f (011)i + |011i|f (011)i
++|100i|f (100)i − |100i|f (100)i + |101i|f (101)i − |101i|f (101)i
+−|110i|f (110)i + |110i|f (110)i − |111i|f (111)i + |111i|f (111)i).
+
+5. QUANTUM ALGORITHMS
+
+Uf (AD ⊗ H1 )(|111i|1i)
+|000if (000) − |000if (000)
+−|001if (001) + |001if (001)
+|010if (010) − |010if (010)
+−|011if (011) + |011if (011)
+|100if (100) − |100if (100)
+|101if (100) − |101if (101)
+−|110if (110) + |110if (110)
+−|111if (111) + |111if (111)
+H3 Uf (H3 ⊗ H1 )(|111i|1i)
+
+00000000
+1
+−1
+−1
+1
+−1
+−1
+1
+−1
+|111i
+
+44
+
+01010101
+1
+1
+−1
+−1
+−1
+−1
+1
+1
+|110i
+
+00110011
+1
+−1
+1
+−1
+−1
+−1
+−1
+1
+|101i
+
+01100110
+1
+1
+1
+1
+−1
+−1
+−1
+−1
+|100i
+
+00001111
+1
+−1
+−1
+1
+1
+1
+−1
+1
+|011i
+
+01011010
+1
+1
+−1
+−1
+1
+1
+−1
+−1
+|010i
+
+00111100
+1
+−1
+1
+−1
+1
+1
+1
+−1
+|001i
+
+01101001
+1
+1
+1
+1
+1
+1
+1
+1
+|000i
+
+Hence, the AD gate successfully discriminates the above functions which formed an abelian
+group. This can be generalized for all the functions having 4 out of 8 values equal to each
+other. Any set of functions that form a subgroup can be discriminated by a gate that has
+a direct correspondence with the functions. At this point, we know that all functions that
+have 4 out of 8 values equal can be distinguished in single operaiton of Uf . With this,
+we are left with functions that have 7 output values equal, functions that have 6 output
+values equal and the ones with 5 output values equal.
+
+5.8 Functions which have all but one output values equal to each
+other
+One of the kinds of function that the Hadamard gate cannot discriminate are the ones
+with 7 output values equal. We can list them in a table.
+xyz=000
+1
+0
+0
+0
+0
+0
+0
+0
+
+xyz=001
+0
+1
+0
+0
+0
+0
+0
+0
+
+xyz=010
+0
+0
+1
+0
+0
+0
+0
+0
+
+xyz=011
+0
+0
+0
+1
+0
+0
+0
+0
+
+xyz=100
+0
+0
+0
+0
+1
+0
+0
+0
+
+xyz=101
+0
+0
+0
+0
+0
+1
+0
+0
+
+xyz=110
+0
+0
+0
+0
+0
+0
+1
+0
+
+xyz=111
+0
+0
+0
+0
+0
+0
+0
+1
+
+The most challenging part of solving this problem is to find a gate that can entangle the
+initial states and for each of these functions return a distinct pure state, so that each of
+thesefunctions is identifiable.After making close observations for the 2 qubit case and many
+trials and errors, we have finally come up with a gate that can distinguish these functions
+
+5. QUANTUM ALGORITHMS
+
+45
+
+with a slight variation in the schema of the Deutsch’s algorithm. This gate is called the
+GregMatt1 as it is simply the tensor product of Idenitity matrix with the GregMatt gate.
+
+
+
+
+
+1
+GM1 = I ⊗ GM = 
+2
+
+
+
+
+
+1
+1
+1
+1
+0
+0
+0
+0
+−1 −1
+1
+1
+0
+0
+0
+0
+−1
+1 −1
+1
+0
+0
+0
+0
+−1
+1
+1 −1
+0
+0
+0
+0
+0
+0
+0
+0
+1
+1
+1
+1
+0
+0
+0
+0 −1 −1
+1
+1
+0
+0
+0
+0 −1
+1 −1
+1
+0
+0
+0
+0 −1
+1
+1 −1
+
+
+
+
+
+
+
+.
+
+
+
+
+
+
+One thing we have notice here is that the GM1 is the first instance of the entangling gate
+which has 0 as its entries. In order to discriminate all of these functions with the GM1
+gate, we need to divide this problem into two parts. The first part handles the first four
+functions, and the second deals with the last four functions.
+Part I
+In our schema of Deutsch’s algorithm, we have always choosen states like |1i for 1 qubit
+and |11i for 2 qubits as the initial state of the input register. However, in the first part of
+this particular problem we will choose |011i as the initial state of the input register. Hence
+we use the GM1 gate to entangle the input state and the Hadamard gate to entangle the
+output register to get,
+1
+1
+(GM1 ⊗ H1 )(|011i|1i) = (|000i + |001i + |010i − |011i) √ (|0i − |1i)
+2
+2
+1
+= √ (|000i|0i − |000i|1i + |001i|0i − |001i|1i
+2 2
+
+(5.8.1)
+
++ |010i|0i − |010i|1i − |011i|0i + |011i|1i).
+Notice that the GM1 gate does not maximally entangle the state of input register. Once
+we have the entangled state, we apply Uf transformation which gives us,
+1
+√ (|000i|f (000)i − |000i|1 ⊕ f (000)i + |001i|f (001)i − |001i|1 ⊕ f (001)i
+2 2
++ |010i|f (010)i − |010i|1 ⊕ f (010)i − |011i|f (011)i + |011i|1 ⊕ f (011)i).
+
+5. QUANTUM ALGORITHMS
+
+46
+
+We know, x = 1 ⊕ x and f (xyz) = 1 ⊕ f (xyz), so
+1
+√ (|000i|f (000)i − |000i|f (000)i + |001i|f (001)i − |001i|f (001)i
+2 2
++ |010i|f (010)i − |010i|f (010)i − |011i|f (011)i + |011i|f (011)i).
+We can use the tabular form to confirm our assumptions.
+Uf (GM1 ⊗ H1 )(|011i|1i)
+|000i|f (000)i − |000i|f (000)i
+|001i|f (001)i − |001i|f (001)i
+|010i|f (010)i − |010i|f (010)i
+−|011i|f (011)i + |011i|f (011)i
+0 · |100i
+0 · |101i
+0 · |110i
+0 · |111i
+GM1 Uf (GM1 ⊗ H1 )(|011i|1i)
+
+10000000
+1
+−1
+−1
+1
+0
+0
+0
+0
+|011i
+
+01000000
+1
+−1
+1
+−1
+0
+0
+0
+0
+|010i
+
+00100000
+1
+1
+−1
+−1
+0
+0
+0
+0
+|001i
+
+00010000
+1
+1
+1
+1
+0
+0
+0
+0
+|000i
+
+Therefore, part I successfully discriminates the first four functions.
+Part II
+For the other four functions, we will use |111i as the initial state of input register.
+1
+1
+(GM1 ⊗ H1 )(|111i|1i) = (|100i + |101i + |110i − |111i) √ (|0i − |1i)
+2
+2
+1
+= √ (|100i|0i − |100i|1i + |101i|0i − |101i|1i
+2 2
+
+(5.8.2)
+
++ |110i|0i − |110i|1i − |111i|0i + |111i|1i).
+Notice that the GM1 gate does not maximally entangle the state of input register. Once
+we have the entangled state, we apply Uf transformation which gives us,
+1
+√ (|100i|f (100)i − |100i|1 ⊕ f (100)i + |101i|f (101)i − |101i|1 ⊕ f (101)i
+2 2
++ |110i|f (110)i − |110i|1 ⊕ f (110)i − |111i|f (111)i + |111i|1 ⊕ f (111)i).
+We know, x = 1 ⊕ x and f (xyz) = 1 ⊕ f (xyz), so
+1
+√ (|100i|f (100)i − |100i|f (100)i + |101i|f (101)i − |101i|f (101)i
+2 2
++ |110i|f (110)i − |110i|f (110)i − |111i|f (111)i + |111i|f (111)i).
+We can use the tabular form to confirm our assumptions.
+Uf (GM1 ⊗ H1 )(|011i|1i)
+0 · |000i
+0 · |001i
+0 · |010i
+0 · |011i
+|000i|f (000)i − |000i|f (000)i
+|001i|f (001)i − |001i|f (001)i
+|010i|f (010)i − |010i|f (010)i
+−|011i|f (011)i + |011i|f (011)i
+GM1 Uf (GM1 ⊗ H1 )(|111i|1i)
+
+00001000
+0
+0
+0
+0
+1
+−1
+−1
+1
+|111i
+
+00000100
+0
+0
+0
+0
+1
+−1
+1
+−1
+|110i
+
+00000010
+0
+0
+0
+0
+1
+1
+−1
+−1
+|101i
+
+00000001
+0
+0
+0
+0
+1
+1
+1
+1
+|100i
+
+5. QUANTUM ALGORITHMS
+
+47
+
+Hence, part II can distinguish the remaining four functions. One thing we can notice is
+that the first four output values of the first four functions in the 3 qubit problem are same
+as the output values of the functions discriminated by the GregMatt gate in the 2 qubit
+problem. In this method, we have essentially divided the 3 qubit problem into two 2 qubit
+problems.
+
+5.9 Deutsch’s Problem with n qubits input
+Our observations of the 2 qubit and the 3 qubit problem have given an impetus to extend
+Deutsch’s Problem for the n qubit case. The Hadamard gate first appears in the original
+Deutsch’s Problem. The Hadamard gate appeared again in the 2 in the form of H ⊗ H
+qubit and in the 3 qubit problems in the form of H ⊗ H ⊗ H. In each these cases, the
+Hadamard gate was able to discriminate functions which have half of the output values
+equal to 0 and the other half equal to 1. It is most likely the case that for the n qubit
+problem too, the Hardmard gate would appear in the form of H ⊗n and would discriminate
+the functions which have half of their output value equal to 0 and other half equal to 1.
+However, what’s more intriguing is the GregMatt gate and the functions it discriminates.
+For the 2 qubit problem, we observed that the GregMatt gate holds the information about
+the functions which have three out of four outputs equal to each other and successfully
+distinguishes each of them. However, when we tried to extend Deutsch’s Problem for
+the 3 qubit input, in order to discriminate the functions which have seven out of eight
+output value equal to each other, we did something unique. We created a new entangling
+gate, the GregMatt1 gate by tensor product between Indentity matrix with the GregMatt
+gate(I ⊗ GM ). By doing so we were able to divide the problem into two parts and for each
+part used different intial input states to achieve desired pure state to discriminate all 8
+functions. We can extend this technique for the 4 qubit input problem and subsequently
+come with a general method for the n qubit case.
+
+5. QUANTUM ALGORITHMS
+
+48
+
+As usual, let’s state the Deutsch’s problem for 4 qubits input. Consider a function f
+that takes 4 bits input into a single bit,
+
+Uf (|abcdi|ei) = |abcdi|e ⊕ f (abcd)i.
+
+(5.9.1)
+
+For the 4 qubit input, there are essential 16 functions which have all but one values equal
+to each other. Let’s list these function in the following table:
+0000
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+
+0001
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+
+0010
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+
+0011
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+
+0100
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+
+0101
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+
+0110
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+
+0111
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+
+1000
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+
+1001
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+
+1010
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+
+1011
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+
+1100
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+
+1101
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+
+1110
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+
+1111
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+
+Here we used the GregMatt3 gate to entangled the initial input state. The GregMatt3 is
+simply I ⊗ GM1 ,
+
+
+
+
+
+
+
+
+
+1
+GM2 = I⊗GM1 = 
+2
+
+
+
+
+
+
+
+
+
+1
+−1
+−1
+−1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+
+1
+−1
+1
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+
+1
+1
+−1
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+
+1
+1
+1
+−1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+
+0
+0
+0
+0
+1
+−1
+−1
+−1
+0
+0
+0
+0
+0
+0
+0
+0
+
+0
+0
+0
+0
+1
+−1
+1
+1
+0
+0
+0
+0
+0
+0
+0
+0
+
+0
+0
+0
+0
+1
+1
+−1
+1
+0
+0
+0
+0
+0
+0
+0
+0
+
+0
+0
+0
+0
+1
+1
+1
+−1
+0
+0
+0
+0
+0
+0
+0
+0
+
+0
+0
+0
+0
+0
+0
+0
+0
+1
+−1
+−1
+−1
+0
+0
+0
+0
+
+0
+0
+0
+0
+0
+0
+0
+0
+1
+−1
+1
+1
+0
+0
+0
+0
+
+0
+0
+0
+0
+0
+0
+0
+0
+1
+1
+−1
+1
+0
+0
+0
+0
+
+0
+0
+0
+0
+0
+0
+0
+0
+1
+1
+1
+−1
+0
+0
+0
+0
+
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+−1
+−1
+−1
+
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+−1
+1
+1
+
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+1
+−1
+1
+
+Here we divide the problem into 4 parts where we use different initial states for the input
+register. Each part discrimintes 4 funcitons.
+
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+1
+1
+−1
+
+
+
+
+
+
+
+
+
+
+
+.
+
+
+
+
+
+
+
+
+
+
+.
+
+5. QUANTUM ALGORITHMS
+
+49
+
+Part I
+In part I, we discriminate the following four
+
+1 0 0 0 0 0 0 0
+ 0 1 0 0 0 0 0 0
+
+ 0 0 1 0 0 0 0 0
+0 0 0 1 0 0 0 0
+
+functions:
+0
+0
+0
+0
+
+0
+0
+0
+0
+
+0
+0
+0
+0
+
+0
+0
+0
+0
+
+0
+0
+0
+0
+
+0
+0
+0
+0
+
+0
+0
+0
+0
+
+
+0
+0 
+
+0 
+0
+
+Here, we use |0011i as the initial state of the input register. Then, we entangle the input
+register with the GM2 gate and output register with the Hadamard gate as usual. As a
+result we get a partially entangled state,
+1
+1
+(GM2 ⊗ H1 )(|0011i|1i) = (|0000i + |0001i + |0010i − |0011i) √ (|0i − |1i)
+2
+2
+1
+= √ (|0000i|0i − |0000i|1i + |0001i|0i − |0001i|1i
+2 2
+
+(5.9.2)
+
++ |0010i|0i − |0010i|1i − |0011i|0i + |0011i|1i).
+Once again, we will use tabular form to find the results:
+Uf (GM2 ⊗ H1 )(|0011i|1i)
+|0000i|f (0000)i − |000i|f (0000)i
+|0001i|f (0001)i − |001i|f (0001)i
+|0010i|f (0100)i − |010i|f (0010)i
+−|0011i|f (0011)i + |011i|f (0011)i
+0 · |0100i
+0 · |0101i
+0 · |0110i
+0 · |0111i
+0 · |1000i
+0 · |1001i
+0 · |1010i
+0 · |1011i
+0 · |1100i
+0 · |1101i
+0 · |1110i
+0 · |1111i
+GM2 Uf (GM2 ⊗ H1 )(|0011i|1i)
+
+1000000000000000
+1
+−1
+−1
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+|0011i
+
+0100000000000000
+1
+−1
+1
+−1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+|0010i
+
+0010000000000000
+1
+1
+−1
+−1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+|0001i
+
+Hence, part I discriminates the first four functions.
+
+Part II
+In part II, we discriminate the following four
+
+0 0 0 0 1 0 0 0
+ 0 0 0 0 0 1 0 0
+
+ 0 0 0 0 0 0 1 0
+0 0 0 0 0 0 0 1
+
+functions:
+0
+0
+0
+0
+
+0
+0
+0
+0
+
+0
+0
+0
+0
+
+0
+0
+0
+0
+
+0
+0
+0
+0
+
+0
+0
+0
+0
+
+0
+0
+0
+0
+
+
+0
+0 
+
+0 
+0
+
+0001000000000000
+1
+1
+1
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+|0000i
+
+5. QUANTUM ALGORITHMS
+
+50
+
+Here, we use |0111i as the initial state of the input register. Then, we entangle the input
+register with the GM2 gate and output register with the Hadamard gate as usual. As a
+result we get a partially entangled state,
+1
+1
+(GM2 ⊗ H1 )(|0111i|1i) = (|0100i + |0101i + |0110i − |0111i) √ (|0i − |1i)
+2
+2
+1
+= √ (|0100i|0i − |0100i|1i + |0101i|0i − |0101i|1i
+2 2
+
+(5.9.3)
+
++ |0110i|0i − |0110i|1i − |0111i|0i + |0111i|1i).
+Once again, we will use tabular form to find the results:
+Uf (GM2 ⊗ H1 )(|0111i|1i)
+0 · |0000i
+0 · |0001i
+0 · |0010i
+0 · |0011i
+|0100i|f (0100)i − |0100i|f (0100)i
+|0101i|f (0101)i − |0101i|f (0101)i
+|0110i|f (0110)i − |0110i|f (0110)i
+−|0111i|f (0111)i + |0111i|f (0111)i
+0 · |1000i
+0 · |1001i
+0 · |1010i
+0 · |1011i
+0 · |1100i
+0 · |1101i
+0 · |1110i
+0 · |1111i
+GM2 Uf (GM2 ⊗ H1 )(|0111i|1i)
+
+0000100000000000
+0
+0
+0
+0
+1
+−1
+−1
+1
+0
+0
+0
+0
+0
+0
+0
+0
+|0111i
+
+0000010000000000
+0
+0
+0
+0
+1
+−1
+1
+−1
+0
+0
+0
+0
+0
+0
+0
+0
+|0110i
+
+0000001000000000
+0
+0
+0
+0
+1
+1
+−1
+−1
+0
+0
+0
+0
+0
+0
+0
+0
+|0101i
+
+0000000100000000
+0
+0
+0
+0
+1
+1
+1
+1
+0
+0
+0
+0
+0
+0
+0
+0
+|0100i
+
+Hence, part II discriminates the second four functions.
+
+Part III
+In part III, we discriminate the following four functions:
+
+
+0
+ 0
+
+ 0
+0
+
+0
+0
+0
+0
+
+0
+0
+0
+0
+
+0
+0
+0
+0
+
+0
+0
+0
+0
+
+0
+0
+0
+0
+
+0
+0
+0
+0
+
+0
+0
+0
+0
+
+1
+0
+0
+0
+
+0
+1
+0
+0
+
+0
+0
+1
+0
+
+0
+0
+0
+1
+
+0
+0
+0
+0
+
+0
+0
+0
+0
+
+0
+0
+0
+0
+
+
+0
+0 
+
+0 
+0
+
+Here, we use |1011i as the initial state of the input register. Then, we entangle the input
+register with the GM2 gate and output register with the Hadamard gate as usual. As a
+
+5. QUANTUM ALGORITHMS
+
+51
+
+result we get a partially entangled state,
+1
+1
+(GM2 ⊗ H1 )(|1011i|1i) = (|1000i + |1001i + |1010i − |1011i) √ (|0i − |1i)
+2
+2
+1
+= √ (|1000i|0i − |1000i|1i + |1001i|0i − |1001i|1i
+2 2
+
+(5.9.4)
+
++ |1010i|0i − |1010i|1i − |1011i|0i + |1011i|1i).
+Once again, we will use tabular form to find the results:
+Uf (GM 2 ⊗ H1 )(|1011i|1i)
+0 · |0000i
+0 · |0001i
+0 · |0010i
+0 · |0011i
+0 · |0100i
+0 · |0101i
+0 · |0110i
+0 · |0111i
+|1000i|f (1000)i − |1000i|f (1000)i
+|1001i|f (1001)i − |1001i|f (1001)i
+|1010i|f (1010)i − |1010i|f (1010)i
+−|1011i|f (1011)i + |1011i|f (1011)i
+0 · |1100i
+0 · |1101i
+0 · |1110i
+0 · |1111i
+GM2 Uf (GM2 ⊗ H1 )(|1011i|1i)
+
+0000000010000000
+0
+0
+0
+0
+0
+0
+0
+0
+1
+−1
+−1
+1
+0
+0
+0
+0
+|1011i
+
+000000000100000
+0
+0
+0
+0
+0
+0
+0
+0
+1
+−1
+1
+−1
+0
+0
+0
+0
+|1010i
+
+0000000000100000
+0
+0
+0
+0
+0
+0
+0
+0
+1
+1
+−1
+−1
+0
+0
+0
+0
+|1001i
+
+0000000000010000
+0
+0
+0
+0
+0
+0
+0
+0
+1
+1
+1
+1
+0
+0
+0
+0
+|1000i
+
+Hence, part III discriminates the third four functions.
+
+Part IV
+In part IV, we discriminate
+
+0 0 0
+ 0 0 0
+
+ 0 0 0
+0 0 0
+
+the following four functions:
+0
+0
+0
+0
+
+0
+0
+0
+0
+
+0
+0
+0
+0
+
+0
+0
+0
+0
+
+0
+0
+0
+0
+
+0
+0
+0
+0
+
+0
+0
+0
+0
+
+0
+0
+0
+0
+
+0
+0
+0
+0
+
+1
+0
+0
+0
+
+0
+1
+0
+0
+
+0
+0
+1
+0
+
+
+0
+0 
+
+0 
+1
+
+Here, we use |1011i as the initial state of the input register. Then, we entangle the input
+register with the GM2 gate and output register with the Hadamard gate as usual. As a
+result we get a partially entangled state,
+1
+1
+(GM2 ⊗ H1 )(|1111i|1i) = (|1100i + |1101i + |1110i − |1111i) √ (|0i − |1i)
+2
+2
+1
+= √ (|1100i|0i − |1100i|1i + |1101i|0i − |1101i|1i
+2 2
++ |1110i|0i − |1110i|1i − |1111i|0i + |1111i|1i).
+
+(5.9.5)
+
+5. QUANTUM ALGORITHMS
+
+52
+
+Once again, we will use tabular form to find the results:
+Uf (GM 2 ⊗ H1 )(|1111i|1i)
+0 · |0000i
+0 · |0001i
+0 · |0010i
+0 · |0011i
+0 · |0100i
+0 · |0101i
+0 · |0110i
+0 · |0111i
+0 · |1000i
+0 · |1001i
+0 · |1010i
+0 · |1011i
+|1100i|f (1100)i − |1100i|f (1100)i
+|1101i|f (1101)i − |1101i|f (1101)i
+|1110i|f (1110)i − |1110i|f (110)i
+−|1111i|f (1111)i + |1111i|f (1111)i
+GM2 Uf (GM2 ⊗ H1 )(|1111i|1i)
+
+0000000000001000
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+−1
+−1
+1
+|1111i
+
+0000000000000100
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+1
+1
+−1
+|1110i
+
+0000000000000010
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+−1
+−1
+−1
+|1101i
+
+0000000000000001
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+1
+1
+1
+|1100i
+
+Hence, part I discriminates the last four functions.
+From above observation for the 3 qubit and the 4 qubit problem, we can generalized
+the method of discriminating functions which have one but all values equal to each other.
+Definition 5.9.1. The GregMatt-k gate is represented as GMk and defined as tensor
+product of k × k identity matrix and the GregMatt gate,
+GMk = Ik ⊗ GM where,
+Ik is k × k identity matrix and
+
+
+1
+1
+1
+1
+1  −1 −1
+1
+1 
+.
+GM0 = 
+1 −1
+1 
+2  −1
+−1
+1
+1 −1
+The matrix representation of GMk is a 2k+2 × 2k+2 matrix,
+
+
+GM0
+0
+...
+0
+ 0
+GM0 ...
+0 
+.
+GMk = 
+ .
+.
+...
+. 
+0
+0
+... GM0
+Spaced Input Method
+Spaced Input Method is the process of discriminating the functions which have all but
+one value equal to each other for the n qubit Deutsch’s Problem. In this method, we take
+every fourth computational basis state and divide the functions into group of four. We use
+
+5. QUANTUM ALGORITHMS
+
+53
+
+each of these selected basis state as the state of the input register to discriminate a group
+of four functions in the same order. For example in the 3 qubit problem, there are all
+together 8 functions which have all but one function value equal to each other. Using the
+spaced input method, we divide the functions into 2 groups each consisting of 4 functions
+and for first group use |011i as the state of input register and the second group use |111i
+as the state of the input register.
+Theorem 5.9.2. For n ≥ 2 and k = n − 2, in the n qubit Deutsch’s problem, GMk can
+discriminate the functions that have all but one value equal to each other with spaced input
+method.
+Proof. For the n qubit problem, there are 2n functions that have all but one value equal
+to each other. Following the spaced input method, we divide the functions into 2n−2 groups
+with each containing 4 functions. For each group we use different computational basis state
+as the state of input register.
+Let’s choose an arbitary group of functions and suppose the state of input register is |mi
+where m is natural number representation of the computational basis state. The group of
+functions will have the following output values where superscript denotes the position of
+1 in the sequence of output values
+
+
+
+0
+ 0
+
+ 0
+0
+
+0
+0
+0
+0
+
+0
+0
+0
+0
+
+0
+0
+0
+0
+
+·
+·
+·
+·
+
+·
+·
+·
+·
+
+·
+·
+·
+·
+
+· 1(m−3)
+0
+0
+0
+·
+0 1(m−2)
+0
+0
+·
+0
+0 1(m−1)
+0
+·
+0
+0
+0 1(m)
+
+···
+···
+···
+···
+
+0
+0
+0
+0
+
+0
+0
+0
+0
+
+0
+0
+0
+0
+
+
+0
+0 
+
+0 
+0
+
+Using Deutsch’s algorithm, first entanlge the input register using the GMk gate and the
+Hadamard gate to entangle the output register,
+1
+1
+(GMk ⊗ H1 )(|mi|1i) = (|m − 3i + |m − 2i + |m − 1i − |mi) √ (|0i − |1i)
+2
+2
+1
+= √ (|m − 3i|0i − |m − 3i|1i + |m − 2i|0i − |m − 2i|1i
+2 2
++ |m − 1i|0i − |m − 1i|1i − |mi|0i + |mi|1i).
+
+5. QUANTUM ALGORITHMS
+
+54
+
+Once we have the entangled state, we apply Uf transformation which gives us,
+1
+√ (|m − 3i|f (m − 3)i − |m − 3i|f (m − 3)i + |m − 2i|f (m − 2)i − |m − 2i|f (m − 2)i
+2 2
++ |m − 1i|f (m − 1)i − |m − 1i|f (m − 1)i − |mi|f (m)i + |mi|f (m)i).
+
+Condition I, f (m − 3) = f (m − 2) = f (m − 1) = f (m)
+f (m − 3) = f (m − 2) = f (m − 1) = f (m)
+
+1
+√ (|m − 3i − |m − 2i − |m − 1i + |mi)(|f (m − 3)i − |f (m − 3)i).
+2 2
+
+(5.9.6)
+
+Condition II, f (m − 3) = f (m − 2) = f (m − 1) = f (m)
+f (m − 3) = f (m − 2) = f (m − 1) = f (m)
+
+1
+√ (|m − 3i − |m − 2i + |m − 1i − |mi)(|f (m − 3)i − |f (m − 3)i).
+2 2
+
+(5.9.7)
+
+Condition III, f (m − 3) = f (m − 2) = f (m − 1) = f (m)
+f (m − 3) = f (m − 2) = f (m − 1) = f (m)
+
+1
+√ (|m − 3i + |m − 2i − |m − 1i − |mi)(|f (m − 3)i − |f (m − 3)i).
+2 2
+
+(5.9.8)
+
+Condition IV, f (m − 3) = f (m − 2) = f (m − 1) = f (m)
+f (m − 3) = f (m − 2) = f (m − 1) = f (m)
+
+1
+√ (|m − 3i + |m − 2i + |m − 1i + |mi)(|f (m − 3)i − |f (m − 3)i).
+2 2
+
+(5.9.9)
+
+5. QUANTUM ALGORITHMS
+
+55
+
+On applying GMk back on the input register for each condition we obtain:
+1
+|mi √ (|f (m − 3)i − |f (m − 3)i), when f (m − 3) 6= f (m − 2) = f (m − 1) = f (m),
+2
+(5.9.10)
+1
+|m − 1i √ (|f (m − 3)i − |f (m − 3)i), when f (m − 3) = f (m − 1) = f (m) 6= f (m − 2),
+2
+(5.9.11)
+1
+|m − 2i √ (|f (m − 3)i − |f (m − 3)i), when f (m − 3) = f (m − 2) = f (m) 6= f (m − 1),
+2
+(5.9.12)
+1
+|m − 3i √ (|f (m − 3)i − |f (m − 3)i), when f (m − 3) = f (m − 2) = f (m − 1) 6= f (m).
+2
+(5.9.13)
+Hence, we get a distinct pure state for each function. Therefore GMk can successfully
+discriminate the functions.
+
+5.10 Conclusion
+The extensions of Deutsch’s problem for the 2 qubit and the 3 qubit input have given us
+some insightful results. One of the important results of the reseach is the discovery of the
+GregMatt gate for discriminating functions that have all but one value equal to each other
+in the 2 qubit problem. This led us to find the GregMatt gate for the 3 and the 4 qubit
+problem. This along with the Spaced Input Method equipped us with a new technique of
+discriminating functions which have all but one value equal to each other for generalized
+n qubit problem. For the 2 qubit and the 3 qubit problems we have noticed that the
+Hadamard gate successfully discriminates functions that have half of the output values
+equal to each other. Interestingly, the functions that the Hadamard gate discriminates
+form a abelian group under mod 2 addition. We have noticed that the functions which
+have half of the output values equal to each other and which also form a group under
+mod 2 addition can be discriminated by Hadamard-like gate, whose entries have direct
+
+5. QUANTUM ALGORITHMS
+
+56
+
+correspondence with the values of the functions. We have also noticed that such group has
+surprising relation to classical error correcting codes.
+Although we have solved the 2 qubit problem, we have not completely solved the 3 qubit
+problem. In the 3 qubit problem we successfully found ways to dicriminate functions which
+have 7 out of 8 output values equal to each other and functions which have 4 out of 8
+values equal to each other. This leaves us with two kinds of functions, ones that have
+3 output values equal each other to each other and 5 output values equal to each other
+and others that have 2 output values equal to each other and 6 output values each other
+each other. Since this research project has to be completed in two semesters, there is not
+enough time to investigate the 3 qubit problem in its entirety. Exploring these functions
+and ways of discriminating them can be an interesting question for future research.
+
+Bibliography
+
+[1] Colin P. Williams, Explorations in Quantum Computing, Spinger, New York, 2010.
+[2] Michael A. Nielsen and Issac L. Chuang, Quantum Computation and Quantum Information, Cambridge University Press, New York, 2010.
+[3] Steven Roman, Advanced Linear Algebra, Spinger, New York, 2005.
+[4] N. David Mermin, Quantum Computer Science, Cambridge University Press, Cambridge, 2007.
+[5] Raymond Laflamme, Cesar Miquel, Juan Pablo Paz, and Wojciech Hubert Zurek, Perfect Quantum Error Correcting Code, Physical Review Letters 7 (1996), 198–201.
+[6] Daniel Gottesman, Stabilizer Codes and Quantum Error Correction, arXiv:quantph/9705052v1 (1997).
+[7] Gordon E. Moore, Cramming More Component onto Integrated Circuits, Electronics
+38 (1965).
+[8] Richard Feynman, Simulating Physics with Computers, Optics News 11 (1982), 467488.
+[9] David Deutsch, Quantum theory, the Church-Turing principle and the universal quantum computers, Proceeding of the Royal Society of London A400 (1985), 97-117.
+
+

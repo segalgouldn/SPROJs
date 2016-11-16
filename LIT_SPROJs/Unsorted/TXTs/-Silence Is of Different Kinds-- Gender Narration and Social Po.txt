@@ -1,0 +1,2392 @@
+Bard College
+
+Bard Digital Commons
+Senior Projects Spring 2013
+
+Bard Undergraduate Senior Projects
+
+2013
+
+“Silence Is of Different Kinds”: Gender, Narration,
+and Social Power in Charlotte Brontë’s Villette
+Anne Louise Boylan
+Bard College
+
+Recommended Citation
+Boylan, Anne Louise, "“Silence Is of Different Kinds”: Gender, Narration, and Social Power in Charlotte Brontë’s Villette" (2013).
+Senior Projects Spring 2013. Paper 367.
+http://digitalcommons.bard.edu/senproj_s2013/367
+
+This Access restricted to On-Campus only is brought to you for free and
+open access by the Bard Undergraduate Senior Projects at Bard Digital
+Commons. It has been accepted for inclusion in Senior Projects Spring
+2013 by an authorized administrator of Bard Digital Commons. For more
+information, please contact digitalcommons@bard.edu.
+
+“Silence Is of Different Kinds”: Gender, Narration, and Social Power in Charlotte
+Brontë’s Villette
+
+Senior Project submitted to
+The Division of Languages & Literature
+of Bard College
+By
+Anne Boylan
+
+Annandale-on-Hudson, NY
+May 2013
+
+Acknowledgements
+
+I would be remiss if I did not thank the endless numbers of people who helped me
+reach this incredible point in my academic career, some in giant, impossible-to-ignore
+ways and others in ways so small they may not have even known.
+Firstly, my parents, who gave me Villette as a gift on my 17th birthday and, still
+not content to leave it at that, would give me the incredible privilege of attending Bard
+College mere months later. Both these gifts have never stopped showering me with
+endless blessings in ways I cannot begin to estimate or express. As I’ve heard from a lot
+of critical texts this past year, words will always eventually fall short of expressing
+absolute meaning, and I could thank them forever and never fully be able to express my
+gratitude and love.
+Secondly, I must thank Deirdre d’Albertis, who has shaped and directed this
+project arguably more than any other person. She has been a mentor and a guiding force
+since my first year at Bard, and through her example I saw the academic path I wished to
+travel.
+Many more thanks to Stephen Graham, who caught my Tom Lehrer reference,
+Karen Sullivan, who kicked the five-paragraph essay out of me my first year, my whole
+family who helped me in manifold ways get through my time at Bard, the cats who have
+sat beside me and let me read, and, of course, Charlotte Brontë. Whatever comes after
+death, I hope she’s been working on finishing Emma Brown. I really want to know how it
+ends.
+
+Table of Contents
+
+Introduction………………………………………………………………………….1
+
+I. “I Kept, Then, Both My Box and My Countenance”:
+Withholding and Withdrawal as Societal Power……………………………………..6
+
+II. “But Are You Anybody?”: Lucy’s Narrative, Reader, and Identity……………..26
+
+III. “The Retina of An Inward Vision”: Catholicism,
+Surveillance, and Concealment………………………………………………………51
+
+Conclusion……………………………………………………………………………82
+
+Works Cited………………………………………………………………………….88
+
+1
+
+Introduction
+
+In her Life of Charlotte Brontë, Elizabeth Gaskell provides for her readers an
+excerpt of a letter from the Rev. Patrick Brontë, Charlotte’s father:
+When my children were very young, when, as far as I can remember, the oldest
+was about ten years of age, and the youngest about four, thinking that they knew
+more than I had yet discovered, in order to make them speak with less timidity, I
+deemed that if they were put under a sort of cover I might gain my end; and
+happening to have a mask in the house, I told them all to stand and speak boldly
+from under cover of the mask (36).
+Brontë proceeds to ask his children various questions, to which they respond with various
+childish pieties; he asks Anne “what a child like her most wanted” and she responds with,
+“Age and experience.” Of Charlotte he asks what the best book in the world is and she
+responds, “The Bible.” There seems to be little notable in this moment of early childhood
+education; all seem to respond with the sort of rote answers that a good child is taught.
+There is no deviousness to be uncovered beneath the safe intermediary of the mask, and
+the children do not seem to know more than Patrick Brontë had previously witnessed, as
+he seemed to suspect.
+The incident is rather striking when one considers that Charlotte Brontë’s
+reputation would endure as that of a highly autobiographical novelist. Her protagonists
+are often closely joined with her own personality and numerous settings and incidents
+have been corroborated with historical accounts of Brontë’s own life. The early
+
+2
+
+significance of Patrick Brontë’s strategic use of masks comes to light when one considers
+that, through the intermediary of the novel, Charlotte Brontë represented fictionalized
+moments of her own life. The narrative becomes the mask which allows the novelist to
+speak more freely. The novel is the safe haven of self-expression, allowing that which
+might have been unacceptable to state about oneself to be safely spoken by a character
+under the guise of fiction.
+This is not to overstep and claim pure autobiography in Brontë’s novels, but
+rather to emphasize the importance of the fact that in Charlotte Brontë’s life, she felt it
+was necessary to mask herself under multiple layers of obscurity until she felt
+comfortable producing a narrative. This does not necessarily make her an outlier amongst
+her contemporaries; in fact, what makes this fact so interesting is that it has a precedent
+amongst Victorian female novelists. The social theorist Harriet Martineau recalled the
+fact that it was unbecoming for a woman to study or have time to herself; she writes, “if
+ever I shut myself into my own room for an hour of solitude, I knew it was at the risk of
+being sent for to join the sewing-circle or to read aloud” (Sternlieb 14). Florence
+Nightingale writes in her essay “Cassandra” a description of women reading aloud to
+each other that seems to bear more resemblance to torture. Like a young Jane Eyre
+attempting to hide behind the window-curtain, women in the Victorian era were regularly
+stripped of their ability to maintain an internal private life that was their alone. In a time
+when the Victorian woman was meant to be kept “as innocent as the grave,” (Perkin 60)
+to express, or even hint at, some personal, internal passion was unacceptable. It is thus
+unsurprising that these female novelists would seek to add protective layers to distance
+their own private thoughts, wishes, and concerns from the intrustion of external viewers.
+
+3
+
+This is what makes Villette one of Charlotte Brontë’s most fascinating novels.
+Still more than Jane Eyre, the novel is a profoundly puzzling multi-layered work. The
+layers do not end with the concealing nature of the text; Charlotte Brontë herself wrote
+her novels under the pseudonym of Currer Bell. In 1848, a year after the publication of
+Jane Eyre, Brontë was still denying that she and Currer Bell were one and the same to her
+closest friend, Ellen Nussey. Even to a lifelong confidante, Brontë knew that “her
+authority as ‘Miss Brontë’ displaces her authority as Currer Bell” (Gezari 147). As
+evidenced by the volumes of biographies about famous artists discussing the influences in
+their work, who a novelist is colors their novel just as deeply as the words themselves.
+The minute Charlotte Brontë let the cover of Currer Bell slip, she knew it would change
+even how her writing was viewed retroactively. Just as Charlotte Brontë withholds
+information about herself from her readers, Lucy Snowe recreates this movement writ
+throughout the entire narrative.
+Villette is so perplexing and fascinating to study because it actively seeks to place
+so many protective layers between itself and its readers. It forces readers to feel as if they
+are the ones calling Lucy Snowe to the odious sewing circle, forcing her out of her
+solitude. She actively resists any attempts made to draw her out, both from readers and
+from fellow characters. In a letter to William Smith Williams, the reader for her
+publisher, Smith, Elder & Co., Brontë states, “As to the name of the heroine, I can hardly
+express what subtlety of thought made me decide upon giving her a cold name; But at
+first I called her ‘Lucy Snowe’ (spelt with an ‘e’), which Snowe I afterwards changed to
+‘Frost’. Subsequently I…wished it ‘Snowe’ again…for she has about her an external
+
+4
+
+coldness” (Gordon 257). These layers of inscrutability and resistance to analysis make
+the novel all the more enticing.
+In this study I will attempt to draw back a few of the layers of Villette which have
+generally troubled readers. Because it is such an intricate narrative which places so many
+barriers in its readers’ way, the possibilities for interpretation are manifold. Many
+attempts at criticism therefore become somewhat reductive, and the novel is often
+dismissed as a mediocre attempt at repeating the success of Jane Eyre without any of the
+likeability. I cannot possibly examine every potentially problematic aspect, fascinating
+motif, or noteworthy moment in the novel, but I have elected instead to focus on the three
+aspects of the novel which most often cause it to be dismissed out-of-hand, or which
+cause readers to add stipulations to their endorsement.
+The first of these problems is Lucy’s withholding nature. She creates a cohesive
+narrative while simultaneously refusing to reveal key details, often disclosing important
+revelations after they occur or keeping them from her readers entirely. Bound up with this
+first issue is a second problem, which is her narrative attitude towards her reader. Lucy is
+constantly belittling, condescending to, and patronizing her readers, blatantly ascribing
+them characteristics which are clearly designed to be insulting. These two issues deal
+specifically with the shape that the narrative takes. In my third chapter, I will discuss the
+anti-Catholic rhetoric that marks Villette which many readers find so disturbing yet
+which, I argue, has as much to do with the narrative form of the novel as it does with
+sectariansim. I will seek to move past a mere defense of the novel. Instead I hope to
+dissect the novel’s troublesome elements in order to open up the far deeper layers of
+significance beneath the surface. Rather than excuse, I hope to encourage a closer
+
+5
+
+examination. Lucy Snowe herself describes silence as a multi-faceted phenomenon,
+imbued with hidden meanings. To take her silence at face value and to neglect a further
+investigation is to entirely dismiss the value of the novel’s hidden power.
+
+6
+
+I. “I Kept, Then, Both My Box and My Countenance”: Withholding and Withdrawal as
+Societal Power
+
+Lucy Snowe, the enigmatic and esoteric narrator of Charlotte Brontë’s Villette, is
+a most puzzling confidante. She at once bares her soul and, in the same proverbial breath,
+conceals still more than she reveals. Because of how infrequently Lucy says a true,
+honest thing about herself, the keenest insight into her own character often arrives when
+she is speaking about someone else. In this particular case, the subject is Paul Emanuel,
+the Professor of Literature. She narrates,
+Till the very close of the evening, he did not indeed address me at all, yet I felt,
+somehow, that he was full of friendliness. Silence is of different kinds, and
+breathes different meanings; no words could inspire a pleasanter content than did
+M. Paul’s wordless presence (461).
+This silence in which Lucy so revels is, in fact, a deep-seated and vital part of her
+character. She is a woman defined by the multitude of meanings she can attach to her
+own silence. As a supremely withholding narrator, she is constantly working to put the
+barrier of the unknown between herself and those around her. Others may reveal
+themselves to her, but she remains inscrutable.
+Villette and contemporaneous works which bear similarities to it are often found
+to be difficult to relate to because of the sense of absolute aloneness that they instill. I do
+not say loneliness, because these women express such varying degrees of desire for the
+company of others over the course of their narratives, running the gamut from intense
+yearning for the love of others to total rejection and withdrawal from society, to the point
+
+7
+
+where to describe it as “loneliness” is a gross over-simplification. Villette is a far cry
+from a Jane Austen novel, with its depictions of the pitfalls and graces of society. It is
+instead a novel in which Lucy is remarkably and most frequently alone, separate from
+“lonely”.
+This term, in fact, goes to the heart of the matter: is loneliness a powerful state? It
+is often seen as a state of vulnerability in which one is separated from the safety of the
+group. In this chapter, however, I will explore the varying degrees of power or
+powerlessness that can stem from being alone in both Villette and in the time it was
+written. This time period proves important to the subject in that the class structure and
+gender roles ascribed to women still demonized a woman acting separately from the
+group, yet the era also gave rise to remarkable critiques of this societal norm. In an age in
+which women had little legal power or property rights, they had little realistic financial or
+logistical means to remain on their own. Those that did choose to be alone were often
+looked on with a wary eye, or marked with terms such as “spinster,” the analogue of
+which, “bachelor,” has no such negative connotations. The Victorian era was also a time
+in which these mores began to fall under question as, for instance, the first suffragists
+emerged. In this chapter I will explore Lucy Snowe as a woman alone and the ways in
+which she survives in a society which persists in marginalizing her. When one
+understands the system within which Lucy lives, her often-disconcerting mode of
+narration gains a clearer motive.
+One of the most powerful emblems of this ambiguous state of aloneness is the
+moment of individual resolve. In an era that subtly villainized a woman’s individual
+agency, such a moment is quite remarkable for its performer’s single-minded decision,
+
+8
+
+their decisive action, and even the very spark of independent thought that gives birth to it.
+Individual resolve rejects the slower form of societally-driven action or even group action
+that would represent a safer, more acceptable place for women. Women such as Lucy
+reject this form by acting completely on their own. The moments I discuss may seem like
+relatively trivial events, but in this chapter I hope to illustrate in addition how these
+individual moments of decision and action are not in fact minor trivialities but instead
+illustrate a striking and even radical departure from society.
+Much of Lucy’s action is, in fact, defined by being alone. One of the most quietly
+cathartic moments in the novel comes when a storm hits the Rue Fossette. Lucy has been
+ruminating on her childhood; this topic always brings to light the most evasive aspects of
+Lucy’s nature, as it is the stretch of her life she most stridently seeks to keep secret. It is
+in this passage that she openly admits her deceitful, evasive nature when she narrates,
+“Oh, my childhood! I had feelings: passive as I lived, little as I spoke, cold as I looked,
+when I thought of past days, I could feel. About the present, it was better to be stoical;
+about the future—such a future as mine—to be dead. And in catalepsy and a dead trance,
+I studiously held the quick of my nature” (139). She is by no means emotionless and truly
+cold, as her name might imply. Instead, her childhood becomes the place to sequester all
+emotion which she does not know how to control. She seeks to quarantine that which is
+too powerful for her to acknowledge and understand, rather than attempt to resolve her
+emotions. She continues:
+At that time, I well remember whatever could excite—certain accidents of the
+weather, for instance, were almost dreaded by me, because they woke the being I
+was always lulling, and stirred up a craving cry I could not satisfy. One night a
+
+9
+
+thunder-storm broke…the tempest took hold of me with tyranny: I was roughly
+roused and obliged to live. I got up and dressed myself, and creeping outside the
+casement close by my bed, sat on its ledge, with my feet on the roof of a lower
+adjoining building. Within the dormitory they gathered round the night-lamp in
+consternation, praying loud. I could not go in: too resistless was the delight of
+staying with the wild hour (140-1).
+Lucy’s ability to express and release powerful emotions is dependent on her being alone.
+As a woman who fears and detests being emotionally vulnerable in the presence of
+others, she must find alternative methods for releasing the powerful desires which remain
+hidden while others are watching.1 Passion might not at first seem to be an emotion that
+would make one vulnerable, but to be a passionate woman in the Victorian era was highly
+troublesome. Sally Shuttleworth writes in Charlotte Brontë and Victorian Psychology,
+“Lucy has imbibed, and now admirably reproduces, the social code which decrees that
+women violate their femininity if they exhibit, or even experience, feelings which suggest
+a capacity to initiate desire” (228). This social code drives a wedge into her very
+personality, forcing her to hate the part of herself that feels passion, but nonetheless she
+cannot cease to feel it. This passion becomes a force drives her away from others, an antisocial movement that makes her remove herself from the safety and comfort of society.
+In the moment in which she is exposed to the storm, she describes the feeling of sitting
+out in the storm as “delight,” calling it “too terribly glorious.” The sublime elation the
+storm induces is in stark contrast to her thoughts regarding such lapses in control when
+she is not directly under their thrall; at these times she says that storms were “dreaded”
+
+1
+
+And watching is, in fact, a very threatening act in Villette and one which Lucy constantly fears, as
+discussed in chapter 3.
+
+10
+
+because of the “being” she has been lulling. She has so deeply fragmented parts of herself
+that not only does she experience directly conflicting emotions about the storm, but she is
+in fact so powerfully unable to cope with such feelings that she instead sequesters them
+into a part separate from herself. Without a means to understand herself as a person
+capable of profound emotion, she is forced to call such feelings a “being” which is not
+Lucy Snowe.
+The degree to which she has divided herself goes still further than this separate
+being. It is not merely that she has separated out emotion, but she has in fact actively
+worked to imprison it. She makes this link still clearer in the next passage:
+This longing, and all of a similar kind, it was necessary to knock on the head;
+which I did, figuratively, after the manner of Jael to Sisera, driving a nail through
+their temples. Unlike Sisera, they did not die: they were but transiently stunned,
+and at intervals would turn on the nail with a rebellious wrench; then did the
+temples bleed, and the brain thrill to its core (140).
+The description is agonizing; the idea of splitting oneself so thoroughly and restraining a
+part so wholly that it becomes cut off, painful, and rebellious does not make Lucy’s
+method of coping with her own passions appealing. Her description is laden with
+evocations of restraint, torture and torment. Lucy cannot kill the emotions which trouble
+her, and thus she feels that she must painfully imprison them. If the process of doing so is
+so torturous, why then does Lucy endure it? Those around her, Ginevra most notably,
+express freely, frequently and with great vehemence. Lucy, surely, has a reason; many of
+her actions which outwardly seem to prove her a masochist most often reveal themselves
+to be powerful strategies for navigating the social sphere into which she has been placed.
+
+11
+
+Insights into Lucy’s rationale are best found when her method of restraining
+emotion is challenged, whether by an outside force or, in this case, her own self. Lucy
+forces herself to give up Dr. John, knowing he cannot consider her anything other than a
+friend. She buries his letters, a physical expression of the way in which she consciously
+seeks to embody the uncontrollable parts of herself in external objects and somehow
+imprison or otherwise restrain them. She must convince herself to sequester the part of
+her that desires Graham. She narrates:
+I never liked ‘Lucy’ so well as when he uttered it. But I learned in time that his
+benignity, this cordiality, this music, belonged in no shape to me: it was a part of
+himself; it was the honey of his temper; it was the balm of his mellow mood; he
+imparted it, as the ripe fruit rewards with sweetness the rifling bee; he diffused it
+about him, as sweet plants shed their perfume. Does the nectarine love either the
+bee or bird it feeds? Is the sweetbriar enamoured of the air? (480-1)
+What is most important in this passage is her admission that his goodness to her does not,
+in a sense, “belong” to her. For a love to be satisfying to her, it must necessarily involve a
+mutual exchange. This is perhaps the most quietly potent description of the way in which
+Lucy perceives unrequited love; it is not the lack of love in return that upsets her, but the
+inability to truly make a person hers. Lucy, above all else, values self-control, and to love
+another without love in return is to place the ability to determine her self-worth into the
+hands of an external agent. This threat to her hard-won independence cannot be allowed
+to continue as Lucy knows that, above all, she must fight to retain absolute control of
+herself as a constrained entity. The danger in unrequited love as opposed to a mutual love
+
+12
+
+is that it cedes one’s power to another while the other is required to give nothing back in
+return.2
+Lucy’s particular methodology of controlling herself is to recognize when she has
+begun to lose power, which is to say, when she has lost control over some aspect of
+herself. In response, she then seeks to cut that part of herself off at all costs. To
+understand exactly why she even feels that it is necessary to carry out this radical refusal
+to be dependent, it becomes necessary to examine further this idea of unrequited love as
+ceding a certain power to another. Lucy is a character who, above all, values selfreliance. She points out later that one of M. Paul’s greatest faults is “the absence of what
+I considered desirable self-control” (411). To lose this power is equivalent to losing her
+self. After all, for Lucy to execute an action that is so powerfully painful to her, for her to
+slice herself into parts and components and cast off the undesirable ones, she must truly
+fear the consequences. In Repression in Victorian Fiction, John Kucich writes, “Victorian
+novelists clearly manifest a growing 19th century distrust of collective life” (29). To call
+what appears in Villette “distrust” would be something of an understatement. The novel is
+wracked with a constant fear of the machinations of society attempting to oppress Lucy’s
+own individual autonomy.3 Kucich argues that characters such as Lucy respond to this
+threat by utilizing what he terms “repression,” which is similar to, but manifests different
+results from, the Freudian concept of the word.
+
+2
+
+This interpretation to some degree intersects with the Victorian idea that it was unhealthy for a girl to love
+when she had not been asked, as it was in some way giving a part of her heart without any reason, in a
+sense losing her ideal chaste naïveté. However, the two interpretations stem from very different interpretive
+roots of femininity.
+3
+The constantly repeating motifs of inanimate objects having eyes, the rampant voyeurism, and constant
+direct mentions of surveillance are sufficient to prove this, but will be discussed in far greater detail in
+chapter 3.
+
+13
+
+Repression, according to Kucich, is in fact an avenue to social power over others,
+though it is different from wealth or beauty, both of which more obviously bestow power.
+He defines repression as a retreating into oneself as a vehicle to gain greater social
+currency amongst peers. Similar to speaking softly in order to require an interlocutor to
+draw nearer, repression serves the purpose of masking one’s history, emotions, and
+character in order to draw others in as they seek to plumb the depths of a character that
+they perceive as mysterious and elusive. Kucich writes, “repression heightens and
+vitalizes emotional autonomy, rather than threatening or suppressing it” (2). Though
+Kucich applies a specialized term,“repression,” to this act, it seems rather intuitive once
+he sets forth the logic involved. Denied the ability to be overtly charming and beautiful
+and free to move about in social circles as one such as Ginevra is, Lucy withdraws and
+conceals herself behind many veils of deceit. Lucy withdrawing into, and relying solely
+on, herself is a highly powerful and even radical motion away from others in an era in
+which women were treated essentially as overlarge children. Françoise Basch notes in
+Relative Creatures that the ideal of Victorian women as portrayed in literature requires
+that they be “forced into a system that takes no account of the complexity of human
+behavior…the female characters appear for the most part to be deprived of that internal
+dialectic, social and psychological, which, according to Lukacs, is a prerequisite for the
+independent existence of the characters in great realistic novels” (xiii). This ideal
+expresses itself throughout much of Victorian fiction, making Lucy all the more an
+aberration for even such a simple act as desiring.
+This desire makes Lucy one of the most repressed characters in Victorian fiction;
+she is in a constant state of withholding from all those around her. Lucy is a character
+
+14
+
+who draws away from everyone, including her reader, dissembling, concealing, and
+withdrawing constantly to create a matrix of painfully taut and intricate desire. She is in
+love with Dr. John yet will not admit it to anyone, including the reader, or even, to some
+extent, herself.4 She is so repressive and withholding from those around her that,
+desperate to satisfy their curiosities, every character feels a need to speak a judgment of
+her nature, and they are unfailingly incorrect; their assessments often directly conflict
+with each other. One of the most extended and important of these moments comes when
+Ginevra draws Lucy to the mirror to compare their relative accomplishments and
+beauties. This moment remarkably parallels Brontë’s other mirror-based comparison in
+Jane Eyre when Jane draws a portrait of Blanche and herself and compares the two in
+order to force herself to give up Rochester. In this particular scene, as Ginevra
+enumerates her own virtues, Lucy declines to speak and instead responds by asking
+Ginevra to tell her what she sees when she looks at Lucy in the mirror. Ginevra responds:
+[Y]ou have no attractive accomplishments—no beauty. As to admirers, you
+hardly know what they are; you can’t even talk on the subject: you sit dumb when
+the other teachers quote their conquests. I believe you never were in love, and
+never will be: you don’t know the feeling, and so much the better, for though you
+might have your own heart broken, no living heart will you ever break. Isn’t it all
+true? (187)
+This is not necessarily an enumeration of Lucy’s objective faults, though it may seem that
+way at first. It is instead an enumeration of the ways in which Lucy cannot keep up with
+4
+
+In writing this, I recognize how problematic it is to write about a woman who is both powerful and weak
+in terms of moments related to the men she loves, which seems a rather trite lens through which to view
+such a complicated woman. However, it is her mix of desire for, and repulsion from, the marriage plot that
+defines her nature as so strange and different from the conventional ideal Victorian female protagonist. As
+such, a centerpiece of my analysis must necessarily be the men who populate her almost-marriage plot.
+
+15
+
+the societal ideals set for a woman like her. The values which would traditionally vault a
+woman to the top of the social pyramid (looks, suitors, and love) are notably absent in
+Lucy’s character.
+Class also proves incredibly important in determining what a woman can and
+cannot do; Ann Weinstone’s essay, “The Queerness of Lucy Snowe,” contains an
+excellent examination of the class undertones that run through Villette. In Jane Eyre, after
+all, much of the plot is driven by conflicts of class, but there is an almost deafening
+silence on the matter from Lucy in Villette. Weinstone’s primary concern is examining
+whether or not Lucy desires the marriage plot, from which the idea of class is
+inseparable. Consider, for instance, Jane Eyre as an illustration, especially the moment in
+which Blanche tells Rochester, “Why, I suppose you have a governess for her [Adele]: I
+saw a person with her just now—is she gone? Oh no! there she is still, behind the
+window-curtain. You pay her, of course; I should think it quite as expensive—more so;
+for you have them both to keep in addition” (205). She dehumanizes Jane so thoroughly
+that there is no chance of her (as a representative of the narrow-minded upper class as a
+whole) ever viewing her as a woman, let alone a being capable or worthy of love.
+Weinstone writes, “Lucy boldly enters the narrative as queer, for by withholding the story
+of her origin, she does not reject a specific marriage plot in favor of another specific,
+oppositional story, but claims the territory of indeterminateness vis-à-vis her own class
+and thus her marriageability” (370). Jane Eyre quickly discovers the limitations involved
+in her class. She is on a whole separate spectrum of judgment, one reserved for subclasses. It is difficult to overstate how much more reified class divisions were in the
+heyday of the servant economy. Though industrialists were making their fortunes at this
+
+16
+
+time thanks to the Industrial Revolution, this class mobility was brand new and those who
+succeeded in this brand-new motility were still seen as outliers. Lucy seeks to avoid
+falling into this rigidly defined structure; finding herself without the traits that Ginevra
+finds most desirable, she conceals specifically in order to confound her reader out of
+being able to decide whether or not she “deserves” a marriage plot.
+Arguably the most important element in the exchange between the two women is
+that no part of the enumeration of her flaws is spoken by Lucy herself. Lucy’s response to
+Ginevra’s “Isn’t it all true?” is “A good deal of it is true as gospel, and shrewd besides”
+(188). This might at first seem to be a resigned agreement, but Lucy remains notoriously
+evasive. Most people hearing themselves ascribed a mismatched character would actively
+contradict what parts of it were untrue, but though Lucy implies that some of it may be
+false, she makes absolutely no effort to clarify precisely which parts. The same character
+who describes herself as “like snow beneath snow” (55) would not be so transparent as to
+casually admit to the flaws and facts of her character. Instead, this response is more
+passively disingenuous. The result of interactions such as this one is that Lucy is often
+read as a pitiable person, one easily trod upon, without talent or charm to confer social
+power upon her.
+In part, this is true, and in my analysis I do not wish entirely to dismiss Lucy’s
+lack of power, because this would deny the very societal structure which is so damaging
+to women in the Victorian period and continues to stymie gender relations today. Lucy is
+neither wealthy enough nor beautiful enough to draw others to her. It is in this structure
+of power that women’s ability to attract others must be passive and internal, whereas men
+are able to prove their worth through their agency and actions. Rather, what I seek to
+
+17
+
+prove is that in this power structure in which Lucy is so naturally powerless, Lucy in fact
+finds a way to subvert the rules governing her power and find an alternative route to
+social currency, or something so closely approximating it that others cannot tell the
+difference. While she may seem like a person highly out of place in her social world, she
+is in fact working within the system of societal rules placed before her to alter gender
+paradigms.5 This is why, even as I argue that Lucy is powerful, she is still restrained
+because she is working within a system which continually attempts to oppress her.
+All this being said, Lucy is hardly the submissive creature that she seems upon
+one’s first reading of Villette. What appears to be passive exhaustion with those around
+her and a mere timidity about correcting them when they improperly ascribe
+characteristics to her is, in fact, a conscious withholding of information. John Kucich’s
+analysis of Lucy’s power in this realm is excellent; he writes, “it is others who pluralize
+Lucy in their imaginations while Lucy herself remains an unknown entity to them” (48).
+She consciously, purposefully and even somewhat manipulatively withholds information
+from others. When she feels love for Dr. John, she conceals it under layers and layers of
+evasive narration, redirecting the energy of her passion (which Kucich would call
+“libidinal energies”) towards further concealment of her character. What differentiates
+this conceptualization of repression from the Freudian vision is that, instead of a
+unilaterally negative act which painfully denies part of oneself, Kucich’s repression can
+be a powerful and productive act, a use of this energy of sexual expression towards a
+
+5
+
+Interestingly, the very same argument continues to rage in almost every political arena today between
+radicalism and more conservative means of bringing about change. The largest question is: is it better to
+work within the system to affect change, or is this just one more method to submit to an unjust system?
+Must one radically divorce themselves from a system and risk becoming irrelevant to it? For a seminal
+argument for radicalism, see Audre Lorde’s “The Master’s Tools Will Never Dismantle the Master’s
+House”
+
+18
+
+purpose which is more convenient for its repressor. Weinstone writes, “In this sense, the
+‘blanks’ function not as sites of repression, or unknowing, but as marked absences, as
+cognizant, authorial withholding” (377).6 The traditional associations that repression has
+with hysterical women and sexual desires which express themselves through nervous tics
+and fits does not hold here in a realm in which this energy can move one towards a
+greater sense of control rather than towards the stereotypical hysteric which is the image
+of the Victorian woman.
+How or what does Lucy repress? The scene in which she passively declines to
+define herself to Ginevra is an excellent example; yet another occurs on M. Paul’s fêteday. All the ladies in the class present him with “their nosegays” forming a “blooming
+pyramid” (449) so large it obscures M. Paul’s face at his desk. Lucy withholds the watchguard she has made for him and M. Paul is clearly disappointed. Zelie St. Pierre, with
+serpentine treachery, tells M. Paul through her teeth that Lucy “has regarded this
+ceremony as too frivolous to be honoured by her observance” (450) thereby shaming
+Lucy in front of the class. In a seeming panic of embarrassment, Lucy cannot bring
+herself to present M. Paul with her gift. This scene could be read as a painful moment of
+conflict between her desire to appease M. Paul and her reticence due to Zelie forcing her
+under scrutiny by the whole class. However, upon reading Lucy’s narration of the event,
+there is little evidence of such a conflict of emotions:
+I might yet have made all right, by stepping forwards and slipping into his hand
+the ruddy little shell-box…The reader not having hitherto had any cause to ascribe
+to Miss Snowe’s character the most distant pretension to perfection, will be
+6
+
+Weinstone of course refers to the traditional conception of repression as a painful, damaging act, and in
+this sense Kucich’s terminology becomes cumbersome because one must differentiate between his
+conception and the traditional conception of what “repression” means.
+
+19
+
+scarcely surprised to learn that she felt too perverse to defend herself from any
+imputation the Parisienne might choose to insinuate: and besides, M. Paul was so
+tragic, and took my defection so seriously, he deserved to be vexed. I kept, then,
+both my box and my countenance, and sat insensate as any stone (450).
+Her withholding is not, in fact, a conflict or a submissive fear but rather an attempt to
+withhold her own emotions in order to elicit a passionate reaction from M. Paul, thus
+proving herself more powerful than him. In Lucy’s view, a passionate reaction is a
+revelation of the self, and thus a weakness. It breaks down the façade of a perfectly
+contained and controlled character and thus must be avoided; those who do react
+emotionally and uncontrollably are thus, if only for a moment, under Lucy’s power.
+This passage is bizarre because Lucy is so powerfully repressed, withholding not
+only her emotions but the physical object which has the power to buy M. Paul’s favor. In
+this case it is clear though that his favor is not what she desires. First, as she does in the
+mirror scene with Ginevra, she declines to defend herself against allegations, claiming
+that she is no perfectionist. Even those who care nothing for perfection would still feel
+slighted at a slandering of their characters and feel compelled to defend themselves, yet
+Lucy remains silent. Even more notable, she decides that M. Paul “deserve[s] to be
+vexed”. This is one of the most unusual things that Lucy admits; readers of Villette know
+rather early on that Lucy is untrustworthy and evasive even towards them, but a playfully
+cruel Lucy is still surprising when viewed in the context of her character as a whole.
+Especially alongside the Lucy who winces painfully upon appearing in front of a group of
+people wearing a pink dress, this Lucy who relishes performance seems oddly
+
+20
+
+contradictory. Kucich notes, “the usual pieties about Brontë’s hatred of female duplicity
+do not at all address this performativeness” (45).
+And Lucy is in fact highly performative; Lucy executes carefully choreographed
+outbursts against her students in order to subdue them. When Lucy and Ginevra leave a
+party with the latter in a foul mood over a lack of attention from Dr. John, Lucy narrates,
+“An explosion ensued: for I could be passionate, too…half in earnest, half in seeming, I
+made it my business to storm down Ginevra” (424). She is in fact quite calculating,
+exhibiting a cold understanding of the effect of her displays and using them to her
+advantage. To “seem” appears to be her greatest weapon and the most powerful force in
+her arsenal. To seem is to perform, but its implications are separate; a performance comes
+from the actor involved in the action, whereas seeming comes from the observer who
+believes in the performance. It is a far more thorough and believable word than
+performance, as it depends on the viewer and his or her perception of what is happening.7
+Lucy is not only an experienced performer, but also a highly practiced “seemer”. This is
+where her power lies. She is disconnected emotionally from this outburst, even down to
+describing her own eruption in passive voice: “an explosion ensued.” Lucy’s repression
+finds an outlet as she and M. Paul “continually jockey for position in an attempt to elicit
+declarations of feelings from each other” (Kucich 90). This is the key to this moment in
+Villette. The true power which Lucy hopes to express is actually a passive one, a
+
+7
+
+The power of “seeming” is thus like the power of beauty, which depends on a viewer to perceive one as
+beautiful. In this way seeming is also passive, but it is a bizarre mix of agency and passivity, as there is a
+distinct intent behind Lucy’s ability to “seem” like something. Lucy rejects the passive power of beauty and
+instead clings to the power to seem. Thus once again she still operates within the rules of femininity,
+exhibiting her power passively, but manages to circumvent the traits and virtues which she does not
+possess.
+
+21
+
+withholding so that M. Paul is forced to express his emotions, thus giving Lucy the upper
+hand.
+Here emotions are a sort of weakness, a sign of mere sentimentality. By
+withholding the watch-guard, keeping it as Lucy puts it, she also keeps her emotions just
+out of reach. She knows that such a performance of cool inwardness will upset M. Paul,
+and is in fact hoping to elicit such a fiery reaction as she knows he is prone to. Her cool
+or even flippant attitude provokes him to a display, meaning that he has essentially lost
+the competition to remain in control, which for Lucy is to remain in power. When he
+makes his emotions vulnerable to outside observers, he puts Lucy in a position of power
+over himself. Whereas some might seek to avoid an infuriated outburst from one they
+love, Lucy actively seeks it; her expression of desire is voiced through a continual
+attempt to keep more of her emotions out of sight than M. Paul, which puts her in the
+position of power rather than him. By obscuring, she gains power. By repressing, she
+appears powerful to others in such a way that it is nearly indistinguishable from actual
+social power, to the point where one does not know which came first: her power, or her
+semblance of power.
+Much like Jane’s portrait, Lucy’s process of repressing desire also contains a class
+narrative, and a method of obtaining power that may be far more widespread in Victorian
+society than Lucy’s mere actions. The lower classes were perceived as animalistic and
+unrestrained by Victorian society; the stereotype of the unclean family crawling with
+children, the brawling, rowdy husband and the mawkish, squawking wife hung heavy
+over England. Charles Dickens wrote on the children that populated the streets, often
+disowned by parents that could not care for them, that they “hop about like wild birds,
+
+22
+
+pilfering the crumbs which fall from the table of the country’s wealthy” (Perkin 173).
+The ridicule accorded to such class stereotypes was overwhelming. Restraint was a trait
+of the upper classes, and lack thereof was seen as a justification for the lower classes’
+existing status. Lucy’s desire for restraint therefore carries a class association, allowing
+her to display the marker of the upper class and distance herself from the stereotype of
+the working class.
+Restraint is also, in and of itself, a means for attaining a higher class. Think, for
+instance, of the concept of the “social climber” or “old money” versus the “nouveau
+riche.” Those who ascend the social ranks through a silent, confident certainty in their
+own place at the top rungs of the ladder are accepted into society, whereas those who
+seem to be too conspicuously seeking connections only tip their hand and are rejected as
+mere pretenders to power. Withholding is in fact a form of power, as is allowing others to
+decide on the content of one’s character whilst remaining silent. Coolness as others
+misread character becomes a sign of innate confidence in one’s true nature. In what way
+is repression in fact rather common in the struggle for power? Clearly in the struggle for
+class, repression finds its outlets. The answer may in fact be that withholding information
+in the quest for power is a sliding scale, an act that all people perform in some small ways
+as part of the necessary give-and-take of society. The difference is that characters such as
+Lucy use repression in far deeper ways, and for anti-social and anti-societal means rather
+than for more harmonious social interactions.
+One of Lucy’s most engaging and radical moments comes when Lucy has the
+letters that Graham has written her sealed in a jar and buries them below the nun’s tree.
+She cannot reveal information that might indicate to the reader that she is in love with
+
+23
+
+Graham, as this information could single-handedly destroy the power that repression has
+given her.8 In what she sees as a war in which information is ammunition, she must not
+give up any part of herself or risk losing the power she has carefully constructed. This is
+why it is not until the moment in which she buries the letters that she is able to say aloud,
+“Good-night, Dr. John; you are good, you are beautiful; but you are not mine. Goodnight, and God bless you!” (481). This is the closest she comes to revealing her true
+feelings for Dr. John. The word “love” indicating romantic passion never occurs in her
+narration in reference to him. The specter (figuratively, soon to be literally) of unrequited
+love appears again, threatening to put Lucy’s sense of value in someone else’s hands, and
+therefore Lucy realizes that she cannot continue loving Dr. John. In one sense, this
+moment is deeply tragic; Lucy turns away from social connection by turning her back on
+her love of Dr. John, thus severing another tie that would draw her nearer to the ideal
+path of the life of the Victorian woman. At the same time, the gesture is a turning away
+from mere comparison. She rejects outside influence in favor of her own self-sufficiency
+and reiterates the self-reliance which she so values.
+This moment is also odd in that as she buries the letters and speaks the final
+eulogy for her love for Dr. John, as if she had spoken an incantation, she almost conjures
+M. Paul to appear:
+
+8
+
+Though Lucy is most excellent at revealing information only once it has become irrelevant to the reader,
+the true master of this habit is Esther Summerson of Charles Dickens’ Bleak House. She only hints that she
+is in love with Woodcourt in that she omits so much about him; only once she is disfigured and certain he
+will no longer care for her does she mention, “And now I must part with the little secret I have thus far tried
+to keep. I had thought, sometimes, that Mr. Woodcourt loved me” (501). As usual, to “keep” becomes the
+key word in these characters’ withholding.
+
+24
+
+Thus I closed my musings. ‘Good-night’ left my lips in sound; I heard the two
+words spoken, and then I heard an echo—quite close. ‘Good-night, mademoiselle;
+or, rather, good evening’” (481).
+It is as if in the moment in which she releases her grip on her repression of her love for
+Dr. John, she finds a conduit for expressing her repressed desire towards M. Paul. He
+tells her, “I scarcely know any one, Miss Lucy, who needs a friend more absolutely than
+you…you want so much checking, regulating, and keeping down.” This becomes an
+excellent example of the mutual verbal fencing matches of repression which define their
+relationship. M. Paul seems to draw forward by offering his friendship to Lucy, but in
+fact it is wholly a trick to get her to accept; by making it clear that is friendship is offered
+from a position of instructor and mentor, he does not submit to her at all, but he by no
+means outmatches Lucy. She coolly narrates in response, “I listened to him, and did not
+trouble myself to be too submissive; his occupation would have been gone, had I left him
+nothing to ‘keep down’” (482). She toys with him, performing the role of the woman he
+so desperately wishes to reform, in order to keep him striving to subdue her. She
+performs in order to keep him at arm’s length from her true character as he grapples for
+power over her by indicating himself as an instructor and disciplinarian. Once he
+successfully reforms her and she becomes the person he wishes her to be, the match is
+over and the state of strained desire will be broken.
+This distinctly Brontëan desire is “a means of distancing others in order to
+preserve a desirable state of inward tension” (Kucich 41). The seemingly paradoxical
+nature of this desire involves “oppositional tensions between expression and
+repression…in which both gestures are affirmed” (38). Desire in these novels is
+
+25
+
+expressed through repression, a medium which is in fact more complex, heightened and
+intoxicating than a more open discourse of desire. These moments of “keeping”
+information to oneself are movements facing in two directions, a Janus of desire, both
+inward towards the anti-social self and outward towards society. Kucich argues that this
+desire does not want to fuse withholding and passion, but rather seeks to intensify
+isolation. This is why it is so difficult to categorize these acts of repression as either
+subjugating or powerful, because they represent a movement in two directions. In one
+sense, they are feminist acts of removing oneself from society and stoking a greater sense
+of self-reliance. On the other hand, they represent a quest to draw others inward and gain
+social power from others’ desire to perceive their characters. It represents a rigid control
+over the self which, set apart from other members of society, is in and of itself pleasing to
+those who engage in it.9 In addition, it is important to realize that we, as readers, are
+engaging in the very same scrutiny of character that those around Lucy, Esther and Jane
+do to convey social power, and that we as readers in fact give social power to these
+female protagonists through our reading. Here we may begin to answer the constant, and
+highly difficult, question in narrative theory which arises especially when a story is told
+in first person: why is this story being told? Why to us?
+
+9
+
+For a deeper investigation into this idea of internal vs. external self-control, see chapter 3 as much of this
+dichotomy is based on whether religion seeks to control through external or internal means.
+
+26
+
+II. “But Are You Anybody?”: Lucy’s Narrative, Reader, and Identity
+
+In her remarkable book of criticism unifying direct address in the novel and the
+act of public speaking, Gendered Interventions, Robyn Warhol addresses the implications
+of women speaking in public in the 19th century which would drive them to use novel
+writing as a useful alternative for addressing an audience. She explains that while a
+woman speaking in public to only women could be portrayed by popular media of the
+time as foolish, a woman speaking to a mixed, or “promiscuous,” audience was
+profoundly more dangerous because she would surrender her femininity in the public’s
+unforgiving eye. Shamed in newspaper cartoons, articles, even letters written by other
+women, they were criticized as squawking hags or drawn with harsh, ugly, mannish
+features. Some were even dehumanized; an 1829 cartoon poking fun at Fanny Wright, the
+great feminist lecturer, depicts her as a woman with a duck’s head. The caption reads, “A
+Downwright Gabbler, or a goose that deserves to be hissed.” All other features remain
+intact, down to her finely curled hair, but her beak is mockingly open.
+Warhol points to a letter written by Catharine Beecher, the elder sister of Harriet
+Beecher Stowe, describing Fanny Wright, who seems to be quite a favorite target for
+derision. She writes of “her great masculine person, her loud voice…she has so thrown
+off all feminine attractions, that freedom from temptation is her only, and shameful
+palladium” (Warhol 160). In speaking to men, specifically debating them, Catharine
+Stowe takes aim, ironically, at her presumed chastity. While it is an important feminine
+virtue of the time, Stowe lambasts her for lacking in the ability to inspire desire in men;
+her lack of feminine virtue is the greatest criticism lobbed against her for her public
+
+27
+
+speaking. As Warhol points out, this is quite the paradox: “What is ‘shameful’ about
+Wright’s ‘freedom from temptation’ is that a feminine Victorian woman, while she must
+repulse sexual overtures from men, is also required to inspire them” (Warhol 161).
+In the previous chapter I discussed the intricate doublethink required for Lucy to
+fulfill her desire for social power through repression. This mode requires a complex
+movement in two seemingly opposing directions; in one motion she withdraws from her
+reader and those around her while at the same time consciously motioning them inward in
+an attempt to gain social currency through their desire to solve her like a puzzle. This is
+not where Lucy’s complex and paradoxical machinations end. As it turns out, many of
+her interactions with both characters and the reader involve sets of equally paradoxical
+actions, writ large in the medium of the narrative itself. These narrative movements make
+the structure of Villette what it is and provide a vital element of what makes the novel so
+layered and complex. In this chapter I will examine these tangled threads that comprise
+the very fabric of the narrative itself which so many readers often find troubling and
+inhospitable. I will both examine and contextualize in order to better understand the
+convolutions of narrative that were, I would argue, especially required of female
+novelists. The narrative elements that mark Villette so distinctly, rather than barriers to
+trip up readers, are instead survival tactics, a shield against the sort of ridicule that so
+often met women attempting to speak their minds to a Victorian audience.
+In an intense state of extreme isolation and despair during a school vacation, Lucy
+enters a depressive episode which will eventually lead her to a desperate visit to a
+Catholic church. The landscape of her mind during this spell is sympathetic by its very
+nature; she describes heart-wrenching yet easily comprehensible emotions which resonate
+
+28
+
+to some degree with any reader who has experienced some degree of sadness. It is a rare
+moment in which Lucy bares her emotional state to a reader; at various points throughout
+the novel she alludes to floods of tears without naming the cause, yet here, she explicitly
+states her anguish. She so punishes herself for her despair and then, suddenly, breaks
+from the narrative to address her presumed reader with a scolding:
+“Religious reader, you will preach to me a long sermon about what I have just
+written, and so will you, moralist; and you, stern sage: you, stoic, will frown; you,
+cynic, sneer; you, epicure, laugh” (Brontë 202)
+She speaks to imagined multitudes of readers in what appears at first to be a direct
+address which attempts to cover all possible types of reader who could be reacting
+negatively to what she has just said. Lucy has just delivered to the reader such a feelingly
+sympathetic passage, however, that it is difficult to imagine any novel-reader reacting to
+a touching description of profoundly low spirits with a lecture. The passage, instead, has
+distinct echoes of Wayne Booth’s writing in The Rhetoric of Fiction on Katherine Anne
+Porter’s Pale Horse, Pale Rider. He writes specifically of the silence of the author as the
+narrator, Miranda, experiences the death of the man she loves during an influenza
+epidemic. The narrative style of the tale is in many ways very different from Villette, but
+his analysis rings true: “Very little heightening of her character is needed to make us
+unite with her against the hostile world around her; simply because she is the only
+sensitive person visible…she wins us irresistibly” (Booth 276). Simply because Lucy has
+been our guide through the whole text, and by the very nature of her first-person narration
+which prevents us from seeing such complex emotions in any other character, we will
+irresistibly be sympathetic to Lucy over all others.
+
+29
+
+As such, it is highly unusual that Lucy feels so determined to point out her
+reader’s assumed dislike of her; after so long in a narrative in which the reader is privy to
+intimate, though skewed, details of Lucy’s life, it is surprising that she takes such pains to
+defend herself against imagined attacks. She is an insecure narrator, or at least a selfconscious one, but her vehemence in her defense speaks of an issue with her view of her
+reader, rather than her view of herself. When she must return from the Brettons’ home,
+she narrates, “It will be conjectured that I was of course glad to return to the bosom of my
+kindred. Well! The amiable conjecture does no harm, and may therefore be safely left
+uncontradicted” (Brontë 42). Though in this case it is not impossible that a reader might
+imagine her happiness, it is nonetheless a remarkably condescending move; she openly
+acknowledges that she will not inform her readers of the true course of events or her true
+feelings because she feels they are inadequate in some way, whether unable or unwilling
+to hear about more despair in her life. Like a child shut out from the conversation of
+adults, no reader would feel respected or valued as an equal to Lucy when forced to
+undergo such a scolding. Lucy is an extremely distancing narrator, as violently opposed
+to the engaging “dear reader”-type narrator of such novels as Jane Eyre.
+Warhol discusses this very issue when writing on narrators who put arm’s length
+between themselves and readers or seek to bring them into his/her confidence. She
+discusses why a direct address can be so jarring to readers:
+The reader may or may not be interested in how closely the narrative ‘I’
+resembles the actual author; readers can only speculate…But one can know
+whether the narrative ‘you’ resembles oneself, and surely the way one experiences
+
+30
+
+fiction is affected by how personally one can take its addresses to ‘you’” (Warhol
+32).
+By Warhol’s definition, and certainly by the estimation of any reader who has realized
+he/she is being talked down to by her, Lucy is a distancing narrator. Readers who take
+Lucy’s address personally realize that they are by no means her intended audience. In
+fact, regardless of what the readers’ actual desires for the narrative are, Lucy’s
+description of her readers will nonetheless offend them because it is so flattening. She
+describes them as unilaterally snobbish, prudish, blindly moralistic, and interested only in
+romance. If a reader, say, desired a felicitous union between Lucy and M. Paul at the
+conclusion of the novel, he/she would nonetheless rebel against being labeled as blindly
+romantic and given no other descriptors to balance such an underhanded remark. Lucy
+intentionally puts her readers on guard, calls them in to defend themselves against her
+backhanded attacks. While the eponymous narrator of Jane Eyre is constantly aiming to
+endear her readers, it is nearly impossible for readers to feel truly unguarded and
+emotionally connected to a narrator who forces them to shield themselves at every
+moment against her slander. Yet in its contradictory nature, the narrative also powerfully
+inspires sympathy with Lucy simply because the narrative is so confined internally to
+Lucy’s perspective, so an assumption that the reader is disinterested and even hostile is
+not only wrong, but truly offensive to the reader.
+There is, however, another possible reaction in the reader’s repertoire. In this
+lecture against the moralist, sage, and stoic, Lucy could alternatively be creating a more
+united relationship between herself and the reader, for nothing bonds together like shared
+adversity. The hypothetical readers could react with a sense that Lucy is misidentifying
+
+31
+
+them and respond with indignant outrage and distance, or readers could read the passage
+as directed at readers other than themselves. Lucy addresses more than one reader in her
+lecture, which opens up the possibility that not all of these traits are aimed at the real-life
+reader; if a reader interprets the passage this way, he/she could just as easily assume that
+none of the prescribed traits are in fact aimed at him/her, but rather at a whole legion of
+imagined attackers. A reader’s response to this would be, naturally, to stand with Lucy
+against her perceived attackers, thus unifying the two of them. Though it is impossible to
+make claims about how any given real reader would react to a text, this response would
+be perhaps most emblematic of Lucy’s nature, which is prone to double-movements and
+seemingly contradictory actions. In calling out her attackers, Lucy could be creating a
+valuable ally in the reader. Both responses seem perfectly plausible, but further
+investigation of the vocabulary surrounding such a complex narrative movement is
+necessary.
+Here Warhol’s lexicon becomes useful; she defines the narratee as the presumed
+ideal subject that the narrator speaks to, while the reader is the real-world person who
+actually consumes the text. Thus a distancing narrator is one who seeks to create a gap
+between the narratee and the reader, while an engaging narrator either seeks to unify the
+two or avoids direct address altogether in order to avoid alienating the reader. Warhol
+writes, “In constantly coming forward to confront the narratee, the distancing narrator
+draws attention to the reality of the novel’s textuality, dismissing implications that the
+story is in any literal sense ‘true’. The actual reader stands clearly and distinctly outside
+the text, the narrator, narratee, and characters are within” (Warhol 44). Lucy confronts
+the textual nature of the narrative quite frequently throughout Villette, ensuring that her
+
+32
+
+readers never forget that they are separate from the characters, including the narratee. But
+in a certain sense, can this be engaging?
+This examination enters a territory which Warhol does not address. She writes on
+distancing narrators who make it clear that their reader is not their narratee, but what
+about a narrator who so clearly does not like or care at all for her narratee? Might a reader
+be able to join her in her dislike of her perceived reader, seeing him/herself as an outsider
+to the disliked group, and thus form a stronger bond with Lucy? This narrative technique
+seems rather risky, but might also fit with Lucy’s constructed persona, which is that of a
+person who takes great pains to appear not to care for her readers’ attentions while
+simultaneously attempting to draw them in and garner their interest.
+Still, even as she constructs an us-against-them ethos with the reader, Lucy
+remains a prickly narrator; while readers may side with her against the greater of two
+evils, it remains difficult to feel nurtured by or truly close to her. According to Warhol,
+the distancing narrator describes what the narratee wants and then immediately
+disappoints those ascribed desires. Lucy does this and more. She acknowledges, for
+instance, that the narratee wishes to learn more details of her life and simultaneously and
+consciously skips over them. She refuses to allow readers to have the satisfaction of the
+“truth,” as Warhol puts it. Because Lucy wills it to be, the “true” story of her childhood is
+“Picture me then idle” (Brontë 42). In reacting with anger or a feeling of being cheated
+out of the truth, readers are forced to confront the reason Lucy evinces such a powerful
+response: because they realize the story must be written to be told. Visibly warping the
+truth before readers’ eyes draws back the veil of suspension of disbelief and forces
+readers to realize that they are merely reading a story, the truth does not exist, and is in
+
+33
+
+fact a construct of Lucy’s narrative. Booth brings up a valuable distinction when he notes
+that in the Bible, Job is referred to as “perfect and upright.” He notes:
+[I]f a friend confided his view that his friend was ‘perfect and upright,’ we would
+accept the information with qualifications imposed by our knowledge of the
+speaker’s character or of the general fallibility of mankind (4).
+Somehow, in novels, unless rattled out of the suspension of disbelief, a narrator is still
+believed not only to be reliable, but to be perfectly objective until proven otherwise. Lucy
+goes specifically out of her way to upset this paradigm. Not only does she, before her
+readers’ very eyes, display how malleable truth within a narrative is, she also broadly
+paints a crude portrait of her narratee; were a reader to identify themselves with the
+narratee, she would be quite an insulting narrator. In addressing the moralist, the sage and
+the stoic, Lucy jars her reader into a feeling of being out of place. If he/she does not fit in
+to the characteristics she enumerates and self-identify as one of those characters, he/she is
+distanced emotionally from relating in a complete way to the text. Rather than a seamless
+and trustworthy narrator, Lucy forces her way into the narrative at every turn, refusing to
+allow her readers to believe she is merely giving an impartial account.
+It is also important to note that it is quite impossible for the techniques Lucy as a
+narrator uses to be incidental, accidental, or merely a depiction of a prickly and unlikable
+woman. Brontë’s work shows incredible deliberation across its entire breadth, and its
+layers are not to be dismissed as imagined complexities. In fact, it is Lisa Sternlieb’s
+main contention in her critical text, The Female Narrator in the British Novel: Hidden
+Agendas that narrators such as Lucy are quite frequently manipulated in very complicated
+ways by authors such as Charlotte Brontë. In her introduction she introduces her central
+
+34
+
+point, that “narratives which have been noted for their artlessness, naturalness, and
+directness work because of their artfulness, artifice, and self-protectiveness” (Sternlieb 1).
+Though often subtle, at various points in Villette the hand of the author nonetheless
+makes itself visible.
+Perhaps the most valuable evidence of Brontë’s intentional construction of such a
+crafty narrator as Lucy is her willful construction of Lucy’s narrative opposite, Jane Eyre.
+After Jane has her dream of desertion just before her wedding, she addresses her reader as
+she waits for Rochester’s return: “Stay till he comes, reader; and, when I disclose my
+secret to him, you shall share the confidence” (Brontë 318). To be fair, this passage does
+have a certain edge of Snowe-esque craftiness itself; Jane is perfectly capable of telling
+her reader what she dreamt as it occurred, but instead chooses to wait until her interaction
+with Rochester to describe it. The gesture is still much more confidential in this instance
+than any interaction Lucy engages in with her reader. She placates the reader with
+professions of closeness, drawing the reader in to share her secret. Brontë creates a
+narrator who is incredibly trusted by the reader, and very deliberately so. Jane would be
+plucky and likeable to most readers without the use of direct address, but Brontë
+consciously uses this technique in an attempt to strengthen the direct one-to-one bond
+between Jane and her reader.
+Brontë tries her best to unify Jane’s narratee and her reader. The closer the two
+are, the more engaging the narrator. It is impressive then that the same author who
+created a narrator who is nearly impossible to trust and incredibly deliberate and
+dissembling could create a narrator who is seldom questioned in her reliability. Alison
+Case addresses this very issue in her book, Plotting Women: Gender and Narration in the
+
+35
+
+Eighteenth- and Nineteenth-Century British Novel. In her section on Jane Eyre, Case
+addresses the fact that Jane repeatedly points out how other characters consider her
+devious or underhanded, especially in her childhood. Her engaging tactics thus prove
+remarkable when, instead of causing her to become suspect, it creates a greater sense of a
+bond between her and the reader. A reader who feels he/she knows the true narrator and
+simultaneously feels that others do not will thus draw nearer to the narrator, as one might
+rush to the protection of another friend when his/her reputation is called into question.
+Case writes, “Perhaps the most important difference between Jane and the literary
+heroine-narrators who preceded her is her willingness to choose a course of action
+solely—and this is crucial—solely on the basis of its calculated effect on another person.
+That she is able to do so without becoming morally suspect as a manipulator in the
+process is a tribute to Brontë’s skill in working self-consciously within and against the
+conventions of feminine narration” (Case 106). Her ability to create a highly trustworthy
+narrator only serves as a tribute and testament to her skill at manipulating the reader’s
+attitude towards a narrator, and this ability proves to be a double-edged sword when
+wielded to create Lucy Snowe.
+Instead of adding to readers’ confidence in Lucy because of their trust in Jane,
+this willfulness and plotting mindset thus makes Lucy more suspect because of Brontë’s
+deliberation. This becomes especially important because it colors the way that many
+other aspects of Villette appear as either devious or naïve on the part of the author. Dear
+Reader: The Conscripted Audience in Nineteenth-Century British Fiction by Garrett
+Stewart is an otherwise overdone text on novels’ relation to readers, but it contains a
+valuable summation: “Conscripted reading, once recognized as such, makes the
+
+36
+
+fundamental operations of reading visible” (251). It is a powerful technique for unsettling
+and discomfiting the reader10 and helps to call almost all other aspects of the text
+normally left unseen and seamless into question.
+Charles Dickens’ Bleak House acts as a stark contrast to Villette in that Esther, the
+text’s periodic narrator, so vehemently disavows any agency or cunning or ulterior
+motive of any sort. Case writes, “Her opening thus disclaims both narrative agency and
+narrative authority: if she believes she is ‘not clever,’ she can hardly be presumed to be
+claiming full understanding of the shape and meaning of the story she tells” (Case 128).
+Lucy absolutely flies in the face of Esther’s approach to her narration in this respect. She
+not only warps the narrative openly simply for the purpose of demonstrating that she is in
+absolute control of it, as in her stirring final cry of “Here pause: pause at once” (657) but
+she also refuses to conceal how aware she is of what is happening to her in the story that
+she is telling. Take, for instance, Esther and Lucy’s respective willingness to admit that
+they are telling a story after the fact. Both narrate their story in the present tense, but it is
+not until the end of the novel that Esther casually drops a major alteration to her
+narrative; she tells us, “My husband—I have called him by that name full seven happy
+years now—stood at my side” (Dickens 858). So late in the novel she finally tips her
+hand and reveals how truly secretive she has been with us; she has known for the whole
+duration of the novel how it will end and has just revealed to us that all of her techniques
+for creating suspense have thus been just that: narrative techniques. Though she has
+shown hints of this ability before, as when she mentions Woodcourt only long after she
+has spoken with him, this is the most open and broad admission that she gives us.
+10
+
+Kathe Koja’s psychological horror uses this unsettling force to great effect; in a story entitled “Jubilee,” a
+woman is menaced by the voice of her own internal monologue, forcing the reader to confront the narrator
+who at that very moment is “reading” the story aloud in his/her own head.
+
+37
+
+Lucy, however, has no such restraint. Rather than wait for the reveal, she attempts
+to display the conceit of the narrative as soon as possible. While she is still telling of her
+youth at the Brettons’ home, she narrates, “Fifty miles were then a day’s journey, (for I
+speak of a time gone by: my hair which till a late period withstood the frosts of time, lies
+now, at last white, under a white cap, like snow beneath snow.)” (55). She could have
+quite easily implied that she was merely writing her childhood from the vantage point of
+an adult, but instead, right from the start she makes it clear that all events depicted in the
+novel have already come to pass and she is now an old woman. This also makes her
+revelation of Dr. John and Graham Bretton as the same person all the more devious. She
+admits that she had figured out the linkage in the scene in which she examines him in the
+mirror and subsequently withheld that fact for multiple chapters, but by the very nature of
+the narration, the white-haired Lucy telling the story has known this fact since Dr. John
+first stepped into the scene. Every twist or revelation in the novel is deceitful in its nature
+because every event has already come to pass and is known to Lucy. In revealing in this
+one specific case that she has withheld a piece of information for a duration of time (the
+stated duration of which is, of course, a lie) Lucy purposefully calls into question all
+other events in the novel, subjecting them to readers’ suspicions. In playing with
+withholding, revealing, and essentially lying about when she acquires information, Lucy
+refuses to allow her readers to shift comfortably into the act of reading seamlessly by
+which most people consume texts. Frank Kermode writes in The Art of Telling that “all
+narrators are unreliable, but some are more expressly so than others” (140). Many
+narratives rely on the conceit of a narrator telling a story retroactively to the reader,
+perhaps from some vantage point later in life. Readers have come to accept this fact
+
+38
+
+without necessarily acknowledging that this makes every narrator devious, releasing and
+withholding information as he/she sees fit. Villette will not allow this process of willful
+ignorance to go unchecked. The odd mental state involved in suspension of disbelief in
+which readers unconsciously acknowledge that the story is not in a strict sense “true” but
+nonetheless remain invested in the text and its characters is impossible in Villette because
+Lucy keeps calling attention to the narrative’s conceit. Just as dreams involve a
+suspension of disbelief in which the brain both creates and discovers a landscape and thus
+wakes when forced to confront the unreality of the dream, Lucy is determined to wake
+the dreamer consuming her novel and create a uniquely unsettling narrative experience
+which shines a light into the gulf between the narrative and the reader.
+Without a third person narrator to act as a relatively impartial measure of the
+honesty or lack thereof of a first person narrative, Villette does not merely conceal the
+truth, but in fact makes it entirely moot. Rather than contrasting a first person narrator
+with a third, one must instead read within the lines of Lucy’s narrative to extract
+information from her subjective descriptions. The image of the mirror in the novel proves
+to be a highly important one in this respect in that Lucy at many points throughout the
+novel tips her hand by repeating or doubling motifs (for instance, the ghost nun and
+Justine-Marie) providing readers with indications of what motifs to pay attention to. In its
+first appearance, Lucy inspects Dr. John in secret by peering at his reflection in a mirror
+so that she is hidden. Her efforts to remain invisible are unsuccessful and Dr. John spots
+her movement and stops her: “I am not vain enough to fancy that it is my merits which
+attract her attention; it must then be some defect. Dare I ask—what?” (126). The mirror is
+an object that presents an image or likeness, but is not an entirely objective one. Rather
+
+39
+
+than the image of a whole person, Dr. John assumes that Lucy can only be studying his
+flaws or his merits. It is a reflection, but not necessarily a complete one. This motif
+continues throughout the novel in a remarkable number of encounters in which characters
+are viewed but not necessarily seen in their totality, or are seen entirely incorrectly. To
+compound the moment with Dr. John, perhaps the most powerful encounter with a mirror
+comes during the party at which Lucy must wear a pink dress. She examines the crowd
+and notices especially three guests she spots:
+I noted them all—the third person as well as the other two—and for the fraction
+of a moment I believed them all strangers, thus receiving an impartial impression
+of their appearance. But the impression was hardly felt and not fixed, before the
+consciousness that I faced a great mirror, filling a compartment between two
+pillars, dispelled it: the party was our own party. Thus for the first, and perhaps
+only time in my life, I enjoyed the ‘giftie’ of seeing myself as others see me. No
+need to dwell on the result. It brought a jar of discord, a pang of regret (274).
+The mirror presents Lucy with a reflection of others’ perception of her, but it is not one
+which matches up with her own perception of herself. This moment aligns with her
+descriptions of how other characters view her; every person who comes into contact with
+Lucy seems to feel the need to describe who she is to her, as if drawn to place a
+comfortable label on her. The descriptions never match up with her true nature, and even
+directly contradict each other in many cases. Dr. John calls her “a being inoffensive as a
+shadow” (418) to which Lucy reacts by outwardly smiling and inwardly restraining a
+groan. Mere pages later, M. Paul calls her “Petite chatte, doucerette, coquette!” (420) as
+if vehemently determined to absolutely contradict all that Dr. John has just said about her.
+
+40
+
+This instance throws into the sharpest relief the fact that no one in the text truly
+recognizes Lucy for what she is, just as readers come to the realization that they can
+never truly know Lucy because she will never allow them to draw so near to her.
+Lucy seeing herself in a mirror and actually being unable to recognize herself is
+remarkably jarring; the experience is not overtly horrific, but rather bears the distinct
+mark of the uncanny. It is reminiscent of the doppelgänger, an experience of seeing a
+double of oneself usually thought to portend death or great misfortune. The doppelgänger
+usually has an implication of cognitive dissonance or some mental disconnect that causes
+one to see a likeness of him/herself. Lucy’s vision of herself disconnected from her self
+becomes linked to a motif of doubling which resonates and repeats again and again
+throughout the text. Characters frequently leave the text only to re-enter it later with
+different names, a character prefigures one to appear later, and characters are described
+so similarly as to be forced beside each other for comparison. All these experiences are
+branching networks of moments which enact the experience of Lucy’s mirror for the
+reader. The unsettling sensation of seeing oneself without recognizing it is repeated again
+and again on a larger scale.
+Most of the main players in Villette have more than one identity or name under
+which they are known. The start of the novel introduces Polly Home, a doll-like child
+with an overweening attachment to her father. She appears to pass out of the narrative
+without remark, only to return on the night of the fire as Paulina de Bassompierre. Not
+only is she using the full version of her first name now that she has grown older, she has
+also conveniently gained a new title. The second meeting provides an opportunity for
+Lucy to be shocked once again by revealed identities; Paulina is Ginevra’s cousin, yet
+
+41
+
+under her new title Lucy had been unable to make the connection between the two
+identities as one and the same when Ginevra spoke of her. The ghost nun which so
+terrifies Lucy on the grounds of the Rue Fossette is doubled later in the form of JustineMarie, of whom Lucy first learns upon paying a visit to Madame Walravens. She is
+confronted upon entering by a portrait which she at first mistakes for a Madonna before
+realizing it to be “a woman’s portrait in a nun’s dress” (520).11 Just as the nun haunts
+Lucy out of her happiness and peace of mind, Justine-Marie denies Lucy of her happiness
+once again by laying claim to M. Paul’s devotion. She is the means by which other
+characters are able to manipulate M. Paul through guilt for her death away from Lucy.
+The character with the most identities in the text is Dr. John; he begins the narrative as
+Graham Bretton during Lucy’s childhood. Later, Ginevra is able to speak of him without
+Lucy realizing who the subject of her derision is because she has taken to calling him
+Isidore, finding his English name ugly. At the Rue Fossette he is Dr. John, insisting the
+children call him by his first name which conveniently allows him to remain disguised
+and separate from Graham Bretton until Lucy chooses to reveal his identity as such.
+This proves to be the key to understanding Lucy’s near-obsessive use of multiple
+identities: her desire to retain information about others. In layering different identities on
+the characters she portrays for her readers, she is able to mirror the layers of deceit which
+are intrinsic to her portrayal of their characters. Dr. John proves to be the most important
+of these characters because he has the most identities, totaling three, as well as the
+greatest numbers of disappearances and reappearances under a different guise. He is the
+
+11
+
+Lucy also judges the portrait in a repetition of her judgment in the museum; she notes that “its very
+amiability was the amiability of a weak frame, inactive passions, acquiescent habits; yet I looked long at
+that picture, and could not choose but look” (520). The experience is very similar to her disapproval of the
+decadent portrait of Cleopatra.
+
+42
+
+childhood companion, then the white knight who guards Lucy on her first night in
+Villette, then the amiable doctor, then Ginevra’s love interest before all the identities are
+finally revealed to be one. He is also the character which Lucy has most cause to want to
+conceal information about because he is the object of her unrequited love. In Lucy’s
+world where a love that is not returned is a personal weakness in her, she has great reason
+to conceal the emotions that surround him. In the first person narrative that Lucy has
+created, characters take on the forms not of real humans, but continuous constructs
+formed out of Lucy’s own thoughts and associations. Dr. John is not a person, but a
+fluctuating reflection of how Lucy feels about him over the course of their interactions.
+Thus when she feels a need to mask her emotions about a person, she must necessarily
+mask the character himself.
+This repetition of characters has a dual effect, not only of cloaking the narrative in
+further mystery and thus protecting Lucy’s true feelings, but also creating a bizarrely
+claustrophobic world. The very name, Villette (meaning ‘little town’), creates an insular
+environment when one considers that it is based on Brussels, a large capitol city. The Rue
+Fossette (meaning ‘dimple,’ but also a small hole or crevice) furthers this incredible
+feeling of smallness or interiority. In this tiny world, any number of happenstance events
+occur which are nearly too convenient to be true; when Lucy faints after leaving
+confessional, she is taken to the Brettons, whom she last saw in England, yet they had not
+notified her that they were even in Labassecour. Any number of similar tenuous threads
+unite characters in endless chains of untold connections which reveal themselves at
+convenient narrative points. This motif continues down to the most minute instance; on
+her first night in the city, Lucy is menaced by men who follow her until she is forced to
+
+43
+
+knock at the Rue Fossette to escape them. Near the end of the book, many chapters
+afterwards, Lucy is required to write a French composition to defend herself against
+accusations of outside help. The two men who are to be her examiners strike a chord in
+Lucy’s memory:
+These, I felt morally certain, were the very heroes who had driven a friendless
+foreigner beyond her reckoning and her strength, chased her breathless over a
+whole quarter of the town (534).
+The move is too intentional to be narrative laziness, a mere avoidance of creating two
+more characters for the novel. The sudden realization that the cruel and mocking
+examiners are her long-past tormentors is too neat and unsettling. Janet Gezari writes that
+“such coincidences are the stuff of persecution fantasies. They sustain a paranoid
+perception of the world as a place in which everything hangs together” (Gezari 165). The
+constant doubling of characters combined with their constant disappearance,
+reappearance, and intricate links to each other creates an environment of sustained
+paranoia. Other characters constantly attempting to ascribe her a character, fail as they
+might, only serves to prove that these characters populate her narrative in a sense as
+inquisitors, agents attempting to penetrate her defenses and understand her true character.
+It is no wonder, then, that Lucy layers her narrative defenses against what she perceives
+as a world constantly seeking to strip them away.
+The way in which other characters misunderstand Lucy turns out to be a two-way
+street. Lucy makes a point of flattening every character around her. She forces the
+relationship between her and her reader to become a captive one; she will not allow any
+other character to appear as interesting as herself in her own tale. One factor in this
+
+44
+
+dynamic is the fact that the first-person narrative is insular by its very nature, but as the
+text progresses, Lucy’s feelings towards the characters she portrays and the way she
+displays their traits to her reader begin to seem disjointed, disconnected and almost
+dissonant. Many of the characters react in predictable ways depending on their stated
+traits. The best character to use in this instance is Dr. John, both in his relationships with
+women and Lucy’s own shifting attitude towards him over the course of the novel. Lucy
+clearly loves Dr. John, only just barely skirting an outright admission. She comes close to
+such overtly honest speech when she narrates that she has realized Dr. John is not entirely
+indifferent to her, but rather views her as a friend:
+…he proved to me that he kept one little closet, over the door of which was
+written ‘Lucy’s Room.’ I kept a place for him, too—a place of which I never took
+measure, either by rule or compass: I think it was like the tent of Peri-Banou. All
+my life long I carried it folded in the hollow of my hand yet, released from that
+hold and constriction, I know not but its innate capacity for expanse might have
+magnified it into a tabernacle for a host (607).
+Without using so many words she concedes the affection for Dr. John that she has been
+nursing for nearly the entire novel. This leads the reader to believe that Dr. John must be
+interesting to her, and she certainly does describe him as charming and polite and
+handsome. In spite of this, when one actually examines his character, he proves to be
+rather flat and uninteresting, especially in his attitudes towards women. At first he is in
+love with Ginevra, who is (at least by Lucy’s accounts) utterly vapid and shallow. He
+describes her virtues in the most fawning of modes, and even admits once he has gotten
+over her, “I have not been accustomed to look on Miss Fanshawe in the light of a feather-
+
+45
+
+brained school-girl. Was she not my divinity—the angel of my career?” (285). With all of
+Lucy’s praise of Dr. John, his sycophantic devotion to Ginevra seems rather out of
+keeping with what Lucy portrays as his discerning intelligence. He is so desperately
+devoted in his love for her, desperately buying her gifts and clearly emasculating himself
+in Lucy’s view out of his utter devotion, while Ginevra feels nothing for him and
+patronizingly calls him Isidore, as she claims to dislike the English sound of his real
+name.12
+Dr. John quite clearly barely even knows Ginevra, as when he first finds out that
+Lucy knows her he tells her, “You—every woman older than herself, must feel for such a
+simple, innocent, girlish fairy, a sort of motherly or elder-sisterly fondness. Graceful
+angel! Does not your heart yearn towards her when she pours into your ear her pure,
+child-like confidences?” (195). Lucy and her reader know first-hand that Ginevra is
+anything but child-like, and her confidences often involve mocking Dr. John and the
+attentions that he and other men give her. He so clearly has no concept of who she truly
+is, just as he has no sense of what Lucy’s character is. This seems entirely out of keeping
+with Lucy’s perception of the very man who chivalrously guided her through the streets
+of Villette on her very first night. It is almost as if, in the very same way Dr. John
+idealizes Ginevra while caring little for her real personality, Lucy does the same with Dr.
+John, unwilling to acknowledge his vapidity and only willing to focus on her secretlycultivated love for him.
+
+12
+
+The use of “Isidore” is also notable because it is yet another name for Dr. John/Graham Bretton which is
+not immediately unified with his character (i.e., Lucy does not at first know that Ginevra’s Isidore is her
+Dr. John). His multiple identities are perhaps indicative of the layers under which Lucy attempts to parcel
+out his identity to prevent him from becoming a unified, multi-dimensional character: Isidore the puppyish
+lover, Dr. John the perfect gentleman, Graham the childhood playmate.
+
+46
+
+Dr. John proves himself to be truly unsuitable for Lucy when his extreme
+devotion shifts abruptly onto Paulina Home, the pleasant but childish former companion
+of their long-ago summers at Bretton House. Lucy meets her again when she is
+seventeen, and she is described, almost to the point of wearisome repetition, as a fairy or
+sprite. Her father enters from the snow and Polly dances “in a circle about her equally
+white sire…The bear shook himself, and the little sprite fled far from the frozen shower.
+Back she came, however, laughing, and eager to aid in removing the arctic disguise”
+(369). Polly is described again and again as childish, and Lucy draws extreme attention to
+her unfailing devotion to her father, both in this passage and throughout the text. Lucy
+acknowledges her as beautiful, and adds that Graham “had not been unobservant of the
+fairy’s dance; he had watched it, and he had liked it” (371). Polly is certainly what Lucy
+acknowledges as the ideal, but she is still oddly childish, doting, naive and impish in a
+distinctly unsettling way.13
+Dr. John’s ultimate fall from Lucy’s good graces comes when his obvious
+affection for Polly blossoms into an actual courtship and, ultimately, marriage. Lucy
+knows and emphasizes for her readers that Polly’s mode of loving is unsettling. In
+“Gothic Desire in Charlotte Brontë’s Villette,” Tony Wein writes, “Each of the women in
+Villette…survives by a strategy of substitution” (Wein 8). The substitution she describes
+bears some similarity to Kucich’s repression in that it is a mode of subduing desires
+which are unacceptable for a Victorian woman to express by instead substituting some
+other emotion or action. Polly’s mode of substitution is to love her father with absolute
+13
+
+It is fascinating that Jane is described in similar language by Rochester as a fairy, imp or witch. In Jane
+Eyre such language removes her from comparison in physical beauty to such characters as Blanche, sparing
+Brontë the explanation of how Rochester could love the less conventionally beautiful Jane. If her beauty is
+unearthly or supernatural, it cannot possibly be compared to Blanche’s worldly attractiveness. Here,
+however, it is used to neuter and flatten Polly into the vague outline of a girlish ideal.
+
+47
+
+devotion before suddenly shifting the very same mode of affection off her father and
+substituting Graham. Lucy watches the shift occur when they are children and Polly
+leaves off pining for her father only when she takes up an obsession with Graham, to the
+point where she strokes his boot after he kicks her. As an adult, Polly undergoes the same
+one-to-one substitution of Graham for her father.
+Lucy paints their love as perfect, almost a celestial ideal, but simultaneously flat,
+neutered, sexless. There is no passion in their union as Lucy portrays it, only a dull,
+flawless perfection when viewed from the outside. It is possible that this is the true nature
+of their union, but it is highly unlikely. Like any marriage viewed from the outside,
+Lucy’s perspective is warped by her opinions of the couple and a lack of any ability to
+truly know what they are like without Lucy as a spectator. While speaking with Polly,
+Lucy narrates, “There is, in lovers, a certain infatuation of egotism; they will have a
+witness of their happiness, cost that witness what it may. Paulina had forbidden letters,
+yet Dr. Bretton wrote; she had resolved against correspondence, yet she answered, were it
+only to chide. She showed me these letters; with something of the spoiled child’s
+willfulness.” Their expressed desires and real wishes are in perfect harmony, everything
+fitting quaintly together in a way that clearly disgusts Lucy as she calls it “egotism” and
+adds, “She made me read them” (565). Though he has been gradually becoming more and
+more two-dimensional throughout the narrative, Graham’s flattening is truly complete by
+the time he falls in love with Polly. The two become a pleasantly idealized but
+realistically boring couple. It is at this time that M. Paul takes center stage as the object of
+Lucy’s narrative attentions as well as her growing affection, and it is through a
+
+48
+
+combination of that occurrence and Lucy’s gradual disillusionment with Dr. John that
+makes her begin to phase him out of a position of any importance in the novel.
+Dr. John is not merely phased out in terms of importance, but even morphs over
+the course of the narrative. This is perhaps the greatest proof of Lucy’s conspicuous
+narrative control over readers’ attitudes towards characters other than herself. Whereas
+characters such as Polly are rather like naïve, immature cream puffs from the start, Dr.
+John morphs before readers’ very eyes. He enters the narrative portion set in Villette as
+the epitome of a white knight. When Lucy is at her most friendless and isolated in a new
+city in which she does not speak the language, he rescues her by not only providing
+directions but later saving her from the uncomfortable attentions of the locals. He
+continues to appear noble and unreachable as the local doctor who cares for the students
+of the pensionnat, though Lucy finds him somewhat inscrutable and impenetrable. By the
+time he loves Ginevra, Lucy releases more and more information about how emasculated
+he is by his obsessive gifts and protestations of love which are obviously unreturned and
+uncared-for. When he describes giving her an expensive bracelet and praises her lack of
+care for worldly goods by admitting that she was not at all impressed by it, Lucy asks,
+“Then, of course, not valuing it, she would unloose, and return it to you?” His puppyish
+response is, “No; for such a repulse she was too good-natured” (254). Earlier in the
+quarrel Lucy admits that she laughed out loud: “I had heard her adjudge to every jewel its
+price” (253). His willful blindness begins to turn him somewhat into a character much
+like Dickens’ Richard, an optimistic fool. Both his clear lack of perception of others’
+characters and his conspicuous lack of romantic feeling for Lucy cause him to gradually
+degrade in Lucy’s estimation. She releases more and more information about his
+
+49
+
+foolishness as time goes on, finally completing the descent from the perfect gentleman
+into a subservient, sighing lover, just the sort of weakness and sensibility that Lucy
+disdains.
+Lucy’s control of the narrative is, or at least attempts to be, absolute. She speaks
+at first of M. Paul as a strange and tempestuous little man with typical French manners,
+but gradually lets slip the hints of a warming affection. When the two quarrel and Lucy,
+in a fit of rage, demands that he ceases to teach her, she later narrates, “The books,
+however, were not taken away; they were always restored with careful hand to their
+places, and he came as usual to teach me” (468). Though she is uncomfortable with
+admitting that the “careful hand” was his, she nonetheless uses such descriptors to
+gradually portray a different side of M. Paul. This control means that Lucy will only
+allow characters around her to become likeable, vulnerable or dimensional should she
+will it. The technique is an accurate one, reflecting her inner mental state and attitudes
+towards those around her, but nonetheless reveals just how plotting she can be. It also
+reveals an incredible desire for absolute control of her narrative. Polly is one of the few
+characters who does not attempt to tell Lucy she has her figured out. She asks Lucy
+outright, “But are you anybody?” (408). Strange, then, that she is one of the most
+flattened characters in the novel, a fairy interloper in Lucy’s plans for happiness. Lucy’s
+desire to control all aspects of her narrative reveal the seams in the potential answer to
+Polly’s question. It is an uncomfortable moment for readers, as they are forced to realize
+the difference between their perceived answer to Polly’s question and Lucy’s answer. In
+the world of the text, Lucy could be anyone, and could answer the question in any
+number of ways. Just as the characters around her are only what she allows them to be,
+
+50
+
+for readers, Lucy could be nothing at all but the stories she permits readers to know about
+her.
+
+III. “The Retina of An Inward Vision”: Catholicism, Surveillance, and Concealment
+
+In a particularly pivotal moment in Villette, Lucy arrives at the Rue Fossette to
+discover that Madame Beck’s school is like nothing she has ever encountered in England
+
+51
+
+thus far. To call what Lucy experiences “culture shock” would be a massive
+understatement. She nearly obsesses over the vast gaps between her own mode of living
+and that of the inhabitants of the Rue Fossette. She describes her first impressions of the
+school thus:
+[G]reat pains were taken to hide chains with flowers: a subtle essence of
+Romanism pervaded every arrangement: large sensual indulgence (so to speak)
+was permitted by way of counterpoise to jealous spiritual restraint. Each mind
+was being reared in slavery…the CHURCH strove to bring up her children robust
+in body, feeble in soul, fat, ruddy, hale, joyous, ignorant, unthinking,
+unquestioning. ‘Eat, drink, and live!’ she says. ‘Look after your bodies; leave
+your souls to me…’ Lucifer offers the same terms (163).
+This moment is one of many in which Lucy almost seems to lose the thread of her
+narrative in order to embark on a tirade against Catholicism. She has just been criticizing
+Zélie St. Pierre for her lack of morality and venting her outrage that, in spite of the fact
+that Madame Beck is aware of her flaws, she will not be dismissed when she is distracted
+by her sudden swerve into invective against Catholicism.
+Lucy is so incredibly vindictive against a character who, apart from being mildly
+malicious towards her, does not seem to display any incredible faults of character, or
+possibly any character at all. Lucy has reason to dislike her; Zélie is the one who
+peevishly points out to M. Paul that Lucy has not brought in flowers on his fête-day
+amongst other similar acts of childish ill will. She is almost a caricature of needless
+malice, a person seemingly present in the narrative only to make Lucy’s life mildly more
+
+52
+
+difficult, warranting Lucy’s epithet for her, “that snake” (161).14 Immediately after
+mentioning her lack of morality, Lucy applies the critique on a larger scale, assigning the
+same loose morality to the general “Romanism” of the Rue Fossette.
+This moment of diversion into indiscriminate condemnation of the Catholic
+Church as a whole is more important than merely a moment of Victorian discrimination.
+The great societal feud between the French and the English comes to a head in Villette as
+Lucy would seem to spew the most stereotypical vitriol over the Catholic faith. Whereas
+in The Professor Brontë had no qualms about calling Brussels by its actual name, in
+Villette she creates the eponymous city whose name is “little town” in French, set in
+Labassecour, “the farmyard.” As Beth Torgerson points out, this is less to protect the
+identity of Brussels as the use of its real name had not troubled Brontë in her previous
+novel. Instead, it provides Brontë with an opportunity, intentional or not, to conflate
+Brussels and France, ostensibly to criticize both in one pass.
+The unabashed disdain for all things French and Catholic has, in the past, proved
+quite disruptive to the reading experience of many who have plumbed the depths of
+Villette or, at least, many critics have claimed so. In fact, in reading criticism focusing on
+the motif of Catholicism in Villette, many critics go out of their way to point out the fact
+that many readers are annoyed by the anti-Catholic sentiment which sits so heavily on
+Villette. Sandra Gilbert and Susan Gubar, the veritable giants to which all other feminist
+critics must look to even if only to respond, write: “Nothing is more irritating to some
+readers than the anti-Papist prejudice of Villette” (411). Even those who will work to
+
+14
+
+Her reference to Zélie as a snake is also somewhat inextricable from the aforementioned religious tirade.
+The treachery of the snake is so engrained in any Old Testament-rooted mindset that it is impossible to
+divorce the association of serpentine malice from the story of original sin. Zélie is therefore a figure present
+to stir up trouble where otherwise there could potentially be paradise.
+
+53
+
+absolve Brontë of accusations of blind religious discrimination, such as Diana Peschier in
+19th Century Anti-Catholic Discourses, admit that many find the anti-Catholic sentiment
+galling. Sally Shuttleworth writes that “Lucy’s violent antagonism to Roman
+Catholicism [is] treated so often by critics as an intrusion of Brontë’s
+personal prejudice”. Few critics, however, discuss readers’ reactions at length; most
+breeze past this fact as a cursory apology before launching into an investigation of why
+their frosty reactions are misdirected.
+I am more interested in asking: why does this reaction occur? Villette is far less
+likely to be assigned to the uninitiated than, say, Jane Eyre, which is a favorite staple of
+grade school required reading. Most readers will likely have some previous exposure to
+Victorian literature by the time they come across Villette. By that time they would
+presumably be at least somewhat prepared for the racism, xenophobia, and sexism of the
+time which, in most Victorian literature, essentially comes with the territory. Why, then,
+do readers nonetheless take offense at Villette even with the knowledge that much of
+what Brontë says would have been a non-issue to many of her British contemporaries?15
+Could it be that there is a deeper significance to why readers are so “irritated,” as Gilbert
+and Gubar put it, by a relatively standard Victorian practice?
+One factor definitely plays a role in many judgments of Charlotte Brontë, though
+exactly how large a part it plays is somewhat indeterminate. In the last chapter I cited
+Lisa Sternlieb’s central contention in her Female Narrator in the British Novel: Hidden
+
+15
+
+This is not, obviously, to excuse prejudice and hatred solely based on the time period in which it occurs,
+which continues to be an egregiously employed justification to this day. Rather, it is to better place an
+argument in a historical context in order to decide whether its bigotry goes above and beyond its
+contemporary levels, and also to acknowledge that a discussion of discrimination through a modern lens
+with modern vocabulary may not be the most productive approach to a time period even as recent as the
+Victorian period.
+
+54
+
+Agendas; she argues that female authors frequently use the façade of artlessness, naïveté
+and simplicity to conceal ulterior themes which might have been unacceptable for a
+woman to deal with. In a time when women who knew more than they let on were not
+just subversive but dangerous, such measures were necessary, like a wasp mimicking the
+color patterns of a bee to camouflage itself. I would argue that criticism leveled against
+Brontë, both contemporary and modern, quite frequently operates under the assumption
+of artlessness on her part before intent. It is easy to see why, for she follows in the
+shadow of many women whose reputations were, and continue to be, for writing what
+they know. The image of Jane Austen as the parlor authoress, writing about her own
+world of society and social comedy and coyly hiding her papers under a blotter, still
+haunts the 19th century female author. It is a trope defined by the genius of the female
+author in spite of her ignorance of the world at large.
+It is a modern form of the separate spheres ideology, in which critics assume that,
+because these women were kept from experiencing all the aspects of life open to men of
+the time, that they are necessarily more ignorant and less worldly than, say, male authors.
+It is yet another subtle form of modern critical prejudice to assume that a woman has had
+a narrower range of experiences than any given man of the time by default. While it is
+true that many aspects of society were closed to women in the Victorian period, it is
+conversely true that many aspects of typically female experiences were just as closed off
+to men as the reverse. It is therefore a distinctly oppressive value judgment to discount
+the numerous experiences women would have had which would have been closed to the
+masculine sphere as secondary, trifling, or insignificant. This leads to overly lauding
+female authors for their creation of a successful piece of self-expression in spite of, rather
+
+55
+
+than because of their nature as women. For example, Emily Dickinson is celebrated for
+her highly-developed emotional life in spite of the fact that she seldom left her home,
+ignoring the fact that she could very possibly have a far more developed sense of
+introspection and emotional development in a life that afforded her the time for such
+activities.
+This very subtle form of condescension is just the typical attitude that affords the
+cover that Sternlieb discusses. By taking advantage of a critical attitude still prevalent to
+this day, women could write the devious narratives that they wanted to, allowing men to
+flatten their narratives into naïve scribbling and thus avoid the censure of an era in which
+women were, if not sufficiently ignorant and innocent, hyper sexualized and evil.
+Kermode writes in The Art of Telling that “the ‘artlessness’ of the narrator is not a
+guarantee of factuality so much as a hint that the text is extremely artful” (45). Thus we
+reach another emblem of condescending sexism which, I argue, is a vital factor to
+consider when examining the criticism leveled against her anti-Catholicism as it
+manifests in Villette: a simple conflation of the author and the narrator’s voice. I do not
+want to argue, however, that Charlotte Brontë was without personal prejudice against
+Catholicism. Rather, I would like to present a possible double purpose for her vitriol.
+Charlotte Brontë herself and her opinions about Catholicism and the voice of Lucy
+Snowe speaking against Catholics are different; while they may have much in common, it
+is far more valuable a study to view the two as in conversation and complex interchange
+with each other rather than viewing Lucy merely as a conduit for Brontë’s outpouring of
+personal views.
+
+56
+
+Brontë especially is an author who is known for her autobiographical narratives.
+Writers such as Lyndall Gordon take great edification from drawing the numerous
+parallels between Brontë’s real life and the characters she writes in her novels. Of course,
+this sort of study does in fact have great value. The parallels between Dr. John and
+George Smith and M. Paul and Constantin Héger16 are both fascinating and, in many
+cases, highly useful to parse Charlotte Brontë’s internal emotional state during her time in
+Brussels. For a woman who could never admit a passion for a married man, Villette
+proves an invaluable emotional cipher for Brontë’s internal life.
+The danger, however, comes in marrying the two too closely. In assuming that
+female authors are bound to be more artless than males by definition, there is far more of
+a tendency to assume that female authors will write best when they “write what they
+know,” as the modern wisdom dictates. Thus a woman who writes a nuanced narrative of
+quality is even more likely to be presumed as taking inspiration from her life, whereas a
+poor female writer was most likely writing on a topic about which she knows nothing and
+therefore has an excuse for the lack of nuance in her narrative. Meanwhile, men are
+inherently assumed to be able to transgress and project themselves into any number of
+situations and lives they have not experienced. Ironically, a member of the sphere
+assumed to be more empathetic is more harshly criticized when attempting to empathize
+with a voice which is not necessarily her own. The danger proves even more immediate
+for Brontë, who already incorporates many strongly autobiographical elements into her
+16
+
+There is enough contention as to make it clear that Brontë’s real-life inspirations are not one-to-one
+equivalencies. Irene Tayler writes in Holy Ghosts that “although M. Paul exhibits important characteristics
+of M. Heger, he has his immediate imaginative basis in Charlotte’s encounter” with James Taylor, part of
+her publishing firm, who was “an irritable and despotic little man…he courted her with unwelcome
+forcefulness, apparently showed himself jealous of her vain attachment to Smith, and was in 1851 suddenly
+dispatched by the firm to India for five years” (203). Though the growing affection present in Villette was
+absent for Charlotte in real life, Tayler’s depiction of events is fascinating.
+
+57
+
+work. Thus critics easily fall victim to the assumption that the anti-Catholic prejudice in
+Villette is due to Brontë’s own views finding their way into her narrative. By assuming
+artlessness, they assume that Lucy’s opinions are merely Brontë’s mouthpiece, rather
+than reasoning that part of that equation may be her authorial initiative. Though all
+instances of anti-Catholicism are spoken in Lucy’s voice, critics, more often than not,
+assume that this is Brontë’s voice through Lucy rather than an element of Lucy’s
+character.
+As discussed in the previous chapter, Brontë is an author of exceeding ability and
+craft. The variation between the first person narrators she constructs in both Jane Eyre
+and Villette are a testament to her skill at constructing a highly crafted narrator. When
+Lucy speaks of her anguish at having to sit through tales of “the dread boasts of
+confessors, who had wickedly abused their office, trampling to deep degradation highborn ladies, making of countesses and princesses the most tormented slaves under the
+sun” (149-50), it is strange that many critics actually assume that this is coming from
+Brontë speaking through Lucy. The same author who writes a narrator so profoundly
+elusive that she never even reveals who her family is can still somehow be labeled as
+allowing her own prejudices to seep into and, for many readers, spoil a text. Why do
+readers assume that Lucy’s anti-Catholic prejudice is merely pointless hatred and
+discrimination? It is certainly true that such blind xenophobia would have been well
+within the social mores of the time; what would now constitute hate speech against
+Catholicism was essentially expected to come with the nature of being an English
+Protestant at the time. It is not entirely unreasonable that Lucy is criticizing Catholicism
+to set herself apart as a still more dedicated Protestant, and this is certainly a factor in her
+
+58
+
+attitudes. What I wish to examine is precisely what proportion of her anti-Catholic
+prejudice is unproductive, resulting from Brontë’s own opinions, and how much of it
+serves a legitimate purpose within the narrative, hateful as it may be.
+As evidence of Brontë’s opinions on the matter, Enid L. Duthie points to the
+correspondence between Charlotte Brontë and Elizabeth Gaskell in The Foreign Vision of
+Charlotte Brontë as painting a portrait of a woman deeply devoted to her faith. Mme.
+Héger’s devotion to Catholicism was a source of growing tension between the two
+women. Duthie writes, “[W]hen Mrs. Gaskell referred to Charlotte Brontë’s dislike of
+Romanism as one of the chief causes of the silent estrangement between the two women
+during the second year of her stay in Brussels, she was stating a tragic truth. Her religion
+in fact meant as much to Mme. Heger as her own faith did to Charlotte Brontë” (153).
+Though it is true that there were other factors in play (not the least of which was
+Charlotte’s unrequited passion for Mme. Héger’s husband), and that Elizabeth Gaskell is
+a notoriously biased biographer, there was at least a significant enough tension as to
+cause noticeable friction between Charlotte and Mme. Héger, enough for Mrs. Gaskell to
+take note. In terms of Charlotte’s feelings about Catholicism in general apart from Mme.
+Héger in particular, Duthie reveals a most illuminating passage from a letter that Brontë
+writes to her good friend and longtime correspondent, Ellen Nussey:
+People talk of the danger which Protestants expose themselves to in going to
+reside in Catholic countries—and thereby running the chance of changing their
+faith—my advice to all Protestants who are tempted to do anything so besotted as
+turn Catholic—is to walk over the sea on to the continent—to attend mass
+regularly for a time to note well the mummeries thereof—also the idiotic,
+
+59
+
+mercenary aspect of all the priests, and then if they are still disposed to consider
+Papistry in any other light than a most feeble childish piece of humbug let them
+turn Papists at once that’s all…At the same time allow me to tell you that there
+are some good Catholics—who are as good as any Christians can be to whom the
+bible is a sealed book and much better than scores of Protestants (31).
+This passage seems to fit reasonably well with the author of such a novel as Villette. She
+is certainly not without her own prejudices but, as with M. Paul, is not averse to the
+existence of what she deems “good Catholics,” whom she nonetheless portrays as
+exceptions to the rule. Brontë views on Catholicism are caustic, and to ignore this fact is
+to whitewash history. In defending her as a female author, it would be a lapse in integrity
+and even counterproductive to ignore her prejudice against Catholicism. It is a fact. To
+merely condemn and move on to more elevating topics, however, is just as reprehensible,
+for only in examining the bigotry that plagues Villette can it truly become a multidimensional text, rich in both complexities and flaws.
+For a richer understanding of the anti-Catholic sentiment in Villette, it is
+necessary to examine the contemporary contexts from which the work emerged. Societal
+prejudice does not occur in a vacuum, and the Victorian era gives rise to an excellent
+study of the evolution of hatred. 19th century England, more than many places and time
+periods, was defined by a sudden surge in anti-Catholic sentiment. Peschier points out in
+a very important critical moment that the 19th century was a time in which England was
+reacting to a steep influx of Irish immigrants. While smaller famines occurred in the 18th
+century leading up to the era, the largest and most famous Potato Famine in Ireland
+occurred in the 19th, leading to a sudden and steep uptick in immigration by the Irish
+
+60
+
+seeking to leave a starving homeland. The increase in the number of Irish caused an
+already fraught relationship of colonizer to colonized to come to a head, bringing about a
+release of all England’s paranoia about the threat of Catholicism. In addition, the Oxford
+Movement catalyzed much of England’s fear of its citizens defecting to the Catholic
+church from within the country. Marianne Thormählen points out that Catholics had
+enjoyed religious freedom in law if not in practice for years; in the 20s the Catholic
+Emancipation Act allowed Catholics to participate in government and in 1850, three
+years before publication of Villette, the Catholic Church re-established its place in
+England in what was dubbed the “Papal Aggression.” Thormählen writes, “There is
+hence biographical proof of Charlotte’s interest in events in the field of ecclesiastical
+politics, as well as of her dislike both of the Church of Rome and of the High Churchmen
+in her own Church” (25). Though sensationalized by paranoia of the time, Brontë’s fears
+would have been based in what was perceived as a real threat. Both external from Irish
+immigration and internal from Dissenters, the idea of Catholicism being engaged in some
+devious plot to overtake the Anglican Church would have had its basis in the religious
+sentiments of the time.
+Even further, Peschier argues, the discourse against Catholicism was focused
+heavily not on the religion itself, but disproportionately on its effects on women,
+especially women’s sexualities. She writes, “Mid-nineteenth-century anti-Catholic
+discourse was fuelled by stories of girls being inveigled into convents, terrible goings on
+within the convent walls, and warnings of how Roman Catholicism could destroy even
+the bonds of matrimony” (10). This scare rhetoric was powerfully employed in the
+Victorian period to stoke a culture of sensationalist fear around Catholicism. By
+
+61
+
+appealing to a culture’s fears about the vulnerability of the women supposedly under their
+protection, this rhetoric hits on the most sensitive and protective instincts of Victorians,
+specifically targeting men. Peschier delves wonderfully into how sexually-charged the
+discourse surrounding Catholicism is in the Victorian era17, including the 19th century
+implication that a Catholic woman made her husband a spiritual cuckold. Tales of the
+confessional abounded, paying special attention to the fact that it was essentially the only
+place a woman could talk about sexuality openly and without stigma. Therefore much of
+the propaganda spoke to men of “the confessing woman having two husbands, one who
+has her soul and the other her body” (Peschier 25). This sort of language was used to
+inspire the most basic and broadly prejudicial instincts in men about women’s vulnerable
+minds and bodies, and would also create a societal fear of the Catholic woman as a lax,
+indulgent creature essentially engaging in spiritual unfaithfulness to her husband.
+Thus much of the fear and hatred in England surrounding Catholicism was
+centered not necessarily on the religion itself, but its imagined implications. This is
+relatively typical of an insular society in which most people would have known few
+Catholics. Such ignorance would have allowed caricatures, propaganda, and blind
+paranoia to crop up in a society. These implications become most important as I turn to
+examining specific instances of sectarianism in Villette. Thus far I have argued that
+Charlotte Brontë certainly does have strongly anti-Catholic biases, and to a certain
+degree, many of these biases express themselves in her novel. To seal the book here with
+a condemnation of her bigotry curtails what is, in fact, an incredibly interesting literary
+analysis, for it is precisely the implications of Catholicism as interpreted through the lens
+
+17
+
+This becomes especially important later when I will discuss the nun in Villette, one of the novel’s most
+explicitly sexually-charged elements, as well as an emblem of Catholicism.
+
+62
+
+of a Protestant England that proves to be so incredibly rich with insight into a time and
+place now foreign and distant. Catholicism as it is truly is separate from Catholicism as
+represented in Villette, and it is this fact that is so fascinating and provides such an insight
+into Lucy’s mind. Lucy sees Catholicism as distinctly threatening, encroaching,
+overwhelming her in a foreign land. What threatens? Why does Lucy cower from the
+very faith that Brontë calls “a most feeble childish piece of humbug”?
+M. Paul would seem to corroborate Brontë’s letter to Ellen Nussey, as he
+recognizes Lucy’s unassailable nature. When she gazes without scruple on the garish
+painting of the sensuous, overlarge, decadent Cleopatra, M. Paul is shocked and
+desperately attempts to draw her away and keep her from looking at it, as if seeing such a
+woman might corrupt Lucy instantly. She calmly waves him off and admits that she
+dislikes the painting, but incurs no harm by looking at it. M. Paul responds, “You
+nurslings of Protestantism astonish me. You unguarded Englishwomen walk calmly
+amidst red-hot plough-shares and escape burning. I believe, if some of you were thrown
+into Nebuchadnezzar’s hottest furnace, you would issue forth untraversed by the smell of
+fire” (268). M. Paul draws a distinct line between the Catholic mode and the Protestant
+one; from the vantage point of Villette it may be true or false that Protestant women are
+made of sterner stuff than their Catholic counterparts, somehow able to endure greater
+trials and maintain their faith and virtue intact, yet this is not particularly significant.
+What is significant is that M. Paul, like many of the characters in the book, see a great
+need to control, police, and watch those around him. The novel is in fact consumed by a
+motif of surveillance, with characters watching others while attempting to remain unseen
+themselves. Here, this sort of check that M. Paul attempts to place on Lucy is explicitly
+
+63
+
+linked to both her virtue and her religion, which is what makes it so important to
+understanding part of Lucy’s anti-Catholic passion. What she reacts to is not necessarily
+the Catholic faith itself, as she does eventually come to love M. Paul, though he is her
+opposite in many ways in addition to his “Romanism.” It is instead the linkages she has
+made between Catholicism and its perceived effects on her way of life, especially control
+and often overweening protection and external checks placed especially on its female
+practitioners.
+Beth Torgerson writes that “as a Protestant woman living in a Catholic country,
+Lucy must come to terms with both religions’ scripts for her as a single woman” (60). As
+Catholicism attempts to exert its prescribed role for her (including through the image of
+the single woman as nun), Lucy reacts by condemning Catholicism as a whole. Lucy
+repeatedly expresses a fear of becoming a literal nun. After the confessional scene, Lucy
+remarks that had she gone to the address the priest had given her, she “might just now,
+instead of writing this heretic narrative, be counting [her] beads in the cell of a certain
+Carmelite convent” (210). This image of the woman alone as a sequestered, forcibly
+silenced creature does not at all line up with the desires of a woman who cannot resist
+climbing out on to the roof in a storm whilst her Catholic counterparts pray and fiddle
+with their rosaries. In part, Lucy fears being forced in to a convent, and yet at the same
+time she leaves unspoken what Brontë also hesitated to acknowledge: she fears being
+won over by the convent. Père Silas appears to be at first a highly sympathetic man;
+Lucy’s first impressions of him (which go beyond mere fancy to physiognomic analyses)
+are of a man who is inherently sympathetic. She admits after the fact, “He was kind when
+I needed kindness; he did me good” (211) yet, by the novel’s close, he has become one of
+
+64
+
+its chief conspirators, among Madame Walravens and Madame Beck, seeking to keep M.
+Paul and Lucy apart. He does not force Lucy, he does not lie to her, he does not willingly
+feed her propaganda. Once he attempts to manipulate her life in any way, however,
+whether by encouraging her to return after she goes to confessional or attempting to
+separate Lucy and M. Paul, she reacts most virulently.
+There was certainly no lack of sensationalist scare literature circulating around
+Catholicism in Victorian England, including the most famous, The Monk by Matthew
+Gregory Lewis, in which a Spanish monk’s faith is tested and he sinks into depravity,
+leading him to commit rape and murder. Peschier addresses the confessional scene in
+Villette by pointing out that “Brontë’s readers would be well acquainted with the idea of
+the confessional being utilized to discover the penitent’s secrets so enabling the confessor
+to cause dissension between family and friends” (Peschier 160). This in fact occurs in
+Villette, when Père Silas uses Lucy’s confession to attempt to separate her from M. Paul.
+Aside from being overtly cruel and malicious, the act also speaks to a deeper fear which
+Lucy harbors: the fear of machinations and manipulations going on over one’s head and
+without one’s knowledge. The world of Villette is defined by voyeurism and surveillance;
+from the section on Lucy’s childhood (which barely touches on her childhood, instead
+focusing on Lucy’s studied observations of Polly and Graham) to Madame Beck’s nearcompulsive devotion to secretive observation, the novel’s characters are always watching,
+being watched, or watching others watch. Lucy is not blameless in this world; in fact, she
+is far from the hapless victim of others’ surveillance. She takes great pleasure in being an
+unseen or unrecognized spectator. She explains, for instance, that she had long known
+that the Graham Bretton of her childhood and the Dr. John of her adulthood are one and
+
+65
+
+the same, yet she enjoys the pleasure of retaining her identity as the Lucy of his
+childhood. She narrates,
+To say anything on the subject, to hint at my discovery, had not suited my habits
+of thought, or assimilated with my system of feeling. On the contrary, I had
+preferred to keep the matter to myself. I liked entering his presence covered with
+a cloud he had not seen through, while he stood before me under a ray of special
+illumination, which shone all partial over his head, trembled about his feel, and
+cast light no farther (228-9).
+Brontë could scarcely have found an image more voyeuristic in nature than that of Lucy
+cloaked in a cloud from which she has the pleasure to view Dr. John while remaining
+unseen. Thus what Lucy fears is not surveillance in general, but rather a shifting of
+control in which she becomes the subject rather than the surveillant. I have already
+established that Lucy intensely seeks absolute control of the release of information in her
+narrative, and this characteristic plays out in her life as well, as she attempts to be the
+primary surveyor of those around her.
+Surveillance exists as a thematic element in the novel outside of religion, an
+overarching motif unbounded by time and space; it exists in Lucy’s childhood and
+adulthood, it is executed by both French and English characters, and by both men and
+women. However, when this motif of surveillance pairs with Catholicism and the fears
+discussed thus far that Catholicism holds for the Protestant Lucy,18 the danger becomes
+still keener. When Lucy starts to admit her growing fondness for M. Paul, she suddenly
+shifts to hinting darkly that he is in fact under “the surveillance of a sleepless eye: Rome
+18
+
+Namely the threats propagated by anti-Catholic sensationalism of the time dealing with women’s
+vulnerability to coercion into convents and the threat of male priests for impressionable young English
+women.
+
+66
+
+watched jealously her son” (544). On its own as a repeating element, surveillance not tied
+to religion is at worst an annoyance; Madame Beck does not present much of a threat to
+Lucy as she is, in fact, not a terribly skillful surveillant. Her methods are an open book to
+Lucy; she watches Madame Beck rummage through her belongings and feels no need to
+stop her, and later Madame Beck is given away by her “sneeze out of season” when Dr.
+John is on the point of revealing his love interest to Lucy. She is always relatively
+transparent to Lucy; as long as Lucy remains the ultimate surveillant, still able to keep
+Madame Beck in full view, her actions present no threat. When the watching eye
+becomes the Catholic church as a whole, the danger is far more real; under this banner of
+Catholicism and the dead Justine Marie, Madame Beck will later become a threat, when
+she unites with Père Silas and Madame Walravens. On her own, she is relatively
+harmless; with the aid of the monolithic Catholic Church, their modes of surveillance
+become so heightened that Lucy must fight in order not to be subjected to their powers of
+observation.
+Beth Torgerson brings up an excellent point on this subject in her essay,
+“Hysteria, Female Desire, and Self-Control in Villette.” The essay on the whole tends
+towards the reductive, but her insight on the motif of self-control in the novel is excellent.
+I have discussed at length just how defined by self-control Lucy is, yet Torgerson makes
+the link between that self-control and Lucy’s religion. She writes, “Brontë connects
+Catholicism’s system of education with its theology, connecting Mme Beck’s system of
+surveillance with the Roman Catholic church’s ‘surveillance of a sleepless eye’, as
+Brontë calls the confessional” (64). The entire Rue Fossette, in fact, thrives on this mode
+of surveillance. It is not overtly linked to Catholicism; Lucy criticizes the school in turn
+
+67
+
+for French frivolity and Catholic laxness in turn, but the fact that Catholicism plays into
+the daily lives and educations of both students and teachers (for instance, the nightly
+readings of the lecture pieuse that thrill and disgust Lucy) makes it inextricable from the
+school’s character. Catholicism and the Rue Fossette are not treated in exactly the same
+attitude by Lucy, but to ignore the religion’s profound influence on Lucy’s impressions of
+the school would be a gross oversight.
+The school’s Catholic character and its mode of controlling and regulating those
+under its care are deeply woven together. Brontë frequently links the two, as when Lucy
+first walks the allée défendue: “I saw by a light in the oratory window that the Catholic
+household were then gathered to evening prayer—a rite, from attendance on which, I now
+and then, as a Protestant, exempted myself.” (118). She voluntarily excludes herself from
+the school’s Catholic ritual, choosing instead to walk in the garden. In doing so she
+comes across “an alley, which ran parallel with the very high wall on that side the garden
+[which] was forbidden to be entered by the pupils” (119). Lucy has this time to herself to
+walk the alleyway because she is an outsider, because she feels out of place in the
+community of the school during their lecture. The other students are drawn into the ritual,
+but Lucy is allowed to walk free.
+It is also important to note that the students are not allowed to walk the allée
+défendue. It is one of the many strictures and safeguards in place in the pensionnat to
+prevent transgressions. The alleyway divides the girls’ quarters and the boys’, as the
+letter dropped by de Hamal falls into this very alleyway that divides the two buildings. It
+is a physical gendered boundary to separate the students and prevent the sort of taboo rule
+breaking which, of course, de Hamal seeks to engage in with Ginevra. Lucy’s ability to
+
+68
+
+walk the alley is specifically because she is a teacher, as it is forbidden to students only,
+but it is worth noting that the other teachers never do; it is “narrow,” overgrown, and
+strictly abandoned after dusk. Until M. Paul walks with Lucy later in the novel, no other
+teacher is seen traversing it. This combined with the fact that Lucy walks it because she is
+not a member of the Catholic society of the school makes a spider’s thread of a link
+between Lucy’s religion and her privilege in walking the alley.
+The link becomes more specifically gendered just after Lucy introduces the alley;
+she notes that “any girl setting foot there would have rendered herself liable to as severe a
+penalty as the mild rules of Madame Beck’s establishment permitted” (119). The alley
+divides young men and women, but punishment is only noted as falling upon the women
+of the school. The Rue Fossette is predominantly a society of women, excluding the male
+faculty and Dr. John, but it is nonetheless fascinating that such modes of control are
+leveled against women, in precisely the way that Peschier argues that British antiCatholic discourse specifically focused on the need to protect young women from its
+threat. Like general British fears of the time, it would seem that Villette too focuses on “a
+nexus of sexual fear” (Shuttleworth 226) of women’s susceptibility to the confessional. In
+Brontë’s vision of Catholicism, control is externalized; with all her desire to withhold and
+coolly control her desires, Lucy is a paragon of internal control. The women of the Rue
+Fossette, however, require constant external supervision by those who run the school.
+The alley is a strict physical dividing line; rather than relying on the students to know
+where the conceptual line between virtue and dishonor lies, the school draws a literal one.
+In the moment in which Madame Beck is arguably most open about her methods,
+Lucy narrates:
+
+69
+
+[S]he seemed to know that keeping girls in distrustful restraint, in blind ignorance,
+and under a surveillance that left them no moment and no corner for retirement,
+was not the best way to make them grow up honest and modest women; but she
+averred that ruinous consequences would ensue if any other method were tried
+with continental children—they were so accustomed to constraint, that relaxation,
+however guarded, would be misunderstood and fatally presumed on (81).
+In this vicious cycle, the women of the Rue Fossette mature completely without a
+knowledge of how to exercise self-control, thus necessitating further control from
+Madame Beck to prevent lapses. The allée défendue is not the only emblem of the
+school’s method of control externalized; Madame Beck’s whole system relies upon it.
+Torgerson draws a contrast to the Rue Fossette method when she writes, “The Protestant
+system is based on an internal control of both emotion and sexuality” (62). The
+responsibility for the school’s method of external control lies somewhere with both the
+French continental nature of its students and their Catholicism. Protestantism emphasizes
+a one-to-one relationship with God, without worldly intercessors such as confessional or
+saints. The emphasis is placed on the self, and the ability to maintain that relationship
+with God within oneself. Thus Brontë draws the method of the Rue Fossette, with all
+strict controls outside of the self, even closer to Catholicism by highlighting this contrast.
+Through their upbringing in a system with such luxuries as the confessional19 which
+allows them to forgo developing a sense of self-control, Villette paints an image of a
+group of women atrophied by their religion, grown decadent and indolent. This control is
+
+19
+
+Lucy emphasizes that “ ‘J’ai menti plusieurs fois’ [I have lied many times] formed an item of every girl’s
+and woman’s monthly confession: the priest heard unshocked, and absolved unreluctant” (91). The women
+of the Rue Fossette are punished for trivial offenses such as novel-reading (which of course Lucy knows
+the reader will scoff with her about, as he/she is in the act of reading a novel) yet forgiven for lying.
+
+70
+
+portrayed as highly damaging, and Lucy reacts by clinging still tighter to her favored
+methods of control. She will not indulge in emotional outbursts as others such as Ginevra
+do. As discussed in the first chapter, Lucy’s power lies in her ability to withhold an
+emotional reaction longer than those around her. When Madame Beck searches her room
+suspecting an entanglement between Lucy and Dr. John, it brings on a tumult of emotion
+for Lucy; Madame Beck presuming upon an attraction which in fact exists on Lucy’s end
+unreciprocated sends her into waves of “soreness and laughter, and fire, and grief” all at
+once. She narrates, “Complicated, disquieting thoughts broke up the whole repose of my
+nature. However, that turmoil subsided: next day I was again Lucy Snowe” (152-3). She
+sequesters the part of her that feels complicated, passionate emotions; implicitly, she
+views that part as not-Lucy Snowe. An emotional reaction is somehow something outside
+of herself. In Madame Beck’s world of sharp surveillance, this is also a survival tactic by
+which Lucy may retain her view of herself as a person absolutely in control of her
+situation. She remains the ultimate surveillant.
+Characters who execute surveillance against her are a threat, unless, as with
+Madame Beck, Lucy may still watch them. It is in the very same allée défendue,
+however, that M. Paul watches Lucy without her knowledge. He observes her walks
+frequently, as well as watching her in other areas of the Rue Fossette with or without her
+knowledge, only revealing this fact later in the novel. When she is in the refectory, she
+spots “a cap-tassel, a brow, two eyes fill[ing] the pane of that window; the fixed gaze of
+those two eyes hit right against my own glance: they were watching me. I had not till that
+moment known that tears were on my cheek, but I felt them now” (304). The moment is
+more discomfiting than flattering; M. Paul seeks to observe Lucy at every opportunity
+
+71
+
+that is given him. Surveillance is an act which is executed in order to observe
+predominantly women, as they are seen as the ones in need of surveillance. It is not
+always executed by men, as Madame Beck is one of the primary surveillants of the novel,
+but it is executed by a male-dominated system, such as the Catholic Church or M. Paul
+himself. This system of surveillance emanates from various sources, yet almost always
+flows in a direction towards women. Just as in the discourse surrounding Catholicism in
+England at the time, the modus operandi of the Rue Fossette is portrayed as one which is
+a direct and constant threat to women. Lucy, the character who knows better through the
+benefit of her English upbringing, recognizes the environment as toxic, though the
+students do not.
+In 19th Century Anti-Catholic Discourses Peschier writes of the threat of the
+single woman as portrayed through Brontë’s writing:
+In England, the loneliness and self-sufficiency of a single woman is accepted as
+normal even though pitiable, whereas in Catholic Belgium the single woman is
+seen as dangerous, a person to be tamed, converted, even placed in a convent
+(140).
+As the women of the Rue Fossette cannot be trusted to regulate and control themselves,
+they would be a threat as single women. When Lucy arrives, however, her desire for selfcontrol is in direct conflict with the desire of the society around her to exert control over
+her. This threat is embodied in no figure more strongly than it is in the ghost of the nun.
+Lucy first introduces her as a character in the chapter titled “The Casket,”20 in which she
+
+20
+
+The chapter title refers primarily to the box dropped by de Hamal and discovered by Lucy, but as Villette
+is characterized by repetitions and echoes of motifs, characters and events, “The Casket” presumably also
+refers both to the nun’s burial and foreshadows the casket of letters that Lucy will later bury under the same
+tree.
+
+72
+
+ominously begins that “A vague tale went of a black and white nun, sometimes, on some
+night or nights of the year, seen in some part of this vicinage” (135). The Rue Fossette,
+formerly a convent, housed a nun centuries before who committed “some sin against her
+vow” (136) and for this offense was buried alive at the base of a pear tree which grows on
+the grounds.
+The nun is a complex figure for precisely the reason that she seems relatively
+straightforward at first. It is easy to write the nun off as a relatively simple Freudian
+symbol.21 The nun is buried for breaking her vows, which almost always refers to some
+sexual indiscretion; the act of live burial seems like a relatively simple metaphor for
+repression. It would in fact be easy to close the book on the nun by calling her a symbol
+for Lucy’s repressed sexual desires, appearing when she feels a sort of conflict which
+inspires in her romantic feelings. As Beth Torgerson’s essay deals with the subject of
+hysteria, her interpretation of the nun lines up with the doctor’s: “Dr. John’s reading of
+the nun as a ‘hallucination’ based on Lucy’s hysterical tendencies has validity once we
+connect the Victorian concept that the need for self-control, taken to its extreme, resulted
+in the manifestation of hysteric symptoms” (69). The concept certainly has some validity,
+and in fact I do not wish to dismiss it entirely; the nun expresses a matrix of complex
+emotions including Lucy’s inability to express any sort of powerful emotion freely,
+including her sexuality. However, what most indicates that this interpretation cannot be
+entirely true is in fact that Dr. John says it. The same man who calls Lucy “a being
+inoffensive as a shadow” (418) cannot possibly fully understand Lucy’s psyche. The
+point that Lucy stresses perhaps most forcefully throughout the novel is that other
+21
+
+It is just as important to note that assessing the nun as a Freudian symbol is also an anachronistic
+analysis, as Brontë writes before Sigmund Freud. It is a modern perspective imposed retroactively, which
+could potentially have some value, but would nonetheless require the anachronistic qualifier.
+
+73
+
+characters will consistently misrepresent and misunderstand her. To discern Lucy’s true
+nature, one would do best to believe the opposite of what characters say about her. Thus
+to write the nun off as a hysterical manifestation would not only be to oversimplify the
+novel, but also might be falling into the very traps that Lucy lays for her readers
+throughout the text, inviting them again and again to believe something about herself
+which is not true.
+Instead, it is more beneficial to take this interpretation of nun-as-repressedsexuality interpretation and combine it with the other factors involved. Lucy is in an
+environment which consistently seeks to stifle her agency and prevent her ability to move
+freely as a single woman. The Rue Fossette, defined by control, attempts to gain a hold
+on Lucy. The single woman as a figure who must be confined (as in a convent, as
+Peschier argues) is a specter that haunts Lucy made literal. The nun is the figure
+representative of this desire to control, in one sense the spirit of surveillance. When Lucy
+sneaks away to read Dr. John’s first letter, she feels a presence:
+Something in that vast solitary garret sounded strangely. Most surely and certainly
+I heard, as it seemed, a stealthy foot on that floor: a sort of gliding out from the
+direction of the black recess haunted by the malefactor cloaks. I turned…I saw in
+the middle of that ghostly chamber a figure all black or white…Say what you
+will, reader—tell me I was nervous, or mad; affirm that I was unsettled by the
+excitement of that letter; declare that I dreamed: this I vow—I saw there—in that
+room—on that night—an image like—a NUN (322-3).
+Dr. John’s letters seem to cause more internal conflict for Lucy than even interacting with
+him in person. She drops vague allusions to the fact that she longs for them to be love
+
+74
+
+letters, but accepts that they are not and will not be at any time. The aforementioned
+moment in which she spots Madame Beck searching through them is proof of this; she is
+wracked by powerful emotions she cannot or will not name. She knows that, on the one
+hand, she will remain blameless in Madame Beck’s eyes, but simultaneously, she might
+just prefer not to be innocent of a love affair. Later when she buries the letters in a casket,
+she takes special pains to draw parallels between the burial of the letters and a real burial;
+she lingers “like any other mourner, beside a newly-sodded grave” (391) and chapters
+later dreams of hair “still golden and living” (480) protruding from the casket she has
+buried.
+In this sense, the nun is at least in part a representation of her withheld desires.
+The symbolic link in the fact that she buries the letters on the same ground that the nun
+condemned for indiscretions was buried is impossible to ignore. The letters represent the
+feelings for Dr. John that she cannot control and the stream of hopes and wishes that flow
+unbidden which she is attempting to stem. When she is reading Dr. John’s letters, the nun
+appears, again in response to her desires rising to the surface. The identity of a nun is so
+bound up inextricably with sexuality; the vow of chastity is tied inherently to its image,
+and the buried nun makes the link all the more definitive. Peschier writes that “Nuns are
+seen as women out of their natural and proper womanly sphere [and] they are therefore
+marked as potentially threatening, and undesirable” (86). If Lucy were to admit her
+nature as a woman who feels desire and is also single, she would be a social pariah. Such
+a concept was, if not taboo, at least entirely unacceptable to express in Victorian England.
+Nuns are seen as threatening for similar reasons through Protestant eyes of the time; they
+fulfill a role that is unnatural, and Peschier also points out that priests and nuns were
+
+75
+
+perceived as being too idle and “for this reason in danger of being overcome by their
+animal passions and lapsing into immoral behavior” (72). The nun is both a sexual and
+asexual threat, representing the danger of a figure who has no viable place in society. Is
+this what the nun represents for Lucy? She, like Bertha in Jane Eyre, could be a
+representation of the danger of being split in two: a woman both consumed by, and
+ostensibly defined by a lack of, desire. Lucy would fit this character; others believe her
+unworthy of notice, even unworthy of love, but even from what passion she does allow
+readers to see, they can deduce a fiery character beneath.
+This reading of the nun, however, ignores the revelation of its true nature. The
+nun stalks Lucy at vulnerable moments, appearing, for instance, after she buries Dr.
+John’s letters. Because she has just symbolically put her love for him to rest, she laments
+that she can no longer take solace in telling him, “I have again seen the nun” (392). She
+also appears, perhaps most notably, when Lucy and M. Paul walk together in the allée
+défendue. This moment is important especially because it is the first time the nun appears
+when another person is present other than Lucy, putting to rest her fears that the ghost is a
+figment of her exhausted and depressed mind. In addition, having discussed the
+importance of the allée défendue as a representative of external control, a physical
+boundary separating young men and women to prevent their unchaste mingling, it is
+highly significant that the nun appears in this location. The nun walks this liminal
+boundary, just as Lucy does, unconstrained by the concept of what a transgression it is in
+the text. In this way, portraying the nun only as a symbol of sexual constraint is too
+reductive. The nun and her vow of chastity are objectively a symbol of forced restraint, in
+Victorian England even a symbol of unnatural feminine denial of the role of women. This
+
+76
+
+ghostly nun instead breaks such bonds, traversing a distinctly gendered boundary. Later,
+it is revealed that the ghostly nun that so plagues Lucy’s mind is in fact de Hamal in
+disguise, using the costume of a nun to gain access to the girls’ dormitory to visit
+Ginevra.
+This revelation changes the whole nature of the nun as a symbol. Lucy comes
+upon her costume in her opiate-addled state, returning to her room to find “stretched on
+[her] bed the old phantom—the NUN” (624). It turns out to be the costume of the nun,
+left there by de Hamal, by its very location proof that he has entered the girls’ dormitory.
+The costume of a nun permits, and in fact empowers de Hamal to cross gender
+boundaries. The nun cannot therefore be solely a symbol of constraint; it must also be
+observed at least partially as a symbol of freedom, at least from gender roles.
+The allée défendue would seem to be the primary stomping ground for the novel’s
+rampant motif of surveillance. It is the location in which de Hamal is most likely to be
+spotted, most in danger of being caught in the act of crossing the boundary placed there
+by the Rue Fossette for the protection of the virtues of its students. It is the location
+where M. Paul most often watches Lucy, which he casually admits to her later. In a
+moment that is more telling than it at first appears, Dr. John begs Lucy to go out into the
+allée to pick up another parcel which has been dropped for Ginevra. He tells her, “Go at
+once; pick it up and bring it here…nobody will take notice of you: I should be seen”
+(158). In one sense, he is wrong, because Lucy is constantly being taken notice of,
+whether she realizes it or not. In another sense, he reveals the allée as the most dangerous
+place for a man to be. Even a man who regularly moves about the school freely (as a
+doctor he frequently enters the girls’ quarters) must be careful not to alert the gendered
+
+77
+
+surveillance of the alleyway and its forbidden nature. This is why the nun is so powerful:
+in her guise, de Hamal can pass freely across something that is an insurmountable
+boundary even to one such as Dr. John. In discussing Lucy’s performance in the school
+play, Gilbert and Gubar write, “Though cross-dressing can surely signal self-division,
+paradoxically it can also liberate women from self-hatred, allowing for the freer
+expression of love for other women” (413). Though they are not writing about de
+Hamal’s cross-dressing specifically, the idea at the core of it nonetheless rings true. De
+Hamal’s nun, instead of being a symbol of repression and sexual constraint instead
+becomes the vehicle of expression for sexual freedom (which de Hamal is presumably
+expressing quite frequently with Ginevra). Instead of being a disguise, a shameful
+concealment, a splitting of the soul, cross-dressing in Villette provides tremendous power,
+perhaps the power to overcome the victimhood of the hapless surveillance subject.
+Though initially terrified of her forced performance in the play, Lucy seems to
+find herself in it; or rather, to find confidence in not being herself. She notices that
+Ginevra is consciously acting “at” Dr. John. She narrates,
+There was language in Dr. John’s look, though I cannot tell what he said; it
+animated me: I drew out of it a history; I put my idea into the part I performed; I
+threw it into my wooing of Ginevra. In the ‘Ours,’ or sincere lover, I saw Dr.
+John. Did I pity him, as erst? No, I hardened my heart, rivaled and out-rivalled
+him. I knew myself but a fop, but where he was outcast I could please” (181).
+She utterly places herself into her role, as many good actors do. This is remarkable
+especially when one considers that this is the same Lucy who separates her outbursts of
+emotion and other unacceptable feelings into a not-Lucy, the same Lucy who, upon
+
+78
+
+regaining her composure and her sense of self-control says, “next day I was again Lucy
+Snowe” (153). For her to speak in the role of the fop while maintaining first person,
+identifying the character as part of herself, is of massive import. She is not fully crossdressing, as she purposely refuses to don full male costume, accepting only a jacket to
+wear over her dress. Her dress is therefore something between genders, a hybrid; this
+mixed cross-dressing allows her a freedom, and she takes what appears to be truly
+genuine joy from the liberty that this affords her. Like de Hamal in the nun’s costume,
+she is liberated through her performance.
+These two instances of cross-dressing as freedom might seem unexpected; de
+Hamal’s dress allows him to pass unobserved, while Lucy’s costume is for the benefit of
+observers, heightening surveillance, it would seem. The self-consciousness of her
+performance frees her, allowing her to acknowledge and accept observers and, in fact, to
+glory in them. It is yet another way of freeing herself from surveillance, even if in the
+process she might seem to gain more observers. Because she is acting, drawing the
+audience’s gaze towards a character, it frees the true Lucy from observation. In a sense,
+this is a microcosm of Lucy’s unknowable character in the novel. As evidenced by her
+behavior in attempting to avoid detection and avoid releases of information about herself
+that she has not specifically sanctioned, her whole self-concealing mode of action is an
+attempt to escape surveillance. As every character attempts to know and understand
+Lucy, she artfully uses Kucich’s concept of repression to conceal herself, to prevent their
+discovering who she truly is. Their constant surveillance is an attempt to conquer her
+efforts, to see her when she is unaware that she is being watched, to somehow observe
+her true self without her realizing that she has been observed. Thus, she acts; when she
+
+79
+
+shows Ginevra what appears to be an emotional outburst, it is in fact highly controlled:
+“half in earnest, half in seeming, I made it my business to storm down Ginevra” (424). In
+a game in which her object is to remain concealed and others’ objective is to reveal her,
+she could not survive without a measure of acting ability. This very ability she exhibits
+with great skill. It is a survival tactic, a way for her to pass freely and undetected
+throughout the Rue Fossette, itself an allée défendue writ large.
+Diana Peschier writes, “The text of Villette contains too many internal
+contradictions to be read as purely anti-Catholic. For example, Lucy Snowe’s attitude
+towards the Roman Church is by no means consistently hostile, and more importantly her
+‘saviour’ is a Jesuitical Catholic” (149). This is why it is so difficult to make a conclusive
+statement, to condemn or laud Charlotte Brontë for her treatment of Catholics in Villette.
+While the biographical facts of how Charlotte Brontë the historical and literary figure
+viewed Catholicism are relatively two dimensional, laid out in letters and writings,
+Villette as spoken through an implied author’s voice is considerably more difficult. For
+instance, the reason I have thus far left M. Paul as a character and as a Catholic
+untouched is because he says much, and yet says nothing at all, about Charlotte Brontë’s
+perception of Catholics. To call M. Paul Lucy’s “saviour” and use it as evidence for
+Charlotte Brontë’s open-mindedness proves just as problematic as citing her rhetoric as
+evidence that she is blindly hateful of Catholicism. Marianne Thormählen brings up an
+excellent point in her text, The Brontës & Religion. She writes, “Paul possesses qualities
+which render a union with him feasible from a religious point of view. Despite his
+reverence for his Jesuit confessor, he is too intelligent and open-minded to cling to what
+Lucy calls his prejudices when they are cogently challenged” (35). Thus he is the
+
+80
+
+embodiment of what Charlotte Brontë meant when she wrote that “there are some good
+Catholics,” that is, that M. Paul is acceptable as a potential partner for Lucy because he
+listens to “reason” (which is to say, Lucy’s views) and does not dismiss her out of hand.
+To pass a value judgment on this element of the text is thus to dismiss not only its
+complexities, but the complexities to be gained from an analysis of the content of this
+anti-Catholic rhetoric.
+Brontë’s work, dismissed as anti-Christian upon its publication, is often now
+called too preaching, too Christian. Thormählen most eloquently sums up the nature of
+these critiques which, it seems, have been dismissive since Villette was published. She
+writes, “Any criticism against the conduct of clergymen, and against opinions and values
+commonly held by Anglican Christians, expressed in the Brontë novels has always been
+interpreted as a more or less covert repudiation of the Christian faith” (7). Many critics
+fall into this trap of viewing, for instance, M. Paul as a redemption for Catholicism in
+Villette just as St. John Rivers is viewed as a representative of religion made flesh in Jane
+Eyre. Thormählen points out, “The Christian life is a foreign country to most people
+today, and I believe it serves some purpose to be reminded that to the Brontës it was
+home, with the occasional irritations as well as the manifold blessings of the domestic
+sphere” (9). To make any one character a representative and a model would be to ignore
+the complexities of the text, just as attempting to place a stamp of “good” or “bad” on
+Brontë’s attitudes towards Catholicism reduces the text to flatness. In a moment
+reminiscent of her burial of the letters, Lucy narrates, “I almost wished to be covered in
+with earth and turf, deep out of their influence” (204). She desperately desires to be away
+from the watchful gaze of others, from their ability to penetrate to her innermost
+
+81
+
+character. A rejection of Catholicism intricately plays a role in this desire; it is telling in
+more ways than one that Lucy wishes for a live burial rather than subject herself to “the
+surveillance of a sleepless eye.”
+
+Conclusion
+As Villette draws to a close, Charlotte Brontë’s ever-patient readers are readying
+themselves for the finale. In spite of the fact that continuously throughout the novel Lucy
+has sought to upset any and all narrative conventions she can, and the fact that readers
+have just come out the other side of a chapter-long digression into an opium-induced
+hallucination, the novel appears to be climbing towards a cathartic close. Lucy just barely
+begins to hint at the outcome of M. Paul’s voyage, and just as she insinuates that there
+may have been a storm and a shipwreck, she halts:
+Here pause: pause at once. There is enough said. Trouble no quiet, kind heart;
+leave sunny imaginations hope. Let it be theirs to conceive the delight of joy born
+again fresh out of great terror, the rapture of rescue from peril, the wonderous
+reprieve from dread, the fruition of return. Let them picture union and a happy
+
+82
+
+succeeding life. Madame Beck prospered all the days of her life; so did Père Silas;
+Madame Walravens fulfilled her ninetieth year before she died. Farewell (657).
+Though it gives no information, this closing is heartbreaking because of the satisfaction
+that it does not allow its readers. Firstly, Lucy ends the narrative the way she begins it: a
+spectator. Just as she begins a mere observer in the interaction between Polly and
+Graham, Lucy again sidelines herself in the closing of her own narrative, giving only the
+sunny fates of the three characters who worked hardest to prevent her from receiving a
+cathartic marriage plot ending with M. Paul. Secondly, the narrative denies readers any
+semblance of closure in its ending. Readers are forced to confront the fact that they are
+allowed neither to mourn M. Paul’s drowning nor celebrate his survival and reunion with
+Lucy. When a novel closes with a simple “missing, presumed dead,” readers have no
+sense of what emotions they should feel, what they are allowed to feel, or what is natural
+to feel. By refusing to conform to any baseline structures of the natural way to end such a
+narrative, Villette also denies its readers the ability to draw on any stored knowledge of a
+standard expected reaction to the ending of most novels.
+The power in this ending comes in that it forces readers to confront their concept
+of how the story “shouldn’t” end; most readers, at least, react with a sense of the
+wrongness of the conclusion of Villette.22 In reacting this way, readers must also confront
+their preconceived lexicon of just how a novel should end. When readers react to what
+they see as a narrative event that should not happen, they are by that very fact thinking of
+what they think ought to occur at the point in the narrative in which they are reading.
+
+22
+
+And, in fact, was the reaction of Rev. Patrick Brontë, who may be responsible for the ambiguous ending;
+Charlotte originally wrote the story to end with M. Paul drowning, but her father told her it was too bleak
+and urged her to change it. Unwilling to give the novel an entirely happy ending, Charlotte took his advice
+and made it an undefined ending instead.
+
+83
+
+Implicit in this realization is the question of why readers believe that something, or
+anything even, should happen in a novel. In life few things follow such neat plotlines as
+readers expect in novels; characters in real life narratives do not always get what they
+deserve and plot lines are left without satisfying resolutions all the time. Because it falls
+into the period-appropriate genre of realist fiction, Villette forces readers to confront,
+should they pause for a moment to consider further, the nature of expectations which
+tropes and clichés encourage. There are few things more out of place in reality than
+predictable endings; why then do readers tolerate them in novels which take place in what
+is meant to be a photorealistic imitation of the real world? In order to force her readers to
+consider this question, Brontë must necessarily shock and startle them out of the
+unconscious act of reading.
+This digs to the heart of what Villette aims to accomplish: by creating unsettling
+gaps between the expectation and the reality of the narrative, it forces readers to view the
+inner workings through the veil of fiction. Throughout the novel Lucy seeks to expose the
+scaffolding underlying the structure of writing. She reveals the working cogs in what
+otherwise might appear to be a smoothly-oiled, lifelike machine, instead making the gulf
+between reality and reading all the wider. She jars her readers again and again out of the
+seamless process of consuming a text. To absorb a narrative is so often to consume it as if
+it were a true account of life; hordes of book lovers weeping over the deaths of characters
+are a testament to this. There is a certain comfort in coming to know and understand a
+novel and its characters, in feeling as if one has been transported to live another life.
+Villette refuses to allow this out-of-self experience to run smoothly. Instead, it seeks to
+
+84
+
+throw its readers into turbulence, to disrupt and shake them from the easy, comforting
+flow of the expected.
+This willingness to expose the conceit of the narrative means that Villette may be
+read by many as an unpolished and failed narrative. The unexpected digressions, rather
+than planned upsets to the status quo, could easily be seen as narrative clumsiness,
+manifesting a poor ability to edit out information and keep the story on track. Lucy’s
+attitude towards her readers could be read as an ill-fated attempt at an unreliable narrator,
+resulting in one so unfailingly unlikable as to render her story unreadable. Ultimately, I
+believe these interpretations to be a result of a surface-level reading, the product of a
+reader falling into the very trap which the novel seeks to expose: the trap of assuming
+naïveté before deviousness. Villette constantly attempts to elicit the question from its
+readers of whether the narrative is intentionally unconventional or accidentally poorlywritten. The measure of its success in this endeavor comes in how often readers are
+disrupted from suspending their disbelief. Rather than being an artistically imperfect
+narrative, Villette in fact confronts the looming trope of the realist novel head-on and toys
+with it in magnificent and unsettling ways.
+In this study I have sought to do more than merely defend an often-overlooked
+novel. Rather than a failure to create a linear and cohesive story, Villette is instead a
+shimmering success of meta-fiction. The questions it draws out, the tropes it upends and
+the reactions it elicits are all a testament to its attainment of its goals rather than the
+hallmarks of its failure. I chose therefore to focus on the three elements that readers most
+often find problematic in the novel in the hopes of addressing what may be an overly
+hasty dismissal of the novel. Readers so often find Lucy’s unwillingness to disclose
+
+85
+
+information to her audience abrasive and unfriendly, and on the surface it may seem such.
+I have attempted to address the contradictions that lie below the surface of her behavior.
+It is not merely that Lucy acts unfriendly but is not; in fact, she is difficult to reach
+because she wishes her readers to attempt to reach her. Problematic though it may be, it is
+an element of the narrative style rather than a failing of the author to create a likeable
+Jane Eyre-esque confidante. Secondly, readers who reach past Lucy’s withholding nature
+often find her compulsive desire to control all about herself and her narrative before her
+reader’s eyes grating and frustrating. This narrative move, withholding while disclosing
+that she is keeping information to herself, forces readers to confront the fact that she is by
+no means more withholding than any other narrator. What annoys them is the fact that
+she admits to it. Every narrator, after all, is unreliable by nature; every story told in
+present tense is manipulating time, every story that attempts photorealism falls short of
+true experience, every story that omits the most minor detail has fallen short of an
+absolute truth. What defines unreliable narrators is whether or not they let slip their
+technique. Finally, those long-suffering readers who have come to terms with Villette’s
+unfriendly narrator and her withholding nature are often struck by how small-minded and
+xenophobic Lucy’s religious attitudes are. I seek to tread a line between acknowledging
+Charlotte Brontë’s own Protestant sentiments against Catholicism while still pointing out
+the narrative function that the motif serves, as a complex representative of the fear of
+surveillance and external control. This is by no means an exhaustive account of the
+problematics of Villette; its elements are diffuse, and part of its benefit lies in its endless
+inexhaustibility. There are as many interpretations, complaints and defenses for the novel
+as there are readers.
+
+86
+
+In this study I do not seek to ignore the flaws in Villette, in Lucy, the narrative, or
+in the author herself. I do not wish to hail a literary second coming or claim that the work
+is impenetrable to real valid criticism. Instead, I have written at such length about a single
+novel’s perceived flaws in order to provoke a sense of awe. To condemn a novel is
+sometimes valid, but to marvel in sheer disbelief at how a work was accomplished is to
+reach for the pure joy of reading. Putting Villette into context creates a texture so rich in
+material, a landscape in which readers may consider what makes the novel extraordinary.
+Villette opens itself up beautifully to both modern and historical psychological analyses,
+in spite of being written before Freud changed the whole landscape of the field. Charlotte
+Brontë as a member of the class of single women, a group largely incapable of making its
+voice heard in the Victorian era, created a novel with such a unique voice that it remains
+a critical subject more than 150 years later. A provincial, plain, middle-class woman in a
+time when those flaws mattered still more than they do today created a work that
+transcended her relatively short life and grew even larger than herself. To halt and
+reconsider the hidden merits of a text which one has too quickly written off is to discover
+a treasure in a spot where one had already searched, and this sense of wonder is the
+highest goal of reading. Criticism loses its luster when it forgets that what reading
+eventually comes back to is a shared joy between the reader and the written.
+
+87
+
+Works Cited
+Basch, Françoise. Relative Creatures: Victorian Women in Society and the Novel. Trans.
+Anthony Rudolf. New York: Schocken, 1974. Print.
+Booth, Wayne C. The Rhetoric of Fiction. Chicago: University of Chicago, 1961. Print.
+Brontë, Charlotte. Jane Eyre. London: Penguin Classics, 2008. Print.
+Brontë, Charlotte. Villette. New York: A. Knopf, 1992. Print.
+Case, Alison A. Plotting Women: Gender and Narration in the Eighteenth- and
+Nineteenth-Century British Novel. Charlottesville: University of Virginia, 2005.
+Print.
+Dickens, Charles. Bleak House. New York: Knopf, 1991. Print.
+Duthie, Enid L. The Foreign Vision of Charlotte Brontë. New York: Barnes & Noble,
+1975. Print.
+Gaskell, Elizabeth. The Life of Charlotte Brontë. London: Everyman's Library, 1984.
+Print.
+Gezari, Janet. Charlotte Brontë and Defensive Conduct: The Author and the Body at Risk.
+Philadelphia: University of Pennsylvania, 1992. Print.
+Gilbert, Sandra M., and Susan Gubar. The Madwoman in the Attic: The Woman Writer
+and the Nineteenth-Century Literary Imagination. New Haven: Yale UP, 1979.
+Print.
+Gordon, Lyndall. Charlotte Brontë: A Passionate Life. New York: W.W. Norton, 1995.
+Print.
+
+88
+
+Kermode, Frank. The Art of Telling: Essays on Fiction. Cambridge, MA: Harvard
+University Press, 1983. Print.
+Kucich, John. Repression in Victorian Fiction: Charlotte Brontë, George Eliot, and
+Charles Dickens. Berkeley: University of California, 1987. Print.
+Perkin, Joan. Victorian Women. New York: New York University Press, 1995. Print.
+Peschier, Diana. Nineteenth-Century Anti-Catholic Discourses: The Case of Charlotte
+Brontë. New York: Palgrave Macmillan, 2005. Print.
+Shuttleworth, Sally. Charlotte Brontë and Victorian Psychology. Cambridge: Cambridge
+University Press, 1996. Print.
+Sternlieb, Lisa Ruth. The Female Narrator in the British Novel: Hidden Agendas.
+Houndmills, Basingstoke, Hampshire: Palgrave, 2002. Print.
+Stewart, Garrett. Dear Reader: The Conscripted Audience in Nineteenth-Century British
+Fiction. Baltimore: Johns Hopkins University Press, 1996. Print.
+Tayler. Holy Ghosts: Male Muses of Emily and Charlotte Brontë. Chichester: Columbia
+University Press, 1990. Print.
+Thormählen, Marianne. The Brontës and Religion. Cambridge: Cambridge UP, 1999.
+Print.
+Torgerson, Beth E. Reading the Brontë Body: Disease, Desire, and the Constraints of
+Culture. New York: Palgrave Macmillan, 2005. Print.
+Warhol, Robyn. Gendered Interventions: Narrative Discourse in the Victorian Novel.
+New Brunswick: Rutgers University Press, 1989. Print.
+Wein, Tony “Gothic Desire in Charlotte Brontë’s Villette” from Studies in English
+Literature, 1500-1900, Vol. 39, No. 4, The Nineteenth Century (Autumn, 1999),
+
+89
+
+pp. 733-746. Rice University. <http://www.jstor.org/stable/1556271>
+Weinstone, Ann. "The Queerness of Lucy Snowe." Nineteenth-Century Contexts: An
+Interdisciplinary Journal 18.4 (1995): 367-84. Print.
+
+

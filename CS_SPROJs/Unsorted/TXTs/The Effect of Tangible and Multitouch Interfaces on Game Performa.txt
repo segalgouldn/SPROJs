@@ -1,0 +1,2550 @@
+Bard College
+
+Bard Digital Commons
+Senior Projects Spring 2011
+
+Bard Undergraduate Senior Projects
+
+2011
+
+The Effect of Tangible and Multitouch Interfaces on
+Game Performance
+Michael Walker
+
+Recommended Citation
+Walker, Michael, "The Effect of Tangible and Multitouch Interfaces on Game Performance" (2011). Senior Projects Spring 2011. Paper
+94.
+http://digitalcommons.bard.edu/senproj_s2011/94
+
+This Access restricted to On-Campus only is brought to you for free and
+open access by the Bard Undergraduate Senior Projects at Bard Digital
+Commons. It has been accepted for inclusion in Senior Projects Spring
+2011 by an authorized administrator of Bard Digital Commons. For more
+information, please contact digitalcommons@bard.edu.
+
+The Eﬀect of Tangible and Multitouch
+Interfaces on Game Performance
+
+A Senior Project submitted to
+The Division of Science, Mathematics, and Computing
+of
+Bard College
+by
+Michael Walker
+
+Annandale-on-Hudson, New York
+May, 2011
+
+Abstract
+
+Over the past few years, the video game industry has seen an explosion of innovative
+new interfaces. From touch-based mobile games on the Apple iPhone and Nintendo DS
+to console titles on the Nintendo Wii and Xbox Kinect requiring players to physically
+move around their living rooms, the definition of ‘video game controls’ has expanded far
+beyond the traditional controller. Although such novel control schemes have been met with
+unarguable commercial and critical success, little research has been done to explore the
+eﬀectiveness of these interfaces from the standpoint of user performance: we do not know if
+touch- and tangible-based interfaces make us better gamers, or to what extent they might.
+This paper explores this question, specifically looking at how such interfaces can improve
+player performance by providing a more natural and direct means of interacting with the
+game and by enabling players to multitask more eﬃciently in-game. To accomplish this, a
+game was developed for the Apple iPad that was designed to be controlled in three diﬀerent
+ways: a traditional joystick interface, a multi-touch interface, and a tangible interface
+with a physical game piece, each with optional multitouch gestures. A custom automated
+analytics system was built on top of the game, allowing quantitative performance data to
+be gathered from user testing sessions held with Bard students.
+
+Contents
+
+Abstract
+
+1
+
+Dedication
+
+5
+
+Acknowledgments
+
+6
+
+1 Introduction
+7
+1.1 Tangible Game Interfaces . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8
+1.2 Touch-Based Interfaces . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9
+1.3 Twin-Stick Shooters . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11
+2 Design Considerations
+2.1 Overview . . . . . . . . . .
+2.2 Movement . . . . . . . . . .
+2.2.1 Dual Stick . . . . . .
+2.2.2 One Finger . . . . .
+2.2.3 Tangible Game Piece
+2.3 Gestures . . . . . . . . . . .
+3 Research
+3.0.1
+3.0.2
+3.0.3
+3.0.4
+
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+
+12
+12
+14
+15
+16
+17
+18
+
+Methodology
+Pre-Play Interview . . . .
+Explanation of the Game
+Playing the Game . . . .
+Post-Play Interview . . .
+
+.
+.
+.
+.
+
+.
+.
+.
+.
+
+.
+.
+.
+.
+
+.
+.
+.
+.
+
+.
+.
+.
+.
+
+.
+.
+.
+.
+
+.
+.
+.
+.
+
+.
+.
+.
+.
+
+.
+.
+.
+.
+
+.
+.
+.
+.
+
+.
+.
+.
+.
+
+.
+.
+.
+.
+
+.
+.
+.
+.
+
+.
+.
+.
+.
+
+.
+.
+.
+.
+
+.
+.
+.
+.
+
+.
+.
+.
+.
+
+.
+.
+.
+.
+
+.
+.
+.
+.
+
+.
+.
+.
+.
+
+.
+.
+.
+.
+
+.
+.
+.
+.
+
+.
+.
+.
+.
+
+.
+.
+.
+.
+
+21
+21
+22
+23
+24
+
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+
+4 Results
+25
+4.1 Interviews . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 25
+4.1.1 Prior Gaming Experience . . . . . . . . . . . . . . . . . . . . . . . . 25
+
+Contents
+
+4.2
+
+4.3
+
+4.4
+
+4.1.2 Preferred and Most Natural Interfaces . .
+Analytics . . . . . . . . . . . . . . . . . . . . . .
+4.2.1 Data Analysis Methodology . . . . . . . .
+4.2.2 Overall Performance . . . . . . . . . . . .
+4.2.3 Performance Over Time . . . . . . . . . .
+4.2.4 Performance Over All Three Play Sessions
+4.2.5 Gesture Usage by Interface . . . . . . . .
+Further Analysis . . . . . . . . . . . . . . . . . .
+4.3.1 Participant 4 . . . . . . . . . . . . . . . .
+4.3.2 Participant 11 . . . . . . . . . . . . . . .
+Future Research . . . . . . . . . . . . . . . . . .
+4.4.1 Improved Tangible Hardware . . . . . . .
+4.4.2 Isolation of Gesture Components . . . . .
+
+3
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+25
+26
+26
+26
+29
+29
+31
+33
+33
+37
+38
+39
+39
+
+A Initial UML Diagram of Game Engine
+
+44
+
+B Documents Submitted for IRB Approval
+
+45
+
+Bibliography
+
+46
+
+List of Figures
+
+2.0.1 Trigonometry Wars, a twin-stick shooter for the iPad. . . . . . . . . . . . .
+2.2.1 Movement and rotation are controlled independently by two virtual joysticks.
+2.2.2 Both rotation and movement can be controlled with a single finger. . . . . .
+2.2.3 Construction of the tangible game piece. . . . . . . . . . . . . . . . . . . . .
+2.2.4 The tangible interface in action. . . . . . . . . . . . . . . . . . . . . . . . . .
+2.3.1 Drawing a circular gesture triggers a powerful targetted attack. . . . . . . .
+
+12
+16
+17
+18
+19
+20
+
+4.2.1 Average score over time . . . . . . . . . . .
+4.2.2 Average gestures used over time . . . . . . .
+4.2.3 Score over time for each participant. . . . .
+4.3.1 Score over time for participant 4 . . . . . .
+4.3.2 Gestures over time for participant 4 . . . .
+4.3.3 Base points lost over time for participant 4
+4.3.4 Score over time for participant 11 . . . . . .
+4.3.5 Gestures over time for participant 11 . . . .
+
+30
+31
+32
+35
+36
+36
+38
+39
+
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+
+A.0.1High-level overview of the initial design of the game engine . . . . . . . . . 44
+
+Dedication
+
+This senior project is dedicated to the memories of all of the orange and pink squares that
+bravely gave their lives for the sake of this project.
+
+Acknowledgments
+
+Major thanks are in order to Keith O’Hara, my senior project advisor, as well as all of my
+teachers, friends, family, and everyone else who doesn’t fit neatly into one of those groups
+but who nonetheless deserves acknowledgement for all the support they’ve given me.
+
+1
+Introduction
+
+Until relatively recently, video game controls had been largely unchanged since the proliferation of the first generation of video games in the early 1980s. The number of buttons
+had increased, and the ergonomic shape of controllers had certainly improved, but with a
+few notable exceptions the fundamental paradigm of a plastic controller with buttons and
+a directional pad or joystick remained a constant.
+The past few years, however, have seen an explosion of new game interfaces depending
+on tangible and multitouch input. The wild commercial success of Nintendo’s DS and Wii
+consoles and the increasing popularity of Apple’s iOS App Store as a gaming platform as of December 2010, the Wii has sold 84.64 million units worldwide1 to the Playstation
+32 and the Xbox 360’s3 50 million each, despite the Xbox 360 having been released a full
+year earlier than the Wii - are clear indicators that these new interfaces have been widely
+accepted by gamers of all kinds.
+1 http
+
+: //www.nintendo.co.jp/ir/library/historical data/pdf /consolidated sales e1012.pdf
+: //www.gamespot.com/news/6308755.html
+3 http : //www.gamespot.com/news/6285921.html
+2 http
+
+1. INTRODUCTION
+
+8
+
+Despite this surge in popularity, little to no research has been done on the eﬀectiveness
+of these new interfaces; while there is a wealth of user interface research on tangible and
+multitouch interfaces in traditional computing, it has yet to be shown that moving away
+from a traditional game controller has a practical eﬀect on gaming beyond attracting
+consumer interest.
+This project explores the eﬀect these new mechanisms of controlling games have on
+player performance. In short, it is trying to answer the question of whether the way a gamer
+physically interacts with a game aﬀect their ability to succeed at the game. Specifically, this
+project uses a twin-stick shooter developed for the Apple iPad to target two facets of this
+question: the ways in which traditional, multitouch, and tangible controls each aﬀect player
+performance, and how each of these interfaces aﬀects usage of multitouch gestures designed
+as a simultaneous secondary input. Through qualitative interviews and quantitative ingame analytics data gathered from test sessions, this project aims to provide an increased
+understanding of how players respond to diﬀerent levels of tactility and direct manipulation
+in game interfaces, with the hope that it will aid game designers to come up with more
+successful innovative game interfaces in the future.
+
+1.1 Tangible Game Interfaces
+The best-known example of tangible interfaces in gaming today is the Wii gaming console,
+released by Nintendo in 2006. Instead of using a standard video game controller, the
+system features a wireless remote control-like device outfitted with accelerometers and
+an infrared sensor. Although it can be modified using its expansion port to gain the
+same number of buttons and joysticks one would find on a more standard modern game
+controller, many games take advantage of the motion sensors to provide what could be
+described as tangible game experiences. In Nintendo’s title Wii Sports (bundled with the
+Wii hardware), players are asked to swing the Wii Remote as one would a tennis racket
+
+1. INTRODUCTION
+
+9
+
+while playing the Tennis game, or mimic the actions of throwing it like a bowling ball in
+the Bowling game. The Wii has been both a critical and commercial success for Nintendo.
+However, it is diﬃcult to show decisively that the success of the Wii is due to its more
+physically engaging control scheme than to one of a multitude of other factors (Nintendo’s
+aggressive marketing campaign, a library targeted at a wider audience of ‘casual’ gamers,
+etc).
+The Wii games considered to use motion-based controls the most eﬀectively are, generally speaking, not playable using a conventional control scheme. Their closest non-motion
+competitors tend to diﬀer greatly in feature sets and core game mechanics. Conventional
+tennis games, for example, allow the player to move around freely and to accurately aim
+each shot with precise button controls, almost as if they were programming the outcome.
+Since it is so easy to control where your shot lands, the challenge comes largely from
+moving your player around the court appropriately. Wii Tennis, in contrast, controls the
+characters for the player, but the outcome of each shot is determined by the manner and
+timing in which the player swings their Wii Remote. The basic challenge of the game
+comes not from moving to the ball, but in hitting the ball the precise right way. The
+same can be said of touch-based interfaces; the most commercially successful iPhone and
+Android games tend to be the ones whose controls focus on direct manipulation of the
+game elements using multitouch.
+
+1.2 Touch-Based Interfaces
+Touch-based interfaces have been around for decades, although they have traditionally
+been used primarily for mobile devices. Perhaps popularized with the Apple Newton in
+1994 and then the PalmPilot in 1997, the first generations of touch-based devices relied on
+pressure-based resistive touch detection, and almost universally relied on a stylus for input.
+
+1. INTRODUCTION
+
+10
+
+Although the Palm platform found some minor success as a game device, the Nintendo
+DS was the first mainstream success using this sort of technology for gaming.
+More recently, Apple’s iOS devices and other touch-based smartphones have gained
+popularity as gaming devices. The iPhone and iPad detect touches using electrical capacitance, rather than pressure. This has two practical eﬀects. First, a stylus is unwieldy, as
+all touches need to come from an organic source or capacitive material connected to an
+organic source. While this has not proved a major technical issue for stylus manufacturers
+(in South Korea, frozen sausages have skyrocketed in sales recently as iPhone users found
+they were eﬀective in controlling their phones in the cold weather), this design decision
+encourages a model of direct manipulation, with users touching user interface elements on
+the screen directly rather than using an intermediary object such as a stylus.
+Secondly, capacitive-based touchscreens allow for multitouch. Each iOS device can detect up to 11 simultaneous unique touch points, as opposed to the one allowed by resistive
+screen technology. Research studies have suggested that multitasking using multiple hands
+(as in a multitouch iOS device) is more eﬃcient: a 1986 study found that asking users to
+multitask with a two-handed input system resulted in better performance from both novice
+and advanced users, as well as a lessened skill gap between novice and advanced users[2].
+Furthermore, a 2009 study conducted at the University of Massachusetts Lowell found that
+100% of test participants asked to perform gestures to control robots used multi-hand gestures without any prompting; while users with iPhone experience were significantly more
+likely to use gestures found in iOS such as the pinch gesture, this propensity towards
+multitasking was universal among test participants[7].
+Given the prevalence of studies such as these, it would appear that there is something
+inherently appealing about multitouch interfaces. While such research has not previously
+been performed in the field of gaming specifically, it is not hard to see how multitouch
+
+1. INTRODUCTION
+
+11
+
+interfaces might be used to make interfaces that allow gamers to perform better without
+an increase in innate skill.
+
+1.3 Twin-Stick Shooters
+The game designed for this project is a ‘twin-stick shooter’, a genre that originated in 1982
+with the arcade title Robotron: 2084 but has since seen a comeback on the iOS platform.
+While most arcade games in the early 1980s featured large scrolling levels, Robotron placed
+the player inside a fixed game space with unlimited incoming waves of enemies. Instead
+of the then-standard control scheme of a single joystick for movement and a fire button,
+it featured two joysticks, allowing the player to fire in a direction other than the one the
+character was moving in. These design considerations became the hallmarks of the genre:
+nearly all twin-stick shooters place the player in a fixed space with the goal of killing as
+many enemies as possible before either the player dies or a fixed amount of time elapses,
+and give the player the ability to independently control their character’s movement and
+direction of fire.
+Recently, twin-stick shooters have become one of the most heavily represented genres
+on both the iPhone and iPad App Stores, an impressive achievement given that games
+are arguably the largest emerging market on the iOS platform. With a few notable exceptions, almost all of these iOS twin stick-shooters share a common control scheme: two
+on-screen ‘virtual joysticks’ that players manipulate as if they were physical joysticks (a la
+Robotron). It is interesting that, despite the range of expression possible with Apple’s multitouch interface, twin stick shooter developers have chosen to closely emulate an interface
+developed for a 1980s arcade game.
+
+2
+Design Considerations
+
+Figure 2.0.1. Trigonometry Wars, a twin-stick shooter for the iPad.
+
+2.1 Overview
+Trigonometry Wars is a twin-stick shooter developed for the Apple iPad. Both the genre
+of game and the ‘virtual joystick’ control scheme described in the previous section are
+well-established in the iOS gaming community, serving as strong reference points to base
+the study on. Furthermore, the wide possibilities aﬀorded by the multitouch surface of
+the iPad mean there are a number of possible interfaces that can be explored that vary
+greatly from each other and from the traditional ‘virtual joystick’ method.
+The game places the player in control of a red triangle surrounded by a series of yellow
+circle base points representing the players health. As enemies (colored squares) enter from
+
+2. DESIGN CONSIDERATIONS
+
+13
+
+all sides of the screen and attempt to attack the players base points, the player is tasked
+with destroying the enemies while evading their attacks.
+Specifically, there are two kinds of enemies: pink squares and orange squares. The orange
+squares are slower, but have more health and deal more damage. All enemies select one
+base point to attack, and continually move towards that base point, damaging it when
+they touch. When the base point being attacked is destroyed, the enemy randomly selects
+a diﬀerent base point to attack.
+Enemies are spawned in ten-second waves. Within a wave, the game tests every 0.7
+whether it should spawn an enemy; the spawn probability increases with each wave, meaning that later waves have more enemies than earlier ones. When an enemy is to be spawned,
+it is randomly chosen whether it is a pink or orange enemy. Each subsequent wave also
+increases the speed, total health, and damage dealt by each enemy at a linear rate. Once
+a player destroys all the on-screen enemies for a given wave, the player is given a brief
+(three-second) break before the next wave begins spawning.
+To destroy the enemies, the player has two attacks. In the twin-stick shooter tradition,
+the players avatar shoots a continuous stream of bullets that can damage the enemies.
+Furthermore, the player can drop a bomb by drawing a circle anywhere on the screen.
+The bomb damages all enemies within the circles radius; the amount of damage dealt
+is inversely proportional to the size of the circle, forcing players to balance the trade-oﬀ
+between the number of enemies targeted versus how much they are damaged. The use
+of bomb gestures is unlimited, with their relatively large damage compared to the weak
+bullets encouraging players to use them as much as possible.
+When an enemy or a base point is damaged or destroyed, the damaged object flashes
+red and a sound eﬀect is played. There are five of these sound eﬀects in total (one each for
+damaging and destroying an enemy or base point, and one for a successful bomb gesture),
+all in a lo-fi electronic style evoking early arcade games. For further feedback, the player’s
+
+2. DESIGN CONSIDERATIONS
+
+14
+
+current wave and score is displayed at all times. Score is accumulated by killing enemies:
+a pink enemy is worth 200 points and an orange enemy 300.
+Overall, the visual and aural aesthetic of the game is intended to be as nondescript as
+possible to let the controls be the more noteworthy part of the experience. The particularly
+large size of the players avatar (the area made up of the red triangle avatar and the circle of
+base points amounts to a relatively significant portion of the total screen size) is designed
+to encourage the player to move frequently, as the large size makes the player a particularly
+easy target for the increasing number of enemies. The sharp diﬃculty curve that progresses
+from wave to wave is intended to overwhelm the player to some extent, encouraging them
+to make use of both their bombs and bullets to keep the enemies at bay if they were not
+in the earlier levels. The unlimited use of the bombs is anotherkey point in guiding player
+strategy, with all of these factors collectively hoping to encourage players to multitask as
+much as possible by moving and using the gestures simultaneously.
+The game’s control interface can be divided up into two aspects: the movement, and
+the secondary multitouch ‘bomb’ gesture.
+
+2.2 Movement
+As described in Section 1.3, a defining characteristic of twin-stick shooters is the ability
+to control the direction of firing independently of the direction of movement. Three control schemes were developed with these considerations in mind: a traditional dual-stick
+interface, a multitouch interface, and a tangible interface.
+It is worth noting that creating a game designed to be played with three very unique
+interfaces is problematic; as mentioned in Section 1.1, the games generally considered to
+use tangible and multitouch interfaces most eﬀectively are ones that use them in such a
+way that the game would not be playable with a traditional controller. Such an approach
+to design, while useful for creating interesting new game experiences, does not easily allow
+
+2. DESIGN CONSIDERATIONS
+
+15
+
+for a quantitative comparison of interfaces. Subsequently, Trigonometry Wars has been
+designed such that each method of movement appears well-suited to the twin-stick genre,
+even if it is perhaps not the most innovative use of each interface.
+
+2.2.1
+
+Dual Stick
+
+The first control scheme is the dual stick interface traditionally found in the game genre.
+Two virtual joysticks are present on-screen at all times, one on the bottom-left corner of
+the screen and one on the bottom-right. Figure 2.2.1 shows the location of each of these
+joysticks on the game screen, as well as a visual demonstration of how each functions.
+The bottom-right stick controls the attack angle: placing ones finger anywhere in the
+circle causes the player avatar to turn and face the angle equivalent to where the finger
+lies relative to the center of the circle.
+The left joystick controls movement. After setting a finger down inside the circle, moving
+in a direction causes the player avatar to move in that direction with a speed relative to
+how far the finger has been moved. This is meant to more closely emulate an analog
+joystick, where pushing harder in a direction causes more of an eﬀect.
+The chief benefit of this control scheme is its familiarity, as it is a control scheme
+that most players who would consider themselves gamers should be instantly at home
+with. It also provides a clear distinction between movement and rotation, as the two
+axes of movement are spatially diﬀerentiated. One potential weak point with this control
+scheme is its higher level of abstraction – other than by gaming convention, manipulating
+virtual joysticks would appear to have little relation to moving the on-screen character.
+Additionally, it requires two hands to fully operate, meaning that performing secondary
+gestures requires temporarily giving up some level of control.
+
+2. DESIGN CONSIDERATIONS
+
+16
+
+1
+
+2
+
+3
+
+4
+
+Figure 2.2.1. Movement and rotation are controlled independently by two virtual joysticks.
+
+2.2.2
+
+One Finger
+
+The second control scheme, as seen in Figure 2.2.2, is still based on touching the screen,
+but does not rely on virtual joysticks. Tapping within the circle surrounding the player
+avatar and then moving one’s finger controls both rotation and movement. Moving the
+finger within a small radius of the triangle character results in the triangle turning in the
+direction of the finger while staying stationary. Dragging the finger farther away from the
+triangle results in it moving in the direction indicated by the finger, as if it is following
+the finger.
+This control scheme both oﬀers more direct manipulation of the avatar than the dual
+stick control scheme and requires only one hand, allowing the player to perform gestures
+with their secondary hand while still controlling movement and rotation. The clear limitation of this control scheme is that it does not allow simultaneous independent control of
+movement and rotation. While it is possible to rotate without moving, one cannot move in
+one direction while firing in a diﬀerent direction, a common tactic in twin-stick shooters.
+
+2. DESIGN CONSIDERATIONS
+
+17
+
+1
+
+2
+
+3
+
+4
+
+Figure 2.2.2. Both rotation and movement can be controlled with a single finger.
+
+2.2.3
+
+Tangible Game Piece
+
+The third and final control scheme is a tangible one. Rather than interacting with the
+multitouch screen, the player moves around a physical game piece on the screen, with
+the on-screen avatars location and rotation directly mirroring that of the game piece.
+Technically, this is accomplished using capacitive foam and fabric glued to a knob-like
+plastic cylinder approximately one inch in diameter (see Figure 2.2.3). On the base of
+the piece are three pieces of capacitive foam arranged in an isosceles triangle formation;
+all other visible surfaces of the game piece are covered in two large pieces of capacitive
+fabric, with each piece of foam connected to these large pieces via smaller strips of fabric.
+When the player moves the game piece, the capacitance in their fingers transfers through
+the fabric and foam, causing the multitouch screen to register each foam piece as a touch
+point. From there, it is trivial to calculate the position and angle of the game piece using
+triangulation. A red triangle has been drawn on the top of the piece, showing the player
+
+2. DESIGN CONSIDERATIONS
+
+18
+
+which direction the game piece is facing while providing an aesthetic link to the player’s
+in-game avatar.
+Capacitive foam glued to bottom of the game piece.
+Foam pieces placed in isoscles arrangement to
+easily determine the front of the piece.
+Sides of the piece covered in
+capacitive fabric, maintaining a connection
+between the player’s hand and the
+multitouch surface.
+Thin strip of capacitive fabric used to
+complete the capacitive connection,
+sandwiched between the foam and the
+bottom of the piece.
+
+Figure 2.2.3. Construction of the tangible game piece.
+A potential advantage of this control scheme is the increased range of control aﬀorded
+by the physical piece. It oﬀers the distinction between movement and rotation that the
+dual stick controls oﬀer, but with the gestural freedom and sense of direct manipulation
+aﬀorded by the second control scheme. It is also hypothesized that interacting with a
+tangible object, rather than the flat screen, will cause players to be more engaged in the
+game experience.
+The drawbacks of the physical piece are also clear. The piece being used is relatively
+large, and it is possible that it will obscure the players view of the screen. Additionally,
+with a real-world object, real-world restrictions come into place; it is possible that the
+player could knock over the piece and lose precious game time reorienting themselves in
+the game, something that is not an issue with the previous control schemes.
+
+2.3 Gestures
+At the time of testing, Trigonometry Wars has one possible multitouch gesture: at any
+time, the player can draw a circle on-screen and all enemies within the radius of the circle
+will be damaged. An example of this can be seen in Figure 2.3.1, where two enemies are
+killed with a single gesture.
+
+2. DESIGN CONSIDERATIONS
+
+19
+
+Figure 2.2.4. The tangible interface in action.
+Furthermore, the eﬀect of the gesture is aﬀected by the nature of the circle drawn.
+The larger the radius of the circle, the less damage is dealt to enemies, forcing the player
+to make a decision: a small focused circle can kill a weaker enemy in one attack, but
+drawing a larger circle can do more widespread damage across many enemies (the number
+of enemies aﬀected has no bearing on how much damage is dealt to each enemy). This
+is designed specifically to take advantage of the nature of multi-touch interfaces, as the
+way the gesture functions makes it impractical to implement on a game controlled via
+traditional gamepad or keyboard and mouse.
+
+2. DESIGN CONSIDERATIONS
+
+20
+
+1
+
+Score: 0
+
+3
+
+Score: 0
+
+2
+
+4
+
+Score: 0
+
+Score: 400
+
+Figure 2.3.1. Drawing a circular gesture triggers a powerful targetted attack.
+
+3
+Research Methodology
+
+Testing participants were solicited from within the Bard community. Although the test
+pool was limited to current Bard students at least 18 years of age, no eﬀort was made
+to specifically target participants who would or would not identify as gamers, with the
+expectation that the final group of participants would naturally contain members of both
+demographics.
+Participants underwent the test process individually, scheduled in half-hour time slots.
+Each participant was asked a few preliminary interview questions, and then played the
+game three times, spending five minutes on each control scheme, and being asked a series
+of questions after each play. The sessions were video recorded, allowing interviews to be
+conducted without any distraction caused by note-taking.
+
+3.0.1
+
+Pre-Play Interview
+
+The following questions were asked of each participant before having them play the game.
+The aim of these questions was to establish a basic profile of the participant to take into
+consideration when assessing their game performance.
+
+3. RESEARCH METHODOLOGY
+
+22
+
+1. Would you describe yourself as a gamer? If so, what genres of games do you like to
+play?
+2. What sort of experience with games do you have?
+3. Any experience with twin stick shooters / tower defense?
+4. Do you own an iPhone or an iPad? How about another multitouch smartphone?
+5. Do you have any experience with iPad or iPhone gaming?
+6. If so, can you give a few examples of your favorite game interfaces?
+7. Are you left- or right-handed?
+
+3.0.2
+
+Explanation of the Game
+
+After this first interview session, each player was given a brief description of the games
+rules: each was told that they were playing as a red triangle, surrounded by a series of
+yellow circles that represent their life points. They were then told that orange and pink
+squares were going to come onto the screen and try to attack the life points. If a life point
+was attacked enough times, it would die. If they all died, the participant would lose. The
+participant was told to attack and kill the red squares with their gun to get points, and
+the gun was always firing. Enemies would spawn indefinitely, only stopping if the player
+died or when five minutes had elapsed.
+After this, the first control scheme was explained to the participant, followed by the
+gesture. They were told that at any time they could draw a circle on the screen to drop a
+bomb, damaging everything inside the circle. It was explained that the larger the radius
+of the circle, the less the damage, so they would have to deal with the trade-oﬀ between
+attacking a large number of enemies weakly or dealing a more focused amount of damage to
+
+3. RESEARCH METHODOLOGY
+Event
+Stopped moving/rotating
+Base point damaged for the first time
+Base point was destroyed
+Damaged an enemy for the first time
+Destroyed an enemy
+Successfully made a gesture
+Drew an unrecognized gesture
+Damaged an enemy with a gesture
+A new wave was started
+Score increased
+The player has lost
+
+23
+Data Collected
+Location and angle
+Location and angle
+Location and angle, base points remaining
+Location and angle, enemy location and type
+Location and angle, enemy location and type
+Bounding rectangle of the circle
+Enemy type
+Wave number
+Total score
+Final wave number and score
+
+Table 3.0.1. Events and data collected by analytics system
+
+a smaller number of enemies. They were encouraged to end the circle gesture at roughly the
+same point they began it, as a means of helping the gesture recognizer function properly.
+
+3.0.3
+
+Playing the Game
+
+They then spent five minutes each with the remaining two control schemes. The order in
+which the interface methods were presented varied from participant to participant, chosen
+in such a manner so as to ensure even distribution for each possible order combination; with
+six possible configurations and thirteen test participants, this means that each arrangement
+was presented to two diﬀerent participants, with one arrangement being presented a third
+time. Furthermore, the games random number generator was set to a fixed seed, ensuring
+that each player experienced the exact same enemy spawn rate pattern.
+The analytics system created for the game tracked any notable in-game events, allowing
+me to review each game session after the fact and analyze each players performance.
+Whenever a notable game event occurs, the event was logged into a database, along with
+the time it occurred (as a Unix timestamp), which control method was being used, a
+key uniquely identifying the participant, and various pieces of pertinent data. Table 3.0.1
+details the events logged and the data collected.
+
+3. RESEARCH METHODOLOGY
+
+24
+
+The game sessions were video recorded, so that the analytics data could be crossreferenced with the video footage of the physical interaction between the participant and
+the iPad; it was assumed that such data would prove useful in situations where correlating physical movement with in-game performance could be useful, such as if a participant
+appeared to be having diﬃculty moving the tangible piece.
+
+3.0.4
+
+Post-Play Interview
+
+After each game trial, the participants were asked about the easiest and most diﬃcult
+elements of the control method they just used. After the third five-minute session, a
+further series of questions were asked of the participants:
+1. Which control format did you prefer? Why?
+2. Which control format felt more natural?
+3. How did you feel about the items that used multitouch gestures?
+4. What aspects of the game were the most diﬃcult?
+5. What aspects of the game were the easiest?
+6. Was the game fun? Why do you think you enjoyed it?
+The intent behind these questions was to provide insight into the players qualitative
+experience playing the game; the in-game analytics would provide ample quantitative data
+about how game performance varied from interface to interface, while this interview would
+serve to explore the participants emotional reactions to the diﬀerent control methods.
+It was suggested at this project’s midway board that the post-play questions be revised to generate more numerically quantifiable answers, including more pointed lines of
+inquiry and an introduction of Likert scale ratings. A more specific set of questions was
+re-submitted to the IRB, but a response was not received prior to testing.
+
+4
+Results
+
+4.1 Interviews
+Tables 4.1.1 and 4.1.2 aggregate the quantifiable interview questions asked of each participant before playing the game and after completing all three game sessions.
+
+4.1.1
+
+Prior Gaming Experience
+
+While an overwhelming majority of participants did not describe themselves as ‘gamers’,
+each participant reported having experience with multiple games of diﬀerent genres and
+platforms. 10 of the 13 participants mentioned having played Pokemon, Nintendo 64,
+or Playstation games when they were younger. 11 of the participants reported owning a
+multitouch phone, and all 13 reported familiarity with at least one smartphone game (with
+9 participants specifically mentioning the iPhone and Android game Angry Birds).
+
+4.1.2
+
+Preferred and Most Natural Interfaces
+
+Table 4.1.3 displays the user-reported numbers for which interfaces were preferred and
+which were considered the most natural, as well as how many participants scored highest
+on each interface out of the three. While only one participant preferred the dual stick
+
+4. RESULTS
+
+26
+
+interface, four described it as the ‘most natural’; when pressed, the four participants each
+indicated that their choice was based on it being the most familiar of the control schemes,
+since it was also the most conventional. Interestingly, three of these four participants did
+not list any experience with the sort of games that would use a dual-stick control scheme,
+and none of these three self-identified as a gamer.
+
+4.2 Analytics
+4.2.1
+
+Data Analysis Methodology
+
+The SQLite database containing all of the analytics data gathered during the testing
+sessions (see Table 3.0.1) was entered into a custom-built statistical plotting application
+written using JavaScript with the jQuery framework, the graphic library Flot, and HTML5
+Local Databases. This allowed simple generation of tables and charts based on any pieces of
+data taken from an individual participant or taken in aggregate over the set of participants.
+
+4.2.2
+
+Overall Performance
+
+Table 4.4.1 shows the final score and number of gestures for each control scheme for each
+participant, as well as the mean across all participants. Recall that points are rewarded
+when enemies are killed, with the easier enemy type worth 200 points and the more diﬃcult
+one worth 300. This punishes players who lost and had to restart the game partway through
+a five-minute session, as the earlier waves have less enemies, making it more diﬃcult to
+rack points quickly. Subsequently, the final cumulative score for a player represents roughly
+how successful they were at an aggressive oﬀense, with a built-in penalty for failing to play
+defensively enough.
+Although it is clear in Table 4.4.1 that the mean final score for the tangible interface
+was higher than that of the one finger interface, and both were in turn higher than the
+dual stick interface, performing a one-way repeated-measure ANOVA test on the data
+
+13
+
+12
+
+11
+
+10
+
+9
+
+8
+
+7
+
+6
+
+5
+
+4
+
+3
+
+2
+
+1
+
+Participant
+
+No
+
+“Moderately”
+
+Yes
+
+Yes
+
+No
+
+No
+
+No
+
+No
+
+Yes
+
+No
+
+No
+
+No
+
+Identifies as
+a Gamer
+No
+
+iPhone, iPad
+
+iPhone, iPad
+
+Android
+
+iPhone
+
+iPhone
+
+iPhone
+
+iPod touch
+
+Android,
+iPhone
+Android
+
+None
+
+iPod touch
+
+None
+
+Multi-Touch
+Experience
+Android
+
+Right
+
+Right
+
+Right
+
+Left
+
+Right
+
+Right
+
+Right
+
+Left
+
+RIght
+
+Left
+
+Right
+
+Right
+
+Dominant
+Hand
+Left
+
+Tangible
+
+One Finger
+
+One Finger
+
+One Finger
+
+Dual Stick
+
+One Finger
+
+One Finger
+
+Tangible
+
+One Finger
+
+One Finger
+
+One Finger
+
+Tangible
+
+Preferred
+Interface
+One Finger
+
+Table 4.1.1. Demographic interview data and preferred interfaces
+
+Dual Stick, Tangible,
+One Finger
+One Finger, Dual
+Stick, Tangible
+Tangible, One Finger,
+Dual Stick
+Dual Stick, Tangible,
+One Finger
+One Finger, Tangible,
+Dual Stick
+Tangible, Dual Stick,
+One Finger
+Dual Stick, One
+Finger, Tangible
+One Finger, Dual
+Stick, Tangible
+Tangible, One Finger,
+Dual Stick
+Dual Stick, Tangible,
+One Finger
+One Finger, Tangible,
+Dual Stick
+Tangible, Dual Stick,
+One Finger
+Dual Stick, One
+Finger, Tangible
+
+Interface Order
+
+Tangible
+
+Dual Stick
+
+Tangible
+
+Dual Stick
+
+Dual Stick
+
+One Finger
+
+One Finger
+
+One Finger (Dual
+Stick for aiming)
+Dual Stick
+
+One Finger
+
+Tangible
+
+Tangible
+
+Most Natural
+Interface
+One Finger
+
+4. RESULTS
+27
+
+4. RESULTS
+
+28
+
+Participant
+1
+
+Reported Prior Gaming Experience
+Online/phone games: mostly Angry Birds and Tron. Used
+to play Playstation action/adventure/platformers
+Mostly board games. As far as video games go: Call of Duty:
+Modern Warfare, Modern Warfare Zombies (iPhone), Angry
+Birds.
+Pokemon, Super Smash Bros, Starcraft 2, Halo, Doodle
+Jump (iPhone)
+Nintendo 64, Mario, The Sims, Angry Birds
+Nintendo 64, Game Boy, RPGs, Construction-based sims
+such as Roller Coast Tycoon, Age of Empires, Alchemy (Android game)
+Zelda on SNES, Pokemon, Bejeweled, Angry Birds
+Nintendo 64, Game Boy, Boggle on iPhone
+Angry Birds, an iPhone labyrinth game (occasionally),
+prefers PC to console
+Super Smash Bros, anything multiplayer, Angry Birds
+World of Warcraft and other MMOs, Magic: The Gathering,
+Pokemon, Angry Birds, lots of iPhone twin-stick shooters.
+Reads gaming webcomics.
+RPGs, platformers, games with good story elements, Angry
+Birds, Playstation emulator on Android
+Lots of iPhone and iPad games. Does not like Angry Birds.
+Civilization, Sim City (iPhone, iPad and PC), Pokemon
+
+2
+
+3
+4
+5
+
+6
+7
+8
+9
+10
+
+11
+12
+13
+
+Table 4.1.2. Reported prior gaming experience
+
+Interface
+One Finger
+Dual Stick
+Tangible
+
+# Preferred
+9
+1
+2
+
+# Most Natural
+5
+4
+4
+
+# Actual Best
+6
+1
+6
+
+Table 4.1.3. Interface preferences for all participants, reported and actual
+
+4. RESULTS
+
+29
+
+found the interface used to have no significant eﬀect on the mean final score (F (2, 24) =
+3.07, p = 0.08, partial η 2 = 0.87). For this ANOVA test, Mauchly’s test did not show a
+violation of sphericity against interface (W (2) = 0.93, p = 0.86). An alpha level of 0.05
+was used for all statistical tests.
+
+4.2.3
+
+Performance Over Time
+
+To paint a more complete picture of the relationship between each interface and the
+participant’s scores, Figures 4.2.1 and 4.2.2 show how the mean score and number of
+gestures used for each control method increased over the five-minute game period. Figure
+4.2.3 shows the score over time for each individual participant.
+
+4.2.4
+
+Performance Over All Three Play Sessions
+
+The bottom three rows of Table 4.4.1 show the average score and gestures for each interface
+grouped by what order the participant played the game in. This corroborates a commonsense claim: as a participant plays the game, their skill will improve over time.
+A one-way ANOVA test was performed on the final score for each play session grouped
+by whether it was the first, second, or third play session for a participant. Mauchly’s test
+did not show a violation of sphericity against play order (W (2) = 0.72, p = 0.16). With
+one-way repeated-measure ANOVA, a significant eﬀect of play order on final score was
+found (F (2, 24) = 8.21, p = 0.01, partial η 2 = 0.87). However, running a pairwise t-test
+with Bonferroni correction on the data yielded p > 0.05 for all permutations.
+Table 4.4.3 displays each participant’s set of final scores grouped both by interface and
+order played, allowing easy comparison across any of these metrics. To help contextualize
+this data, Table 4.4.2 shows the diﬀerence between a participant’s final score for a given
+interface and the score they received on the first interface they played, with a value of 0
+indicating that was the first interface the participant played.
+
+4. RESULTS
+
+30
+
+The negative values that appear in Table 4.4.2 represent play sessions where the player
+actually performed worse in that interface as their second or third play session than they
+did on their first play session. It is perhaps worth noting that out of the six participants
+who performed worse in a later play session than their first, only participants 10 and
+11 scored worse using an interface that was not the dual-stick control scheme; those two
+participants also have the distinction of being the only two participants who performed
+better on their first play session than both of their subsequent sessions.
+
+Figure 4.2.1. Average score over time
+
+4. RESULTS
+
+31
+
+Figure 4.2.2. Average gestures used over time
+
+4.2.5
+
+Gesture Usage by Interface
+
+Looking at the mean gestures for each interface in Table 4.4.1, it is evident that participants
+on the whole used more gestures with the one finger and tangible interfaces than with the
+dual stick control scheme. As discussed earlier, common sense would indicate this to be
+the case: the dual stick interface requires two hands to control movement and aim, making
+performing gestures diﬃcult.
+A one-way ANOVA test was performed on the number of gestures performed by each
+participant for each interface. Mauchly’s test did not show a violation of sphericity against
+
+4. RESULTS
+
+32
+
+Figure 4.2.3. Score over time for each participant.
+
+interface (W (2) = 0.73, p = 0.18). With one-way repeated-measure ANOVA, a significant
+
+4. RESULTS
+
+33
+
+eﬀect of interface on the number of gestures was found (F (2, 24) = 8.21, p < 0.01, partial
+η 2 = 0.89).
+Running a pairwise t-test with Bonferroni correction on the data yielded a p value of
+1.00 for a comparison of the One Finger and Tangible interfaces. For the tests comparing
+Dual Stick versus One Finger and Dual Stick versus Tangible, p = 0.08 and p = 0.01,
+respectively.
+Furthermore, running a similar one-way repeated-measure ANOVA test grouping the
+gestures by the order of the play session showed no significant eﬀect of order played on the
+number of gestures (F (2, 24) = 3.26, p = 0.07, partial η 2 = 0.75). As before, Mauchly’s
+test did not show a violation of sphericity against interface (W (2) = 0.60, p = 0.06).
+What can be said based on this statistical data is that participants used more gestures
+using the tangible interface than the dual stick interface. Furthermore, the order of play
+did not aﬀect the number of gestures used in a statistically significant way: that is, participants did not on the whole appear to increase their gesture usage as they became more
+experienced at the game. One noteworthy exception to this can be seen in participant 4.
+
+4.3 Further Analysis
+4.3.1
+
+Participant 4
+
+Of all the participants, Participant 4 was by far the most proactive user of gestures. The
+participant used 100 gestures with the dual stick control scheme, 209 with the tangible
+finger, and 230 with the one finger interface; only two of the other twelve participants used
+more than 100 gestures in any given play session, and no others even came close to using
+100 gestures with the dual stick interface.
+Looking further into Participant 4’s play habits reveal a number of other interesting
+statistics. The participant’s final scores for the tangible and single-finger interfaces were
+28,800 and 26,600, respectively; compared to the 23,000 scored with the dual stick inter-
+
+4. RESULTS
+
+34
+
+face, this diﬀerence is relatively insignificant. The same can be said for the diﬀerence in the
+number of gestures used: while there was relatively little diﬀerence between the number of
+gestures used in the tangible and one-finger interfaces, fewer than half as many gestures
+were used with the dual stick control scheme.
+Most telling, however, is Participant 4’s behavior over time. Figure 4.3.2 shows the
+participant’s gesture usage over the course of each play session. About 150 seconds in,
+there is a sharp increase in the rate at which the participant used gestures with the dual
+stick controls. After the 150-second mark, the participant uses gestures at roughly the
+same rate as the other two control schemes. This makes logical sense when considered
+with the participant’s total gesture usage: the increase in use came approximately halfway
+through the dual stick session, and the number of gestures for that session is just under
+half that of the other two sessions. Looking at the participant’s score over time (Figure
+4.3.1) shows a similar pattern: shortly after 150 seconds, the participant’s rate of score for
+the dual-stick scheme sees a marked increase, with the line roughly parallel to the lines
+representing the other interfaces.
+The most likely cause for this pattern becomes clear upon considering that the dual
+stick control scheme was the first played by the participant. It would appear that about
+halfway through the participant’s first game, the participant decided that using a significant number of gestures was a viable strategy. The participant then proceeded to use that
+strategy for the second half of the current play session and the entirety of the next two
+play sessions. The video footage from the play session gives credence to this theory: at a
+time about a third of the way through the first play session (roughly corresponding with
+the first marked increase in gesture use), the participant is heard commenting, “wow, it’s
+so much easier!” immediately after killing a number of enemies with a series of gestures
+in quick succession.
+
+4. RESULTS
+
+35
+
+Also interesting to note is the eﬀect that the gestures had on the participant’s base points
+in the dual stick control scheme. Looking at the participant’s base point loss over time in
+Figure 4.3.3, the only time the participant lost any base points occurred while performing
+gestures with the dual stick control scheme. Looking at the video footage, the participant
+had diﬃculty juggling the two control schemes. The participant, who is right-handed,
+only performed gestures with the right hand while playing with the dual-stick controls,
+meaning that the participant was unable to move the character away from enemies while
+performing gestures. Interestingly, while the participant continued to perform gestures
+exclusively with the right hand when using the one finger interface (moving the character
+with the left hand), the participant switched hands regularly while using the tangible
+interface.
+
+Figure 4.3.1. Score over time for participant 4
+
+4. RESULTS
+
+36
+
+Figure 4.3.2. Gestures over time for participant 4
+
+Figure 4.3.3. Base points lost over time for participant 4
+
+4. RESULTS
+
+4.3.2
+
+37
+
+Participant 11
+
+Participant 11 was one of only two participants to score highest on the first play session;
+that is, rather than improving from play session to play session, participant 11 actually
+performed worse over time. The participant’s three final scores were (in chronological
+order) 27,300; 26,900; and 26,600. While these scores are close enough that it is unlikely the
+participant got actively worse at the game, it is just as noteworthy that the participant’s
+scores were all within 700 points of each other – as shown in Table 4.4.2, nearly every
+other participant saw a much wider score gap between play sessions.
+One possible explanation is that the participant was one of the more experienced gamers
+in the study; out of the four participants who self-identified as gamers, participant 11 had
+the most experience with games similar to Trigonometry Wars. Although the participant
+claimed to be “bad” at twin-stick shooters, the participant was in fact the only one who
+was familiar with the genre terminology and did not require further explanation when
+asked about prior experience with twin-stick shooters. As such, the participant was more
+instantly familiar with the way the game functioned; instead of having to master the
+controls and the game system simultaneously, the participant was able to focus more of
+his attention purely on the presented interfaces.
+Reviewing the video footage from the participant 11’s test sessions reveals a few other
+factors at play. Using the dual stick control scheme, the participant had diﬃculty successfully performing gestures. A large number of attempts were made that were not recognized
+by the game as proper circles, almost certainly impacting the participant’s performance
+and final score.
+Perhaps most interesting was the participant’s interaction with the tangible control
+scheme. Specifically, the participant consistently used the right hand to control the tangible
+game piece and the left hand to perform gestures; out of the thirteen participants, a total of
+
+4. RESULTS
+
+38
+
+four used this tactic rather than alternating hands based on the position of the game piece.
+Out of the four participants who used the same hands throughout, all three performed
+gestures with their dominant hand. Participant 11, however, used the dominant hand for
+movement and the non-dominant hand for gestures. While this did not appear to aﬀect
+the participant’s gesture usage in a negative way (the participant used more gestures using
+the tangible interface than either of the other two), it is still very much worth noting.
+
+Figure 4.3.4. Score over time for participant 11
+
+4.4 Future Research
+After analyzing the results of the research presented in this paper, there are a number of
+clear actionable steps that could be taken to improve future work on this research.
+
+4. RESULTS
+
+39
+
+Figure 4.3.5. Gestures over time for participant 11
+
+4.4.1
+
+Improved Tangible Hardware
+
+One of the most frequent participant comments about the tangible game interface was the
+lack of responsiveness of the game piece. Further explorations into tangible game interfaces
+designed to interact with a capacitive touch screen would do well to improve upon both
+the hardware and software used for this paper. Part of the responsiveness issues appeared
+to be caused by the low-density capacitive foam used, which often required players to
+exert significant pressure to get the screen to register the touch points. Upgrading to a
+higher-quality foam such as is frequently used in commercial iPad styli would be likely to
+greatly improve the responsiveness of the game piece.
+
+4.4.2
+
+Isolation of Gesture Components
+
+A large portion of the ambiguity in the results of this study were due to being unable to
+ascertain whether or not diﬀerences in performance were caused by the way the interfaces
+
+4. RESULTS
+
+40
+
+encouraged or discouraged the usage of the multitouch gestures or rather a diﬀerent factor
+present in the interface design. To more definitively determine causation, it would be to
+illuminating to hold play sessions both with and without the gestures enabled, to see how
+the relative performance between the interfaces varied whether or not the players were
+asked to perform the secondary simultaneous gestures.
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+Avg
+Std. Dev.
+Played 1st
+Played 2nd
+Played 3rd
+
+Participant
+
+Total Gestures Used
+Dual Stick Tangible One Finger
+87
+131
+170
+48
+86
+27
+9
+13
+17
+100
+209
+230
+40
+87
+60
+29
+39
+53
+7
+94
+66
+67
+90
+97
+1
+4
+9
+2
+30
+0
+73
+105
+92
+1
+16
+3
+2
+18
+12
+36
+71
+64
+36
+59
+69
+40
+18
+69
+37
+112
+26
+31
+72
+92
+
+Table 4.4.1. Final performance data by participant
+
+Final Score
+Dual Stick Tangible One Finger
+21400
+23800
+28500
+24400
+27800
+19500
+21800
+19000
+22500
+23000
+28800
+28600
+18600
+25400
+22200
+18200
+18700
+18800
+13600
+27100
+24000
+20900
+23600
+22500
+18500
+15100
+19800
+18400
+17800
+17300
+26600
+26900
+27300
+15800
+16100
+17100
+15800
+22100
+17400
+19769
+22477
+21962
+3691
+4693
+4153
+18440
+17225
+22875
+19825
+24540
+20925
+21375
+25150
+22060
+
+4. RESULTS
+41
+
+4. RESULTS
+
+42
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+Avg
+Std. Dev.
+
+Dual Stick
+0
+4900
+2800
+0
+-3600
+-500
+0
+-1600
+3400
+0
+-700
+-300
+0
+338
+2204
+
+Tangible
+2400
+8300
+0
+5800
+3200
+0
+13500
+1100
+0
+-600
+-400
+0
+6300
+3046
+4297
+
+One Finger
+7100
+0
+3500
+5600
+0
+100
+10400
+0
+47000
+-1100
+0
+1000
+1600
+2531
+3486
+
+Table 4.4.2. Score diﬀerence from the first game played in each play session.
+
+4. RESULTS
+
+43
+
+1st
+
+2nd
+
+3rd
+
+1st
+
+1
+Dual Stick
+Tangible
+One Finger
+
+Dual Stick
+Tangible
+One Finger
+
+Dual Stick
+Tangible
+One Finger
+
+3rd
+
+1st
+
+2
+24400
+
+21400
+23800
+28500
+
+21800
+22500
+
+5
+
+28800
+
+25400
+
+23300
+
+6
+18200
+
+18600
+18700
+
+22200
+
+18800
+8
+20900
+
+13600
+27100
+24000
+
+9
+18500
+23600
+
+15100
+
+22500
+
+19800
+
+10
+
+11
+
+17800
+
+26900
+
+18400
+
+12
+15800
+
+26600
+17300
+
+16100
+
+27300
+
+17100
+13
+
+Dual Stick
+Tangible
+One Finger
+
+3rd
+
+19000
+
+19500
+
+4
+
+28600
+
+2nd
+3
+
+27800
+
+7
+Dual Stick
+Tangible
+One Finger
+
+2nd
+
+15800
+22100
+17400
+
+Table 4.4.3. Final scores for each participant and interface based on the order played.
+
+Appendix A
+Initial UML Diagram of Game Engine
+
+DrawableObject
+Position
+Image
+Draw()
+CollisionDetect()
+
+Wave
+Number
+Enemies
+isComplete()
+LoadNext()
+
+Player
+Score
+Power-Ups
+Wave
+Angle
+Weapon
+Base Points
+Fire()
+
+1
+1
+
+1
+
+T
+
+1+
+1
+
+Power-Up
+Gesture
+Max
+Count
+Activate()
+
+T
+
+1+
+1
+Enemy
+HP
+Speed
+Move()
+
+T
+Tower
+Radius
+Damage
+Speed
+Fire()
+
+1+
+BasePoint
+isAlive
+
+Bullet
+Speed
+Damage
+Move()
+DidHit()
+
+T
+
+T
+
+A damage power-up's effect
+is a bullet subclass
+(e.g. a bomb)
+
+Figure A.0.1. High-level overview of the initial design of the game engine
+
+Appendix B
+Documents Submitted for IRB Approval
+
+APPENDIX B. DOCUMENTS SUBMITTED FOR IRB APPROVAL
+
+46
+
+Recruitment Email (also to be used on Facebook / Bard Announce)
+As some of you may already know, my senior project involves conducting usability testing on an iPad
+game I've designed. My research is involved with measuring the effectiveness of novel new control
+schemes versus traditional game interfaces.
+It's testing time! I’m looking for people who want to come in and play the game and then answer a few
+questions about it. The entire process will only take about half an hour. Basically, you get to help out
+my project by having fun playing a game. What's not to like?
+I'll be holding testing sessions at night on Wednesday, March 30, and all day Friday and Saturday April
+1 and 2. If you're interested in participating, send me an email at mw562@bard.edu and we'll find a
+half-hour time slot that works for you.
+Thanks! Invite your (Bard) friends!
+
+APPENDIX B. DOCUMENTS SUBMITTED FOR IRB APPROVAL
+
+47
+
+Play test a new video game!
+As part of my senior project, I am conducting usability
+testing on a new iPad game I have designed.
+
+I’m looking for people to play the game and answer a few
+questions about the experience.
+
+It’ll only take about half an hour. Help out my project
+while getting to play a fun new game!
+I’m holding testing sessions on Wednesday, March 31 at
+night and Friday and Saturday, April 1-2 during the day.
+If interested, send an email to mw562@bard.edu and
+we’ll find a half-hour time slot that works for you.
+Thanks!
+
+APPENDIX B. DOCUMENTS SUBMITTED FOR IRB APPROVAL
+
+48
+
+Verbal Description of Consent Process
+Thank you for agreeing to participate in this study.! Your participation is expected to take about 30
+minutes.! During this time you’ll play a video game using an Apple iPad tablet. You will play the game
+using three different control interfaces. When you are finished, I will ask you a series of questions
+about your play experience and your background with gaming.!
+If you’re ever uncomfortable for any reason and would like to stop participating, that is OK, just say
+so.! Your data will be stored according to a coding number, so your responses will remain confidential.
+Before we start you need to read this consent form carefully. Consent forms are necessary so that you
+are accurately informed about the research process and you understand your rights.! If you have any
+questions, just ask me.! Then, if you agree with the content of the consent form, sign at the bottom.! If
+you’d like a copy of the consent form, you can take a copy with you.
+
+APPENDIX B. DOCUMENTS SUBMITTED FOR IRB APPROVAL
+
+49
+
+Consent Form
+Project Title: The effect of tangible and touch-based interfaces on game performance
+Researcher: Michael Walker
+Faculty Adviser: Keith O’Hara
+I am a student at Bard College, and I am conducting game play test sessions as an experiment for my
+Senior Project. I am studying the effect that different novel interfaces have on the performance and
+experience of playing a game.
+During this study, you will be asked to play a video game using a few different control methods and
+then answer a few questions about the experience. Please feel free to expand on the topic or talk about
+related ideas. Also, if there are any questions you would rather not answer or that you do not feel
+comfortable answering, please say so and we will stop the interview or move on to the next question,
+whichever you prefer.
+This entire process was designed to be approximately thirty minutes in length, and is not expected to
+have any risk other than the minimal risks associated with playing any video game - eye strain, the
+opportunity cost of your time, etc. The potential benefits include playing a new iPad game before its
+release and helping influence its design, as well as contributing to video game development research to
+create more immersive gameplay experiences.
+All information will be kept confidential. I will keep the data in a secure place. Only myself and the
+faculty supervisor mentioned above will have access to this information. Upon completion of this
+project, all data will be destroyed or stored in a secure location.
+Participant's Agreement:
+I am aware that my participation in this play test session is voluntary. I understand the intent and
+purpose of this research. If, for any reason, at any time, I wish to stop the play test session or
+interview, I may do so without having to give an explanation.
+The researcher has reviewed the individual and social benefits and risks of this project with me. I am
+aware the data will be used in a Senior Project that will be publicly available at the Stevenson Library
+on the Bard College Campus. I have the right to review, comment on, and/or withdraw information
+prior to the Senior Project's submission. The data gathered in this study are confidential with respect to
+my personal identity unless I specify otherwise. I understand if I say anything that I believe may
+incriminate myself, the interviewer will immediately rewind the tape and record over the potentially
+incriminating information. The interviewer will then ask me if I would like to continue the interview.
+If I have any questions about this study, I am free to contact the student researcher (Michael Walker,
+mw562@bard.edu, 858-353-3145) or the faculty adviser (Prof. Keith O’Hara, kohara@bard.edu,
+845-752-2359). If I have any questions about my rights as a research participant, I am free to contact
+
+APPENDIX B. DOCUMENTS SUBMITTED FOR IRB APPROVAL
+the chair of Institutional Review Board: Prof. David Shein (IRB@bard.edu; shein@bard.edu,
+845-758-7454).
+I have been offered a copy of this consent form that I may keep for my own reference.
+I have read the above form and, with the understanding that I can withdraw at any time and for
+whatever reason, I consent to participate in today's interview.
+_______________________
+Participant's signature
+_______________________
+Interviewer's signature
+
+___________________
+Date
+
+50
+
+APPENDIX B. DOCUMENTS SUBMITTED FOR IRB APPROVAL
+
+51
+
+Contact Information
+!
+If you have any questions about this study or your participation in this study, feel free to contact
+any of the following individuals.
+Michael Walker
+Researcher
+mw562@bard.edu
+(858) 353-3145
+Keith O’Hara
+Faculty Advisor
+kohara@bard.edu
+(845) 752-2359
+David Shein
+Chair, Bard Institutional Review Board
+shein@bard.edu
+845-758-7454
+The Bard Institutional Review Board may also be reached at IRB@bard.edu.
+
+Bibliography
+
+[1] Brenda Brathwaite and Ian Schreiber, Challenges for Game Designers: Non-Digital
+Exercises for Video Game Designers, Course Technology, Boston, MA, 2009.
+[2] W. Buxton and B. Myers, A study in two-handed input, CHI ’86 Proceedings of the
+SIGCHI conference on Human factors in computing systems (1986).
+[3] Roger Caillois, Man, Play, and Games, translated by Meyer Barash, The Free Press
+of Glencoe, Inc., 1961.
+[4] Johan Huizinga, Homo Ludens, Beacon Press, 1971.
+[5] Mike Kuniavsky, Observing the User Experience: A Practitioner’s Guide to User Research, Morgan Kaufmann Publishers, San Francisco, CA, 2003.
+[6] Jane McGonigal, Reality is Broken: Why Games Make Us Better and How They Can
+Change the World, The Penguin Press, New York, NY, 2011.
+[7] Mark Micire, Munjal Desai, Amanda Courtemanche, Katherine M Tsui, and Holly
+A Yanco, Analysis of Natural Gestures for Controlling Robot Teams on Multi-touch
+Tabletop Surfaces, University of Massachusetts Lowell Department of Computer Science, Lowell, MA, June 2009.
+[8] Jonathan P. Rowe, Lucy R. Shores, Bradford W. Mott, and James C. Lester, Individual
+diﬀerences in gameplay and learning: a narrative-centered learning perspective, FDG
+‘10 Proceedings of the Fifth International Conference on the Foundations of Digital
+Games (2010).
+[9] Katie Salen and Eric Zimmerman, Rules of Play: Game Design Fundamentals, Massachusetts Institute of Technology, Cambridge, MA, 2004.
+
+

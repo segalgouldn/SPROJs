@@ -1,0 +1,7380 @@
+Using a Radical Scavenger and Modeling the
+Improvement of Linewidth in One-Photon
+Direct Laser Writing Lithography
+
+A Senior Project submitted to
+The Division of Science, Mathematics, and Computing
+of
+Bard College
+by
+Shuyi Weng
+翁舒逸
+
+Annandale-on-Hudson, New York
+May, 2014
+
+Dedication
+
+To My Mom
+致母亲
+
+i
+
+Acknowledgements
+This project would not have been completed without the help and support from my
+professors, friends, and family members. I would like to offer my special thanks to my
+project advisors, Dr. Christopher LaFratta and Dr. Csilla Szabo, for their helpful suggestions, careful supervision, and inspiring guidance in both realms of chemistry and
+mathematics. I am particularly grateful for the assistance given by my academic advisor, Dr. Emily McLaughlin, who inspired me with the idea of radical scavenging with
+knowledge from organic chemistry. I would also like to thank Dr. Jennie D’Ambroise, for
+her suggestion of using segmented PDEs to approach the modeling. I wish to acknoledge
+the assistance provided by my lab peers Olja Simoska, Ian Pelse, Miles Ingram, Zhe Mei,
+Min Kyung Shinn, Jasper Williams, Ingrid Stolt, and Clare Wheeler, as well as all the
+other chemistry seniors. The constant support from my friends Seo Young Kim, Yan Chu,
+Yushan Jiang, Zexi Song, Jin Zhang, Xujun Liu, and Thinh Pham, has also been a great
+pushing force for my work. Last but not least, I would like to thank my family members
+for their care and suppport on me, even though hardships have struck us harshly in the
+past year.
+ii
+
+Abstract
+Direct laser writing (DLW) lithography is a useful way to generate microscopic patterns
+for lab-on-a-chip devices. We have developed a simple and inexpensive platform for the
+creation of these initial patterns using a homemade acrylic resin, a 405-nm laser diode,
+and a fluorescence microscope. To create sub-micrometer linewidths, we included a radical
+scavenger in the photoresist to quench excessive amounts of radicals generated from laser
+exposure. In this project, we compared various formulations of the photoresist and we
+presented a model for the radical polymerization in our photoresist. The model utilized the
+method of finite differences to numerically solve a system of parabolic partial differential
+equations describing the diffusive behaviors of particles in the photoresist. The model also
+made use of Markov chains to simulate the step-wise polymerization of the photoresist.
+The parameters in the model were determined by fitting the model on experimentallyobtained data.
+
+iii
+
+Contents
+Dedication
+
+i
+
+Acknowledgements
+
+ii
+
+Abstract
+
+I
+
+iii
+
+Laboratory Experiments
+
+1 Introduction I
+
+2
+
+1.1
+
+Photolithography . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+4
+
+1.2
+
+Direct Laser Writing (DLW) . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+5
+
+1.3
+
+Acrylic Ester Polymerization . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+8
+
+1.4
+
+Memory Effect . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+9
+
+1.5
+
+Radical Inhibition . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11
+
+2 Experimental Overview
+
+12
+
+2.1
+
+Laser Setup . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 13
+
+2.2
+
+Microscope and Automated Stage . . . . . . . . . . . . . . . . . . . . . . . 15
+
+2.3
+
+Photoresist . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 17
+
+2.4
+
+Modified Glass Slides or Coverslips . . . . . . . . . . . . . . . . . . . . . . 19
+
+2.5
+
+Constructing a Micro-Scale Structure . . . . . . . . . . . . . . . . . . . . . 19
+iv
+
+CONTENTS
+
+v
+
+2.6
+
+Developing a Micro-Scale Structure . . . . . . . . . . . . . . . . . . . . . . 22
+
+2.7
+
+Scanning Electron Microscopy (SEM) . . . . . . . . . . . . . . . . . . . . . 22
+
+3 Shrinkage Study
+
+23
+
+3.1
+
+Methods . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 24
+
+3.2
+
+Results . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 25
+
+3.3
+
+Discussion . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 28
+
+4 Linewidth Characterization
+
+II
+
+29
+
+4.1
+
+Methods . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 29
+
+4.2
+
+Results . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 31
+
+4.3
+
+Discussion . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 31
+
+Mathematical Modeling
+
+5 Introduction II
+
+36
+
+5.1
+
+The Gaussian Beam
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 37
+
+5.2
+
+Parabolic Equations . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 40
+
+5.3
+
+Method of Finite Differences . . . . . . . . . . . . . . . . . . . . . . . . . . 43
+
+5.4
+
+Markov Chains . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 45
+
+6 Memory Effect Characterization
+
+48
+
+6.1
+
+Oscilloscope Setup . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 49
+
+6.2
+
+Methods . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 49
+
+6.3
+
+Results . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 51
+
+6.4
+
+Discussion . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 53
+
+7 Modeling the Memory Effect
+
+54
+
+7.1
+
+First Approximation: Radical Initiation . . . . . . . . . . . . . . . . . . . . 56
+
+7.2
+
+Second Approximation: Acrylate Initiation . . . . . . . . . . . . . . . . . . 59
+
+CONTENTS
+
+vi
+
+7.3
+
+Probability of Polymerization . . . . . . . . . . . . . . . . . . . . . . . . . 61
+
+7.4
+
+Third Approximation: Markov Modeling . . . . . . . . . . . . . . . . . . . 63
+
+8 Mathematica Implementation
+
+65
+
+8.1
+
+Finite Difference Modeling . . . . . . . . . . . . . . . . . . . . . . . . . . . 65
+
+8.2
+
+Markov Modeling . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 66
+
+8.3
+
+Pseudocode for the Implementation . . . . . . . . . . . . . . . . . . . . . . 67
+
+8.4
+
+Results and Discussion . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 69
+
+8.5
+
+Future Development . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 73
+
+A Linewidths before/after Alcohol Development
+
+75
+
+B Linewidth Data with Different DLW Conditions
+
+82
+
+C SEM Images of Double Dots
+
+88
+
+D Coding in Mathematica
+
+93
+
+D.1 Parameters . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 93
+D.2 Initial Conditions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 94
+D.3 First Exposure . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 95
+D.4 Second Exposure . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 97
+D.5 Showing the Result . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 99
+E Sample Simulation
+
+100
+
+F General Solutions to y 0 = ky(1 − y)
+
+104
+
+List of Figures
+1.1
+
+Photoinitiator Absorption . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+6
+
+1.2
+
+Laser Beam Going through the Photoresist . . . . . . . . . . . . . . . . . .
+
+7
+
+1.3
+
+Acrylic Acid and Acrylic Ester . . . . . . . . . . . . . . . . . . . . . . . . .
+
+8
+
+1.4
+
+Acrylic Ester Polymerization . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+9
+
+1.5
+
+Example of “Memory Effect”
+
+1.6
+
+Inhibition Mechanism . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11
+
+2.1
+
+Laser Schematic . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 13
+
+2.2
+
+Comparison between Airy Disk and Gaussian Function . . . . . . . . . . . 15
+
+2.3
+
+Microscope Schematic . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 15
+
+2.4
+
+Direct Laser Writing Setup . . . . . . . . . . . . . . . . . . . . . . . . . . . 16
+
+2.5
+
+Photoresist Composition . . . . . . . . . . . . . . . . . . . . . . . . . . . . 17
+
+2.6
+
+Hybrid Structure . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 21
+
+3.1
+
+Shrinkage Comparison . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 23
+
+3.2
+
+Structure Used to Measure the Shrinkage Coefficient . . . . . . . . . . . . 25
+
+3.3
+
+Waffle Structure and Measuring Scheme . . . . . . . . . . . . . . . . . . . 27
+
+4.1
+
+Straight Lines for Linewidth Measurements . . . . . . . . . . . . . . . . . . 30
+
+4.2
+
+Linewidth of DLW . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 32
+
+4.3
+
+Linewidths under 150 nW, 20µm/s (after shrinkage) . . . . . . . . . . . . . 34
+
+. . . . . . . . . . . . . . . . . . . . . . . . . 10
+
+vii
+
+LIST OF FIGURES
+
+viii
+
+4.4
+
+Linewidths under 150 nW, 20µm/s (before shrinkage) . . . . . . . . . . . . 34
+
+5.1
+
+Beam Radius as a Function of z . . . . . . . . . . . . . . . . . . . . . . . . 39
+
+5.2
+
+Difference Grid on the Space-Time Domain . . . . . . . . . . . . . . . . . . 44
+
+5.3
+
+A State Diagram of the Markov Chain for Directional Random Walk . . . 46
+
+6.1
+
+Digital oscilloscope . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 49
+
+6.2
+
+Merged Double-Dot . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 51
+
+7.1
+
+Beam Intensity and Reflection Intensity . . . . . . . . . . . . . . . . . . . . 58
+
+7.2
+
+Modeling the Probability Function . . . . . . . . . . . . . . . . . . . . . . 62
+
+8.1
+
+Simulation Result of Experiment #2 . . . . . . . . . . . . . . . . . . . . . 71
+
+8.2
+
+Final State of Simulation #8 . . . . . . . . . . . . . . . . . . . . . . . . . . 72
+
+List of Tables
+2.1
+
+Composition of Different Photoresists . . . . . . . . . . . . . . . . . . . . . 18
+
+3.1
+
+Percent Shrinkage of Photoresists . . . . . . . . . . . . . . . . . . . . . . . 26
+
+3.2
+
+Shrinkage in Microscale . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 27
+
+4.1
+
+Laser Powers and Writing Speeds for Linewidth Characterization
+
+4.2
+
+Calculated Linewidths . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 34
+
+6.1
+
+Base Speed Range for Specific Hiatus Time . . . . . . . . . . . . . . . . . . 50
+
+6.2
+
+Memory Effect Measurements . . . . . . . . . . . . . . . . . . . . . . . . . 52
+
+7.1
+
+Table of Variables and Coefficients . . . . . . . . . . . . . . . . . . . . . . 55
+
+7.2
+
+Table of Functions and Lists . . . . . . . . . . . . . . . . . . . . . . . . . . 56
+
+8.1
+
+Choices for Parameters and Functions . . . . . . . . . . . . . . . . . . . . . 69
+
+8.2
+
+Percent Increase Results Simulated by the Model . . . . . . . . . . . . . . 70
+
+8.3
+
+Comparison between Experiments and the Model . . . . . . . . . . . . . . 72
+
+. . . . . 30
+
+A.1 Shrinkage Characterization for Photoresist #1 . . . . . . . . . . . . . . . . 76
+A.2 Shrinkage Characterization for Photoresist #2 . . . . . . . . . . . . . . . . 76
+A.3 Shrinkage Characterization for Photoresist #3 . . . . . . . . . . . . . . . . 77
+A.4 Shrinkage Characterization for Photoresist #4 . . . . . . . . . . . . . . . . 77
+B.1 Linewidth Measurement for Photoresist #1 . . . . . . . . . . . . . . . . . . 83
+ix
+
+LIST OF TABLES
+
+x
+
+B.2 Linewidth Measurement for Photoresist #2 . . . . . . . . . . . . . . . . . . 84
+B.3 Linewidth Measurement for Photoresist #3 . . . . . . . . . . . . . . . . . . 85
+B.4 Linewidth Measurement for Photoresist #4 . . . . . . . . . . . . . . . . . . 86
+B.5 Linewidth under Different Condition . . . . . . . . . . . . . . . . . . . . . 87
+
+Part I
+Laboratory Experiments
+
+Chapter 1
+Introduction I
+The rapid development of science and technology has demanded the construction of
+smaller and smaller structures for various reasons. In the realm of computer engineering,
+Moore’s Law [Moo65], proposed in 1965, accurately predicted that the number of transistors on an integrated circuit would double approximately every two years. In order for
+millions and even billions of transistors to be created on a single chip, their size has to be
+miniature. The shrinking of electronics components and their integration into complex
+circuits have enabled the creation of modern electronics and the age of information.
+A similar miniaturization revolution is underway in the physical sciences. First predicted by the physicist Richard Feynman in his famous “There’s plenty of room at the
+bottom” lecture, Feynman explains the basic tenets of nanotechnology. The fields of
+chemistry and biology are joining physics and the electronics industry in trying to make
+technologies smaller, faster, and cheaper. For example, the assays on micro-biological
+2
+
+CHAPTER 1. INTRODUCTION I
+
+3
+
+structures require testing chambers of the size comparable to a single bacterium or a
+red blood cell [ZNWS13, TBP+ 11], which is usually in micrometer scale. The demands
+on micro-structures from biological sciences have given rise to the development of micro
+total analysis systems (µTAS) [KOM+ 13], which integrate the functionalities of multiple
+chemical assays into one single chip. Such devices are known as “lab-on-a-chip” (LOC)
+for their capability to perform various chemical tests and their ability to operate assays
+using only picoliters of sample.
+The use of micro-scale devices is constantly increasing in chemistry and biology, and so
+the study of new fabrication techniques is an ever evolving and important field. Nowadays
+in electronics industry, photolithography has become one of the most commonly-applied
+techniques for microfabrication [Jae02]. It uses a mask to expose the surface of a layer
+of photoresist selectively by ultraviolet (UV) light, chemically changing the photoresist
+such that the exposed area is more or less soluble than the unexposed area. After development in a solvent, a two-dimensional pattern is left on the substrate. With multiple
+runs of such processes, a complicated circuit system can be “drawn” on the substrate.
+Besides photolithography, other techniques for the fabrication of micro-structures include
+electron beam lithography [RC97], dynamic masking [IKT+ 08], high precision machining
+[ZRM+ 03], and direct laser writing. One of the main distinctions between these mothods
+and conventional mask-based lithography is their serial nature compared to the parallel
+nature of masks.
+
+CHAPTER 1. INTRODUCTION I
+
+1.1
+
+4
+
+Photolithography
+
+Conventional mask-based photolithography is widely practiced in contemporary electronics industry. A series of sophisticated manipulations are performed under highlyregulated conditions [Jae02] to produce integrated circuits that go into commercial computer chips and processors.
+The whole process of photolithography takes place in a clean room. It transfers patterns from masks to photoresist on the surface of silicon wafers. Commertial chips are
+mostly produced on silicon wafers with positive photoresists, in which case the area exposed under UV light turns soluable and can be washed off by solvents. In the subsequent
+etching or doping steps, the photoresist protects portions of the surface while windows
+are etched in barrier layer such as silicon dioxide, silicon nitride, or metal. After etching, the photoresist is removed, and impurities can be introduced into the wafer through
+the windows, or metal can be deposited on the surface making contact with the silicon
+through the etched windows.
+Photolithography requires the use of photomasks at the ultraviolet exposure step.
+One photomask gives only a specific pattern on the wafer, while that pattern may contain
+millions of features that are all made in parallel. Multiple photomasks are required for
+different structures drawn on the substrate, which could be inconvenient and expensive.
+Hence, some maskless alternatives have been developed to overcome the drawbacks of
+photolithography.
+
+CHAPTER 1. INTRODUCTION I
+
+1.2
+
+5
+
+Direct Laser Writing (DLW)
+
+Direct laser writing (DLW) is an effective way to fabricate micro-structures without
+a mask. It uses a moving laser to initiate a change in the solubility of the photoresist to
+achieve its goal. Similar with those in photolithography, the photoresists used in DLW
+can be either positive or negative. Usually in DLW, a negative photoresist consists of at
+least a monomer and a photoinitiator. The photoinitiator absorbs photonic energy from
+the laser, breaks apart into radicals, and initiates the polymerization process. Depending
+on the type of photonic absorption by the photoinitiator, DLW can be categorized into
+two major branches: one-photon DLW and two-photon DLW. The free radicals generated
+by the photoinitiator subsequently trigger the polymerization reaction of the monomers,
+which will be further discussed in section 1.3.
+
+1.2.1
+
+One-photon DLW
+
+Photoinitiators are usually capable of homolytic cleavage at one or more of its chemical bonds, resulting in the formation of free radicals (Figure 1.1). When a photoinitiator
+molecule absorbs a photon with a specific range of wavelengths, the molecule is excited
+from the ground state (S0 ) to an excited electronic state (S1∗ ). The molecule then undergoes non-radiative relaxation into the vibrational ground state of the first excited state
+(S1 ). Intersystem crossing (ISC) occurs at this moment to bring the molecule from a
+singlet state (S1 ) to a triplet state (T1 ). The molecules in the triplet state are clasically
+
+CHAPTER 1. INTRODUCTION I
+
+6
+
+forbidden to make the transition back to the ground state, which makes the lifetime of
+excited molecules long enough to yield free radicals.
+
+S1*
+
+S0*
+
+Absorption
+
+S1
+
+ISC
+
+T1
+
+R
+
+S0
+Figure 1.1: A Jablonski Diagram Showing the Activation of the Photoinitiator
+
+1.2.2
+
+Two-photon DLW
+
+Normally, a molecule absorbs only one photon to make transitions between its electronic states. However, when two photons hit a molecule simultaneously (which rarely
+happens in nature because the photon intensity required is extremenly high), the molecule
+is able to make a transition to an excited state with an energy gap corresponding to the
+energy sum of these two photons [Abe62]. Such a process is usually achieved with pulsed
+lasers, which produces pulses with high intensity. The highly intense laser pulses make
+two-photon absorption possible in a tiny volume element, or voxel, at the focal point of the
+laser, thus generating a limited amount of free radicals that are only able to polymerize
+the photoresist at this small scale.
+
+CHAPTER 1. INTRODUCTION I
+
+1.2.3
+
+7
+
+Comparisons between the two types of DLW
+
+In contemporary research labs, both one-photon DLW and two-photon DLW techniques are practiced for their distinctive advantages over one another.
+Two-photon DLW gives structures with smaller linewidths and resolution comparing
+to one-photon DLW. When the laser beam is focused on the surface of the substrate
+(Figure 1.2), it goes through the photoresist, and the intensity of the beam decreases
+proportional to the square of the distance from the focal point. In one-photon DLW, a
+large range of beam intensity is capable for photoinitiation and polymerization. Even a low
+beam intensity leads to a low concentration of free radicals, which may not reach the level
+required for polymerization, but enough to generate oligomers that turns into polymer
+more easily and more rapidly than unexposed photoresist. However, in two-photon DLW,
+the beam intensity plays an important role in the initiation process. For two photons
+to reach one photoinitiator molecule simultaneously, a high intensity of the laser beam
+
+photoresist
+
+objective lens
+
+Figure 1.2: Laser beam going through the photoresist, with the gradient illustrating change in
+beam intensity
+
+CHAPTER 1. INTRODUCTION I
+
+8
+
+is required. Such high intensity is only attained near the focal point, while further away
+from the focal point, the probability for two photons to reach the same molecule at the
+same time is essentially zero. Thus the free radicals are only generated within a short
+distance of the focus but not deep into the photoresist. The highly-localized radicals in
+two-photon DLW yield smaller structures with higher resolutions than one-photon DLW
+does.
+However, the cost for a pulsed laser used in two-photon DLW is much higher than that
+of a continuous wave laser. A femtosecond titanium:sapphire laser used in two-photon
+DLW costs more than $100,000 together with a 532-nm pump laser, while a 405-nm laser
+diode module is available at $185 on ThorLabsr .
+
+1.3
+
+Acrylic Ester Polymerization
+
+Acrylic esters (Figure 1.3) are the most commonly-used monomers in DLW photoresists. They undergo radical polymerization when a photoinitiator is used to generate
+radicals. The reaction mechanism is shown in Figure 1.4.
+
+Figure 1.3: Acrylic Acid and Acrylic esters
+
+The introduction of multiple acrylate groups in the R chain of the acrylic ester molecule
+leads to branching and cross-linking of polymer chains, thus enhancing the strength and
+
+CHAPTER 1. INTRODUCTION I
+
+9
+
+Figure 1.4: A Mechanism for Acrylic Ester Polymerization
+rigidity of the polymer. Substances with multiple acrylate groups are often used in DLW
+as the monomer [FW13].
+
+1.4
+
+Memory Effect
+
+As shown in Figure 1.2, the beam intensity decreases as the laser beam goes deeper
+into the photoresist. The beam intensity reaches its maximum at the focus, promoting
+
+CHAPTER 1. INTRODUCTION I
+
+10
+
+Figure 1.5: An example of “memory effect”, where the lines are drawn from top to bottom
+the radical initiation at that point, but photons are also absorbed beyond the focal point.
+The concentration of initiated free radicals beyond the focal point may not be high enough
+to propagate the growth of long-chain polymers, but the generated radicals do not die
+off immediately, and the oligomer molecules linger. The lifetime of the radicals is long
+enough to affect the subsequent exposures nearby, resulting in an increase in linewidth
+of the structures (Figure 1.5). Additionally, the photoresist, while quite viscous, does
+allow for diffusion of radicals, and the reflection of the laser beam within the photoresist
+also leads to higher-order exposure. The diffusion of radicals and smaller oligomers made
+unintentionally beyond the focal point affect the resolution of DLW, and thus prohibit
+the fabrication of structures as small or as close to each other as we wish. Since it usually
+appears to us that the photoresist somehow “remembers” previous laser exposures and
+
+CHAPTER 1. INTRODUCTION I
+
+11
+
+affects nearby structures fabricated a short time later, we have named this phenomenon
+the “memory effect”.
+
+1.5
+
+Radical Inhibition
+
+Radical scavengers are commonly used in chemistry in order to remove or deactivate unwanted reaction products in a mixture. For example, butylated hydroxytoluene
+(BHT) is usually added to the stock of diethyl ether as an inhibitor [Sig13] to prevent the
+formation of explosive diethyl ether hydroperoxide, which reacts via a radical pathway.
+
+Figure 1.6: The Mechanism for Radical Inhibition with BHT
+
+The polymerization of monomers depends on the concentration of free radicals in
+the photoresist, and here is where the idea of inhibition comes from. One-photon DLW
+creates unwanted free radicals and unpolymerized oligomer molecules beyond the focal
+point after each exposure. If radical scavengers are added into the photoresist, they will
+be able to quench the free radicals, thus preventing further polymerization involving these
+free radicals and improving linewidth and resolution in one-photon DLW.
+
+Chapter 2
+Experimental Overview
+The fabrication of micro-scale structures is carried out with a systematic procedure.
+The procedure starts from modifying glass slides or coverslips. Acrylate groups are attached to the surface of the glass substrate so that the polymerized photoresist may bond
+tightly to the glass surface. The photoresist in our experiments consists of three substances - the monomer, photoinitiator, and the radical scavenger. When a collimated
+laser beam is focused onto the photoresist, the photoinitiator is excited and turns into
+radicals, initiating the radical polymerization process as shown in Figure 1.4. The laser
+beam is filtered and collimated by a series of optics carefully positioned on an optical
+table equipped with vibration isolation system. The glass slide with photoresist is fixed
+on an automated stage that moves in the plane perpendicular to the laser beam. Polymer
+structures are fabricated by moving the stage relative to the laser beam, leaving polymers
+attached on the modified glass surface.
+12
+
+CHAPTER 2. EXPERIMENTAL OVERVIEW
+
+13
+
+In the following sections, descriptions of each experimental procedure and apparatuses
+in use are provided in detail.
+
+2.1
+
+Laser Setup
+
+A laser diode module (CPS405, ThorLabs, USA) is used throughout our experiments.
+It produces a 405-nm, 4.5-mW elliptical beam. However, a collimated circular beam is
+desired for our purposes. Therefore, two converging lenses and a pinhole are installed together with a few other optical equipments to modulate the beam, as shown in Figure 2.1.
+Polarizing
+Beam Splitter
+Beam
+Block
+
+Blue Laser
+405 nm
+
+Periscope Unit
+
+Half -wave Plate
+
+Lens 1
+
+f1 = 75 nm
+
+Pinhole
+d = 10 Μm
+
+Microscope
+
+Lens 2
+
+f2 = 200 nm
+
+Figure 2.1: A schematic for the collimation of the laser
+
+The beam coming out of the laser diode is plane polarized. The half-wave plate is
+a birefringent crystal that rotates the plane of polarization when the crystal is rotated.
+Different polarization of the beam results in different amount of reflection from the polarizing beam splitter. The combination of these two pieces of equipment allows us to
+efficiently control the power output by rotating the half-wave plate.
+
+CHAPTER 2. EXPERIMENTAL OVERVIEW
+
+14
+
+The lenses in this system are placed in a way such that the principle axes of the two
+lenses align with the center of the laser beam, and the distance between them equals
+the sum of their focal distance. In this fashion, a telescope that expands and collimates
+the beam is created. A pinhole of diameter 10 µm is placed at the common focal point
+of the lenses. This pinhole acts as a spatial filter to remove unwanted transverse laser
+modes. This arrangement results in an output pattern of an Airy disk [Air35, ST91].
+The intensity of the Airy disk is symmetric around its center, and the relation between
+the intensity and the distance from the center can be expressed in terms of the Bessel
+function:
+
+I(θ) = I0
+
+2J1 (ka sin θ)
+ka sin θ
+
+2
+,
+
+where I0 is the intensity at the center, k = 2π/λ is the wavenumber, a is the radius of the
+pinhole, and J1 is the Bessel function of the first kind of order one. If we let x = ka sin θ,
+and plot I(x)/I0 , we may discover that it resembles the curve for a Gaussian function
+(Figure 2.2). In fact, in Part II of this project, we are going to approximate the laser
+beam as a Gaussian beam. All the results of mathematical modeling in this project are
+based on this approximation.
+Once the laser beam passes through the lenses and the pinhole, it is considered nicely
+circular and collimated. The beam is now ready to enter the microscope for DLW. The
+periscope unit consists of two mirrors that change the direction of the beam and send it
+up into the microscope.
+
+CHAPTER 2. EXPERIMENTAL OVERVIEW
+
+15
+
+Normalized Amplitude
+
+1.0
+0.8
+0.6
+0.4
+0.2
+0.0
+0
+
+2
+
+4
+
+6
+
+8
+
+10
+
+Radial Coordinate
+
+Figure 2.2: Comparison between the intensity of Airy disk and Gaussian function
+
+2.2
+
+Microscope and Automated Stage
+
+The collimated beam is first reflected by a dichroic mirror after it enters the microscope
+unit. The dichroic mirror reflects wavelengths less than 420 nm and transmits longer
+
+Glass Slide
+Photoresist
+
+Cover Slip
+Objective Lens
+
+Laser Set-up
+
+Figure 2.3: A schematic for the collimated beam travelling through the microscope
+
+wavelengths, which will be used to image the sample. The beam then goes through the
+objective lens and gets focused on the sample we prepared (see Section 2.5) as shown in
+
+CHAPTER 2. EXPERIMENTAL OVERVIEW
+
+16
+
+Figure 2.3. The most commonly used objective lenses are the 4× objective and the 40×
+oil objective, which we will discuss further in Section 2.5. A picture of the complete DLW
+setup is taken and shown below in Figure 2.4.
+
+Figure 2.4: Direct Laser Writing Setup (Photo credit: Olja Simoska)
+
+The sample is fixed on an automated stage, which moves in the plane perpendicular
+to the principle axis of the laser beam. When the laser beam is turned on, polymerization
+of the photoresist occurs at the spot of exposure. If the automated stage is moving at the
+same time, a trace of polymerized photoresist shows up on the path in which the focal
+point of the laser beam moves relative to the sample. A series of planar structures can
+be fabricated by pre-programming the moves of the stage with a graphical user interface,
+which will be further discussed in Section 2.5.
+
+CHAPTER 2. EXPERIMENTAL OVERVIEW
+
+2.3
+
+17
+
+Photoresist
+
+The photoresists that we used throughout the experiments consists of an acrylic ester
+(monomer), a photoinitiator, and an inhibitor. As described in Sections 1.2, 1.3, and
+1.5, the photoinitiator absorbs photonic energy from the laser and turns into radicals.
+The radicals propagate to form polymer chains as they react with the carbon-carbon
+double bonds in the acrylate groups. The inhibitor in the photoresist prevents “overpolymerization” by quenching the excessive free radicals generated by photoinitiation.
+
+2.3.1
+
+Composition
+
+The structures of the three components of the photoresist are shown in Figure 2.5.
+The majority (≥ 95%) of the photoresist is composed of the acrylate monomer, which,
+in our experiments, is dipentaerythritol-pentaacrylate (SR-399) (Sartomer, USA). The
+photo-initiator used is Lucirinr TPO-L (BASF, Germany). We control the concentration
+of the photo-initiator to be 1%. Trial experiments have shown that this concentration
+works the best for a wide ranges of exposure dose, as well as both our objective lenses. Dif-
+
+Figure 2.5: Photoresist Composition
+
+CHAPTER 2. EXPERIMENTAL OVERVIEW
+
+18
+
+ferent concentrations (0 ∼ 4%) of radical scavenger 2-tert-butyl-4-methylphenol (tBMP)
+(Sigma-Aldrich, USA) were also added into the photoresist as the inhibitor.
+
+2.3.2
+
+Preparation
+
+Four types of photoresists with different concentrations of tBMP are prepared according to the mass percentage listed in Table 2.1. Notice that the most significant difference
+among them is the concentration of tBMP. In later experiments, we will investigate the
+effects of inhibitor on different properties in DLW.
+Photoresist #
+
+SR-399
+
+Lucirinr TPO-L
+
+tBMP
+
+1
+
+99%
+
+1%
+
+0%
+
+2
+
+97%
+
+1%
+
+2%
+
+3
+
+96%
+
+1%
+
+3%
+
+4
+
+95%
+
+1%
+
+4%
+
+Table 2.1: Composition (Mass Percent) of Different Photoresists
+
+Because the photo-initiator is photo-sensitive, the preparation of each photoresist is
+carried out in a dark room. A light-insulating bottle is made by covering the surface
+of a 20-mL glass vial with aluminum foil as the container for the photoresist. After all
+compounds are weighed properly and added into the bottle, the mixture is heated to
+80 ∼ 90◦ C. By reaching this temperature range, tBMP melts in the mixture, and the
+viscosity of the mixture is reduced dramatically for better mixing. At this time, a wooden
+
+CHAPTER 2. EXPERIMENTAL OVERVIEW
+
+19
+
+applicator is used to mix the components. The photoresist is then cooled in a hood and
+is ready for use after it gets back to room temperature.
+
+2.4
+
+Modified Glass Slides or Coverslips
+
+Glass is made from silicate salts, and silicate is usually not a good substrate for
+microfabrication because of its low affinity for acrylate polymers. However, if we perform
+a modification on the glass surface, the acrylate polymer will attach covalently to the
+glass surface, resulting in permanent structures on the glass.
+Clean, dry glass slides or coverslips (1 in × 1 in) are cleaned in an air plasma (Harrick
+Scientific model PDC-32G) for 5 minutes, and then placed in a solution containing 2%
+(3-acryloxypropyl)-trimethoxysilane (Gelest, USA), 3% water, and 95% ethanol (Sigma
+Aldrich, USA) for 6 hours with constant stirring. The acrylate-modified coverslips are
+then rinsed with ethanol twice, dried with nitrogen gas, and heated in an oven at 100◦ C
+for 20 minutes. At this point, the surface of the glass slides or coverslips is covered with a
+layer of acrylate groups. When polymers form under laser exposures, the polymer chains
+bond to the acrylate groups, leaving tightly bonded structures on the glass surface.
+
+2.5
+
+Constructing a Micro-Scale Structure
+
+A sample for DLW is prepared by placing a drop of photoresist between a clean, dry
+microscope slide (3 in × 1 in) and an acrylate modified glass surface. Depending on the
+
+CHAPTER 2. EXPERIMENTAL OVERVIEW
+
+20
+
+structure we desire to construct, we may use a modified glass slide or coverslip. The
+difference between these two types of substrates and fabrication techniques are discussed
+in the following subsections.
+
+2.5.1
+
+Fabrication using the 4× objective lens (NA = 0.10)
+
+Both modified glass slides and coverslips work for this setup. The sample for DLW is
+fixed on the automated stage above the objective lens. The automated stage, together
+with the shutter in front of the laser diode, is controlled by a program (ProScan GUI,
+Miles Ingram) on a computer. Desired structures can be programmed and fabricated
+automatically with the program. The moving speed of the photonic exposure can be
+programmed as the moving speed of the automated stage. The power output of the laser
+diode can be controlled with the half-wave plate and the polarizing beam splitter (Section
+2.1). An effective power for DLW with 4× objective lens ranges from 1 µW to 500 µW,
+depending on the fabrication speed.
+
+2.5.2
+
+Fabrication using the 40× oil objective lens (NA = 1.30)
+
+Only modified coverslips work for this setup. Before one starts to fabricate any structure with the 40× objective lens, a drop of index matched immersion oil must be applied
+to the objective lens. The oil drop then comes into contact with both the lens and the
+sample on the side of the coverslip. A glass slide cannot be used with this objective
+because the focal distance of the objective lens is smaller than the thickness of the glass
+
+CHAPTER 2. EXPERIMENTAL OVERVIEW
+
+21
+
+slide. Structures with much small dimension can be fabricated with the same program as
+the one we used for 4× objective lens. An effective power for DLW with 40× oil objective
+lens ranges from 50 nW to 300 nW, depending on both the fabrication speed and the
+complexity of the structure.
+
+Figure 2.6: A hybrid structure using both objectives
+
+Hybrid structures can be fabricated by combining the advantages of both lenses. A
+typical size for DLW with the 4× objective is 50 ∼ 100 µm, while that with the 40× oil
+objective is 1 ∼ 3 µm. The general shape of a structure can be first constructed with the
+4× objective, and then the delicate details may be added with the 40× oil objective. An
+electron micrograph of a successful example is shown in Figure 2.6.
+
+CHAPTER 2. EXPERIMENTAL OVERVIEW
+
+2.6
+
+22
+
+Developing a Micro-Scale Structure
+
+After the desired structure is successfully fabricated with the pre-programmed commands, the DLW sample is removed from the automated stage. If it just underwent
+40× fabrication, the index matched immersion oil should be wiped off the coverslip with
+hexanes. The sample is then submerged in ethanol for 10 minutes to dissolve the unpolymerized photoresist. The substrate is carefully separated with the microscope slide,
+and is further rinsed by ethanol and methanol. After drying the DLW sample with gentle
+flow of air, the structure is ready to be used for further steps including scanning electron
+microscopy (SEM) imaging, microfluidics, and soft lithography.
+
+2.7
+
+Scanning Electron Microscopy (SEM)
+
+Before sending the fabricated sample to the SEM, a 20-nm layer of gold is sputter
+coated (Cressington, Model 108 Sputter Coater) to the surface of the sample so that the
+surface becomes electrically conductive. The sample is then imaged and measured using
+a field emission scanning electron microscope (Tescan MIRA 3).
+
+Chapter 3
+Shrinkage Study
+We notice that the acrylate polymer shrinks in size during the alcohol-rinsing process.
+Such shrinkage may affect the accuracy in further studies on memory effect. We also
+notice that the shrinkage of the polymer depends on the concentration of the inhibitor.
+As shown in Figure 3.1, the polymer created with the inhibitor-containing photoresist
+exhibits more significant shrinkage than the other. Here we present a set of methods to
+quantitatively characterize the shrinkage of the acrylate polymer.
+
+Figure 3.1: Comparison between the shrinkage of two photoresists
+
+23
+
+CHAPTER 3. SHRINKAGE STUDY
+
+3.1
+
+24
+
+Methods
+
+A sample for DLW was prepared as described in Section 2.5. With the 4× objective
+lens, a set of lines with different linewidths ranging from 50 µm to 200 µm was fabricated
+(100 µW, 500 µm/s) on the modified coverslip. The linewidths of the lines were first
+measured under the optical microscope before rinsing. After the first round of measurements, the sample was rinsed with alcohols and dried over blowing nitrogen gas. It is then
+sputter-coated and sent to the SEM for measurements after alcohol developing. Two sets
+of measurements were tabulated and compared to obtain the shrinkage coefficient for the
+photoresist. The process was repeated with four different photoresists.
+Near the surface of the modified coverslip, the shrinkage behavior is restricted because
+the polymer chains are bonded to the acrylate groups on the surface of glass. We introduce
+a new method to characterize the shrinkage coefficients of the photoresists. The data
+obtained by this method are of more interst to this project because most of the following
+experiments are carried out with 40× oil lens, and so is this method.
+A sample for DLW was prepared as described in Section 2.5. With the 40× oil objective
+lens, four columns of dimension 10 × 10 × 10 µm were fabricated (80 nW, 50 µm/s) layer
+by layer with different focal depth. The columns were then connected with two singlepass DLW at 10 µm above the surface of coverslip, forming a cross in the middle of the
+structure. A 10-by-10-µm grid of lines was subsequently drawn on the cross to yield a
+waffle-like structure floating in the center. A 3-D presentation of the structure is shown
+
+CHAPTER 3. SHRINKAGE STUDY
+
+25
+
+in Figure 3.2. The sample was then rinsed with alcohols and dried carefully by letting the
+alcohols evaporate. As the alcohols evaporated away, the waffle structure was pulled onto
+the surface of the glass due to surface tension of the remaining fluid. After the sample
+was completely dried, it was sent for sputter-coating and SEM imaging to determine the
+dimension of the waffle structure after alcohol developing.
+
+Figure 3.2: Structure Used to Measure the Shrinkage Coefficient
+
+3.2
+
+Results
+
+The results are generally consistent with our conjecture. We present the results from
+different methods in two separate subsections.
+
+CHAPTER 3. SHRINKAGE STUDY
+
+3.2.1
+
+26
+
+Shrinkage with the 4× objective lens
+
+The measured linewidths before and after alcohol developing are tabulated in Table A.1
+– A.4 in Appendix A. For each photoresist, we plot the linewidth before developing v.s.
+the linewidth after (Figure A.1 – A.4). The slope of the plot indicates the proportion of
+remaining linewidth, which can be used to calculate percent shrinkage of each photoresist
+(Table 3.1).
+Photoresist #
+
+Regression Formula
+
+% Remaining
+
+% Shrinkage
+
+1
+
+y = 0.870413x
+
+87%
+
+13%
+
+2
+
+y = 0.876853x
+
+88%
+
+12%
+
+3
+
+y = 0.856793x
+
+86%
+
+14%
+
+4
+
+y = 0.803336x
+
+80%
+
+20%
+
+Table 3.1: Percent Shrinkage of Each Photoresist
+
+3.2.2
+
+Shrinkage with the 40× oil objective lens
+
+The highly concentrated exposure dose for fabricating the structure illustrated in Figure 3.3a gave rise to troubles in measuring the actual dimension of the waffle structure
+because the central structure had increased in size due to memory effect (Section 1.4).
+Fortunately, the polymer retained its waffle-like texture so that we were able to measure
+the distance between the first and the last swells of the structure in both x and y direc-
+
+CHAPTER 3. SHRINKAGE STUDY
+
+27
+
+tions. SEM images of the fabricated structure and measuring scheme are shown below in
+Figure 3.3. The results are taulated in Table 3.2.
+
+(a) Waffle Structure at 45◦ of View
+
+(b) Measuring the waffle structure
+
+Figure 3.3: Waffle Structure and Measuring Scheme
+
+After Developing
+Photoresist # Original Size
+
+% Shrinkage
+x-direction y-direction
+
+1
+
+10 µm
+
+8.04 µm
+
+8.04 µm
+
+20%
+
+2
+
+10 µm
+
+7.67 µm
+
+7.91 µm
+
+22%
+
+3
+
+10 µm
+
+7.37 µm
+
+7.61 µm
+
+25%
+
+4
+
+10 µm
+
+7.20 µm
+
+7.29 µm
+
+28%
+
+Table 3.2: Shrinkage Coefficients of Photoresists under 40× Oil Condition
+
+CHAPTER 3. SHRINKAGE STUDY
+
+3.3
+
+28
+
+Discussion
+
+The measurements with both 4× and 40× objective lenses showed that the percent
+shrinkage increases as the concentration of inhibitor in the photoresist increases. This
+conclusion explained the different appearance of polymers under the same fabricating
+conditions with different photoresists (Figure 3.1).
+The results obtained from the 4× air objective lens appeared to be more controversial.
+The percent shrinkage of the first three photoresists are close in range (12% - 14%).
+However, there were more systematic errors involved in this method: (1) the shrinking
+restriction and (2) the power dependence.
+The polymers fabricated with 4× lens bond to the surface of the glass, preventing
+it from shrinking near the base. In the 40× case, the polymers to be measured were
+fabricated without contacting the surface of the glass, and thus able to shrink evenly in
+all directions.
+The precent shrinkage also appeared to be power-dependent in the 4× case. For
+instance, the separated branches in the plot for photoresist #1 (Figure A.1) were the
+outcome of changing the laser power (from 10 µW to 100 µW) during the experiment.
+However, the percent shrinkage is less power-dependent in the 40× case because the useful
+power range for 40× oil fabrication (50 nW ∼ 300 nW, see Chapter 4) is much narrower
+than that for 4× fabrication.
+
+Chapter 4
+Linewidth Characterization
+One of the most fundamental and most useful structure for DLW lithography is a
+straight line. In this chapter, we present a study on the properties of straight lines
+fabricated from DLW under different conditions. We used different laser powers, writing
+speeds, and inhibitor concentrations, and compared the linewidths under these conditions.
+The results gives a table of reference for future fabrication of lines with desired linewidth.
+
+4.1
+
+Methods
+
+A sample for DLW was prepared as described in Section 2.5. A straight line was
+first drawn on the coverslip while adjusting the z-coordinate in order to align the focal
+point of the laser with the surface of the coverslip. A set of five straight lines with a
+specific power-speed combination was drawn 100 µm away from the focus-adjustment line
+
+29
+
+CHAPTER 4. LINEWIDTH CHARACTERIZATION
+
+30
+
+in order to prevent significant memory effects. The sample was developed and sputtercoated, then sent for SEM imaging as described in Sections 2.6 and 2.7. An SEM image
+of the fabricated straight lines is shown in Figure 4.1. Such process was repeated for all
+the power-speed combinations for the following choices of laser powers and writing speeds
+in Table 4.1. The measured linewidth under each condition is tabulated and compared
+for the analysis of the linewidth’s dependence on different conditions.
+
+Figure 4.1: Straight Lines for Linewidth Measurements
+
+Laser Power (nW)
+
+100
+
+150
+
+200
+
+250
+
+Writing Speed (µm/s)
+
+20
+
+30
+
+40
+
+50
+
+Table 4.1: Laser Powers and Writing Speeds for Linewidth Characterization
+
+CHAPTER 4. LINEWIDTH CHARACTERIZATION
+
+31
+
+In order to reduce the unexpected variations during the fabrication, and to save the
+usage of modified coverslips, all the sixteen combinations were operated on one sample.
+Then the same combinations were repeated for the other photoresists. In the end, we
+obtained a total of 64 sets of lines for linewidth measurements.
+
+4.2
+
+Results
+
+The raw data of linewidth measurements on the 64 sets of lines are tabulated in
+Appendix B. The “not available” (N/A) data points are conditions under which linear
+fabrication was difficult, if not impossible, due to low laser power and/or high writing
+speed. The average linewidths obtained from different fabricating conditions are tabulated
+in Table B.5. A more viewer-friendly colored chart is also provided as Figure 4.2 on the
+following page with the numbers showing the linewidths under the according fabricating
+conditions.
+
+4.3
+
+Discussion
+
+The colored chart provides a clear pattern within the data. The linewidth of DLW
+depends on laser power, writing speed, and inhibitor concentration in the photoresist. In
+all four photoresists, the color of the blocks turns “colder” as we go down the rows for
+higher laser power, and turns “warmer” as we go right of the columns for faster writing
+speed. As we increase the inhibitor concentration, the color of the chart turns “warmer”.
+
+CHAPTER 4. LINEWIDTH CHARACTERIZATION
+
+0.9
+
+0.7
+
+0.6
+
+150
+
+2.5
+
+2.0
+
+1.4
+
+1.1
+
+200
+
+3.7
+
+3.2
+
+2.9
+
+1.6
+
+250
+
+4.5
+
+3.2
+
+2.6
+
+1.7
+
+Power HnWL
+
+1.8
+
+20
+
+Speed HΜmsL
+30
+
+40
+
+100
+
+1.3
+
+0.9
+
+0.6
+
+0.0
+
+150
+
+1.4
+
+1.1
+
+0.7
+
+0.5
+
+200
+
+2.0
+
+1.3
+
+1.0
+
+0.8
+
+250
+
+2.1
+
+1.4
+
+1.0
+
+0.7
+
+Power HnWL
+
+100
+
+50
+
+20
+
+(a) Photoresist #1
+
+0.0
+
+0.0
+
+0.0
+
+150
+
+1.1
+
+1.0
+
+0.9
+
+0.8
+
+200
+
+1.6
+
+0.9
+
+0.6
+
+0.4
+
+250
+
+2.1
+
+1.4
+
+1.3
+
+1.1
+
+Power HnWL
+
+1.0
+
+20
+
+Speed HΜmsL
+30
+
+40
+
+100
+
+1
+
+30
+
+40
+
+50
+
+0.0
+
+0.0
+
+0.0
+
+0.0
+
+150
+
+1.1
+
+0.9
+
+0.6
+
+0.6
+
+200
+
+1.1
+
+0.8
+
+0.7
+
+0.6
+
+250
+
+2.0
+
+1.5
+
+1.1
+
+0.9
+
+50
+
+20
+
+(c) Photoresist #3
+
+0
+
+Speed HΜmsL
+
+(b) Photoresist #2
+
+Power HnWL
+
+100
+
+32
+
+Speed HΜmsL
+30
+
+40
+
+(d) Photoresist #4
+
+2
+
+3
+
+4
+
+5 Μm
+
+(e) Linewidth Calibration
+
+Figure 4.2: Linewidths under Different Conditions
+
+50
+
+CHAPTER 4. LINEWIDTH CHARACTERIZATION
+
+33
+
+The colored chart provides a table of reference for future fabrications of lines with desired
+linewidth.
+
+4.3.1
+
+Laser power/writing speed dependence
+
+Generally in the colored chart, as we go down each row, the color of the blocks turns
+“colder”, and the linewidth increases. It makes sense that thicker lines are fabricated with
+higher laser power.
+All the rows in the colored chart have linewidth value decreasing from left to right.
+Thus the linewidth decreases as we increase the writing speed, because the exposure dose
+is reduced in a unit area with a faster speed.
+
+4.3.2
+
+Inhibitor concentration dependence
+
+The general picture shows that the color of the charts turns “warmer” as the concentration of inhibitor is increased. Here we compare the linewidths under one power-speed
+combination for four different photoresists to illustrate the inhibitor’s affects on DLW
+linewidth. Figure 4.3 shows the average linewidths of straight lines fabricated under 150
+nW laser power and 20 µm/s writing speed with four different photoresists. As we may
+tell from the figure, the average linewidth measured from the SEM image decreases with
+an increasing inhibitor concentration. However, we are more interested in the linewidths
+before shrinkage, which can be calculated with the shrinkage coefficient determined in
+Section 3.2. The linewidth before shrinkage for each photoresist is tabulated in Table 4.2,
+
+CHAPTER 4. LINEWIDTH CHARACTERIZATION
+
+34
+
+Inhibitor Conc.
+
+4%
+3%
+2%
+0%
+0
+
+1.06
+1.15
+1.39
+2.55
+
+1
+
+2
+
+Line Width
+
+4 Μm
+
+3
+
+Figure 4.3: Linewidths under 150 nW, 20µm/s with different photoresists
+Photoresist Measured linewidth
+
+% Shrinkage
+
+Calculated linewidth
+
+#1
+
+2.55 µm
+
+20%
+
+3.19 µm
+
+#2
+
+1.39 µm
+
+22%
+
+1.78 µm
+
+#3
+
+1.15 µm
+
+25%
+
+1.53 µm
+
+#4
+
+1.06 µm
+
+28%
+
+1.47 µm
+
+Table 4.2: Calculated linewidth from shrinkage coefficients
+Inhibitor Conc.
+
+4%
+3%
+2%
+0%
+0
+
+1.47
+1.53
+1.79
+3.18Line Width
+
+1
+
+2
+
+3
+
+4 Μm
+
+Figure 4.4: Calculated linewidths with different photoresists
+and plotted in Figure 4.4. We arrive at the same conclusion that the average linewidth
+decreases with an increasing inhibitor concentration.
+
+Part II
+Mathematical Modeling
+
+Chapter 5
+Introduction II
+One of the most important concerns in the area of direct laser writing (DLW) lithography is the spatial resolution. However, the spatial resolution of DLW lighography is
+affected by the memory effect. The diffusive behavior of the photoresist prohibits structures from being fabricated close to each other. The heat equation, which is classified as
+a parabolic partial differential equation, describes the heat flow or diffusion processes. A
+simple example of the heat equation in one-dimension is given by
+∂2
+∂
+u(x, t) = α · 2 u(x, t),
+∂t
+∂x
+
+(5.1)
+
+where u(x, t) is a function of space x and time t that describes the concentration of a
+specific molecule in a heterogeneous mixture, where α > 0 is the diffusivity coefficient.
+Previous research showed the utility of heat equations in this type of modeling [PY05].
+We assume that the diffusion of the particles, including the monomer, photoinitiator, and
+36
+
+CHAPTER 5. INTRODUCTION II
+
+37
+
+free radicals, behave according to an analog of the heat equation. Therefore, it is natural
+to start with the heat equation and develop a mathematical model for the polymerization
+of the photoresist.
+However, a PDE does not always have analytic solutions [Rub74]. In order to obtain
+numerical approximations of the solutions to PDEs, the method of finite differences is used
+to discretize the continuous partial differential equations into difference equations. The
+difference equations can then be iteratively solved with appropriate initial and boundary
+conditions with the help of mathematical programming languages.
+Additionally, we use Markov chains to model the growth of the polymer. Similar
+approach had been applied in the modeling of actin polymerization [Sza10]. A Markov
+chain is a deterministic probabilistic model with a finite number of states {si }ni=1 and
+transition probabilities {pij | 1 ≤ i, j ≤ n} between states si and sj . The Markov
+process assumes that the conditional probability distribution of future states of the process
+depends only upon the present state, not on the sequence of events that preceded it. The
+Markov model gives a probabilistic distribution of states at any given number of time
+steps [Rev84].
+
+5.1
+
+The Gaussian Beam
+
+Before we start modeling the polymerization reaction, we study the profile of the laser
+setup. In Section 2.1, we proposed that the intensity of the collimated laser beam follows
+
+CHAPTER 5. INTRODUCTION II
+
+38
+
+the pattern of an Airy disk, which can be approximated by a Gaussian function. The
+beam can therefore be approximated as a Gaussian beam (Section 2.1 and Figure 2.2).
+We shall present some useful properties of the Gaussian beam [ST91].
+The optical intensity of a focused Gaussian beam I(r) is a function of the axial and
+radial distances, z and ρ =
+
+p
+x2 + y 2 , respectively. The expression is given by
+
+
+I(ρ, z) = I0
+
+W0
+W (z)
+
+2
+
+
+
+2ρ2
+Exp −
+,
+W (z)2
+
+(5.2)
+
+where I0 is the intensity at the center of the beam, W0 is the beam waist, and W (z) is the
+beam radius at z, given by
+s
+W (z) = W0
+
+1+
+
+
+
+z
+z0
+
+2
+,
+
+(5.3)
+
+where z0 is called the Raleigh range, and is the axial distance at which the intensity is
+half of I0 along the beam axis.
+Two additional properties of the Gaussian beam used in developing the model are the
+beam divergence and the depth of focus. Far from the beam center, when z  z0 , the
+beam radius increases approximately linearly. This fact can be verified by examing the
+beam radius function W (z). By algebraic manipulation, we may get the relation
+W (z)2 z 2
+− 2 = 1,
+W02
+z0
+
+(5.4)
+
+which implies that W (z) is the positive branch of a pair of hyperbolae. The plot of W (z),
+therefore, has a pair of linear asymptotes (Figure 5.1), which defines a half-angle. About
+86% of the beam power is confined with a cone defined by the half-angle θ0 [ST91]. The
+
+CHAPTER 5. INTRODUCTION II
+
+39
+W HzL
+2 W0
+W0
+Θ0
+
+- z0
+
+0
+
+z0
+
+z
+
+Figure 5.1: Beam Radius as a Function of z
+angular divergence of the beam is therefore defined by the angle
+
+θ0 =
+
+λ
+2
+·
+.
+π 2W0
+
+(5.5)
+
+The beam divergence is inversely proportional to the beam-waist diameter 2W0 . Thus if
+we want to squeeze the beam waist to produce a smaller DLW voxel, a larger θ0 should
+be used by using a lens with high numerical aperture (NA).
+The Gaussian beam achieves its best focus at the plane z = 0. In either direction, the
+beam gradually grows “out of focus.” The axial distance within which the beam radius
+lies within a factor of
+
+√
+2 of its minimum value is known as the depth of focus or confocal
+
+parameter, and is twice the Rayleigh range,
+
+2z0 =
+
+2πW02
+.
+λ
+
+(5.6)
+
+In our 40× oil setup (See Section 2.5), we know the numerical aperture (NA) of the
+objective lens and the refractive index n of the index matched immersion oil. Thus we
+compute the angular divergence of the Gaussian beam
+−1
+
+θ0 = sin
+
+
+
+NA
+n
+
+
+.
+
+(5.7)
+
+CHAPTER 5. INTRODUCTION II
+
+40
+
+With the help of the angular divergence formula (5.5), we may figure out the beam waist
+λ
+λ
+=
+−1
+πθ0
+π sin (NA/n)
+
+W0 =
+
+(5.8)
+
+Now we substitute the numerical values λ = 0.405 µm, NA = 1.3, and n = 1.5 in, and
+obtain the beam waist W0 = 0.123 µm. Thus the intensity function (5.2) at z = 0 is
+
+
+2r2
+I(r, θ) = I0 · Exp − 2 , where W0 = 0.123 µm.
+W0
+
+(5.9)
+
+We integrate the intensity function over the whole plane in polar coordinates to get the
+power output of the Gaussian beam:
+ZZ
+
+Z
+
+P =
+
+2π
+
+I(r, θ)dA =
+R2
+
+θ=0
+
+∞
+
+
+
+2r2
+πI0 W02
+I0 · Exp − 2 · rdrdθ =
+.
+W0
+2
+r=0
+
+Z
+
+(5.10)
+
+Therefore, once we measure the power output P of the approximated Gaussian beam after
+the pinhole, we may use the equation
+I0 =
+
+2P
+πW02
+
+(5.11)
+
+to compute the principal intensity. Thus we have the complete Gaussian beam profile,
+with the radial distance r and axial distance z from the center of exposure as the only
+two dependent variables.
+
+5.2
+
+Parabolic Equations
+
+To describe diffusive behaviors of particles, we need parabolic-type partial differential
+equations. First we shall have some definitions [Far82].
+
+CHAPTER 5. INTRODUCTION II
+
+41
+
+Definition 1. A partial differential equation, abbreviated as PDE, is an equation
+that contains partial derivatives.
+Let u(x, y) be a function of x and y. Listed below are some examples of partial
+differential equations.
+∂u
+= 0,
+∂x
+
+∂ 2u ∂ 2u
++
+= 0,
+∂x2 ∂y 2
+
+u2 +
+
+∂u
+= f (x, y).
+∂x
+
+For notational simplicity, we would denote the partial derivatives using subscripts as
+follows
+ux =
+
+∂u
+,
+∂x
+
+uy =
+
+∂u
+,
+∂y
+
+uxx =
+
+∂ 2u
+,
+∂x2
+
+uyy =
+
+∂ 2u
+.
+∂y 2
+
+Definition 2. Let u(x, y) be a function of two variables x and y. A second-order linear
+PDE in two variables is an equation in the form
+Auxx + Buxy + Cuyy + Dux + Euy + F u = G,
+where A, B, C, D, E, F, G can be constants or given functions of x and y.
+Definition 3. Parabolic equations are second-order linear PDEs which satisfy the
+property B 2 − 4AC = 0. Parabolic PDEs are often used to describe heat flow and diffusion
+processes.
+Definition 4. The one-dimensional heat equation is a PDE in the form
+ut = α · uxx ,
+where u is a function of space x and time t, and α > 0 is the diffusivity coefficient.
+
+CHAPTER 5. INTRODUCTION II
+
+42
+
+The heat equation is parabolic because 02 − 4α · 0 = 0, and it is capable of describing
+the diffusion of particles in a system. However, the heat equation only describes linear
+diffusive behaviors under conservative conditions. The introduction of source and sink
+terms enables us to incorporate the non-conservative behaviors of concentrations. Notice
+that the left-hand side of the heat equation is the partial derivative of the concentration
+function with respect to time, in other words, the rate of change in concentration. A
+positively-valued term added to the right-hand side leads to the increase in ut , and we
+name such term a source. On the other hand, a negatively-valued term is named a
+sink. These terms describes the non-conservative increase or decrease in concentrations
+of species in the system.
+In addition, to solve differential equations, we need initial conditions and boundary
+conditions. The initial condition provides information about the concentration in the
+system at an initial time. The boundary conditions are given to compensate for the fact
+that the partial derivatives are not well-defined at the boundaries. During the diffusion
+process, there should be no net flow of particles through the boundary, i.e., the spatial
+derivatives at the boundaries should be zero. This type of boundary conditions is called
+Neumann boundary conditions.
+With an appropriate system of parabolic PDEs, initial, and boundary conditions, we
+shall proceed to numerically solve the system with the method of finite differences, since
+it would be too hard, if not impossible, to solve analytically.
+
+CHAPTER 5. INTRODUCTION II
+
+5.3
+
+43
+
+Method of Finite Differences
+
+The differential equations with sink and source terms described in the previous section
+are usually nonlinear, and thus too complicated to be solved analytically. We need to devise our toolbox with numerical methods to solve them. Of the many different approaches
+to solving PDEs numerically, we use the method of finite differences to numerically approximate our physical reality [Tho95]. The method of finite differences converts differential
+equations to difference equations, whose spatial and time domains are discrete. There
+are yet other numerical methods that are more efficient and accurate, but the method
+of finite differences is easier to implement in a programming language. We use Wolfram
+R
+Mathematica
+to numerically solve the PDEs which simulate the physical problem.
+
+To start, we consider the initial-boundary-value problem of heat flow. Let V (x, t) be
+a function of temperature in terms of space x and time t on the domain x ∈ [0, 1]. Let
+f (x) be a function defined on x ∈ [0, 1], and let a(t) and b(t) be functions defined on
+t ∈ [0, ∞). Suppose that V (x, t) satisfies
+Vt = α · Vxx , x ∈ (0, 1), t > 0
+
+(5.12)
+
+V (x, 0) = f (x), x ∈ [0, 1]
+
+(5.13)
+
+V (0, t) = a(t), V (1, t) = b(t), t ≥ 0
+
+(5.14)
+
+where the initial condition and the boundary conditions agree, i.e., f (0) = a(0) and
+f (1) = b(0). Our first step is to convert the continuous system into a discrete expression.
+We discretize the spatial domain into M + 1 equally spaced points x0 , x1 , . . . , xM −1 , xM ,
+
+CHAPTER 5. INTRODUCTION II
+
+44
+
+where x0 = 0, xM = 1, and xk = k∆x for all integer-valued k that satisfies 0 ≤ k ≤ M
+and ∆x = 1/M . Likewise, we discretize the time domain with spacing ∆t, and we have
+points t0 , t1 , . . . on the time domain, where tn = n∆t for all integer-valued n ≥ 0. Hence,
+we obtain a grid on the space-time domain as shown in Figure 5.2.
+
+t
+4Dt
+3Dt
+2Dt
+Dt
+
+x
+
+Dx
+
+0
+x0
+
+x1
+
+x2
+
+xM -1
+
+xM
+
+Figure 5.2: Difference Grid on the Space-Time Domain
+
+The lattice points in the figure approximate the system (5.12)–(5.14) as ∆x → 0 and
+∆t → 0, and we shall define v(k, n) to be a function defined at the point (k∆x, n∆t), in
+which case v approximates V . By definition of a derivative, we know that
+V (x, t + ∆t) − V (x, t)
+.
+∆t→0
+∆t
+
+Vt (x, t) = lim
+
+(5.15)
+
+Thus it is reasonable to define the derivative of the discrete function v(k, n) by
+
+vt (k, n) =
+
+v(k, n + 1) − v(k, n)
+.
+∆t
+
+(5.16)
+
+Likewise, the second spatial derivative of v(k, n) may be defined by the centered difference
+
+CHAPTER 5. INTRODUCTION II
+
+45
+
+equation
+v(k + 1, n) − 2v(k, n) + v(k − 1, n)
+.
+∆x2
+
+vxx (k, n) =
+
+(5.17)
+
+Thus the approximated differential equation (5.12) is written as
+v(k, n + 1) − v(k, n)
+v(k + 1, n) − 2v(k, n) + v(k − 1, n)
+=α·
+,
+∆t
+∆x2
+
+(5.18)
+
+or, equivalently,
+v(k, n + 1) = v(k, n) + α ·
+
+
+∆t 
+v(k
++
+1,
+n)
+−
+2v(k,
+n)
++
+v(k
+−
+1,
+n)
+,
+·
+∆x2
+
+(5.19)
+
+and the initial condition and the boundary conditions are approximated by
+v(k, 0) = f (k∆x)
+
+(5.20)
+
+v(0, n + 1) = a((n + 1)∆t)
+
+(5.21)
+
+v(M, n + 1) = b((n + 1)∆t)
+
+(5.22)
+
+The equations (5.19)–(5.22) provide an approximation for the system (5.12)–(5.14). Because we already know the initial values of v at all lattice points and the boundary values
+of v at all time from equations (5.20)–(5.22), we may use equation (5.19) to iteratively
+compute the value of v at each lattice point, thus giving a discrete numerical approximation for the continuous function V (x, t).
+
+5.4
+
+Markov Chains
+
+A probabilistic model for the acrylate polymerization can be presented as a directional
+random walk [Sza10]. A random walk is a random process consisting of a sequence of
+
+CHAPTER 5. INTRODUCTION II
+
+46
+
+discrete steps. Consider a particle on the number line with initial location x = 0. In
+a directional random work, there are two and only two possible options for the particle
+in a time unit: there is a probability p that the particle jumps one unit to the right,
+and a probability q that it stays at its current location. Additionally, the probabilities
+must sum to one, i.e., p + q = 1. The states (position of the particle) and the transition
+probabilities between states together form a Markov chain as shown by the state diagram
+in Figure 5.3. The Markov chain satisfies the Markov assumption that the probability of
+transition is only dependent on the current state and independent from all previous ones,
+thus can be modeled as a Markov process.
+
+1 - p0
+
+0
+
+1 - p1
+
+p0
+
+1
+
+1 - p2
+
+p1
+
+2
+
+1 - p3
+
+p2
+
+3
+
+p3
+
+Figure 5.3: A State Diagram of the Markov Chain for Directional Random Walk
+Define P (k, t) for all k ∈ N and t ∈ N as the probability of the particle being at
+position k at time t, and let pk be the transition probability for a transition from k to
+k + 1 for all k ∈ N. Given an initial probability density function P (k, 0) of where the
+particle might be, the probability density P (k, i + 1) at the (i + 1)-th time step can be
+given by
+P (k, i + 1) = P (k, i) · (1 − pk ) + P (k − 1, i) · pk−1 .
+
+(5.23)
+
+The first term on the right hand side stands for the probability that the particle was at
+
+CHAPTER 5. INTRODUCTION II
+
+47
+
+position k at the i-th time step, and did not move in the subsequent time iteration; the
+second term stands for the probability that the particle was at position k − 1 at the i-th
+time step, and moved one step forward in the subsequent time iteration. Mathematical
+induction allows us to iteratively approximate the probability density P (k, t) at the t-th
+time step for all k ∈ N. The expected value E[K, t] of the location of the particle at time
+t can be computed with
+E[K, t] =
+
+∞
+X
+
+k · P (k, t).
+
+k=0
+
+We may use this expected value as the expected position of the particle at time t.
+
+(5.24)
+
+Chapter 6
+Memory Effect Characterization
+The ultimate goal of this project is to develop a mathematical model that describes
+the acrylate polymerization reaction as well as the memory effect (Section 1.4). Here we
+present an experimental method to quantify the memory effect. We studied the simplest
+case – two dots drawn consecutively with a hiatus time in between. Because both the
+diffusive behavior and the decay of radicals depend heavily on time, we need to accurately
+measure all the time periods between and during events. In addition to our usual setup, we
+used an oscilloscope to measure the exposure time and hiatus time. The percent growth
+in dot size is measured and tabulated for different spacing and hiatus time conditions,
+and is used as a measure of the “extent” of memory effect.
+
+48
+
+CHAPTER 6. MEMORY EFFECT CHARACTERIZATION
+
+6.1
+
+49
+
+Oscilloscope Setup
+
+A digital oscilloscope (Rigor DS1204B) was connected to the shutter control to monitor
+the electronic signals. The voltage output of the shutter trigger was connected to Channel
+1 of the oscilloscope. The time scale was set to be 500.0 ms per grid, and the voltage
+scale was set to be 20.0 V per grid (Figure 6.1a). For monitoring a double-dot exposure,
+the oscilloscope run control was set to “Single”, which is triggered by a change in the
+input voltage. A measurement of 0.50-second exposure time and 1.0-second hiatus time
+is shown in Figure 6.1b.
+
+(a) Oscilloscope Setup
+
+(b) A measurement by oscilloscope
+
+Figure 6.1: Digital oscilloscope used in the experiment
+
+6.2
+
+Methods
+
+A sample for DLW is prepared as described in Section 2.5. Then pairs of dots with
+0.50-second exposure time were fabricated with spacing and hiatus time listed in Table 6.1.
+
+CHAPTER 6. MEMORY EFFECT CHARACTERIZATION
+
+Spacing (µm)
+
+Hiatus time (s)
+
+Base speed range (µm/s)
+
+10.0
+
+2.0
+
+5.7 – 5.9
+
+10.0
+
+1.0
+
+11.5 – 11.7
+
+10.0
+
+0.50
+
+24.3 – 24.6
+
+8.0
+
+2.0
+
+4.8 – 5.0
+
+8.0
+
+1.0
+
+10.2 – 10.5
+
+8.0
+
+0.50
+
+21.8 – 22.1
+
+5.0
+
+2.0
+
+3.1 – 3.3
+
+5.0
+
+1.0
+
+6.3 – 6.6
+
+5.0
+
+0.50
+
+13.8 – 14.1
+
+50
+
+Table 6.1: Base Speed Range for Specific Hiatus Time
+Depending on the amount of index matched immersion oil applied between the sample
+and the lens, the actual moving speed of the automated stage differs from the base speed
+set by the DLW program. The base speed of the program was adjusted according to
+Table 6.1 so that the hiatus time can be as close to the desired value as possible. At
+the same time, a camera (Thorlabs UC480) mounted on the microscope was set to a
+resolution of 480 × 240 pixels with a frame rate of 101.61 frames per second for further
+high-speed analysis in the model. The laser power was set to 200 nW. When the laser,
+program, oscilloscope, and camera were all prepared accordingly, a double-dot fabrication
+was operated with the camera taking a high-speed video. After all the double-dots were
+
+CHAPTER 6. MEMORY EFFECT CHARACTERIZATION
+
+51
+
+completed, the sample was washed in ethanol and dried with gentle breeze of air. It was
+then sputter-coated with gold and sent for SEM imaging, where we obtain data for the
+dot sizes in each double-dot fabrication.
+
+6.3
+
+Results
+
+The size of each dot under each fabrication are listed in Table 6.2. Notice that some
+of the hiatus times or exposure times were not controlled exactly the same as the desired
+value because the machine sometimes had unpredictable electronic delays. In addition,
+the last two sets (#8, #9) of measurements are not provided because the two dots merged
+with each other due to the lack of space between them. Figure 6.2 shows the outcome
+of measurement #9. The SEM images of all nine sets of double-dot measurement are
+provided in Appendix C.
+
+Figure 6.2: SEM Image of Double-Dot Experiment #9
+
+0.50
+0.50
+
+10
+
+10
+
+8
+
+8
+
+8
+
+5
+
+5
+
+5
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+0.50
+
+0.50
+
+0.50
+
+0.50
+
+0.50
+
+0.50
+
+0.50
+
+10
+
+#
+
+0.50
+
+0.56
+
+0.54
+
+0.56
+
+0.50
+
+0.50
+
+0.50
+
+0.50
+
+0.50
+
+2nd exposure
+(s)
+
+0.50
+
+1.0
+
+2.0
+
+0.50
+
+1.0
+
+2.0
+
+0.54
+
+1.0
+
+2.0
+
+Hiatus time
+(s)
+
+—
+
+—
+
+2.70
+
+2.30
+
+2.09
+
+1.80
+
+1.99
+
+2.07
+
+1.81
+
+1st Dot
+(µm)
+
+Table 6.2: Dot Size Measurements for Memory Effect
+
+1st exposure
+(s)
+
+Spacing
+(µm)
+
+—
+
+—
+
+3.28
+
+3.37
+
+2.70
+
+2.14
+
+2.63
+
+2.56
+
+2.09
+
+2nd Dot
+(µm)
+
+—
+
+—
+
+21%
+
+47%
+
+29%
+
+19%
+
+32%
+
+24%
+
+15%
+
+% Increase
+
+CHAPTER 6. MEMORY EFFECT CHARACTERIZATION
+52
+
+CHAPTER 6. MEMORY EFFECT CHARACTERIZATION
+
+6.4
+
+53
+
+Discussion
+
+From Table 6.2, two points can be concluded:
+• if the spacing between two dots is controlled, the shorter the hiatus time, the larger
+the percent increase in size;
+• if the hiatus time between two dots is controlled, the shorter the distance between
+them, the larger the percent increase in size.
+This result is within our expectation, because the memory effect is conjectured to be
+a result of excessive amount of radicals and oligomer molecules due to non-local exposure
+and diffusive behaviors. The diffusion needs time to proceed, thus in a given amount of
+time, the further away the second exposure is, the less influence from the first exposure
+imposes on the second. The radicals also decay when two of them quench each other
+(Section 1.3). The decay process also has a rate, so that the longer we wait after we
+fabricate the first dot, the less influence from the first exposure imposes on the second.
+
+Chapter 7
+Modeling the Memory Effect
+We first modeled the memory effect with the heat equation and approximated the
+changes in the concentration of photoinitiator and radicals (including initial radicals,
+acrylate monomer radicals, and acrylate oligomer radicals). The PDEs were numerically
+solved with the method of finite differences, and the solutions were computed in Mathematica as functions of space and time. We then associated the transition probabilities of
+a Markov chain to the radical concentration, and utilized the Markov chain to generate
+a probabilistic model that describes the growth of polymer. When the model was completed, the parameters were adjusted so that the results from the model better fit the
+experimental data obtained in Chapter 6.
+In order to prevent confusion, a table of variables and coefficients, and a table of
+functions and lists, are provided in Tables 7.1 and 7.2.
+
+54
+
+CHAPTER 7. MODELING THE MEMORY EFFECT
+
+55
+
+Variables
+in Model
+
+Variables
+in Code
+
+—
+
+ExposureTime1
+
+Variable for the first exposure time in s
+
+—
+
+ExposureTime2
+
+Variable for the second exposure time in s
+
+—
+
+HiatusTime
+
+—
+
+Spacing
+
+Variable for the spacing between two dots in µm
+
+λ
+
+Lambda
+
+Wavelength of laser in µm, specifically, λ = 0.405
+
+P
+
+P
+
+θ
+
+Theta
+
+z
+
+z
+
+Axial distance from the center of the beam in µm
+
+z0
+
+z0
+
+Raleigh range in µm
+
+W0
+
+W0
+
+Beam waist in µm
+
+I0
+
+I0
+
+Principal intensity of the bean in W/m2
+
+α
+
+alpha
+
+Diffusivity of photoinitiator
+
+β
+
+beta
+
+Diffusivity of radicals
+
+m
+
+m
+
+Proportion of photoinitiator yield to beam intensity
+
+d
+
+d
+
+Dying coefficient of radicals
+
+M
+
+M
+
+Total number of spatial grids, specifically, M = 400
+
+∆x
+
+dx
+
+Length of each spatial step in µm
+
+∆t
+
+dt
+
+Length of each time step in s, specifically, t = 0.002
+
+k
+
+k
+
+Index of spatial steps (0 ≤ k ≤ M )
+
+n
+
+n
+
+Index of time steps (n ≥ 0)
+
+Definitions and Comments
+
+Variable for the hiatus time in s
+
+Power output of the laser in nW, specifically, P = 200
+Angular divergence of the Gaussian beam
+
+Table 7.1: Table of Variables and Coefficients
+
+CHAPTER 7. MODELING THE MEMORY EFFECT
+
+56
+
+Functions
+in Model
+
+Functions
+in Code
+
+Definitions and Comments
+
+W (z)
+
+W[z]
+
+Returns the beam radius in µm
+
+I(x)
+
+Intensity[x]
+
+Returns the beam intensity in W/m2
+
+R(x)
+
+Reflection[x]
+
+Returns the reflection intensity in W/m2
+
+—
+
+Exposure[x,pos]
+
+Returns the exposure dose given the exposure at pos
+
+p
+
+densityP[u]
+
+Returns the probability of polymerization given the
+concentration u of radicals
+
+c
+
+c
+
+List storing the photoinitiator concentration
+
+u
+
+u
+
+List storing the radical concentration
+
+Pl
+
+pLeft
+
+List storing the spatial probability distribution of the
+left boundary of the polymer
+
+Pr
+
+pRight
+
+List storing the spatial probability distribution of the
+left boundary of the polymer
+
+—
+
+Poly
+
+List storing the polymerized spatial grids
+
+Table 7.2: Table of Functions and Lists
+
+7.1
+
+First Approximation: Radical Initiation
+
+The first chemical change we approximate is the consumption of the photoinitiator.
+The concentration of the photoinitiator is denoted c(x, t) as a function of space x and
+time t. We choose a spatial domain wide enough to enclose all changes necessary for con-
+
+CHAPTER 7. MODELING THE MEMORY EFFECT
+
+57
+
+sideration. In this case, we define our spatial domain with a length of 20 µm, and the first
+exposure is set at x = 5 µm. As the photoresist is exposed to the laser beam, the photoinitiator gets excited and splits into two radicals, thus reducing its own concentration. We
+assume that the amount of excited photoinitiator molecules is proportional to the intensity of the exposure and the concentration of photoinitiator. Because the concentrations
+of species are hard, if not impossible, to determine experimentally, we assume arbitrary
+units for concentrations. Let α be the diffusivity of photoinitiator in the photoresist, I(x)
+be the intensity function, R(x) be the function that describes the intensity of reflections
+within the photoresist, and m be the conversion coefficient of photoinitiation with respect
+to beam intensity. Then the PDE that describes the concentration of photoinitiator is
+
+
+ct = α · cxx − m · I(x) + R(x) · c,
+
+(7.1)
+
+c(x, 0) = 1,
+
+(7.2)
+
+cx (0, t) = cx (20, t) = 0.
+
+(7.3)
+
+with initial condition
+
+and boundary conditions
+
+It turns out, in the end, that the reflection term R(x) plays an important role in this
+model of memory effect. Without this term, we were not able to obtain data for the
+percent increase that was comparable to the experimental results. A plot of the reflection
+term, R(x), together with the beam intensity, I(x), is given in Figure 7.1, where the blue
+curve shows the beam intensity and the purple curve shows the intensity due to reflection.
+
+CHAPTER 7. MODELING THE MEMORY EFFECT
+
+58
+
+0.12
+0.10
+0.08
+0.06
+0.04
+0.02
+0.00
+-10
+
+-5
+
+0
+
+5
+
+10
+
+Figure 7.1: Beam Intensity I(x) and Reflection Intensity R(x)
+We convert this PDE into a difference equation with the method introduced in Section 5.3. Equation (7.1) can be rewritten into
+c(k + 1, n) − 2c(k, n) + c(k − 1, n)
+c(k, n + 1) − c(k, n)
+=α·
+∆t
+∆x2
+
+
+−m · I(k∆x) + R(k∆x) · c(k, n).
+
+(7.4)
+
+Solving for the future time step,
+
+∆t 
+c(k, n + 1) = c(k, n) + α ·
+· c(k + 1, n) − 2c(k, n) + c(k − 1, n)
+∆x2
+
+
+−∆t · m · I(k∆x) + R(k∆x) · c(k, n).
+
+(7.5)
+
+The initial condition (7.2) can be converted into
+
+c(k, 0) = 1.
+
+(7.6)
+
+Notice that we use Neumann boundary conditions for this approximation because we want
+to assume zero net flow of concentrations at the boundaries. This is different from the
+example given in Section 5.3, where we considered Dirichlet boundary conditions. There
+are several ways to treat the Neumann boundary conditions [Tho95]. For simplicity, we
+
+CHAPTER 7. MODELING THE MEMORY EFFECT
+
+59
+
+would use a one-sided difference approximation of cx (0, t) to get
+c(M, n + 1) − c(M − 1, n + 1)
+c(1, n + 1) − c(0, n + 1)
+=
+= 0,
+∆x
+∆x
+or, equivalently,
+c(0, n + 1) = c(1, n + 1) and c(M, n + 1) = c(M − 1, n + 1).
+
+(7.7)
+
+Thus, equations (7.5)–(7.7) approximate the differential equation described by equations
+(7.1)–(7.3).
+
+7.2
+
+Second Approximation: Acrylate Initiation
+
+With a method similar to the last section, we can also approximate the concentration
+of radicals. This concentration is denoted u(x, t) as a function of space x and time t on the
+same spatial domain x ∈ [0, 20]. The mechanism mentioned in Section 1.3 suggests that
+one molecule of photoinitiator gets excited and splits into two radicals. Conservation of
+Mass implies that the increase in radicals equals twice the consumption in photoinitiators.
+At the same time, radicals are not stable and tend to quench each other when they
+are placed in the same vessel. Hence, a sink term describing the decay of radicals is
+also included. Radical quenching always involve two radicals, which suggests that the
+quenching reaction is second-order. Thus the rate of decay, given by d, is proportional to
+the second power of radical concentration. Let β be the diffusivity of radicals. Then the
+
+CHAPTER 7. MODELING THE MEMORY EFFECT
+
+60
+
+PDE describing the radical concentration is
+
+
+ut = β · uxx + 2m · I(x) + R(x) · c − d · u2 ,
+
+(7.8)
+
+with initial condition, while no radical should be present initially,
+
+u(x, 0) = 0,
+
+(7.9)
+
+ux (0, t) = ux (20, t) = 0.
+
+(7.10)
+
+and boundary conditions
+
+Notice that this PDE involves the concentration of photoinitiator c(x, t). Thus it forms a
+coupled system of PDEs with equations (7.1)–(7.3). Its corresponding difference equation
+is
+u(k + 1, n) − 2u(k, n) + u(k − 1, n)
+u(k, n + 1) − u(k, n)
+=β·
+∆t
+∆x2
+
+
++2m · I(k∆x) + R(k∆x) · c(k, n) − d · u2 (k, n),
+
+(7.11)
+
+or, equivalently,
+
+∆t 
+u(k, n + 1) = u(k, n) + β ·
+· u(k + 1, n) − 2u(k, n) + u(k − 1, n)
+∆x2
+
+
++∆t · 2m · I(k∆x) + R(k∆x) · c(k, n) − ∆t · d · u2 (k, n),
+
+(7.12)
+
+with initial condition
+u(k, 0) = 0,
+
+(7.13)
+
+u(0, n + 1) = u(1, n + 1) and u(M, n + 1) = u(M − 1, n + 1).
+
+(7.14)
+
+and boundary conditions
+
+CHAPTER 7. MODELING THE MEMORY EFFECT
+
+61
+
+Therefore, equations (7.5)–(7.7) and (7.12)–(7.14) form a coupled system of difference
+equations that describes the concentration of photoinitiator and radicals in the photoresist. Our next step is to model the process of polymerization using Markov chains.
+
+7.3
+
+Probability of Polymerization
+
+We use the concept of Markov chains introduced in Section 5.4 to model the polymerization of the photoresist, in which case we consider the particle to be the boundaries
+of the polymer. It simplifies the two-dimensional polymerization by modeling along the
+one-dimensional line connecting two exposure centers. A jump to the right to be polymerization over one spatial unit, and no jump as no growth in the polymer. Then the
+states of this Markov chain are the possible positions for the left and right boundaries
+of the polymer, and the transition probability is the probability of polymerization given
+the radical concentration at the position of the boundary. We first define the transition
+probability p(u), i.e., probability of polymerization, as a function of radical concentration
+u.
+First of all, we expect there to be a threshold on the radical concentration that governs
+the polymerization reaction: higher than the threshold concentration, polymerization
+is likely to occur, and vice versa. Then we consider the extremes: when the radical
+concentration is close to zero, the probability of polymerization is expected to be close
+to 0; when the radical concentration is very high, the probability of polymerization is
+
+CHAPTER 7. MODELING THE MEMORY EFFECT
+
+62
+
+expected to be close to 1. Finally, we expect a smooth transition near the threshold
+concentration. In conclusion, a probability of polymerization p(u) as a function of radical
+concentration u is expected to have a plot resembling Figure 7.2a. Note that the plot of the
+probability function resembles the phase paths of the differential equation y 0 = ky(1 − y),
+where k is a positive constant.
+1.0
+
+1.0
+Probability
+
+0.8
+
+0.8
+
+0.6
+
+0.6
+
+0.4
+0.4
+
+0.2
+
+0.2
+
+0.0
+0.0
+
+0.5
+
+1.0
+
+1.5
+
+2.0
+
+Radical Concentration
+
+(a) Proposied Probability of Polymerization
+
+0.0
+0
+
+2
+
+4
+
+6
+
+8
+
+10
+
+12
+
+14
+
+(b) Phase Diagram of y 0 = ky(1 − y)
+
+Figure 7.2: Modeling the Probability Function
+The general solutions to the differential equation y 0 = ky(1 − y) is
+y(x) =
+
+1
+,
+1 + ec−kx
+
+(7.15)
+
+where c and k are constants, and k > 0. A derivation of the solutions to this differential
+equation is provided in Appendix F.
+Now we obtain our probability of polymerization p(u) as a function of radical concentration u:
+p(u) =
+
+1
+,
+1 + ec−ku
+
+(7.16)
+
+CHAPTER 7. MODELING THE MEMORY EFFECT
+
+63
+
+where the constant k controls the “steepness” of the transition between 0 and 1, and the
+ratio of c and k controls the threshold concentration for polymerization. We shall proceed
+to use this probability of polymerization for Markov modeling.
+
+7.4
+
+Third Approximation: Markov Modeling
+
+The Markov model is based on the difference model described in Sections 7.1 and 7.2.
+We define Pl (k, n) and Pr (k, n) as the probability of the left and right boundaries, respectively, to be at the k-th spatial unit at the n-th time step, where k is an integer between
+0 and M , and n is a non-negative integer. The polymerization is expected to start at the
+center of exposure x = 5 µm. It follows that the initial conditions for the probability density functions of the left and right boundaries, Pl (k, n) and Pr (k, n), respectively, should
+be defined by
+
+Pl (k, 0) = Pr (k, 0) =
+
+
+
+
+
+1, if k∆x ≤ 5 < (k + 1)∆x,
+
+(7.17)
+
+
+
+
+0, otherwise.
+Because most of the cases that we experimentally tested did not yield dot size greater
+than 10 µm, it is safe to assume the boundary conditions
+
+Pl (0, n) = Pl (M, n) = 0,
+
+and Pr (0, n) = Pr (M, n) = 0.
+
+(7.18)
+
+The discrete probability density functions are updated during each time iteration according to equation (5.23). Since we have derived the probability of polymerization with
+
+CHAPTER 7. MODELING THE MEMORY EFFECT
+
+64
+
+respect to radical concentration, we may rewrite the equation into
+
+
+
+Pl (k, n + 1) = Pl (k, n) · 1 − p u(k, n) + Pl (k + 1, n) · p u(k + 1, n) ,
+
+(7.19)
+
+
+
+
+Pr (k, n + 1) = Pr (k, n) · 1 − p u(k, n) + Pr (k − 1, n) · p u(k − 1, n) .
+
+(7.20)
+
+and
+
+With equations (7.17)–(7.20), we are able to obtain the discrete probability density functions Pl (k, n) and Pr (k, n), which describe the positions of the left and right boundaries
+of the polymer at any time step. With the probability density functions, the expected
+values of the boundary positions can be computed by equation (5.24). We model the
+second exposure in the same way, except that we need to use different initial conditions
+in (7.21)–(7.23) according to the spacing between two exposures.
+csecond (k, 0) = cfirst (k, FinalTimeIteration)
+
+(7.21)
+
+usecond (k, 0) = ufirst (k, FinalTimeIteration)
+
+
+
+
+1, if k∆x ≤ 5 + Spacing < (k + 1)∆x,
+Pl (k, 0) = Pr (k, 0) =
+
+
+
+0, otherwise.
+
+(7.22)
+
+(7.23)
+
+Significant changes in physical properties take place when the acrylate-based photoresist turns into polymer. The index of refraction changes when the photoresist turns from a
+liquid to a solid, and thus we are able to see the polymer under the microscope. Moreover,
+the diffusivity changes dramatically because it is hard for particles to flow within solid
+state matters. The diffusive behaviors are therefore turned off by setting the diffusivity
+coefficients α and β to zero between the boundaries of the polymer.
+
+Chapter 8
+Mathematica Implementation
+In this chapter, we first develop a framework of the implementation in Mathematica
+by programming the model for the system of PDEs that describes the concentrations
+of photoinitiator and radicals. Then we use the framework to implement the markov
+model into the program. The result of the model is compared with the experimentallydetermined data to evaluate the validity of the model.
+
+8.1
+
+Finite Difference Modeling
+
+The program starts by setting up all the parameters and variables for the beam profile
+and exposure. The initial conditions of c and u are set with a For loop which generates
+two lists initc and initu of length M + 1 consisting of 1’s and 0’s, respectively. These
+two lists are appended into c and u, respectively, as the initial time iteration.
+
+65
+
+CHAPTER 8. MATHEMATICA IMPLEMENTATION
+
+66
+
+A new For loop is used for time iterations. At the start of each time iteration, empty
+lists cnew and unew are generated for storing the values of concentration during the
+current time iteration. Another For loop is then used for spatial iterations, which puts
+the concentration values into the lists cnew and unew. An If statement checks whether
+the current spatial grid is at the boundary and, if it is, the If statement makes changes
+to preserve the boundary conditions. At the end of each time iteration, the completed
+lists cnew and unew are appended to lists c and u, respectively.
+When all the time iterations are completed, a Manipulate command, together with a
+ListLinePlot, is used to show the change in the concentration of species during the time
+period which the program simulated.
+
+8.2
+
+Markov Modeling
+
+The implementation of Markov modeling inherits the framework set up in the previous
+section. In addition to the initial conditions for c and u, we also need to include the initial
+conditions for pLeft and pRight. Moreover, we introduce another list Poly to keep track
+of the polymerized spatial units so that we are able to turn off diffusive behaviors in
+these units. The content of this list is essentially only 0’s and 1’s, where a 0 means not
+polymerized and 1 polymerized for the corresponding spatial grid.
+In the For loop for time iteration, two new lists pnewLeft and pnewRight are constructed in the same fashion as we construct c and u, and appended to pLeft and pRight,
+
+CHAPTER 8. MATHEMATICA IMPLEMENTATION
+
+67
+
+respectively, at the end of each time iteration. The expected values of left and right
+boundaries are calculated after pnewLeft and pnewRight are generated, and an update of
+newPoly, which has 1’s between the expected boundaries and 0’s elsewhere, is appended
+to Poly. For the second exposure, the initial conditions for c, u, and Poly are the same
+as their final states during the simulation for the first exposure, but the initial conditions
+for pLeft and pRight have to be reset to the new exposure center because we cannot
+have four boundaries for a growing polymer.
+The Manipulate command is modified so that the expected boundaries of the polymer
+dots are visible in the simulation. In addition, the number of polymerized spatial units
+are printed as the output at the end of the simulation for each exposure. The percent
+increase is also calculated at the very end of the program.
+Pseudocodes for the complete implementation is provided in the next section. Additionally, a completed version of the program in Wolfram Mathematicar 8 is provided in
+Appendix D. The code is fragmented into functional modules and arranged as sections of
+the appendix. The indices of lists in the code are off by 1 because we started our indices
+at 0 but Mathematica takes 1 as the index of the first item of a list structure.
+
+8.3
+
+Pseudocode for the Implementation
+
+The pseudocode for modeling the polymerization under a double exposure is included
+in the next page to demonstrate the flow of the program.
+
+CHAPTER 8. MATHEMATICA IMPLEMENTATION
+
+68
+
+Parameters
+. Set up the adjustable parameters
+c ← {initc}, u ← {initu},
+pLef t ← {initp}, pRight ← {initp}, P oly ← {initP oly},
+. Set up the initial conditions
+for n ← 1, n∆t ≤ F inalT ime do
+. Time iteration
+cnew = unew = pnewLef t = pnewRight = {}
+for k ← 0, k ≤ M do
+. Spatial iteration
+if P oly(k) = 1 then
+Set α and β to be zero in this spatial iteration
+end if
+if k = 0 or k = M then
+Update cnew, unew, pnewLef t, pnewRight according to boundary conditions
+i.e. equations (7.7), (7.14), and (7.18)
+else
+Update cnew, unew, pnewLef t, pnewRight according to difference equations
+i.e. equations (7.5), (7.12), (7.19), and (7.20)
+end if
+end for
+Append cnew, unew, pnewLef t, pnewRight to c, u, pLef t, pRight, respectively
+Compute the expectation values lef tExpect and rightExpect of the boundaries
+P olynew ← {1 within lef tExpect and rightExpect, 0 otherwise}
+Append P olynew to P oly
+end for
+return Dot1 ← # of 1’s in the final state of P oly
+. Dot 1 size
+Set up the initial condition for the second exposure
+. Final state of the first exposure
+for n ← 1, n∆t ≤ F inalT ime do
+Exactly the same for loop with the first one
+end for
+return Dot2 ← # of 1’s in the final state of P oly −Dot1
+return percentIncrease ← (Dot2 − Dot1)/Dot1
+Manipulate command that shows the dynamics of polymerization
+
+. Dot 2 size
+
+CHAPTER 8. MATHEMATICA IMPLEMENTATION
+
+8.4
+
+69
+
+Results and Discussion
+
+The parameters of the model were adjusted to fit the experimental data provided in
+Table 6.2. Table 8.1 shows the chosen values of all the adjustable parameters and functions
+used in the final version of the model. The first dot of each experiment has 0.5-second
+exposure, and we assume the second exposure does not affect the size of the first dot.
+Parameters or Functions
+
+Values of Choice
+
+z
+
+1 µm
+
+α
+
+0.2 µm2 /s
+
+β
+
+0.1 µm2 /s
+
+m
+
+400 s−1 /I0
+
+d
+
+0.3 AU−1 ·s−1
+
+R(x)
+p(u)
+
+I(x/20) + I(x/10)
+12
+1
+1 + e20−25u
+
+Table 8.1: Choices for Parameters and Functions
+Then we compute the average size of the first dot to be 2.1 ± 0.3 µm. This size was
+measured under SEM, thus after shrinkage. If we account for the shrinkage coefficient of
+photoresist #3 (25%, Table 3.2), the average dot size before shrinkage would be 2.8 ± 0.4
+µm. After painstaking efforts on adjusting the parameters, we achieved 2.76 µm for the
+size of the first dot computed by the model. The dot sizes simulated by the model are
+provided in Table 8.2. The simulation of experiment #2 is provided in Figure 8.1 by one
+
+0.50
+0.50
+
+10
+
+10
+
+8
+
+8
+
+8
+
+5
+
+5
+
+5
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+0.50
+
+0.56
+
+0.54
+
+0.56
+
+0.50
+
+0.50
+
+0.50
+
+0.50
+
+0.50
+
+2nd exposure
+(s)
+
+0.50
+
+1.0
+
+2.0
+
+0.50
+
+1.0
+
+2.0
+
+0.54
+
+1.0
+
+2.0
+
+Hiatus time
+(s)
+
+69
+
+69
+
+69
+
+69
+
+69
+
+69
+
+69
+
+69
+
+69
+
+1st Dot
+(# grids)
+
+Table 8.2: Percent Increase Results Simulated by the Model
+
+0.50
+
+0.50
+
+0.50
+
+0.50
+
+0.50
+
+0.50
+
+0.50
+
+10
+
+#
+
+1st exposure
+(s)
+
+Spacing
+(µm)
+
+—
+
+123
+
+79
+
+118
+
+94
+
+77
+
+98
+
+87
+
+76
+
+2nd Dot
+(# grids)
+
+—
+
+78%
+
+14%
+
+71%
+
+36%
+
+12%
+
+42%
+
+26%
+
+10%
+
+% Increase
+
+CHAPTER 8. MATHEMATICA IMPLEMENTATION
+70
+
+CHAPTER 8. MATHEMATICA IMPLEMENTATION
+
+71
+
+2.0
+
+2.0
+
+0.s
+
+0.s
+1.5
+
+1.5
+
+1.0
+
+1.0
+
+0.5
+
+0.5
+
+0.0
+0
+
+5
+
+10
+
+15
+
+20
+
+2.0
+
+0.0
+0
+
+5
+
+10
+
+15
+
+2.0
+
+0.5s
+
+1.s
+
+1.5
+
+1.5
+
+1.0
+
+1.0
+
+0.5
+
+0.5
+
+0.0
+0
+
+5
+
+10
+
+15
+
+20
+
+2.0
+
+0.0
+0
+
+5
+
+10
+
+15
+
+2.s
+
+1.5
+
+1.5
+
+1.0
+
+1.0
+
+0.5
+
+0.5
+
+5
+
+10
+
+15
+
+20
+
+2.0
+
+0.0
+0
+
+5
+
+10
+
+15
+
+20
+
+2.0
+
+2.5s
+
+3.s
+
+1.5
+
+1.5
+
+1.0
+
+1.0
+
+0.5
+
+0.5
+
+0.0
+0
+
+20
+
+2.0
+
+1.5s
+
+0.0
+0
+
+20
+
+5
+
+10
+
+15
+
+20
+
+0.0
+0
+
+5
+
+10
+
+Figure 8.1: Simulation Result of Experiment #2
+
+15
+
+20
+
+CHAPTER 8. MATHEMATICA IMPLEMENTATION
+
+72
+
+screenshot every 0.5 second. The blue and purple lines in the diagrams indicate the concentrations (arbitrary unit) of radicals and photoinitiator, respectively. The black boxes
+indicate the size of the growing polymer. A more detailed simulation of this experiment
+is provided in Appendix E with one screeshot every 0.1 second.
+The percent increase values simulated by the model and the experimentally-determined
+values are tabulated in Table 8.3. Both sets of data showed the same pattern. The
+memory effect is stronger at places close to the exposed areas, and is reduced far away
+from fabricated structures. The memory effect is also stronger immediately after one
+exposure, and if we wait a while after an exposure, memory effect can be reduced.
+
+1
+
+#
+
+Experimental 15%
+Modeling
+
+10%
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+24%
+
+32% 19%
+
+29%
+
+47% 21%
+
+—
+
+—
+
+26%
+
+42% 12%
+
+36%
+
+71% 14%
+
+78%
+
+—
+
+Table 8.3: Comparison between Experiments and the Model
+
+2.0
+
+3.s
+1.5
+1.0
+0.5
+0.0
+0
+
+5
+
+10
+
+15
+
+Figure 8.2: Final State of Simulation #8
+
+20
+
+CHAPTER 8. MATHEMATICA IMPLEMENTATION
+
+73
+
+We notice that the experimental data #8 showed two dots merged together due to
+their proximity (Figure C.8), yet the model still suggested two distinct dots. But if we
+take a closer look at the final state of the model (Figure 8.2), the distance between two
+boundaries is only 1 spatial unit, which converts to 50 nm. This distance is so small that
+we can consider the dots as merged together.
+
+8.5
+
+Future Development
+
+First of all, we can tune the parameters and adjustable function in the model more
+carefully and more finely to make the outputs of the model closer to the experimental
+values. We may also test the model for double-dot experiments with different laser power
+and/or different exposure time.
+We have successfully used a radical scavenger ingredient for the photoresist to reduce
+the linewidth as well as the memory effect. We have also developed a model describing
+the polymerization reaction with double dots. The natural step to follow would be modeling memory effect in the photoresist without the radical scavenger. By comparing the
+differences in these two models, we may be able to suggest the role of radical scavenger
+in reducing linewidth and memory effect.
+Another possible direction to go would be taking the model into higher dimensions.
+Currently the model describes the polymerization reaction along the line connecting two
+exposures, which has only one spatial dimension. It is possible that we can develop a two-
+
+CHAPTER 8. MATHEMATICA IMPLEMENTATION
+
+74
+
+dimensional model which tells the polymerization on a plane. Given specific fabrication
+conditions, the two-dimensional model may be able to simulate the outcome of a DLW
+experiment before actually running the experiment.
+
+Appendix A
+Linewidths before/after Alcohol
+Development
+
+75
+
+APPENDIX A. LINEWIDTHS BEFORE/AFTER ALCOHOL DEVELOPMENT
+
+Linewidth Measurements of Photoresist #1
+Before (µm)
+
+46.8
+
+50.2
+
+53.6
+
+58.1
+
+62.7
+
+65.9
+
+69.9
+
+73.8
+
+After (µm)
+
+34.63
+
+37.94
+
+41.33
+
+45.02
+
+49.57
+
+52.77
+
+56.06
+
+59.38
+
+Before (µm)
+
+77.3
+
+78.6
+
+82.2
+
+85.8
+
+89.9
+
+93.0
+
+97.7
+
+101.0
+
+After (µm)
+
+62.28
+
+63.04
+
+66.38
+
+69.64
+
+72.90
+
+76.12
+
+80.59
+
+83.51
+
+Before (µm)
+
+104.9
+
+108.3
+
+114.0
+
+117.7
+
+121.8
+
+124.8
+
+137.7
+
+141.8
+
+After (µm)
+
+86.86
+
+89.50
+
+94.22
+
+97.21
+
+99.15
+
+102.71
+
+123.17
+
+127.42
+
+Before (µm)
+
+145.1
+
+149.4
+
+153.6
+
+154.4
+
+159.7
+
+163.5
+
+166.9
+
+170.5
+
+After (µm)
+
+130.94
+
+134.60
+
+138.23
+
+138.61
+
+142.87
+
+146.39
+
+150.97
+
+153.02
+
+Before (µm)
+
+175.4
+
+179.5
+
+183.9
+
+187.1
+
+After (µm)
+
+156.56
+
+160.88
+
+163.65
+
+167.08
+
+Table A.1: Linewidths before and after developing (photoresist #1)
+
+Linewidth Measurements of Photoresist #2
+Before (µm)
+
+60.7
+
+64.5
+
+69.7
+
+72.8
+
+77.1
+
+78.5
+
+81.7
+
+85.5
+
+After (µm)
+
+48.46
+
+52.55
+
+56.54
+
+59.81
+
+63.56
+
+64.77
+
+68.70
+
+72.40
+
+Before (µm)
+
+89.4
+
+94.1
+
+94.4
+
+98.9
+
+102.2
+
+106.6
+
+111.6
+
+111.0
+
+After (µm)
+
+75.90
+
+80.14
+
+80.58
+
+84.81
+
+88.84
+
+92.01
+
+96.02
+
+95.88
+
+Before (µm)
+
+114.9
+
+119.2
+
+122.4
+
+125.9
+
+127.0
+
+131.4
+
+135.5
+
+139.2
+
+After (µm)
+
+99.66
+
+103.56
+
+107.14
+
+109.94
+
+111.36
+
+114.94
+
+118.50
+
+121.97
+
+Before (µm)
+
+142.4
+
+143.9
+
+148.7
+
+151.6
+
+155.1
+
+157.5
+
+158.7
+
+161.9
+
+After (µm)
+
+124.91
+
+126.32
+
+130.53
+
+133.66
+
+137.14
+
+139.84
+
+141.27
+
+144.29
+
+Before (µm)
+
+166.2
+
+169.0
+
+173.0
+
+174.9
+
+177.7
+
+182.0
+
+185.8
+
+189.8
+
+After (µm)
+
+147.83
+
+150.16
+
+153.46
+
+155.28
+
+157.78
+
+161.31
+
+165.49
+
+168.12
+
+Table A.2: Linewidths before and after developing (photoresist #2)
+
+76
+
+APPENDIX A. LINEWIDTHS BEFORE/AFTER ALCOHOL DEVELOPMENT
+
+Linewidth Measurements of Photoresist #3
+Before (µm)
+
+57.5
+
+61.2
+
+64.5
+
+68.4
+
+71.8
+
+73.4
+
+78.1
+
+81.0
+
+After (µm)
+
+46.63
+
+50.89
+
+54.02
+
+56.90
+
+59.56
+
+62.33
+
+66.18
+
+69.23
+
+Before (µm)
+
+84.8
+
+87.4
+
+89.7
+
+93.7
+
+97.8
+
+100.8
+
+104.2
+
+106.1
+
+After (µm)
+
+72.42
+
+75.01
+
+77.13
+
+81.13
+
+84.15
+
+87.66
+
+89.95
+
+91.71
+
+Before (µm)
+
+110.1
+
+113.8
+
+117.5
+
+120.8
+
+122.8
+
+125.3
+
+129.4
+
+133.3
+
+After (µm)
+
+95.66
+
+98.88
+
+102.43
+
+103.98
+
+106.72
+
+108.67
+
+113.05 116.40
+
+Before (µm)
+
+136.7
+
+138.7
+
+142.3
+
+146.3
+
+149.9
+
+153.2
+
+154.5
+
+157.7
+
+After (µm)
+
+117.32
+
+119.46
+
+122.38
+
+128.05
+
+129.86
+
+131.53
+
+131.24
+
+135.63
+
+Before (µm)
+
+162.0
+
+165.2
+
+168.1
+
+169.4
+
+173.4
+
+177.1
+
+180.5
+
+183.9
+
+After (µm)
+
+138.68
+
+141.18
+
+143.01
+
+143.45
+
+146.68
+
+149.52
+
+153.05
+
+155.39
+
+Table A.3: Linewidths before and after developing (photoresist #3)
+
+Linewidth Measurements of Photoresist #4
+Before (µm)
+
+57.8
+
+61.8
+
+65.4
+
+68.6
+
+71.6
+
+73.3
+
+78.0
+
+81.9
+
+After (µm)
+
+46.09
+
+50.05
+
+53.17
+
+56.11
+
+57.79
+
+59.90
+
+63.80
+
+66.66
+
+Before (µm)
+
+85.4
+
+87.9
+
+90.5
+
+94.4
+
+98.1
+
+101.9
+
+104.4
+
+106.8
+
+After (µm)
+
+70.27
+
+71.70
+
+74.60
+
+78.03
+
+80.40
+
+84.24
+
+85.82
+
+87.00
+
+Before (µm)
+
+110.6
+
+114.7
+
+117.9
+
+120.7
+
+122.6
+
+126.7
+
+130.4
+
+133.4
+
+After (µm)
+
+91.60
+
+94.30
+
+97.48
+
+97.82
+
+99.63
+
+104.44
+
+107.03
+
+109.03
+
+Before (µm)
+
+135.8
+
+138.0
+
+142.9
+
+146.1
+
+149.3
+
+151.6
+
+154.6
+
+158.4
+
+After (µm)
+
+109.32
+
+110.91
+
+115.74
+
+117.61
+
+118.54
+
+119.85
+
+121.75
+
+126.30
+
+Before (µm)
+
+162.4
+
+165.5
+
+167.6
+
+170.1
+
+173.8
+
+177.6
+
+After (µm)
+
+128.32
+
+130.98
+
+128.46
+
+132.62
+
+138.63
+
+140.81
+
+Table A.4: Linewidths before and after developing (photoresist #4)
+
+77
+
+APPENDIX A. LINEWIDTHS BEFORE/AFTER ALCOHOL DEVELOPMENT
+
+AfterΜm
+
+150
+
+100
+y = 0.870413 x
+
+50
+
+0
+0
+
+50
+
+100
+
+150
+
+200
+
+BeforeΜm
+Figure A.1: Linewidth after v.s. before developing (photoresist #1)
+
+78
+
+APPENDIX A. LINEWIDTHS BEFORE/AFTER ALCOHOL DEVELOPMENT
+
+AfterΜm
+
+150
+
+100
+y = 0.876853 x
+
+50
+
+0
+0
+
+50
+
+100
+
+150
+
+200
+
+BeforeΜm
+Figure A.2: Linewidth after v.s. before developing (photoresist #2)
+
+79
+
+APPENDIX A. LINEWIDTHS BEFORE/AFTER ALCOHOL DEVELOPMENT
+
+AfterΜm
+
+150
+
+100
+y = 0.856793 x
+
+50
+
+0
+0
+
+50
+
+100
+
+150
+
+200
+
+BeforeΜm
+Figure A.3: Linewidth after v.s. before developing (photoresist #3)
+
+80
+
+APPENDIX A. LINEWIDTHS BEFORE/AFTER ALCOHOL DEVELOPMENT
+
+AfterΜm
+
+150
+
+100
+y = 0.803336 x
+
+50
+
+0
+0
+
+50
+
+100
+
+150
+
+200
+
+BeforeΜm
+Figure A.4: Linewidth after v.s. before developing (photoresist #4)
+
+81
+
+Appendix B
+Linewidth Data with Different DLW
+Conditions
+
+82
+
+APPENDIX B. LINEWIDTH DATA WITH DIFFERENT DLW CONDITIONS
+
+83
+
+Linewidth Measurement Data for Photoresist #1
+Speed (µm/s)
+20
+
+30
+
+40
+
+50
+
+#1
+
+1.39
+
+0.78
+
+0.64
+
+0.57
+
+#2
+
+1.66
+
+0.88
+
+0.65
+
+0.55
+
+#3
+
+2.07
+
+0.83
+
+0.72
+
+0.54
+
+#4
+
+1.94
+
+0.87
+
+0.73
+
+#5
+
+1.92
+
+0.92
+
+1.80
+
+0.86
+
+Average
+
+20
+
+30
+
+40
+
+50
+
+#1
+
+2.27
+
+1.88
+
+1.46
+
+1.16
+
+#2
+
+2.66
+
+1.89
+
+1.31
+
+1.10
+
+#3
+
+2.68
+
+1.98
+
+1.33
+
+1.14
+
+0.56
+
+#4
+
+2.59
+
+2.15
+
+1.47
+
+1.09
+
+0.68
+
+0.59
+
+#5
+
+2.54
+
+2.21
+
+1.56
+
+1.18
+
+0.68
+
+0.56
+
+2.55
+
+2.02
+
+1.43
+
+1.13
+
+Average
+
+(a) 100 nW
+
+20
+
+30
+
+40
+
+50
+
+#1
+
+3.66
+
+3.03
+
+2.72
+
+1.69
+
+#2
+
+3.81
+
+3.10
+
+2.93
+
+1.54
+
+#3
+
+3.83
+
+3.31
+
+2.97
+
+1.60
+
+#4
+
+3.58
+
+3.37
+
+2.78
+
+#5
+
+3.77
+
+3.41
+
+3.73
+
+3.24
+
+Average
+
+(c) 200 nW
+
+Speed (µm/s)
+
+Linewidth
+(µm)
+20
+
+30
+
+40
+
+50
+
+#1
+
+4.35
+
+3.19
+
+2.44
+
+1.58
+
+#2
+
+4.46
+
+3.10
+
+2.63
+
+1.67
+
+#3
+
+4.36
+
+3.32
+
+2.47
+
+1.62
+
+1.64
+
+#4
+
+4.39
+
+3.25
+
+2.46
+
+1.68
+
+2.97
+
+1.56
+
+#5
+
+4.84
+
+3.29
+
+2.76
+
+1.75
+
+2.87
+
+1.61
+
+4.48
+
+3.23
+
+2.55
+
+1.66
+
+250 nW
+
+200 nW
+
+(b) 150 nW
+
+Speed (µm/s)
+
+Linewidth
+(µm)
+
+Speed (µm/s)
+
+Linewidth
+(µm)
+
+150 nW
+
+100 nW
+
+Linewidth
+(µm)
+
+Average
+
+(d) 250 nW
+
+Table B.1: Linewidth Measurement Data for Photoresist #1
+
+APPENDIX B. LINEWIDTH DATA WITH DIFFERENT DLW CONDITIONS
+
+84
+
+Linewidth Measurement Data for Photoresist #2
+Speed (µm/s)
+20
+
+30
+
+40
+
+50
+
+#1
+
+1.34
+
+0.90
+
+0.58
+
+N/A
+
+#2
+
+1.40
+
+1.04
+
+0.66
+
+N/A
+
+#3
+
+1.34
+
+0.97
+
+0.61
+
+N/A
+
+#4
+
+1.23
+
+0.88
+
+0.50
+
+#5
+
+1.22
+
+0.87
+
+1.31
+
+0.93
+
+Average
+
+20
+
+30
+
+40
+
+50
+
+#1
+
+1.28
+
+1.09
+
+0.62
+
+0.54
+
+#2
+
+1.38
+
+1.37
+
+0.79
+
+0.59
+
+#3
+
+1.43
+
+1.08
+
+0.72
+
+0.56
+
+N/A
+
+#4
+
+1.44
+
+0.89
+
+0.63
+
+0.51
+
+0.53
+
+N/A
+
+#5
+
+1.44
+
+1.01
+
+0.66
+
+0.54
+
+0.58
+
+N/A
+
+1.39
+
+1.09
+
+0.68
+
+0.55
+
+Average
+
+(a) 100 nW
+
+20
+
+30
+
+40
+
+50
+
+#1
+
+1.89
+
+1.29
+
+0.98
+
+0.81
+
+#2
+
+2.06
+
+1.44
+
+1.00
+
+0.77
+
+#3
+
+2.10
+
+1.35
+
+0.97
+
+0.80
+
+#4
+
+1.97
+
+1.32
+
+0.98
+
+#5
+
+1.98
+
+1.31
+
+2.00
+
+1.34
+
+Average
+
+(c) 200 nW
+
+Speed (µm/s)
+
+Linewidth
+(µm)
+20
+
+30
+
+40
+
+50
+
+#1
+
+2.00
+
+1.30
+
+1.04
+
+0.61
+
+#2
+
+1.98
+
+1.52
+
+0.96
+
+0.70
+
+#3
+
+2.26
+
+1.35
+
+0.98
+
+0.66
+
+0.80
+
+#4
+
+2.17
+
+1.38
+
+0.94
+
+0.66
+
+0.94
+
+0.81
+
+#5
+
+2.17
+
+1.37
+
+0.95
+
+0.68
+
+0.97
+
+0.80
+
+2.12
+
+1.38
+
+0.97
+
+0.66
+
+250 nW
+
+200 nW
+
+(b) 150 nW
+
+Speed (µm/s)
+
+Linewidth
+(µm)
+
+Speed (µm/s)
+
+Linewidth
+(µm)
+
+150 nW
+
+100 nW
+
+Linewidth
+(µm)
+
+Average
+
+(d) 250 nW
+
+Table B.2: Linewidth Measurement Data for Photoresist #2
+
+APPENDIX B. LINEWIDTH DATA WITH DIFFERENT DLW CONDITIONS
+
+85
+
+Linewidth Measurement Data for Photoresist #3
+Speed (µm/s)
+20
+
+30
+
+40
+
+50
+
+#1
+
+0.91
+
+N/A
+
+N/A
+
+N/A
+
+#2
+
+1.05
+
+N/A
+
+N/A
+
+N/A
+
+#3
+
+1.06
+
+N/A
+
+N/A
+
+N/A
+
+#4
+
+0.83
+
+N/A
+
+N/A
+
+#5
+
+0.92
+
+N/A
+
+0.95
+
+N/A
+
+Average
+
+20
+
+30
+
+40
+
+50
+
+#1
+
+1.05
+
+0.92
+
+0.83
+
+0.80
+
+#2
+
+1.21
+
+0.95
+
+0.92
+
+0.78
+
+#3
+
+1.24
+
+0.98
+
+0.93
+
+0.83
+
+N/A
+
+#4
+
+1.14
+
+0.95
+
+0.80
+
+0.72
+
+N/A
+
+N/A
+
+#5
+
+1.10
+
+0.98
+
+0.83
+
+0.70
+
+N/A
+
+N/A
+
+1.15
+
+0.96
+
+0.86
+
+0.77
+
+Average
+
+(a) 100 nW
+
+20
+
+30
+
+40
+
+50
+
+#1
+
+1.50
+
+0.88
+
+0.55
+
+0.41
+
+#2
+
+1.51
+
+0.97
+
+0.66
+
+0.44
+
+#3
+
+1.63
+
+1.00
+
+0.60
+
+0.39
+
+#4
+
+1.79
+
+0.91
+
+0.60
+
+#5
+
+1.67
+
+0.93
+
+1.62
+
+0.94
+
+Average
+
+(c) 200 nW
+
+Speed (µm/s)
+
+Linewidth
+(µm)
+20
+
+30
+
+40
+
+50
+
+#1
+
+2.04
+
+1.40
+
+1.20
+
+1.13
+
+#2
+
+2.03
+
+1.48
+
+1.19
+
+1.06
+
+#3
+
+2.08
+
+1.37
+
+1.27
+
+0.99
+
+0.41
+
+#4
+
+2.04
+
+1.51
+
+1.38
+
+1.07
+
+0.58
+
+0.44
+
+#5
+
+2.12
+
+1.46
+
+1.31
+
+1.02
+
+0.60
+
+0.42
+
+2.06
+
+1.44
+
+1.27
+
+1.05
+
+250 nW
+
+200 nW
+
+(b) 150 nW
+
+Speed (µm/s)
+
+Linewidth
+(µm)
+
+Speed (µm/s)
+
+Linewidth
+(µm)
+
+150 nW
+
+100 nW
+
+Linewidth
+(µm)
+
+Average
+
+(d) 250 nW
+
+Table B.3: Linewidth Measurement Data for Photoresist #3
+
+APPENDIX B. LINEWIDTH DATA WITH DIFFERENT DLW CONDITIONS
+
+86
+
+Linewidth Measurement Data for Photoresist #4
+Speed (µm/s)
+20
+
+30
+
+40
+
+50
+
+#1
+
+N/A
+
+N/A
+
+N/A
+
+N/A
+
+#2
+
+N/A
+
+N/A
+
+N/A
+
+N/A
+
+#3
+
+N/A
+
+N/A
+
+N/A
+
+N/A
+
+#4
+
+N/A
+
+N/A
+
+N/A
+
+#5
+
+N/A
+
+N/A
+
+N/A
+
+N/A
+
+Average
+
+20
+
+30
+
+40
+
+50
+
+#1
+
+0.96
+
+0.89
+
+0.56
+
+0.57
+
+#2
+
+1.04
+
+0.81
+
+0.62
+
+0.58
+
+#3
+
+1.03
+
+0.85
+
+0.66
+
+0.59
+
+N/A
+
+#4
+
+1.12
+
+0.94
+
+0.68
+
+0.67
+
+N/A
+
+N/A
+
+#5
+
+1.14
+
+0.92
+
+0.72
+
+0.69
+
+N/A
+
+N/A
+
+1.06
+
+0.88
+
+0.65
+
+0.62
+
+Average
+
+(a) 100 nW
+
+20
+
+30
+
+40
+
+50
+
+#1
+
+0.97
+
+0.72
+
+0.70
+
+0.59
+
+#2
+
+1.15
+
+0.82
+
+0.59
+
+0.62
+
+#3
+
+1.18
+
+0.84
+
+0.74
+
+0.66
+
+#4
+
+1.16
+
+0.83
+
+0.64
+
+#5
+
+1.16
+
+0.95
+
+1.12
+
+0.83
+
+Average
+
+(c) 200 nW
+
+Speed (µm/s)
+
+Linewidth
+(µm)
+20
+
+30
+
+40
+
+50
+
+#1
+
+2.04
+
+1.32
+
+1.03
+
+0.84
+
+#2
+
+2.06
+
+1.42
+
+1.12
+
+0.80
+
+#3
+
+1.86
+
+1.58
+
+1.25
+
+0.91
+
+0.51
+
+#4
+
+1.93
+
+1.61
+
+1.20
+
+0.86
+
+0.71
+
+0.69
+
+#5
+
+1.97
+
+1.37
+
+1.09
+
+0.85
+
+0.68
+
+0.61
+
+1.97
+
+1.46
+
+1.14
+
+0.85
+
+250 nW
+
+200 nW
+
+(b) 150 nW
+
+Speed (µm/s)
+
+Linewidth
+(µm)
+
+Speed (µm/s)
+
+Linewidth
+(µm)
+
+150 nW
+
+100 nW
+
+Linewidth
+(µm)
+
+Average
+
+(d) 250 nW
+
+Table B.4: Linewidth Measurement Data for Photoresist #4
+
+APPENDIX B. LINEWIDTH DATA WITH DIFFERENT DLW CONDITIONS
+
+Power (nW)
+
+(µm)
+
+Linewidth
+
+Speed (µm/s)
+20
+
+30
+
+40
+
+50
+
+100
+
+1.80
+
+0.86
+
+0.68
+
+0.56
+
+150
+
+2.55
+
+2.02
+
+1.43
+
+1.13
+
+200
+
+3.73
+
+3.24
+
+2.87
+
+1.61
+
+250
+
+4.48
+
+3.23
+
+2.55
+
+1.66
+
+(µm)
+Power (nW)
+
+Linewidth
+
+30
+
+40
+
+50
+
+100
+
+1.31
+
+0.93
+
+0.58
+
+n/a
+
+150
+
+1.39
+
+1.09
+
+0.68
+
+0.55
+
+200
+
+2.00
+
+1.34
+
+0.97
+
+0.80
+
+250
+
+2.12
+
+1.38
+
+0.97
+
+0.66
+
+(b) Photoresist #2
+
+Linewidth
+
+Speed (µm/s)
+20
+
+30
+
+40
+
+50
+
+100
+
+0.95
+
+n/a
+
+n/a
+
+n/a
+
+150
+
+1.15
+
+0.96
+
+0.86
+
+0.77
+
+200
+
+1.62
+
+0.94
+
+0.60
+
+0.42
+
+250
+
+2.06
+
+1.44
+
+1.27
+
+1.05
+
+(c) Photoresist #3
+
+(µm)
+Power (nW)
+
+Power (nW)
+
+(µm)
+
+Speed (µm/s)
+20
+
+(a) Photoresist #1
+
+Linewidth
+
+87
+
+Speed (µm/s)
+20
+
+30
+
+40
+
+50
+
+100
+
+n/a
+
+n/a
+
+n/a
+
+n/a
+
+150
+
+1.06
+
+0.88
+
+0.65
+
+0.62
+
+200
+
+1.12
+
+0.83
+
+0.68
+
+0.61
+
+250
+
+1.97
+
+1.46
+
+1.14
+
+0.85
+
+(d) Photoresist #4
+
+Table B.5: Linewidth Obtained from Different Fabricating Conditions
+
+Appendix C
+SEM Images of Double Dots
+
+Figure C.1: SEM Image of Double-Dot Experiment #1
+
+88
+
+APPENDIX C. SEM IMAGES OF DOUBLE DOTS
+
+Figure C.2: SEM Image of Double-Dot Experiment #2
+
+Figure C.3: SEM Image of Double-Dot Experiment #3
+
+89
+
+APPENDIX C. SEM IMAGES OF DOUBLE DOTS
+
+Figure C.4: SEM Image of Double-Dot Experiment #4
+
+Figure C.5: SEM Image of Double-Dot Experiment #5
+
+90
+
+APPENDIX C. SEM IMAGES OF DOUBLE DOTS
+
+Figure C.6: SEM Image of Double-Dot Experiment #6
+
+Figure C.7: SEM Image of Double-Dot Experiment #7
+
+91
+
+APPENDIX C. SEM IMAGES OF DOUBLE DOTS
+
+Figure C.8: SEM Image of Double-Dot Experiment #8
+
+Figure C.9: SEM Image of Double-Dot Experiment #9
+
+92
+
+Appendix D
+Coding in Mathematica
+
+D.1
+
+Parameters
+
+(* Experimentally Controlled Variables *)
+ExposureTime1 = 0.5; ExposureTime2 = 0.5; HiatusTime = 1; Spacing = 10;
+(* Beam Profile Calculation *)
+Theta = ArcSin[1.3/1.5]; Lambda = 0.405; W0 =
+Lambda/(Pi*Theta); z0 = (Pi*W0^2)/Lambda;(* Beam Profile *)
+W[z_] = W0*Sqrt[1 + (z/z0)^2];(* Beam Radius (um) *)
+P = 200; (* Power output of laser (nW) *)
+I0 = (2 P)/(Pi*W0^2*10^3); (* I0: Intensity at center (W/m^2) *)
+(* Exposure Sink/Source Term *)
+m = 400/I0; (* m: Proportionality constant of intensity v.s. change \
+in radical *)
+d = 0.3; (* d: Proportionality constant of radical decay *)
+z = 1; (* z: Axial distance from focal plane (um) *)
+Intensity[x_] := I0 (W0/W[z])^2 Exp[-(2*x^2)/W[z]^2]; (* Gaussian *)
+Reflection[x_] :=
+I0 (W0/W[z])^2 Exp[-(2*x^2)/(400*W[z]^2)]/12 +
+I0 (W0/W[z])^2 Exp[-(2*x^2)/(100*W[z]^2)]/12;
+93
+
+APPENDIX D. CODING IN MATHEMATICA
+
+Exposure[x_, pos_] :=
+m (Intensity[x - pos] +
+Reflection[x - pos]); (* Radical generation from exposure *)
+(* Probability Density of Polymerization *)
+densityP[u_] := 1/(Exp[20 - 25 u] + 1);
+(* Initialization *)
+M = 400; dx = 20/M; (* M:
+dt = 0.002; FinalTime1 =
+ExposureTime1 +
+HiatusTime; (* dt: time
+alpha = .2;
+cIC[x_] := 1; initc = {};
+*)
+beta = .1;
+uIC[x_] := 0; initu = {};
+
+# of spatial steps; dx: spacial step *)
+
+step; FinalTime: time domain *)
+(* Initiator concentration c initialization \
+
+(* Radical concentration u initialization *)
+
+pIC[x_, s_] :=
+If[x == s, 1,
+0]; initp1 = {}; initp2 = {};(* Probability Initialization of the \
+first exposure *)
+initPoly = {};
+
+D.2
+
+Initial Conditions
+
+For[k = 0, k <= M, k++,
+initu = Append[initu, uIC[k dx]];
+initc = Append[initc, cIC[k dx]];
+initp1 = Append[initp1, pIC[k dx, 5]];
+initp2 = Append[initp2, pIC[k dx, 5 + Spacing]];
+initPoly = Append[initPoly, 0];
+]
+u = {initu}; c = {initc}; pRight = {initp1}; pLeft = {initp1}; Poly = \
+{initPoly};
+
+94
+
+APPENDIX D. CODING IN MATHEMATICA
+
+D.3
+
+First Exposure
+
+(* First Exposure *)
+For[n = 1, n*dt <= FinalTime1, n++,(* Time Domain *)
+cnew = {}; unew = {}; pnewRight = {}; pnewLeft = {};
+For[k = 0, k <= M, k++,(* Spatial Domain *)
+Delta =
+If[n*dt <= ExposureTime1, dt*Exposure[k dx, 5]*c[[n]][[k + 1]], 0];
+cnew = Append[cnew,
+If[0 < k && k < M,
+c[[n]][[k + 1]] +
+If[Poly[[n]][[k + 1]] == 0 || Poly[[n]][[k]] == 0 ||
+Poly[[n]][[k + 2]] == 0, alpha, 0]*
+dt*((c[[n]][[k + 2]] - 2*c[[n]][[k + 1]] +
+c[[n]][[k]])/(dx^2) - c[[n]][[k + 1]] + 1) - Delta,
+If[k == 0,
+c[[n]][[2]] +
+alpha*dt*((c[[n]][[3]] - 2*c[[n]][[2]] + c[[n]][[1]])/(dx^2) c[[n]][[2]] + 1) - Delta,(* Left Boundary *)
+c[[n]][[M]] +
+alpha*dt*((c[[n]][[M + 1]] - 2*c[[n]][[M]] +
+c[[n]][[M - 1]])/(dx^2) - c[[n]][[M]] + 1) - Delta](*
+Right Boundary *)
+]
+];
+unew = Append[unew,
+If[0 < k && k < M,
+(1 - d*dt*(u[[n]][[k + 1]] + 1))*u[[n]][[k + 1]] +
+If[Poly[[n]][[k + 1]] == 0 || Poly[[n]][[k]] == 0 ||
+Poly[[n]][[k + 2]] == 0, beta, 0]*
+dt*(u[[n]][[k + 2]] - 2*u[[n]][[k + 1]] +
+u[[n]][[k]])/(dx^2) + 2*Delta,
+If[k == 0,
+u[[n]][[2]] +
+beta*dt*(u[[n]][[3]] - 2*u[[n]][[2]] + u[[n]][[1]])/(dx^2) +
+2*Delta,(* Left Boundary *)
+u[[n]][[M]] +
+beta*dt*(u[[n]][[M + 1]] - 2*u[[n]][[M]] +
+u[[n]][[M - 1]])/(dx^2) + 2*Delta](* Right Boundary *)
+]
+];
+
+95
+
+APPENDIX D. CODING IN MATHEMATICA
+
+pnewRight = Append[pnewRight,
+If[0 < k && k < M,
+pRight[[n]][[k + 1]]*(1 - densityP[u[[n]][[k + 1]]]) +
+pRight[[n]][[k]]*densityP[u[[n]][[k]]],
+If[k == 0,
+pRight[[n]][[2]]*(1 - densityP[u[[n]][[2]]]) +
+pRight[[n]][[1]]*densityP[u[[n]][[1]]],(* Left Boundary *)
+pRight[[n]][[M]]*(1 - densityP[u[[n]][[M]]]) +
+pRight[[n]][[M - 1]]*densityP[u[[n]][[M - 1]]]] (*
+Right Boundary *)
+]
+];
+pnewLeft = Append[pnewLeft,
+If[0 < k && k < M,
+pLeft[[n]][[k + 1]]*(1 - densityP[u[[n]][[k + 1]]]) +
+pLeft[[n]][[k + 2]]*densityP[u[[n]][[k + 2]]],
+If[k == 0,
+pLeft[[n]][[2]]*(1 - densityP[u[[n]][[2]]]) +
+pLeft[[n]][[3]]*densityP[u[[n]][[3]]],(* Left Boundary *)
+pLeft[[n]][[M]]*(1 - densityP[u[[n]][[M]]]) +
+pLeft[[n]][[M + 1]]*densityP[u[[n]][[M + 1]]]] (*
+Right Boundary *)
+]
+];
+];
+c = Append[c, cnew]; u = Append[u, unew];
+pRight = Append[pRight, pnewRight]; pLeft = Append[pLeft, pnewLeft];
+(* Expected value for the boundaries in terms of box number *)
+leftExpect = Sum[pnewLeft[[i]]*i, {i, 1, Length[pnewLeft]}];
+rightExpect = Sum[pnewRight[[i]]*i, {i, 1, Length[pnewRight]}];
+Polynew = {};
+For[k = 1, k <= M + 1, k++,
+Polynew =
+Append[Polynew,
+If[(leftExpect < k && k < rightExpect) || Poly[[-1]][[k]] == 1, 1,
+0]]
+];
+Poly = Append[Poly, Polynew];
+]
+FirstDotSize = Total[Poly[[-1]]]
+
+96
+
+APPENDIX D. CODING IN MATHEMATICA
+
+D.4
+
+Second Exposure
+
+(* Second Exposure *)
+FinalTime2 = FinalTime1 + ExposureTime2 + 1;
+pRight = {initp2}; pLeft = {initp2};
+IndexOffSet = FinalTime1/dt;
+For[n = IndexOffSet + 1, n*dt <= FinalTime2, n++,(* Time Domain *)
+cnew = {}; unew = {}; pnewRight = {}; pnewLeft = {};
+For[k = 0, k <= M, k++,(* Spatial Domain *)
+Delta =
+If[n*dt <= FinalTime1 + ExposureTime2,
+dt*Exposure[k dx, 5 + Spacing]*c[[n]][[k + 1]], 0];
+cnew = Append[cnew,
+If[0 < k && k < M,
+c[[n]][[k + 1]] +
+If[Poly[[n]][[k + 1]] == 0 || Poly[[n]][[k]] == 0 ||
+Poly[[n]][[k + 2]] == 0, alpha, 0]*
+dt*(c[[n]][[k + 2]] - 2*c[[n]][[k + 1]] + c[[n]][[k]])/(dx^2) Delta,
+If[k == 0,
+c[[n]][[2]] +
+alpha*dt*(c[[n]][[3]] - 2*c[[n]][[2]] + c[[n]][[1]])/(dx^2) Delta,(* Left Boundary *)
+c[[n]][[M]] +
+alpha*dt*(c[[n]][[M + 1]] - 2*c[[n]][[M]] +
+c[[n]][[M - 1]])/(dx^2) - Delta](* Right Boundary *)
+]
+];
+unew = Append[unew,
+If[0 < k && k < M,
+(1 - d*dt*(u[[n]][[k + 1]] + 1))*u[[n]][[k + 1]] +
+If[Poly[[n]][[k + 1]] == 0 || Poly[[n]][[k]] == 0 ||
+Poly[[n]][[k + 2]] == 0, beta, 0]*
+dt*(u[[n]][[k + 2]] - 2*u[[n]][[k + 1]] +
+u[[n]][[k]])/(dx^2) + 2*Delta,
+If[k == 0,
+u[[n]][[2]] +
+beta*dt*(u[[n]][[3]] - 2*u[[n]][[2]] + u[[n]][[1]])/(dx^2) +
+2*Delta,(* Left Boundary *)
+u[[n]][[M]] +
+beta*dt*(u[[n]][[M + 1]] - 2*u[[n]][[M]] +
+
+97
+
+APPENDIX D. CODING IN MATHEMATICA
+
+u[[n]][[M - 1]])/(dx^2) + 2*Delta](* Right Boundary *)
+]
+];
+pnewRight = Append[pnewRight,
+If[0 < k && k < M,
+pRight[[n - IndexOffSet]][[
+k + 1]]*(1 - densityP[u[[n]][[k + 1]]]) +
+pRight[[n - IndexOffSet]][[k]]*densityP[u[[n]][[k]]],
+If[k == 0,
+pRight[[n - IndexOffSet]][[2]]*(1 - densityP[u[[n]][[2]]]) +
+pRight[[n - IndexOffSet]][[1]]*densityP[u[[n]][[1]]],(*
+Left Boundary *)
+pRight[[n - IndexOffSet]][[M]]*(1 - densityP[u[[n]][[M]]]) +
+pRight[[n - IndexOffSet]][[M - 1]]*densityP[u[[n]][[M - 1]]]] (*
+Right Boundary *)
+]
+];
+pnewLeft = Append[pnewLeft,
+If[0 < k && k < M,
+pLeft[[n - IndexOffSet]][[
+k + 1]]*(1 - densityP[u[[n]][[k + 1]]]) +
+pLeft[[n - IndexOffSet]][[k + 2]]*densityP[u[[n]][[k + 2]]],
+If[k == 0,
+pLeft[[n - IndexOffSet]][[2]]*(1 - densityP[u[[n]][[2]]]) +
+pLeft[[n - IndexOffSet]][[3]]*densityP[u[[n]][[3]]],(*
+Left Boundary *)
+pLeft[[n - IndexOffSet]][[M]]*(1 - densityP[u[[n]][[M]]]) +
+pLeft[[n - IndexOffSet]][[M + 1]]*densityP[u[[n]][[M + 1]]]] (*
+Right Boundary *)
+]
+];
+];
+c = Append[c, cnew]; u = Append[u, unew];
+pRight = Append[pRight, pnewRight]; pLeft = Append[pLeft, pnewLeft];
+(* Expected value for the boundaries in terms of box number *)
+leftExpect = Sum[pnewLeft[[i]]*i, {i, 1, Length[pnewLeft]}];
+rightExpect = Sum[pnewRight[[i]]*i, {i, 1, Length[pnewRight]}];
+Polynew = {};
+For[k = 1, k <= M + 1, k++,
+Polynew =
+Append[Polynew,
+
+98
+
+APPENDIX D. CODING IN MATHEMATICA
+
+If[(leftExpect < k && k < rightExpect) || Poly[[-1]][[k]] == 1, 1,
+0]]
+];
+Poly = Append[Poly, Polynew];
+]
+SecondDotSize = Total[Poly[[-1]]] - FirstDotSize
+PercentIncrease = (SecondDotSize - FirstDotSize)/FirstDotSize // N
+
+D.5
+
+Showing the Result
+
+Manipulate[
+Show[
+ListLinePlot[
+{
+Table[{20 (i - 1)/(Length[u[[n]]] - 1), u[[n]][[i]]}, {i, 1,
+Length[u[[n]]]}],
+Table[{20 (i - 1)/(Length[c[[n]]] - 1), c[[n]][[i]]}, {i, 1,
+Length[c[[n]]]}]
+},
+Axes -> False, Frame -> True, PlotRange -> {{0, 20}, {0, 4/2}},
+ImageSize -> 800, AspectRatio -> 1/2, PlotStyle -> Thickness[1/150],
+Epilog -> {Text[
+Style[ToString[(n - 1)*dt] <> "s", Bold, 48], {18, 1.8}]},
+LabelStyle -> {Bold, 32}
+],
+ListLinePlot[
+Table[{20 (i - 1)/(Length[Poly[[n]]] - 1),
+Poly[[n]][[i]] + 1/2}, {i, 1, Length[Poly[[n]]]}],
+PlotStyle -> Thickness[1/200],
+ColorFunction -> {Function[{x, y},
+If[y == 1, Black, RGBColor[0, 0, 0, 0]]]}
+]
+],
+{n, 1, Length[c], 1}
+]
+
+99
+
+Appendix E
+Sample Simulation
+2.0
+
+2.0
+
+0.s
+
+0.s
+1.5
+
+1.5
+
+1.0
+
+1.0
+
+0.5
+
+0.5
+
+0.0
+0
+2.0
+
+5
+
+10
+
+15
+
+20
+
+0.0
+0
+2.0
+
+5
+
+10
+
+15
+
+0.1s
+
+0.2s
+
+1.5
+
+1.5
+
+1.0
+
+1.0
+
+0.5
+
+0.5
+
+0.0
+0
+2.0
+
+5
+
+10
+
+15
+
+20
+
+0.0
+0
+2.0
+
+5
+
+10
+
+15
+
+0.3s
+1.5
+
+1.0
+
+1.0
+
+0.5
+
+0.5
+
+5
+
+10
+
+15
+
+20
+
+0.4s
+
+1.5
+
+0.0
+0
+
+20
+
+20
+
+0.0
+0
+
+100
+
+5
+
+10
+
+15
+
+20
+
+APPENDIX E. SAMPLE SIMULATION
+2.0
+
+101
+2.0
+
+0.5s
+
+0.6s
+
+1.5
+
+1.5
+
+1.0
+
+1.0
+
+0.5
+
+0.5
+
+0.0
+0
+
+5
+
+10
+
+15
+
+20
+
+2.0
+
+0.0
+0
+
+5
+
+10
+
+15
+
+2.0
+
+0.7s
+
+0.8s
+
+1.5
+
+1.5
+
+1.0
+
+1.0
+
+0.5
+
+0.5
+
+0.0
+0
+
+5
+
+10
+
+15
+
+20
+
+2.0
+
+0.0
+0
+
+5
+
+10
+
+15
+
+1.s
+
+1.5
+
+1.5
+
+1.0
+
+1.0
+
+0.5
+
+0.5
+
+5
+
+10
+
+15
+
+20
+
+2.0
+
+0.0
+0
+
+5
+
+10
+
+15
+
+1.2s
+
+1.5
+
+1.5
+
+1.0
+
+1.0
+
+0.5
+
+0.5
+
+5
+
+10
+
+15
+
+20
+
+2.0
+
+0.0
+0
+
+5
+
+10
+
+15
+
+20
+
+2.0
+
+1.3s
+
+1.4s
+
+1.5
+
+1.5
+
+1.0
+
+1.0
+
+0.5
+
+0.5
+
+0.0
+0
+
+20
+
+2.0
+
+1.1s
+
+0.0
+0
+
+20
+
+2.0
+
+0.9s
+
+0.0
+0
+
+20
+
+5
+
+10
+
+15
+
+20
+
+0.0
+0
+
+5
+
+10
+
+15
+
+20
+
+APPENDIX E. SAMPLE SIMULATION
+2.0
+
+102
+2.0
+
+1.5s
+
+1.6s
+
+1.5
+
+1.5
+
+1.0
+
+1.0
+
+0.5
+
+0.5
+
+0.0
+0
+
+5
+
+10
+
+15
+
+20
+
+2.0
+
+0.0
+0
+
+5
+
+10
+
+15
+
+2.0
+
+1.7s
+
+1.8s
+
+1.5
+
+1.5
+
+1.0
+
+1.0
+
+0.5
+
+0.5
+
+0.0
+0
+
+5
+
+10
+
+15
+
+20
+
+2.0
+
+0.0
+0
+
+5
+
+10
+
+15
+
+2.s
+
+1.5
+
+1.5
+
+1.0
+
+1.0
+
+0.5
+
+0.5
+
+5
+
+10
+
+15
+
+20
+
+2.0
+
+0.0
+0
+
+5
+
+10
+
+15
+
+2.2s
+
+1.5
+
+1.5
+
+1.0
+
+1.0
+
+0.5
+
+0.5
+
+5
+
+10
+
+15
+
+20
+
+2.0
+
+0.0
+0
+
+5
+
+10
+
+15
+
+20
+
+2.0
+
+2.3s
+
+2.4s
+
+1.5
+
+1.5
+
+1.0
+
+1.0
+
+0.5
+
+0.5
+
+0.0
+0
+
+20
+
+2.0
+
+2.1s
+
+0.0
+0
+
+20
+
+2.0
+
+1.9s
+
+0.0
+0
+
+20
+
+5
+
+10
+
+15
+
+20
+
+0.0
+0
+
+5
+
+10
+
+15
+
+20
+
+APPENDIX E. SAMPLE SIMULATION
+2.0
+
+103
+2.0
+
+2.5s
+
+2.6s
+
+1.5
+
+1.5
+
+1.0
+
+1.0
+
+0.5
+
+0.5
+
+0.0
+0
+
+5
+
+10
+
+15
+
+20
+
+2.0
+
+0.0
+0
+
+5
+
+10
+
+15
+
+2.0
+
+2.7s
+
+2.8s
+
+1.5
+
+1.5
+
+1.0
+
+1.0
+
+0.5
+
+0.5
+
+0.0
+0
+
+5
+
+10
+
+15
+
+20
+
+2.0
+
+0.0
+0
+
+5
+
+10
+
+15
+
+20
+
+2.0
+
+2.9s
+
+3.s
+
+1.5
+
+1.5
+
+1.0
+
+1.0
+
+0.5
+
+0.5
+
+0.0
+0
+
+20
+
+5
+
+10
+
+15
+
+20
+
+0.0
+0
+
+5
+
+10
+
+15
+
+20
+
+Appendix F
+General Solutions to y 0 = ky(1 − y)
+We first rewrite the differential equation into
+dy
+− ky = −ky 2 .
+dx
+
+(F.1)
+
+dy
+= −u−2 .
+du
+
+(F.2)
+
+dy
+dy du
+du
+=
+·
+= −u−2 ·
+.
+dx
+du dx
+dx
+
+(F.3)
+
+Let u = y −1 , then y = u−1 , thus
+
+By Chain Rule, it follows that
+
+Substitute (F.3) into (F.1), we obtain
+−u−2 ·
+
+du
+− ku−1 = −ku−2 .
+dx
+
+(F.4)
+
+Multiply both sides by −u2 , we obtain
+du
++ ku = k.
+dx
+104
+
+(F.5)
+
+APPENDIX F. GENERAL SOLUTIONS TO Y 0 = KY (1 − Y )
+R
+
+kdx
+
+Let the integrating factor µ(x) = e
+
+105
+
+= ekx . We multiply both sides by the integrating
+
+factor, then integrate over x, we get
+Z 
+
+kx
+
+e
+
+Z
+
+du
+kx
+·
++ ke · u dx = kekx dx.
+dx
+
+(F.6)
+
+The integrand of the left-hand side is the derivative of ekx · u(x), and the integrand of the
+right-hand side is the derivative of ekx . Thus we have
+ekx · u(x) = ekx + C.
+
+(F.7)
+
+u(x) = 1 + ec−kx .
+
+(F.8)
+
+We solve for u(x), and get
+
+Thus the general solution to y(x), in closed form, is
+
+y(x) =
+
+where c and k are constants, and k > 0.
+
+1
+,
+1 + ec−kx
+
+(F.9)
+
+Bibliography
+[Abe62] I. D. Abella. Optical double-photon absorption in cesium vapor. Phys. Rev.
+Lett., 9(11):453–455, Dec 1962.
+[Air35] G. B. Airy. On the diffraction of an object-glass with circular aperture. Transactions of the Cambridge Philosophical Society, 5:283–291, 1835.
+[Far82] Stanley J. Farlow. Partial Differential Equations for Scientists and Engineers.
+Dover Publications, Inc., 1982.
+[FW13] Joachim Fischer and Martin Wegener. Three-dimensional optical laser lithography beyond the diffraction limit. Laser and Photonics Reviews, 7(1):22–44,
+2013.
+[IKT+ 08] Kazuyoshi Itoga, Jun Kobayashi, Yukiko Tsuda, Masayuki Yamato, and Teruo
+Okano. Second-generation maskless photolithography device for surface micropatterning and microfluidic channel fabrication. Analytical Chemistry,
+80(4):1323–1327, 2008. PMID: 18211096.
+[Jae02] Richard C. Jaeger. Introduction to Microelectronic Fabrication, volume 5 of
+Modular Series on Solid State Devices, chapter 2 Lithography, pages 17–42.
+Prentice Hall, 2nd edition, 2002.
+[KOM+ 13] Michelle L. Kovarik, Douglas M. Ornoff, Adam T. Melvin, Nicholas C. Dobes,
+Yuli Wang, Alexandra J. Dickinson, Philip C. Gach, Pavak K. Shah, and
+Nancy L. Allbritton. Micro total analysis systems: Fundamental advances
+and applications in the laboratory, clinic, and field. Analytical Chemistry,
+85(2):451–472, 2013.
+[Moo65] Gorden E. Moore. Cramming more components onto integrated circuits. Electronics, 1965.
+106
+
+BIBLIOGRAPHY
+
+107
+
+[PY05] Michael F. Perry and Gerald W. Young. A mathematical model for photopolymerization from a stationary laser light source. Macromolecular Theory and
+Simulations, 14(1):26–39, 2005.
+[RC97] P. Rai-Choudhury, editor. Handbook of Microlithography, Micromachining,
+and Microfabrication, volume 1, chapter 2 Electron beam lithography, pages
+139–250. Society of Photo-Optical Instrumentation Engineers, March 1997.
+[Rev84] D. Revus. Markov Chains. Elsevier, 1984.
+[Rub74] Robert Rubinstein. Examples of nonsolvable partial differential equations.
+Trans. Amer. Math. Soc., 199:123–129, 1974.
+[Sig13] Sigma-Aldrich. Diethyl ether, Material Safety Data Sheet, 5.2 edition, August
+2013.
+[ST91] Bahaa E. Saleh and Malvin Carl Teich. Fundamentals of Photonics. Wiley
+series in pure and applied optics. Wiley, 1991.
+[Sza10] Csilla Szabo. Markov Models for Actin Polymer Dynamics and Cell Membrane
+Protrusion. PhD thesis, Rensselaer Polytechnic Institute, May 2010.
+[TBP+ 11] Giovanna Tomaiuolo, Mario Barra, Valentina Preziosi, Antonio Cassinese,
+Bruno Rotoli, and Stefano Guido. Microfluidics analysis of red blood cell
+membrane viscoelasticity. Lab Chip, 11:449–454, 2011.
+[Tho95] J. W. Thomas. Numerical Differential Equations: Finite Difference Methods.
+Springer, 1995.
+[ZNWS13] Yi Zheng, John Nguyen, Chen Wang, and Yu Sun. Electrical measurement of
+red blood cell deformability on a microfluidic device. Lab Chip, 13:3275–3283,
+2013.
+[ZRM+ 03] Dong S. Zhao, Binayak Roy, Matthew T. McCormick, Werner G. Kuhr, and
+Sara A. Brazill. Rapid fabrication of a poly(dimethylsiloxane) microfluidic
+capillary gel electrophoresis system utilizing high precision machining. Lab
+Chip, 3:93–99, 2003.
+
+

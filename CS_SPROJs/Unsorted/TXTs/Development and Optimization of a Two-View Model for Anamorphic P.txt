@@ -1,0 +1,3369 @@
+Bard College
+
+Bard Digital Commons
+Senior Projects Spring 2015
+
+Bard Undergraduate Senior Projects
+
+2015
+
+Development and Optimization of a Two-View
+Model for Anamorphic Projections on Planar
+Surfaces
+Van Mai Nguyen Thi
+Bard College
+
+Recommended Citation
+Nguyen Thi, Van Mai, "Development and Optimization of a Two-View Model for Anamorphic Projections on Planar Surfaces" (2015).
+Senior Projects Spring 2015. Paper 306.
+http://digitalcommons.bard.edu/senproj_s2015/306
+
+This On-Campus only is brought to you for free and open access by the
+Bard Undergraduate Senior Projects at Bard Digital Commons. It has been
+accepted for inclusion in Senior Projects Spring 2015 by an authorized
+administrator of Bard Digital Commons. For more information, please
+contact digitalcommons@bard.edu.
+
+Development and Optimization of a
+Two-View Model for Anamorphic
+Projections on Planar Surfaces
+
+A Senior Project submitted to
+The Division of Science, Mathematics, and Computing
+of
+Bard College
+by
+Van Mai Nguyen Thi
+
+Annandale-on-Hudson, New York
+May, 2015
+
+Abstract
+
+An anamorphic projection is an image that is intentionally distorted so that the original
+image can be seen only when looked at from a certain perspective, or using a special device,
+for example a mirror. Origins of anamorphosis can be traced back to the 16th century
+art, but beyond the aesthetic values, anamorphosis has found its uses in many practical
+settings, such as road signs, and keystone correction. Despite the widespread uses, there is
+a scarcity of detailed explanation of the mathematical principles behind anamorphosis, and
+there is hardly any computer software generating the anamorphic projections. The goal of
+this project is to apply computer vision techniques to create a program that automates the
+process of generating anamorphic projections. We use a projector-camera system to derive
+homography mappings between the projector and camera image, and propose a method
+for generating an optimal anamorphic image for multiple viewers using least squares.
+
+Contents
+
+Abstract
+
+1
+
+Dedication
+
+6
+
+Acknowledgments
+
+7
+
+1 Introduction
+1.1 Background . . . . .
+1.2 Previous Work . . .
+1.3 Motivation . . . . .
+1.4 Summary of Results
+
+.
+.
+.
+.
+
+.
+.
+.
+.
+
+.
+.
+.
+.
+
+.
+.
+.
+.
+
+.
+.
+.
+.
+
+.
+.
+.
+.
+
+.
+.
+.
+.
+
+.
+.
+.
+.
+
+.
+.
+.
+.
+
+.
+.
+.
+.
+
+.
+.
+.
+.
+
+.
+.
+.
+.
+
+.
+.
+.
+.
+
+.
+.
+.
+.
+
+.
+.
+.
+.
+
+.
+.
+.
+.
+
+.
+.
+.
+.
+
+.
+.
+.
+.
+
+.
+.
+.
+.
+
+.
+.
+.
+.
+
+.
+.
+.
+.
+
+.
+.
+.
+.
+
+.
+.
+.
+.
+
+.
+.
+.
+.
+
+.
+.
+.
+.
+
+8
+8
+10
+11
+12
+
+2 Mathematical Concepts
+2.1 Pinhole Camera Model . . . . . .
+2.1.1 Mathematical Description
+2.2 Homogeneous Representation . .
+2.3 2D Transformations . . . . . . .
+2.3.1 Transformations . . . . .
+2.3.2 Warping . . . . . . . . . .
+
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+
+13
+13
+14
+15
+18
+19
+22
+
+. . . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . . .
+Linear Least Squares . . . . . . . . .
+Homogeneous Linear Least Squares
+
+.
+.
+.
+.
+.
+.
+
+24
+24
+26
+27
+29
+31
+33
+
+.
+.
+.
+.
+
+.
+.
+.
+.
+
+.
+.
+.
+.
+
+.
+.
+.
+.
+
+.
+.
+.
+.
+
+.
+.
+.
+.
+
+3 Algorithmic Methods
+3.1 Least Squares Minimization Method
+3.1.1 Linear Model . . . . . . . . .
+3.1.2 General Model . . . . . . . .
+3.2 Projective Transformation . . . . . .
+3.2.1 Homography Estimation with
+3.2.2 Homography Estimation with
+
+Contents
+3.3
+
+3
+
+Feature Detection Methods . . . . . . . . . . . . . . . . . . . . . . . . . . . 35
+3.3.1 Harris Corner Detection . . . . . . . . . . . . . . . . . . . . . . . . . 35
+3.3.2 Good Features To Track . . . . . . . . . . . . . . . . . . . . . . . . . 36
+
+4 Results
+4.1 Basic Planar Model . . . . . . . . . . . . . . . . . . . . .
+4.1.1 Pattern Detection . . . . . . . . . . . . . . . . .
+4.1.2 Homography Estimation . . . . . . . . . . . . . .
+4.1.3 Generating the Anamorphic Image . . . . . . . .
+4.1.4 Challenges and Limitations . . . . . . . . . . . .
+4.2 Improved Planar Model . . . . . . . . . . . . . . . . . .
+4.2.1 Modified Set-up . . . . . . . . . . . . . . . . . .
+4.2.2 Detecting the Projection Screen . . . . . . . . . .
+4.2.3 Homography Estimation with Chessboard Corner
+4.2.4 Repositioning and Resizing the Pre-anamorph . .
+4.2.5 Challenges and Limitations . . . . . . . . . . . .
+4.3 Two-view Anamorphosis . . . . . . . . . . . . . . . . . .
+4.3.1 Two-view Setup . . . . . . . . . . . . . . . . . .
+4.3.2 Target Camera Images . . . . . . . . . . . . . . .
+4.3.3 Homography Estimation . . . . . . . . . . . . . .
+4.3.4 Generating the Anamorphic Image . . . . . . . .
+
+. . . . . .
+. . . . . .
+. . . . . .
+. . . . . .
+. . . . . .
+. . . . . .
+. . . . . .
+. . . . . .
+Detection
+. . . . . .
+. . . . . .
+. . . . . .
+. . . . . .
+. . . . . .
+. . . . . .
+. . . . . .
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+37
+37
+40
+41
+41
+43
+44
+46
+47
+48
+49
+51
+52
+53
+55
+57
+62
+
+5 Future Work
+
+64
+
+Bibliography
+
+66
+
+List of Figures
+
+1.1.1 Hans Holbein’s The Ambassadors, 1533 . . . . . . . . . . . . .
+1.1.2 Undistorted skull from H. Holbein’s The Ambassadors . . . . .
+1.1.3 Road sign in the shape of an elongated bike. Left: view from the
+view from a driver’s perspective [7]. . . . . . . . . . . . . . . . .
+
+. . . . . . . 9
+. . . . . . . 9
+top; right:
+. . . . . . . 10
+
+2.1.1 Graphical representation of the pinhole camera model. [3] . . . . . . . . . . 14
+2.3.1 Examples of basic 2D transformations. [13] . . . . . . . . . . . . . . . . . . 19
+3.2.1 The homographies between the projector image, camera image, and projection surface. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 30
+4.1.1 Steps involved in finding the homography HP C : (a) project a rectangular
+pattern (b) Detect the pattern in the camera image . . . . . . . . . . . . .
+4.1.2 Verify that the anamorph is seen correctly by the camera: (a) project the
+anamorph (b) The image (white rectangle) is seen correctly in the camera
+image. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+4.1.3 Screen shots and camera captures of the program . . . . . . . . . . . . . .
+4.1.4 Diagram of the scenario in which the points in the camera image are mapped
+outside of the projector image: (a) camera image (b) projector image . . .
+4.1.5 (a) Anamorphic image not fitting inside the projector image. (b) When the
+anamorphic image in (a) is projected, the camera receives an incomplete
+image. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+4.1.6 Incorrectly detected projection corners. . . . . . . . . . . . . . . . . . . .
+4.2.1 Screenshots of the program: (a) Detected chessboard corners. (b) Prepared
+pre-anamorph. (c) Anamorphic image after warping. (d) Anamorphic image
+seen correctly by the camera. . . . . . . . . . . . . . . . . . . . . . . . . .
+4.2.2 Detected projection screen corners marked with blue dots. . . . . . . . . .
+
+. 39
+
+. 39
+. 40
+. 42
+
+. 43
+. 44
+
+. 45
+. 47
+
+LIST OF FIGURES
+4.2.3 (a) Original chessboard corners in the projector image. (b) Detected chessboard corners in the camera image. . . . . . . . . . . . . . . . . . . . . . .
+4.2.4 Screenshots of the program . . . . . . . . . . . . . . . . . . . . . . . . . .
+4.2.5 A scenario in which the program fails to detect the chessboard corners
+correctly. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+4.3.1 The new setup: (a) Camera 1 (b) Projector (c) Camera 2 (d) Projection
+surface. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+4.3.2 The new setup and notation for the homographies. . . . . . . . . . . . . .
+4.3.3 New chessboard patterns. . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+5
+
+. 48
+. 50
+. 51
+. 54
+. 55
+. 57
+
+Dedication
+
+I dedicate this work to my family.
+
+Acknowledgments
+
+First of all, I would like to thank my advisors, Keith and Jim, for their constant advice,
+support and encouragement throughout this project. In would like to thank Keith for
+his enthusiasm and support, from brainstorming ideas to finalizing this project. Thank
+you Jim for your guidance and contribution. My thanks also go to the Mathematics and
+Computer Science departments for giving me the foundation to work on this project.
+I also want to thank my friends, Thinh, Linh, Jin, for supporting me with my project
+and the good memories that we have had at Bard. I also thank Georgia, Alexzandra and
+Eva-Marie for being great suitemates and helping me whenever I needed.
+I want to thank Thant Ko Ko for his continuous support and always being there for me.
+Finally, I would like to thank my parents for their unconditional love and support
+throughout my life, and my little sister Ola for never failing to make me laugh.
+
+1
+Introduction
+
+1.1 Background
+An anamorphosis (or anamorphic projection/image) is an image that is intentionally distorted so that the original image can be recovered only when looked at from a certain
+point of view or using a special device, for example a mirror. Origins of anamorphosis
+can be traced back to the 16th century when artists, mathematicians and philosophers,
+fascinated by the idea of perspective, experimented with the notions of illusion, truth and
+reality [7]. Some of the notable examples of anamorphosis include Jean-Francois Niceron’s
+methods for geometrical construction that generated multiple types of anamorphic transforms which involved both exact and approximate methods [7, 8]. One of the most famous
+anamorphic paintings is Hans Holbein’s The Ambassadors (Figure 1.1.1), in which the
+artist embedded an anamorphic image of a skull (Figure 1.1.2) at the bottom of the painting as a memento mori, a recurring motif in many artworks in the Renaissance period.
+
+1. INTRODUCTION
+
+9
+
+Figure 1.1.1: Hans Holbein’s The Ambassadors, 1533
+
+Figure 1.1.2: Undistorted skull from H. Holbein’s The Ambassadors
+
+Anamorphosis is still prevalent to this day, and is incorporated in many new forms of
+art, most notably street art. The undying fascination for anamorphosis is manifested in
+numerous artworks centered around the anamorphic principle and using it to create a
+unique piece of art. Beyond the aesthetic values, anamorphosis has found its uses in many
+practical settings, such as road signs that are elongated so that drivers’ looking at them
+from a small angle above the ground can see the signs correctly (Figure 1.1.3), or inverted
+“ambulance” signs that are designed to be reflected correctly in the rear-view mirrors.
+
+1. INTRODUCTION
+
+10
+
+Principles similar to those of anamorphosis are also found in keystone correction, which is
+a method for eliminating some distortions of projection that may result from misaligning
+the projector with the projection screen.
+Despite the widespread uses, there is a scarcity of detailed explanation of the mathematical principles behind anamorphosis in the context of computer vision, and even with
+the advanced technology there is hardly any computer software generating the anamorphic
+projections. The goal of this project is two-fold. First of all, we explore the mathematical
+principles behind the most common types of anamorphosis. Next, we combine these theories with computer vision techniques to create a program that automates the process of
+generating anamorphic projections.
+
+Figure 1.1.3: Road sign in the shape of an elongated bike. Left: view from the top; right:
+view from a driver’s perspective [7].
+
+1.2 Previous Work
+We build our research on previous works on the topics related to anamorphosis. The mathematical transformations involved in various types of anamorphosis are explained in [7]. In
+particular, it describes the transformation of points between planar surfaces in perspective
+anamorphosis, which is the main focus of this project. Because of the lack of resources
+
+1. INTRODUCTION
+
+11
+
+about anamorphosis in computer vision, we review other related research projects that
+employ methods that are applicable to anamorphosis. There have been some development in the area of keystone correction, a topic which greatly overlaps with our project
+as it uses a similar projector-camera setup and planar image transformation detection
+methods [2, 12]. Besides keystone correction, further innovations of [2] and [12] include an
+interactive user experience through a laser pointer. Related but outside of the scope of our
+project is dynamic anamorphosis, which adapts the generated images to the position of
+the viewer by tracking the viewer in real-time [9, 11]. We refer to [13] and [6] for comprehensive explanations of fundamental computer vision techniques and methods to analyze
+images, including feature detection and image transformation. [6] also provides a complete
+description of the geometric principles behind multiple view systems and techniques for
+reconstructing a three-dimensional scene using projector camera systems.
+
+1.3 Motivation
+While the inspiration for this project originates from the intriguing use of anamorphosis
+in art, the motivation for our research is the scarcity of previous work exploring the
+broad applications of anamorphosis in computer vision. Through this project, we hope to
+contribute to and bring the attention to this overlooked subject.
+Most research on the related topics deals with reconstructing the three-dimensional geometry of a scene, for example using a Kinect device or a multiple camera system. This
+project, however, takes a different approach in that it not only uses the cameras to reconstruct the information about the scene, but also optimizes the projections for the camera
+views. This work focuses on developing anamorphic models for single and two view geometries, both of which have potential applications in visual and performance arts and can
+be used to enhance the viewers’ experience and create unique and engaging visual effects.
+We employ anamorphic principles to optimize projected images for a multiple view model,
+
+1. INTRODUCTION
+
+12
+
+which has further use in developing anamorphic imaging systems for a large theatrical
+audience. Another advantage to this simple projector-camera model is its relatively low
+cost, which means that it can be effectively incorporated into class curricula to facilitate
+computer vision learning.
+
+1.4 Summary of Results
+The results of this project are described in detail in Chapter 4. The findings in this work are
+built upon a review of the mathematical concepts pertinent to perspective anamorphosis
+and computer vision techniques, which are employed later in this project.
+Chapter 2 discusses the mathematical principles of the Pinhole Camera Model and
+two-dimensional image transformations, and introduces the concept of homogeneous coordinates. The theoretical background explained in Chapter 2 serves as a basis for computer
+vision applications and methods described in Chapter 3. Based on what we learn from the
+review of these concepts, we build three models for generating anamorphic projections on
+planar surfaces, discussed in Chapter 4. We first implement a basic planar model using
+a simple projector-camera system. We estimate the homography relations between the
+images in the system and generate anamorphic images for the camera view. Based on
+our observations of some limitations in this simple model, we develop an improved model
+which addresses some of these limitations. These two models are presented in Sections 4.1
+and 4.2, and a homography estimation method using linear least squares for single view
+models is explained in Subsection 3.2.1. Finally, Section 4.3 studies a two view model and
+Subsection 3.2.2 develops a new method of homography estimation using homogeneous
+least squares which we implement in Python as part of the algorithm for the two view
+model.
+
+2
+Mathematical Concepts
+
+This chapter defines some basic concepts and terminology needed to describe anamorphic projections. In particular, we present the pinhole camera model and introduce homogeneous representations of geometrical objects used in computer vision to facilitate
+performing image transformations.
+
+2.1 Pinhole Camera Model
+The pinhole camera model is one of the simplest camera models. Its principles were known
+in as early as the thirteenth century, and used in “camera obscura.” [3]
+The pinhole camera can be visualized as a closed box with a small hole on one side, and
+an image plane on the opposite side. The light rays, which are reflected from objects in
+the real world, enter the box through the pinhole, and land on the image plane, forming
+a 180◦ rotated two-dimensional reflection, as shown in Figure 2.1.1. The same mechanism
+describes the process of human vision, in which the light passes the through the pupil of
+the eye.
+
+2. MATHEMATICAL CONCEPTS
+
+14
+
+Figure 2.1.1: Graphical representation of the pinhole camera model. [3]
+
+2.1.1
+
+Mathematical Description
+
+For a more rigorous explanation of the model, we introduce a three-dimensional coordinate
+system where Z is the axis orthogonal to the pinhole and image plane, X is the horizontal
+axis, and Y is the vertical axis, and the origin is placed at the pinhole, as shown in
+Figure 2.1.1. The position of any point in the real world in front of the pinhole box can be
+represented with the X, Y and Z coordinates. The image plane has its own two-dimensional
+coordinate system with x and y axes parallel to the X and Y axes respectively, and the
+origin on the Z-axis at a distance f (focal length) from the pinhole.
+Using this model, we can easily predict where a point lands on the image plane given its
+three-dimensional position in the real world. Observe that the ray connecting the point in
+the real world and its reflection in the image plane forms two similar triangles on either side
+of the pinhole by projecting itself onto the XZ-plane. Given this observation, we define
+the position (x, y) of a point on the image plane corresponding to the point (X, Y, Z) in
+the real world as
+
+y = −f
+
+X
+Y
+, and x = −f .
+Z
+Z
+
+2. MATHEMATICAL CONCEPTS
+
+15
+
+2.2 Homogeneous Representation
+Homogeneous coordinates were first introduced by August Ferdinand Möbius, and later became a powerful tool with applications in computer vision and projective geometry [1, 10].
+The homogeneous system is an alternative to the standard Euclidean, or inhomogeneous
+system as it solves some of its limitations. One limitation of the Euclidean system is that
+it allows only linear transformations that fix the origin to be represented as matrices.
+Another limitation is that it does not have a finite representation for a point or line at
+infinity. The homogeneous model solves this problem by introducing an extra dimension,
+which provides a convenient representation for points and lines at infinity, as described
+later in this section. Another benefit of using the homogeneous model, and the reason for
+its prevalence in computer vision, is that projective transformations can be represented as
+matrices, which offers a convenient way to perform such operations.
+
+Definition 2.2.1. Let P be a finite point in n dimensions, and (x1 , x2 , ..., xn ) be its
+representation in Cartesian coordinates. A homogeneous representation of point P is any
+(n + 1)-tuple (ωx1 , ωx2 , ..., ωxn , ω), where ω 6= 0. The last coordinate ω is called the
+homogeneous coordinate. A homogeneous representation of a finite point has a non-zero
+homogeneous coordinate, and a point at infinity has a zero homogeneous coordinate.
+
+The homogeneity of this representation lies in the fact that when a homogeneous point
+is multiplied by a scalar, it is still the same point and corresponds to the same Cartesian
+point.
+A Cartesian point can be converted to a homogeneous representation by appending
+ω = 1 as the (n + 1)th coordinate. A homogeneous point can be converted to a Cartesian
+point by dividing each of its coordinates by ω, and removing the homogeneous coordinate.
+
+2. MATHEMATICAL CONCEPTS
+
+16
+
+Example 2.2.2. Let P1 be a two dimensional point with Cartesian coordinates (x, y). A
+possible homogeneous representation of P1 is (x, y, 1), or more generally (xω, yω, ω) for
+any ω 6= 0. Let P2 be another point in two dimensions with homogeneous representation
+
+(x, y, ω). P2 can be represented in Cartesian coordinates as ωx , ωy .
+Definition 2.2.3. Let l be a straight line in two dimensions defined by the equation
+ax + by + c = 0. Then (a, b, c) is the homogeneous representation of line l.
+The homogeneity is preserved in this line representation because (λa, λb, λc) represents
+the line λax + λby + λc = 0, which is the same as line ax + by + c = 0 represented by
+(a, b, c), for any λ 6= 0.
+Additionally, it follows from the definition of a line that a point P lies on a line l if the
+dot product of the homogeneous representations of P and l are zero.
+Lemma 2.2.4. A point P is the intersection of two-dimensional lines l1 and l2 if and
+only if P is the cross product of the homogeneous vector representations of l1 and l2 .
+Proof. This proof consists of two parts. First, we show that the cross product of the
+homogeneous representations of two lines is the intersection point of those lines. Then we
+prove that an intersection of two lines must also be the cross product of the two lines.
+Let l1 and l2 be two-dimensional non-parallel lines represented as (a1 , b1 , c1 ) and
+(a2 , b2 , c2 ) respectively. Their cross product is a point P defined as
+P = (a1 , b1 , c1 ) × (a2 , b2 , c2 ) = (b1 c2 − b2 c1 , a2 c1 − a1 c2 , a1 b2 − a2 b1 ).
+
+(2.2.1)
+
+We verify that P lies on both lines l1 and l2 by demonstrating that the dot product of P
+with each line is zero. For line l1 we obtain
+a1 (b1 c2 − b2 c1 ) + b1 (a2 c1 − a1 c2 ) + c1 (a1 b2 − a2 b1 )
+= a1 b1 c2 − a1 b2 c1 + a2 b1 c1 − a1 b1 c2 + a1 b2 c1 − a2 b1 c1
+= 0,
+
+2. MATHEMATICAL CONCEPTS
+
+17
+
+which means that P lies on l1 . Similarly, we obtain that P lies on l2 :
+a2 (b1 c2 − b2 c1 ) + b2 (a2 c1 − a1 c2 ) + c2 (a1 b2 − a2 b1 )
+= a2 b1 c2 − a2 b2 c1 + a2 b2 c1 − a1 b2 c2 + a1 b2 c2 − a2 b1 c2
+= 0.
+Since P lies on both l1 and l2 , P , which is the cross product of the two lines, is the
+intersection of those lines.
+It remains to show that the intersection of two lines is also the cross product of the
+lines. Let Q = (x, y, 1) be the intersection point of l1 and l2 . Notice that without loss
+of generality, any homogeneous representation can be transformed to a form with the
+homogeneous coordinate being 1. Because Q is the intersection point, ot must lie on both
+lines, which means that the dot product of Q with each line is zero. The dot product of
+Q and l1 is
+Q · l1 = (x, y, 1) · (a1 , b1 , c1 ) = a1 x + b1 y + c1 ,
+and the dot product of Q and l2 is
+Q · l2 = (x, y, 1) · (a2 , b2 , c2 ) = a2 x + b2 y + c2 .
+We need to solve the following system of equations for x and y:
+a1 x + b1 y + c1 = 0
+a2 x + b2 y + c2 = 0.
+We obtain the solution with a simple row reduction:
+
+∼
+
+
+
+
+
+a1 b1 −c1
+a2 b2 −c2
+
+
+
+0 a2 b1 − a1 b2 a1 c2 − a2 c1
+a2
+b2
+−c2
+
+
+
+2. MATHEMATICAL CONCEPTS
+#
+"
+a1 c2 −a2 c1
+0 1
+a2 b1 −a1 b2
+∼
+−a2 b2 c1
+a2 0 −c2 − a1ab22 cb12 −a
+1 b2
+"
+a1 c2 −a2 c1 #
+0 1 a2 b1 −a1 b2
+∼
+.
+−b1 c2
+1 0 ab22 cb11 −a
+1 b2
+
+18
+
+Therefore the coordinates of Q are
+
+
+
+b2 c1 − b1 c2 a1 c2 − a2 c1
+,
+,1 ,
+a2 b1 − a1 b2 a2 b1 − a1 b2
+
+which in homogeneous representation is equivalent to (b2 c1 − b1 c2 , a1 c2 − a2 c1 , a2 b1 − a1 b2 ),
+which is the cross product of l1 and l2 , as computed in the equation (2.2.1). Thus, the
+intersection point of two lines is also the cross product of the two lines.
+Definition 2.2.5. The degrees of freedom of a system is the number of independent
+parameters that define the system and are free to vary.
+Example 2.2.6. It is clear that a Cartesian point in two dimensions is defined by two
+parameters: the x and y coordinate. Thus a 2D point has two degrees of freedom. It is
+less obvious that a line in two dimensions has two degrees of freedom. Recall that a line
+is defined by an equation of the form ax + by = c, where the coefficients a, b and c define
+the line. Although this equation has three coefficients, a line is unique only up to a scale
+of the coefficients, that is a line ax + by = c is the same as a line sax + sby = sc for
+any non-zero scalar s. In fact, a line can be defined with two independent parameters: the
+slope and the y-intercept, marked as m and c in this common notation: y = mx + c.
+
+2.3 2D Transformations
+This section deals with types graphical transformations on 2D images. In computer vision,
+these operations are functions of pixel coordinates that return new coordinates for the
+given pixel. The simplest types of transformations include translation, rotation and affine.
+They form a basis for the projective transformation (homography), which could be thought
+
+2. MATHEMATICAL CONCEPTS
+
+19
+
+of as an advanced transformation that includes but is not limited to a combination of
+those basic transformations. The projective transformation is defined in this chapter and
+discussed in more detail in Section 3.2. The procedure of applying a transformation to
+an image is referred to as warping. There are two main methods of warping, defined in
+Subsection 2.3.2.
+
+2.3.1
+
+Transformations
+
+This section focuses on some fundamental transformations of two dimensional images,
+illustrated in Figure 2.3.1. For each transformation, we provide a definition and present
+a matrix notation that offers a convenient way to apply them to 2D images. Since the
+transformations discussed here do not preserve the origin, their matrix notation is only
+possible when we use homogeneous coordinates, introduced in Section 2.2.
+
+Figure 2.3.1: Examples of basic 2D transformations. [13]
+
+Definition 2.3.1. Translation is a type of transformation that shifts an image by a vector.
+It is typically defined as a 2 × 3 matrix
+
+
+1 0 tx
+T =
+0 1 ty
+or as a 3 × 3 matrix
+
+
+
+1 0 tx
+T = 0 1 ty  .
+0 0 1
+for some translation factors tx and ty .
+
+2. MATHEMATICAL CONCEPTS
+
+20
+
+The 2 × 3 matrix can be applied to a homogeneous point this way:
+ 
+ 0 
+ x
+
+
+x
+1 0 tx  
+x + tx
+y =
+=
+y0
+0 1 ty
+y + ty
+1
+where (x, y, 1) is initial position, and (x0 , y 0 )T is the new position after translation. Observe
+that the result of translation using the 2 × 3 matrix is a point in Euclidean coordinates,
+without the homogeneous coordinate. This creates a significant disadvantage as it prevents
+combining several transformations. For example, if we want to apply another translation
+on this result, we need to convert it to the homogeneous coordinates first.
+The 3 × 3 matrix gives the same result, but in homogeneous coordinates:
+  
+
+ 0 
+1 0 tx
+x
+x + tx
+x
+y 0  = 0 1 ty  y  =  y + ty  .
+1
+0 0 1
+1
+1
+This notation makes it easy to apply another transformation such as translation directly
+to the result, as the result is already in the homogeneous form.
+Definition 2.3.2. Rotation is a type of transformation that preserves orientation, lengths
+and angles. In the most compressed form it is defined as a 2 × 2 matrix R:
+
+R=
+
+cos θ − sin θ
+sin θ cos θ
+
+
+
+for some angle θ. In this 2 × 2 form, rotation is applied to an Euclidean point, and the
+result is also in Euclidean form, and is the position of the initial point rotated by the angle
+θ around the origin. Another more versatile form of the rotation matrix is
+
+
+cos θ − sin θ 0
+R =  sin θ cos θ 0 ,
+0
+0
+1
+which is applied to a homogeneous point, and returns a rotated homogeneous point.
+Definition 2.3.3. Scaling is a transformation that preserves orientation and angles. It
+takes a form of a non-zero scaling factor s, which can be applied to both homogeneous
+and inhomogeneous points.
+
+2. MATHEMATICAL CONCEPTS
+
+21
+
+Rather than appearing separately, translation, rotation and scaling are often combined
+to create more complex transformations. For example, a combination of rotation and
+translation is called rigid or Euclidean transformation, and is of the form
+
+
+
+cos θ − sin θ tx
+.
+sin θ cos θ ty
+
+A combination of all three basic transformations (translation, rotation and scaling) is
+referred to as similarity transform is defined as
+
+
+s cos θ −s sin θ stx
+s sin θ s cos θ sty
+or more generally as
+
+
+a −b tx
+.
+b a ty
+Definition 2.3.4. An affine transformation is a type of transformation that preserves
+parallel lines. It takes the form of any 2 × 3 matrix
+
+
+a00 a01 a02
+.
+a10 a11 a12
+Definition 2.3.5. A homography, also known as projective transformation or perspective
+transform is a transformation of a two-dimensional image I to another two-dimensional
+image I 0 (referred to as the anamorphic image), such that all straight lines in I are preserved in I 0 . It is represented as a 3 × 3 matrix
+
+
+h00 h01 h02
+h10 h11 h12  .
+h20 h21 h22
+Lemma 2.3.6. A homography H produces the same transformation as a homography λH
+for any non-zero λ.
+Proof. Let p = (x, y)T be a point in 2D, and H be a homography matrix defined as:
+
+
+h00 h01 h02
+H = h10 h11 h12  .
+h20 h21 h22
+
+2. MATHEMATICAL CONCEPTS
+
+22
+
+By Definition 2.2.1, (x, y, 1)T is a homogeneous representation of p. Let point q be the
+result of the homography transformation H on the homogeneous point p. Then
+ h x+h y+h 
+00
+01
+02
+
+
+h20 x+h21 y+h22
+h00 x + h01 y + h02
+
+
+h10 x+h11 y+h12 
+q = Hp = h10 x + h11 y + h12  = 
+ h20 x+h21 y+h22  .
+h20 x + h21 y + h22
+1
+The last step of the derivation of q is valid because a homogeneous point remains unchanged when multiplied by a scalar.
+Let H 0 be another homography defined as H 0 = λH for some non-zero λ. Let q 0 be the
+result of the homography H 0 on p. Then
+
+  λ(h00 x+h01 y+h02 )   h00 x+h01 y+h02 
+λ (h00 x + h01 y + h02 )
+h x+h21 y+h22
+λ(h20 x+h21 y+h22 )
+  20
+
+ 
+
+0
+0
+h
+
+
+
+λ(h
+x+h
+y+h
+)
+11
+12
+q = H p = λ (h10 x + h11 y + h12 ) =  10
+=  10 x+h11 y+h12 
+.
+
+h
+x+h
+y+h
+λ(h20 x+h21 y+h22 )
+20
+21
+22 
+λ (h20 x + h21 y + h22 )
+1
+1
+Thanks to the property of scalar invariance of the homogeneous representation, the two
+transformations H and H 0 = λH are the same.
+
+By Lemma 2.3.6, projective transformation matrices are invariant to scale, and therefore
+have eight degrees of freedom. This fact is of particular significance as we introduce a
+method for homography estimation that uses this property in Section 3.2.
+
+2.3.2
+
+Warping
+
+Definitions 2.3.1 through 2.3.5 are different types of two-dimensional transformations. The
+process of applying a transformation, or a combination of transformations to an image is
+called warping. We distinguish two basic types of warping: forward and backward, which
+differ in that forward warping directly transforms the original image to the final image,
+while backward warping fills in each pixel of the final image with the corresponding color
+from the original image.
+
+2. MATHEMATICAL CONCEPTS
+
+23
+
+Definition 2.3.7 (Forward Warping). Let t be a transformation function that maps pixels
+from image I to another image I 0 . An image can be forward warped by copying the color
+at each pixel at point p ∈ I to a point p0 ∈ I 0 , where p0 = t(p).
+Definition 2.3.8 (Backward Warping). Let t be a transformation function that maps
+pixels from image I to another image I 0 , and t−1 be the inverse warping that maps pixels
+from I 0 to I. An image can be backward warped by iterating through points p0 ∈ I 0 , and
+“coloring” it with the color at the point p ∈ I, where p = t−1 (p0 ).
+In practice, warping is often improved by some methods of interpolation that take into
+account a cluster of pixels to determine the best color for each pixel on the final image,
+rather than copying a single pixel from the original image. Interpolation is designed to
+create smoother and more accurate color transitions, and further minimizes the distortions
+generated by warping. In this project, we use a warping method provided by the OpenCV
+library which uses bilinear interpolation and nearest-neighbor interpolation [15]. These
+interpolation methods determine the color value at each pixel by averaging over the pixels
+around it.
+
+3
+Algorithmic Methods
+
+This chapter deals with the techniques and methods used in the implementation of the
+automated anamorphic projection program that we develop in this project. We introduce
+the linear least squares minimization method, which is a crucial tool for estimating the
+projective transformations of various surfaces in our anamorphic model, which we discuss
+in more detail in Chapter 4. We also explain the main feature detection algorithms such
+as Harris Corner Detection and Chessboard Corner Detection, which are used to facilitate
+the process of computing the transformations.
+
+3.1 Least Squares Minimization Method
+The least squares method is a technique to estimate the best possible solution to a system
+of equations, which is especially useful when the exact solution to that system does not
+exist. This approach is designed to solve overdetermined systems, which means that there
+are more equations than unknowns. This estimate is obtained by searching for a solution
+that minimizes the error, defined as the sum of squared differences of the result of the
+estimated solution and the desired result. One of the most prevalent uses of this method
+
+3. ALGORITHMIC METHODS
+
+25
+
+is in finding the line of best fit to a set of data points, such that the sum of the squared
+vertical distances from the line to each data point is minimized. The least squares model
+can be used to predict the outcomes of the points not included in the finite input data.
+For example, the line of best fit provides a prediction of the outcomes for all points in
+the domain, and not just the input data points. Because of its application as an error
+minimization method, the least squares estimation is used in many optimization problems
+in practical experiments to minimize the errors resulting from inaccuracies of a practical
+setup. For the same reason, it is of great significance to this project as it is the main
+technique to estimate projective transformations between the computer screen image,
+camera image, and the projective screen.
+We distinguish two types of least squares methods: linear and non-linear least squares.
+The linear least squares is an approach for finding the model that best describes a set of
+input and output data, in which for pair of corresponding input and output data points,
+the model can be expressed as a linear function of the parameters. Notice that the linear
+least squares model is not necessarily a linear function in terms of the data points. For
+example f (x) = ax2 + b log(x) is a valid model because f (xi ) = ax2i + b log(xi ) is linear
+in terms of the coefficients a and b for all data points xi . On the contrary, the non-linear
+model is not linear in terms of the coefficients, although some non-linear models can
+be transformed into linear models, for example the non-linear model g(x) = eax can be
+transformed into h(x) = ln (g(x)) = ax with the output data being ln(y) instead of just
+y. We mentioned that the least squares solves overdetermined systems. This means that
+for an assumed model with m coefficients a1 , a2 , . . . am we need n input data points, and
+n corresponding output points, where n ≥ m.
+This section deals with the linear least squares as it is the method used in this project.
+We demonstrate the method of finding the least squares solution on a simple linear model,
+and a more general model.
+
+3. ALGORITHMIC METHODS
+
+3.1.1
+
+26
+
+Linear Model
+
+This is an example of the linear least squares on a linear regression model.
+Let f : R −
+→ R be a linear function that models the data with input {x1 , x2 , . . . , xn } and
+observed output {y1 , y2 , . . . , yn }, where n ≥ 2. The function f is of the form f (x) = mx+c
+for some coefficients m and c, where m 6= 0. In order for f to be a “good” model of the
+data, we need to pick the values of m and c so that f (xi ) ≈ yi for all 1 ≤ i ≤ n.
+P
+We define an error function E as E(m, c) = ni=1 (f (xi ) − yi )2 . To shorten the derivaP
+tions and make it easier to read, we assume that all summations i in this subsection are
+P
+equivalent to ni=1 . The error function serves as a measure of how well f represents the
+data. We need to find m and c such that the value of E(m, c) is closest to 0. Because E is
+always positive (E is a sum of squares), this statement is equivalent to finding m and c at
+the minimum of E. In order to find the minimum of E, we take the partial derivative of
+E with respect to each of its arguments, and solve the system of equations in which each
+derivative is equal to 0. The partial derivative of E with respect to m is
+∂ X
+∂
+E(m, c) =
+(mxi + c − yi )2
+∂m
+∂m
+i
+X
+=
+2xi (mxi + c − yi )
+i
+
+!
+=
+
+X
+
+2x2i
+
+!
+m+
+
+i
+
+X
+
+2xi
+
+!
+X
+
+c−
+
+i
+
+2xi yi
+
+.
+
+i
+
+The partial derivative of E with respect to c is
+∂ X
+∂
+E(m, c) =
+(mxi + c − yi )2
+∂c
+∂c
+i
+X
+=
+2 (mxi + c − yi )
+i
+
+!
+=
+
+X
+i
+
+2xi
+
+!
+m + (2n)c −
+
+X
+
+2yi
+
+.
+
+i
+
+We set each derivative to zero and solve the simple system of linear equations in which
+the first column contains the coefficients of m, and the second column corresponds to the
+
+3. ALGORITHMIC METHODS
+
+27
+
+coefficients of c, and the last column has the constant terms of the resulting equations:
+#
+" P 2 P
+P
+i xi
+i xi yi
+i xi
+.
+P
+P
+y
+x
+n
+i
+i
+i
+i
+We perform a simple row reduction to transform it to the reduced row echelon form:
+P
+" P 2 P
+#
+i xi
+i xi yi
+i xi
+P
+P
+n
+i xi
+i yi
+"
+
+n
+
+2
+i xi
+
+P
+
+∼
+
+
+
+∼
+
+
+
+
+∼
+
+
+
+
+−(
+
+P
+
+i xi
+
+P
+
+i xi )
+
+(n
+
+1 0
+P
+
+i yi
+
+0 n
+
+−
+
+(n
+
+1 0
+P
+
+0 1
+
+i
+
+n
+
+yi
+
+#
+P
+P
+P
+0 n ( i xi yi ) − ( i xi ) ( i yi )
+P
+n
+i yi
+
+P
+P
+xi yi )−( i xi )( i yi )
+P 2
+P
+2
+(n i xi )−( i xi )
+
+P
+
+(n
+
+2
+
+
+
+i
+
+P
+
+
+
+
+i xi yi )( i xi )−( i xi ) ( i yi )
+P 2
+P
+2
+(n i xi )−( i xi )
+P
+
+P
+
+2
+
+P
+
+P
+P
+xi yi )−( i xi )( i yi )
+P
+P
+2
+(n i x2i )−( i xi )
+
+P
+
+
+
+i
+
+
+
+2
+( i xi ) ( i yi )−(n i xi yi )( i xi ) 
++
+P
+P
+2
+(n2 i x2i )−n( i xi )
+P
+
+P
+
+P
+
+P
+
+and obtain the optimal values for the coefficients m, c:
+P
+P
+P
+(n i xi yi ) − ( i xi ) ( i yi )
+m=
+P 
+P
+n i x2i − ( i xi )2
+P
+P
+P
+P
+P
+( i xi )2 ( i yi ) − (n i xi yi ) ( i xi )
+i yi
+.
++
+c=
+P
+P 
+n
+n ( i xi )2 − n2 i x2i
+We substitute these values in the equation f (x) = mx + c to obtain the line of best fit.
+
+3.1.2
+
+General Model
+
+This section presents the linear least squares derivation on a general model.
+Let f1 , f2 , . . . , fm be functions R −
+→ R and let f : Rm −
+→ R be the model function,
+defined as
+f (~x) = a1 f1 (~x) + a2 f2 (~x) + · · · + am fm (~x),
+where a1 , a2 , . . . , am are the coefficients of f . As we mentioned before, f does not need
+to be a linear function on the variables ~x ∈ Rm , but f must be linear in terms of its
+
+3. ALGORITHMIC METHODS
+
+28
+
+coefficients. This is important because in the process of finding the least squares solution,
+the coefficients of f become the unknowns, and the initial arguments of f take values
+of the known input data, and form the coefficients for the new unknowns. Let the input
+data be {x~1 , x~2 , . . . , x~n } and the corresponding observed output be {y1 , y2 , . . . , yn }, where
+n ≥ m, and x~i = (xi1 , xi2 , . . . , xim )T for all 0 ≤ i ≤ n. Let X be the matrix of the values
+that the input data takes in function f , where row i of X contains the values of the input
+data xi , defined as:
+
+
+X11
+ X21
+
+X= .
+ ..
+
+X12
+X22
+..
+.
+
+
+X1m
+X2m 
+
+.. 
+. 
+
+···
+···
+..
+.
+
+Xn1 Xn2 · · ·
+
+Xnm
+
+where Xij = fj (x~i ). Notice that Xij is independent of the coefficients a1 , a2 , . . . , am , which
+satisfies the restriction of the linear least squares model.
+Let ~a be the vector with all the coefficients of f :
+ 
+a1
+ a2 
+ 
+~a =  .  ,
+ .. 
+am
+and let ~y be the vector containing the output data:
+ 
+y1
+ y2 
+ 
+~y =  .  .
+ .. 
+yn
+~ i · ~a, which we want to be equal
+Then for each data point xi , the value of f is f (xi ) = X
+~ i · ~a = yi . Our system can be represented as X~a = ~y ,
+to yi , which means that we want X
+expanded to:
+
+
+X11
+ X21
+
+ ..
+ .
+
+X12
+X22
+..
+.
+
+···
+···
+..
+.
+
+Xn1 Xn2 · · ·
+
+   
+y1
+a1
+X1m
+
+
+
+
+X2m   a2   y2 
+
+..   ..  =  ..  .
+
+
+
+
+.
+.
+.
+Xnm
+
+am
+
+yn
+
+Because this is an overdetermined system, which means that the number of equations is
+greater than the number of unknowns, the solution to this system might not exist. However,
+
+3. ALGORITHMIC METHODS
+
+29
+
+we can still use the least squares method to estimate a solution for the coefficients that
+best approximates the input data to the observed output.
+We define the error E function as:
+
+E(a1 , a2 , . . . , am ) =
+
+n
+X
+
+|f (x~i ) − yi |2 =
+
+i=1
+
+n 
+2
+X
+~
+
+a − ~y k2
+X
+·
+~
+a
+−
+y
+ i
+i  = kX~
+i=1
+
+To find the values of a1 , a2 , . . . , am that minimize the error E, we find the partial derivatives
+of E with respect to the parameters ak and set them equal to zero. The system of linear
+equations resulting from that operation is equivalent to X T X~a = X T ~y . It remains to solve
+the system for the unknown ~a. The product of the matrices X T and X is a square matrix
+with size m, and X T ~y is a vector of length m, so the number of equations is the same as
+the number of unknowns, which means that we have an exact solution to the system. The
+solution a1 , a2 , . . . , am defines the model f that best fits the data.
+
+3.2 Projective Transformation
+The relation between the anamorphic (distorted) image on a plane and the correct image that the viewer observes is equivalent to that of an image projectively warped and
+the original undistorted image, and so is simply a homography. This relation has in fact
+been discussed in some previous research dealing with keystone correction [12]. Although
+seemingly a separate problem, keystone correction involves the same plane-to-plane homographies, and the results of it can very well be adapted to our anamorphic problem.
+The setup for this project consists of three surfaces detailed in Table 3.2.1.
+Consider the transformation of an image from the projector screen to the projection
+surface. Because the projection surface is a plane, this transformation is a homography.
+Similarly, the transformation on the image from the projection surface to the camera
+screen is also a homography because both of these surfaces are planar. If follows that the
+
+3. ALGORITHMIC METHODS
+Surface
+camera image/screen
+projector image/screen
+
+projection surface
+
+30
+
+Explanation
+image seen by the camera, also interpreted as the image seen
+by the viewer
+image projected by the projector; this is the image that the
+computer gives to the projector, and not the projected image
+on the projection surface
+the actual projection on the screen (e.g. wall), with reallife coordinates as opposed to the virtual coordinates of the
+camera and projector image
+
+Table 3.2.1: An explanation of the naming convention of the surfaces used in this project.
+
+transformation from the projector screen to the camera screen is simply a composition of
+the two homographies, and therefore is also a homography.
+We differentiate between different homographies by introducing the following notation:
+HAB is a homography mapping from surface A to surface B, where A, B ∈ {C, P, S}
+with C, P, S corresponding to camera, projector, and projection surface respectively, represented on the diagram in Figure 3.2.1. For example, HP C is the homography mapping
+each point in the projector image to a point on the camera image.
+
+Figure 3.2.1: The homographies between the projector image, camera image, and projection surface.
+
+3. ALGORITHMIC METHODS
+
+3.2.1
+
+31
+
+Homography Estimation with Linear Least Squares
+
+This subsection explains a method of homography estimation for a simple anamorphic
+model using the least squares. While there are various methods of homography estimation,
+for example the approach suggested in the Smarter Presentations model by Sukthankar et
+al. [12], we present this method of estimating the homography as an illustrative example.
+To simplify the notation, let H = HP C be the mapping from the projector to camera
+plane, as shown in Figure 3.2.1. Its inverse, H −1 , maps from the camera image back to
+the projector image. The experimental design excludes the possibility of the last entry of
+the matrix H being zero. This is because a homography with zero as the last entry maps
+the point at the origin to a point
+
+h00
+h10
+h20
+
+at infinity, as demonstrated in this example:
+   
+h01 h02
+0
+h02
+h11 h12  0 = h12  .
+h21 0
+1
+0
+
+This case is not applicable to this project because our controlled experiment ensures that
+all relevant points, including the origin, are mapped to points that are finite in Euclidean
+coordinates.
+We formulate the problem as follows. Let {p0 , p1 , . . . pn−1 } be a set of points in the
+projector image, for some n ≥ 4. The reason for n to be at least 4 is explained later in this
+section. Each point pi can be expressed in homogeneous coordinates as pi = (xi , yi , 1)T .
+Let {p0 , p1 , . . . , pn−1 } be the set of points in the camera image such that qi corresponds
+to pi for all 0 ≤ i ≤ n − 1. Each point qi can be expressed in homogeneous coordinates as
+qi = (Xi , Yi , 1)T . Since the points in the projector image are transformed to points in the
+camera image by projective transformation, any point pi is transformed into Hpi in the
+camera image, where H is the homography mapping the projector to the camera image.
+Without loss of generality, we assume that the last entry of H is 1, so H is of the form:
+
+
+h00 h01 h02
+H = h10 h11 h12 
+h20 h21 1
+
+3. ALGORITHMIC METHODS
+
+32
+
+for some unknown entries h00 , h01 , . . . , h21 . It follows that for any point pi , we have
+  h00 xi +h01 yi +h02 
+
+h00 xi + h01 yi + h02
+h20 xi +h21 yi +1
+ 
+
+
+Hpi = h10 xi + h11 yi + h12  =  h10 xi +h11 yi +h12  ,
+h20 xi +h21 yi +1
+h20 xi + h21 yi + 1
+1
+where the last step is true by the Definition 2.2.1 of the homogeneous point representation.
+Our goal is to find the values of h00 , h01 , . . . , h21 such that Hpi ≈ qi for all 0 ≤ i ≤ n − 1.
+This can be expressed as:
+ h00 xi +h01 yi +h02 
+h20 xi +h21 yi +1
+ h10 xi +h11 yi +h12 
+ h x +h y +1 
+20 i
+21 i
+
+1
+
+ 
+Xi
+
+= Yi  .
+1
+
+(3.2.1)
+
+We transform this system of non-linear equations into an equivalent system of linear
+equations:
+
+
+ 
+
+h00 xi + h01 yi + h02
+Xi (h20 xi + h21 yi + 1)
+h10 xi + h11 yi + h12  =  Yi (h20 xi + h21 yi + 1)  .
+1
+1
+
+(3.2.2)
+
+For each point pi and the corresponding point qi , we have two constraints:
+h00 xi + h01 yi + h02 = Xi (h20 xi + h21 yi + 1)
+h10 xi + h11 yi + h12 = Yi (h20 xi + h21 yi + 1) ,
+which can be rewritten in terms of all variables h00 , h01 , . . . , h21 :
+xi h00 + yi h01 + h02 + 0h10 + 0h11 + 0h12 − Xi xi h20 − Xi yi h21 = Xi
+0h00 + 0h01 + 0h02 + xi h10 + yi h11 + h12 − Yi xi h20 − Yi yi h21 = Yi .
+Combining all equations resulting from all n point correspondences, we obtain the following
+system of linear equations:
+
+x0
+y0 1
+0
+0
+ 0
+0
+0 x0
+y0
+
+ ..
+..
+..
+..
+..
+ .
+.
+.
+.
+.
+
+xn−1 yn−1 1
+0
+0
+0
+0
+0 xn−1 yn−1
+
+0
+1
+..
+.
+
+−X0 x0
+−Y0 x0
+..
+.
+
+0 −Xn−1 xn−1
+1 −Yn−1 xn−1
+
+−X0 y0
+−Y0 y0
+..
+.
+
+
+
+
+
+
+X0
+h
+00
+
+
+
+ h01   Y0 
+    .. 
+  ..  =  .  .
+ .  
+
+Xn−1 
+−Xn−1 yn−1 
+h21
+Yn−1
+−Yn−1 yn−1
+
+
+3. ALGORITHMIC METHODS
+
+33
+
+Observe that n point correspondences give us 2n equations, and we have eight unknowns
+hij , so we need n ≥ 4 so that the number of equations is at least the number of unknowns.
+When n > 4, our system is overdetermined, which means that there is no exact solution
+to it; in that case we use the least squares method. To shorten the notation of the system,
+let A denote the matrix of coefficients, ~h denote the vector of unknowns, and ~b denote the
+vector of Xi and Yi coordinates of points qi , so that our system of equations is A~h = ~b.
+We define the error function E as:
+
+E (h00 , h01 , . . . , h21 ) =
+
+2n−1
+X
+
+2
+
+
+~
+~ ~ 2
+A
+·
+h
+−
+b
+ i
+i  = kAh − bk .
+
+i=0
+
+We need to find ~h that minimizes E, or in other words, ~h at the minimum of function E. To
+compute the minimum of E, we solve a system of equations in which the partial derivatives
+of E are equal to zero. This is equivalent to solving AT A~h = AT ~b. Finally, we populate
+the entries h00 , h01 , . . . , h21 of the homography H with the entries of ~h, and the last entry
+of H with 1.
+
+3.2.2
+
+Homography Estimation with Homogeneous Linear Least Squares
+
+The homography estimation method presented in the previous Subsection 3.2.1 is a convenient way to transform the nonlinear homography estimation problem into a linear one.
+Recall that the goal of the previous estimation was to find the entries h00 , h01 , . . . , h21 of
+the homography H that give the best solution to the system of nonlinear equations (3.2.1)
+for all point correspondences. Finding the best solution to that system is equivalent to
+minimizing the error function E defined as:
+
+E=
+
+X  h00 xi + h01 yi + h02
+i
+
+h20 xi + h21 yi + 1
+
+2
+− Xi
+
+
++
+
+h10 xi + h11 yi + h12
+− Yi
+h20 xi + h21 yi + 1
+
+2
+.
+
+3. ALGORITHMIC METHODS
+
+34
+
+Although this system is nonlinear, it can be easily transformed into an equivalent linear
+system with the error function:
+
+E=
+
+X
+
+(h00 xi + h01 yi + h02 − Xi (h20 xi + h21 yi + 1))2
+
+i
+
++ (h10 xi + h11 yi + h12 − Yi (h20 xi + h21 yi + 1))2 .
+
+This technique was used in the previous homography estimation method to create the
+linear system, as shown in equation 3.2.2.
+While this method offers a simplification to the nonlinear homography estimation problem and allows us to solve the problem with the linear least squares, it is not the only
+way to approach this problem. This section introduces another method for estimating the
+homography using the homogeneous linear least squares. We begin with formulating the
+goal of this problem: we need to find a homography H such that for every point pi on the
+projector image and the corresponding point qi in the camera image, Hpi is approximately
+equal to qi . An intuitive yet incorrect representation of the goal statement is Hpi ≈ qi . It
+is false because it fails to take into account the fact that in homogeneous representation,
+qi represents the same point as λqi for any non-zero λ, so the best solution H might approximate Hpi to some multiple of qi . To address this problem we introduce a modified
+equation Hpi ≈ λi qi , where λi is an auxiliary scaling variable for every point qi . To find
+the best solution to this problem, we calculate H and λi for 0 ≤ λ ≤ n − 1 that minimize
+the error function
+E=
+
+X
+
+kHpi − λi qi k2 .
+
+i
+
+By the linear least squares method, we set the partial derivatives of E to zero, and solve
+the resulting system of linear equations to find the best H and λi , and then use the H to
+compute the anamorph.
+
+3. ALGORITHMIC METHODS
+
+35
+
+3.3 Feature Detection Methods
+Feature detection is one of the most crucial tools to this project. Since our goal is to
+create a system that automatically generates anamorphic images, we need a way to tell
+the program about its surroundings, and more specifically about the surface that it needs
+to project the anamorphic image on. A convenient way to gather information about the
+scene is by using a camera to capture the necessary details of the scene. However, while
+a person is able to easily recognize and differentiate between objects in the scene as soon
+as he/she sees it, the image of the scene is nothing more than a collection of pixels to a
+computer program. To help the computer understand visual signatures of the scene, we tell
+it to find some unique characteristics in the image based on the distribution and intensity
+of the pixels. For example, analyzing an image in terms of the difference in intensity of the
+neighboring pixels gives us information about the location of potential edges in the image.
+In the context of this project, this is one way to detect the position of the projection
+screen. Besides edges, other common easily detectable features include corners and blobs,
+and these will prove especially useful in this project. In this section, we explore some
+methods of feature and pattern detection, including the popular Harris Corner Detection,
+and its improved version called Good Features to Track.
+
+3.3.1
+
+Harris Corner Detection
+
+The Harris Corner Detection is one of the most common methods of feature detection.
+It takes advantage of the observation that the change in intensity of the pixels around
+a corner, relative to that corner is relatively large, so corners can be easily detected by
+searching for pixels with the greatest variance in intensity of the pixels around it. This
+procedure can be visualized as shifting a small window across an image, stopping at every
+pixel and counting the sum of squared differences of the intensity of that pixel and each
+pixel that is around it and inside the window.
+
+3. ALGORITHMIC METHODS
+
+36
+
+We present the method based on the publication of Harris and Stephens in 1988 [5]. Let
+I be an image. Without loss of generality, we assume that the image is in gray scale. Let
+Ix,y denote the intensity, or gray scale color, of the pixel at position (x, y) on the image.
+Let E be the change in intensity resulting from a shift (u, v), defined as:
+Eu,v =
+
+X
+
+wx,y |Ix+u,y+v − Ix,y |2
+
+x,y
+
+where wx,y is the window with unity in the desired region, and zero elsewhere.
+A corner occurs when the change E is large in two dimensions, and is classified as a
+relevant feature if the value of E at that corner is above some threshold value.
+
+3.3.2
+
+Good Features To Track
+
+The Good Features to Track algorithm was developed by Shi and Tomasi [14] as an
+improvement to the Harris corner detection, and a tool to facilitate feature-based vision
+systems that require excellent tracking of features from frame to frame. This algorithm is
+an improvement from the earlier feature detection methods in that it utilizes new tracking
+algorithms [14, 15].
+
+4
+Results
+
+This chapter describes the implementation and results of different models of perspective
+planar anamorphosis. Specifically, the chapter presents the experimental setup, procedures,
+and limitations for each model as well as explains the algorithms and main functions
+utilized in the implementations. This chapter begins with a simple planar model that
+serves as a platform for implementing more complex types of anamorphosis. Due to the
+iterative nature of the project, later sections integrate functions and computations derived
+in preceding sections as appropriate. Unless otherwise indicated, these functions serve the
+same purpose as they first appear in the chapter.
+
+4.1 Basic Planar Model
+The goal of this section is to build a program that generates an anamorphic image on a
+planar surface. The only equipment needed is a projector and camera connected to a computer, and a blank flat surface. The setup for this model consists of three surfaces: camera
+image, projector image, projection surface, defined earlier in Table 3.2.1. For simplicity
+purposes, we make several assumptions before the experiment. First, we assume that the
+
+4. RESULTS
+
+38
+
+camera is the viewer in order to avoid the necessity to define the position of the viewer,
+and to make it easier to record the image seen by the viewer. Second, we assume that
+the camera and projector are both pointed at the projection surface (although preferably
+from different locations) so that the projector image is within the projection surface and
+the camera’s scope encompasses the entire projection surface. It is also advised to keep
+dim lighting because it makes the projection more distinguishable from the background
+of the projection surface.
+In order to maintain the consistency of the terms used in this chapter, we also introduce
+the following naming convention:
+Name
+
+Explanation
+
+pre-anamorph
+
+the original image that will be used for warping
+
+anamorph or
+anamorphic
+image
+
+the warped image that looks askew before projecting, but
+appears “straight” when viewed by the viewer (or the camera)
+
+Table 4.1.1: An explanation of the naming convention for the anamorphic and preanamorphic image.
+The main task in generating the anamorphic image is finding the relevant homographies
+that, when applied to the pre-anamorph, produce an anamorph that appears correctly in
+the camera image. The algorithm for generating the anamorphic image is outlined in the
+following four steps:
+1. Project a pattern.
+2. Find at least four common points in the projector and camera image.
+3. Estimate homography HP C using the least squares method.
+4. Use HCP = HP−1C to warp the original image.
+Figure 4.1.1 provides a conceptual diagram illustrating this algorithm. In step 1. of
+the algorithm, we project a simple rectangular pattern (Figure 4.1.1a), and capture the
+
+4. RESULTS
+
+39
+
+projection with the camera (Figure 4.1.1b). We find the homography HP C using the point
+correspondences in the projector and camera image, and use HP C to create the anamorphic
+image. Figure 4.1.2 illustrates the steps involved in projecting the anamorphic image and
+verifying that it is seen correctly by the camera.
+
+Figure 4.1.1: Steps involved in finding the homography HP C : (a) project a rectangular
+pattern (b) Detect the pattern in the camera image
+
+Figure 4.1.2: Verify that the anamorph is seen correctly by the camera: (a) project the
+anamorph (b) The image (white rectangle) is seen correctly in the camera image.
+
+The result of the algorithm for generating the anamorphic image is shown in the screen
+shots and camera captures in Figure 4.1.3. The camera captures of the projection are taken
+with the long exposure technique, which takes multiple pictures from the same position and
+averages over them to reduce the blinking effect of the projector. A detailed explanation
+
+4. RESULTS
+
+40
+
+(a) Camera image with detected projection
+corners; this corresponds to Fig. 4.1.1b.
+
+(b) Pre-anamorph (original unwarped image); target image.
+
+(c) Anamorph after warping; this corresponds to Fig. 4.1.2a.
+
+(d) Anamorph seen correctly by the camera;
+this corresponds to Fig. 4.1.2b.
+
+Figure 4.1.3: Screen shots and camera captures of the program
+
+of each step of the algorithm, and a discussion of the challenges and limitations of this
+model are provided in the following subsections.
+
+4.1.1
+
+Pattern Detection
+
+A simple white rectangle is projected on the projection surface, and captured by the
+camera. Next, the corners of the projected rectangle are detected in the camera image
+using the Good Features to Track algorithm, described in Section 3.3.2. This algorithm
+is convenient in that it allows us to specify the number of corners to be detected, and
+returns that number of the “best” corners. The four corners of the rectangular projection
+are correctly detected and marked with blue circles in the camera image as shown in 4.1.3a.
+
+4. RESULTS
+
+4.1.2
+
+41
+
+Homography Estimation
+
+The corners of the projection detected in the previous subsection (4.1.1) are arranged in
+the clockwise order starting from the top-left corner. The ordered corners from the camera
+image are then paired up with the corners of initial pattern in the projector image, which
+in this case are simply the outermost corners of the projector image, arranged in the same
+clockwise order. We use the homography estimation method available in the OpenCV
+Python library to obtain the best homography HP C relating the projector image to the
+camera image. The OpenCV estimation function gives the same result as the homography
+estimation method described in Section 3.2.1.
+
+4.1.3
+
+Generating the Anamorphic Image
+
+The ultimate goal of this model is to obtain the undistorted original image in the camera.
+The question is: What should we project to obtain correct the projective distortion of the
+camera? The answer to this question becomes clear if we reverse our perspective. So far,
+we have considered the transformation of images from the projector image to the camera
+image. However, in this problem, the camera image is the given factor (we know that
+the camera should obtain the undistorted original image), and the projector image is the
+unknown that we need to solve for.
+It follows that the anamorphic image (which will be projected) can be generated by
+applying forward warping on the original image (Figure 4.1.3b), as it is exactly the target
+image that we want to receive in the camera. For every pixel in the original image, we
+apply HCP to its homogeneous position (x, y, 1) to obtain a new position (x0 , y 0 , ω) in the
+projector image, and copy the pixel to that new location. The result is an anamorphic
+image that looks distorted in the projector (computer) screen (Figure 4.1.3c), but appears
+correct once projected and captured in the camera image (Figure 4.1.3d).
+
+4. RESULTS
+
+42
+
+One technical issue that we encounter in this step of the algorithm as a result of the
+setup of this experiment is that some parts of the camera image correspond to the area
+outside of the projector image. For example, if we apply the homography HCP directly
+to the original image (pre-anamorph), then some parts of the resulting anamorphic image
+will be outside of the projector image. Instead we must choose a target area within the
+camera view that lies inside the projection area.
+Figure 4.1.4 illustrates a situation in which a point in the camera image is transformed
+to a point beyond the projector screen. The gray rectangle in the left (a) is the camera
+image, and the white quadrilateral shape inside the rectangle is the projection area. This
+quadrilateral projection area in the camera image corresponds to the projector image,
+represented as the white rectangle on the right (b). A point p lies outside of the projection
+area in the camera image (a). When the entire camera image is warped to the projector
+image, the point p is transformed to a point p0 in the projector image. Because p lies
+outside of the projection area, the point p0 must lie outside of the projector image.
+
+Figure 4.1.4: Diagram of the scenario in which the points in the camera image are mapped
+outside of the projector image: (a) camera image (b) projector image
+
+A temporary solution to this problem is to reduce the size of the original image by
+some fixed factor, and place it in the center of the potential (target) camera image, which
+
+4. RESULTS
+
+43
+
+is some estimate/guess of where the projection lands in the camera image. If the scale
+factor is small enough, this solution would work for most projector-camera arrangements.
+However, this method does not guarantee that the anamorph fits inside the projector
+image for all possible projector and camera positions, and might significantly decrease the
+size of the resulting anamorphic image. We will describe a better solution to this problem
+in the Improved Model discussed in the next section (4.2).
+
+4.1.4
+
+Challenges and Limitations
+
+As explained in Subsection 4.1.3, the current algorithm for generating the anamorphic
+image might produce an image that does not fit inside the projector image. An example
+of this is shown in Figure 4.1.5.
+
+(a)
+
+(b)
+
+Figure 4.1.5: (a) Anamorphic image not fitting inside the projector image. (b) When the
+anamorphic image in (a) is projected, the camera receives an incomplete image.
+
+Figure 4.1.6 shows an example of incorrectly detected projection corners, which prevented the program from generating a correct anamorphic image. This error might be
+caused by poor lighting of the system, which affects the contrast between the projection
+and the projection surface, making it less detectable by the corner detection function. In
+some situations, the projection corners are not detected due to the position of the camera, which might be at an angle relative to the projection such that some parts of the
+projection do not appear clearly in the camera image.
+
+4. RESULTS
+
+44
+
+Figure 4.1.6: Incorrectly detected projection corners.
+
+4.2 Improved Planar Model
+The Basic Model described in the previous section (4.1) presents a simple method for
+generating an anamorphic image based solely on the homography between the projector
+and camera image. While effective and sufficient in the simple scenario of our project,
+the said method has three major limitations. First, it neglects the relationship between
+the physical projection surface to the virtual projector and camera images. Although this
+missing relationship does not affect the process of generating the anamorphic images when
+using a camera as the viewer, it is necessary for potential future directions of this project.
+In particular, the homographies mapping to the projection surface are crucial if we want to
+generate an anamorphosis for a real person as the viewer instead of the camera, and allow
+us to easily adapt this system to create a keystone correction model. Second, the previous
+method also fails to reliably eliminate the case of the anamorphic image not fitting inside
+the projector image. Lastly, the pattern detection method described in Subsection 4.1.1 is
+deficient because it supplies only four point correspondences, which is the minimum number of correspondences required to estimate the homography HP C . When the conditions
+such as lighting, and projector and camera angle are unfavorable, this limitation hinders
+
+4. RESULTS
+
+45
+
+the process of homography estimation because the error from detecting each of the four
+corners of the rectangular pattern projected has a significant effect on the accuracy of the
+resulting homography. This section uses a modified set-up to incorporate the projection
+surface, proposes a more complex pattern detection algorithm, and introduces a method
+for repositioning of the pre-anamorph to guarantee that it fits inside the projector image
+after warping.
+
+(a)
+
+(b)
+
+(c)
+
+(d)
+
+Figure 4.2.1: Screenshots of the program: (a) Detected chessboard corners. (b) Prepared
+pre-anamorph. (c) Anamorphic image after warping. (d) Anamorphic image seen correctly
+by the camera.
+
+The modified algorithm is outlined below:
+
+1. Project a chessboard pattern.
+2. Find the inner corners of the chessboard in the projector and camera image.
+
+4. RESULTS
+
+46
+
+3. Estimate the homography HP C using the least squares method.
+
+4. Prepare (resize and reposition) the pre-anamorph.
+
+5. Generate the anamorph by warping the pre-anamorph with the homography
+HCP = HP−1C .
+
+The result of this algorithm is compiled in Figure 4.2.1 and explained in detail later in
+this section.
+
+4.2.1
+
+Modified Set-up
+
+We modify our setup to make it possible to find the homographies mapping to the projection surface. The Basic Model in Section 4.1 does not compute any homography involving
+the projection surface, so there is no need for the projection surface to have any detectable
+points. In fact, as seen in some camera captures of that model, for example Figures 4.1.3a
+and 4.1.3d, the projection surface is simply a large blank planar surface, and it is desirable
+that the the surface does not have any distinguishable features as they could be mistaken
+by the program for the corners of the projected rectangle that we need to detect. However,
+the new setup introduced in this section requires that the projection surface has some detectable features to facilitate the process of finding the homography mapping to it. We add
+a rectangular projection surface, on which we project images with the projector. We use
+a large rectangular piece of paper attached to a wall. The entire projection surface is then
+captured by the camera, so that the corners of the projection surface can be detected in
+the camera image. To find the homography HSC from the projection surface to the camera
+image, we use the same homography estimation method as the one used to estimate the
+projector-camera homography HP C .
+
+4. RESULTS
+
+4.2.2
+
+47
+
+Detecting the Projection Screen
+
+We use the same good features to track algorithm to detect the corners of the projection screen. Unlike the projection (light from the projector), the screen is a solid object
+and its color is appears stable in the camera, which means that the difference in color
+intensity between the projection screen and the background is more easily detectable than
+that between the projection and the background. Therefore the Good Features to Track
+algorithm, described in Section 3.3.2, is relevant as it provides a convenient way to detect exactly four corners of the projection surface. The detected corners are presented in
+Figure 4.2.2.
+
+Figure 4.2.2: Detected projection screen corners marked with blue dots.
+
+These corners in the camera image correspond to the corners of the projection surface in
+the real world. Using these four point correspondences, we can find the homography HSC
+by using the estimation method described in Subsection 3.2.1, where the real-world corners
+of the projection surface assume the role of the projector points in the estimation method,
+and the detected corners of the surface in the camera image are the output points..
+
+4. RESULTS
+
+4.2.3
+
+48
+
+Homography Estimation with Chessboard Corner Detection
+
+The Basic Model described in Section 4.1 uses a simple corner detection function to find
+the corners of a rectangular shape projected on a wall, as seen in the camera image
+(Figure 4.1.3a), and matches these corners with the corners of the original shape that was
+projected, as seen on the computer screen. These four corner correspondences are then
+used to find the homography HP C . This method requires a specific light setting, and might
+not produce the desired results when the light is too bright as the projection might not
+be clearly visible in the camera image.
+
+(a)
+
+(b)
+
+Figure 4.2.3: (a) Original chessboard corners in the projector image. (b) Detected chessboard corners in the camera image.
+
+This subsection introduces an alternative way to obtain points in the projector and camera image that provide a better estimation of the homography HP C . The major amendment
+is in the pattern projected. Instead of the simple rectangular pattern that contains only
+four detectable features, we project a 6 × 9 chessboard pattern, presented in Figure 4.2.3a,
+with 5 · 8 = 40 detectable inner corners. We choose this pattern because it is easily distinguishable from the projection screen. Notice that if we repeat the pattern detection
+process from the Basic Model (Section 4.1), the algorithm used to detect the projection
+
+4. RESULTS
+
+49
+
+corners might not be able to distinguish between the corners of the projection and the
+projection surface. The chessboard provides an efficient solution because it can be easily
+detected regardless of other detectable objects surrounding it in the camera image, as
+shown in Figure 4.2.3b.
+
+4.2.4
+
+Repositioning and Resizing the Pre-anamorph
+
+A major limitation of the Basic Model is the fact that the anamorph may not fit entirely
+within the projector image after warping. Recall that this phenomenon occurs because the
+entire projector image is mapped by HP C into an area inside the camera image. It follows
+that the inverse homography HCP maps the points within that projection area (inside the
+camera image) back to their positions in the projector image. However, the points in the
+camera image that lie outside of the projection area are mapped to new positions that do
+not fit inside the projector image, as illustrated in Figure 4.1.4.
+We propose a method for resizing and repositioning the pre-anamorph before warping
+it to ensure that the resulting anamorph fits entirely inside the projector image and is of
+the largest size possible, described in the following steps:
+
+1. Identify the four corners of the quadrilateral region of the projection area inside the
+camera image by applying HP C to each of the four outer corners of the projection
+image. The detected projection is shown in Figure 4.2.4a.
+2. Find the largest rectangle that fits inside the projection region in the camera image,
+as shown in Figure 4.2.4b. We explain this in more detail below.
+3. Resize the original image so that it fits inside that rectangle, and place it in a blank
+(uniformly colored) camera image in a position that is aligned with the position of
+that rectangle (for example by aligning the top-left corner of the pre-anamorph with
+the top-left corner of that rectangle), as shown in Figure 4.2.4c.
+
+4. RESULTS
+
+50
+
+(a) Corners of the projection area in the camera image.
+
+(b) Maximal rectangle with fixed aspect ratio
+that fits inside the projection area.
+
+(c) Prepared pre-anamorph.
+
+Figure 4.2.4: Screenshots of the program
+
+After accomplishing these steps, the pre-anamorph is ready to be warped and is ensured
+to land inside the projector image.
+It remains to explain the method for finding the largest rectangle inside a quadrilateral
+figure. Our method iterates through the pixels in the camera image and searches for the
+largest rectangle that fits inside the projection area. We improve the run-time of the
+algorithm by iterating only through the pixels that lie inside the projection area, before
+searching for the best rectangle, and we stop the iteration once the remaining area in the
+
+4. RESULTS
+
+51
+
+camera image is smaller than the current largest rectangle. Additionally, we require that
+the rectangle has the same aspect ratio as the original image.
+
+4.2.5
+
+Challenges and Limitations
+
+One minor issue we encounter when testing this model is that for some positions of the
+camera, the chessboard pattern is not detected correctly. One possible explanation is that
+the camera is at an angle (relative to the projection screen) such that the chessboard
+pattern appears too small, which causes the chessboard corners to be too crowded to be
+detected correctly. In addition, the projector light is not stable, which reduces the quality of
+the camera picture and makes it more difficult to accurately detect the chessboard corners.
+However, none of the tests performed have shown a noticeable deterioration in the quality
+of the anamorphic image. Because the number of chessboard corners is significantly larger
+than four, which is the minimum number of points required to establish a homography, the
+inaccuracy in detecting some of them is less likely to significantly affect the final result.
+
+Figure 4.2.5: A scenario in which the program fails to detect the chessboard corners correctly.
+
+4. RESULTS
+
+52
+
+4.3 Two-view Anamorphosis
+By the definition of anamorphosis, there is only one perspective, or rather one ray, such
+that when a viewer looks at the anamorphic image from any point on that ray, the anamorphic image appears as the original unwarped image to the viewer. However, in practice
+there might be a number of viewers looking at the anamorphic image from several perspectives. In this section we address this issue and test a method for finding a transformation
+that minimizes the distortions for the viewers. Once again, we use cameras to represent
+viewers, and assume that the camera captures are what the viewers observe. Our goal is
+b such that when H
+b is applied to an image, and the resulting
+to produce a homography H
+anamorphic image is projected onto the projection surface, each camera capture of the
+projected image is “as close as possible” to the original unwarped image. Strictly following the definition of anamorphosis, the image transformed with that homography is not
+an anamorphosis for any of the cameras, because an anamorphosis can satisfy only one
+perspective. Rather than generating an image that is an anamorphosis for all the viewers, which is theoretically impossible, we aim to generate an image that is “as close as
+possible” to the anamorphosis for each viewer. Although the result of this program is not
+an anamorphic image, for consistency, we continue to use the terms “pre-anamorph” and
+“anamorph” to refer to the unwarped image and the final warped image that is projected,
+respectively.
+The first question we need to answer is: how do we define “closeness” between the
+desired image and the actual image we obtain? In other words, what is the error? One
+way to define it is in terms of distance, which in this scenario means the distance between
+the same pixel in the two images in the x and y direction. We take the sum of the squared
+distances at each pixel as a measure of the error between the obtained and target image.
+Based on this definition, our reformulated goal is to find a homography such that when
+
+4. RESULTS
+
+53
+
+it is applied to an image, and the image is projected on the projection surface, and then
+captured by the two cameras, the sum of the errors between the captures and the desired
+images is minimized. This problem is different from the previous two models in Sections
+4.1 and 4.2 in that we need to minimize the error for both camera images, which makes
+the estimation of the optimal homography to warp the original image to the projector
+image significantly more complex.
+The inclusion of the second camera requires that we introduce some changes to the
+program. We present the updated outline of the algorithm to generate an optimal image
+for two viewers:
+1. Project a chessboard pattern.
+2. Find the inner corners of the chessboard in Camera 1 and Camera 2 images.
+3. Estimate the projector-camera homography for each camera, using the same method
+as in the Improved Model in Section 4.2.
+4. Choose a target chessboard pattern for each camera.
+b and its inverse H
+b −1 that map between the original im5. Estimate the homography H
+age and the projector image, and minimize the difference in the observed chessboard
+corners and the target chessboard corners for each camera. The new homography
+notation is explained in the following Subsection 4.3.1.
+6. Prepare (resize and reposition) the pre-anamorph.
+b −1 .
+7. Generate the anamorph by warping the pre-anamorph with the homography H
+
+4.3.1
+
+Two-view Setup
+
+The equipment needed for this setup is a projector, and projection surface, and two cameras. As in the previous models, we require that the projector and the cameras are directed
+towards the projection screen, and that the images projected land inside the projection
+
+4. RESULTS
+
+54
+
+screen, and the cameras capture the entire projection screen. This setup is visualized in
+Figure 4.3.1.
+
+Figure 4.3.1: The new setup: (a) Camera 1 (b) Projector (c) Camera 2 (d) Projection
+surface.
+Along with the changed setup, we also introduce a new notation of the homographies for
+this particular two view model, as presented in Figure 4.3.2. We denote the homography
+from the projector image to the first camera image as A, and the homography from the
+projector image to the second camera image as B. A and B correspond to the projectorcamera homography HP C from the one view models discussed earlier. We introduce a
+b from the projector image to the original image. It follows that the
+new homography H
+b −1 maps from the original image to the projector image, and that
+inverse homography H
+b −1 and B H
+b −1 map from the original image to the first and second camera image
+AH
+respectively. Recall that the previous one-view models use the homography HCP to warp
+the pre-anamorph into the anamorph. This method stems from the valid assumption that
+the pre-anamorph is the target camera image, and the anamorph is the projector image,
+so the anamorph can be created by warping the target camera image into the projector
+image. However, this approach is not applicable to this model because the homography
+used to warp the pre-anamorph into the anamorph is neither A−1 (the camera-projector
+homography for camera 1) nor B −1 (the camera-projector homography for camera 1). In
+
+4. RESULTS
+
+55
+
+Figure 4.3.2: The new setup and notation for the homographies.
+fact, if either A−1 or B −1 is used to create the anamorph, the result will be optimized for
+b to optimize
+only one of the cameras. Therefore, this model requires a new homography H
+the projected image for both camera views. The primary task in this model is to estimate
+b as we need it to warp the original image (pre-anamorph) into the
+the best homography H
+optimal anamorphic image, which is then projected.
+
+4.3.2
+
+Target Camera Images
+
+The steps 1 through 3 outlined at the beginning of this section give an estimate of the
+homographies A and B using the estimation method described in the previous one-view
+b Before we introduce the new method
+models. It remains to determine the homography H.
+for homography estimation, we reiterate the approach used in the previous models to
+explain why it does not apply in the current two-view model, which sheds some light on
+the modifications we need to make to adapt the previous method to this scenario.
+In the Improved Model approach, we project a chessboard pattern and detect the transformed chessboard corners in the camera image, as explained in Subsection 4.2.3. We
+then investigate the relationship between the original chessboard corners (in the projector image) and those detected in the camera image, and find the best homography HP C
+that transforms the original chessboard points to the camera points. The reason why this
+
+4. RESULTS
+
+56
+
+method can only be used to estimate the homographies A and B, but cannot be used
+b is that the previous approach considers the relationship
+to estimate the homography H
+b relates points between the
+of points between the projector and camera image, while H
+projector image and the original image (or the pre-anamorph).
+To address this issue, we introduce a new estimation approach, which allows us to solve
+for the best homographies AH −1 and BH −1 between the original image and the camera
+image. Because A and B are already known to us from the earlier steps of the program,
+we effectively solve for H −1 . To do this, we need a set of points in the original image,
+and a corresponding set of points in each camera image. The points on the original image
+are simply the original chessboard corners. The target points on each camera image are
+the same as the original chessboard points, up to scale and translation. This follows from
+the reasoning that when the original image is the pre-anamorph (i.e. the picture that we
+use to generate the final anamorphic image), our goal is for the cameras to see the same
+picture as the original image, up to scale and translation.
+To account for the location of the actual projection in each camera image, we find
+the new chessboard corners by performing a least squares minimization on the detected
+chessboard corners. In addition, we impose the following constraints on the new chessboard
+pattern:
+
+1. The number of rows and columns in the new pattern is the same as that of the
+original chessboard pattern.
+
+2. The chessboard corners are equally spaced.
+
+3. The grid lines of the new pattern are parallel to the x and y axes.
+
+The result of this method is presented in Figure 4.3.3
+
+4. RESULTS
+
+57
+
+(a) New chessboard pattern for Camera 1
+shown with red dots.
+
+(b) New chessboard pattern for Camera 2
+shown with red dots.
+
+Figure 4.3.3: New chessboard patterns.
+
+4.3.3
+
+Homography Estimation
+
+Due to the changes in the setup, the homography estimation method used in the previous models no longer applies. Therefore, we introduce a homography estimation method
+designed specifically for this model. While this technique bears some similarities to the
+previous method in that we continue to use the least squares minimization to find the
+b the function that we minimize on is significantly different. This
+optimal homography H,
+subsection provides a detailed explanation of the new homography estimation using the
+homogeneous least squares for the two view model.
+Let p0 , p1 , . . . , pn−1 be the chessboard corners in the original image. Let v0 , v1 , . . . , vn−1
+and w0 , w1 , . . . , wn−1 be the target chessboard corners in Camera 1 and Camera 2 respectively. The homography that maps points from the original image to a camera image is
+b −1 for Camera 1 and B H
+b −1 for Camera 2, where the entries of H
+b −1 are the unknowns.
+AH
+b −1 so that
+Let h00 , h01 , . . . , h22 be the entries of H
+
+b −1
+H
+
+
+
+h00 h01 h02
+= h10 h11 h12  .
+h20 h21 h22
+
+4. RESULTS
+
+58
+
+Without loss of generality, we assume that h22 = 1. By the homogeneous least squares
+described in Subsection 3.2.2, the error function E can be defined as:
+n−1
+X 
+
+2 
+ b −1
+
+AH pk − λk vk 
+
+E(h00 , h01 , . . . , h21 , λ0 , λ1 , . . . , λn−1 , µ0 , µ1 , . . . , µn−1 ) =
+
+k=0
+n−1
+X 
+
+2 
+ b −1
+
+B
+H
+p
+−
+µ
+w
+
+k
+k k
+
++
+
+k=0
+
+for some scaling variables λk corresponding to each target point vk in Camera 1, and µk
+corresponding to each target point wk in Camera 2. The scaling factors account for the
+fact that any multiple of a homogeneous point corresponds to the same point, and so
+b −1 pk and a multiple of vk , and the difference between
+taking the difference between AH
+b −1 pk and a multiple of wk gives a better estimate of the actual distance between these
+BH
+b −1 pk and unscaled vk .
+pairs of points than, for example taking the difference of AH
+
+
+
+
+ b −1
+
+ b −1
+
+Observe that AH
+pk − λk vk  and B H
+pk − µk wk  are of similar structure, which
+allows us to rewrite the error function in an equivalent but simpler form:
+E(X00 , X01 , . . . , X21 , σ0 , σ1 , . . . , σ2n−1 ) =
+
+2n−1
+X
+
+kAk Xbk − σk ck k2
+
+k=0
+
+b −1 , bk is pk−n , σk is λk or µk−n , and ck is vk or wk−n , depending
+where Ak is A or B, X is H
+on the value of k, as shown in Table 4.3.1.
+Ak
+
+X
+
+bk
+
+σk
+
+ck
+
+0≤k ≤n−1
+
+A
+
+b −1
+H
+
+pk
+
+λk
+
+vk
+
+n ≤ k ≤ 2n − 1
+
+B
+
+b −1
+H
+
+pk−n
+
+µk−n
+
+wk−n
+
+Table 4.3.1: The meaning of new variables Ak , X, bk , σk and ck .
+The goal of this section is to find (h00 , h01 , . . . , h21 , σ0 , σ1 , . . . , σ2n−1 ) that minimize the
+error function. As explained in Section 3.1, we find partial derivatives of E with respect to
+each variable, and solve a system of linear equations in which each partial derivative is zero.
+For simplicity, we perform the differentiation on the simple form of the error function. The
+
+4. RESULTS
+
+59
+
+solution to that system of equations is the vector (X00 , X01 , . . . , X21 , σ0 , σ1 , . . . , σ2n−1 ). In
+particular, the values X00 , X01 , . . . , X21 in the solution are the entries of the homography
+b −1 .
+matrix H
+The partial derivatives take two different forms depending on the variable with respect to
+which we differentiate. We distinguish these two types of variables: Xrs where 0 ≤ r, s ≤ 2,
+and σr where 0 ≤ r ≤ 2n − 1.
+The partial derivative of E with respect to Xrs for any r, s such that 0 ≤ r, s ≤ 2 is:
+
+2n−1
+∂ X
+kAk Xbk − σk ck k2
+∂Xrs
+k=0
+X
+=2
+(Ak Xbk − σk ck ) · (Ak Ers bk )
+
+(4.3.1)
+
+k
+
+=2
+
+XX
+
+=2
+
+XX
+
+k
+
+(4.3.2)
+
+((Ak Xbk )l − σk (ck )l ) ((Ak )lr (bk )s )
+
+(4.3.3)
+
+
+
+
+X
+
+(Ak )li Xij (bk )j  − σk (ck )l  ((Ak )lr (bk )s )
+
+(4.3.4)
+
+l
+
+k
+
+=2
+
+(Ak Xbk − σk ck )l (Ak Ers bk )l
+
+l
+
+XX
+k
+
+i,j
+
+l
+
+
+
+XXX
+XX
+= 2
+(Ak )li (bk )j (Ak )lr (bk )s Xij −
+(ck )l (Ak )lr (bk )s σk  .
+i,j
+
+k
+
+l
+
+k
+
+l
+
+The Ers in lines (4.3.1) and (4.3.2) of the derivation above is defined as a matrix with
+one at the position rs, and zero everywhere else. For aesthetic purposes we skip the bounds
+on the sums in the derivation above, and explain them here. The index iterator l results
+from taking the dot product of Ak Xbk − σk ck and Ak Ers bk , each of which are vectors of
+length 3, therefore 0 ≤ l ≤ 2. The index iterators i and j result from taking the lth entry
+of the product of Ak , X and bk . Since Ak and X are 3 × 3 matrices, and bk is a vector
+of length 3, it follows that 0 ≤ i, j ≤ 2. From (4.3.1) to (4.3.2), we use the fact that the
+P
+dot product of two vectors ~u and ~v is ~u · ~v = l ul vl . From (4.3.2) to (4.3.3) we use the
+
+4. RESULTS
+
+60
+
+following derivation:
+(Ak Ers bk )l = (Ak (Ers bk ))l
+
+
+= Ak (0, . . . , (bk )s , . . . , 0)T , where (bk )s is the rth entry
+l
+
+= (Ak )lr (bk )s .
+From (4.3.3) to (4.3.4) we use these two properties:
+(A~v )l =
+
+X
+
+Ali vi , and
+
+i
+
+
+(AB~v )l =
+
+X
+
+Ali (B~v )i =
+
+i
+
+X
+
+
+
+Ali
+
+i
+
+X
+
+Bij vj  =
+
+j
+
+X
+
+Ali Bij vj .
+
+ij
+
+We set this derivative to zero, and rearrange it so that the constant terms are on the
+right-hand side. Because X22 = 1, the term X22 and its coefficients are moved to the
+right-hand side:
+
+
+XXX
+XX
+2
+(Ak )li (bk )j (Ak )lr (bk )s Xij −
+(ck )l (Ak )lr (bk )s σk  = 0
+i,j
+
+k
+
+l
+
+k
+
+XXX
+i,j
+
+X
+
+k
+
+(Ak )li (bk )j (Ak )lr (bk )s Xij −
+
+l
+
+k
+
+XX
+
+(i,j)6=(2,2) k
+
+l
+
+XX
+
+(Ak )li (bk )j (Ak )lr (bk )s Xij −
+
+XX
+
+l
+
+k
+
+=
+
+XX
+k
+
+(ck )l (Ak )lr (bk )s σk = 0
+
+l
+
+(ck )l (Ak )lr (bk )s σk
+
+l
+
+(Ak )l2 (bk )2 (Ak )lr (bk )s .
+
+(4.3.5)
+
+l
+
+Converting the equation (4.3.5) back to the notation used in our initial setup of this
+model, we have the following equation:
+"
+#
+X
+XX
+Ali (pk )j Alr (pk )s + Bli (pk )j Blr (pk )s hij
+k
+
+(i,j)6=(2,2)
+
+l
+
+"
+
+#
+X X
+−
+(vk )l Alr (pk )s λk
+k
+
+l
+
+"
+
+#
+X X
+−
+(wk )l Blr (pk )s µk
+k
+
+=−
+
+l
+
+XX
+k
+
+l
+
+[Al2 (pk )2 Alr (pk )s + Bl2 (pk )2 Blr (pk )s ] .
+
+4. RESULTS
+
+61
+
+The partial derivative with respect to σr for any 0 ≤ r ≤ 2n − 1 is:
+2n−1
+∂ X
+kAk Xbk − σk ck k2
+∂σr
+k=0
+
+=
+
+∂
+kAr Xbr − σr cr k2
+∂σr
+
+= −2 (Ar Xbr − σr cr ) · cm
+= −2
+
+X
+
+(Ar Xbr − σr cr )l (cr )l
+
+l
+
+= −2
+
+X
+
+
+
+
+X
+
+(Ar )li Xij (br )j  − σr (cr )l  (cr )l
+i,j
+
+l
+
+
+
+XX
+X
+= −2 
+(Ar )li (br )j (cr )l Xij −
+(cr )2l σr  .
+i,j
+
+l
+
+l
+
+Notice that in the process of taking the derivative, the summation on k disappeared.
+∂
+∂σr
+
+This is because
+
+kAk Xbk − σk ck k2 = 0 for all k 6= r. We explain the limits on the
+
+summations above: l is the iterator in the dot product of Ar Xbr − σr cr and cm , both of
+which are vectors of length 3, so 0 ≤ l ≤ 2; i and j are iterators in taking the lth entry of
+the product of Ak , X and bk , and since Ak and X are 3 × 3 matrices and bk is a vector of
+length 3, it follows that 0 ≤ i, j ≤ 2.
+Again, we set the derivative to zero and bring the constant terms to the right-hand side:
+
+
+XX
+X
+−2 
+(Ar )li (br )j (cr )l Xij −
+(cr )2l σr  = 0
+i,j
+
+l
+
+l
+
+XX
+i,j
+
+(Ar )li (br )j (cr )l Xij −
+
+X
+
+(Ar )li (br )j (cr )l Xij −
+
+l
+
+l
+
+X
+
+X
+
+X
+
+(i,j)6=(2,2)
+
+l
+
+(cr )2l σr = 0
+σr (cr )2l =
+
+l
+
+X
+
+(Ar )l2 (br )2 (cr )l .
+
+(4.3.6)
+
+l
+
+Converting to the notation used in our initial setup of this model, we obtain two equations depending on the value r. When 0 ≤ r ≤ n − 1, σr = λr , and the equation (4.3.6) is
+#
+
+"
+X
+
+X
+
+(i,j)6=(2,2)
+
+l
+
+Ali (pr )j (vr )l hij −
+
+"
+X
+l
+
+#
+(vr )2l λr = −
+
+X
+l
+
+Al2 (pr )2 (vr )l .
+
+4. RESULTS
+
+62
+
+When n ≤ r ≤ 2n − 1, σr = µr−n and the equation (4.3.6) is
+"
+#
+"
+#
+X
+X
+X
+X
+Bli (pr−n )j (wr−n )l hij −
+Bl2 (pr−n )2 (wr−n )l .
+(wr−n )2l µr = −
+(i,j)6=(2,2)
+
+l
+
+l
+
+l
+
+We solve the resulting system of equations for the unknowns h00 , h01 , . . . , h21 , λ0 ,
+λ1 , . . . , λn−1 , µ0 , µ1 , . . . , µn−1 , where h00 , h01 , . . . , h21 and 1 are the entries of the homogb −1 .
+raphy H
+
+4.3.4
+
+Generating the Anamorphic Image
+
+To generate the anamorphic image, we perform the repositioning and resizing steps deb −1 to the prepared
+scribed in Subsection 4.2.4 in the Improved Model. We then apply the H
+pre-anamorph, which lies on the original image, to transform it into the anamorph on the
+projector image.
+Our initial attempts did not provide expected results prompting us to identify some
+potential shortcomings in our model. We tested the algorithm for homography estimation using the homogeneous least squares method on specific parameters to verify if the
+algorithm is correct. We compare the obtained test results with a parallel computation
+in Mathematica. The results of the tests suggest that the implementation works for parameters that can be expressed with few decimal digits, but does not give the expected
+solution for parameter with many decimal digits. This finding led us to consider the possibility of encountering ill-conditioned matrices, which are matrices in which the difference
+in between the smallest and largest entries is large, which causes the program to lose
+some accuracy when performing Gaussian elimination on those numbers. Further tests
+confirmed this conjecture as the condition number was between 4 and 10, which classifies
+the coefficient matrix in our model as ill-conditioned (a well-conditioned matrix has the
+condition number approximately 1).
+We attempted to address this problem by using the singular matrix decomposition.
+Despite some improvements in accuracy when calculating the homography on the test
+
+4. RESULTS
+
+63
+
+parameters, the problem of generating the anamorphic image remains unresolved. Due to
+the time constraints, we hope to look further into this issue in future research.
+
+5
+Future Work
+
+In this project we explore the mathematical concepts behind perspective planar anamorphosis, and develop models for generating the anamorphic images on planar surfaces for
+single and two-view model using a simple projector-camera system. We design and implement a homography estimation method using homogeneous least squares for the two-view
+model. However, we encounter some challenges that need to be addressed in the future.
+Some improvements include developing more accurate feature detection techniques, and
+solving the ill-conditioned matrices problem, which might improve the results of the twoview model.
+This project may serve as a basis for other research directions. One adaptation of the
+findings of this work is in keystone correction, which will take advantage of the modified
+setup in the improved model in Section 4.2. This project could be extended by including
+a real-time tracking of the viewer’s position to create a dynamic anamorphosis system.
+Another direction that could be taken is investigating anamorphosis for arbitrary surfaces,
+which could be done for example with adaptive structured lighting techniques. The topics
+studied in this project have a potential forother practical applications such as enhanc-
+
+5. FUTURE WORK
+
+65
+
+ing viewers’ experience by embedding projected images in performances such as plays or
+dance. To expand the scope of the applications of anamorphosis in performances, one
+could develop a model of anamorphosis for more than two viewers, which can ultimately
+be used to optimize the projection for a large audience. One way to address the large
+audience scenario is to build a synchronized system of multiple projectors, which can potentially generate more powerful and engaging images. A paper by Elodie presents another
+interesting approach to the subject of anamorphosis by considering the Renaissance art
+and investigating the way artists of that time dealt with perspective. [4] This approach
+may shed some light on how humans perceive the world, and cast some doubt on whether
+strictly following the perspective principles yields an image that is convincing to the human eye.
+
+Bibliography
+
+[1] R. E. Allardice, The Barycentric Calculus of Möbius, Proceedings of the Edinburgh
+Mathematical Society 10, 2–21.
+[2] Alessandro Brazzini and Carlo Colombo, Computer vision for interactive skewed video
+projection, Image Analysis and Processing–ICIAP 2005, 2005, pp. 139–146.
+[3] Wilhelm Burger and Mark J. Burge, Digital image processing: an algorithmic introduction using Java, Springer Science & Business Media, 2009.
+[4] Elodie Fourquet, Learning about shadows from artists, Proceedings of the Sixth international conference on Computational Aesthetics in Graphics, Visualization and
+Imaging, 2010, pp. 107–114.
+[5] Chris Harris and Mike Stephens, A combined corner and edge detector., Alvey vision
+conference 15 (1988), 50.
+[6] Richard Hartley and Andrew Zisserman, Multiple view geometry in computer vision,
+Cambridge University Press, 2003.
+[7] J. L. Hunt, BG Nickel, and Christian Gigault, Anamorphic images, American Journal
+of Physics 68 (2000), no. 3, 232–237.
+[8] Jean François Niceron, Perspective curieuse, JD Puis, 1992.
+[9] Robert Ravnik, Borut Batagelj, Bojan Kverh, and Franc Solina, Dynamic Anamorphosis as a Special, Computer-Generated User Interface, Interacting with Computers
+(2013), iwt027.
+[10] David Eugene Smith and Mansfield Merriman, History of modern mathematics, J.
+Wiley & Sons, 1896.
+[11] Franc Solina and Borut Batagelj, Dynamic anamorphosis (2007).
+[12] Rahul Sukthankar, Smarter presentations: Exploiting homography in camera-projector
+systems, Computer Vision, 2001. ICCV 2001. Proceedings. Eighth IEEE International
+Conference 1 (2001), 247–253.
+
+Bibliography
+
+67
+
+[13] Richard Szeliski, Computer vision: algorithms and applications, Springer Science &
+Business Media, 2010.
+[14] Carlo Tomasi and Jianbo Shi, Good features to track, CVPR94 600 (1994), 593–593.
+[15] OpenCV documentation, http://docs.opencv.org/.
+
+
